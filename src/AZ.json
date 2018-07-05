@@ -1,0 +1,454 @@
+{
+  "id": "AZ",
+  "country": "Azerbaijan",
+  "postal": {
+    "1010": {
+      "code": "1010",
+      "region": "Baki",
+      "city": "Baku",
+      "latitude": 40.37767,
+      "longitude": 49.89201
+    },
+    "1222": {
+      "code": "1222",
+      "region": "Baki",
+      "city": "Baku",
+      "latitude": 40.37767,
+      "longitude": 49.89201
+    },
+    "1240": {
+      "code": "1240",
+      "region": "Baki",
+      "city": "Baku",
+      "latitude": 40.37767,
+      "longitude": 49.89201
+    },
+    "2012": {
+      "code": "2012",
+      "region": "Baki",
+      "city": "Baku",
+      "latitude": 40.37767,
+      "longitude": 49.89201
+    },
+    "3166": {
+      "code": "3166",
+      "region": "Baki",
+      "city": "Baku",
+      "latitude": 40.37767,
+      "longitude": 49.89201
+    },
+    "AZ 0000": {
+      "code": "AZ 0000",
+      "region": "Sumqayit",
+      "city": "Sumqayit",
+      "latitude": 40.58972,
+      "longitude": 49.66861
+    },
+    "AZ 1151": {
+      "code": "AZ 1151",
+      "region": "Baki",
+      "city": "Baku",
+      "latitude": 40.37767,
+      "longitude": 49.89201
+    },
+    "AZ 5706": {
+      "code": "AZ 5706",
+      "region": "Samkir",
+      "city": "Shamkhor",
+      "latitude": 40.82972,
+      "longitude": 46.01889
+    },
+    "AZ 2024": {
+      "code": "AZ 2024",
+      "region": "Ganca",
+      "city": "Ganja",
+      "latitude": 40.68278,
+      "longitude": 46.36056
+    },
+    "AZ 5537": {
+      "code": "AZ 5537",
+      "region": "Saki",
+      "city": "Sheki",
+      "latitude": 41.19194,
+      "longitude": 47.17056
+    },
+    "AZ 0121": {
+      "code": "AZ 0121",
+      "region": "Abseron",
+      "city": "Saray",
+      "latitude": 40.53222,
+      "longitude": 49.71639
+    },
+    "AZ 2415": {
+      "code": "AZ 2415",
+      "region": "Haciqabul",
+      "city": "Mughan",
+      "latitude": 40.09902,
+      "longitude": 48.81886
+    },
+    "AZ 5429": {
+      "code": "AZ 5429",
+      "region": "Sirvan",
+      "city": "Zubovka",
+      "latitude": 39.93788,
+      "longitude": 48.92855
+    },
+    "AZ 0518": {
+      "code": "AZ 0518",
+      "region": "Agstafa",
+      "city": "Vurgun",
+      "latitude": 41.09423,
+      "longitude": 45.47162
+    },
+    "AZ 4413": {
+      "code": "AZ 4413",
+      "region": "Masalli",
+      "city": "Boradigah",
+      "latitude": 38.93389,
+      "longitude": 48.70375
+    },
+    "AZ 4511": {
+      "code": "AZ 4511",
+      "region": "Mingacevir",
+      "city": "Mingelchaur",
+      "latitude": 40.76395,
+      "longitude": 47.05953
+    },
+    "AZ 6301": {
+      "code": "AZ 6301",
+      "region": "Zardab",
+      "city": "Zardob",
+      "latitude": 40.21833,
+      "longitude": 47.70833
+    },
+    "AZ 0100": {
+      "code": "AZ 0100",
+      "region": "Baki",
+      "city": "Artyom",
+      "latitude": 40.47226,
+      "longitude": 50.33304
+    },
+    "AZ 3803": {
+      "code": "AZ 3803",
+      "region": "Qusar",
+      "city": "Qusar",
+      "latitude": 41.42728,
+      "longitude": 48.42893
+    },
+    "AZ 2717": {
+      "code": "AZ 2717",
+      "region": "Xacmaz",
+      "city": "Xacmaz",
+      "latitude": 41.46349,
+      "longitude": 48.80605
+    },
+    "AZ 6219": {
+      "code": "AZ 6219",
+      "region": "Zaqatala",
+      "city": "Zaqatala",
+      "latitude": 41.63361,
+      "longitude": 46.64333
+    },
+    "AZ 2412": {
+      "code": "AZ 2412",
+      "region": "Baki",
+      "city": "Qobustan",
+      "latitude": 40.08238,
+      "longitude": 49.41205
+    },
+    "AZ 3401": {
+      "code": "AZ 3401",
+      "region": "Qax",
+      "city": "Qax",
+      "latitude": 41.4225,
+      "longitude": 46.92417
+    },
+    "AZ 6900": {
+      "code": "AZ 6900",
+      "region": "Naxcivan",
+      "city": "Ordubad",
+      "latitude": 38.90595,
+      "longitude": 46.02341
+    },
+    "AZ 4448": {
+      "code": "AZ 4448",
+      "region": "Masalli",
+      "city": "Masally",
+      "latitude": 39.03532,
+      "longitude": 48.6654
+    },
+    "AZ 0833": {
+      "code": "AZ 0833",
+      "region": "Balakan",
+      "city": "Belokany",
+      "latitude": 41.72583,
+      "longitude": 46.40833
+    },
+    "AZ 4221": {
+      "code": "AZ 4221",
+      "region": "Lankaran",
+      "city": "Lankaran",
+      "latitude": 38.72262,
+      "longitude": 48.81466
+    },
+    "AZ 3000": {
+      "code": "AZ 3000",
+      "region": "Imisli",
+      "city": "Imishli",
+      "latitude": 39.87095,
+      "longitude": 48.05995
+    },
+    "AZ 4601": {
+      "code": "AZ 4601",
+      "region": "Naftalan",
+      "city": "Naftalan",
+      "latitude": 40.50667,
+      "longitude": 46.825
+    },
+    "AZ 0301": {
+      "code": "AZ 0301",
+      "region": "Agdas",
+      "city": "Agdas",
+      "latitude": 40.65,
+      "longitude": 47.47611
+    },
+    "AZ 4800": {
+      "code": "AZ 4800",
+      "region": "Oguz",
+      "city": "Oguz",
+      "latitude": 41.07083,
+      "longitude": 47.45833
+    },
+    "AZ 4922": {
+      "code": "AZ 4922",
+      "region": "Saatli",
+      "city": "Tel'mankend",
+      "latitude": 39.87867,
+      "longitude": 48.39902
+    },
+    "AZ 5200": {
+      "code": "AZ 5200",
+      "region": "Salyan",
+      "city": "Salyan",
+      "latitude": 39.59362,
+      "longitude": 48.98055
+    },
+    "AZ 5602": {
+      "code": "AZ 5602",
+      "region": "Samaxi",
+      "city": "Shamakhi",
+      "latitude": 40.63141,
+      "longitude": 48.64137
+    },
+    "AZ 0117": {
+      "code": "AZ 0117",
+      "region": "Abseron",
+      "city": "Qobu",
+      "latitude": 40.40472,
+      "longitude": 49.71306
+    },
+    "AZ 1216": {
+      "code": "AZ 1216",
+      "region": "Beylaqan",
+      "city": "Orconikidze",
+      "latitude": 39.63222,
+      "longitude": 47.69076
+    },
+    "AZ 8001": {
+      "code": "AZ 8001",
+      "region": "Xizi",
+      "city": "Suraabad",
+      "latitude": 40.81924,
+      "longitude": 49.46874
+    },
+    "AZ 0404": {
+      "code": "AZ 0404",
+      "region": "Agcabadi",
+      "city": "Agdzhabedy",
+      "latitude": 40.05278,
+      "longitude": 47.46139
+    },
+    "AZ 4027": {
+      "code": "AZ 4027",
+      "region": "Quba",
+      "city": "Quba",
+      "latitude": 41.36259,
+      "longitude": 48.51519
+    },
+    "AZ 6002": {
+      "code": "AZ 6002",
+      "region": "Tovuz",
+      "city": "Tovuz",
+      "latitude": 40.99222,
+      "longitude": 45.62889
+    },
+    "AZ 7012": {
+      "code": "AZ 7012",
+      "region": "Naxcivan",
+      "city": "Nakhchivan",
+      "latitude": 39.20889,
+      "longitude": 45.41222
+    },
+    "AZ 0112": {
+      "code": "AZ 0112",
+      "region": "Abseron",
+      "city": "Ceyranbatan",
+      "latitude": 40.54083,
+      "longitude": 49.65972
+    },
+    "AZ 3624": {
+      "code": "AZ 3624",
+      "region": "Qabala",
+      "city": "Qutqashen",
+      "latitude": 40.98139,
+      "longitude": 47.84583
+    },
+    "AZ 4725": {
+      "code": "AZ 4725",
+      "region": "Neftcala",
+      "city": "Neftcala",
+      "latitude": 39.37417,
+      "longitude": 49.24722
+    },
+    "AZ 0816": {
+      "code": "AZ 0816",
+      "region": "Balakan",
+      "city": "Qabaqcol",
+      "latitude": 41.72,
+      "longitude": 46.26472
+    },
+    "AZ 2232": {
+      "code": "AZ 2232",
+      "region": "Goranboy",
+      "city": "Goranboy",
+      "latitude": 40.61028,
+      "longitude": 46.78972
+    },
+    "AZ 5403": {
+      "code": "AZ 5403",
+      "region": "Sabirabad",
+      "city": "Sabirabad",
+      "latitude": 40.00946,
+      "longitude": 48.47515
+    },
+    "AZ 0912": {
+      "code": "AZ 0912",
+      "region": "Barda",
+      "city": "Barda",
+      "latitude": 40.37444,
+      "longitude": 47.12667
+    },
+    "AZ 0703": {
+      "code": "AZ 0703",
+      "region": "Astara",
+      "city": "Astara",
+      "latitude": 38.45598,
+      "longitude": 48.87498
+    },
+    "AZ 1600": {
+      "code": "AZ 1600",
+      "region": "Daskasan",
+      "city": "Verkhniy Dashkesan",
+      "latitude": 40.49228,
+      "longitude": 46.07137
+    },
+    "AZ 7200": {
+      "code": "AZ 7200",
+      "region": "Naxcivan",
+      "city": "Julfa",
+      "latitude": 38.9558,
+      "longitude": 45.6308
+    },
+    "AZ 1532": {
+      "code": "AZ 1532",
+      "region": "Calilabad",
+      "city": "Dzhalilabad",
+      "latitude": 39.20963,
+      "longitude": 48.49186
+    },
+    "AZ 7300": {
+      "code": "AZ 7300",
+      "region": "Naxcivan",
+      "city": "Sedarak",
+      "latitude": 39.71144,
+      "longitude": 44.88805
+    },
+    "AZ 6227": {
+      "code": "AZ 6227",
+      "region": "Zaqatala",
+      "city": "Aliabad",
+      "latitude": 41.48224,
+      "longitude": 46.63528
+    },
+    "AZ 5902": {
+      "code": "AZ 5902",
+      "region": "Tartar",
+      "city": "Terter",
+      "latitude": 40.345,
+      "longitude": 46.92889
+    },
+    "AZ 0601": {
+      "code": "AZ 0601",
+      "region": "Agsu",
+      "city": "Aghsu",
+      "latitude": 40.57028,
+      "longitude": 48.40087
+    },
+    "AZ 6612": {
+      "code": "AZ 6612",
+      "region": "Yevlax",
+      "city": "Yevlakh",
+      "latitude": 40.61832,
+      "longitude": 47.15014
+    },
+    "AZ 2303": {
+      "code": "AZ 2303",
+      "region": "Goycay",
+      "city": "Geoktschai",
+      "latitude": 40.65306,
+      "longitude": 47.74056
+    },
+    "AZ 5730": {
+      "code": "AZ 5730",
+      "region": "Samkir",
+      "city": "Dzagam",
+      "latitude": 40.9033,
+      "longitude": 45.88564
+    },
+    "AZ 0500": {
+      "code": "AZ 0500",
+      "region": "Agstafa",
+      "city": "Aghstafa",
+      "latitude": 41.11889,
+      "longitude": 45.45389
+    },
+    "AZ 3530": {
+      "code": "AZ 3530",
+      "region": "Qazax",
+      "city": "Qazax",
+      "latitude": 41.09333,
+      "longitude": 45.36611
+    },
+    "AZ 1514": {
+      "code": "AZ 1514",
+      "region": "Calilabad",
+      "city": "Prishibinskoye",
+      "latitude": 39.11958,
+      "longitude": 48.59361
+    },
+    "AZ 6500": {
+      "code": "AZ 6500",
+      "region": "Yardimli",
+      "city": "Yardimli",
+      "latitude": 38.92056,
+      "longitude": 48.23722
+    },
+    "AZ 6102": {
+      "code": "AZ 6102",
+      "region": "Ucar",
+      "city": "Ujar",
+      "latitude": 40.51902,
+      "longitude": 47.65423
+    }
+  }
+}
