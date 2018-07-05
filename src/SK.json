@@ -1,0 +1,1161 @@
+{
+  "id": "SK",
+  "country": "Slovakia",
+  "postal": {
+    "82108": {
+      "code": "82108",
+      "region": "Bratislavsky kraj",
+      "city": "Bratislava",
+      "latitude": 48.14816,
+      "longitude": 17.10674
+    },
+    "96112": {
+      "code": "96112",
+      "region": "Banskobystricky kraj",
+      "city": "Detva",
+      "latitude": 48.56082,
+      "longitude": 19.41954
+    },
+    "951 77": {
+      "code": "951 77",
+      "region": "Nitriansky kraj",
+      "city": "Zlate Moravce",
+      "latitude": 48.38553,
+      "longitude": 18.40063
+    },
+    "851 10": {
+      "code": "851 10",
+      "region": "Bratislavsky kraj",
+      "city": "Bratislava",
+      "latitude": 48.14816,
+      "longitude": 17.10674
+    },
+    "972 01": {
+      "code": "972 01",
+      "region": "Nitriansky kraj",
+      "city": "Bojnice",
+      "latitude": 48.78511,
+      "longitude": 18.5864
+    },
+    "082 71": {
+      "code": "082 71",
+      "region": "Presovsky kraj",
+      "city": "Lipany",
+      "latitude": 49.15376,
+      "longitude": 20.96382
+    },
+    "017 01": {
+      "code": "017 01",
+      "region": "Nitriansky kraj",
+      "city": "Povazska Bystrica",
+      "latitude": 49.12153,
+      "longitude": 18.42169
+    },
+    "949 11": {
+      "code": "949 11",
+      "region": "Nitriansky kraj",
+      "city": "Nitra",
+      "latitude": 48.30763,
+      "longitude": 18.08453
+    },
+    "921 01": {
+      "code": "921 01",
+      "region": "Trnavsky kraj",
+      "city": "Piestany",
+      "latitude": 48.59479,
+      "longitude": 17.82591
+    },
+    "972 71": {
+      "code": "972 71",
+      "region": "Nitriansky kraj",
+      "city": "Novaky",
+      "latitude": 48.71106,
+      "longitude": 18.53389
+    },
+    "080 01": {
+      "code": "080 01",
+      "region": "Presovsky kraj",
+      "city": "Presov",
+      "latitude": 48.99839,
+      "longitude": 21.23393
+    },
+    "044 54": {
+      "code": "044 54",
+      "region": "Kosicky kraj",
+      "city": "Kosice",
+      "latitude": 48.71395,
+      "longitude": 21.25808
+    },
+    "920 41": {
+      "code": "920 41",
+      "region": "Trnavsky kraj",
+      "city": "Leopoldov",
+      "latitude": 48.44575,
+      "longitude": 17.76458
+    },
+    "919 35": {
+      "code": "919 35",
+      "region": "Trnavsky kraj",
+      "city": "Trnava",
+      "latitude": 48.3774,
+      "longitude": 17.58723
+    },
+    "010 01": {
+      "code": "010 01",
+      "region": "Zilinsky kraj",
+      "city": "Zilina",
+      "latitude": 49.22315,
+      "longitude": 18.73941
+    },
+    "015 01": {
+      "code": "015 01",
+      "region": "Zilinsky kraj",
+      "city": "Rajec",
+      "latitude": 49.08898,
+      "longitude": 18.64007
+    },
+    "920 01": {
+      "code": "920 01",
+      "region": "Trnavsky kraj",
+      "city": "Hlohovec",
+      "latitude": 48.43174,
+      "longitude": 17.8031
+    },
+    "963 01": {
+      "code": "963 01",
+      "region": "Banskobystricky kraj",
+      "city": "Krupina",
+      "latitude": 48.3554,
+      "longitude": 19.06474
+    },
+    "960 01": {
+      "code": "960 01",
+      "region": "Banskobystricky kraj",
+      "city": "Zvolen",
+      "latitude": 48.57442,
+      "longitude": 19.15324
+    },
+    "974 01": {
+      "code": "974 01",
+      "region": "Banskobystricky kraj",
+      "city": "Banska Bystrica",
+      "latitude": 48.73946,
+      "longitude": 19.15349
+    },
+    "": {
+      "code": "",
+      "region": "",
+      "city": "",
+      "latitude": 48.14816,
+      "longitude": 17.10674
+    },
+    "022 04": {
+      "code": "022 04",
+      "region": "Zilinsky kraj",
+      "city": "Cadca",
+      "latitude": 49.43503,
+      "longitude": 18.78895
+    },
+    "977 01": {
+      "code": "977 01",
+      "region": "Banskobystricky kraj",
+      "city": "Brezno",
+      "latitude": 48.80431,
+      "longitude": 19.63631
+    },
+    "064 01": {
+      "code": "064 01",
+      "region": "Presovsky kraj",
+      "city": "Stara lubovna",
+      "latitude": 49.29859,
+      "longitude": 20.6862
+    },
+    "946 51": {
+      "code": "946 51",
+      "region": "Nitriansky kraj",
+      "city": "Nove Zamky",
+      "latitude": 47.98544,
+      "longitude": 18.16195
+    },
+    "019 01": {
+      "code": "019 01",
+      "region": "Nitriansky kraj",
+      "city": "Ilava",
+      "latitude": 48.99769,
+      "longitude": 18.2353
+    },
+    "965 01": {
+      "code": "965 01",
+      "region": "Banskobystricky kraj",
+      "city": "Ziar nad Hronom",
+      "latitude": 48.59184,
+      "longitude": 18.84958
+    },
+    "071 01": {
+      "code": "071 01",
+      "region": "Kosicky kraj",
+      "city": "Michalovce",
+      "latitude": 48.75434,
+      "longitude": 21.9195
+    },
+    "073 01": {
+      "code": "073 01",
+      "region": "Kosicky kraj",
+      "city": "Sobrance",
+      "latitude": 48.74455,
+      "longitude": 22.18136
+    },
+    "066 01": {
+      "code": "066 01",
+      "region": "Presovsky kraj",
+      "city": "Humenne",
+      "latitude": 48.93707,
+      "longitude": 21.91625
+    },
+    "023 54": {
+      "code": "023 54",
+      "region": "Zilinsky kraj",
+      "city": "Turzovka",
+      "latitude": 49.40429,
+      "longitude": 18.62258
+    },
+    "036 01": {
+      "code": "036 01",
+      "region": "Zilinsky kraj",
+      "city": "Martin",
+      "latitude": 49.06651,
+      "longitude": 18.92399
+    },
+    "919 34": {
+      "code": "919 34",
+      "region": "Trnavsky kraj",
+      "city": "Trnava",
+      "latitude": 48.3774,
+      "longitude": 17.58723
+    },
+    "925 22": {
+      "code": "925 22",
+      "region": "Trnavsky kraj",
+      "city": "Sladkovicovo",
+      "latitude": 48.20137,
+      "longitude": 17.63852
+    },
+    "072 22": {
+      "code": "072 22",
+      "region": "Kosicky kraj",
+      "city": "Strazske",
+      "latitude": 48.8735,
+      "longitude": 21.83668
+    },
+    "093 01": {
+      "code": "093 01",
+      "region": "Presovsky kraj",
+      "city": "Vranov nad Topl'ou",
+      "latitude": 48.88836,
+      "longitude": 21.68479
+    },
+    "911 05": {
+      "code": "911 05",
+      "region": "Trenciansky kraj",
+      "city": "Trencin",
+      "latitude": 48.89452,
+      "longitude": 18.04436
+    },
+    "929 01": {
+      "code": "929 01",
+      "region": "Trnavsky kraj",
+      "city": "Dunajska Streda",
+      "latitude": 47.99268,
+      "longitude": 17.61211
+    },
+    "906 05": {
+      "code": "906 05",
+      "region": "Banskobystricky kraj",
+      "city": "Zvolen",
+      "latitude": 48.57442,
+      "longitude": 19.15324
+    },
+    "919 04": {
+      "code": "919 04",
+      "region": "Trnavsky kraj",
+      "city": "Smolenice",
+      "latitude": 48.50478,
+      "longitude": 17.43067
+    },
+    "034 05": {
+      "code": "034 05",
+      "region": "Zilinsky kraj",
+      "city": "Ruzomberok",
+      "latitude": 49.0748,
+      "longitude": 19.30751
+    },
+    "058 01": {
+      "code": "058 01",
+      "region": "Presovsky kraj",
+      "city": "Poprad",
+      "latitude": 49.06144,
+      "longitude": 20.29798
+    },
+    "059 81": {
+      "code": "059 81",
+      "region": "Presovsky kraj",
+      "city": "Vysoke Tatry",
+      "latitude": 49.13637,
+      "longitude": 20.24386
+    },
+    "059 38": {
+      "code": "059 38",
+      "region": "Presovsky kraj",
+      "city": "Strba",
+      "latitude": 49.05913,
+      "longitude": 20.07975
+    },
+    "060 01": {
+      "code": "060 01",
+      "region": "Presovsky kraj",
+      "city": "Kezmarok",
+      "latitude": 49.1357,
+      "longitude": 20.43352
+    },
+    "952 01": {
+      "code": "952 01",
+      "region": "Nitriansky kraj",
+      "city": "Vrable",
+      "latitude": 48.24371,
+      "longitude": 18.30846
+    },
+    "967 01": {
+      "code": "967 01",
+      "region": "Banskobystricky kraj",
+      "city": "Kremnica",
+      "latitude": 48.70519,
+      "longitude": 18.91834
+    },
+    "962 12": {
+      "code": "962 12",
+      "region": "Banskobystricky kraj",
+      "city": "Detva",
+      "latitude": 48.56082,
+      "longitude": 19.41954
+    },
+    "924 01": {
+      "code": "924 01",
+      "region": "Trnavsky kraj",
+      "city": "Galanta",
+      "latitude": 48.19001,
+      "longitude": 17.72747
+    },
+    "050 01": {
+      "code": "050 01",
+      "region": "Banskobystricky kraj",
+      "city": "Revuca",
+      "latitude": 48.68346,
+      "longitude": 20.11734
+    },
+    "914 51": {
+      "code": "914 51",
+      "region": "Nitriansky kraj",
+      "city": "Trencianske Teplice",
+      "latitude": 48.91063,
+      "longitude": 18.16691
+    },
+    "018 41": {
+      "code": "018 41",
+      "region": "Nitriansky kraj",
+      "city": "Dubnica nad Vahom",
+      "latitude": 48.95981,
+      "longitude": 18.16634
+    },
+    "945 01": {
+      "code": "945 01",
+      "region": "Nitriansky kraj",
+      "city": "Komarno",
+      "latitude": 47.76356,
+      "longitude": 18.12263
+    },
+    "920 03": {
+      "code": "920 03",
+      "region": "Trnavsky kraj",
+      "city": "Hlohovec",
+      "latitude": 48.43174,
+      "longitude": 17.8031
+    },
+    "908 45": {
+      "code": "908 45",
+      "region": "Trnavsky kraj",
+      "city": "Gbely",
+      "latitude": 48.718,
+      "longitude": 17.11628
+    },
+    "931 01": {
+      "code": "931 01",
+      "region": "Trnavsky kraj",
+      "city": "Samorin",
+      "latitude": 48.03015,
+      "longitude": 17.30972
+    },
+    "957 01": {
+      "code": "957 01",
+      "region": "Nitriansky kraj",
+      "city": "Banovce nad Bebravou",
+      "latitude": 48.7213,
+      "longitude": 18.25754
+    },
+    "958 03": {
+      "code": "958 03",
+      "region": "Nitriansky kraj",
+      "city": "Partizanske",
+      "latitude": 48.62861,
+      "longitude": 18.38456
+    },
+    "971 01": {
+      "code": "971 01",
+      "region": "Nitriansky kraj",
+      "city": "Prievidza",
+      "latitude": 48.77446,
+      "longitude": 18.6275
+    },
+    "029 01": {
+      "code": "029 01",
+      "region": "Zilinsky kraj",
+      "city": "Namestovo",
+      "latitude": 49.4079,
+      "longitude": 19.48032
+    },
+    "044 25": {
+      "code": "044 25",
+      "region": "Kosicky kraj",
+      "city": "Medzev",
+      "latitude": 48.70041,
+      "longitude": 20.89367
+    },
+    "987 01": {
+      "code": "987 01",
+      "region": "Banskobystricky kraj",
+      "city": "Poltar",
+      "latitude": 48.43094,
+      "longitude": 19.79408
+    },
+    "937 01": {
+      "code": "937 01",
+      "region": "Nitriansky kraj",
+      "city": "Zeliezovce",
+      "latitude": 48.05075,
+      "longitude": 18.65421
+    },
+    "969 01": {
+      "code": "969 01",
+      "region": "Banskobystricky kraj",
+      "city": "Banska Stiavnica",
+      "latitude": 48.44858,
+      "longitude": 18.91003
+    },
+    "048 01": {
+      "code": "048 01",
+      "region": "Kosicky kraj",
+      "city": "Roznava",
+      "latitude": 48.66008,
+      "longitude": 20.53758
+    },
+    "935 29": {
+      "code": "935 29",
+      "region": "Nitriansky kraj",
+      "city": "Levice",
+      "latitude": 48.21563,
+      "longitude": 18.60705
+    },
+    "915 01": {
+      "code": "915 01",
+      "region": "Trenciansky kraj",
+      "city": "Nove Mesto nad Vahom",
+      "latitude": 48.75763,
+      "longitude": 17.8309
+    },
+    "932 01": {
+      "code": "932 01",
+      "region": "Trnavsky kraj",
+      "city": "Vel'ky Meder",
+      "latitude": 47.85798,
+      "longitude": 17.76884
+    },
+    "925 21": {
+      "code": "925 21",
+      "region": "Trnavsky kraj",
+      "city": "Sladkovicovo",
+      "latitude": 48.20137,
+      "longitude": 17.63852
+    },
+    "068 01": {
+      "code": "068 01",
+      "region": "Presovsky kraj",
+      "city": "Medzilaborce",
+      "latitude": 49.27195,
+      "longitude": 21.90073
+    },
+    "905 01": {
+      "code": "905 01",
+      "region": "Trnavsky kraj",
+      "city": "Senica",
+      "latitude": 48.67922,
+      "longitude": 17.36697
+    },
+    "942 01": {
+      "code": "942 01",
+      "region": "Nitriansky kraj",
+      "city": "Surany",
+      "latitude": 48.08613,
+      "longitude": 18.18447
+    },
+    "045 01": {
+      "code": "045 01",
+      "region": "Kosicky kraj",
+      "city": "Moldava nad Bodvou",
+      "latitude": 48.61428,
+      "longitude": 20.99957
+    },
+    "065 03": {
+      "code": "065 03",
+      "region": "Presovsky kraj",
+      "city": "Podolinec",
+      "latitude": 49.25869,
+      "longitude": 20.536
+    },
+    "059 86": {
+      "code": "059 86",
+      "region": "Presovsky kraj",
+      "city": "Nova Lesna",
+      "latitude": 49.12253,
+      "longitude": 20.26737
+    },
+    "078 01": {
+      "code": "078 01",
+      "region": "Kosicky kraj",
+      "city": "Secovce",
+      "latitude": 48.70074,
+      "longitude": 21.66104
+    },
+    "085 01": {
+      "code": "085 01",
+      "region": "Presovsky kraj",
+      "city": "Bardejov",
+      "latitude": 49.29175,
+      "longitude": 21.27271
+    },
+    "936 01": {
+      "code": "936 01",
+      "region": "Nitriansky kraj",
+      "city": "Sahy",
+      "latitude": 48.07408,
+      "longitude": 18.94946
+    },
+    "980 61": {
+      "code": "980 61",
+      "region": "Banskobystricky kraj",
+      "city": "Tisovec",
+      "latitude": 48.67738,
+      "longitude": 19.94364
+    },
+    "968 01": {
+      "code": "968 01",
+      "region": "Banskobystricky kraj",
+      "city": "Nova Bana",
+      "latitude": 48.42305,
+      "longitude": 18.64037
+    },
+    "953 05": {
+      "code": "953 05",
+      "region": "Nitriansky kraj",
+      "city": "Zlate Moravce",
+      "latitude": 48.38553,
+      "longitude": 18.40063
+    },
+    "091 01": {
+      "code": "091 01",
+      "region": "Presovsky kraj",
+      "city": "Stropkov",
+      "latitude": 49.20211,
+      "longitude": 21.65216
+    },
+    "076 43": {
+      "code": "076 43",
+      "region": "Kosicky kraj",
+      "city": "Cierna nad Tisou",
+      "latitude": 48.41704,
+      "longitude": 22.08865
+    },
+    "056 01": {
+      "code": "056 01",
+      "region": "Kosicky kraj",
+      "city": "Gelnica",
+      "latitude": 48.85584,
+      "longitude": 20.93712
+    },
+    "072 31": {
+      "code": "072 31",
+      "region": "Kosicky kraj",
+      "city": "Vinne",
+      "latitude": 48.80965,
+      "longitude": 21.96757
+    },
+    "053 42": {
+      "code": "053 42",
+      "region": "Kosicky kraj",
+      "city": "Krompachy",
+      "latitude": 48.91447,
+      "longitude": 20.87514
+    },
+    "053 01": {
+      "code": "053 01",
+      "region": "Kosicky kraj",
+      "city": "Spisska Nova Ves",
+      "latitude": 48.94464,
+      "longitude": 20.56154
+    },
+    "972 51": {
+      "code": "972 51",
+      "region": "Nitriansky kraj",
+      "city": "Handlova",
+      "latitude": 48.7276,
+      "longitude": 18.76012
+    },
+    "927 05": {
+      "code": "927 05",
+      "region": "Nitriansky kraj",
+      "city": "Sellye",
+      "latitude": 48.15127,
+      "longitude": 17.88062
+    },
+    "943 54": {
+      "code": "943 54",
+      "region": "Nitriansky kraj",
+      "city": "Svodin",
+      "latitude": 47.91054,
+      "longitude": 18.49967
+    },
+    "966 81": {
+      "code": "966 81",
+      "region": "Banskobystricky kraj",
+      "city": "Zarnovica",
+      "latitude": 48.48124,
+      "longitude": 18.71565
+    },
+    "985 59": {
+      "code": "985 59",
+      "region": "Banskobystricky kraj",
+      "city": "Lucenec",
+      "latitude": 48.33249,
+      "longitude": 19.66708
+    },
+    "049 25": {
+      "code": "049 25",
+      "region": "Kosicky kraj",
+      "city": "Dobsina",
+      "latitude": 48.82073,
+      "longitude": 20.36988
+    },
+    "032 31": {
+      "code": "032 31",
+      "region": "Zilinsky kraj",
+      "city": "Hybe",
+      "latitude": 49.04439,
+      "longitude": 19.82895
+    },
+    "914 41": {
+      "code": "914 41",
+      "region": "Nitriansky kraj",
+      "city": "Nemsova",
+      "latitude": 48.96702,
+      "longitude": 18.11892
+    },
+    "020 01": {
+      "code": "020 01",
+      "region": "Nitriansky kraj",
+      "city": "Puchov",
+      "latitude": 49.12494,
+      "longitude": 18.32596
+    },
+    "014 01": {
+      "code": "014 01",
+      "region": "Zilinsky kraj",
+      "city": "Bytca",
+      "latitude": 49.22404,
+      "longitude": 18.55878
+    },
+    "010 03": {
+      "code": "010 03",
+      "region": "Zilinsky kraj",
+      "city": "Zilina",
+      "latitude": 49.22315,
+      "longitude": 18.73941
+    },
+    "032 51": {
+      "code": "032 51",
+      "region": "Zilinsky kraj",
+      "city": "Liptovsky Mikulas",
+      "latitude": 49.08061,
+      "longitude": 19.62218
+    },
+    "026 01": {
+      "code": "026 01",
+      "region": "Zilinsky kraj",
+      "city": "Dolny Kubin",
+      "latitude": 49.20983,
+      "longitude": 19.30341
+    },
+    "916 01": {
+      "code": "916 01",
+      "region": "Nitriansky kraj",
+      "city": "Stara Tura",
+      "latitude": 48.77721,
+      "longitude": 17.69433
+    },
+    "059 71": {
+      "code": "059 71",
+      "region": "Presovsky kraj",
+      "city": "Lubica",
+      "latitude": 49.11667,
+      "longitude": 20.45
+    },
+    "059 21": {
+      "code": "059 21",
+      "region": "Presovsky kraj",
+      "city": "Svit",
+      "latitude": 49.06014,
+      "longitude": 20.20695
+    },
+    "962 05": {
+      "code": "962 05",
+      "region": "Banskobystricky kraj",
+      "city": "Hrinova",
+      "latitude": 48.57787,
+      "longitude": 19.52574
+    },
+    "029 57": {
+      "code": "029 57",
+      "region": "Zilinsky kraj",
+      "city": "Oravska Lesna",
+      "latitude": 49.36672,
+      "longitude": 19.18093
+    },
+    "033 01": {
+      "code": "033 01",
+      "region": "Zilinsky kraj",
+      "city": "Liptovsky Hradok",
+      "latitude": 49.03962,
+      "longitude": 19.72335
+    },
+    "083 01": {
+      "code": "083 01",
+      "region": "Presovsky kraj",
+      "city": "Sabinov",
+      "latitude": 49.10308,
+      "longitude": 21.0988
+    },
+    "979 01": {
+      "code": "979 01",
+      "region": "Banskobystricky kraj",
+      "city": "Rimavska Sobota",
+      "latitude": 48.38284,
+      "longitude": 20.0224
+    },
+    "922 03": {
+      "code": "922 03",
+      "region": "Trnavsky kraj",
+      "city": "Vrbove",
+      "latitude": 48.61973,
+      "longitude": 17.7226
+    },
+    "018 51": {
+      "code": "018 51",
+      "region": "Trenciansky kraj",
+      "city": "Nova Dubnica",
+      "latitude": 48.93479,
+      "longitude": 18.14632
+    },
+    "955 01": {
+      "code": "955 01",
+      "region": "Nitriansky kraj",
+      "city": "Banovce nad Bebravou",
+      "latitude": 48.7213,
+      "longitude": 18.25754
+    },
+    "935 21": {
+      "code": "935 21",
+      "region": "Nitriansky kraj",
+      "city": "Tlmace",
+      "latitude": 48.28926,
+      "longitude": 18.53152
+    },
+    "069 01": {
+      "code": "069 01",
+      "region": "Presovsky kraj",
+      "city": "Snina",
+      "latitude": 48.98857,
+      "longitude": 22.15099
+    },
+    "902 03": {
+      "code": "902 03",
+      "region": "Bratislavsky kraj",
+      "city": "Pezinok",
+      "latitude": 48.28986,
+      "longitude": 17.26664
+    },
+    "075 01": {
+      "code": "075 01",
+      "region": "Kosicky kraj",
+      "city": "Trebisov",
+      "latitude": 48.62858,
+      "longitude": 21.71954
+    },
+    "916 42": {
+      "code": "916 42",
+      "region": "Trenciansky kraj",
+      "city": "Myjava",
+      "latitude": 48.75876,
+      "longitude": 17.56866
+    },
+    "906 13": {
+      "code": "906 13",
+      "region": "Nitriansky kraj",
+      "city": "Brezova pod Bradlom",
+      "latitude": 48.6635,
+      "longitude": 17.53904
+    },
+    "040 01": {
+      "code": "040 01",
+      "region": "Kosicky kraj",
+      "city": "Kosice",
+      "latitude": 48.71395,
+      "longitude": 21.25808
+    },
+    "943 60": {
+      "code": "943 60",
+      "region": "Nitriansky kraj",
+      "city": "Sturovo",
+      "latitude": 47.79495,
+      "longitude": 18.7175
+    },
+    "941 21": {
+      "code": "941 21",
+      "region": "Bratislavsky kraj",
+      "city": "Bratislava",
+      "latitude": 48.14816,
+      "longitude": 17.10674
+    },
+    "949 01": {
+      "code": "949 01",
+      "region": "Nitriansky kraj",
+      "city": "Nitra",
+      "latitude": 48.30763,
+      "longitude": 18.08453
+    },
+    "927 01": {
+      "code": "927 01",
+      "region": "Bratislavsky kraj",
+      "city": "Bratislava",
+      "latitude": 48.14816,
+      "longitude": 17.10674
+    },
+    "054 01": {
+      "code": "054 01",
+      "region": "Presovsky kraj",
+      "city": "Levoca",
+      "latitude": 49.02173,
+      "longitude": 20.59212
+    },
+    "903 01": {
+      "code": "903 01",
+      "region": "Bratislavsky kraj",
+      "city": "Senec",
+      "latitude": 48.21951,
+      "longitude": 17.40043
+    },
+    "087 01": {
+      "code": "087 01",
+      "region": "Presovsky kraj",
+      "city": "Giraltovce",
+      "latitude": 49.11398,
+      "longitude": 21.51731
+    },
+    "901 01": {
+      "code": "901 01",
+      "region": "Bratislavsky kraj",
+      "city": "Malacky",
+      "latitude": 48.43604,
+      "longitude": 17.02188
+    },
+    "946 03": {
+      "code": "946 03",
+      "region": "Nitriansky kraj",
+      "city": "Kolarovo",
+      "latitude": 47.92294,
+      "longitude": 17.98467
+    },
+    "053 04": {
+      "code": "053 04",
+      "region": "Presovsky kraj",
+      "city": "Spisske Podhradie",
+      "latitude": 49.00088,
+      "longitude": 20.75307
+    },
+    "089 01": {
+      "code": "089 01",
+      "region": "Presovsky kraj",
+      "city": "Svidnik",
+      "latitude": 49.30819,
+      "longitude": 21.5703
+    },
+    "947 03": {
+      "code": "947 03",
+      "region": "Nitriansky kraj",
+      "city": "Hurbanovo",
+      "latitude": 47.86984,
+      "longitude": 18.19233
+    },
+    "059 55": {
+      "code": "059 55",
+      "region": "Presovsky kraj",
+      "city": "Zdiar",
+      "latitude": 49.271,
+      "longitude": 20.26239
+    },
+    "951 15": {
+      "code": "951 15",
+      "region": "Nitriansky kraj",
+      "city": "Nitra",
+      "latitude": 48.30763,
+      "longitude": 18.08453
+    },
+    "940 01": {
+      "code": "940 01",
+      "region": "Nitriansky kraj",
+      "city": "Nove Zamky",
+      "latitude": 47.98544,
+      "longitude": 18.16195
+    },
+    "023 57": {
+      "code": "023 57",
+      "region": "Zilinsky kraj",
+      "city": "Turzovka",
+      "latitude": 49.40429,
+      "longitude": 18.62258
+    },
+    "941 31": {
+      "code": "941 31",
+      "region": "Nitriansky kraj",
+      "city": "Surany",
+      "latitude": 48.08613,
+      "longitude": 18.18447
+    },
+    "040 11": {
+      "code": "040 11",
+      "region": "Kosicky kraj",
+      "city": "Kosice",
+      "latitude": 48.71395,
+      "longitude": 21.25808
+    },
+    "985 54": {
+      "code": "985 54",
+      "region": "Banskobystricky kraj",
+      "city": "Lucenec",
+      "latitude": 48.33249,
+      "longitude": 19.66708
+    },
+    "930 39": {
+      "code": "930 39",
+      "region": "Bratislavsky kraj",
+      "city": "Senec",
+      "latitude": 48.21951,
+      "longitude": 17.40043
+    },
+    "907 01": {
+      "code": "907 01",
+      "region": "Trenciansky kraj",
+      "city": "Myjava",
+      "latitude": 48.75876,
+      "longitude": 17.56866
+    },
+    "027 44": {
+      "code": "027 44",
+      "region": "Zilinsky kraj",
+      "city": "Tvrdosin",
+      "latitude": 49.337,
+      "longitude": 19.556
+    },
+    "916 21": {
+      "code": "916 21",
+      "region": "Nitriansky kraj",
+      "city": "Cachtice",
+      "latitude": 48.71226,
+      "longitude": 17.78704
+    },
+    "976 81": {
+      "code": "976 81",
+      "region": "Trnavsky kraj",
+      "city": "Skalica",
+      "latitude": 48.8449,
+      "longitude": 17.22635
+    },
+    "059 01": {
+      "code": "059 01",
+      "region": "Presovsky kraj",
+      "city": "Spisska Bela",
+      "latitude": 49.18725,
+      "longitude": 20.45948
+    },
+    "067 41": {
+      "code": "067 41",
+      "region": "Presovsky kraj",
+      "city": "Chlmec",
+      "latitude": 48.88628,
+      "longitude": 21.9393
+    },
+    "053 61": {
+      "code": "053 61",
+      "region": "Presovsky kraj",
+      "city": "Spisske Podhradie",
+      "latitude": 49.00088,
+      "longitude": 20.75307
+    },
+    "080 06": {
+      "code": "080 06",
+      "region": "Presovsky kraj",
+      "city": "Presov",
+      "latitude": 48.99839,
+      "longitude": 21.23393
+    },
+    "925 51": {
+      "code": "925 51",
+      "region": "Trnavsky kraj",
+      "city": "Galanta",
+      "latitude": 48.19001,
+      "longitude": 17.72747
+    },
+    "956 05": {
+      "code": "956 05",
+      "region": "Trnavsky kraj",
+      "city": "Piestany",
+      "latitude": 48.59479,
+      "longitude": 17.82591
+    },
+    "908 51": {
+      "code": "908 51",
+      "region": "Trnavsky kraj",
+      "city": "Holic",
+      "latitude": 48.81105,
+      "longitude": 17.16238
+    },
+    "034 01": {
+      "code": "034 01",
+      "region": "Zilinsky kraj",
+      "city": "Liptovsky Mikulas",
+      "latitude": 49.08061,
+      "longitude": 19.62218
+    },
+    "900 21": {
+      "code": "900 21",
+      "region": "Bratislavsky kraj",
+      "city": "Svaty Jur",
+      "latitude": 48.25216,
+      "longitude": 17.21539
+    },
+    "919 43": {
+      "code": "919 43",
+      "region": "Trnavsky kraj",
+      "city": "Trnava",
+      "latitude": 48.3774,
+      "longitude": 17.58723
+    },
+    "986 01": {
+      "code": "986 01",
+      "region": "Banskobystricky kraj",
+      "city": "Fil'akovo",
+      "latitude": 48.26757,
+      "longitude": 19.82473
+    },
+    "821 06": {
+      "code": "821 06",
+      "region": "Bratislavsky kraj",
+      "city": "Bratislava",
+      "latitude": 48.14816,
+      "longitude": 17.10674
+    },
+    "076 15": {
+      "code": "076 15",
+      "region": "Kosicky kraj",
+      "city": "Trebisov",
+      "latitude": 48.62858,
+      "longitude": 21.71954
+    },
+    "031 01": {
+      "code": "031 01",
+      "region": "Zilinsky kraj",
+      "city": "Liptovsky Mikulas",
+      "latitude": 49.08061,
+      "longitude": 19.62218
+    },
+    "900 68": {
+      "code": "900 68",
+      "region": "Bratislavsky kraj",
+      "city": "Malacky",
+      "latitude": 48.43604,
+      "longitude": 17.02188
+    },
+    "059 60": {
+      "code": "059 60",
+      "region": "Presovsky kraj",
+      "city": "Vysoke Tatry",
+      "latitude": 49.13637,
+      "longitude": 20.24386
+    },
+    "911 01": {
+      "code": "911 01",
+      "region": "Trenciansky kraj",
+      "city": "Trencin",
+      "latitude": 48.89452,
+      "longitude": 18.04436
+    },
+    "052 01": {
+      "code": "052 01",
+      "region": "Kosicky kraj",
+      "city": "Spisska Nova Ves",
+      "latitude": 48.94464,
+      "longitude": 20.56154
+    },
+    "065 02": {
+      "code": "065 02",
+      "region": "Presovsky kraj",
+      "city": "Vysne Ruzbachy",
+      "latitude": 49.30387,
+      "longitude": 20.56558
+    },
+    "972 28": {
+      "code": "972 28",
+      "region": "Bratislavsky kraj",
+      "city": "Bratislava",
+      "latitude": 48.14816,
+      "longitude": 17.10674
+    },
+    "031 05": {
+      "code": "031 05",
+      "region": "Zilinsky kraj",
+      "city": "Liptovsky Mikulas",
+      "latitude": 49.08061,
+      "longitude": 19.62218
+    },
+    "086 45": {
+      "code": "086 45",
+      "region": "Zilinsky kraj",
+      "city": "Kysucke Nove Mesto",
+      "latitude": 49.3,
+      "longitude": 18.78333
+    },
+    "028 01": {
+      "code": "028 01",
+      "region": "Zilinsky kraj",
+      "city": "Trstena",
+      "latitude": 49.36101,
+      "longitude": 19.61249
+    }
+  }
+}
