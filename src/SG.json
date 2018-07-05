@@ -1,0 +1,2855 @@
+{
+  "id": "SG",
+  "country": "Singapore",
+  "postal": {
+    "109918": {
+      "code": "109918",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "117438": {
+      "code": "117438",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "117440": {
+      "code": "117440",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "117528": {
+      "code": "117528",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "117543": {
+      "code": "117543",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "117586": {
+      "code": "117586",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "117611": {
+      "code": "117611",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "117612": {
+      "code": "117612",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "117684": {
+      "code": "117684",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "117685": {
+      "code": "117685",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "118229": {
+      "code": "118229",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "118253": {
+      "code": "118253",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "118256": {
+      "code": "118256",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "118259": {
+      "code": "118259",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "118261": {
+      "code": "118261",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "119613": {
+      "code": "119613",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "119614": {
+      "code": "119614",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "119619": {
+      "code": "119619",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "119954": {
+      "code": "119954",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "119958": {
+      "code": "119958",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "119963": {
+      "code": "119963",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "119968": {
+      "code": "119968",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "127157": {
+      "code": "127157",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "128408": {
+      "code": "128408",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "128420": {
+      "code": "128420",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "128467": {
+      "code": "128467",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "129814": {
+      "code": "129814",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "129816": {
+      "code": "129816",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "138502": {
+      "code": "138502",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "138542": {
+      "code": "138542",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "138588": {
+      "code": "138588",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "138628": {
+      "code": "138628",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "138632": {
+      "code": "138632",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "138673": {
+      "code": "138673",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "138676": {
+      "code": "138676",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "138683": {
+      "code": "138683",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "139652": {
+      "code": "139652",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "139935": {
+      "code": "139935",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "139951": {
+      "code": "139951",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "139952": {
+      "code": "139952",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "139963": {
+      "code": "139963",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "139964": {
+      "code": "139964",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "148943": {
+      "code": "148943",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "148951": {
+      "code": "148951",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "159088": {
+      "code": "159088",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "159150": {
+      "code": "159150",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "159357": {
+      "code": "159357",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "159459": {
+      "code": "159459",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "159554": {
+      "code": "159554",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "159557": {
+      "code": "159557",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "169048": {
+      "code": "169048",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "169654": {
+      "code": "169654",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "169874": {
+      "code": "169874",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "169876": {
+      "code": "169876",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "174900": {
+      "code": "174900",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "178882": {
+      "code": "178882",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "178884": {
+      "code": "178884",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "178892": {
+      "code": "178892",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "179031": {
+      "code": "179031",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "179094": {
+      "code": "179094",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "179101": {
+      "code": "179101",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "179352": {
+      "code": "179352",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "179431": {
+      "code": "179431",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "179805": {
+      "code": "179805",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "188666": {
+      "code": "188666",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "188667": {
+      "code": "188667",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "188770": {
+      "code": "188770",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "188979": {
+      "code": "188979",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "188994": {
+      "code": "188994",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "189558": {
+      "code": "189558",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "189559": {
+      "code": "189559",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "189702": {
+      "code": "189702",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "199018": {
+      "code": "199018",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "199555": {
+      "code": "199555",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "199591": {
+      "code": "199591",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "199597": {
+      "code": "199597",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "207542": {
+      "code": "207542",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "208787": {
+      "code": "208787",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "209232": {
+      "code": "209232",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "219429": {
+      "code": "219429",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "228211": {
+      "code": "228211",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "228218": {
+      "code": "228218",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "228221": {
+      "code": "228221",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "228233": {
+      "code": "228233",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "228242": {
+      "code": "228242",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "229469": {
+      "code": "229469",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "229921": {
+      "code": "229921",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "229957": {
+      "code": "229957",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "238345": {
+      "code": "238345",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "238801": {
+      "code": "238801",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "238867": {
+      "code": "238867",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "238868": {
+      "code": "238868",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "238872": {
+      "code": "238872",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "238873": {
+      "code": "238873",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "238880": {
+      "code": "238880",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "238891": {
+      "code": "238891",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "239001": {
+      "code": "239001",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "239070": {
+      "code": "239070",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "239519": {
+      "code": "239519",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "239664": {
+      "code": "239664",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "239693": {
+      "code": "239693",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "239732": {
+      "code": "239732",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "239734": {
+      "code": "239734",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "239920": {
+      "code": "239920",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "239922": {
+      "code": "239922",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "248923": {
+      "code": "248923",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "258350": {
+      "code": "258350",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "269734": {
+      "code": "269734",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "288393": {
+      "code": "288393",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "289760": {
+      "code": "289760",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "299939": {
+      "code": "299939",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "307591": {
+      "code": "307591",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "307632": {
+      "code": "307632",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "307684": {
+      "code": "307684",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "307685": {
+      "code": "307685",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "308900": {
+      "code": "308900",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "310177": {
+      "code": "310177",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "310190": {
+      "code": "310190",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "319261": {
+      "code": "319261",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "319579": {
+      "code": "319579",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "319637": {
+      "code": "319637",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "319762": {
+      "code": "319762",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "329560": {
+      "code": "329560",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "339177": {
+      "code": "339177",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "339211": {
+      "code": "339211",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "339411": {
+      "code": "339411",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "339518": {
+      "code": "339518",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "339776": {
+      "code": "339776",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "339914": {
+      "code": "339914",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "339942": {
+      "code": "339942",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "349245": {
+      "code": "349245",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "349277": {
+      "code": "349277",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "367995": {
+      "code": "367995",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "368215": {
+      "code": "368215",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "368324": {
+      "code": "368324",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "368358": {
+      "code": "368358",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "368361": {
+      "code": "368361",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "369645": {
+      "code": "369645",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "369650": {
+      "code": "369650",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "369977": {
+      "code": "369977",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "380118": {
+      "code": "380118",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "387355": {
+      "code": "387355",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "387843": {
+      "code": "387843",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "397718": {
+      "code": "397718",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "407831": {
+      "code": "407831",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "408538": {
+      "code": "408538",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "408555": {
+      "code": "408555",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "408564": {
+      "code": "408564",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "408581": {
+      "code": "408581",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "408600": {
+      "code": "408600",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "408731": {
+      "code": "408731",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "408868": {
+      "code": "408868",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "408934": {
+      "code": "408934",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "409022": {
+      "code": "409022",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "409045": {
+      "code": "409045",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "409051": {
+      "code": "409051",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "415979": {
+      "code": "415979",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "416253": {
+      "code": "416253",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "417938": {
+      "code": "417938",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "417942": {
+      "code": "417942",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "428746": {
+      "code": "428746",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "428766": {
+      "code": "428766",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "449269": {
+      "code": "449269",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "455282": {
+      "code": "455282",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "460407": {
+      "code": "460407",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "469001": {
+      "code": "469001",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "469003": {
+      "code": "469003",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "469004": {
+      "code": "469004",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "469270": {
+      "code": "469270",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "469272": {
+      "code": "469272",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "486028": {
+      "code": "486028",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "486029": {
+      "code": "486029",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "486030": {
+      "code": "486030",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "486051": {
+      "code": "486051",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "486066": {
+      "code": "486066",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "486067": {
+      "code": "486067",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "486073": {
+      "code": "486073",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "486120": {
+      "code": "486120",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "486150": {
+      "code": "486150",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "486162": {
+      "code": "486162",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "486631": {
+      "code": "486631",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "486854": {
+      "code": "486854",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "487372": {
+      "code": "487372",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "498795": {
+      "code": "498795",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "498816": {
+      "code": "498816",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "498985": {
+      "code": "498985",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "499637": {
+      "code": "499637",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "499803": {
+      "code": "499803",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "508167": {
+      "code": "508167",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "508984": {
+      "code": "508984",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "508988": {
+      "code": "508988",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "509012": {
+      "code": "509012",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "528764": {
+      "code": "528764",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "528798": {
+      "code": "528798",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "529482": {
+      "code": "529482",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "529509": {
+      "code": "529509",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "529539": {
+      "code": "529539",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "529542": {
+      "code": "529542",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "529653": {
+      "code": "529653",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "529889": {
+      "code": "529889",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "534103": {
+      "code": "534103",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "534119": {
+      "code": "534119",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "535216": {
+      "code": "535216",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "535222": {
+      "code": "535222",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "535224": {
+      "code": "535224",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "535227": {
+      "code": "535227",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "537055": {
+      "code": "537055",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "537066": {
+      "code": "537066",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "537071": {
+      "code": "537071",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "539165": {
+      "code": "539165",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "539211": {
+      "code": "539211",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "539225": {
+      "code": "539225",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "544686": {
+      "code": "544686",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "545523": {
+      "code": "545523",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "546622": {
+      "code": "546622",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "554914": {
+      "code": "554914",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "555854": {
+      "code": "555854",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "555858": {
+      "code": "555858",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "556741": {
+      "code": "556741",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "560161": {
+      "code": "560161",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "567759": {
+      "code": "567759",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "568049": {
+      "code": "568049",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "569061": {
+      "code": "569061",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "569141": {
+      "code": "569141",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "569573": {
+      "code": "569573",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "569621": {
+      "code": "569621",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "569672": {
+      "code": "569672",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "569830": {
+      "code": "569830",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "569877": {
+      "code": "569877",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "569880": {
+      "code": "569880",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "569881": {
+      "code": "569881",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "573943": {
+      "code": "573943",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "573971": {
+      "code": "573971",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "576151": {
+      "code": "576151",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "579701": {
+      "code": "579701",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "579828": {
+      "code": "579828",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "579838": {
+      "code": "579838",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "588179": {
+      "code": "588179",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "588397": {
+      "code": "588397",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "589333": {
+      "code": "589333",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "599490": {
+      "code": "599490",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "599747": {
+      "code": "599747",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "600135": {
+      "code": "600135",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "608531": {
+      "code": "608531",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "608839": {
+      "code": "608839",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609274": {
+      "code": "609274",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609431": {
+      "code": "609431",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609914": {
+      "code": "609914",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609916": {
+      "code": "609916",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609917": {
+      "code": "609917",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609921": {
+      "code": "609921",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609923": {
+      "code": "609923",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609927": {
+      "code": "609927",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609929": {
+      "code": "609929",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609930": {
+      "code": "609930",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609934": {
+      "code": "609934",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609957": {
+      "code": "609957",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609964": {
+      "code": "609964",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "609966": {
+      "code": "609966",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "618494": {
+      "code": "618494",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "619097": {
+      "code": "619097",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "619863": {
+      "code": "619863",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "620000": {
+      "code": "620000",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "627753": {
+      "code": "627753",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "627875": {
+      "code": "627875",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "627878": {
+      "code": "627878",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "628048": {
+      "code": "628048",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "628072": {
+      "code": "628072",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "628475": {
+      "code": "628475",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "628500": {
+      "code": "628500",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "629109": {
+      "code": "629109",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "629359": {
+      "code": "629359",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "629501": {
+      "code": "629501",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "629564": {
+      "code": "629564",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "629895": {
+      "code": "629895",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "629903": {
+      "code": "629903",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "629923": {
+      "code": "629923",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "629977": {
+      "code": "629977",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "637461": {
+      "code": "637461",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "637540": {
+      "code": "637540",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "637630": {
+      "code": "637630",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "638383": {
+      "code": "638383",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "638406": {
+      "code": "638406",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "638492": {
+      "code": "638492",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "638550": {
+      "code": "638550",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "638713": {
+      "code": "638713",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "638953": {
+      "code": "638953",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "639090": {
+      "code": "639090",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "639453": {
+      "code": "639453",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "639582": {
+      "code": "639582",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "639798": {
+      "code": "639798",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "658065": {
+      "code": "658065",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "668912": {
+      "code": "668912",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "669569": {
+      "code": "669569",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "738068": {
+      "code": "738068",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "738283": {
+      "code": "738283",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "738406": {
+      "code": "738406",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "738799": {
+      "code": "738799",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "738960": {
+      "code": "738960",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "738964": {
+      "code": "738964",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "757716": {
+      "code": "757716",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "757758": {
+      "code": "757758",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "758121": {
+      "code": "758121",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "758382": {
+      "code": "758382",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "758458": {
+      "code": "758458",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "759947": {
+      "code": "759947",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "759956": {
+      "code": "759956",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "768160": {
+      "code": "768160",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "768828": {
+      "code": "768828",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "768923": {
+      "code": "768923",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "768924": {
+      "code": "768924",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "788508": {
+      "code": "788508",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "805942": {
+      "code": "805942",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "819642": {
+      "code": "819642",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "819643": {
+      "code": "819643",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "819662": {
+      "code": "819662",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "819663": {
+      "code": "819663",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "819827": {
+      "code": "819827",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "819834": {
+      "code": "819834",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "822247": {
+      "code": "822247",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "916505": {
+      "code": "916505",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "999999": {
+      "code": "999999",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "049481": {
+      "code": "049481",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "038986": {
+      "code": "038986",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "038987": {
+      "code": "038987",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "069538": {
+      "code": "069538",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "069428": {
+      "code": "069428",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048421": {
+      "code": "048421",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048464": {
+      "code": "048464",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "069542": {
+      "code": "069542",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "068898": {
+      "code": "068898",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "049315": {
+      "code": "049315",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "038988": {
+      "code": "038988",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "089854": {
+      "code": "089854",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048619": {
+      "code": "048619",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "068811": {
+      "code": "068811",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "049513": {
+      "code": "049513",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048943": {
+      "code": "048943",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "079120": {
+      "code": "079120",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048581": {
+      "code": "048581",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "099253": {
+      "code": "099253",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "069720": {
+      "code": "069720",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "058593": {
+      "code": "058593",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "039593": {
+      "code": "039593",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "039192": {
+      "code": "039192",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "039190": {
+      "code": "039190",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048583": {
+      "code": "048583",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "069114": {
+      "code": "069114",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "059108": {
+      "code": "059108",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048623": {
+      "code": "048623",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "049318": {
+      "code": "049318",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048616": {
+      "code": "048616",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "038989": {
+      "code": "038989",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "049178": {
+      "code": "049178",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "068911": {
+      "code": "068911",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048624": {
+      "code": "048624",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "078881": {
+      "code": "078881",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "068896": {
+      "code": "068896",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "069534": {
+      "code": "069534",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "018961": {
+      "code": "018961",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048545": {
+      "code": "048545",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "079909": {
+      "code": "079909",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "068892": {
+      "code": "068892",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048946": {
+      "code": "048946",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "038975": {
+      "code": "038975",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048658": {
+      "code": "048658",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "068897": {
+      "code": "068897",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "049145": {
+      "code": "049145",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "039594": {
+      "code": "039594",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "068808": {
+      "code": "068808",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "049910": {
+      "code": "049910",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "088829": {
+      "code": "088829",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "088450": {
+      "code": "088450",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "068602": {
+      "code": "068602",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "059573": {
+      "code": "059573",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "069533": {
+      "code": "069533",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048941": {
+      "code": "048941",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "089065": {
+      "code": "089065",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "068893": {
+      "code": "068893",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "089117": {
+      "code": "089117",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048467": {
+      "code": "048467",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "018988": {
+      "code": "018988",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "068805": {
+      "code": "068805",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "039805": {
+      "code": "039805",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "079117": {
+      "code": "079117",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "039799": {
+      "code": "039799",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "080334": {
+      "code": "080334",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "079912": {
+      "code": "079912",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048621": {
+      "code": "048621",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "079907": {
+      "code": "079907",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "069877": {
+      "code": "069877",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "068906": {
+      "code": "068906",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "059571": {
+      "code": "059571",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "099958": {
+      "code": "099958",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "058717": {
+      "code": "058717",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "049852": {
+      "code": "049852",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "068901": {
+      "code": "068901",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "049483": {
+      "code": "049483",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "049479": {
+      "code": "049479",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "079212": {
+      "code": "079212",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "089057": {
+      "code": "089057",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "098803": {
+      "code": "098803",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "039797": {
+      "code": "039797",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "048692": {
+      "code": "048692",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "049712": {
+      "code": "049712",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "079903": {
+      "code": "079903",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "068882": {
+      "code": "068882",
+      "region": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    }
+  }
+}
