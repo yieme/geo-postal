@@ -1,0 +1,174 @@
+{
+  "id": "CO",
+  "country": "Colombia",
+  "postal": {
+    "10": {
+      "code": "10",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "12": {
+      "code": "12",
+      "region": "Antioquia",
+      "city": "Antioquia",
+      "latitude": 6.55687,
+      "longitude": -75.82806
+    },
+    "17": {
+      "code": "17",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "20": {
+      "code": "20",
+      "region": "Atlantico",
+      "city": "Barranquilla",
+      "latitude": 10.96389,
+      "longitude": -74.79639
+    },
+    "23": {
+      "code": "23",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "33": {
+      "code": "33",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "36": {
+      "code": "36",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "40": {
+      "code": "40",
+      "region": "Atlantico",
+      "city": "Barranquilla",
+      "latitude": 10.96389,
+      "longitude": -74.79639
+    },
+    "50": {
+      "code": "50",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "52": {
+      "code": "52",
+      "region": "Risaralda",
+      "city": "Pereira",
+      "latitude": 4.81333,
+      "longitude": -75.69611
+    },
+    "76": {
+      "code": "76",
+      "region": "Atlantico",
+      "city": "Barranquilla",
+      "latitude": 10.96389,
+      "longitude": -74.79639
+    },
+    "77": {
+      "code": "77",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "80": {
+      "code": "80",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "145": {
+      "code": "145",
+      "region": "Bolivar",
+      "city": "Cartagena",
+      "latitude": 10.39972,
+      "longitude": -75.51444
+    },
+    "169": {
+      "code": "169",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "703": {
+      "code": "703",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "711": {
+      "code": "711",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "1001": {
+      "code": "1001",
+      "region": "Huila",
+      "city": "Colombia",
+      "latitude": 3.37606,
+      "longitude": -74.8015
+    },
+    "11001": {
+      "code": "11001",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "33162": {
+      "code": "33162",
+      "region": "Antioquia",
+      "city": "Medellin",
+      "latitude": 6.25184,
+      "longitude": -75.56359
+    },
+    "76102": {
+      "code": "76102",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "110221": {
+      "code": "110221",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "": {
+      "code": "",
+      "region": "Distrito Capital de Bogota",
+      "city": "Bogota",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "0000": {
+      "code": "0000",
+      "region": "Bolivar",
+      "city": "Cartagena",
+      "latitude": 10.39972,
+      "longitude": -75.51444
+    }
+  }
+}
