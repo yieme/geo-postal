@@ -1,0 +1,7538 @@
+{
+  "id": "RO",
+  "country": "Romania",
+  "postal": {
+    "100720": {
+      "code": "100720",
+      "region": "Prahova",
+      "city": "Ploiesti",
+      "latitude": 44.95,
+      "longitude": 26.01667
+    },
+    "105200": {
+      "code": "105200",
+      "region": "Prahova",
+      "city": "Baicoi",
+      "latitude": 45.03333,
+      "longitude": 25.85
+    },
+    "105408": {
+      "code": "105408",
+      "region": "Prahova",
+      "city": "Poiana Campina",
+      "latitude": 45.13333,
+      "longitude": 25.68333
+    },
+    "105550": {
+      "code": "105550",
+      "region": "Prahova",
+      "city": "Busteni",
+      "latitude": 45.4,
+      "longitude": 25.53333
+    },
+    "105600": {
+      "code": "105600",
+      "region": "Prahova",
+      "city": "Banesti",
+      "latitude": 45.1,
+      "longitude": 25.76667
+    },
+    "105700": {
+      "code": "105700",
+      "region": "Prahova",
+      "city": "Comarnic",
+      "latitude": 45.25,
+      "longitude": 25.63333
+    },
+    "105800": {
+      "code": "105800",
+      "region": "Prahova",
+      "city": "Mizil",
+      "latitude": 45.01667,
+      "longitude": 26.45
+    },
+    "106100": {
+      "code": "106100",
+      "region": "Prahova",
+      "city": "Sinaia",
+      "latitude": 45.35,
+      "longitude": 25.55
+    },
+    "106202": {
+      "code": "106202",
+      "region": "Prahova",
+      "city": "Varbilau",
+      "latitude": 45.18333,
+      "longitude": 25.95
+    },
+    "106400": {
+      "code": "106400",
+      "region": "Prahova",
+      "city": "Valenii de Munte",
+      "latitude": 45.18333,
+      "longitude": 26.03333
+    },
+    "107010": {
+      "code": "107010",
+      "region": "Prahova",
+      "city": "Albesti-Paleologu",
+      "latitude": 44.95,
+      "longitude": 26.21667
+    },
+    "107025": {
+      "code": "107025",
+      "region": "Prahova",
+      "city": "Aricestii-Rahtivani",
+      "latitude": 44.95,
+      "longitude": 25.83333
+    },
+    "107027": {
+      "code": "107027",
+      "region": "Prahova",
+      "city": "Aricestii-Rahtivani",
+      "latitude": 44.95,
+      "longitude": 25.83333
+    },
+    "107051": {
+      "code": "107051",
+      "region": "Prahova",
+      "city": "Banesti",
+      "latitude": 45.1,
+      "longitude": 25.76667
+    },
+    "107060": {
+      "code": "107060",
+      "region": "Prahova",
+      "city": "Berceni",
+      "latitude": 44.31417,
+      "longitude": 26.18556
+    },
+    "107120": {
+      "code": "107120",
+      "region": "Gorj",
+      "city": "Carbunesti",
+      "latitude": 45.23333,
+      "longitude": 26.2
+    },
+    "107130": {
+      "code": "107130",
+      "region": "Prahova",
+      "city": "Ceptura de Sus",
+      "latitude": 45.01667,
+      "longitude": 26.31667
+    },
+    "107150": {
+      "code": "107150",
+      "region": "Prahova",
+      "city": "Chiojdeanca",
+      "latitude": 45.16667,
+      "longitude": 26.26667
+    },
+    "107170": {
+      "code": "107170",
+      "region": "Prahova",
+      "city": "Colceag",
+      "latitude": 44.95,
+      "longitude": 26.35
+    },
+    "107177": {
+      "code": "107177",
+      "region": "Prahova",
+      "city": "Cornu de Sus",
+      "latitude": 45.16667,
+      "longitude": 25.7
+    },
+    "107214": {
+      "code": "107214",
+      "region": "Galati",
+      "city": "Draganesti",
+      "latitude": 44.81667,
+      "longitude": 26.3
+    },
+    "107226": {
+      "code": "107226",
+      "region": "Prahova",
+      "city": "Dumbrava",
+      "latitude": 44.88333,
+      "longitude": 26.18333
+    },
+    "107245": {
+      "code": "107245",
+      "region": "Prahova",
+      "city": "Filipestii de Padure",
+      "latitude": 45,
+      "longitude": 25.75
+    },
+    "107250": {
+      "code": "107250",
+      "region": "Prahova",
+      "city": "Filipestii de Tirg",
+      "latitude": 44.98333,
+      "longitude": 25.78333
+    },
+    "107252": {
+      "code": "107252",
+      "region": "Bacau",
+      "city": "Darmanesti",
+      "latitude": 44.91667,
+      "longitude": 25.78333
+    },
+    "107265": {
+      "code": "107265",
+      "region": "Prahova",
+      "city": "Gherghita",
+      "latitude": 44.8,
+      "longitude": 26.26667
+    },
+    "107275": {
+      "code": "107275",
+      "region": "Prahova",
+      "city": "Gorgota",
+      "latitude": 44.78333,
+      "longitude": 26.08333
+    },
+    "107300": {
+      "code": "107300",
+      "region": "Prahova",
+      "city": "Gura Vadului",
+      "latitude": 45.05,
+      "longitude": 26.46667
+    },
+    "107306": {
+      "code": "107306",
+      "region": "Arges",
+      "city": "Bughea de Jos",
+      "latitude": 45.26667,
+      "longitude": 25
+    },
+    "107313": {
+      "code": "107313",
+      "region": "Dambovita",
+      "city": "Dragodana",
+      "latitude": 44.73333,
+      "longitude": 25.35
+    },
+    "107343": {
+      "code": "107343",
+      "region": "Prahova",
+      "city": "Plopeni",
+      "latitude": 45.06667,
+      "longitude": 25.98333
+    },
+    "107352": {
+      "code": "107352",
+      "region": "Prahova",
+      "city": "Magureni",
+      "latitude": 45.06667,
+      "longitude": 25.73333
+    },
+    "107365": {
+      "code": "107365",
+      "region": "Prahova",
+      "city": "Maneciu",
+      "latitude": 45.31667,
+      "longitude": 25.98333
+    },
+    "107410": {
+      "code": "107410",
+      "region": "Prahova",
+      "city": "Podenii Noi",
+      "latitude": 45.11667,
+      "longitude": 26.16667
+    },
+    "107444": {
+      "code": "107444",
+      "region": "Giurgiu",
+      "city": "Posesti-Ungureni",
+      "latitude": 45.26667,
+      "longitude": 26.13333
+    },
+    "107463": {
+      "code": "107463",
+      "region": "Brasov",
+      "city": "Predeal",
+      "latitude": 45.5,
+      "longitude": 25.56667
+    },
+    "107475": {
+      "code": "107475",
+      "region": "Giurgiu",
+      "city": "Provita de Jos",
+      "latitude": 45.11667,
+      "longitude": 25.65
+    },
+    "107492": {
+      "code": "107492",
+      "region": "Prahova",
+      "city": "Puchenii Mari",
+      "latitude": 44.81667,
+      "longitude": 26.08333
+    },
+    "107515": {
+      "code": "107515",
+      "region": "Mures",
+      "city": "Singeru",
+      "latitude": 45.13333,
+      "longitude": 26.35
+    },
+    "107525": {
+      "code": "107525",
+      "region": "Prahova",
+      "city": "Scorteni",
+      "latitude": 45.1,
+      "longitude": 25.85
+    },
+    "107530": {
+      "code": "107530",
+      "region": "Prahova",
+      "city": "Secaria",
+      "latitude": 45.28333,
+      "longitude": 25.68333
+    },
+    "107575": {
+      "code": "107575",
+      "region": "Prahova",
+      "city": "Stefesti",
+      "latitude": 45.21667,
+      "longitude": 25.9
+    },
+    "107600": {
+      "code": "107600",
+      "region": "Prahova",
+      "city": "Telega",
+      "latitude": 45.13333,
+      "longitude": 25.78333
+    },
+    "107631": {
+      "code": "107631",
+      "region": "Prahova",
+      "city": "Valea Calugareasca",
+      "latitude": 44.96667,
+      "longitude": 26.15
+    },
+    "110570": {
+      "code": "110570",
+      "region": "Arges",
+      "city": "Pitesti",
+      "latitude": 44.85,
+      "longitude": 24.86667
+    },
+    "115200": {
+      "code": "115200",
+      "region": "Arges",
+      "city": "Costesti",
+      "latitude": 44.66667,
+      "longitude": 24.88333
+    },
+    "115300": {
+      "code": "115300",
+      "region": "Arges",
+      "city": "Curtea de Arges",
+      "latitude": 45.13333,
+      "longitude": 24.68333
+    },
+    "115400": {
+      "code": "115400",
+      "region": "Arges",
+      "city": "Mioveni",
+      "latitude": 44.957117,
+      "longitude": 24.947214
+    },
+    "115500": {
+      "code": "115500",
+      "region": "Arges",
+      "city": "Topoloveni",
+      "latitude": 44.81667,
+      "longitude": 25.08333
+    },
+    "117040": {
+      "code": "117040",
+      "region": "Arges",
+      "city": "Arefu",
+      "latitude": 45.33333,
+      "longitude": 24.6
+    },
+    "117055": {
+      "code": "117055",
+      "region": "Arges",
+      "city": "Babana",
+      "latitude": 44.9,
+      "longitude": 24.7
+    },
+    "117065": {
+      "code": "117065",
+      "region": "Arges",
+      "city": "Baiculesti",
+      "latitude": 45.06667,
+      "longitude": 24.7
+    },
+    "117090": {
+      "code": "117090",
+      "region": "Arges",
+      "city": "Birla",
+      "latitude": 44.43333,
+      "longitude": 24.76667
+    },
+    "117111": {
+      "code": "117111",
+      "region": "Arges",
+      "city": "Beleti",
+      "latitude": 44.9,
+      "longitude": 25.08333
+    },
+    "117118": {
+      "code": "117118",
+      "region": "Arges",
+      "city": "Aninoasa",
+      "latitude": 45.191586,
+      "longitude": 24.926849
+    },
+    "117120": {
+      "code": "117120",
+      "region": "Arges",
+      "city": "Bogati",
+      "latitude": 44.86667,
+      "longitude": 25.13333
+    },
+    "117145": {
+      "code": "117145",
+      "region": "Arges",
+      "city": "Bradulet",
+      "latitude": 45.28333,
+      "longitude": 24.76667
+    },
+    "117220": {
+      "code": "117220",
+      "region": "Bihor",
+      "city": "Popesti",
+      "latitude": 44.76667,
+      "longitude": 25.06667
+    },
+    "117240": {
+      "code": "117240",
+      "region": "Arges",
+      "city": "Cetateni",
+      "latitude": 45.2,
+      "longitude": 25.18333
+    },
+    "117310": {
+      "code": "117310",
+      "region": "Arges",
+      "city": "Costesti",
+      "latitude": 44.66667,
+      "longitude": 24.88333
+    },
+    "117370": {
+      "code": "117370",
+      "region": "Constanta",
+      "city": "Cogealac",
+      "latitude": 44.55,
+      "longitude": 28.56667
+    },
+    "117382": {
+      "code": "117382",
+      "region": "Arges",
+      "city": "Draganu-Olteni",
+      "latitude": 44.93333,
+      "longitude": 24.71667
+    },
+    "117397": {
+      "code": "117397",
+      "region": "Harghita",
+      "city": "Dealu",
+      "latitude": 46.4,
+      "longitude": 25.3
+    },
+    "117424": {
+      "code": "117424",
+      "region": "Arges",
+      "city": "Leordeni",
+      "latitude": 44.78333,
+      "longitude": 25.11667
+    },
+    "117430": {
+      "code": "117430",
+      "region": "Arges",
+      "city": "Leresti",
+      "latitude": 45.33333,
+      "longitude": 25.06667
+    },
+    "117435": {
+      "code": "117435",
+      "region": "Arges",
+      "city": "Lunca Corbului",
+      "latitude": 44.7,
+      "longitude": 24.75
+    },
+    "117451": {
+      "code": "117451",
+      "region": "Buzau",
+      "city": "Maracineni",
+      "latitude": 44.9,
+      "longitude": 24.88333
+    },
+    "117461": {
+      "code": "117461",
+      "region": "Teleorman",
+      "city": "Olteni",
+      "latitude": 44.18333,
+      "longitude": 25.28333
+    },
+    "117531": {
+      "code": "117531",
+      "region": "Ilfov",
+      "city": "Domnesti",
+      "latitude": 45.2,
+      "longitude": 24.83333
+    },
+    "117542": {
+      "code": "117542",
+      "region": "Arges",
+      "city": "Nucsoara",
+      "latitude": 45.33333,
+      "longitude": 24.78333
+    },
+    "117625": {
+      "code": "117625",
+      "region": "Arges",
+      "city": "Rociu",
+      "latitude": 44.66667,
+      "longitude": 25.03333
+    },
+    "117631": {
+      "code": "117631",
+      "region": "Arges",
+      "city": "Rucar",
+      "latitude": 45.4,
+      "longitude": 25.16667
+    },
+    "117665": {
+      "code": "117665",
+      "region": "Arges",
+      "city": "Stilpeni",
+      "latitude": 45.05,
+      "longitude": 24.96667
+    },
+    "117686": {
+      "code": "117686",
+      "region": "Arges",
+      "city": "Stolnici",
+      "latitude": 44.56667,
+      "longitude": 24.78333
+    },
+    "117719": {
+      "code": "117719",
+      "region": "Ilfov",
+      "city": "Stefanestii de Jos",
+      "latitude": 44.53333,
+      "longitude": 26.2
+    },
+    "117731": {
+      "code": "117731",
+      "region": "Gorj",
+      "city": "Turburea",
+      "latitude": 44.71667,
+      "longitude": 23.51667
+    },
+    "117784": {
+      "code": "117784",
+      "region": "Mures",
+      "city": "Ungheni",
+      "latitude": 44.5,
+      "longitude": 24.96667
+    },
+    "120370": {
+      "code": "120370",
+      "region": "Buzau",
+      "city": "Buzau",
+      "latitude": 45.15,
+      "longitude": 26.83333
+    },
+    "125100": {
+      "code": "125100",
+      "region": "Buzau",
+      "city": "Nehoiu",
+      "latitude": 45.41667,
+      "longitude": 26.3
+    },
+    "125200": {
+      "code": "125200",
+      "region": "Buzau",
+      "city": "Buzau",
+      "latitude": 45.15,
+      "longitude": 26.83333
+    },
+    "125201": {
+      "code": "125201",
+      "region": "Buzau",
+      "city": "Pogoanele",
+      "latitude": 44.91667,
+      "longitude": 27
+    },
+    "125300": {
+      "code": "125300",
+      "region": "Buzau",
+      "city": "Rimnicu Sarat",
+      "latitude": 45.38333,
+      "longitude": 27.05
+    },
+    "127005": {
+      "code": "127005",
+      "region": "Buzau",
+      "city": "Amaru",
+      "latitude": 44.93333,
+      "longitude": 26.58333
+    },
+    "127007": {
+      "code": "127007",
+      "region": "Prahova",
+      "city": "Boldesti",
+      "latitude": 44.86667,
+      "longitude": 26.53333
+    },
+    "127020": {
+      "code": "127020",
+      "region": "Buzau",
+      "city": "Balaceanu",
+      "latitude": 45.26667,
+      "longitude": 27.15
+    },
+    "127025": {
+      "code": "127025",
+      "region": "Buzau",
+      "city": "Beceni",
+      "latitude": 45.38333,
+      "longitude": 26.78333
+    },
+    "127038": {
+      "code": "127038",
+      "region": "Bacau",
+      "city": "Joseni",
+      "latitude": 46.7,
+      "longitude": 25.5
+    },
+    "127133": {
+      "code": "127133",
+      "region": "Cluj",
+      "city": "Frasinet",
+      "latitude": 44.31667,
+      "longitude": 26.8
+    },
+    "127145": {
+      "code": "127145",
+      "region": "Buzau",
+      "city": "Catina",
+      "latitude": 45.3,
+      "longitude": 26.25
+    },
+    "127170": {
+      "code": "127170",
+      "region": "Buzau",
+      "city": "Chiojdu",
+      "latitude": 45.35,
+      "longitude": 26.2
+    },
+    "127203": {
+      "code": "127203",
+      "region": "Prahova",
+      "city": "Slanic",
+      "latitude": 45.25,
+      "longitude": 25.93333
+    },
+    "127227": {
+      "code": "127227",
+      "region": "Olt",
+      "city": "Bals",
+      "latitude": 44.35,
+      "longitude": 24.1
+    },
+    "127258": {
+      "code": "127258",
+      "region": "Buzau",
+      "city": "Glodeanu-Sarat",
+      "latitude": 44.86667,
+      "longitude": 26.65
+    },
+    "127271": {
+      "code": "127271",
+      "region": "Buzau",
+      "city": "Greabanu",
+      "latitude": 45.38333,
+      "longitude": 26.96667
+    },
+    "127339": {
+      "code": "127339",
+      "region": "Brasov",
+      "city": "Zarnesti",
+      "latitude": 45.3,
+      "longitude": 26.86667
+    },
+    "127380": {
+      "code": "127380",
+      "region": "Buzau",
+      "city": "Movila Banului",
+      "latitude": 44.98333,
+      "longitude": 26.68333
+    },
+    "127430": {
+      "code": "127430",
+      "region": "Iasi",
+      "city": "Buruenesti",
+      "latitude": 45.31667,
+      "longitude": 26.35
+    },
+    "127437": {
+      "code": "127437",
+      "region": "Ilfov",
+      "city": "Prim Decembrie",
+      "latitude": 44.29083,
+      "longitude": 26.05806
+    },
+    "127463": {
+      "code": "127463",
+      "region": "Buzau",
+      "city": "Pirscov",
+      "latitude": 45.28333,
+      "longitude": 26.55
+    },
+    "127470": {
+      "code": "127470",
+      "region": "Buzau",
+      "city": "Pietroasele",
+      "latitude": 45.1,
+      "longitude": 26.56667
+    },
+    "127505": {
+      "code": "127505",
+      "region": "Buzau",
+      "city": "Racoviteni",
+      "latitude": 45.36667,
+      "longitude": 26.9
+    },
+    "127510": {
+      "code": "127510",
+      "region": "Braila",
+      "city": "Rimnicelu",
+      "latitude": 45.28333,
+      "longitude": 27.53333
+    },
+    "127521": {
+      "code": "127521",
+      "region": "Buzau",
+      "city": "Rusetu",
+      "latitude": 44.95,
+      "longitude": 27.21667
+    },
+    "127525": {
+      "code": "127525",
+      "region": "Buzau",
+      "city": "Sageata",
+      "latitude": 45.1,
+      "longitude": 26.98333
+    },
+    "127567": {
+      "code": "127567",
+      "region": "Buzau",
+      "city": "Scortoasa",
+      "latitude": 45.36667,
+      "longitude": 26.66667
+    },
+    "127595": {
+      "code": "127595",
+      "region": "Buzau",
+      "city": "Smeeni",
+      "latitude": 44.98333,
+      "longitude": 26.85
+    },
+    "127610": {
+      "code": "127610",
+      "region": "Buzau",
+      "city": "Tisau",
+      "latitude": 45.16667,
+      "longitude": 26.51667
+    },
+    "127636": {
+      "code": "127636",
+      "region": "Ialomita",
+      "city": "Urziceni",
+      "latitude": 44.71667,
+      "longitude": 26.63333
+    },
+    "127645": {
+      "code": "127645",
+      "region": "Maramures",
+      "city": "Ulmeni",
+      "latitude": 44.15,
+      "longitude": 26.71667
+    },
+    "127695": {
+      "code": "127695",
+      "region": "Buzau",
+      "city": "Vintila Voda",
+      "latitude": 45.46667,
+      "longitude": 26.71667
+    },
+    "127706": {
+      "code": "127706",
+      "region": "Arges",
+      "city": "Boteni",
+      "latitude": 45.18333,
+      "longitude": 25.11667
+    },
+    "130260": {
+      "code": "130260",
+      "region": "Dambovita",
+      "city": "Targoviste",
+      "latitude": 44.92142,
+      "longitude": 25.45575
+    },
+    "135100": {
+      "code": "135100",
+      "region": "Dambovita",
+      "city": "Fieni",
+      "latitude": 45.13333,
+      "longitude": 25.41667
+    },
+    "135400": {
+      "code": "135400",
+      "region": "Dambovita",
+      "city": "Pucioasa",
+      "latitude": 45.08333,
+      "longitude": 25.41667
+    },
+    "135406": {
+      "code": "135406",
+      "region": "Dambovita",
+      "city": "Pucioasa",
+      "latitude": 45.08333,
+      "longitude": 25.41667
+    },
+    "135500": {
+      "code": "135500",
+      "region": "Dambovita",
+      "city": "Titu",
+      "latitude": 44.65,
+      "longitude": 25.53333
+    },
+    "137020": {
+      "code": "137020",
+      "region": "Dambovita",
+      "city": "Barbuletu",
+      "latitude": 45.13333,
+      "longitude": 25.3
+    },
+    "137029": {
+      "code": "137029",
+      "region": "Sibiu",
+      "city": "Rosia",
+      "latitude": 45.81667,
+      "longitude": 24.31667
+    },
+    "137037": {
+      "code": "137037",
+      "region": "Dambovita",
+      "city": "Bezdead",
+      "latitude": 45.15,
+      "longitude": 25.51667
+    },
+    "137039": {
+      "code": "137039",
+      "region": "Ilfov",
+      "city": "Tunari",
+      "latitude": 44.55,
+      "longitude": 26.15
+    },
+    "137045": {
+      "code": "137045",
+      "region": "Dambovita",
+      "city": "Bilciuresti",
+      "latitude": 44.73333,
+      "longitude": 25.8
+    },
+    "137081": {
+      "code": "137081",
+      "region": "Iasi",
+      "city": "Voinesti",
+      "latitude": 45.06667,
+      "longitude": 25.25
+    },
+    "137095": {
+      "code": "137095",
+      "region": "Dambovita",
+      "city": "Gaesti",
+      "latitude": 44.71667,
+      "longitude": 25.31667
+    },
+    "137135": {
+      "code": "137135",
+      "region": "Dambovita",
+      "city": "Corbii Mari",
+      "latitude": 44.55,
+      "longitude": 25.5
+    },
+    "137159": {
+      "code": "137159",
+      "region": "Dambovita",
+      "city": "Cornesti",
+      "latitude": 44.78333,
+      "longitude": 25.86667
+    },
+    "137173": {
+      "code": "137173",
+      "region": "Dambovita",
+      "city": "Cringurile de Sus",
+      "latitude": 44.76667,
+      "longitude": 25.23333
+    },
+    "137180": {
+      "code": "137180",
+      "region": "Dambovita",
+      "city": "Crevedia",
+      "latitude": 44.6,
+      "longitude": 25.93333
+    },
+    "137190": {
+      "code": "137190",
+      "region": "Sibiu",
+      "city": "Dobra",
+      "latitude": 45.91667,
+      "longitude": 22.56667
+    },
+    "137229": {
+      "code": "137229",
+      "region": "Dambovita",
+      "city": "Glodeni",
+      "latitude": 45.01667,
+      "longitude": 25.46667
+    },
+    "137235": {
+      "code": "137235",
+      "region": "Dambovita",
+      "city": "Gura Foii",
+      "latitude": 44.75,
+      "longitude": 25.28333
+    },
+    "137243": {
+      "code": "137243",
+      "region": "Bacau",
+      "city": "Szekelyhid",
+      "latitude": 47.35,
+      "longitude": 22.1
+    },
+    "137245": {
+      "code": "137245",
+      "region": "Giurgiu",
+      "city": "Gura Sutii",
+      "latitude": 44.75,
+      "longitude": 25.51667
+    },
+    "137265": {
+      "code": "137265",
+      "region": "Arges",
+      "city": "Hirtiesti",
+      "latitude": 45.11667,
+      "longitude": 25.1
+    },
+    "137280": {
+      "code": "137280",
+      "region": "Dambovita",
+      "city": "Lunguletu",
+      "latitude": 44.61667,
+      "longitude": 25.65
+    },
+    "137357": {
+      "code": "137357",
+      "region": "Dambovita",
+      "city": "Petresti",
+      "latitude": 44.65,
+      "longitude": 25.33333
+    },
+    "137370": {
+      "code": "137370",
+      "region": "Dambovita",
+      "city": "Potlogi",
+      "latitude": 44.55,
+      "longitude": 25.58333
+    },
+    "137385": {
+      "code": "137385",
+      "region": "Dambovita",
+      "city": "Racari",
+      "latitude": 44.63333,
+      "longitude": 25.73333
+    },
+    "137425": {
+      "code": "137425",
+      "region": "Dambovita",
+      "city": "Selaru",
+      "latitude": 44.46667,
+      "longitude": 25.3
+    },
+    "137441": {
+      "code": "137441",
+      "region": "Valcea",
+      "city": "Tatarani",
+      "latitude": 45,
+      "longitude": 25.26667
+    },
+    "140160": {
+      "code": "140160",
+      "region": "Teleorman",
+      "city": "Alexandria",
+      "latitude": 43.98333,
+      "longitude": 25.33333
+    },
+    "145100": {
+      "code": "145100",
+      "region": "Teleorman",
+      "city": "Rosiori de Vede",
+      "latitude": 44.11667,
+      "longitude": 24.98333
+    },
+    "145200": {
+      "code": "145200",
+      "region": "Teleorman",
+      "city": "Turnu Magurele",
+      "latitude": 43.75,
+      "longitude": 24.86667
+    },
+    "145300": {
+      "code": "145300",
+      "region": "Teleorman",
+      "city": "Videle",
+      "latitude": 44.27806,
+      "longitude": 25.52444
+    },
+    "145400": {
+      "code": "145400",
+      "region": "Teleorman",
+      "city": "Zimnicea",
+      "latitude": 43.66667,
+      "longitude": 25.36667
+    },
+    "147010": {
+      "code": "147010",
+      "region": "Teleorman",
+      "city": "Babaita",
+      "latitude": 44.16667,
+      "longitude": 25.38333
+    },
+    "147011": {
+      "code": "147011",
+      "region": "Buzau",
+      "city": "Magura",
+      "latitude": 44.03333,
+      "longitude": 25.4
+    },
+    "147062": {
+      "code": "147062",
+      "region": "Mehedinti",
+      "city": "Salcia",
+      "latitude": 43.95,
+      "longitude": 24.91667
+    },
+    "147103": {
+      "code": "147103",
+      "region": "Prahova",
+      "city": "Piatra",
+      "latitude": 43.81667,
+      "longitude": 25.16667
+    },
+    "147116": {
+      "code": "147116",
+      "region": "Teleorman",
+      "city": "Dobrotesti",
+      "latitude": 44.28333,
+      "longitude": 24.88333
+    },
+    "147126": {
+      "code": "147126",
+      "region": "Ilfov",
+      "city": "Afumati",
+      "latitude": 44,
+      "longitude": 23.46667
+    },
+    "147155": {
+      "code": "147155",
+      "region": "Teleorman",
+      "city": "Gratia",
+      "latitude": 44.43333,
+      "longitude": 25.45
+    },
+    "147161": {
+      "code": "147161",
+      "region": "Neamt",
+      "city": "Moldoveni",
+      "latitude": 46.83333,
+      "longitude": 26.76667
+    },
+    "147181": {
+      "code": "147181",
+      "region": "Hunedoara",
+      "city": "Lunca",
+      "latitude": 43.83333,
+      "longitude": 24.76667
+    },
+    "147187": {
+      "code": "147187",
+      "region": "Teleorman",
+      "city": "Plosca",
+      "latitude": 44.03333,
+      "longitude": 25.13333
+    },
+    "147215": {
+      "code": "147215",
+      "region": "Teleorman",
+      "city": "Nanov",
+      "latitude": 44,
+      "longitude": 25.3
+    },
+    "147227": {
+      "code": "147227",
+      "region": "Teleorman",
+      "city": "Necsesti",
+      "latitude": 44.25,
+      "longitude": 25.15
+    },
+    "147238": {
+      "code": "147238",
+      "region": "Teleorman",
+      "city": "Orbeasca de Sus",
+      "latitude": 44.15,
+      "longitude": 25.31667
+    },
+    "147281": {
+      "code": "147281",
+      "region": "Teleorman",
+      "city": "Tiganesti",
+      "latitude": 43.9,
+      "longitude": 25.36667
+    },
+    "147306": {
+      "code": "147306",
+      "region": "Teleorman",
+      "city": "Saceni",
+      "latitude": 44.23333,
+      "longitude": 25.06667
+    },
+    "147375": {
+      "code": "147375",
+      "region": "Teleorman",
+      "city": "Storobaneasa",
+      "latitude": 43.88333,
+      "longitude": 25.45
+    },
+    "147386": {
+      "code": "147386",
+      "region": "Teleorman",
+      "city": "Talpa-Trivalea",
+      "latitude": 44.28333,
+      "longitude": 25.28333
+    },
+    "147426": {
+      "code": "147426",
+      "region": "Teleorman",
+      "city": "Virtoapele de Jos",
+      "latitude": 44.18333,
+      "longitude": 25.2
+    },
+    "147433": {
+      "code": "147433",
+      "region": "Teleorman",
+      "city": "Peretu",
+      "latitude": 44.05,
+      "longitude": 25.08333
+    },
+    "200058": {
+      "code": "200058",
+      "region": "Dolj",
+      "city": "Craiova",
+      "latitude": 44.31667,
+      "longitude": 23.8
+    },
+    "200970": {
+      "code": "200970",
+      "region": "Dolj",
+      "city": "Craiova",
+      "latitude": 44.31667,
+      "longitude": 23.8
+    },
+    "205200": {
+      "code": "205200",
+      "region": "Dolj",
+      "city": "Calafat",
+      "latitude": 43.99111,
+      "longitude": 22.93278
+    },
+    "205300": {
+      "code": "205300",
+      "region": "Dolj",
+      "city": "Filiasi",
+      "latitude": 44.55,
+      "longitude": 23.51667
+    },
+    "207096": {
+      "code": "207096",
+      "region": "Dolj",
+      "city": "Bratovesti",
+      "latitude": 44.13333,
+      "longitude": 23.9
+    },
+    "207121": {
+      "code": "207121",
+      "region": "Cluj",
+      "city": "Mociu",
+      "latitude": 46.8,
+      "longitude": 24.03333
+    },
+    "207144": {
+      "code": "207144",
+      "region": "Dolj",
+      "city": "Bulzesti",
+      "latitude": 44.53333,
+      "longitude": 23.88333
+    },
+    "207152": {
+      "code": "207152",
+      "region": "Dolj",
+      "city": "Segarcea",
+      "latitude": 44.1,
+      "longitude": 23.75
+    },
+    "207170": {
+      "code": "207170",
+      "region": "Calarasi",
+      "city": "Calarasi",
+      "latitude": 44.21667,
+      "longitude": 27.3
+    },
+    "207190": {
+      "code": "207190",
+      "region": "Ilfov",
+      "city": "Cetate",
+      "latitude": 44.1,
+      "longitude": 23.05
+    },
+    "207191": {
+      "code": "207191",
+      "region": "Dambovita",
+      "city": "Moreni",
+      "latitude": 44.98333,
+      "longitude": 25.65
+    },
+    "207206": {
+      "code": "207206",
+      "region": "Prahova",
+      "city": "Piatra",
+      "latitude": 43.81667,
+      "longitude": 25.16667
+    },
+    "207220": {
+      "code": "207220",
+      "region": "Dolj",
+      "city": "Dabuleni",
+      "latitude": 43.8,
+      "longitude": 24.08333
+    },
+    "207225": {
+      "code": "207225",
+      "region": "Dolj",
+      "city": "Desa",
+      "latitude": 43.86667,
+      "longitude": 23.03333
+    },
+    "207270": {
+      "code": "207270",
+      "region": "Dolj",
+      "city": "Galicea Mare",
+      "latitude": 44.1,
+      "longitude": 23.3
+    },
+    "207290": {
+      "code": "207290",
+      "region": "Dolj",
+      "city": "Giubega",
+      "latitude": 44.11667,
+      "longitude": 23.41667
+    },
+    "207295": {
+      "code": "207295",
+      "region": "Dolj",
+      "city": "Giurgita",
+      "latitude": 44.01667,
+      "longitude": 23.63333
+    },
+    "207305": {
+      "code": "207305",
+      "region": "Dolj",
+      "city": "Goicea",
+      "latitude": 43.91667,
+      "longitude": 23.61667
+    },
+    "207385": {
+      "code": "207385",
+      "region": "Dolj",
+      "city": "Melinesti",
+      "latitude": 44.56667,
+      "longitude": 23.71667
+    },
+    "207415": {
+      "code": "207415",
+      "region": "Dolj",
+      "city": "Motatei",
+      "latitude": 44.08333,
+      "longitude": 23.2
+    },
+    "207416": {
+      "code": "207416",
+      "region": "Alba",
+      "city": "Unirea",
+      "latitude": 44.15,
+      "longitude": 23.18333
+    },
+    "207428": {
+      "code": "207428",
+      "region": "Dolj",
+      "city": "Farcasu",
+      "latitude": 44.6,
+      "longitude": 23.75
+    },
+    "207457": {
+      "code": "207457",
+      "region": "Dolj",
+      "city": "Rastu",
+      "latitude": 43.88333,
+      "longitude": 23.28333
+    },
+    "207465": {
+      "code": "207465",
+      "region": "Dolj",
+      "city": "Podari",
+      "latitude": 44.25,
+      "longitude": 23.78333
+    },
+    "207499": {
+      "code": "207499",
+      "region": "Dolj",
+      "city": "Pielesti",
+      "latitude": 44.33333,
+      "longitude": 23.95
+    },
+    "207506": {
+      "code": "207506",
+      "region": "Dolj",
+      "city": "Sadova",
+      "latitude": 43.9,
+      "longitude": 23.95
+    },
+    "207541": {
+      "code": "207541",
+      "region": "Arges",
+      "city": "Bascov",
+      "latitude": 44.9,
+      "longitude": 24.81667
+    },
+    "207595": {
+      "code": "207595",
+      "region": "Bistrita-Nasaud",
+      "city": "Bistrita",
+      "latitude": 47.13316,
+      "longitude": 24.50011
+    },
+    "207600": {
+      "code": "207600",
+      "region": "Dolj",
+      "city": "Urzicuta",
+      "latitude": 44.01667,
+      "longitude": 23.55
+    },
+    "210340": {
+      "code": "210340",
+      "region": "Gorj",
+      "city": "Targu Jiu",
+      "latitude": 45.05,
+      "longitude": 23.28333
+    },
+    "215100": {
+      "code": "215100",
+      "region": "Gorj",
+      "city": "Bumbesti-Jiu",
+      "latitude": 45.16667,
+      "longitude": 23.4
+    },
+    "215200": {
+      "code": "215200",
+      "region": "Gorj",
+      "city": "Motru",
+      "latitude": 44.80333,
+      "longitude": 22.97194
+    },
+    "215400": {
+      "code": "215400",
+      "region": "Gorj",
+      "city": "Rovinari",
+      "latitude": 44.91667,
+      "longitude": 23.18333
+    },
+    "215500": {
+      "code": "215500",
+      "region": "Gorj",
+      "city": "Tirgu Carbunesti",
+      "latitude": 44.95,
+      "longitude": 23.51667
+    },
+    "215600": {
+      "code": "215600",
+      "region": "Gorj",
+      "city": "Ticleni",
+      "latitude": 44.88333,
+      "longitude": 23.4
+    },
+    "217005": {
+      "code": "217005",
+      "region": "Gorj",
+      "city": "Albeni",
+      "latitude": 45.03333,
+      "longitude": 23.6
+    },
+    "217023": {
+      "code": "217023",
+      "region": "Dambovita",
+      "city": "Aninoasa",
+      "latitude": 44.75,
+      "longitude": 23.48333
+    },
+    "217030": {
+      "code": "217030",
+      "region": "Gorj",
+      "city": "Baia de Fier",
+      "latitude": 45.16667,
+      "longitude": 23.76667
+    },
+    "217067": {
+      "code": "217067",
+      "region": "Gorj",
+      "city": "Bengestii de Mijloc",
+      "latitude": 45.06667,
+      "longitude": 23.6
+    },
+    "217080": {
+      "code": "217080",
+      "region": "Gorj",
+      "city": "Bolbosi",
+      "latitude": 44.75,
+      "longitude": 23.21667
+    },
+    "217171": {
+      "code": "217171",
+      "region": "Gorj",
+      "city": "Novaci-Straini",
+      "latitude": 45.18333,
+      "longitude": 23.66667
+    },
+    "217206": {
+      "code": "217206",
+      "region": "Harghita",
+      "city": "Danesti",
+      "latitude": 44.96667,
+      "longitude": 23.33333
+    },
+    "217225": {
+      "code": "217225",
+      "region": "Gorj",
+      "city": "Dragutesti",
+      "latitude": 44.96667,
+      "longitude": 23.23333
+    },
+    "217266": {
+      "code": "217266",
+      "region": "Valcea",
+      "city": "Ionesti",
+      "latitude": 44.61667,
+      "longitude": 23.43333
+    },
+    "217277": {
+      "code": "217277",
+      "region": "Gorj",
+      "city": "Lelesti",
+      "latitude": 45.1,
+      "longitude": 23.2
+    },
+    "217295": {
+      "code": "217295",
+      "region": "Gorj",
+      "city": "Matasari",
+      "latitude": 44.85,
+      "longitude": 23.08333
+    },
+    "217300": {
+      "code": "217300",
+      "region": "Arges",
+      "city": "Musetesti",
+      "latitude": 45.15,
+      "longitude": 23.46667
+    },
+    "217325": {
+      "code": "217325",
+      "region": "Gorj",
+      "city": "Pades",
+      "latitude": 45.01667,
+      "longitude": 22.85
+    },
+    "217335": {
+      "code": "217335",
+      "region": "Gorj",
+      "city": "Pestisani",
+      "latitude": 45.06667,
+      "longitude": 23.03333
+    },
+    "217342": {
+      "code": "217342",
+      "region": "Gorj",
+      "city": "Telesti",
+      "latitude": 45,
+      "longitude": 23.08333
+    },
+    "217365": {
+      "code": "217365",
+      "region": "Gorj",
+      "city": "Polovragi",
+      "latitude": 45.18333,
+      "longitude": 23.8
+    },
+    "217392": {
+      "code": "217392",
+      "region": "Gorj",
+      "city": "Runcu",
+      "latitude": 45.11667,
+      "longitude": 23.13333
+    },
+    "217420": {
+      "code": "217420",
+      "region": "Prahova",
+      "city": "Baicoi",
+      "latitude": 45.03333,
+      "longitude": 25.85
+    },
+    "217425": {
+      "code": "217425",
+      "region": "Gorj",
+      "city": "Scoarta",
+      "latitude": 45.01667,
+      "longitude": 23.45
+    },
+    "217507": {
+      "code": "217507",
+      "region": "Gorj",
+      "city": "Tismana",
+      "latitude": 45.05,
+      "longitude": 22.96667
+    },
+    "217520": {
+      "code": "217520",
+      "region": "Gorj",
+      "city": "Turceni",
+      "latitude": 44.68333,
+      "longitude": 23.36667
+    },
+    "217540": {
+      "code": "217540",
+      "region": "Gorj",
+      "city": "Urdari",
+      "latitude": 44.8,
+      "longitude": 23.3
+    },
+    "220340": {
+      "code": "220340",
+      "region": "Mehedinti",
+      "city": "Drobeta-Turnu Severin",
+      "latitude": 44.63194,
+      "longitude": 22.65611
+    },
+    "225200": {
+      "code": "225200",
+      "region": "Mehedinti",
+      "city": "Orsova",
+      "latitude": 44.72528,
+      "longitude": 22.39611
+    },
+    "225300": {
+      "code": "225300",
+      "region": "Mehedinti",
+      "city": "Strehaia",
+      "latitude": 44.61667,
+      "longitude": 23.2
+    },
+    "225401": {
+      "code": "225401",
+      "region": "Mehedinti",
+      "city": "Vanju-Mare",
+      "latitude": 44.42528,
+      "longitude": 22.86972
+    },
+    "227010": {
+      "code": "227010",
+      "region": "Mehedinti",
+      "city": "Bala",
+      "latitude": 44.88389,
+      "longitude": 22.83333
+    },
+    "227072": {
+      "code": "227072",
+      "region": "Mehedinti",
+      "city": "Breznita Ocol",
+      "latitude": 44.66667,
+      "longitude": 22.61833
+    },
+    "227090": {
+      "code": "227090",
+      "region": "Mehedinti",
+      "city": "Butoiesti",
+      "latitude": 44.58333,
+      "longitude": 23.36667
+    },
+    "227170": {
+      "code": "227170",
+      "region": "Mehedinti",
+      "city": "Dubova",
+      "latitude": 44.61667,
+      "longitude": 22.26667
+    },
+    "227200": {
+      "code": "227200",
+      "region": "Prahova",
+      "city": "Floresti",
+      "latitude": 44.76306,
+      "longitude": 22.94778
+    },
+    "227245": {
+      "code": "227245",
+      "region": "Mehedinti",
+      "city": "Hinova",
+      "latitude": 44.54056,
+      "longitude": 22.77694
+    },
+    "227310": {
+      "code": "227310",
+      "region": "Dambovita",
+      "city": "Livezile",
+      "latitude": 44.51222,
+      "longitude": 22.86333
+    },
+    "227331": {
+      "code": "227331",
+      "region": "Mehedinti",
+      "city": "Balvanesti",
+      "latitude": 44.7975,
+      "longitude": 22.68028
+    },
+    "227350": {
+      "code": "227350",
+      "region": "Mehedinti",
+      "city": "Patulele",
+      "latitude": 44.34528,
+      "longitude": 22.77278
+    },
+    "227383": {
+      "code": "227383",
+      "region": "Prahova",
+      "city": "Lipanesti",
+      "latitude": 45.05,
+      "longitude": 26.01667
+    },
+    "227385": {
+      "code": "227385",
+      "region": "Mehedinti",
+      "city": "Pristol",
+      "latitude": 44.22472,
+      "longitude": 22.70917
+    },
+    "230200": {
+      "code": "230200",
+      "region": "Olt",
+      "city": "Slatina",
+      "latitude": 44.43333,
+      "longitude": 24.36667
+    },
+    "235200": {
+      "code": "235200",
+      "region": "Olt",
+      "city": "Caracal",
+      "latitude": 44.11667,
+      "longitude": 24.35
+    },
+    "235300": {
+      "code": "235300",
+      "region": "Olt",
+      "city": "Corabia",
+      "latitude": 43.78333,
+      "longitude": 24.5
+    },
+    "235400": {
+      "code": "235400",
+      "region": "Olt",
+      "city": "Draganesti-Olt",
+      "latitude": 44.16667,
+      "longitude": 24.53333
+    },
+    "235501": {
+      "code": "235501",
+      "region": "Olt",
+      "city": "Piatra Olt",
+      "latitude": 44.36667,
+      "longitude": 24.26667
+    },
+    "235502": {
+      "code": "235502",
+      "region": "Valcea",
+      "city": "Slatioara",
+      "latitude": 44.4,
+      "longitude": 24.31667
+    },
+    "235600": {
+      "code": "235600",
+      "region": "Olt",
+      "city": "Scornicesti",
+      "latitude": 44.56667,
+      "longitude": 24.55
+    },
+    "235604": {
+      "code": "235604",
+      "region": "Timis",
+      "city": "Racovita",
+      "latitude": 45.3,
+      "longitude": 27.45
+    },
+    "235613": {
+      "code": "235613",
+      "region": "Vrancea",
+      "city": "Urechesti",
+      "latitude": 45.6,
+      "longitude": 27.06667
+    },
+    "237121": {
+      "code": "237121",
+      "region": "Olt",
+      "city": "Curtisoara",
+      "latitude": 44.5,
+      "longitude": 24.33333
+    },
+    "237145": {
+      "code": "237145",
+      "region": "Olt",
+      "city": "Dobroteasa",
+      "latitude": 44.78333,
+      "longitude": 24.38333
+    },
+    "237146": {
+      "code": "237146",
+      "region": "Suceava",
+      "city": "Vulturesti",
+      "latitude": 44.73333,
+      "longitude": 24.31667
+    },
+    "237151": {
+      "code": "237151",
+      "region": "Ialomita",
+      "city": "Facaeni",
+      "latitude": 44.56667,
+      "longitude": 27.9
+    },
+    "237195": {
+      "code": "237195",
+      "region": "Vaslui",
+      "city": "Islaz",
+      "latitude": 43.73333,
+      "longitude": 24.75
+    },
+    "237215": {
+      "code": "237215",
+      "region": "Braila",
+      "city": "Ianca",
+      "latitude": 43.78333,
+      "longitude": 24.18333
+    },
+    "237220": {
+      "code": "237220",
+      "region": "Olt",
+      "city": "Iancu Jianu",
+      "latitude": 44.5,
+      "longitude": 24.03333
+    },
+    "237225": {
+      "code": "237225",
+      "region": "Olt",
+      "city": "Icoana",
+      "latitude": 44.41667,
+      "longitude": 24.71667
+    },
+    "237230": {
+      "code": "237230",
+      "region": "Olt",
+      "city": "Izbiceni",
+      "latitude": 43.83333,
+      "longitude": 24.65
+    },
+    "237240": {
+      "code": "237240",
+      "region": "Olt",
+      "city": "Leleasca",
+      "latitude": 44.78333,
+      "longitude": 24.43333
+    },
+    "237250": {
+      "code": "237250",
+      "region": "Olt",
+      "city": "Maruntei",
+      "latitude": 44.2,
+      "longitude": 24.46667
+    },
+    "237264": {
+      "code": "237264",
+      "region": "Bacau",
+      "city": "Onesti",
+      "latitude": 46.258611,
+      "longitude": 26.769167
+    },
+    "237266": {
+      "code": "237266",
+      "region": "Prahova",
+      "city": "Urlati",
+      "latitude": 44.98333,
+      "longitude": 26.23333
+    },
+    "237274": {
+      "code": "237274",
+      "region": "Dolj",
+      "city": "Poiana Mare",
+      "latitude": 43.91667,
+      "longitude": 23.06667
+    },
+    "237280": {
+      "code": "237280",
+      "region": "Olt",
+      "city": "Nicolae Titulescu",
+      "latitude": 44.3,
+      "longitude": 24.8
+    },
+    "237310": {
+      "code": "237310",
+      "region": "Olt",
+      "city": "Osica de Sus",
+      "latitude": 44.25,
+      "longitude": 24.31667
+    },
+    "237330": {
+      "code": "237330",
+      "region": "Olt",
+      "city": "Perieti",
+      "latitude": 44.4,
+      "longitude": 24.55
+    },
+    "237337": {
+      "code": "237337",
+      "region": "Olt",
+      "city": "Plesoiu",
+      "latitude": 44.46667,
+      "longitude": 24.26667
+    },
+    "237339": {
+      "code": "237339",
+      "region": "Satu Mare",
+      "city": "Doba",
+      "latitude": 47.73333,
+      "longitude": 22.71667
+    },
+    "237358": {
+      "code": "237358",
+      "region": "Olt",
+      "city": "Potcoava",
+      "latitude": 44.48333,
+      "longitude": 24.65
+    },
+    "237403": {
+      "code": "237403",
+      "region": "Brasov",
+      "city": "Lisa",
+      "latitude": 45.71667,
+      "longitude": 24.85
+    },
+    "237422": {
+      "code": "237422",
+      "region": "Arad",
+      "city": "Spineni",
+      "latitude": 44.7,
+      "longitude": 24.56667
+    },
+    "237441": {
+      "code": "237441",
+      "region": "Giurgiu",
+      "city": "Colibasi",
+      "latitude": 44.20222,
+      "longitude": 26.19472
+    },
+    "237446": {
+      "code": "237446",
+      "region": "Arges",
+      "city": "Rotunda",
+      "latitude": 43.98333,
+      "longitude": 24.31667
+    },
+    "237456": {
+      "code": "237456",
+      "region": "Bacau",
+      "city": "Stefan cel Mare",
+      "latitude": 43.81667,
+      "longitude": 24.21667
+    },
+    "237460": {
+      "code": "237460",
+      "region": "Buzau",
+      "city": "Padina",
+      "latitude": 44.83333,
+      "longitude": 27.11667
+    },
+    "237480": {
+      "code": "237480",
+      "region": "Olt",
+      "city": "Tia Mare",
+      "latitude": 43.86667,
+      "longitude": 24.63333
+    },
+    "237506": {
+      "code": "237506",
+      "region": "Olt",
+      "city": "Birca",
+      "latitude": 43.96667,
+      "longitude": 23.61667
+    },
+    "237510": {
+      "code": "237510",
+      "region": "Olt",
+      "city": "Vadastra",
+      "latitude": 43.86667,
+      "longitude": 24.36667
+    },
+    "237515": {
+      "code": "237515",
+      "region": "Olt",
+      "city": "Vadastrita",
+      "latitude": 43.85,
+      "longitude": 24.33333
+    },
+    "237530": {
+      "code": "237530",
+      "region": "Olt",
+      "city": "Verguleasa",
+      "latitude": 44.65,
+      "longitude": 24.31667
+    },
+    "237540": {
+      "code": "237540",
+      "region": "Dambovita",
+      "city": "Visina",
+      "latitude": 43.86667,
+      "longitude": 24.45
+    },
+    "237545": {
+      "code": "237545",
+      "region": "Olt",
+      "city": "Vitomiresti",
+      "latitude": 44.86667,
+      "longitude": 24.4
+    },
+    "237561": {
+      "code": "237561",
+      "region": "Alba",
+      "city": "Blaj",
+      "latitude": 46.18333,
+      "longitude": 23.91667
+    },
+    "240001": {
+      "code": "240001",
+      "region": "Arges",
+      "city": "Vladesti",
+      "latitude": 45.11667,
+      "longitude": 24.3
+    },
+    "240005": {
+      "code": "240005",
+      "region": "Hunedoara",
+      "city": "Geoagiu",
+      "latitude": 45.91667,
+      "longitude": 23.2
+    },
+    "240400": {
+      "code": "240400",
+      "region": "Valcea",
+      "city": "Ramnicu Valcea",
+      "latitude": 45.1,
+      "longitude": 24.36667
+    },
+    "245101": {
+      "code": "245101",
+      "region": "Valcea",
+      "city": "Babeni",
+      "latitude": 44.96667,
+      "longitude": 24.23333
+    },
+    "245203": {
+      "code": "245203",
+      "region": "Valcea",
+      "city": "Baile Govora",
+      "latitude": 45.08333,
+      "longitude": 24.18333
+    },
+    "245302": {
+      "code": "245302",
+      "region": "Mehedinti",
+      "city": "Deveselu",
+      "latitude": 44.06667,
+      "longitude": 24.38333
+    },
+    "245500": {
+      "code": "245500",
+      "region": "Valcea",
+      "city": "Brezoi",
+      "latitude": 45.35,
+      "longitude": 24.25
+    },
+    "245700": {
+      "code": "245700",
+      "region": "Valcea",
+      "city": "Dragasani",
+      "latitude": 44.65,
+      "longitude": 24.26667
+    },
+    "245801": {
+      "code": "245801",
+      "region": "Valcea",
+      "city": "Horezu",
+      "latitude": 45.15,
+      "longitude": 24.01667
+    },
+    "247015": {
+      "code": "247015",
+      "region": "Valcea",
+      "city": "Amarasti",
+      "latitude": 44.76667,
+      "longitude": 24.15
+    },
+    "247030": {
+      "code": "247030",
+      "region": "Maramures",
+      "city": "Giulesti",
+      "latitude": 47.81667,
+      "longitude": 23.93333
+    },
+    "247040": {
+      "code": "247040",
+      "region": "Valcea",
+      "city": "Berislavesti",
+      "latitude": 45.25,
+      "longitude": 24.41667
+    },
+    "247050": {
+      "code": "247050",
+      "region": "Valcea",
+      "city": "Boisoara",
+      "latitude": 45.43333,
+      "longitude": 24.38333
+    },
+    "247052": {
+      "code": "247052",
+      "region": "Giurgiu",
+      "city": "Gaujani",
+      "latitude": 43.73333,
+      "longitude": 25.7
+    },
+    "247065": {
+      "code": "247065",
+      "region": "Valcea",
+      "city": "Bujoreni",
+      "latitude": 45.13333,
+      "longitude": 24.35
+    },
+    "247095": {
+      "code": "247095",
+      "region": "Valcea",
+      "city": "Cernisoara",
+      "latitude": 45.03333,
+      "longitude": 23.98333
+    },
+    "247163": {
+      "code": "247163",
+      "region": "Valcea",
+      "city": "Fauresti",
+      "latitude": 44.56667,
+      "longitude": 24.01667
+    },
+    "247214": {
+      "code": "247214",
+      "region": "Maramures",
+      "city": "Viseu de Sus",
+      "latitude": 47.71667,
+      "longitude": 24.43333
+    },
+    "247239": {
+      "code": "247239",
+      "region": "Hunedoara",
+      "city": "Brad",
+      "latitude": 46.13333,
+      "longitude": 22.78333
+    },
+    "247271": {
+      "code": "247271",
+      "region": "Dambovita",
+      "city": "Bucsani",
+      "latitude": 44.37611,
+      "longitude": 25.65528
+    },
+    "247274": {
+      "code": "247274",
+      "region": "Suceava",
+      "city": "Dragoesti",
+      "latitude": 44.81667,
+      "longitude": 24.3
+    },
+    "247322": {
+      "code": "247322",
+      "region": "Bacau",
+      "city": "Livezi",
+      "latitude": 44.85,
+      "longitude": 23.81667
+    },
+    "247389": {
+      "code": "247389",
+      "region": "Valcea",
+      "city": "Baile Olanesti",
+      "latitude": 45.2,
+      "longitude": 24.23333
+    },
+    "247428": {
+      "code": "247428",
+      "region": "Ialomita",
+      "city": "Grindu",
+      "latitude": 44.76667,
+      "longitude": 26.91667
+    },
+    "247450": {
+      "code": "247450",
+      "region": "Valcea",
+      "city": "Orlesti",
+      "latitude": 44.8,
+      "longitude": 24.21667
+    },
+    "247467": {
+      "code": "247467",
+      "region": "Valcea",
+      "city": "Pausesti-Ursaresti",
+      "latitude": 45.06667,
+      "longitude": 24.13333
+    },
+    "247470": {
+      "code": "247470",
+      "region": "Valcea",
+      "city": "Pausesti-Maglasi",
+      "latitude": 45.13333,
+      "longitude": 24.25
+    },
+    "247471": {
+      "code": "247471",
+      "region": "Hunedoara",
+      "city": "Petrosani",
+      "latitude": 45.41667,
+      "longitude": 23.36667
+    },
+    "247489": {
+      "code": "247489",
+      "region": "Valcea",
+      "city": "Perisani",
+      "latitude": 45.38333,
+      "longitude": 24.4
+    },
+    "247492": {
+      "code": "247492",
+      "region": "Arges",
+      "city": "Titesti",
+      "latitude": 45.01667,
+      "longitude": 25
+    },
+    "247526": {
+      "code": "247526",
+      "region": "Valcea",
+      "city": "Prundeni",
+      "latitude": 44.73333,
+      "longitude": 24.26667
+    },
+    "247534": {
+      "code": "247534",
+      "region": "Valcea",
+      "city": "Copaceni",
+      "latitude": 45,
+      "longitude": 23.98333
+    },
+    "247555": {
+      "code": "247555",
+      "region": "Valcea",
+      "city": "Rosiile",
+      "latitude": 44.86667,
+      "longitude": 23.93333
+    },
+    "247585": {
+      "code": "247585",
+      "region": "Valcea",
+      "city": "Salatrucel",
+      "latitude": 45.25,
+      "longitude": 24.38333
+    },
+    "247616": {
+      "code": "247616",
+      "region": "Valcea",
+      "city": "Balcesti",
+      "latitude": 44.61667,
+      "longitude": 23.95
+    },
+    "247626": {
+      "code": "247626",
+      "region": "Valcea",
+      "city": "Pietrari",
+      "latitude": 45.1,
+      "longitude": 24.13333
+    },
+    "247645": {
+      "code": "247645",
+      "region": "Valcea",
+      "city": "Stoilesti",
+      "latitude": 44.9,
+      "longitude": 24.38333
+    },
+    "247667": {
+      "code": "247667",
+      "region": "Valcea",
+      "city": "Stroesti",
+      "latitude": 45.08333,
+      "longitude": 23.9
+    },
+    "247678": {
+      "code": "247678",
+      "region": "Braila",
+      "city": "Sutesti",
+      "latitude": 45.21667,
+      "longitude": 27.43333
+    },
+    "247687": {
+      "code": "247687",
+      "region": "Arges",
+      "city": "Stefanesti",
+      "latitude": 44.61667,
+      "longitude": 24.25
+    },
+    "247695": {
+      "code": "247695",
+      "region": "Valcea",
+      "city": "Tetoiu",
+      "latitude": 44.75,
+      "longitude": 23.91667
+    },
+    "247764": {
+      "code": "247764",
+      "region": "Botosani",
+      "city": "Saveni",
+      "latitude": 44.6,
+      "longitude": 27.65
+    },
+    "300980": {
+      "code": "300980",
+      "region": "Timis",
+      "city": "Timisoara",
+      "latitude": 45.74944,
+      "longitude": 21.22722
+    },
+    "305100": {
+      "code": "305100",
+      "region": "Timis",
+      "city": "Buzias",
+      "latitude": 45.64917,
+      "longitude": 21.60361
+    },
+    "305200": {
+      "code": "305200",
+      "region": "Timis",
+      "city": "Deta",
+      "latitude": 45.38889,
+      "longitude": 21.22444
+    },
+    "305301": {
+      "code": "305301",
+      "region": "Timis",
+      "city": "Faget",
+      "latitude": 45.85,
+      "longitude": 22.18333
+    },
+    "305400": {
+      "code": "305400",
+      "region": "Timis",
+      "city": "Jimbolia",
+      "latitude": 45.79139,
+      "longitude": 20.71722
+    },
+    "305500": {
+      "code": "305500",
+      "region": "Timis",
+      "city": "Lugoj",
+      "latitude": 45.68861,
+      "longitude": 21.90306
+    },
+    "305600": {
+      "code": "305600",
+      "region": "Timis",
+      "city": "Sannicolau Mare",
+      "latitude": 46.08333,
+      "longitude": 20.63333
+    },
+    "307040": {
+      "code": "307040",
+      "region": "Timis",
+      "city": "Becicherecu Mic",
+      "latitude": 45.82917,
+      "longitude": 21.05139
+    },
+    "307090": {
+      "code": "307090",
+      "region": "Timis",
+      "city": "Carpinis",
+      "latitude": 45.78722,
+      "longitude": 20.90417
+    },
+    "307095": {
+      "code": "307095",
+      "region": "Timis",
+      "city": "Cenad",
+      "latitude": 46.13333,
+      "longitude": 20.58333
+    },
+    "307100": {
+      "code": "307100",
+      "region": "Timis",
+      "city": "Cenei",
+      "latitude": 45.71583,
+      "longitude": 20.90389
+    },
+    "307130": {
+      "code": "307130",
+      "region": "Timis",
+      "city": "Criciova",
+      "latitude": 45.63333,
+      "longitude": 22.06667
+    },
+    "307141": {
+      "code": "307141",
+      "region": "Harghita",
+      "city": "Subcetate",
+      "latitude": 46.85,
+      "longitude": 25.45
+    },
+    "307160": {
+      "code": "307160",
+      "region": "Brasov",
+      "city": "Dumbravita",
+      "latitude": 45.76667,
+      "longitude": 25.43333
+    },
+    "307175": {
+      "code": "307175",
+      "region": "Satu Mare",
+      "city": "Foeni",
+      "latitude": 45.49861,
+      "longitude": 20.87583
+    },
+    "307180": {
+      "code": "307180",
+      "region": "Timis",
+      "city": "Gavojdia",
+      "latitude": 45.61667,
+      "longitude": 22.01667
+    },
+    "307185": {
+      "code": "307185",
+      "region": "Timis",
+      "city": "Gataia",
+      "latitude": 45.43111,
+      "longitude": 21.43
+    },
+    "307215": {
+      "code": "307215",
+      "region": "Timis",
+      "city": "Giera",
+      "latitude": 45.40722,
+      "longitude": 20.99222
+    },
+    "307220": {
+      "code": "307220",
+      "region": "Timis",
+      "city": "Giroc",
+      "latitude": 45.69417,
+      "longitude": 21.23583
+    },
+    "307230": {
+      "code": "307230",
+      "region": "Timis",
+      "city": "Jamu Mare",
+      "latitude": 45.25417,
+      "longitude": 21.41694
+    },
+    "307233": {
+      "code": "307233",
+      "region": "Ilfov",
+      "city": "Magurele",
+      "latitude": 44.35,
+      "longitude": 26.03333
+    },
+    "307235": {
+      "code": "307235",
+      "region": "Timis",
+      "city": "Jebel",
+      "latitude": 45.55556,
+      "longitude": 21.21361
+    },
+    "307240": {
+      "code": "307240",
+      "region": "Timis",
+      "city": "Lenauheim",
+      "latitude": 45.87194,
+      "longitude": 20.79944
+    },
+    "307245": {
+      "code": "307245",
+      "region": "Timis",
+      "city": "Liebling",
+      "latitude": 45.5775,
+      "longitude": 21.32167
+    },
+    "307250": {
+      "code": "307250",
+      "region": "Timis",
+      "city": "Lovrin",
+      "latitude": 45.96806,
+      "longitude": 20.77028
+    },
+    "307261": {
+      "code": "307261",
+      "region": "Timis",
+      "city": "Curtea",
+      "latitude": 45.81667,
+      "longitude": 22.3
+    },
+    "307275": {
+      "code": "307275",
+      "region": "Timis",
+      "city": "Manastiur",
+      "latitude": 45.81667,
+      "longitude": 22.06667
+    },
+    "307280": {
+      "code": "307280",
+      "region": "Timis",
+      "city": "Moravita",
+      "latitude": 45.25583,
+      "longitude": 21.27028
+    },
+    "307310": {
+      "code": "307310",
+      "region": "Timis",
+      "city": "Peciu Nou",
+      "latitude": 45.60639,
+      "longitude": 21.05778
+    },
+    "307321": {
+      "code": "307321",
+      "region": "Bihor",
+      "city": "Pietroasa",
+      "latitude": 45.83333,
+      "longitude": 22.4
+    },
+    "307340": {
+      "code": "307340",
+      "region": "Timis",
+      "city": "Recas",
+      "latitude": 45.79889,
+      "longitude": 21.50083
+    },
+    "307350": {
+      "code": "307350",
+      "region": "Timis",
+      "city": "Remetea Mare",
+      "latitude": 45.77944,
+      "longitude": 21.37611
+    },
+    "307355": {
+      "code": "307355",
+      "region": "Timis",
+      "city": "Sacosu Turcesc",
+      "latitude": 45.65194,
+      "longitude": 21.42889
+    },
+    "307365": {
+      "code": "307365",
+      "region": "Timis",
+      "city": "Satchinez",
+      "latitude": 45.9375,
+      "longitude": 21.04056
+    },
+    "307376": {
+      "code": "307376",
+      "region": "Timis",
+      "city": "Sanandrei",
+      "latitude": 45.85306,
+      "longitude": 21.16806
+    },
+    "307380": {
+      "code": "307380",
+      "region": "Timis",
+      "city": "Sanmihaiu Roman",
+      "latitude": 45.70444,
+      "longitude": 21.08889
+    },
+    "307385": {
+      "code": "307385",
+      "region": "Timis",
+      "city": "Sanpetru Mare",
+      "latitude": 46.05,
+      "longitude": 20.66667
+    },
+    "307396": {
+      "code": "307396",
+      "region": "Salaj",
+      "city": "Sag",
+      "latitude": 45.64861,
+      "longitude": 21.17556
+    },
+    "307405": {
+      "code": "307405",
+      "region": "Timis",
+      "city": "Teremia Mare",
+      "latitude": 45.93528,
+      "longitude": 20.525
+    },
+    "307430": {
+      "code": "307430",
+      "region": "Timis",
+      "city": "Tormac",
+      "latitude": 45.52083,
+      "longitude": 21.49361
+    },
+    "307435": {
+      "code": "307435",
+      "region": "Timis",
+      "city": "Traian Vuia",
+      "latitude": 45.8,
+      "longitude": 22.06667
+    },
+    "307445": {
+      "code": "307445",
+      "region": "Timis",
+      "city": "Uivar",
+      "latitude": 45.65806,
+      "longitude": 20.90583
+    },
+    "307455": {
+      "code": "307455",
+      "region": "Timis",
+      "city": "Varias",
+      "latitude": 46.01667,
+      "longitude": 20.95
+    },
+    "307460": {
+      "code": "307460",
+      "region": "Timis",
+      "city": "Victor Vlad Delamarina",
+      "latitude": 45.64056,
+      "longitude": 21.89278
+    },
+    "307463": {
+      "code": "307463",
+      "region": "Botosani",
+      "city": "Mihalaseni",
+      "latitude": 47.88333,
+      "longitude": 27.06667
+    },
+    "315200": {
+      "code": "315200",
+      "region": "Arad",
+      "city": "Curtici",
+      "latitude": 46.35,
+      "longitude": 21.3
+    },
+    "315400": {
+      "code": "315400",
+      "region": "Arad",
+      "city": "Lipova",
+      "latitude": 46.08333,
+      "longitude": 21.7
+    },
+    "315500": {
+      "code": "315500",
+      "region": "Arad",
+      "city": "Nadlac",
+      "latitude": 46.16667,
+      "longitude": 20.75
+    },
+    "315600": {
+      "code": "315600",
+      "region": "Arad",
+      "city": "Pancota",
+      "latitude": 46.33333,
+      "longitude": 21.7
+    },
+    "317012": {
+      "code": "317012",
+      "region": "Arad",
+      "city": "Apateu",
+      "latitude": 46.61667,
+      "longitude": 21.78333
+    },
+    "317015": {
+      "code": "317015",
+      "region": "Arad",
+      "city": "Archis",
+      "latitude": 46.48333,
+      "longitude": 22.05
+    },
+    "317030": {
+      "code": "317030",
+      "region": "Arad",
+      "city": "Barzava",
+      "latitude": 46.11667,
+      "longitude": 21.98333
+    },
+    "317040": {
+      "code": "317040",
+      "region": "Arad",
+      "city": "Beliu",
+      "latitude": 46.48333,
+      "longitude": 21.98333
+    },
+    "317055": {
+      "code": "317055",
+      "region": "Arad",
+      "city": "Bocsig",
+      "latitude": 46.41667,
+      "longitude": 21.95
+    },
+    "317065": {
+      "code": "317065",
+      "region": "Arad",
+      "city": "Buteni",
+      "latitude": 46.31667,
+      "longitude": 22.11667
+    },
+    "317070": {
+      "code": "317070",
+      "region": "Arad",
+      "city": "Carand",
+      "latitude": 46.45,
+      "longitude": 22.08333
+    },
+    "317080": {
+      "code": "317080",
+      "region": "Arad",
+      "city": "Chisindia",
+      "latitude": 46.28333,
+      "longitude": 22.1
+    },
+    "317121": {
+      "code": "317121",
+      "region": "Arges",
+      "city": "Poenari",
+      "latitude": 45.21667,
+      "longitude": 25.05
+    },
+    "317135": {
+      "code": "317135",
+      "region": "Arad",
+      "city": "Ghioroc",
+      "latitude": 46.15,
+      "longitude": 21.58333
+    },
+    "317145": {
+      "code": "317145",
+      "region": "Arad",
+      "city": "Gurahont",
+      "latitude": 46.26667,
+      "longitude": 22.35
+    },
+    "317206": {
+      "code": "317206",
+      "region": "Satu Mare",
+      "city": "Livada",
+      "latitude": 46.22284,
+      "longitude": 21.38403
+    },
+    "317217": {
+      "code": "317217",
+      "region": "Cluj",
+      "city": "Ciucea",
+      "latitude": 46.95,
+      "longitude": 22.81667
+    },
+    "317225": {
+      "code": "317225",
+      "region": "Arad",
+      "city": "Olari",
+      "latitude": 46.38333,
+      "longitude": 21.55
+    },
+    "317235": {
+      "code": "317235",
+      "region": "Arad",
+      "city": "Pecica",
+      "latitude": 46.16667,
+      "longitude": 21.06667
+    },
+    "317240": {
+      "code": "317240",
+      "region": "Arad",
+      "city": "Peregu Mare",
+      "latitude": 46.23333,
+      "longitude": 20.9
+    },
+    "317280": {
+      "code": "317280",
+      "region": "Mures",
+      "city": "Sintana",
+      "latitude": 46.35,
+      "longitude": 21.5
+    },
+    "317285": {
+      "code": "317285",
+      "region": "Arad",
+      "city": "Secusigiu",
+      "latitude": 46.08333,
+      "longitude": 20.98333
+    },
+    "317301": {
+      "code": "317301",
+      "region": "Arad",
+      "city": "Chisineu Cris",
+      "latitude": 46.53333,
+      "longitude": 21.51667
+    },
+    "317315": {
+      "code": "317315",
+      "region": "Arad",
+      "city": "Seitin",
+      "latitude": 46.1,
+      "longitude": 20.85
+    },
+    "317325": {
+      "code": "317325",
+      "region": "Arad",
+      "city": "Sicula",
+      "latitude": 46.43333,
+      "longitude": 21.75
+    },
+    "317335": {
+      "code": "317335",
+      "region": "Arad",
+      "city": "Simand",
+      "latitude": 46.43333,
+      "longitude": 21.45
+    },
+    "317360": {
+      "code": "317360",
+      "region": "Caras-Severin",
+      "city": "Tirnova",
+      "latitude": 46.31667,
+      "longitude": 21.8
+    },
+    "317377": {
+      "code": "317377",
+      "region": "Arad",
+      "city": "Dorgos",
+      "latitude": 46.05,
+      "longitude": 21.83333
+    },
+    "317390": {
+      "code": "317390",
+      "region": "Arad",
+      "city": "Varfurile",
+      "latitude": 46.31667,
+      "longitude": 22.51667
+    },
+    "317400": {
+      "code": "317400",
+      "region": "Arad",
+      "city": "Felnac",
+      "latitude": 46.11667,
+      "longitude": 21.15
+    },
+    "317402": {
+      "code": "317402",
+      "region": "Arad",
+      "city": "Vinga",
+      "latitude": 46.01667,
+      "longitude": 21.2
+    },
+    "317405": {
+      "code": "317405",
+      "region": "Arad",
+      "city": "Vladimirescu",
+      "latitude": 46.15,
+      "longitude": 21.4
+    },
+    "317407": {
+      "code": "317407",
+      "region": "Calarasi",
+      "city": "Salcioara",
+      "latitude": 44.53333,
+      "longitude": 26.88333
+    },
+    "317410": {
+      "code": "317410",
+      "region": "Arad",
+      "city": "Zabrani",
+      "latitude": 46.06667,
+      "longitude": 21.55
+    },
+    "320290": {
+      "code": "320290",
+      "region": "Caras-Severin",
+      "city": "Resita",
+      "latitude": 45.30083,
+      "longitude": 21.88917
+    },
+    "325100": {
+      "code": "325100",
+      "region": "Caras-Severin",
+      "city": "Anina",
+      "latitude": 45.07944,
+      "longitude": 21.85694
+    },
+    "325200": {
+      "code": "325200",
+      "region": "Caras-Severin",
+      "city": "Baile Herculane",
+      "latitude": 44.87972,
+      "longitude": 22.4125
+    },
+    "325400": {
+      "code": "325400",
+      "region": "Caras-Severin",
+      "city": "Caransebes",
+      "latitude": 45.41667,
+      "longitude": 22.21667
+    },
+    "325500": {
+      "code": "325500",
+      "region": "Caras-Severin",
+      "city": "Moldova Noua",
+      "latitude": 44.7375,
+      "longitude": 21.66694
+    },
+    "325600": {
+      "code": "325600",
+      "region": "Caras-Severin",
+      "city": "Oravita",
+      "latitude": 45.0325,
+      "longitude": 21.68944
+    },
+    "325700": {
+      "code": "325700",
+      "region": "Caras-Severin",
+      "city": "Otelu Rosu",
+      "latitude": 45.53333,
+      "longitude": 22.36667
+    },
+    "327005": {
+      "code": "327005",
+      "region": "Caras-Severin",
+      "city": "Armenis",
+      "latitude": 45.2,
+      "longitude": 22.31667
+    },
+    "327047": {
+      "code": "327047",
+      "region": "Prahova",
+      "city": "Brebu",
+      "latitude": 45.42028,
+      "longitude": 21.9925
+    },
+    "327060": {
+      "code": "327060",
+      "region": "Caras-Severin",
+      "city": "Bucosnita",
+      "latitude": 45.3,
+      "longitude": 22.26667
+    },
+    "327065": {
+      "code": "327065",
+      "region": "Caras-Severin",
+      "city": "Carasova",
+      "latitude": 45.19861,
+      "longitude": 21.87
+    },
+    "327090": {
+      "code": "327090",
+      "region": "Caras-Severin",
+      "city": "Constantin Daicoviciu",
+      "latitude": 45.55,
+      "longitude": 22.15
+    },
+    "327102": {
+      "code": "327102",
+      "region": "Botosani",
+      "city": "Paltinis",
+      "latitude": 45.43333,
+      "longitude": 22.15
+    },
+    "327160": {
+      "code": "327160",
+      "region": "Caras-Severin",
+      "city": "Moldova Noua",
+      "latitude": 44.7375,
+      "longitude": 21.66694
+    },
+    "327175": {
+      "code": "327175",
+      "region": "Caras-Severin",
+      "city": "Doclin",
+      "latitude": 45.29694,
+      "longitude": 21.65389
+    },
+    "327176": {
+      "code": "327176",
+      "region": "Caras-Severin",
+      "city": "Bocsa",
+      "latitude": 45.37333,
+      "longitude": 21.70917
+    },
+    "327250": {
+      "code": "327250",
+      "region": "Tulcea",
+      "city": "Luncavita",
+      "latitude": 45.08333,
+      "longitude": 22.26667
+    },
+    "327265": {
+      "code": "327265",
+      "region": "Caras-Severin",
+      "city": "Maureni",
+      "latitude": 45.40389,
+      "longitude": 21.5025
+    },
+    "327315": {
+      "code": "327315",
+      "region": "Caras-Severin",
+      "city": "Racasdia",
+      "latitude": 44.99306,
+      "longitude": 21.61806
+    },
+    "327325": {
+      "code": "327325",
+      "region": "Caras-Severin",
+      "city": "Sacu",
+      "latitude": 45.56667,
+      "longitude": 22.11667
+    },
+    "327385": {
+      "code": "327385",
+      "region": "Caras-Severin",
+      "city": "Tarnova",
+      "latitude": 45.3425,
+      "longitude": 22.00611
+    },
+    "327395": {
+      "code": "327395",
+      "region": "Caras-Severin",
+      "city": "Ticvaniu Mare",
+      "latitude": 45.13528,
+      "longitude": 21.63806
+    },
+    "327400": {
+      "code": "327400",
+      "region": "Caras-Severin",
+      "city": "Toplet",
+      "latitude": 44.79722,
+      "longitude": 22.39444
+    },
+    "327439": {
+      "code": "327439",
+      "region": "Brasov",
+      "city": "Poiana Marului",
+      "latitude": 45.6,
+      "longitude": 25.3
+    },
+    "327441": {
+      "code": "327441",
+      "region": "Caras-Severin",
+      "city": "Zavoi",
+      "latitude": 45.51667,
+      "longitude": 22.41667
+    },
+    "330260": {
+      "code": "330260",
+      "region": "Hunedoara",
+      "city": "Deva",
+      "latitude": 45.88333,
+      "longitude": 22.9
+    },
+    "331220": {
+      "code": "331220",
+      "region": "Hunedoara",
+      "city": "Hunedoara",
+      "latitude": 45.75,
+      "longitude": 22.9
+    },
+    "335300": {
+      "code": "335300",
+      "region": "Hunedoara",
+      "city": "Calan",
+      "latitude": 45.73333,
+      "longitude": 22.98333
+    },
+    "335500": {
+      "code": "335500",
+      "region": "Hunedoara",
+      "city": "Hunedoara",
+      "latitude": 45.75,
+      "longitude": 22.9
+    },
+    "335600": {
+      "code": "335600",
+      "region": "Hunedoara",
+      "city": "Lupeni",
+      "latitude": 45.36029,
+      "longitude": 23.23832
+    },
+    "335700": {
+      "code": "335700",
+      "region": "Hunedoara",
+      "city": "Orastie",
+      "latitude": 45.83333,
+      "longitude": 23.2
+    },
+    "335800": {
+      "code": "335800",
+      "region": "Hunedoara",
+      "city": "Hunedoara",
+      "latitude": 45.75,
+      "longitude": 22.9
+    },
+    "336200": {
+      "code": "336200",
+      "region": "Hunedoara",
+      "city": "Hunedoara",
+      "latitude": 45.75,
+      "longitude": 22.9
+    },
+    "336250": {
+      "code": "336250",
+      "region": "Hunedoara",
+      "city": "Vulcan",
+      "latitude": 45.38333,
+      "longitude": 23.26667
+    },
+    "337005": {
+      "code": "337005",
+      "region": "Hunedoara",
+      "city": "Baia de Cris",
+      "latitude": 46.16667,
+      "longitude": 22.71667
+    },
+    "337024": {
+      "code": "337024",
+      "region": "Vrancea",
+      "city": "Poiana",
+      "latitude": 44.56667,
+      "longitude": 25.68333
+    },
+    "337035": {
+      "code": "337035",
+      "region": "Mehedinti",
+      "city": "Baru Mic",
+      "latitude": 45.46667,
+      "longitude": 23.15
+    },
+    "337040": {
+      "code": "337040",
+      "region": "Hunedoara",
+      "city": "Bacia",
+      "latitude": 45.8,
+      "longitude": 23.01667
+    },
+    "337047": {
+      "code": "337047",
+      "region": "Hunedoara",
+      "city": "Baita",
+      "latitude": 46.03333,
+      "longitude": 22.9
+    },
+    "337095": {
+      "code": "337095",
+      "region": "Hunedoara",
+      "city": "Bosorod",
+      "latitude": 45.68333,
+      "longitude": 23.08333
+    },
+    "337135": {
+      "code": "337135",
+      "region": "Hunedoara",
+      "city": "Buces",
+      "latitude": 46.18333,
+      "longitude": 22.93333
+    },
+    "337142": {
+      "code": "337142",
+      "region": "Arges",
+      "city": "Curtea de Arges",
+      "latitude": 45.13333,
+      "longitude": 24.68333
+    },
+    "337166": {
+      "code": "337166",
+      "region": "Prahova",
+      "city": "Pucheni",
+      "latitude": 45.18333,
+      "longitude": 25.28333
+    },
+    "337202": {
+      "code": "337202",
+      "region": "Hunedoara",
+      "city": "Criscior",
+      "latitude": 46.11667,
+      "longitude": 22.86667
+    },
+    "337217": {
+      "code": "337217",
+      "region": "Ilfov",
+      "city": "Bragadiru",
+      "latitude": 43.76667,
+      "longitude": 25.51667
+    },
+    "337270": {
+      "code": "337270",
+      "region": "Hunedoara",
+      "city": "Ilia",
+      "latitude": 45.93333,
+      "longitude": 22.65
+    },
+    "337335": {
+      "code": "337335",
+      "region": "Hunedoara",
+      "city": "Pestisu Mic",
+      "latitude": 45.8,
+      "longitude": 22.88333
+    },
+    "337349": {
+      "code": "337349",
+      "region": "Brasov",
+      "city": "Fogarasch",
+      "latitude": 45.85,
+      "longitude": 24.96667
+    },
+    "337432": {
+      "code": "337432",
+      "region": "Bacau",
+      "city": "Comanesti",
+      "latitude": 46.41667,
+      "longitude": 26.43333
+    },
+    "337448": {
+      "code": "337448",
+      "region": "Arad",
+      "city": "Arad",
+      "latitude": 46.18333,
+      "longitude": 21.31667
+    },
+    "337465": {
+      "code": "337465",
+      "region": "Hunedoara",
+      "city": "Teliucu Inferior",
+      "latitude": 45.71667,
+      "longitude": 22.88333
+    },
+    "337504": {
+      "code": "337504",
+      "region": "Ialomita",
+      "city": "Cazanesti",
+      "latitude": 44.61667,
+      "longitude": 27.01667
+    },
+    "337543": {
+      "code": "337543",
+      "region": "Iasi",
+      "city": "Dumesti",
+      "latitude": 46.85,
+      "longitude": 27.28333
+    },
+    "337557": {
+      "code": "337557",
+      "region": "Gorj",
+      "city": "Godinesti",
+      "latitude": 45,
+      "longitude": 22.96667
+    },
+    "400930": {
+      "code": "400930",
+      "region": "Cluj",
+      "city": "Cluj-Napoca",
+      "latitude": 46.76667,
+      "longitude": 23.6
+    },
+    "405100": {
+      "code": "405100",
+      "region": "Cluj",
+      "city": "Mihai Viteazu",
+      "latitude": 44.63333,
+      "longitude": 28.68333
+    },
+    "405200": {
+      "code": "405200",
+      "region": "Cluj",
+      "city": "Dej",
+      "latitude": 47.15,
+      "longitude": 23.86667
+    },
+    "405300": {
+      "code": "405300",
+      "region": "Cluj",
+      "city": "Gherla",
+      "latitude": 47.03333,
+      "longitude": 23.91667
+    },
+    "405400": {
+      "code": "405400",
+      "region": "Cluj",
+      "city": "Huedin",
+      "latitude": 46.86667,
+      "longitude": 23.05
+    },
+    "407005": {
+      "code": "407005",
+      "region": "Cluj",
+      "city": "Aghiresu-Fabricei",
+      "latitude": 46.88333,
+      "longitude": 23.25
+    },
+    "407035": {
+      "code": "407035",
+      "region": "Cluj",
+      "city": "Apahida",
+      "latitude": 46.81667,
+      "longitude": 23.75
+    },
+    "407046": {
+      "code": "407046",
+      "region": "Cluj",
+      "city": "Aschileu Dorna",
+      "latitude": 46.98333,
+      "longitude": 23.48333
+    },
+    "407075": {
+      "code": "407075",
+      "region": "Cluj",
+      "city": "Belis",
+      "latitude": 46.65,
+      "longitude": 23.03333
+    },
+    "407107": {
+      "code": "407107",
+      "region": "Bucuresti",
+      "city": "Bucharest",
+      "latitude": 44.43225,
+      "longitude": 26.10626
+    },
+    "407141": {
+      "code": "407141",
+      "region": "Cluj",
+      "city": "Camarasu",
+      "latitude": 46.78333,
+      "longitude": 24.13333
+    },
+    "407145": {
+      "code": "407145",
+      "region": "Cluj",
+      "city": "Capusu Mare",
+      "latitude": 46.78333,
+      "longitude": 23.3
+    },
+    "407215": {
+      "code": "407215",
+      "region": "Cluj",
+      "city": "Dosu Biricii",
+      "latitude": 47.3,
+      "longitude": 23.88333
+    },
+    "407225": {
+      "code": "407225",
+      "region": "Braila",
+      "city": "Tichilesti",
+      "latitude": 45.11667,
+      "longitude": 27.9
+    },
+    "407280": {
+      "code": "407280",
+      "region": "Hunedoara",
+      "city": "Hunedoara",
+      "latitude": 45.75,
+      "longitude": 22.9
+    },
+    "407282": {
+      "code": "407282",
+      "region": "Arad",
+      "city": "Taut",
+      "latitude": 46.28333,
+      "longitude": 21.91667
+    },
+    "407291": {
+      "code": "407291",
+      "region": "Cluj",
+      "city": "Frata",
+      "latitude": 46.7,
+      "longitude": 24.05
+    },
+    "407300": {
+      "code": "407300",
+      "region": "Cluj",
+      "city": "Geaca",
+      "latitude": 46.86667,
+      "longitude": 24.1
+    },
+    "407312": {
+      "code": "407312",
+      "region": "Cluj",
+      "city": "Gilau",
+      "latitude": 46.73245,
+      "longitude": 23.36174
+    },
+    "407340": {
+      "code": "407340",
+      "region": "Cluj",
+      "city": "Izvoru Crisului",
+      "latitude": 46.83333,
+      "longitude": 23.1
+    },
+    "407354": {
+      "code": "407354",
+      "region": "Cluj",
+      "city": "Jucu Herghelia",
+      "latitude": 46.85,
+      "longitude": 23.8
+    },
+    "407390": {
+      "code": "407390",
+      "region": "Cluj",
+      "city": "Marisel",
+      "latitude": 46.65,
+      "longitude": 23.13333
+    },
+    "407410": {
+      "code": "407410",
+      "region": "Cluj",
+      "city": "Mintiu Gherlii",
+      "latitude": 47.05,
+      "longitude": 23.95
+    },
+    "407430": {
+      "code": "407430",
+      "region": "Cluj",
+      "city": "Moldovenesti",
+      "latitude": 46.5,
+      "longitude": 23.65
+    },
+    "407451": {
+      "code": "407451",
+      "region": "Mures",
+      "city": "Bagaciu",
+      "latitude": 46.26667,
+      "longitude": 24.36667
+    },
+    "407505": {
+      "code": "407505",
+      "region": "Cluj",
+      "city": "Savadisla",
+      "latitude": 46.68333,
+      "longitude": 23.45
+    },
+    "407540": {
+      "code": "407540",
+      "region": "Cluj",
+      "city": "Sic",
+      "latitude": 46.93333,
+      "longitude": 23.88333
+    },
+    "407577": {
+      "code": "407577",
+      "region": "Cluj",
+      "city": "Vad",
+      "latitude": 47.2,
+      "longitude": 23.75
+    },
+    "410730": {
+      "code": "410730",
+      "region": "Bihor",
+      "city": "Oradea",
+      "latitude": 47.06667,
+      "longitude": 21.93333
+    },
+    "415102": {
+      "code": "415102",
+      "region": "Bihor",
+      "city": "Alesd",
+      "latitude": 47.06667,
+      "longitude": 22.41667
+    },
+    "415200": {
+      "code": "415200",
+      "region": "Bihor",
+      "city": "Beius",
+      "latitude": 46.66667,
+      "longitude": 22.35
+    },
+    "415300": {
+      "code": "415300",
+      "region": "Bihor",
+      "city": "Margita",
+      "latitude": 47.35,
+      "longitude": 22.33333
+    },
+    "415402": {
+      "code": "415402",
+      "region": "Dambovita",
+      "city": "Nucet",
+      "latitude": 46.46667,
+      "longitude": 22.58333
+    },
+    "415500": {
+      "code": "415500",
+      "region": "Bihor",
+      "city": "Salonta",
+      "latitude": 46.8,
+      "longitude": 21.65
+    },
+    "415600": {
+      "code": "415600",
+      "region": "Bihor",
+      "city": "Stei",
+      "latitude": 46.534253,
+      "longitude": 22.463005
+    },
+    "415700": {
+      "code": "415700",
+      "region": "Bihor",
+      "city": "Valea lui Mihai",
+      "latitude": 47.51667,
+      "longitude": 22.15
+    },
+    "415800": {
+      "code": "415800",
+      "region": "Bihor",
+      "city": "Vascau",
+      "latitude": 46.46667,
+      "longitude": 22.46667
+    },
+    "417005": {
+      "code": "417005",
+      "region": "Bihor",
+      "city": "Abram",
+      "latitude": 47.31667,
+      "longitude": 22.38333
+    },
+    "417045": {
+      "code": "417045",
+      "region": "Bihor",
+      "city": "Batar",
+      "latitude": 46.7,
+      "longitude": 21.81667
+    },
+    "417060": {
+      "code": "417060",
+      "region": "Bihor",
+      "city": "Boianu Mare",
+      "latitude": 47.38333,
+      "longitude": 22.53333
+    },
+    "417068": {
+      "code": "417068",
+      "region": "Bihor",
+      "city": "Borod",
+      "latitude": 46.98333,
+      "longitude": 22.63333
+    },
+    "417098": {
+      "code": "417098",
+      "region": "Neamt",
+      "city": "Brusturi",
+      "latitude": 47.15,
+      "longitude": 22.25
+    },
+    "417105": {
+      "code": "417105",
+      "region": "Bihor",
+      "city": "Buduslau",
+      "latitude": 47.4,
+      "longitude": 22.26667
+    },
+    "417145": {
+      "code": "417145",
+      "region": "Bihor",
+      "city": "Cefa",
+      "latitude": 46.91667,
+      "longitude": 21.73333
+    },
+    "417215": {
+      "code": "417215",
+      "region": "Arad",
+      "city": "Cristioru de Jos",
+      "latitude": 46.43333,
+      "longitude": 22.53333
+    },
+    "417235": {
+      "code": "417235",
+      "region": "Bihor",
+      "city": "Dioszeg",
+      "latitude": 47.3,
+      "longitude": 22
+    },
+    "417270": {
+      "code": "417270",
+      "region": "Bihor",
+      "city": "Girisu de Cris / Koroesgyires",
+      "latitude": 47.06416,
+      "longitude": 21.76108
+    },
+    "417275": {
+      "code": "417275",
+      "region": "Bihor",
+      "city": "Hidiselu de Sus",
+      "latitude": 46.95,
+      "longitude": 22.05
+    },
+    "417300": {
+      "code": "417300",
+      "region": "Bihor",
+      "city": "Lazuri de Beius",
+      "latitude": 46.58333,
+      "longitude": 22.4
+    },
+    "417315": {
+      "code": "417315",
+      "region": "Bihor",
+      "city": "Lugasu de Jos",
+      "latitude": 47.06667,
+      "longitude": 22.35
+    },
+    "417355": {
+      "code": "417355",
+      "region": "Bihor",
+      "city": "Olcea",
+      "latitude": 46.68333,
+      "longitude": 21.98333
+    },
+    "417386": {
+      "code": "417386",
+      "region": "Bihor",
+      "city": "Cimpani de Pomezeu",
+      "latitude": 46.8,
+      "longitude": 22.31667
+    },
+    "417415": {
+      "code": "417415",
+      "region": "Bihor",
+      "city": "Rieni",
+      "latitude": 46.56667,
+      "longitude": 22.45
+    },
+    "417452": {
+      "code": "417452",
+      "region": "Bihor",
+      "city": "Salard",
+      "latitude": 47.21667,
+      "longitude": 22.05
+    },
+    "417585": {
+      "code": "417585",
+      "region": "Bihor",
+      "city": "Tileagd",
+      "latitude": 47.06667,
+      "longitude": 22.2
+    },
+    "417600": {
+      "code": "417600",
+      "region": "Bihor",
+      "city": "Tulca",
+      "latitude": 46.78333,
+      "longitude": 21.78333
+    },
+    "425200": {
+      "code": "425200",
+      "region": "Bistrita-Nasaud",
+      "city": "Nasaud",
+      "latitude": 47.28333,
+      "longitude": 24.4
+    },
+    "425300": {
+      "code": "425300",
+      "region": "Bistrita-Nasaud",
+      "city": "Sangeorz-Bai",
+      "latitude": 47.364082,
+      "longitude": 24.675074
+    },
+    "427060": {
+      "code": "427060",
+      "region": "Bistrita-Nasaud",
+      "city": "Chiuza",
+      "latitude": 47.23333,
+      "longitude": 24.25
+    },
+    "427101": {
+      "code": "427101",
+      "region": "Bistrita-Nasaud",
+      "city": "Josenii Birgaului",
+      "latitude": 47.21667,
+      "longitude": 24.68333
+    },
+    "427116": {
+      "code": "427116",
+      "region": "Bistrita-Nasaud",
+      "city": "Lesu",
+      "latitude": 47.31667,
+      "longitude": 24.75
+    },
+    "427124": {
+      "code": "427124",
+      "region": "Giurgiu",
+      "city": "Provita de Sus",
+      "latitude": 45.13333,
+      "longitude": 25.63333
+    },
+    "427125": {
+      "code": "427125",
+      "region": "Bistrita-Nasaud",
+      "city": "Lunca Ilvei",
+      "latitude": 47.36667,
+      "longitude": 24.98333
+    },
+    "427130": {
+      "code": "427130",
+      "region": "Bistrita-Nasaud",
+      "city": "Maieru",
+      "latitude": 47.4,
+      "longitude": 24.75
+    },
+    "427131": {
+      "code": "427131",
+      "region": "Bistrita-Nasaud",
+      "city": "Rodna",
+      "latitude": 47.41667,
+      "longitude": 24.81667
+    },
+    "427135": {
+      "code": "427135",
+      "region": "Bistrita-Nasaud",
+      "city": "Matei",
+      "latitude": 46.98333,
+      "longitude": 24.26667
+    },
+    "427145": {
+      "code": "427145",
+      "region": "Bistrita-Nasaud",
+      "city": "Magura Ilvei",
+      "latitude": 47.38333,
+      "longitude": 24.8
+    },
+    "427187": {
+      "code": "427187",
+      "region": "Bistrita-Nasaud",
+      "city": "Nimigea de Sus",
+      "latitude": 47.28333,
+      "longitude": 24.31667
+    },
+    "427200": {
+      "code": "427200",
+      "region": "Bistrita-Nasaud",
+      "city": "Nuseni",
+      "latitude": 47.1,
+      "longitude": 24.2
+    },
+    "427240": {
+      "code": "427240",
+      "region": "Bistrita-Nasaud",
+      "city": "Rebrisoara",
+      "latitude": 47.28333,
+      "longitude": 24.45
+    },
+    "427250": {
+      "code": "427250",
+      "region": "Bistrita-Nasaud",
+      "city": "Romuli",
+      "latitude": 47.53333,
+      "longitude": 24.43333
+    },
+    "427260": {
+      "code": "427260",
+      "region": "Bistrita-Nasaud",
+      "city": "Frunzi",
+      "latitude": 46.9,
+      "longitude": 24.33333
+    },
+    "427292": {
+      "code": "427292",
+      "region": "Bistrita-Nasaud",
+      "city": "Sieu",
+      "latitude": 47.01667,
+      "longitude": 24.6
+    },
+    "427345": {
+      "code": "427345",
+      "region": "Bistrita-Nasaud",
+      "city": "Teaca",
+      "latitude": 46.91667,
+      "longitude": 24.51667
+    },
+    "427355": {
+      "code": "427355",
+      "region": "Bistrita-Nasaud",
+      "city": "Telciu",
+      "latitude": 47.43333,
+      "longitude": 24.4
+    },
+    "427364": {
+      "code": "427364",
+      "region": "Bistrita-Nasaud",
+      "city": "Tiha Birgaului",
+      "latitude": 47.23333,
+      "longitude": 24.76667
+    },
+    "427365": {
+      "code": "427365",
+      "region": "Bistrita-Nasaud",
+      "city": "Uriu",
+      "latitude": 47.2,
+      "longitude": 24.05
+    },
+    "430540": {
+      "code": "430540",
+      "region": "Maramures",
+      "city": "Baia Mare",
+      "latitude": 47.65729,
+      "longitude": 23.56808
+    },
+    "435300": {
+      "code": "435300",
+      "region": "Maramures",
+      "city": "Cavnic",
+      "latitude": 47.66667,
+      "longitude": 23.86667
+    },
+    "435400": {
+      "code": "435400",
+      "region": "Maramures",
+      "city": "Seini",
+      "latitude": 47.75,
+      "longitude": 23.28333
+    },
+    "435500": {
+      "code": "435500",
+      "region": "Maramures",
+      "city": "Sighetu Marmatiei",
+      "latitude": 47.93333,
+      "longitude": 23.88333
+    },
+    "437005": {
+      "code": "437005",
+      "region": "Maramures",
+      "city": "Ardusat",
+      "latitude": 47.65,
+      "longitude": 23.36667
+    },
+    "437025": {
+      "code": "437025",
+      "region": "Maramures",
+      "city": "Baiut",
+      "latitude": 47.61667,
+      "longitude": 24
+    },
+    "437033": {
+      "code": "437033",
+      "region": "Alba",
+      "city": "Stremt",
+      "latitude": 46.21667,
+      "longitude": 23.63333
+    },
+    "437035": {
+      "code": "437035",
+      "region": "Maramures",
+      "city": "Birsana",
+      "latitude": 47.81667,
+      "longitude": 24.06667
+    },
+    "437065": {
+      "code": "437065",
+      "region": "Maramures",
+      "city": "Botiza",
+      "latitude": 47.66667,
+      "longitude": 24.15
+    },
+    "437108": {
+      "code": "437108",
+      "region": "Maramures",
+      "city": "Cernesti",
+      "latitude": 47.51667,
+      "longitude": 23.75
+    },
+    "437126": {
+      "code": "437126",
+      "region": "Maramures",
+      "city": "Coroeni",
+      "latitude": 47.36667,
+      "longitude": 23.76667
+    },
+    "437132": {
+      "code": "437132",
+      "region": "Maramures",
+      "city": "Lapus",
+      "latitude": 47.5,
+      "longitude": 24.01667
+    },
+    "437135": {
+      "code": "437135",
+      "region": "Maramures",
+      "city": "Desesti",
+      "latitude": 47.76667,
+      "longitude": 23.85
+    },
+    "437151": {
+      "code": "437151",
+      "region": "Cluj",
+      "city": "Unguras",
+      "latitude": 47.11667,
+      "longitude": 24.05
+    },
+    "437170": {
+      "code": "437170",
+      "region": "Maramures",
+      "city": "Bogdan Voda",
+      "latitude": 47.69197,
+      "longitude": 24.26605
+    },
+    "437180": {
+      "code": "437180",
+      "region": "Maramures",
+      "city": "Leordina",
+      "latitude": 47.78333,
+      "longitude": 24.25
+    },
+    "437195": {
+      "code": "437195",
+      "region": "Maramures",
+      "city": "Moisei",
+      "latitude": 47.65562,
+      "longitude": 24.54011
+    },
+    "437200": {
+      "code": "437200",
+      "region": "Maramures",
+      "city": "Oarta de Jos",
+      "latitude": 47.45,
+      "longitude": 23.13333
+    },
+    "437205": {
+      "code": "437205",
+      "region": "Maramures",
+      "city": "Ocna Sugatag",
+      "latitude": 47.78333,
+      "longitude": 23.93333
+    },
+    "437210": {
+      "code": "437210",
+      "region": "Maramures",
+      "city": "Petrova",
+      "latitude": 47.82981,
+      "longitude": 24.21533
+    },
+    "437220": {
+      "code": "437220",
+      "region": "Maramures",
+      "city": "Poienile de sub Munte",
+      "latitude": 47.81667,
+      "longitude": 24.43333
+    },
+    "437245": {
+      "code": "437245",
+      "region": "Maramures",
+      "city": "Rona de Jos",
+      "latitude": 47.91667,
+      "longitude": 24.01667
+    },
+    "437250": {
+      "code": "437250",
+      "region": "Maramures",
+      "city": "Rona de Sus",
+      "latitude": 47.9,
+      "longitude": 24.05
+    },
+    "437255": {
+      "code": "437255",
+      "region": "Maramures",
+      "city": "Rozavlea",
+      "latitude": 47.73333,
+      "longitude": 24.21667
+    },
+    "437300": {
+      "code": "437300",
+      "region": "Maramures",
+      "city": "Salsig",
+      "latitude": 47.53333,
+      "longitude": 23.3
+    },
+    "437305": {
+      "code": "437305",
+      "region": "Maramures",
+      "city": "Sapinta",
+      "latitude": 47.96667,
+      "longitude": 23.7
+    },
+    "437335": {
+      "code": "437335",
+      "region": "Maramures",
+      "city": "Somcuta Mare",
+      "latitude": 47.51667,
+      "longitude": 23.46667
+    },
+    "437390": {
+      "code": "437390",
+      "region": "Maramures",
+      "city": "Viseu de Jos",
+      "latitude": 47.72558,
+      "longitude": 24.36613
+    },
+    "440350": {
+      "code": "440350",
+      "region": "Satu Mare",
+      "city": "Satu Mare",
+      "latitude": 47.8,
+      "longitude": 22.88333
+    },
+    "445100": {
+      "code": "445100",
+      "region": "Satu Mare",
+      "city": "Carei",
+      "latitude": 47.68333,
+      "longitude": 22.46667
+    },
+    "445200": {
+      "code": "445200",
+      "region": "Satu Mare",
+      "city": "Negresti-Oas",
+      "latitude": 47.86667,
+      "longitude": 23.43333
+    },
+    "445300": {
+      "code": "445300",
+      "region": "Satu Mare",
+      "city": "Tasnad",
+      "latitude": 47.48333,
+      "longitude": 22.58333
+    },
+    "447016": {
+      "code": "447016",
+      "region": "Satu Mare",
+      "city": "Apa",
+      "latitude": 47.76667,
+      "longitude": 23.2
+    },
+    "447021": {
+      "code": "447021",
+      "region": "Satu Mare",
+      "city": "Ardud",
+      "latitude": 47.63333,
+      "longitude": 22.88333
+    },
+    "447030": {
+      "code": "447030",
+      "region": "Satu Mare",
+      "city": "Batarci",
+      "latitude": 48.03333,
+      "longitude": 23.16667
+    },
+    "447051": {
+      "code": "447051",
+      "region": "Satu Mare",
+      "city": "Berveni",
+      "latitude": 47.75,
+      "longitude": 22.46667
+    },
+    "447062": {
+      "code": "447062",
+      "region": "Harghita",
+      "city": "Corund",
+      "latitude": 46.46667,
+      "longitude": 25.18333
+    },
+    "447073": {
+      "code": "447073",
+      "region": "Satu Mare",
+      "city": "Calinesti-Oas",
+      "latitude": 47.9,
+      "longitude": 23.3
+    },
+    "447080": {
+      "code": "447080",
+      "region": "Satu Mare",
+      "city": "Capleni",
+      "latitude": 47.71667,
+      "longitude": 22.5
+    },
+    "447085": {
+      "code": "447085",
+      "region": "Satu Mare",
+      "city": "Cauas",
+      "latitude": 47.56667,
+      "longitude": 22.55
+    },
+    "447121": {
+      "code": "447121",
+      "region": "Satu Mare",
+      "city": "Culciu Mic",
+      "latitude": 47.76667,
+      "longitude": 23.03333
+    },
+    "447140": {
+      "code": "447140",
+      "region": "Satu Mare",
+      "city": "Gherta Mica",
+      "latitude": 47.93333,
+      "longitude": 23.23333
+    },
+    "447162": {
+      "code": "447162",
+      "region": "Satu Mare",
+      "city": "Homorodu de Jos",
+      "latitude": 47.66667,
+      "longitude": 23.08333
+    },
+    "447185": {
+      "code": "447185",
+      "region": "Satu Mare",
+      "city": "Mediesu Aurit",
+      "latitude": 47.78333,
+      "longitude": 23.15
+    },
+    "447260": {
+      "code": "447260",
+      "region": "Satu Mare",
+      "city": "Sanislau",
+      "latitude": 47.63333,
+      "longitude": 22.33333
+    },
+    "447300": {
+      "code": "447300",
+      "region": "Satu Mare",
+      "city": "Supuru de Jos",
+      "latitude": 47.46667,
+      "longitude": 22.8
+    },
+    "447330": {
+      "code": "447330",
+      "region": "Satu Mare",
+      "city": "Turt",
+      "latitude": 47.98333,
+      "longitude": 23.21667
+    },
+    "447335": {
+      "code": "447335",
+      "region": "Satu Mare",
+      "city": "Turulung",
+      "latitude": 47.93333,
+      "longitude": 23.08333
+    },
+    "447360": {
+      "code": "447360",
+      "region": "Satu Mare",
+      "city": "Viile Satu Mare",
+      "latitude": 47.66667,
+      "longitude": 22.95
+    },
+    "450230": {
+      "code": "450230",
+      "region": "Salaj",
+      "city": "Zalau",
+      "latitude": 47.2,
+      "longitude": 23.05
+    },
+    "455100": {
+      "code": "455100",
+      "region": "Salaj",
+      "city": "Cehu Silvaniei",
+      "latitude": 47.410549,
+      "longitude": 23.174727
+    },
+    "455200": {
+      "code": "455200",
+      "region": "Salaj",
+      "city": "Jibou",
+      "latitude": 47.26667,
+      "longitude": 23.25
+    },
+    "455300": {
+      "code": "455300",
+      "region": "Salaj",
+      "city": "Simleu Silvaniei",
+      "latitude": 47.23333,
+      "longitude": 22.8
+    },
+    "457005": {
+      "code": "457005",
+      "region": "Salaj",
+      "city": "Agrij",
+      "latitude": 47.06667,
+      "longitude": 23.13333
+    },
+    "457030": {
+      "code": "457030",
+      "region": "Salaj",
+      "city": "Banisor",
+      "latitude": 47.11667,
+      "longitude": 22.85
+    },
+    "457035": {
+      "code": "457035",
+      "region": "Salaj",
+      "city": "Benesat",
+      "latitude": 47.41667,
+      "longitude": 23.3
+    },
+    "457070": {
+      "code": "457070",
+      "region": "Salaj",
+      "city": "Chiesd",
+      "latitude": 47.38333,
+      "longitude": 22.88333
+    },
+    "457080": {
+      "code": "457080",
+      "region": "Salaj",
+      "city": "Coseiu",
+      "latitude": 47.31667,
+      "longitude": 22.98333
+    },
+    "457160": {
+      "code": "457160",
+      "region": "Salaj",
+      "city": "Halmasd",
+      "latitude": 47.15,
+      "longitude": 22.61667
+    },
+    "457175": {
+      "code": "457175",
+      "region": "Salaj",
+      "city": "Hida",
+      "latitude": 47.06667,
+      "longitude": 23.28333
+    },
+    "457185": {
+      "code": "457185",
+      "region": "Salaj",
+      "city": "Horoatu Crasnei",
+      "latitude": 47.13333,
+      "longitude": 22.88333
+    },
+    "457197": {
+      "code": "457197",
+      "region": "Salaj",
+      "city": "Ileanda",
+      "latitude": 47.33333,
+      "longitude": 23.63333
+    },
+    "457210": {
+      "code": "457210",
+      "region": "Salaj",
+      "city": "Ip",
+      "latitude": 47.23333,
+      "longitude": 22.65
+    },
+    "457230": {
+      "code": "457230",
+      "region": "Salaj",
+      "city": "Marca",
+      "latitude": 47.21667,
+      "longitude": 22.56667
+    },
+    "457234": {
+      "code": "457234",
+      "region": "Bihor",
+      "city": "Balc",
+      "latitude": 47.28333,
+      "longitude": 22.53333
+    },
+    "457267": {
+      "code": "457267",
+      "region": "Salaj",
+      "city": "Periceiu",
+      "latitude": 47.23333,
+      "longitude": 22.88333
+    },
+    "457270": {
+      "code": "457270",
+      "region": "Salaj",
+      "city": "Plopis",
+      "latitude": 47.13333,
+      "longitude": 22.68333
+    },
+    "457275": {
+      "code": "457275",
+      "region": "Salaj",
+      "city": "Poiana Blenchii",
+      "latitude": 47.3,
+      "longitude": 23.75
+    },
+    "457325": {
+      "code": "457325",
+      "region": "Salaj",
+      "city": "Samsud",
+      "latitude": 47.35,
+      "longitude": 22.95
+    },
+    "457336": {
+      "code": "457336",
+      "region": "Salaj",
+      "city": "Sarmasag",
+      "latitude": 47.35,
+      "longitude": 22.83333
+    },
+    "457340": {
+      "code": "457340",
+      "region": "Salaj",
+      "city": "Treznea",
+      "latitude": 47.1,
+      "longitude": 23.11667
+    },
+    "457345": {
+      "code": "457345",
+      "region": "Salaj",
+      "city": "Valcau de Jos",
+      "latitude": 47.11667,
+      "longitude": 22.73333
+    },
+    "500670": {
+      "code": "500670",
+      "region": "Brasov",
+      "city": "Brasov",
+      "latitude": 45.64861,
+      "longitude": 25.60613
+    },
+    "505100": {
+      "code": "505100",
+      "region": "Brasov",
+      "city": "Codlea",
+      "latitude": 45.7,
+      "longitude": 25.45
+    },
+    "505200": {
+      "code": "505200",
+      "region": "Brasov",
+      "city": "Brasov",
+      "latitude": 45.64861,
+      "longitude": 25.60613
+    },
+    "505400": {
+      "code": "505400",
+      "region": "Brasov",
+      "city": "Risnov",
+      "latitude": 45.58333,
+      "longitude": 25.45
+    },
+    "505500": {
+      "code": "505500",
+      "region": "Brasov",
+      "city": "Rupea",
+      "latitude": 46.03333,
+      "longitude": 25.21667
+    },
+    "505600": {
+      "code": "505600",
+      "region": "Brasov",
+      "city": "Brasov",
+      "latitude": 45.64861,
+      "longitude": 25.60613
+    },
+    "507005": {
+      "code": "507005",
+      "region": "Brasov",
+      "city": "Apata",
+      "latitude": 45.95,
+      "longitude": 25.51667
+    },
+    "507028": {
+      "code": "507028",
+      "region": "Brasov",
+      "city": "Moeciu de Jos",
+      "latitude": 45.48333,
+      "longitude": 25.31667
+    },
+    "507030": {
+      "code": "507030",
+      "region": "Brasov",
+      "city": "Budila",
+      "latitude": 45.66667,
+      "longitude": 25.8
+    },
+    "507075": {
+      "code": "507075",
+      "region": "Brasov",
+      "city": "Ghimbav",
+      "latitude": 45.66667,
+      "longitude": 25.5
+    },
+    "507082": {
+      "code": "507082",
+      "region": "Brasov",
+      "city": "Dumbravita",
+      "latitude": 45.76667,
+      "longitude": 25.43333
+    },
+    "507083": {
+      "code": "507083",
+      "region": "Brasov",
+      "city": "Halchiu",
+      "latitude": 45.76667,
+      "longitude": 25.55
+    },
+    "507110": {
+      "code": "507110",
+      "region": "Brasov",
+      "city": "Jibert",
+      "latitude": 46,
+      "longitude": 25.06667
+    },
+    "507165": {
+      "code": "507165",
+      "region": "Brasov",
+      "city": "Prejmer",
+      "latitude": 45.71667,
+      "longitude": 25.76667
+    },
+    "507215": {
+      "code": "507215",
+      "region": "Brasov",
+      "city": "Soars",
+      "latitude": 45.93333,
+      "longitude": 24.91667
+    },
+    "507239": {
+      "code": "507239",
+      "region": "Sibiu",
+      "city": "Ucea de Sus",
+      "latitude": 45.75,
+      "longitude": 24.68333
+    },
+    "507262": {
+      "code": "507262",
+      "region": "Harghita",
+      "city": "Beclean",
+      "latitude": 45.83333,
+      "longitude": 24.91667
+    },
+    "510405": {
+      "code": "510405",
+      "region": "Alba",
+      "city": "Alba Iulia",
+      "latitude": 46.06667,
+      "longitude": 23.58333
+    },
+    "515103": {
+      "code": "515103",
+      "region": "Alba",
+      "city": "Abrud",
+      "latitude": 46.26667,
+      "longitude": 23.06667
+    },
+    "515200": {
+      "code": "515200",
+      "region": "Alba",
+      "city": "Aiud",
+      "latitude": 46.3,
+      "longitude": 23.71667
+    },
+    "515600": {
+      "code": "515600",
+      "region": "Alba",
+      "city": "Cugir",
+      "latitude": 45.83333,
+      "longitude": 23.36667
+    },
+    "515700": {
+      "code": "515700",
+      "region": "Alba",
+      "city": "Ocna Mures",
+      "latitude": 46.38333,
+      "longitude": 23.85
+    },
+    "515800": {
+      "code": "515800",
+      "region": "Alba",
+      "city": "Sebes",
+      "latitude": 45.96667,
+      "longitude": 23.56667
+    },
+    "515801": {
+      "code": "515801",
+      "region": "Alba",
+      "city": "Sebes",
+      "latitude": 45.96667,
+      "longitude": 23.56667
+    },
+    "515903": {
+      "code": "515903",
+      "region": "Alba",
+      "city": "Teius",
+      "latitude": 46.2,
+      "longitude": 23.68333
+    },
+    "516100": {
+      "code": "516100",
+      "region": "Alba",
+      "city": "Zlatna",
+      "latitude": 46.11667,
+      "longitude": 23.21667
+    },
+    "517040": {
+      "code": "517040",
+      "region": "Alba",
+      "city": "Arieseni",
+      "latitude": 46.48333,
+      "longitude": 22.76667
+    },
+    "517305": {
+      "code": "517305",
+      "region": "Alba",
+      "city": "Girbova",
+      "latitude": 45.86667,
+      "longitude": 23.73333
+    },
+    "517453": {
+      "code": "517453",
+      "region": "Alba",
+      "city": "Metes",
+      "latitude": 46.1,
+      "longitude": 23.41667
+    },
+    "517470": {
+      "code": "517470",
+      "region": "Alba",
+      "city": "Miraslau",
+      "latitude": 46.36667,
+      "longitude": 23.71667
+    },
+    "517517": {
+      "code": "517517",
+      "region": "Cluj",
+      "city": "Sandulesti",
+      "latitude": 46.58333,
+      "longitude": 23.71667
+    },
+    "517545": {
+      "code": "517545",
+      "region": "Alba",
+      "city": "Poiana Vadului",
+      "latitude": 46.4,
+      "longitude": 22.88333
+    },
+    "517610": {
+      "code": "517610",
+      "region": "Alba",
+      "city": "Rimetea",
+      "latitude": 46.45,
+      "longitude": 23.56667
+    },
+    "517640": {
+      "code": "517640",
+      "region": "Alba",
+      "city": "Rosia de Secas",
+      "latitude": 46.05,
+      "longitude": 23.88333
+    },
+    "517668": {
+      "code": "517668",
+      "region": "Alba",
+      "city": "Sasciori",
+      "latitude": 45.86667,
+      "longitude": 23.58333
+    },
+    "517750": {
+      "code": "517750",
+      "region": "Alba",
+      "city": "Sibot",
+      "latitude": 45.95,
+      "longitude": 23.33333
+    },
+    "517775": {
+      "code": "517775",
+      "region": "Alba",
+      "city": "Sugag",
+      "latitude": 45.76667,
+      "longitude": 23.63333
+    },
+    "525100": {
+      "code": "525100",
+      "region": "Covasna",
+      "city": "Baraolt",
+      "latitude": 46.07514,
+      "longitude": 25.60029
+    },
+    "525103": {
+      "code": "525103",
+      "region": "Brasov",
+      "city": "Ormenis",
+      "latitude": 46.01667,
+      "longitude": 25.55
+    },
+    "525200": {
+      "code": "525200",
+      "region": "Harghita",
+      "city": "Miercurea-Ciuc",
+      "latitude": 46.35,
+      "longitude": 25.8
+    },
+    "525303": {
+      "code": "525303",
+      "region": "Covasna",
+      "city": "Intorsura Buzaului",
+      "latitude": 45.68333,
+      "longitude": 26.03333
+    },
+    "525400": {
+      "code": "525400",
+      "region": "Covasna",
+      "city": "Covasna",
+      "latitude": 45.85,
+      "longitude": 26.18333
+    },
+    "527005": {
+      "code": "527005",
+      "region": "Covasna",
+      "city": "Aita Mare",
+      "latitude": 45.96667,
+      "longitude": 25.55
+    },
+    "527030": {
+      "code": "527030",
+      "region": "Covasna",
+      "city": "Belin",
+      "latitude": 45.93333,
+      "longitude": 25.56667
+    },
+    "527035": {
+      "code": "527035",
+      "region": "Covasna",
+      "city": "Bodoc",
+      "latitude": 45.95,
+      "longitude": 25.85
+    },
+    "527060": {
+      "code": "527060",
+      "region": "Covasna",
+      "city": "Bretcu",
+      "latitude": 46.05,
+      "longitude": 26.3
+    },
+    "527100": {
+      "code": "527100",
+      "region": "Covasna",
+      "city": "Covasna",
+      "latitude": 45.85,
+      "longitude": 26.18333
+    },
+    "527117": {
+      "code": "527117",
+      "region": "Covasna",
+      "city": "Malnas",
+      "latitude": 46.01667,
+      "longitude": 25.83333
+    },
+    "527130": {
+      "code": "527130",
+      "region": "Covasna",
+      "city": "Ozun",
+      "latitude": 45.8,
+      "longitude": 25.85
+    },
+    "527150": {
+      "code": "527150",
+      "region": "Covasna",
+      "city": "Tirgu Secuiesc",
+      "latitude": 46,
+      "longitude": 26.13333
+    },
+    "527166": {
+      "code": "527166",
+      "region": "Covasna",
+      "city": "Sfantu-Gheorghe",
+      "latitude": 45.86667,
+      "longitude": 25.78333
+    },
+    "530320": {
+      "code": "530320",
+      "region": "Harghita",
+      "city": "Miercurea-Ciuc",
+      "latitude": 46.35,
+      "longitude": 25.8
+    },
+    "535100": {
+      "code": "535100",
+      "region": "Harghita",
+      "city": "Baile Tusnad",
+      "latitude": 46.15,
+      "longitude": 25.85
+    },
+    "535300": {
+      "code": "535300",
+      "region": "Harghita",
+      "city": "Borsec",
+      "latitude": 46.95,
+      "longitude": 25.56667
+    },
+    "535400": {
+      "code": "535400",
+      "region": "Harghita",
+      "city": "Cristuru Secuiesc",
+      "latitude": 46.28333,
+      "longitude": 25.03333
+    },
+    "535500": {
+      "code": "535500",
+      "region": "Harghita",
+      "city": "Gheorgheni",
+      "latitude": 46.71667,
+      "longitude": 25.61667
+    },
+    "535504": {
+      "code": "535504",
+      "region": "Harghita",
+      "city": "Gheorgheni",
+      "latitude": 46.71667,
+      "longitude": 25.61667
+    },
+    "535600": {
+      "code": "535600",
+      "region": "Harghita",
+      "city": "Odorheiu Secuiesc",
+      "latitude": 46.3,
+      "longitude": 25.3
+    },
+    "535700": {
+      "code": "535700",
+      "region": "Harghita",
+      "city": "Toplita",
+      "latitude": 46.92603,
+      "longitude": 25.353404
+    },
+    "535800": {
+      "code": "535800",
+      "region": "Harghita",
+      "city": "Vlahita",
+      "latitude": 46.35,
+      "longitude": 25.51667
+    },
+    "537020": {
+      "code": "537020",
+      "region": "Harghita",
+      "city": "Bilbor",
+      "latitude": 47.05,
+      "longitude": 25.51667
+    },
+    "537050": {
+      "code": "537050",
+      "region": "Harghita",
+      "city": "Ciumani",
+      "latitude": 46.68333,
+      "longitude": 25.51667
+    },
+    "537090": {
+      "code": "537090",
+      "region": "Harghita",
+      "city": "Ditrau",
+      "latitude": 46.81667,
+      "longitude": 25.51667
+    },
+    "537120": {
+      "code": "537120",
+      "region": "Harghita",
+      "city": "Galautas",
+      "latitude": 46.91667,
+      "longitude": 25.43333
+    },
+    "537130": {
+      "code": "537130",
+      "region": "Harghita",
+      "city": "Ciumani",
+      "latitude": 46.68333,
+      "longitude": 25.51667
+    },
+    "537140": {
+      "code": "537140",
+      "region": "Harghita",
+      "city": "Lueta",
+      "latitude": 46.26667,
+      "longitude": 25.48333
+    },
+    "537175": {
+      "code": "537175",
+      "region": "Harghita",
+      "city": "Martinis",
+      "latitude": 46.23333,
+      "longitude": 25.38333
+    },
+    "537202": {
+      "code": "537202",
+      "region": "Dolj",
+      "city": "Bailesti",
+      "latitude": 44.01667,
+      "longitude": 23.35
+    },
+    "537240": {
+      "code": "537240",
+      "region": "Harghita",
+      "city": "Praid",
+      "latitude": 46.55,
+      "longitude": 25.13333
+    },
+    "537275": {
+      "code": "537275",
+      "region": "Harghita",
+      "city": "Balan",
+      "latitude": 46.6505,
+      "longitude": 25.80834
+    },
+    "537292": {
+      "code": "537292",
+      "region": "Maramures",
+      "city": "Sacel",
+      "latitude": 46.3,
+      "longitude": 24.93333
+    },
+    "537321": {
+      "code": "537321",
+      "region": "Calarasi",
+      "city": "Fundulea",
+      "latitude": 44.46667,
+      "longitude": 26.51667
+    },
+    "537330": {
+      "code": "537330",
+      "region": "Harghita",
+      "city": "Tulghes",
+      "latitude": 46.95,
+      "longitude": 25.76667
+    },
+    "537350": {
+      "code": "537350",
+      "region": "Harghita",
+      "city": "Varsag",
+      "latitude": 46.51667,
+      "longitude": 25.35
+    },
+    "537360": {
+      "code": "537360",
+      "region": "Harghita",
+      "city": "Zetea",
+      "latitude": 46.38333,
+      "longitude": 25.36667
+    },
+    "540680": {
+      "code": "540680",
+      "region": "Mures",
+      "city": "Targu-Mures",
+      "latitude": 46.54245,
+      "longitude": 24.55747
+    },
+    "545100": {
+      "code": "545100",
+      "region": "Mures",
+      "city": "Iernut",
+      "latitude": 46.45,
+      "longitude": 24.25
+    },
+    "545200": {
+      "code": "545200",
+      "region": "Mures",
+      "city": "Ludus",
+      "latitude": 46.48333,
+      "longitude": 24.1
+    },
+    "545300": {
+      "code": "545300",
+      "region": "Sibiu",
+      "city": "Axente Sever",
+      "latitude": 46.1,
+      "longitude": 24.21667
+    },
+    "545302": {
+      "code": "545302",
+      "region": "Mures",
+      "city": "Reghin-Sat",
+      "latitude": 46.78333,
+      "longitude": 24.71667
+    },
+    "545500": {
+      "code": "545500",
+      "region": "Mures",
+      "city": "Sovata",
+      "latitude": 46.58333,
+      "longitude": 25.06667
+    },
+    "545600": {
+      "code": "545600",
+      "region": "Mures",
+      "city": "Ganesti",
+      "latitude": 46.33333,
+      "longitude": 24.35
+    },
+    "547015": {
+      "code": "547015",
+      "region": "Mures",
+      "city": "Adamus",
+      "latitude": 46.3,
+      "longitude": 24.23333
+    },
+    "547040": {
+      "code": "547040",
+      "region": "Mures",
+      "city": "Apold",
+      "latitude": 46.11667,
+      "longitude": 24.81667
+    },
+    "547045": {
+      "code": "547045",
+      "region": "Mures",
+      "city": "Atintis",
+      "latitude": 46.43333,
+      "longitude": 24.1
+    },
+    "547085": {
+      "code": "547085",
+      "region": "Mures",
+      "city": "Batos",
+      "latitude": 46.88333,
+      "longitude": 24.66667
+    },
+    "547100": {
+      "code": "547100",
+      "region": "Mures",
+      "city": "Balauseri",
+      "latitude": 46.4,
+      "longitude": 24.68333
+    },
+    "547174": {
+      "code": "547174",
+      "region": "Hunedoara",
+      "city": "Hateg",
+      "latitude": 45.61667,
+      "longitude": 22.95
+    },
+    "547200": {
+      "code": "547200",
+      "region": "Mures",
+      "city": "Danes",
+      "latitude": 46.21667,
+      "longitude": 24.7
+    },
+    "547207": {
+      "code": "547207",
+      "region": "Mures",
+      "city": "Deda",
+      "latitude": 46.93333,
+      "longitude": 24.9
+    },
+    "547210": {
+      "code": "547210",
+      "region": "Mures",
+      "city": "Eremitu",
+      "latitude": 46.66667,
+      "longitude": 24.93333
+    },
+    "547264": {
+      "code": "547264",
+      "region": "Neamt",
+      "city": "Gheorghe Doja",
+      "latitude": 46.46667,
+      "longitude": 24.5
+    },
+    "547266": {
+      "code": "547266",
+      "region": "Mures",
+      "city": "Ghindari",
+      "latitude": 46.5,
+      "longitude": 24.91667
+    },
+    "547287": {
+      "code": "547287",
+      "region": "Bucuresti",
+      "city": "Peris",
+      "latitude": 44.68472,
+      "longitude": 26.01389
+    },
+    "547291": {
+      "code": "547291",
+      "region": "Mures",
+      "city": "Grebenisu de Cimpie",
+      "latitude": 46.6,
+      "longitude": 24.3
+    },
+    "547310": {
+      "code": "547310",
+      "region": "Mures",
+      "city": "Hodac",
+      "latitude": 46.76667,
+      "longitude": 24.91667
+    },
+    "547380": {
+      "code": "547380",
+      "region": "Mures",
+      "city": "Lunca Bradului",
+      "latitude": 46.95595,
+      "longitude": 25.1114
+    },
+    "547410": {
+      "code": "547410",
+      "region": "Mures",
+      "city": "Miercurea Nirajului",
+      "latitude": 46.53333,
+      "longitude": 24.8
+    },
+    "547427": {
+      "code": "547427",
+      "region": "Mures",
+      "city": "Ciurgau",
+      "latitude": 46.68333,
+      "longitude": 24.15
+    },
+    "547432": {
+      "code": "547432",
+      "region": "Mures",
+      "city": "Nades",
+      "latitude": 46.31667,
+      "longitude": 24.73333
+    },
+    "547453": {
+      "code": "547453",
+      "region": "Harghita",
+      "city": "Remetea",
+      "latitude": 46.57432,
+      "longitude": 24.51359
+    },
+    "547506": {
+      "code": "547506",
+      "region": "Mures",
+      "city": "Rusii Munti",
+      "latitude": 46.91667,
+      "longitude": 24.85
+    },
+    "547543": {
+      "code": "547543",
+      "region": "Dolj",
+      "city": "Birza",
+      "latitude": 46.55,
+      "longitude": 24.13333
+    },
+    "547575": {
+      "code": "547575",
+      "region": "Mures",
+      "city": "Stinceni",
+      "latitude": 46.98333,
+      "longitude": 25.23333
+    },
+    "547590": {
+      "code": "547590",
+      "region": "Mures",
+      "city": "Saulia",
+      "latitude": 46.63333,
+      "longitude": 24.21667
+    },
+    "547630": {
+      "code": "547630",
+      "region": "Mures",
+      "city": "Vatava",
+      "latitude": 46.96667,
+      "longitude": 24.76667
+    },
+    "547669": {
+      "code": "547669",
+      "region": "Sibiu",
+      "city": "Jina",
+      "latitude": 45.78333,
+      "longitude": 23.68333
+    },
+    "550550": {
+      "code": "550550",
+      "region": "Sibiu",
+      "city": "Sibiu",
+      "latitude": 45.8,
+      "longitude": 24.15
+    },
+    "551230": {
+      "code": "551230",
+      "region": "Sibiu",
+      "city": "Medias",
+      "latitude": 46.16667,
+      "longitude": 24.35
+    },
+    "555100": {
+      "code": "555100",
+      "region": "Sibiu",
+      "city": "Agnita",
+      "latitude": 45.96667,
+      "longitude": 24.61667
+    },
+    "555200": {
+      "code": "555200",
+      "region": "Sibiu",
+      "city": "Avrig",
+      "latitude": 45.71667,
+      "longitude": 24.38333
+    },
+    "555201": {
+      "code": "555201",
+      "region": "Sibiu",
+      "city": "Sibiu",
+      "latitude": 45.8,
+      "longitude": 24.15
+    },
+    "555400": {
+      "code": "555400",
+      "region": "Sibiu",
+      "city": "Sibiu",
+      "latitude": 45.8,
+      "longitude": 24.15
+    },
+    "555500": {
+      "code": "555500",
+      "region": "Sibiu",
+      "city": "Sibiu",
+      "latitude": 45.8,
+      "longitude": 24.15
+    },
+    "555700": {
+      "code": "555700",
+      "region": "Sibiu",
+      "city": "Talmaciu",
+      "latitude": 45.669659,
+      "longitude": 24.262641
+    },
+    "557005": {
+      "code": "557005",
+      "region": "Sibiu",
+      "city": "Altina",
+      "latitude": 45.93333,
+      "longitude": 24.46667
+    },
+    "557015": {
+      "code": "557015",
+      "region": "Sibiu",
+      "city": "Arpasu de Jos",
+      "latitude": 45.78333,
+      "longitude": 24.61667
+    },
+    "557030": {
+      "code": "557030",
+      "region": "Sibiu",
+      "city": "Bazna",
+      "latitude": 46.2,
+      "longitude": 24.28333
+    },
+    "557051": {
+      "code": "557051",
+      "region": "Mures",
+      "city": "Ganesti",
+      "latitude": 46.33333,
+      "longitude": 24.35
+    },
+    "557055": {
+      "code": "557055",
+      "region": "Sibiu",
+      "city": "Brateiu",
+      "latitude": 46.16667,
+      "longitude": 24.41667
+    },
+    "557085": {
+      "code": "557085",
+      "region": "Brasov",
+      "city": "Cristian",
+      "latitude": 45.61667,
+      "longitude": 25.46667
+    },
+    "557100": {
+      "code": "557100",
+      "region": "Sibiu",
+      "city": "Hoghilag",
+      "latitude": 46.23333,
+      "longitude": 24.61667
+    },
+    "557150": {
+      "code": "557150",
+      "region": "Sibiu",
+      "city": "Miercurea Sibiului",
+      "latitude": 45.88333,
+      "longitude": 23.8
+    },
+    "557170": {
+      "code": "557170",
+      "region": "Sibiu",
+      "city": "Orlat",
+      "latitude": 45.75,
+      "longitude": 23.96667
+    },
+    "557175": {
+      "code": "557175",
+      "region": "Sibiu",
+      "city": "Pauca",
+      "latitude": 46.01667,
+      "longitude": 23.9
+    },
+    "557190": {
+      "code": "557190",
+      "region": "Sibiu",
+      "city": "Porumbacu de Jos",
+      "latitude": 45.75,
+      "longitude": 24.45
+    },
+    "557228": {
+      "code": "557228",
+      "region": "Sibiu",
+      "city": "Saliste",
+      "latitude": 45.79633,
+      "longitude": 23.88677
+    },
+    "557241": {
+      "code": "557241",
+      "region": "Vrancea",
+      "city": "Slimnic",
+      "latitude": 45.91667,
+      "longitude": 24.16667
+    },
+    "557285": {
+      "code": "557285",
+      "region": "Sibiu",
+      "city": "Turnu Rosu",
+      "latitude": 45.63333,
+      "longitude": 24.3
+    },
+    "600550": {
+      "code": "600550",
+      "region": "Bacau",
+      "city": "Bacau",
+      "latitude": 46.56667,
+      "longitude": 26.9
+    },
+    "605100": {
+      "code": "605100",
+      "region": "Bacau",
+      "city": "Buhusi",
+      "latitude": 46.71667,
+      "longitude": 26.7
+    },
+    "605401": {
+      "code": "605401",
+      "region": "Bacau",
+      "city": "Moinesti",
+      "latitude": 46.46667,
+      "longitude": 26.48333
+    },
+    "605500": {
+      "code": "605500",
+      "region": "Bacau",
+      "city": "Slanic-Moldova",
+      "latitude": 46.2,
+      "longitude": 26.43333
+    },
+    "605600": {
+      "code": "605600",
+      "region": "Covasna",
+      "city": "Tirgu Ocna",
+      "latitude": 46.28333,
+      "longitude": 26.61667
+    },
+    "605602": {
+      "code": "605602",
+      "region": "Bacau",
+      "city": "Bacau",
+      "latitude": 46.56667,
+      "longitude": 26.9
+    },
+    "607030": {
+      "code": "607030",
+      "region": "Bacau",
+      "city": "Balcani",
+      "latitude": 46.63333,
+      "longitude": 26.55
+    },
+    "607052": {
+      "code": "607052",
+      "region": "Arges",
+      "city": "Cotmeana",
+      "latitude": 44.96667,
+      "longitude": 24.61667
+    },
+    "607075": {
+      "code": "607075",
+      "region": "Bacau",
+      "city": "Bacau",
+      "latitude": 46.56667,
+      "longitude": 26.9
+    },
+    "607105": {
+      "code": "607105",
+      "region": "Bacau",
+      "city": "Cleja",
+      "latitude": 46.41667,
+      "longitude": 26.9
+    },
+    "607120": {
+      "code": "607120",
+      "region": "Bacau",
+      "city": "Corbasca",
+      "latitude": 46.28333,
+      "longitude": 27.16667
+    },
+    "607160": {
+      "code": "607160",
+      "region": "Bacau",
+      "city": "Dofteana",
+      "latitude": 46.31667,
+      "longitude": 26.51667
+    },
+    "607205": {
+      "code": "607205",
+      "region": "Bacau",
+      "city": "Ghimes-Faget",
+      "latitude": 46.58333,
+      "longitude": 26.06667
+    },
+    "607216": {
+      "code": "607216",
+      "region": "Bacau",
+      "city": "Glavanesti",
+      "latitude": 46.25,
+      "longitude": 27.38333
+    },
+    "607230": {
+      "code": "607230",
+      "region": "Bacau",
+      "city": "Helegiu",
+      "latitude": 46.35,
+      "longitude": 26.75
+    },
+    "607273": {
+      "code": "607273",
+      "region": "Neamt",
+      "city": "Ungureni",
+      "latitude": 46.51667,
+      "longitude": 26.95
+    },
+    "607345": {
+      "code": "607345",
+      "region": "Bacau",
+      "city": "Negri",
+      "latitude": 46.7,
+      "longitude": 26.96667
+    },
+    "607362": {
+      "code": "607362",
+      "region": "Arad",
+      "city": "Traian",
+      "latitude": 43.76667,
+      "longitude": 25
+    },
+    "607394": {
+      "code": "607394",
+      "region": "Vrancea",
+      "city": "Palanca",
+      "latitude": 46.53333,
+      "longitude": 26.11667
+    },
+    "607395": {
+      "code": "607395",
+      "region": "Bacau",
+      "city": "Parava",
+      "latitude": 46.3,
+      "longitude": 27
+    },
+    "607430": {
+      "code": "607430",
+      "region": "Bacau",
+      "city": "Pirjol",
+      "latitude": 46.58333,
+      "longitude": 26.6
+    },
+    "607480": {
+      "code": "607480",
+      "region": "Bacau",
+      "city": "Racaciuni",
+      "latitude": 46.33333,
+      "longitude": 26.98333
+    },
+    "607481": {
+      "code": "607481",
+      "region": "Mures",
+      "city": "Sinmartin",
+      "latitude": 46.26667,
+      "longitude": 25.93333
+    },
+    "607490": {
+      "code": "607490",
+      "region": "Bacau",
+      "city": "Rachitoasa",
+      "latitude": 46.43333,
+      "longitude": 27.36667
+    },
+    "607520": {
+      "code": "607520",
+      "region": "Bacau",
+      "city": "Sascut",
+      "latitude": 46.2,
+      "longitude": 27.1
+    },
+    "607586": {
+      "code": "607586",
+      "region": "Ilfov",
+      "city": "Balotesti",
+      "latitude": 44.61667,
+      "longitude": 26.11667
+    },
+    "607595": {
+      "code": "607595",
+      "region": "Bacau",
+      "city": "Strugari",
+      "latitude": 46.53333,
+      "longitude": 26.71667
+    },
+    "610340": {
+      "code": "610340",
+      "region": "Neamt",
+      "city": "Piatra Neamt",
+      "latitude": 46.91667,
+      "longitude": 26.33333
+    },
+    "611220": {
+      "code": "611220",
+      "region": "Neamt",
+      "city": "Roman",
+      "latitude": 46.91667,
+      "longitude": 26.91667
+    },
+    "615100": {
+      "code": "615100",
+      "region": "Neamt",
+      "city": "Bicaz",
+      "latitude": 46.91667,
+      "longitude": 26.06667
+    },
+    "615104": {
+      "code": "615104",
+      "region": "Neamt",
+      "city": "Bicaz",
+      "latitude": 46.91667,
+      "longitude": 26.06667
+    },
+    "615202": {
+      "code": "615202",
+      "region": "Neamt",
+      "city": "Tirgu Neamt",
+      "latitude": 47.2,
+      "longitude": 26.36667
+    },
+    "617015": {
+      "code": "617015",
+      "region": "Suceava",
+      "city": "Bogdanesti",
+      "latitude": 46.21667,
+      "longitude": 26.68333
+    },
+    "617023": {
+      "code": "617023",
+      "region": "Neamt",
+      "city": "Bahna",
+      "latitude": 46.78333,
+      "longitude": 26.78333
+    },
+    "617025": {
+      "code": "617025",
+      "region": "Neamt",
+      "city": "Baltatesti",
+      "latitude": 47.11667,
+      "longitude": 26.3
+    },
+    "617065": {
+      "code": "617065",
+      "region": "Neamt",
+      "city": "Bicazu Ardelean",
+      "latitude": 46.85,
+      "longitude": 25.93333
+    },
+    "617075": {
+      "code": "617075",
+      "region": "Neamt",
+      "city": "Borca",
+      "latitude": 47.18333,
+      "longitude": 25.76667
+    },
+    "617079": {
+      "code": "617079",
+      "region": "Maramures",
+      "city": "Farcasa",
+      "latitude": 47.16667,
+      "longitude": 25.83333
+    },
+    "617081": {
+      "code": "617081",
+      "region": "Neamt",
+      "city": "Borca",
+      "latitude": 47.18333,
+      "longitude": 25.76667
+    },
+    "617160": {
+      "code": "617160",
+      "region": "Neamt",
+      "city": "Doljesti",
+      "latitude": 47.03333,
+      "longitude": 26.98333
+    },
+    "617197": {
+      "code": "617197",
+      "region": "Bacau",
+      "city": "Beresti-Bistrita",
+      "latitude": 46.71667,
+      "longitude": 26.83333
+    },
+    "617205": {
+      "code": "617205",
+      "region": "Neamt",
+      "city": "Gheraesti",
+      "latitude": 47.01667,
+      "longitude": 26.81667
+    },
+    "617210": {
+      "code": "617210",
+      "region": "Neamt",
+      "city": "Girov",
+      "latitude": 46.95,
+      "longitude": 26.51667
+    },
+    "617250": {
+      "code": "617250",
+      "region": "Neamt",
+      "city": "Icusesti",
+      "latitude": 46.8,
+      "longitude": 26.93333
+    },
+    "617300": {
+      "code": "617300",
+      "region": "Neamt",
+      "city": "Pastraveni",
+      "latitude": 47.16667,
+      "longitude": 26.56667
+    },
+    "617382": {
+      "code": "617382",
+      "region": "Neamt",
+      "city": "Borlesti",
+      "latitude": 46.76667,
+      "longitude": 26.48333
+    },
+    "617395": {
+      "code": "617395",
+      "region": "Neamt",
+      "city": "Sagna",
+      "latitude": 46.98333,
+      "longitude": 27.01667
+    },
+    "617410": {
+      "code": "617410",
+      "region": "Neamt",
+      "city": "Savinesti",
+      "latitude": 46.85,
+      "longitude": 26.46667
+    },
+    "617418": {
+      "code": "617418",
+      "region": "Iasi",
+      "city": "Trifesti",
+      "latitude": 46.91667,
+      "longitude": 26.81667
+    },
+    "617460": {
+      "code": "617460",
+      "region": "Neamt",
+      "city": "Tazlau",
+      "latitude": 46.71667,
+      "longitude": 26.46667
+    },
+    "617470": {
+      "code": "617470",
+      "region": "Neamt",
+      "city": "Timisesti",
+      "latitude": 47.23333,
+      "longitude": 26.55
+    },
+    "617485": {
+      "code": "617485",
+      "region": "Neamt",
+      "city": "Tibucani",
+      "latitude": 47.1,
+      "longitude": 26.53333
+    },
+    "617500": {
+      "code": "617500",
+      "region": "Iasi",
+      "city": "Vinatori-Neamt",
+      "latitude": 47.2,
+      "longitude": 26.31667
+    },
+    "617515": {
+      "code": "617515",
+      "region": "Neamt",
+      "city": "Zanesti",
+      "latitude": 46.81667,
+      "longitude": 26.55
+    },
+    "620250": {
+      "code": "620250",
+      "region": "Vrancea",
+      "city": "Focsani",
+      "latitude": 45.7,
+      "longitude": 27.18333
+    },
+    "625100": {
+      "code": "625100",
+      "region": "Vrancea",
+      "city": "Adjud",
+      "latitude": 46.1,
+      "longitude": 27.16667
+    },
+    "625203": {
+      "code": "625203",
+      "region": "Vrancea",
+      "city": "Marasheshty",
+      "latitude": 45.88333,
+      "longitude": 27.23333
+    },
+    "625300": {
+      "code": "625300",
+      "region": "Vrancea",
+      "city": "Odobesti",
+      "latitude": 44.61667,
+      "longitude": 25.56667
+    },
+    "627035": {
+      "code": "627035",
+      "region": "Vrancea",
+      "city": "Bolotesti",
+      "latitude": 45.83333,
+      "longitude": 27.06667
+    },
+    "627046": {
+      "code": "627046",
+      "region": "Vrancea",
+      "city": "Bordesti",
+      "latitude": 45.55,
+      "longitude": 27.05
+    },
+    "627061": {
+      "code": "627061",
+      "region": "Ialomita",
+      "city": "Fetesti",
+      "latitude": 44.38333,
+      "longitude": 27.83333
+    },
+    "627090": {
+      "code": "627090",
+      "region": "Vrancea",
+      "city": "Corbita",
+      "latitude": 46.15,
+      "longitude": 27.3
+    },
+    "627123": {
+      "code": "627123",
+      "region": "Vrancea",
+      "city": "Dumitresti-Fata",
+      "latitude": 45.56667,
+      "longitude": 26.91667
+    },
+    "627135": {
+      "code": "627135",
+      "region": "Vrancea",
+      "city": "Fitionesti",
+      "latitude": 45.98333,
+      "longitude": 27.05
+    },
+    "627180": {
+      "code": "627180",
+      "region": "Vrancea",
+      "city": "Jaristea",
+      "latitude": 45.78333,
+      "longitude": 27.06667
+    },
+    "627196": {
+      "code": "627196",
+      "region": "Giurgiu",
+      "city": "Comana",
+      "latitude": 43.9,
+      "longitude": 28.31667
+    },
+    "627217": {
+      "code": "627217",
+      "region": "Galati",
+      "city": "Liesti",
+      "latitude": 45.61667,
+      "longitude": 27.51667
+    },
+    "627280": {
+      "code": "627280",
+      "region": "Vrancea",
+      "city": "Racoasa",
+      "latitude": 46,
+      "longitude": 26.88333
+    },
+    "627285": {
+      "code": "627285",
+      "region": "Vrancea",
+      "city": "Reghiu",
+      "latitude": 45.78333,
+      "longitude": 26.83333
+    },
+    "627295": {
+      "code": "627295",
+      "region": "Vrancea",
+      "city": "Ruginesti",
+      "latitude": 46.06667,
+      "longitude": 27.11667
+    },
+    "627296": {
+      "code": "627296",
+      "region": "Valcea",
+      "city": "Mateesti",
+      "latitude": 45.06667,
+      "longitude": 23.85
+    },
+    "627302": {
+      "code": "627302",
+      "region": "Sibiu",
+      "city": "Dumbraveni",
+      "latitude": 45.53333,
+      "longitude": 27.11667
+    },
+    "627305": {
+      "code": "627305",
+      "region": "Vrancea",
+      "city": "Slobozia Bradului",
+      "latitude": 45.5,
+      "longitude": 27.05
+    },
+    "627330": {
+      "code": "627330",
+      "region": "Vrancea",
+      "city": "Suraia",
+      "latitude": 45.68333,
+      "longitude": 27.4
+    },
+    "627335": {
+      "code": "627335",
+      "region": "Vrancea",
+      "city": "Tanasoaia",
+      "latitude": 46.1,
+      "longitude": 27.36667
+    },
+    "627350": {
+      "code": "627350",
+      "region": "Vrancea",
+      "city": "Tataranu",
+      "latitude": 45.51667,
+      "longitude": 27.31667
+    },
+    "627365": {
+      "code": "627365",
+      "region": "Vrancea",
+      "city": "Tulnici",
+      "latitude": 45.91667,
+      "longitude": 26.66667
+    },
+    "627419": {
+      "code": "627419",
+      "region": "Ilfov",
+      "city": "Vidra",
+      "latitude": 45.91667,
+      "longitude": 26.9
+    },
+    "627457": {
+      "code": "627457",
+      "region": "Vrancea",
+      "city": "Vulturu de Sus",
+      "latitude": 45.61667,
+      "longitude": 27.41667
+    },
+    "705100": {
+      "code": "705100",
+      "region": "Iasi",
+      "city": "Hirlau",
+      "latitude": 47.43333,
+      "longitude": 26.9
+    },
+    "705200": {
+      "code": "705200",
+      "region": "Iasi",
+      "city": "Pascani",
+      "latitude": 47.2469,
+      "longitude": 26.72291
+    },
+    "705303": {
+      "code": "705303",
+      "region": "Iasi",
+      "city": "Tirgu Frumos",
+      "latitude": 47.2,
+      "longitude": 27
+    },
+    "707008": {
+      "code": "707008",
+      "region": "Iasi",
+      "city": "Alexandru Ioan Cuza",
+      "latitude": 47.13333,
+      "longitude": 26.85
+    },
+    "707010": {
+      "code": "707010",
+      "region": "Iasi",
+      "city": "Andrieseni",
+      "latitude": 47.53333,
+      "longitude": 27.28333
+    },
+    "707047": {
+      "code": "707047",
+      "region": "Iasi",
+      "city": "Iasi",
+      "latitude": 47.16667,
+      "longitude": 27.6
+    },
+    "707081": {
+      "code": "707081",
+      "region": "Iasi",
+      "city": "Mogosesti",
+      "latitude": 47.03333,
+      "longitude": 27.53333
+    },
+    "707100": {
+      "code": "707100",
+      "region": "Iasi",
+      "city": "Coarnele Caprei",
+      "latitude": 47.38333,
+      "longitude": 27.1
+    },
+    "707105": {
+      "code": "707105",
+      "region": "Iasi",
+      "city": "Schitu-Duca",
+      "latitude": 47.03333,
+      "longitude": 27.76667
+    },
+    "707142": {
+      "code": "707142",
+      "region": "Iasi",
+      "city": "Cozmesti",
+      "latitude": 46.88333,
+      "longitude": 27.98333
+    },
+    "707153": {
+      "code": "707153",
+      "region": "Iasi",
+      "city": "Cucuteni",
+      "latitude": 47.28333,
+      "longitude": 26.93333
+    },
+    "707195": {
+      "code": "707195",
+      "region": "Iasi",
+      "city": "Focuri",
+      "latitude": 47.35,
+      "longitude": 27.21667
+    },
+    "707201": {
+      "code": "707201",
+      "region": "Brasov",
+      "city": "Bran",
+      "latitude": 45.51667,
+      "longitude": 25.35
+    },
+    "707210": {
+      "code": "707210",
+      "region": "Iasi",
+      "city": "Gorban",
+      "latitude": 46.87611,
+      "longitude": 28.07889
+    },
+    "707240": {
+      "code": "707240",
+      "region": "Iasi",
+      "city": "Halaucesti",
+      "latitude": 47.1,
+      "longitude": 26.8
+    },
+    "707251": {
+      "code": "707251",
+      "region": "Mures",
+      "city": "Cristesti",
+      "latitude": 46.5,
+      "longitude": 24.48333
+    },
+    "707273": {
+      "code": "707273",
+      "region": "Iasi",
+      "city": "Lespezi",
+      "latitude": 47.36667,
+      "longitude": 26.7
+    },
+    "707307": {
+      "code": "707307",
+      "region": "Iasi",
+      "city": "Letcani",
+      "latitude": 47.18333,
+      "longitude": 27.41667
+    },
+    "707345": {
+      "code": "707345",
+      "region": "Iasi",
+      "city": "Iasi",
+      "latitude": 47.16667,
+      "longitude": 27.6
+    },
+    "707365": {
+      "code": "707365",
+      "region": "Iasi",
+      "city": "Podu Iloaiei",
+      "latitude": 47.21667,
+      "longitude": 27.26667
+    },
+    "707380": {
+      "code": "707380",
+      "region": "Iasi",
+      "city": "Popricani",
+      "latitude": 47.3,
+      "longitude": 27.51667
+    },
+    "707455": {
+      "code": "707455",
+      "region": "Iasi",
+      "city": "Siretel",
+      "latitude": 47.4,
+      "longitude": 26.73333
+    },
+    "707515": {
+      "code": "707515",
+      "region": "Iasi",
+      "city": "Iasi",
+      "latitude": 47.16667,
+      "longitude": 27.6
+    },
+    "707530": {
+      "code": "707530",
+      "region": "Iasi",
+      "city": "Tibana",
+      "latitude": 46.98333,
+      "longitude": 27.33333
+    },
+    "707545": {
+      "code": "707545",
+      "region": "Braila",
+      "city": "Tufesti",
+      "latitude": 45.05,
+      "longitude": 27.81667
+    },
+    "707560": {
+      "code": "707560",
+      "region": "Iasi",
+      "city": "Tutora",
+      "latitude": 47.13333,
+      "longitude": 27.78333
+    },
+    "707562": {
+      "code": "707562",
+      "region": "Suceava",
+      "city": "Falticeni",
+      "latitude": 47.45,
+      "longitude": 26.3
+    },
+    "710490": {
+      "code": "710490",
+      "region": "Botosani",
+      "city": "Botosani",
+      "latitude": 47.75,
+      "longitude": 26.66667
+    },
+    "715100": {
+      "code": "715100",
+      "region": "Botosani",
+      "city": "Botosani",
+      "latitude": 47.75,
+      "longitude": 26.66667
+    },
+    "715200": {
+      "code": "715200",
+      "region": "Botosani",
+      "city": "Botosani",
+      "latitude": 47.75,
+      "longitude": 26.66667
+    },
+    "715203": {
+      "code": "715203",
+      "region": "Botosani",
+      "city": "Dorohoi",
+      "latitude": 47.95,
+      "longitude": 26.4
+    },
+    "717015": {
+      "code": "717015",
+      "region": "Botosani",
+      "city": "Avrameni",
+      "latitude": 48.01667,
+      "longitude": 26.95
+    },
+    "717040": {
+      "code": "717040",
+      "region": "Botosani",
+      "city": "Botosani",
+      "latitude": 47.75,
+      "longitude": 26.66667
+    },
+    "717045": {
+      "code": "717045",
+      "region": "Botosani",
+      "city": "Bucecea",
+      "latitude": 47.76667,
+      "longitude": 26.43333
+    },
+    "717090": {
+      "code": "717090",
+      "region": "Botosani",
+      "city": "Cotusca",
+      "latitude": 48.13333,
+      "longitude": 26.85
+    },
+    "717125": {
+      "code": "717125",
+      "region": "Botosani",
+      "city": "Dersca",
+      "latitude": 47.98333,
+      "longitude": 26.2
+    },
+    "717166": {
+      "code": "717166",
+      "region": "Botosani",
+      "city": "Frumusica",
+      "latitude": 47.53333,
+      "longitude": 26.9
+    },
+    "717170": {
+      "code": "717170",
+      "region": "Botosani",
+      "city": "George Enescu",
+      "latitude": 48.03333,
+      "longitude": 26.48333
+    },
+    "717181": {
+      "code": "717181",
+      "region": "Botosani",
+      "city": "Mihail Eminescu",
+      "latitude": 47.78333,
+      "longitude": 26.91667
+    },
+    "717185": {
+      "code": "717185",
+      "region": "Botosani",
+      "city": "Havirna",
+      "latitude": 48.06667,
+      "longitude": 26.65
+    },
+    "717195": {
+      "code": "717195",
+      "region": "Botosani",
+      "city": "Hanesti",
+      "latitude": 47.91667,
+      "longitude": 26.98333
+    },
+    "717316": {
+      "code": "717316",
+      "region": "Suceava",
+      "city": "Radauti",
+      "latitude": 48.23333,
+      "longitude": 26.8
+    },
+    "717320": {
+      "code": "717320",
+      "region": "Botosani",
+      "city": "Rauseni",
+      "latitude": 47.56667,
+      "longitude": 27.2
+    },
+    "717332": {
+      "code": "717332",
+      "region": "Botosani",
+      "city": "Ripiceni",
+      "latitude": 47.95,
+      "longitude": 27.13333
+    },
+    "717373": {
+      "code": "717373",
+      "region": "Botosani",
+      "city": "Sulita-Tirg",
+      "latitude": 47.65,
+      "longitude": 26.91667
+    },
+    "717380": {
+      "code": "717380",
+      "region": "Botosani",
+      "city": "Sendriceni",
+      "latitude": 47.95,
+      "longitude": 26.3
+    },
+    "717389": {
+      "code": "717389",
+      "region": "Iasi",
+      "city": "Stefanesti-Sat",
+      "latitude": 47.78333,
+      "longitude": 27.18333
+    },
+    "717410": {
+      "code": "717410",
+      "region": "Botosani",
+      "city": "Tudora",
+      "latitude": 47.51667,
+      "longitude": 26.63333
+    },
+    "717423": {
+      "code": "717423",
+      "region": "Botosani",
+      "city": "Ungureni-Jianu",
+      "latitude": 47.88333,
+      "longitude": 26.78333
+    },
+    "717465": {
+      "code": "717465",
+      "region": "Botosani",
+      "city": "Vlasinesti",
+      "latitude": 47.93333,
+      "longitude": 26.88333
+    },
+    "725100": {
+      "code": "725100",
+      "region": "Suceava",
+      "city": "Campulung Moldovenesc",
+      "latitude": 47.53333,
+      "longitude": 25.56667
+    },
+    "725200": {
+      "code": "725200",
+      "region": "Suceava",
+      "city": "Suceava",
+      "latitude": 47.63333,
+      "longitude": 26.25
+    },
+    "725300": {
+      "code": "725300",
+      "region": "Suceava",
+      "city": "Gura Humorului",
+      "latitude": 47.55,
+      "longitude": 25.9
+    },
+    "725400": {
+      "code": "725400",
+      "region": "Suceava",
+      "city": "Radowce",
+      "latitude": 47.85,
+      "longitude": 25.91667
+    },
+    "725500": {
+      "code": "725500",
+      "region": "Suceava",
+      "city": "Siret",
+      "latitude": 47.95,
+      "longitude": 26.06667
+    },
+    "725700": {
+      "code": "725700",
+      "region": "Suceava",
+      "city": "Vatra Dornei",
+      "latitude": 47.35,
+      "longitude": 25.36667
+    },
+    "727040": {
+      "code": "727040",
+      "region": "Suceava",
+      "city": "Boroaia",
+      "latitude": 47.35,
+      "longitude": 26.33333
+    },
+    "727114": {
+      "code": "727114",
+      "region": "Suceava",
+      "city": "Cirlibaba",
+      "latitude": 47.58333,
+      "longitude": 25.13333
+    },
+    "727202": {
+      "code": "727202",
+      "region": "Suceava",
+      "city": "Dorna",
+      "latitude": 47.35,
+      "longitude": 25.43333
+    },
+    "727245": {
+      "code": "727245",
+      "region": "Suceava",
+      "city": "Suceava",
+      "latitude": 47.63333,
+      "longitude": 26.25
+    },
+    "727250": {
+      "code": "727250",
+      "region": "Suceava",
+      "city": "Suceava",
+      "latitude": 47.63333,
+      "longitude": 26.25
+    },
+    "727255": {
+      "code": "727255",
+      "region": "Suceava",
+      "city": "Fratautii Vechi",
+      "latitude": 47.9,
+      "longitude": 25.88333
+    },
+    "727265": {
+      "code": "727265",
+      "region": "Suceava",
+      "city": "Fundu Moldovei",
+      "latitude": 47.53333,
+      "longitude": 25.4
+    },
+    "727326": {
+      "code": "727326",
+      "region": "Suceava",
+      "city": "Suceava",
+      "latitude": 47.63333,
+      "longitude": 26.25
+    },
+    "727350": {
+      "code": "727350",
+      "region": "Suceava",
+      "city": "Suceava",
+      "latitude": 47.63333,
+      "longitude": 26.25
+    },
+    "727360": {
+      "code": "727360",
+      "region": "Suceava",
+      "city": "Milisauti",
+      "latitude": 47.78333,
+      "longitude": 26
+    },
+    "727362": {
+      "code": "727362",
+      "region": "Suceava",
+      "city": "Suceava",
+      "latitude": 47.63333,
+      "longitude": 26.25
+    },
+    "727390": {
+      "code": "727390",
+      "region": "Suceava",
+      "city": "Musenita",
+      "latitude": 47.96667,
+      "longitude": 26
+    },
+    "727451": {
+      "code": "727451",
+      "region": "Suceava",
+      "city": "Preutesti",
+      "latitude": 47.45,
+      "longitude": 26.41667
+    },
+    "727465": {
+      "code": "727465",
+      "region": "Suceava",
+      "city": "Suceava",
+      "latitude": 47.63333,
+      "longitude": 26.25
+    },
+    "727485": {
+      "code": "727485",
+      "region": "Suceava",
+      "city": "Siminicea",
+      "latitude": 47.7,
+      "longitude": 26.4
+    },
+    "727505": {
+      "code": "727505",
+      "region": "Suceava",
+      "city": "Stulpicani",
+      "latitude": 47.46667,
+      "longitude": 25.76667
+    },
+    "727510": {
+      "code": "727510",
+      "region": "Suceava",
+      "city": "Sucevita",
+      "latitude": 47.78333,
+      "longitude": 25.71667
+    },
+    "727525": {
+      "code": "727525",
+      "region": "Suceava",
+      "city": "Scheia",
+      "latitude": 46.93333,
+      "longitude": 27.51667
+    },
+    "727528": {
+      "code": "727528",
+      "region": "Suceava",
+      "city": "Suceava",
+      "latitude": 47.63333,
+      "longitude": 26.25
+    },
+    "727529": {
+      "code": "727529",
+      "region": "Suceava",
+      "city": "Suceava",
+      "latitude": 47.63333,
+      "longitude": 26.25
+    },
+    "727534": {
+      "code": "727534",
+      "region": "Iasi",
+      "city": "Bivolari",
+      "latitude": 47.53333,
+      "longitude": 27.43333
+    },
+    "727560": {
+      "code": "727560",
+      "region": "Suceava",
+      "city": "Vadu Moldovei",
+      "latitude": 47.38333,
+      "longitude": 26.36667
+    },
+    "727580": {
+      "code": "727580",
+      "region": "Suceava",
+      "city": "Valea Moldovei",
+      "latitude": 47.46667,
+      "longitude": 26.03333
+    },
+    "727592": {
+      "code": "727592",
+      "region": "Suceava",
+      "city": "Vama",
+      "latitude": 47.56667,
+      "longitude": 25.68333
+    },
+    "727595": {
+      "code": "727595",
+      "region": "Suceava",
+      "city": "Vatra Moldovitei",
+      "latitude": 47.65,
+      "longitude": 25.56667
+    },
+    "727605": {
+      "code": "727605",
+      "region": "Suceava",
+      "city": "Vicovu de Jos",
+      "latitude": 47.9,
+      "longitude": 25.73333
+    },
+    "727610": {
+      "code": "727610",
+      "region": "Suceava",
+      "city": "Suceava",
+      "latitude": 47.63333,
+      "longitude": 26.25
+    },
+    "727615": {
+      "code": "727615",
+      "region": "Suceava",
+      "city": "Volovat",
+      "latitude": 47.81667,
+      "longitude": 25.9
+    },
+    "727630": {
+      "code": "727630",
+      "region": "Suceava",
+      "city": "Zamostea",
+      "latitude": 47.86667,
+      "longitude": 26.2
+    },
+    "730310": {
+      "code": "730310",
+      "region": "Vaslui",
+      "city": "Vaslui",
+      "latitude": 46.63333,
+      "longitude": 27.73333
+    },
+    "731300": {
+      "code": "731300",
+      "region": "Vaslui",
+      "city": "Birlad",
+      "latitude": 46.23333,
+      "longitude": 27.66667
+    },
+    "735100": {
+      "code": "735100",
+      "region": "Vaslui",
+      "city": "Husi",
+      "latitude": 46.67361,
+      "longitude": 28.05944
+    },
+    "735200": {
+      "code": "735200",
+      "region": "Vaslui",
+      "city": "Vaslui",
+      "latitude": 46.63333,
+      "longitude": 27.73333
+    },
+    "737020": {
+      "code": "737020",
+      "region": "Vaslui",
+      "city": "Arsura",
+      "latitude": 46.81333,
+      "longitude": 28.02222
+    },
+    "737025": {
+      "code": "737025",
+      "region": "Vaslui",
+      "city": "Banca",
+      "latitude": 46.3,
+      "longitude": 27.8
+    },
+    "737045": {
+      "code": "737045",
+      "region": "Vaslui",
+      "city": "Bacani",
+      "latitude": 46.33333,
+      "longitude": 27.66667
+    },
+    "737061": {
+      "code": "737061",
+      "region": "Gorj",
+      "city": "Balteni",
+      "latitude": 46.66667,
+      "longitude": 27.61667
+    },
+    "737065": {
+      "code": "737065",
+      "region": "Vaslui",
+      "city": "Berezeni",
+      "latitude": 46.37611,
+      "longitude": 28.14778
+    },
+    "737193": {
+      "code": "737193",
+      "region": "Vaslui",
+      "city": "Dimitrie Cantemir",
+      "latitude": 46.50778,
+      "longitude": 28.05472
+    },
+    "737325": {
+      "code": "737325",
+      "region": "Vaslui",
+      "city": "Laza",
+      "latitude": 46.65,
+      "longitude": 27.58333
+    },
+    "737350": {
+      "code": "737350",
+      "region": "Vaslui",
+      "city": "Malusteni",
+      "latitude": 46.18333,
+      "longitude": 27.91667
+    },
+    "737360": {
+      "code": "737360",
+      "region": "Vaslui",
+      "city": "Miclesti",
+      "latitude": 46.81667,
+      "longitude": 27.83333
+    },
+    "737390": {
+      "code": "737390",
+      "region": "Vaslui",
+      "city": "Osesti",
+      "latitude": 46.76667,
+      "longitude": 27.46667
+    },
+    "737465": {
+      "code": "737465",
+      "region": "Vaslui",
+      "city": "Rosiesti",
+      "latitude": 46.43333,
+      "longitude": 27.88333
+    },
+    "737475": {
+      "code": "737475",
+      "region": "Vaslui",
+      "city": "Solesti",
+      "latitude": 46.76667,
+      "longitude": 27.78333
+    },
+    "737485": {
+      "code": "737485",
+      "region": "Vaslui",
+      "city": "Stanilesti",
+      "latitude": 46.61833,
+      "longitude": 28.17139
+    },
+    "737550": {
+      "code": "737550",
+      "region": "Vaslui",
+      "city": "Tutova",
+      "latitude": 46.11667,
+      "longitude": 27.55
+    },
+    "737565": {
+      "code": "737565",
+      "region": "Prahova",
+      "city": "Valeni",
+      "latitude": 46.59278,
+      "longitude": 28.0625
+    },
+    "737585": {
+      "code": "737585",
+      "region": "Vaslui",
+      "city": "Vinderei",
+      "latitude": 46.15,
+      "longitude": 27.8
+    },
+    "737618": {
+      "code": "737618",
+      "region": "Covasna",
+      "city": "Covasna",
+      "latitude": 45.85,
+      "longitude": 26.18333
+    },
+    "737620": {
+      "code": "737620",
+      "region": "Vaslui",
+      "city": "Vutcani",
+      "latitude": 46.46667,
+      "longitude": 27.96667
+    },
+    "737625": {
+      "code": "737625",
+      "region": "Vaslui",
+      "city": "Zapodeni",
+      "latitude": 46.75,
+      "longitude": 27.65
+    },
+    "737635": {
+      "code": "737635",
+      "region": "Vaslui",
+      "city": "Zorleni",
+      "latitude": 46.26667,
+      "longitude": 27.71667
+    },
+    "800820": {
+      "code": "800820",
+      "region": "Galati",
+      "city": "Galati",
+      "latitude": 45.45,
+      "longitude": 28.05
+    },
+    "805200": {
+      "code": "805200",
+      "region": "Galati",
+      "city": "Bujor",
+      "latitude": 45.86667,
+      "longitude": 27.9
+    },
+    "805300": {
+      "code": "805300",
+      "region": "Galati",
+      "city": "Tecuci",
+      "latitude": 45.84973,
+      "longitude": 27.43441
+    },
+    "807005": {
+      "code": "807005",
+      "region": "Galati",
+      "city": "Barcea",
+      "latitude": 45.75,
+      "longitude": 27.46667
+    },
+    "807055": {
+      "code": "807055",
+      "region": "Vaslui",
+      "city": "Brahasestii de Jos",
+      "latitude": 46.03333,
+      "longitude": 27.36667
+    },
+    "807065": {
+      "code": "807065",
+      "region": "Galati",
+      "city": "Cavadinesti",
+      "latitude": 46.06667,
+      "longitude": 28.01694
+    },
+    "807076": {
+      "code": "807076",
+      "region": "Dambovita",
+      "city": "Baleni",
+      "latitude": 45.81667,
+      "longitude": 27.83333
+    },
+    "807080": {
+      "code": "807080",
+      "region": "Galati",
+      "city": "Corod",
+      "latitude": 45.9,
+      "longitude": 27.61667
+    },
+    "807100": {
+      "code": "807100",
+      "region": "Galati",
+      "city": "Cuca",
+      "latitude": 44.95,
+      "longitude": 24.51667
+    },
+    "807105": {
+      "code": "807105",
+      "region": "Galati",
+      "city": "Cudalbi",
+      "latitude": 45.78333,
+      "longitude": 27.7
+    },
+    "807130": {
+      "code": "807130",
+      "region": "Galati",
+      "city": "Foltesti",
+      "latitude": 45.75,
+      "longitude": 28.05
+    },
+    "807135": {
+      "code": "807135",
+      "region": "Galati",
+      "city": "Frumusita",
+      "latitude": 45.66667,
+      "longitude": 28.06667
+    },
+    "807140": {
+      "code": "807140",
+      "region": "Calarasi",
+      "city": "Fundeni",
+      "latitude": 44.38333,
+      "longitude": 26.35
+    },
+    "807148": {
+      "code": "807148",
+      "region": "Galati",
+      "city": "Ghidigeni",
+      "latitude": 46.05,
+      "longitude": 27.5
+    },
+    "807170": {
+      "code": "807170",
+      "region": "Galati",
+      "city": "Ivesti",
+      "latitude": 45.68333,
+      "longitude": 27.51667
+    },
+    "807201": {
+      "code": "807201",
+      "region": "Galati",
+      "city": "Tecuci",
+      "latitude": 45.84973,
+      "longitude": 27.43441
+    },
+    "807223": {
+      "code": "807223",
+      "region": "Galati",
+      "city": "Nicoresti",
+      "latitude": 45.93223,
+      "longitude": 27.30866
+    },
+    "807240": {
+      "code": "807240",
+      "region": "Galati",
+      "city": "Pechea",
+      "latitude": 45.63333,
+      "longitude": 27.8
+    },
+    "807241": {
+      "code": "807241",
+      "region": "Galati",
+      "city": "Slobozia-Conache",
+      "latitude": 45.58333,
+      "longitude": 27.78333
+    },
+    "807245": {
+      "code": "807245",
+      "region": "Galati",
+      "city": "Piscu",
+      "latitude": 45.5,
+      "longitude": 27.73333
+    },
+    "807295": {
+      "code": "807295",
+      "region": "Galati",
+      "city": "Suceveni",
+      "latitude": 46.01222,
+      "longitude": 28.01806
+    },
+    "807326": {
+      "code": "807326",
+      "region": "Vrancea",
+      "city": "Vinatori",
+      "latitude": 45.53333,
+      "longitude": 28.01667
+    },
+    "810660": {
+      "code": "810660",
+      "region": "Braila",
+      "city": "Braila",
+      "latitude": 45.26667,
+      "longitude": 27.98333
+    },
+    "815100": {
+      "code": "815100",
+      "region": "Braila",
+      "city": "Braila",
+      "latitude": 45.26667,
+      "longitude": 27.98333
+    },
+    "815200": {
+      "code": "815200",
+      "region": "Prahova",
+      "city": "Magureni",
+      "latitude": 45.06667,
+      "longitude": 25.73333
+    },
+    "817005": {
+      "code": "817005",
+      "region": "Braila",
+      "city": "Victoria",
+      "latitude": 44.81667,
+      "longitude": 27.61667
+    },
+    "817020": {
+      "code": "817020",
+      "region": "Braila",
+      "city": "Bordei Verde",
+      "latitude": 45.08333,
+      "longitude": 27.56667
+    },
+    "817067": {
+      "code": "817067",
+      "region": "Braila",
+      "city": "Sutesti",
+      "latitude": 45.21667,
+      "longitude": 27.43333
+    },
+    "817083": {
+      "code": "817083",
+      "region": "Ialomita",
+      "city": "Giurgeni",
+      "latitude": 44.76667,
+      "longitude": 27.88333
+    },
+    "817150": {
+      "code": "817150",
+      "region": "Braila",
+      "city": "Stancuta",
+      "latitude": 44.9,
+      "longitude": 27.83333
+    },
+    "817215": {
+      "code": "817215",
+      "region": "Braila",
+      "city": "Viziru",
+      "latitude": 45.01667,
+      "longitude": 27.7
+    },
+    "817220": {
+      "code": "817220",
+      "region": "Braila",
+      "city": "Insuratei",
+      "latitude": 44.91667,
+      "longitude": 27.6
+    },
+    "820330": {
+      "code": "820330",
+      "region": "Tulcea",
+      "city": "Tulcea",
+      "latitude": 45.16667,
+      "longitude": 28.8
+    },
+    "825100": {
+      "code": "825100",
+      "region": "Tulcea",
+      "city": "Babadag",
+      "latitude": 44.9,
+      "longitude": 28.71667
+    },
+    "825201": {
+      "code": "825201",
+      "region": "Tulcea",
+      "city": "Isaccea",
+      "latitude": 45.26667,
+      "longitude": 28.46667
+    },
+    "825300": {
+      "code": "825300",
+      "region": "Tulcea",
+      "city": "Macin",
+      "latitude": 45.24371,
+      "longitude": 28.13564
+    },
+    "825400": {
+      "code": "825400",
+      "region": "Tulcea",
+      "city": "Sulina",
+      "latitude": 45.1559,
+      "longitude": 29.65356
+    },
+    "827009": {
+      "code": "827009",
+      "region": "Suceava",
+      "city": "Baia",
+      "latitude": 44.71667,
+      "longitude": 28.66667
+    },
+    "827010": {
+      "code": "827010",
+      "region": "Tulcea",
+      "city": "Beidaud",
+      "latitude": 44.71667,
+      "longitude": 28.56667
+    },
+    "827035": {
+      "code": "827035",
+      "region": "Tulcea",
+      "city": "Ceamurlia de Jos",
+      "latitude": 44.73333,
+      "longitude": 28.71667
+    },
+    "827050": {
+      "code": "827050",
+      "region": "Tulcea",
+      "city": "Chilia Veche",
+      "latitude": 45.41667,
+      "longitude": 29.28333
+    },
+    "827115": {
+      "code": "827115",
+      "region": "Tulcea",
+      "city": "Jurilovca",
+      "latitude": 44.76667,
+      "longitude": 28.86667
+    },
+    "827125": {
+      "code": "827125",
+      "region": "Tulcea",
+      "city": "Vacareni",
+      "latitude": 45.32415,
+      "longitude": 28.19512
+    },
+    "827130": {
+      "code": "827130",
+      "region": "Tulcea",
+      "city": "Mahmudia",
+      "latitude": 45.08333,
+      "longitude": 29.08333
+    },
+    "827142": {
+      "code": "827142",
+      "region": "Cluj",
+      "city": "Turda",
+      "latitude": 46.56667,
+      "longitude": 23.78333
+    },
+    "827170": {
+      "code": "827170",
+      "region": "Tulcea",
+      "city": "Nufaru",
+      "latitude": 45.15,
+      "longitude": 28.91667
+    },
+    "827185": {
+      "code": "827185",
+      "region": "Constanta",
+      "city": "Peceneaga",
+      "latitude": 45.01667,
+      "longitude": 28.13333
+    },
+    "827190": {
+      "code": "827190",
+      "region": "Tulcea",
+      "city": "Sarichioi",
+      "latitude": 44.95,
+      "longitude": 28.85
+    },
+    "827224": {
+      "code": "827224",
+      "region": "Constanta",
+      "city": "Corbu",
+      "latitude": 44.38333,
+      "longitude": 28.65
+    },
+    "827230": {
+      "code": "827230",
+      "region": "Tulcea",
+      "city": "Turcoaia",
+      "latitude": 45.11667,
+      "longitude": 28.18333
+    },
+    "827235": {
+      "code": "827235",
+      "region": "Tulcea",
+      "city": "Valea Nucarilor",
+      "latitude": 45.03333,
+      "longitude": 28.93333
+    },
+    "900900": {
+      "code": "900900",
+      "region": "Constanta",
+      "city": "Constanta",
+      "latitude": 44.18333,
+      "longitude": 28.65
+    },
+    "905100": {
+      "code": "905100",
+      "region": "Constanta",
+      "city": "Constanta",
+      "latitude": 44.18333,
+      "longitude": 28.65
+    },
+    "905200": {
+      "code": "905200",
+      "region": "Constanta",
+      "city": "Cernavoda",
+      "latitude": 44.36667,
+      "longitude": 28.01667
+    },
+    "905350": {
+      "code": "905350",
+      "region": "Constanta",
+      "city": "Constanta",
+      "latitude": 44.18333,
+      "longitude": 28.65
+    },
+    "905400": {
+      "code": "905400",
+      "region": "Constanta",
+      "city": "Constanta",
+      "latitude": 44.18333,
+      "longitude": 28.65
+    },
+    "905401": {
+      "code": "905401",
+      "region": "Buzau",
+      "city": "Gura Teghii",
+      "latitude": 45.48333,
+      "longitude": 26.41667
+    },
+    "905500": {
+      "code": "905500",
+      "region": "Constanta",
+      "city": "Mangalia",
+      "latitude": 43.8,
+      "longitude": 28.58333
+    },
+    "905600": {
+      "code": "905600",
+      "region": "Constanta",
+      "city": "Medgidia",
+      "latitude": 44.25,
+      "longitude": 28.28333
+    },
+    "905700": {
+      "code": "905700",
+      "region": "Constanta",
+      "city": "Navodari",
+      "latitude": 44.31667,
+      "longitude": 28.6
+    },
+    "905800": {
+      "code": "905800",
+      "region": "Constanta",
+      "city": "Negru Voda",
+      "latitude": 43.81667,
+      "longitude": 28.2
+    },
+    "905801": {
+      "code": "905801",
+      "region": "Botosani",
+      "city": "Darabani",
+      "latitude": 48.18333,
+      "longitude": 26.58333
+    },
+    "905900": {
+      "code": "905900",
+      "region": "Constanta",
+      "city": "Ovidiu",
+      "latitude": 44.26667,
+      "longitude": 28.56667
+    },
+    "907006": {
+      "code": "907006",
+      "region": "Mehedinti",
+      "city": "Douazeci si Trei August",
+      "latitude": 43.91667,
+      "longitude": 28.58333
+    },
+    "907015": {
+      "code": "907015",
+      "region": "Constanta",
+      "city": "Cumpana",
+      "latitude": 44.11667,
+      "longitude": 28.56667
+    },
+    "907022": {
+      "code": "907022",
+      "region": "Botosani",
+      "city": "Albesti",
+      "latitude": 43.8,
+      "longitude": 28.41667
+    },
+    "907055": {
+      "code": "907055",
+      "region": "Constanta",
+      "city": "Ciobanu",
+      "latitude": 44.73333,
+      "longitude": 27.96667
+    },
+    "907065": {
+      "code": "907065",
+      "region": "Constanta",
+      "city": "Cobadin",
+      "latitude": 44.08333,
+      "longitude": 28.21667
+    },
+    "907090": {
+      "code": "907090",
+      "region": "Constanta",
+      "city": "Costinesti",
+      "latitude": 43.95,
+      "longitude": 28.63333
+    },
+    "907098": {
+      "code": "907098",
+      "region": "Constanta",
+      "city": "Crucea",
+      "latitude": 44.53333,
+      "longitude": 28.23333
+    },
+    "907099": {
+      "code": "907099",
+      "region": "Neamt",
+      "city": "Horia",
+      "latitude": 44.63333,
+      "longitude": 28.11667
+    },
+    "907106": {
+      "code": "907106",
+      "region": "Suceava",
+      "city": "Straja",
+      "latitude": 47.91667,
+      "longitude": 25.55
+    },
+    "907115": {
+      "code": "907115",
+      "region": "Constanta",
+      "city": "Dobromir",
+      "latitude": 44.01667,
+      "longitude": 27.78333
+    },
+    "907155": {
+      "code": "907155",
+      "region": "Constanta",
+      "city": "Istria",
+      "latitude": 44.56667,
+      "longitude": 28.71667
+    },
+    "907156": {
+      "code": "907156",
+      "region": "Brasov",
+      "city": "Sacele",
+      "latitude": 44.48333,
+      "longitude": 28.65
+    },
+    "907160": {
+      "code": "907160",
+      "region": "Constanta",
+      "city": "Limanu",
+      "latitude": 43.8,
+      "longitude": 28.53333
+    },
+    "907175": {
+      "code": "907175",
+      "region": "Tulcea",
+      "city": "Crisan",
+      "latitude": 44.96667,
+      "longitude": 29.46667
+    },
+    "907176": {
+      "code": "907176",
+      "region": "Bacau",
+      "city": "Oituz",
+      "latitude": 46.2,
+      "longitude": 26.61667
+    },
+    "907177": {
+      "code": "907177",
+      "region": "Constanta",
+      "city": "Mihail Kogalniceanu",
+      "latitude": 44.36667,
+      "longitude": 28.45
+    },
+    "907190": {
+      "code": "907190",
+      "region": "Cluj",
+      "city": "Mihai Viteazu",
+      "latitude": 44.63333,
+      "longitude": 28.68333
+    },
+    "907202": {
+      "code": "907202",
+      "region": "Constanta",
+      "city": "Mircea Voda",
+      "latitude": 44.28333,
+      "longitude": 28.16667
+    },
+    "907215": {
+      "code": "907215",
+      "region": "Constanta",
+      "city": "Oltina",
+      "latitude": 44.16667,
+      "longitude": 27.66667
+    },
+    "907216": {
+      "code": "907216",
+      "region": "Calarasi",
+      "city": "Ileana",
+      "latitude": 44.51667,
+      "longitude": 26.66667
+    },
+    "907221": {
+      "code": "907221",
+      "region": "Constanta",
+      "city": "Ostrov",
+      "latitude": 44.11667,
+      "longitude": 27.36667
+    },
+    "907230": {
+      "code": "907230",
+      "region": "Ilfov",
+      "city": "Pantelimon",
+      "latitude": 44.45,
+      "longitude": 26.2
+    },
+    "907233": {
+      "code": "907233",
+      "region": "Constanta",
+      "city": "Pantelimon de Jos",
+      "latitude": 44.56667,
+      "longitude": 28.38333
+    },
+    "907235": {
+      "code": "907235",
+      "region": "Constanta",
+      "city": "Pecineaga",
+      "latitude": 43.9,
+      "longitude": 28.5
+    },
+    "907245": {
+      "code": "907245",
+      "region": "Constanta",
+      "city": "Murfatlar",
+      "latitude": 44.18333,
+      "longitude": 28.41667
+    },
+    "907285": {
+      "code": "907285",
+      "region": "Constanta",
+      "city": "Topraisar",
+      "latitude": 44.01667,
+      "longitude": 28.45
+    },
+    "907291": {
+      "code": "907291",
+      "region": "Bacau",
+      "city": "Nicolae Balcescu",
+      "latitude": 44.38333,
+      "longitude": 28.38333
+    },
+    "907295": {
+      "code": "907295",
+      "region": "Constanta",
+      "city": "Eforie Sud",
+      "latitude": 44.02294,
+      "longitude": 28.64943
+    },
+    "907300": {
+      "code": "907300",
+      "region": "Constanta",
+      "city": "Valu lui Traian",
+      "latitude": 44.16667,
+      "longitude": 28.46667
+    },
+    "915100": {
+      "code": "915100",
+      "region": "Calarasi",
+      "city": "Budesti",
+      "latitude": 44.23472,
+      "longitude": 26.46583
+    },
+    "915300": {
+      "code": "915300",
+      "region": "Calarasi",
+      "city": "Calarasi",
+      "latitude": 44.21667,
+      "longitude": 27.3
+    },
+    "915400": {
+      "code": "915400",
+      "region": "Calarasi",
+      "city": "Calarasi",
+      "latitude": 44.21667,
+      "longitude": 27.3
+    },
+    "917030": {
+      "code": "917030",
+      "region": "Calarasi",
+      "city": "Chiselet",
+      "latitude": 44.18333,
+      "longitude": 26.85
+    },
+    "917046": {
+      "code": "917046",
+      "region": "Calarasi",
+      "city": "Cuza Voda",
+      "latitude": 44.26667,
+      "longitude": 27.26667
+    },
+    "917050": {
+      "code": "917050",
+      "region": "Calarasi",
+      "city": "Dichiseni",
+      "latitude": 44.23333,
+      "longitude": 27.53333
+    },
+    "917080": {
+      "code": "917080",
+      "region": "Calarasi",
+      "city": "Dragalina",
+      "latitude": 44.43333,
+      "longitude": 27.31667
+    },
+    "917087": {
+      "code": "917087",
+      "region": "Calarasi",
+      "city": "Voda Dragos",
+      "latitude": 44.43333,
+      "longitude": 27.15
+    },
+    "917100": {
+      "code": "917100",
+      "region": "Calarasi",
+      "city": "Frumusani",
+      "latitude": 44.29611,
+      "longitude": 26.32556
+    },
+    "917118": {
+      "code": "917118",
+      "region": "Dambovita",
+      "city": "Ciocanesti",
+      "latitude": 44.2,
+      "longitude": 27.06667
+    },
+    "917120": {
+      "code": "917120",
+      "region": "Calarasi",
+      "city": "Gurbanesti",
+      "latitude": 44.38333,
+      "longitude": 26.7
+    },
+    "917145": {
+      "code": "917145",
+      "region": "Calarasi",
+      "city": "Jegalia",
+      "latitude": 44.3,
+      "longitude": 27.63333
+    },
+    "917175": {
+      "code": "917175",
+      "region": "Calarasi",
+      "city": "Mitreni",
+      "latitude": 44.16667,
+      "longitude": 26.6
+    },
+    "917192": {
+      "code": "917192",
+      "region": "Calarasi",
+      "city": "Lehliu",
+      "latitude": 44.46667,
+      "longitude": 26.81667
+    },
+    "917196": {
+      "code": "917196",
+      "region": "Calarasi",
+      "city": "Perisoru",
+      "latitude": 44.45,
+      "longitude": 27.55
+    },
+    "917235": {
+      "code": "917235",
+      "region": "Calarasi",
+      "city": "Soldanu",
+      "latitude": 44.21667,
+      "longitude": 26.51667
+    },
+    "917275": {
+      "code": "917275",
+      "region": "Calarasi",
+      "city": "Valea Argovei",
+      "latitude": 44.35,
+      "longitude": 26.78333
+    },
+    "920001": {
+      "code": "920001",
+      "region": "Ialomita",
+      "city": "Ciulnita",
+      "latitude": 44.53333,
+      "longitude": 27.35
+    },
+    "920140": {
+      "code": "920140",
+      "region": "Ialomita",
+      "city": "Amara",
+      "latitude": 44.61667,
+      "longitude": 27.31667
+    },
+    "925200": {
+      "code": "925200",
+      "region": "Ialomita",
+      "city": "Tandarei",
+      "latitude": 44.65,
+      "longitude": 27.66667
+    },
+    "925300": {
+      "code": "925300",
+      "region": "Ialomita",
+      "city": "Urziceni",
+      "latitude": 44.71667,
+      "longitude": 26.63333
+    },
+    "927025": {
+      "code": "927025",
+      "region": "Ialomita",
+      "city": "Andrasesti",
+      "latitude": 44.56667,
+      "longitude": 27.13333
+    },
+    "927051": {
+      "code": "927051",
+      "region": "Ialomita",
+      "city": "Bordusani",
+      "latitude": 44.48333,
+      "longitude": 27.9
+    },
+    "927060": {
+      "code": "927060",
+      "region": "Ialomita",
+      "city": "Bucu",
+      "latitude": 44.60532,
+      "longitude": 27.49337
+    },
+    "927105": {
+      "code": "927105",
+      "region": "Ialomita",
+      "city": "Dridu",
+      "latitude": 44.7,
+      "longitude": 26.45
+    },
+    "927115": {
+      "code": "927115",
+      "region": "Ialomita",
+      "city": "Urziceni",
+      "latitude": 44.71667,
+      "longitude": 26.63333
+    },
+    "927120": {
+      "code": "927120",
+      "region": "Alba",
+      "city": "Girbovi",
+      "latitude": 44.78333,
+      "longitude": 26.76667
+    },
+    "927130": {
+      "code": "927130",
+      "region": "Ialomita",
+      "city": "Gheorghe Lazar",
+      "latitude": 44.63333,
+      "longitude": 27.45
+    },
+    "927150": {
+      "code": "927150",
+      "region": "Ialomita",
+      "city": "Ion Roata",
+      "latitude": 44.66667,
+      "longitude": 26.76667
+    },
+    "077040": {
+      "code": "077040",
+      "region": "Ilfov",
+      "city": "Chiajna",
+      "latitude": 44.46,
+      "longitude": 25.97333
+    },
+    "060222": {
+      "code": "060222",
+      "region": "Bucuresti",
+      "city": "Bucharest",
+      "latitude": 44.43225,
+      "longitude": 26.10626
+    },
+    "077190": {
+      "code": "077190",
+      "region": "Ilfov",
+      "city": "Voluntari",
+      "latitude": 44.46667,
+      "longitude": 26.13333
+    },
+    "077165": {
+      "code": "077165",
+      "region": "Ilfov",
+      "city": "Snagov",
+      "latitude": 44.7,
+      "longitude": 26.18333
+    },
+    "077160": {
+      "code": "077160",
+      "region": "Ilfov",
+      "city": "Popesti-Leordeni",
+      "latitude": 44.38333,
+      "longitude": 26.16667
+    },
+    "": {
+      "code": "",
+      "region": "",
+      "city": "",
+      "latitude": 44.43225,
+      "longitude": 26.10626
+    },
+    "080800": {
+      "code": "080800",
+      "region": "Ialomita",
+      "city": "Slobozia",
+      "latitude": 43.85,
+      "longitude": 25.9
+    },
+    "087180": {
+      "code": "087180",
+      "region": "Giurgiu",
+      "city": "Prundu",
+      "latitude": 44.09472,
+      "longitude": 26.22694
+    },
+    "070000": {
+      "code": "070000",
+      "region": "Ilfov",
+      "city": "Buftea",
+      "latitude": 44.56139,
+      "longitude": 25.94889
+    },
+    "085200": {
+      "code": "085200",
+      "region": "Giurgiu",
+      "city": "Mihailesti",
+      "latitude": 44.32667,
+      "longitude": 25.90833
+    },
+    "087016": {
+      "code": "087016",
+      "region": "Giurgiu",
+      "city": "Bolintin Deal",
+      "latitude": 44.45917,
+      "longitude": 25.82111
+    },
+    "077032": {
+      "code": "077032",
+      "region": "Dambovita",
+      "city": "Branesti",
+      "latitude": 44.45,
+      "longitude": 26.33333
+    },
+    "087195": {
+      "code": "087195",
+      "region": "Giurgiu",
+      "city": "Roata de Jos",
+      "latitude": 44.41083,
+      "longitude": 25.54333
+    },
+    "077120": {
+      "code": "077120",
+      "region": "Ilfov",
+      "city": "Jilava",
+      "latitude": 44.33333,
+      "longitude": 26.07806
+    },
+    "077045": {
+      "code": "077045",
+      "region": "Ilfov",
+      "city": "Chitila",
+      "latitude": 44.50806,
+      "longitude": 25.98222
+    },
+    "077152": {
+      "code": "077152",
+      "region": "Prahova",
+      "city": "Poenari-Burchi",
+      "latitude": 44.75,
+      "longitude": 26.01667
+    },
+    "087085": {
+      "code": "087085",
+      "region": "Giurgiu",
+      "city": "Gaiseni",
+      "latitude": 44.515,
+      "longitude": 25.64528
+    },
+    "077065": {
+      "code": "077065",
+      "region": "Ilfov",
+      "city": "Corbeanca",
+      "latitude": 44.6,
+      "longitude": 26.05
+    },
+    "075100": {
+      "code": "075100",
+      "region": "Ilfov",
+      "city": "Otopeni",
+      "latitude": 44.55,
+      "longitude": 26.06667
+    },
+    "087165": {
+      "code": "087165",
+      "region": "Giurgiu",
+      "city": "Mihai Bravu",
+      "latitude": 44.14056,
+      "longitude": 26.06278
+    },
+    "077060": {
+      "code": "077060",
+      "region": "Ilfov",
+      "city": "Clinceni",
+      "latitude": 44.37333,
+      "longitude": 25.95472
+    },
+    "077135": {
+      "code": "077135",
+      "region": "Ilfov",
+      "city": "Mogosoaia",
+      "latitude": 44.52917,
+      "longitude": 26
+    },
+    "087190": {
+      "code": "087190",
+      "region": "Giurgiu",
+      "city": "Rasuceni",
+      "latitude": 44.09167,
+      "longitude": 25.66389
+    },
+    "087115": {
+      "code": "087115",
+      "region": "Giurgiu",
+      "city": "Gradinari",
+      "latitude": 44.39222,
+      "longitude": 25.81556
+    },
+    "087010": {
+      "code": "087010",
+      "region": "Constanta",
+      "city": "Baneasa",
+      "latitude": 44.04611,
+      "longitude": 26.06417
+    },
+    "077055": {
+      "code": "077055",
+      "region": "Ilfov",
+      "city": "Ciorogarla",
+      "latitude": 44.4425,
+      "longitude": 25.88333
+    },
+    "077085": {
+      "code": "077085",
+      "region": "Ilfov",
+      "city": "Dobroesti",
+      "latitude": 44.45,
+      "longitude": 26.18333
+    },
+    "087150": {
+      "code": "087150",
+      "region": "Giurgiu",
+      "city": "Joita",
+      "latitude": 44.49417,
+      "longitude": 25.85389
+    },
+    "077140": {
+      "code": "077140",
+      "region": "Ilfov",
+      "city": "Nuci",
+      "latitude": 44.71667,
+      "longitude": 26.3
+    },
+    "087200": {
+      "code": "087200",
+      "region": "Olt",
+      "city": "Schitu",
+      "latitude": 44.14083,
+      "longitude": 25.83667
+    },
+    "077035": {
+      "code": "077035",
+      "region": "Ilfov",
+      "city": "Cernica",
+      "latitude": 44.41667,
+      "longitude": 26.28333
+    },
+    "087205": {
+      "code": "087205",
+      "region": "Giurgiu",
+      "city": "Singureni",
+      "latitude": 44.23361,
+      "longitude": 25.94333
+    },
+    "087170": {
+      "code": "087170",
+      "region": "Giurgiu",
+      "city": "Ogrezeni",
+      "latitude": 44.41972,
+      "longitude": 25.76833
+    },
+    "077155": {
+      "code": "077155",
+      "region": "Ilfov",
+      "city": "Petrachioaia",
+      "latitude": 44.58333,
+      "longitude": 26.3
+    },
+    "087236": {
+      "code": "087236",
+      "region": "Giurgiu",
+      "city": "Bolintin Vale",
+      "latitude": 44.44889,
+      "longitude": 25.75778
+    },
+    "020331": {
+      "code": "020331",
+      "region": "Bucuresti",
+      "city": "Bucharest",
+      "latitude": 44.43225,
+      "longitude": 26.10626
+    }
+  }
+}
