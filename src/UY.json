@@ -1,0 +1,587 @@
+{
+  "id": "UY",
+  "country": "Uruguay",
+  "postal": {
+    "15000": {
+      "code": "15000",
+      "region": "Canelones",
+      "city": "Paso de Carrasco",
+      "latitude": -34.86028,
+      "longitude": -56.05222
+    },
+    "16100": {
+      "code": "16100",
+      "region": "Canelones",
+      "city": "Atlantida",
+      "latitude": -34.7719,
+      "longitude": -55.7584
+    },
+    "16200": {
+      "code": "16200",
+      "region": "Canelones",
+      "city": "La Floresta",
+      "latitude": -34.75572,
+      "longitude": -55.68141
+    },
+    "20000": {
+      "code": "20000",
+      "region": "Maldonado",
+      "city": "Maldonado",
+      "latitude": -34.9,
+      "longitude": -54.95
+    },
+    "20200": {
+      "code": "20200",
+      "region": "Maldonado",
+      "city": "Piriapolis",
+      "latitude": -34.86819,
+      "longitude": -55.27436
+    },
+    "20300": {
+      "code": "20300",
+      "region": "Maldonado",
+      "city": "Pan de Azucar",
+      "latitude": -34.8,
+      "longitude": -55.23333
+    },
+    "20302": {
+      "code": "20302",
+      "region": "Lavalleja",
+      "city": "Solis de Mataojo",
+      "latitude": -34.6,
+      "longitude": -55.48333
+    },
+    "20500": {
+      "code": "20500",
+      "region": "Maldonado",
+      "city": "Aigua",
+      "latitude": -34.2,
+      "longitude": -54.75
+    },
+    "27000": {
+      "code": "27000",
+      "region": "Rocha",
+      "city": "Rocha",
+      "latitude": -34.48333,
+      "longitude": -54.33333
+    },
+    "27001": {
+      "code": "27001",
+      "region": "Rocha",
+      "city": "La Paloma",
+      "latitude": -34.66667,
+      "longitude": -54.16667
+    },
+    "27100": {
+      "code": "27100",
+      "region": "Rocha",
+      "city": "Chuy",
+      "latitude": -33.69707,
+      "longitude": -53.46162
+    },
+    "27200": {
+      "code": "27200",
+      "region": "Rocha",
+      "city": "Castillos",
+      "latitude": -34.16667,
+      "longitude": -53.83333
+    },
+    "27300": {
+      "code": "27300",
+      "region": "Rocha",
+      "city": "Lascano",
+      "latitude": -33.66667,
+      "longitude": -54.2
+    },
+    "27302": {
+      "code": "27302",
+      "region": "Rocha",
+      "city": "Cebollati",
+      "latitude": -33.26667,
+      "longitude": -53.78333
+    },
+    "27303": {
+      "code": "27303",
+      "region": "Rocha",
+      "city": "Velazquez",
+      "latitude": -34.03333,
+      "longitude": -54.28333
+    },
+    "30000": {
+      "code": "30000",
+      "region": "Lavalleja",
+      "city": "Minas",
+      "latitude": -34.37,
+      "longitude": -55.225
+    },
+    "30001": {
+      "code": "30001",
+      "region": "Lavalleja",
+      "city": "Mariscala",
+      "latitude": -34.05,
+      "longitude": -54.78333
+    },
+    "30201": {
+      "code": "30201",
+      "region": "Lavalleja",
+      "city": "Jose Batlle y Ordonez",
+      "latitude": -33.46667,
+      "longitude": -55.11667
+    },
+    "30300": {
+      "code": "30300",
+      "region": "Lavalleja",
+      "city": "Jose Pedro Varela",
+      "latitude": -33.45,
+      "longitude": -54.53333
+    },
+    "33000": {
+      "code": "33000",
+      "region": "Treinta y Tres",
+      "city": "Treinta y Tres",
+      "latitude": -33.23333,
+      "longitude": -54.38333
+    },
+    "33002": {
+      "code": "33002",
+      "region": "Treinta y Tres",
+      "city": "Vergara",
+      "latitude": -32.93333,
+      "longitude": -53.95
+    },
+    "37000": {
+      "code": "37000",
+      "region": "Cerro Largo",
+      "city": "Melo",
+      "latitude": -32.36667,
+      "longitude": -54.18333
+    },
+    "37100": {
+      "code": "37100",
+      "region": "Cerro Largo",
+      "city": "Rio Branco",
+      "latitude": -32.56667,
+      "longitude": -53.41667
+    },
+    "40000": {
+      "code": "40000",
+      "region": "Rivera",
+      "city": "Rivera",
+      "latitude": -30.90534,
+      "longitude": -55.55076
+    },
+    "40001": {
+      "code": "40001",
+      "region": "Rivera",
+      "city": "Tranqueras",
+      "latitude": -31.2,
+      "longitude": -55.75
+    },
+    "40002": {
+      "code": "40002",
+      "region": "Rivera",
+      "city": "Minas de Corrales",
+      "latitude": -31.58333,
+      "longitude": -55.46667
+    },
+    "45000": {
+      "code": "45000",
+      "region": "Tacuarembo",
+      "city": "Tacuarembo",
+      "latitude": -31.73333,
+      "longitude": -55.98333
+    },
+    "45002": {
+      "code": "45002",
+      "region": "Tacuarembo",
+      "city": "Curtina",
+      "latitude": -32.15,
+      "longitude": -56.11667
+    },
+    "50000": {
+      "code": "50000",
+      "region": "Salto",
+      "city": "Salto",
+      "latitude": -31.38333,
+      "longitude": -57.96667
+    },
+    "50001": {
+      "code": "50001",
+      "region": "Salto",
+      "city": "Belen",
+      "latitude": -30.78333,
+      "longitude": -57.78333
+    },
+    "50002": {
+      "code": "50002",
+      "region": "Salto",
+      "city": "Constitucion",
+      "latitude": -31.08333,
+      "longitude": -57.83333
+    },
+    "55000": {
+      "code": "55000",
+      "region": "Artigas",
+      "city": "Artigas",
+      "latitude": -30.4,
+      "longitude": -56.46667
+    },
+    "55001": {
+      "code": "55001",
+      "region": "Artigas",
+      "city": "Baltasar Brum",
+      "latitude": -30.71294,
+      "longitude": -57.32728
+    },
+    "55100": {
+      "code": "55100",
+      "region": "Artigas",
+      "city": "Las Piedras",
+      "latitude": -30.26204,
+      "longitude": -57.58174
+    },
+    "60000": {
+      "code": "60000",
+      "region": "Paysandu",
+      "city": "Paysandu",
+      "latitude": -32.32139,
+      "longitude": -58.07556
+    },
+    "60001": {
+      "code": "60001",
+      "region": "Paysandu",
+      "city": "Quebracho",
+      "latitude": -31.95,
+      "longitude": -57.88333
+    },
+    "65000": {
+      "code": "65000",
+      "region": "Rio Negro",
+      "city": "Fray Bentos",
+      "latitude": -33.1325,
+      "longitude": -58.29556
+    },
+    "65001": {
+      "code": "65001",
+      "region": "Rio Negro",
+      "city": "San Javier",
+      "latitude": -32.68333,
+      "longitude": -58.13333
+    },
+    "65002": {
+      "code": "65002",
+      "region": "Rio Negro",
+      "city": "Nuevo Berlin",
+      "latitude": -32.98333,
+      "longitude": -58.05
+    },
+    "65100": {
+      "code": "65100",
+      "region": "Rio Negro",
+      "city": "Young",
+      "latitude": -32.68333,
+      "longitude": -57.63333
+    },
+    "70000": {
+      "code": "70000",
+      "region": "Montevideo",
+      "city": "Montevideo",
+      "latitude": -34.83346,
+      "longitude": -56.16735
+    },
+    "70001": {
+      "code": "70001",
+      "region": "Colonia",
+      "city": "Juan L. Lacaze",
+      "latitude": -34.43333,
+      "longitude": -57.41667
+    },
+    "70002": {
+      "code": "70002",
+      "region": "Colonia",
+      "city": "Tarariras",
+      "latitude": -34.28333,
+      "longitude": -57.61667
+    },
+    "70003": {
+      "code": "70003",
+      "region": "Colonia",
+      "city": "Ombues de Lavalle",
+      "latitude": -33.91667,
+      "longitude": -57.78333
+    },
+    "70100": {
+      "code": "70100",
+      "region": "Colonia",
+      "city": "Carmelo",
+      "latitude": -33.98917,
+      "longitude": -58.28556
+    },
+    "70101": {
+      "code": "70101",
+      "region": "Colonia",
+      "city": "Nueva Palmira",
+      "latitude": -33.88333,
+      "longitude": -58.41667
+    },
+    "70200": {
+      "code": "70200",
+      "region": "Colonia",
+      "city": "Rosario",
+      "latitude": -34.31667,
+      "longitude": -57.35
+    },
+    "70201": {
+      "code": "70201",
+      "region": "Colonia",
+      "city": "Nueva Helvecia",
+      "latitude": -34.3,
+      "longitude": -57.23333
+    },
+    "75000": {
+      "code": "75000",
+      "region": "Soriano",
+      "city": "Mercedes",
+      "latitude": -33.25583,
+      "longitude": -58.01917
+    },
+    "75001": {
+      "code": "75001",
+      "region": "Soriano",
+      "city": "Palmitas",
+      "latitude": -33.51667,
+      "longitude": -57.83333
+    },
+    "75100": {
+      "code": "75100",
+      "region": "Soriano",
+      "city": "Dolores",
+      "latitude": -33.54417,
+      "longitude": -58.19722
+    },
+    "75201": {
+      "code": "75201",
+      "region": "Soriano",
+      "city": "Santa Catalina",
+      "latitude": -33.75,
+      "longitude": -57.48333
+    },
+    "75202": {
+      "code": "75202",
+      "region": "Soriano",
+      "city": "Jose Enrique Rodo",
+      "latitude": -33.68333,
+      "longitude": -57.56667
+    },
+    "75204": {
+      "code": "75204",
+      "region": "Soriano",
+      "city": "Cardona",
+      "latitude": -33.88333,
+      "longitude": -57.38333
+    },
+    "80000": {
+      "code": "80000",
+      "region": "San Jose",
+      "city": "San Jose de Mayo",
+      "latitude": -34.3375,
+      "longitude": -56.71361
+    },
+    "80002": {
+      "code": "80002",
+      "region": "San Jose",
+      "city": "Ecilda Paullier",
+      "latitude": -34.36667,
+      "longitude": -57.06667
+    },
+    "80004": {
+      "code": "80004",
+      "region": "Florida",
+      "city": "Veinticinco de Agosto",
+      "latitude": -34.41167,
+      "longitude": -56.40222
+    },
+    "80100": {
+      "code": "80100",
+      "region": "San Jose",
+      "city": "Libertad",
+      "latitude": -34.63333,
+      "longitude": -56.61917
+    },
+    "80101": {
+      "code": "80101",
+      "region": "San Jose",
+      "city": "Delta del Tigre",
+      "latitude": -34.76333,
+      "longitude": -56.38528
+    },
+    "85000": {
+      "code": "85000",
+      "region": "Flores",
+      "city": "Trinidad",
+      "latitude": -33.53889,
+      "longitude": -56.88861
+    },
+    "90000": {
+      "code": "90000",
+      "region": "Canelones",
+      "city": "Canelones",
+      "latitude": -34.52278,
+      "longitude": -56.27778
+    },
+    "90001": {
+      "code": "90001",
+      "region": "Canelones",
+      "city": "Los Cerrillos",
+      "latitude": -34.605,
+      "longitude": -56.35639
+    },
+    "90002": {
+      "code": "90002",
+      "region": "Canelones",
+      "city": "San Antonio",
+      "latitude": -34.44972,
+      "longitude": -56.07917
+    },
+    "90100": {
+      "code": "90100",
+      "region": "Canelones",
+      "city": "Las Piedras",
+      "latitude": -34.72639,
+      "longitude": -56.22
+    },
+    "90201": {
+      "code": "90201",
+      "region": "Canelones",
+      "city": "Progreso",
+      "latitude": -34.665,
+      "longitude": -56.21944
+    },
+    "90600": {
+      "code": "90600",
+      "region": "Canelones",
+      "city": "San Ramon",
+      "latitude": -34.3,
+      "longitude": -55.96667
+    },
+    "90601": {
+      "code": "90601",
+      "region": "Canelones",
+      "city": "Santa Lucia",
+      "latitude": -34.45333,
+      "longitude": -56.39056
+    },
+    "90604": {
+      "code": "90604",
+      "region": "Canelones",
+      "city": "San Bautista",
+      "latitude": -34.43333,
+      "longitude": -55.98333
+    },
+    "90701": {
+      "code": "90701",
+      "region": "Canelones",
+      "city": "Aguas Corrientes",
+      "latitude": -34.52194,
+      "longitude": -56.39361
+    },
+    "90800": {
+      "code": "90800",
+      "region": "Canelones",
+      "city": "Sauce",
+      "latitude": -34.64694,
+      "longitude": -56.06278
+    },
+    "91000": {
+      "code": "91000",
+      "region": "Canelones",
+      "city": "Pando",
+      "latitude": -34.71667,
+      "longitude": -55.95
+    },
+    "91001": {
+      "code": "91001",
+      "region": "Canelones",
+      "city": "Empalme Olmos",
+      "latitude": -34.7,
+      "longitude": -55.9
+    },
+    "91005": {
+      "code": "91005",
+      "region": "Canelones",
+      "city": "Migues",
+      "latitude": -34.48333,
+      "longitude": -55.65
+    },
+    "91006": {
+      "code": "91006",
+      "region": "Canelones",
+      "city": "Soca",
+      "latitude": -34.68333,
+      "longitude": -55.68333
+    },
+    "91300": {
+      "code": "91300",
+      "region": "Canelones",
+      "city": "San Jacinto",
+      "latitude": -34.55,
+      "longitude": -55.88333
+    },
+    "91400": {
+      "code": "91400",
+      "region": "Canelones",
+      "city": "Tala",
+      "latitude": -34.35,
+      "longitude": -55.76667
+    },
+    "94000": {
+      "code": "94000",
+      "region": "Florida",
+      "city": "Florida",
+      "latitude": -34.09556,
+      "longitude": -56.21417
+    },
+    "94001": {
+      "code": "94001",
+      "region": "Florida",
+      "city": "Sarandi Grande",
+      "latitude": -33.73333,
+      "longitude": -56.33333
+    },
+    "97000": {
+      "code": "97000",
+      "region": "Durazno",
+      "city": "Durazno",
+      "latitude": -33.41306,
+      "longitude": -56.50056
+    },
+    "97003": {
+      "code": "97003",
+      "region": "Durazno",
+      "city": "Carlos Reyles",
+      "latitude": -33.01667,
+      "longitude": -56.48333
+    },
+    "97004": {
+      "code": "97004",
+      "region": "Durazno",
+      "city": "Blanquillo",
+      "latitude": -32.76667,
+      "longitude": -55.63333
+    },
+    "97006": {
+      "code": "97006",
+      "region": "Durazno",
+      "city": "Santa Bernardina",
+      "latitude": -33.36667,
+      "longitude": -56.48333
+    },
+    "": {
+      "code": "",
+      "region": "",
+      "city": "",
+      "latitude": -34.83346,
+      "longitude": -56.16735
+    }
+  }
+}
