@@ -1,0 +1,83 @@
+{
+  "id": "BM",
+  "country": "Bermuda",
+  "postal": {
+    "HM HX": {
+      "code": "HM HX",
+      "region": "Hamilton",
+      "city": "Hamilton",
+      "latitude": 32.29149,
+      "longitude": -64.77797
+    },
+    "HM11": {
+      "code": "HM11",
+      "region": "Hamilton",
+      "city": "Hamilton",
+      "latitude": 32.29149,
+      "longitude": -64.77797
+    },
+    "HM 11": {
+      "code": "HM 11",
+      "region": "Hamilton",
+      "city": "Hamilton",
+      "latitude": 32.29149,
+      "longitude": -64.77797
+    },
+    "HM NX": {
+      "code": "HM NX",
+      "region": "Hamilton",
+      "city": "Hamilton",
+      "latitude": 32.29149,
+      "longitude": -64.77797
+    },
+    "HM 12": {
+      "code": "HM 12",
+      "region": "Hamilton",
+      "city": "Hamilton",
+      "latitude": 32.29149,
+      "longitude": -64.77797
+    },
+    "HM12": {
+      "code": "HM12",
+      "region": "Hamilton",
+      "city": "Hamilton",
+      "latitude": 32.29149,
+      "longitude": -64.77797
+    },
+    "GE 05": {
+      "code": "GE 05",
+      "region": "Saint George",
+      "city": "Saint George",
+      "latitude": 32.38167,
+      "longitude": -64.67806
+    },
+    "HM09": {
+      "code": "HM09",
+      "region": "Hamilton",
+      "city": "Hamilton",
+      "latitude": 32.29149,
+      "longitude": -64.77797
+    },
+    "HM08": {
+      "code": "HM08",
+      "region": "Hamilton",
+      "city": "Hamilton",
+      "latitude": 32.29149,
+      "longitude": -64.77797
+    },
+    "HMJX": {
+      "code": "HMJX",
+      "region": "Hamilton",
+      "city": "Hamilton",
+      "latitude": 32.29149,
+      "longitude": -64.77797
+    },
+    "HM GX": {
+      "code": "HM GX",
+      "region": "Hamilton",
+      "city": "Hamilton",
+      "latitude": 32.29149,
+      "longitude": -64.77797
+    }
+  }
+}
