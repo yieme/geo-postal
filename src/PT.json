@@ -1,0 +1,2505 @@
+{
+  "id": "PT",
+  "country": "Portugal",
+  "postal": {
+    "2685": {
+      "code": "2685",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "5150": {
+      "code": "5150",
+      "region": "Guarda",
+      "city": "Vila Nova de Foz Coa",
+      "latitude": 41.082246,
+      "longitude": -7.140359
+    },
+    "6400": {
+      "code": "6400",
+      "region": "Guarda",
+      "city": "Pinhel",
+      "latitude": 40.773273,
+      "longitude": -7.068593
+    },
+    "4950-791": {
+      "code": "4950-791",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "5000-775": {
+      "code": "5000-775",
+      "region": "Vila Real",
+      "city": "Vila Real",
+      "latitude": 41.30062,
+      "longitude": -7.74413
+    },
+    "5060-429": {
+      "code": "5060-429",
+      "region": "Vila Real",
+      "city": "Vilela",
+      "latitude": 41.22511,
+      "longitude": -7.60338
+    },
+    "5100-381": {
+      "code": "5100-381",
+      "region": "Vila Real",
+      "city": "Godim",
+      "latitude": 41.17104,
+      "longitude": -7.80303
+    },
+    "3700-299": {
+      "code": "3700-299",
+      "region": "Aveiro",
+      "city": "Milheiros de Poiares",
+      "latitude": 40.92163,
+      "longitude": -8.46788
+    },
+    "5300-271": {
+      "code": "5300-271",
+      "region": "Braganca",
+      "city": "Braganca",
+      "latitude": 41.80582,
+      "longitude": -6.75719
+    },
+    "3550-999": {
+      "code": "3550-999",
+      "region": "Viseu",
+      "city": "Satao",
+      "latitude": 40.74178,
+      "longitude": -7.73286
+    },
+    "5370-599": {
+      "code": "5370-599",
+      "region": "Braganca",
+      "city": "Mirandela",
+      "latitude": 41.48738,
+      "longitude": -7.18695
+    },
+    "4350-149": {
+      "code": "4350-149",
+      "region": "Porto",
+      "city": "Porto",
+      "latitude": 41.14961,
+      "longitude": -8.61099
+    },
+    "5200-160": {
+      "code": "5200-160",
+      "region": "Braganca",
+      "city": "Mogadouro",
+      "latitude": 41.34034,
+      "longitude": -6.71187
+    },
+    "3050-177": {
+      "code": "3050-177",
+      "region": "Aveiro",
+      "city": "Mealhada",
+      "latitude": 40.37806,
+      "longitude": -8.44991
+    },
+    "4820-765": {
+      "code": "4820-765",
+      "region": "Braga",
+      "city": "Guimaraes",
+      "latitude": 41.44444,
+      "longitude": -8.29619
+    },
+    "2580-237": {
+      "code": "2580-237",
+      "region": "Lisboa",
+      "city": "Aveiras de Cima",
+      "latitude": 39.13796,
+      "longitude": -8.89932
+    },
+    "2050-999": {
+      "code": "2050-999",
+      "region": "Lisboa",
+      "city": "Azambuja",
+      "latitude": 39.07029,
+      "longitude": -8.86822
+    },
+    "4710-229": {
+      "code": "4710-229",
+      "region": "Braga",
+      "city": "Braga",
+      "latitude": 41.55032,
+      "longitude": -8.42005
+    },
+    "3070-096": {
+      "code": "3070-096",
+      "region": "Coimbra",
+      "city": "Mira",
+      "latitude": 40.42892,
+      "longitude": -8.73746
+    },
+    "3060-999": {
+      "code": "3060-999",
+      "region": "Coimbra",
+      "city": "Cantanhede",
+      "latitude": 40.34671,
+      "longitude": -8.5942
+    },
+    "4870-108": {
+      "code": "4870-108",
+      "region": "Vila Real",
+      "city": "Sobreira",
+      "latitude": 41.52371,
+      "longitude": -7.80234
+    },
+    "5340-092": {
+      "code": "5340-092",
+      "region": "Braganca",
+      "city": "Macedo de Cavaleiros",
+      "latitude": 41.53816,
+      "longitude": -6.9611
+    },
+    "4520-704": {
+      "code": "4520-704",
+      "region": "Aveiro",
+      "city": "Ovar",
+      "latitude": 40.85862,
+      "longitude": -8.62513
+    },
+    "4520-802": {
+      "code": "4520-802",
+      "region": "Aveiro",
+      "city": "Espinho",
+      "latitude": 41.00763,
+      "longitude": -8.64125
+    },
+    "3105-039": {
+      "code": "3105-039",
+      "region": "Leiria",
+      "city": "Leiria",
+      "latitude": 39.74362,
+      "longitude": -8.80705
+    },
+    "3200-029": {
+      "code": "3200-029",
+      "region": "Coimbra",
+      "city": "Coimbra",
+      "latitude": 40.20564,
+      "longitude": -8.41955
+    },
+    "3030-999": {
+      "code": "3030-999",
+      "region": "Coimbra",
+      "city": "Lousa",
+      "latitude": 40.11673,
+      "longitude": -8.24921
+    },
+    "7440-059": {
+      "code": "7440-059",
+      "region": "Portalegre",
+      "city": "Alter do Chao",
+      "latitude": 39.19741,
+      "longitude": -7.65893
+    },
+    "5400-699": {
+      "code": "5400-699",
+      "region": "Vila Real",
+      "city": "Chaves",
+      "latitude": 41.74019,
+      "longitude": -7.46879
+    },
+    "7425-999": {
+      "code": "7425-999",
+      "region": "Portalegre",
+      "city": "Vale da Amoreira",
+      "latitude": 39.06969,
+      "longitude": -7.69849
+    },
+    "4795-395": {
+      "code": "4795-395",
+      "region": "Braga",
+      "city": "Ferreiros",
+      "latitude": 41.35,
+      "longitude": -8.55
+    },
+    "5100-819": {
+      "code": "5100-819",
+      "region": "Viseu",
+      "city": "Lamego",
+      "latitude": 41.09741,
+      "longitude": -7.80991
+    },
+    "5155-999": {
+      "code": "5155-999",
+      "region": "Guarda",
+      "city": "Custoias",
+      "latitude": 41.1053,
+      "longitude": -7.32097
+    },
+    "5430-090": {
+      "code": "5430-090",
+      "region": "Vila Real",
+      "city": "Valpacos",
+      "latitude": 41.60746,
+      "longitude": -7.31088
+    },
+    "2205-999": {
+      "code": "2205-999",
+      "region": "Santarem",
+      "city": "Abrantes",
+      "latitude": 39.46667,
+      "longitude": -8.2
+    },
+    "4960-180": {
+      "code": "4960-180",
+      "region": "Viana do Castelo",
+      "city": "Mozelos",
+      "latitude": 41.86774,
+      "longitude": -8.39776
+    },
+    "4990-205": {
+      "code": "4990-205",
+      "region": "Viana do Castelo",
+      "city": "Ponte do Lima",
+      "latitude": 41.76719,
+      "longitude": -8.58393
+    },
+    "4990-755": {
+      "code": "4990-755",
+      "region": "Viana do Castelo",
+      "city": "Viana do Castelo",
+      "latitude": 41.69323,
+      "longitude": -8.83287
+    },
+    "4960-032": {
+      "code": "4960-032",
+      "region": "Viana do Castelo",
+      "city": "Vila",
+      "latitude": 42.0304,
+      "longitude": -8.1588
+    },
+    "4950-498": {
+      "code": "4950-498",
+      "region": "Viana do Castelo",
+      "city": "Moncao",
+      "latitude": 42.07892,
+      "longitude": -8.48076
+    },
+    "4970-379": {
+      "code": "4970-379",
+      "region": "Viana do Castelo",
+      "city": "Vila Praia de Ancora",
+      "latitude": 41.81098,
+      "longitude": -8.85255
+    },
+    "2250-385": {
+      "code": "2250-385",
+      "region": "Santarem",
+      "city": "Tomar",
+      "latitude": 39.60199,
+      "longitude": -8.40924
+    },
+    "2380-337": {
+      "code": "2380-337",
+      "region": "Santarem",
+      "city": "Alcanena",
+      "latitude": 39.459,
+      "longitude": -8.66892
+    },
+    "2425-499": {
+      "code": "2425-499",
+      "region": "Leiria",
+      "city": "Pataias",
+      "latitude": 39.66978,
+      "longitude": -8.9958
+    },
+    "4600-999": {
+      "code": "4600-999",
+      "region": "Porto",
+      "city": "Amarante",
+      "latitude": 41.27271,
+      "longitude": -8.08246
+    },
+    "3140-998": {
+      "code": "3140-998",
+      "region": "Coimbra",
+      "city": "Arazede",
+      "latitude": 40.28627,
+      "longitude": -8.64999
+    },
+    "3130-519": {
+      "code": "3130-519",
+      "region": "Coimbra",
+      "city": "Soure",
+      "latitude": 40.05989,
+      "longitude": -8.62605
+    },
+    "2420-429": {
+      "code": "2420-429",
+      "region": "Leiria",
+      "city": "Pombal",
+      "latitude": 39.91674,
+      "longitude": -8.62847
+    },
+    "3280-999": {
+      "code": "3280-999",
+      "region": "Leiria",
+      "city": "Castanheira de Pera",
+      "latitude": 40.00717,
+      "longitude": -8.21048
+    },
+    "6100-626": {
+      "code": "6100-626",
+      "region": "Castelo Branco",
+      "city": "Serta",
+      "latitude": 39.80846,
+      "longitude": -8.09883
+    },
+    "4930-028": {
+      "code": "4930-028",
+      "region": "Viana do Castelo",
+      "city": "Valenza",
+      "latitude": 42.02418,
+      "longitude": -8.63474
+    },
+    "4650-578": {
+      "code": "4650-578",
+      "region": "Porto",
+      "city": "Margaride",
+      "latitude": 41.36829,
+      "longitude": -8.20072
+    },
+    "6000-039": {
+      "code": "6000-039",
+      "region": "Guarda",
+      "city": "Alcains",
+      "latitude": 39.91642,
+      "longitude": -7.45655
+    },
+    "6270-196": {
+      "code": "6270-196",
+      "region": "Guarda",
+      "city": "Seia",
+      "latitude": 40.4151,
+      "longitude": -7.70859
+    },
+    "3080-899": {
+      "code": "3080-899",
+      "region": "Coimbra",
+      "city": "Figueira da Foz",
+      "latitude": 40.15085,
+      "longitude": -8.86179
+    },
+    "2490-999": {
+      "code": "2490-999",
+      "region": "Santarem",
+      "city": "Ourem",
+      "latitude": 39.64168,
+      "longitude": -8.5919
+    },
+    "3400-521": {
+      "code": "3400-521",
+      "region": "Coimbra",
+      "city": "Oliveira do Hospital",
+      "latitude": 40.3618,
+      "longitude": -7.86014
+    },
+    "3460-208": {
+      "code": "3460-208",
+      "region": "Viseu",
+      "city": "Tondela",
+      "latitude": 40.51667,
+      "longitude": -8.08333
+    },
+    "3520-099": {
+      "code": "3520-099",
+      "region": "Viseu",
+      "city": "Nelas",
+      "latitude": 40.53216,
+      "longitude": -7.85152
+    },
+    "6300-299": {
+      "code": "6300-299",
+      "region": "Guarda",
+      "city": "Sequeira",
+      "latitude": 40.55364,
+      "longitude": -7.22594
+    },
+    "3660-136": {
+      "code": "3660-136",
+      "region": "Viseu",
+      "city": "Abraveses",
+      "latitude": 40.68137,
+      "longitude": -7.92102
+    },
+    "3670-999": {
+      "code": "3670-999",
+      "region": "Viseu",
+      "city": "Sao Pedro do Sul",
+      "latitude": 40.75537,
+      "longitude": -8.07265
+    },
+    "3500-999": {
+      "code": "3500-999",
+      "region": "Viseu",
+      "city": "Viseu",
+      "latitude": 40.66101,
+      "longitude": -7.90971
+    },
+    "2530-079": {
+      "code": "2530-079",
+      "region": "Lisboa",
+      "city": "Lourinha",
+      "latitude": 39.23333,
+      "longitude": -9.31667
+    },
+    "2500-309": {
+      "code": "2500-309",
+      "region": "Leiria",
+      "city": "Caldas da Rainha",
+      "latitude": 39.40326,
+      "longitude": -9.13839
+    },
+    "2040-079": {
+      "code": "2040-079",
+      "region": "Santarem",
+      "city": "Rio Maior",
+      "latitude": 39.33732,
+      "longitude": -8.93906
+    },
+    "4520-819": {
+      "code": "4520-819",
+      "region": "Aveiro",
+      "city": "Cortegaca",
+      "latitude": 40.94883,
+      "longitude": -8.6213
+    },
+    "3750-498": {
+      "code": "3750-498",
+      "region": "Aveiro",
+      "city": "Agueda",
+      "latitude": 40.5772,
+      "longitude": -8.44442
+    },
+    "3800-176": {
+      "code": "3800-176",
+      "region": "Aveiro",
+      "city": "Aveiro",
+      "latitude": 40.64427,
+      "longitude": -8.64554
+    },
+    "3600-199": {
+      "code": "3600-199",
+      "region": "Viseu",
+      "city": "Castro Daire",
+      "latitude": 40.8984,
+      "longitude": -7.9338
+    },
+    "4755-069": {
+      "code": "4755-069",
+      "region": "Braga",
+      "city": "Barcelos",
+      "latitude": 41.53876,
+      "longitude": -8.61505
+    },
+    "4740-493": {
+      "code": "4740-493",
+      "region": "Braga",
+      "city": "Esposende",
+      "latitude": 41.53333,
+      "longitude": -8.78333
+    },
+    "2950-598": {
+      "code": "2950-598",
+      "region": "Setubal",
+      "city": "Setubal",
+      "latitude": 38.5244,
+      "longitude": -8.8882
+    },
+    "6200-865": {
+      "code": "6200-865",
+      "region": "Castelo Branco",
+      "city": "Teixoso",
+      "latitude": 40.31448,
+      "longitude": -7.45759
+    },
+    "6150-317": {
+      "code": "6150-317",
+      "region": "Castelo Branco",
+      "city": "Proenca-a-Nova",
+      "latitude": 39.7522,
+      "longitude": -7.9239
+    },
+    "4840-090": {
+      "code": "4840-090",
+      "region": "Braga",
+      "city": "Antas",
+      "latitude": 41.73644,
+      "longitude": -8.30888
+    },
+    "6270-999": {
+      "code": "6270-999",
+      "region": "Guarda",
+      "city": "Manteigas",
+      "latitude": 40.4028,
+      "longitude": -7.53977
+    },
+    "6230-788": {
+      "code": "6230-788",
+      "region": "Castelo Branco",
+      "city": "Castelo Branco",
+      "latitude": 39.82219,
+      "longitude": -7.49087
+    },
+    "3350-012": {
+      "code": "3350-012",
+      "region": "Coimbra",
+      "city": "Poiares",
+      "latitude": 40.21026,
+      "longitude": -8.25746
+    },
+    "3860-999": {
+      "code": "3860-999",
+      "region": "Aveiro",
+      "city": "Avanca",
+      "latitude": 40.80771,
+      "longitude": -8.5722
+    },
+    "6230-045": {
+      "code": "6230-045",
+      "region": "Castelo Branco",
+      "city": "Fundao",
+      "latitude": 40.14025,
+      "longitude": -7.50135
+    },
+    "2560-499": {
+      "code": "2560-499",
+      "region": "Lisboa",
+      "city": "Silveira",
+      "latitude": 39.1112,
+      "longitude": -9.3643
+    },
+    "2461-506": {
+      "code": "2461-506",
+      "region": "Leiria",
+      "city": "Alcobaca",
+      "latitude": 39.55223,
+      "longitude": -8.9775
+    },
+    "2000-339": {
+      "code": "2000-339",
+      "region": "Santarem",
+      "city": "Tramagal",
+      "latitude": 39.45,
+      "longitude": -8.25
+    },
+    "6215-175": {
+      "code": "6215-175",
+      "region": "Castelo Branco",
+      "city": "Covilha",
+      "latitude": 40.28601,
+      "longitude": -7.50396
+    },
+    "2090-999": {
+      "code": "2090-999",
+      "region": "Santarem",
+      "city": "Alpiarca",
+      "latitude": 39.25712,
+      "longitude": -8.58187
+    },
+    "6050-545": {
+      "code": "6050-545",
+      "region": "Portalegre",
+      "city": "Povoa e Meadas",
+      "latitude": 39.51046,
+      "longitude": -7.51765
+    },
+    "3300-999": {
+      "code": "3300-999",
+      "region": "Coimbra",
+      "city": "Arganil",
+      "latitude": 40.21826,
+      "longitude": -8.05403
+    },
+    "2350-099": {
+      "code": "2350-099",
+      "region": "Santarem",
+      "city": "Torres Novas",
+      "latitude": 39.48114,
+      "longitude": -8.53949
+    },
+    "2520-999": {
+      "code": "2520-999",
+      "region": "Leiria",
+      "city": "Peniche",
+      "latitude": 39.3558,
+      "longitude": -9.38112
+    },
+    "2460-817": {
+      "code": "2460-817",
+      "region": "Leiria",
+      "city": "Turquel",
+      "latitude": 39.46412,
+      "longitude": -8.97743
+    },
+    "2540-999": {
+      "code": "2540-999",
+      "region": "Leiria",
+      "city": "Bombarral",
+      "latitude": 39.26723,
+      "longitude": -9.15795
+    },
+    "2130-999": {
+      "code": "2130-999",
+      "region": "Santarem",
+      "city": "Benavente",
+      "latitude": 38.97919,
+      "longitude": -8.80759
+    },
+    "2475-999": {
+      "code": "2475-999",
+      "region": "Leiria",
+      "city": "Benedita",
+      "latitude": 39.4247,
+      "longitude": -8.96996
+    },
+    "2970-199": {
+      "code": "2970-199",
+      "region": "Setubal",
+      "city": "Sesimbra",
+      "latitude": 38.44451,
+      "longitude": -9.10149
+    },
+    "2130-180": {
+      "code": "2130-180",
+      "region": "Santarem",
+      "city": "Poceirao",
+      "latitude": 38.83095,
+      "longitude": -8.79365
+    },
+    "2070-740": {
+      "code": "2070-740",
+      "region": "Santarem",
+      "city": "Cartaxo",
+      "latitude": 39.16022,
+      "longitude": -8.78741
+    },
+    "2819-505": {
+      "code": "2819-505",
+      "region": "Setubal",
+      "city": "Almada",
+      "latitude": 38.67902,
+      "longitude": -9.1569
+    },
+    "2425-327": {
+      "code": "2425-327",
+      "region": "Leiria",
+      "city": "Monte Redondo",
+      "latitude": 39.8993,
+      "longitude": -8.83171
+    },
+    "2404-010": {
+      "code": "2404-010",
+      "region": "Leiria",
+      "city": "Nazare",
+      "latitude": 39.60289,
+      "longitude": -9.06836
+    },
+    "4750-072": {
+      "code": "4750-072",
+      "region": "Braga",
+      "city": "Refojos de Basto",
+      "latitude": 41.51318,
+      "longitude": -7.99517
+    },
+    "4760-883": {
+      "code": "4760-883",
+      "region": "Braga",
+      "city": "Vila Nova de Famalicao",
+      "latitude": 41.40797,
+      "longitude": -8.51978
+    },
+    "4740-185": {
+      "code": "4740-185",
+      "region": "Braga",
+      "city": "Marinhas",
+      "latitude": 41.55906,
+      "longitude": -8.78297
+    },
+    "3530-099": {
+      "code": "3530-099",
+      "region": "Viseu",
+      "city": "Mangualde",
+      "latitude": 40.60425,
+      "longitude": -7.76115
+    },
+    "3260-505": {
+      "code": "3260-505",
+      "region": "Leiria",
+      "city": "Lourical",
+      "latitude": 40.0039,
+      "longitude": -8.73736
+    },
+    "2125-999": {
+      "code": "2125-999",
+      "region": "Santarem",
+      "city": "Marinhais",
+      "latitude": 39.0473,
+      "longitude": -8.70236
+    },
+    "4640-102": {
+      "code": "4640-102",
+      "region": "Porto",
+      "city": "Valadares",
+      "latitude": 41.14737,
+      "longitude": -7.9812
+    },
+    "4750-884": {
+      "code": "4750-884",
+      "region": "Braga",
+      "city": "Vila Frescainha",
+      "latitude": 41.53846,
+      "longitude": -8.63971
+    },
+    "4740-089": {
+      "code": "4740-089",
+      "region": "Braga",
+      "city": "Apulia",
+      "latitude": 41.48512,
+      "longitude": -8.76413
+    },
+    "3430-999": {
+      "code": "3430-999",
+      "region": "Viseu",
+      "city": "Carregal do Sal",
+      "latitude": 40.43333,
+      "longitude": -8
+    },
+    "4935-560": {
+      "code": "4935-560",
+      "region": "Viana do Castelo",
+      "city": "Darque",
+      "latitude": 41.68333,
+      "longitude": -8.76667
+    },
+    "2350-152": {
+      "code": "2350-152",
+      "region": "Santarem",
+      "city": "Entroncamento",
+      "latitude": 39.46667,
+      "longitude": -8.46667
+    },
+    "8500-013": {
+      "code": "8500-013",
+      "region": "Faro",
+      "city": "Alvor",
+      "latitude": 37.12994,
+      "longitude": -8.59174
+    },
+    "8100-068": {
+      "code": "8100-068",
+      "region": "Faro",
+      "city": "Quarteira",
+      "latitude": 37.06946,
+      "longitude": -8.10064
+    },
+    "8500-069": {
+      "code": "8500-069",
+      "region": "Faro",
+      "city": "Portimao",
+      "latitude": 37.13856,
+      "longitude": -8.53775
+    },
+    "4615-307": {
+      "code": "4615-307",
+      "region": "Porto",
+      "city": "Lixa",
+      "latitude": 41.321067,
+      "longitude": -8.14167
+    },
+    "8125-999": {
+      "code": "8125-999",
+      "region": "Faro",
+      "city": "Loule",
+      "latitude": 37.13772,
+      "longitude": -8.01968
+    },
+    "8200-103": {
+      "code": "8200-103",
+      "region": "Faro",
+      "city": "Albufeira",
+      "latitude": 37.08819,
+      "longitude": -8.2503
+    },
+    "7830-999": {
+      "code": "7830-999",
+      "region": "Beja",
+      "city": "Serpa",
+      "latitude": 37.94581,
+      "longitude": -7.59754
+    },
+    "2495-301": {
+      "code": "2495-301",
+      "region": "Santarem",
+      "city": "Fatima",
+      "latitude": 39.62071,
+      "longitude": -8.65237
+    },
+    "9000-208": {
+      "code": "9000-208",
+      "region": "Regiao Autonoma da Madeira",
+      "city": "Santana",
+      "latitude": 32.8,
+      "longitude": -16.88333
+    },
+    "8800-156": {
+      "code": "8800-156",
+      "region": "Faro",
+      "city": "Laranjeiro",
+      "latitude": 37.06831,
+      "longitude": -7.7937
+    },
+    "7330-273": {
+      "code": "7330-273",
+      "region": "Portalegre",
+      "city": "Marvao",
+      "latitude": 39.39377,
+      "longitude": -7.37663
+    },
+    "9064-512": {
+      "code": "9064-512",
+      "region": "Regiao Autonoma da Madeira",
+      "city": "Funchal",
+      "latitude": 32.63333,
+      "longitude": -16.9
+    },
+    "7220-046": {
+      "code": "7220-046",
+      "region": "Beja",
+      "city": "Moura",
+      "latitude": 38.1401,
+      "longitude": -7.44856
+    },
+    "8601-852": {
+      "code": "8601-852",
+      "region": "Faro",
+      "city": "Lagos",
+      "latitude": 37.10202,
+      "longitude": -8.67422
+    },
+    "8950-414": {
+      "code": "8950-414",
+      "region": "Faro",
+      "city": "Monte Gordo",
+      "latitude": 37.18192,
+      "longitude": -7.45225
+    },
+    "8400-999": {
+      "code": "8400-999",
+      "region": "Faro",
+      "city": "Carvoeiro",
+      "latitude": 37.10147,
+      "longitude": -8.46979
+    },
+    "7801-859": {
+      "code": "7801-859",
+      "region": "Beja",
+      "city": "Beja",
+      "latitude": 38.01506,
+      "longitude": -7.86323
+    },
+    "7780-999": {
+      "code": "7780-999",
+      "region": "Beja",
+      "city": "Castro Verde",
+      "latitude": 37.69828,
+      "longitude": -8.08581
+    },
+    "8005-408": {
+      "code": "8005-408",
+      "region": "Faro",
+      "city": "Faro",
+      "latitude": 37.01937,
+      "longitude": -7.93223
+    },
+    "8700-199": {
+      "code": "8700-199",
+      "region": "Faro",
+      "city": "Olhao",
+      "latitude": 37.0286,
+      "longitude": -7.8411
+    },
+    "2890-920": {
+      "code": "2890-920",
+      "region": "Setubal",
+      "city": "Montijo",
+      "latitude": 38.70675,
+      "longitude": -8.97388
+    },
+    "8550-228": {
+      "code": "8550-228",
+      "region": "Faro",
+      "city": "Monchique",
+      "latitude": 37.31775,
+      "longitude": -8.55529
+    },
+    "7050-599": {
+      "code": "7050-599",
+      "region": "Evora",
+      "city": "Evora",
+      "latitude": 38.56667,
+      "longitude": -7.9
+    },
+    "8400-517": {
+      "code": "8400-517",
+      "region": "Faro",
+      "city": "Lagoa",
+      "latitude": 37.13535,
+      "longitude": -8.45319
+    },
+    "2950-499": {
+      "code": "2950-499",
+      "region": "Setubal",
+      "city": "Palmela",
+      "latitude": 38.56902,
+      "longitude": -8.90126
+    },
+    "1649-041": {
+      "code": "1649-041",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "7800-861": {
+      "code": "7800-861",
+      "region": "Beja",
+      "city": "Ferreira do Alentejo",
+      "latitude": 38.05,
+      "longitude": -8.03333
+    },
+    "9054-512": {
+      "code": "9054-512",
+      "region": "Regiao Autonoma dos Acores",
+      "city": "Angra do Heroismo",
+      "latitude": 38.65,
+      "longitude": -27.21667
+    },
+    "7300-409": {
+      "code": "7300-409",
+      "region": "Portalegre",
+      "city": "Santo Andre",
+      "latitude": 39.05532,
+      "longitude": -8.24414
+    },
+    "8150-014": {
+      "code": "8150-014",
+      "region": "Faro",
+      "city": "Sao Bras de Alportel",
+      "latitude": 37.1531,
+      "longitude": -7.88752
+    },
+    "2200-479": {
+      "code": "2200-479",
+      "region": "Santarem",
+      "city": "Alferrarede",
+      "latitude": 39.48333,
+      "longitude": -8.16667
+    },
+    "8670-999": {
+      "code": "8670-999",
+      "region": "Faro",
+      "city": "Aljezur",
+      "latitude": 37.31915,
+      "longitude": -8.8033
+    },
+    "8800-101": {
+      "code": "8800-101",
+      "region": "Faro",
+      "city": "Luz",
+      "latitude": 37.09216,
+      "longitude": -7.70433
+    },
+    "4775-281": {
+      "code": "4775-281",
+      "region": "Braga",
+      "city": "Ribeirao",
+      "latitude": 41.36081,
+      "longitude": -8.56774
+    },
+    "7320-209": {
+      "code": "7320-209",
+      "region": "Portalegre",
+      "city": "Ponte de Sor",
+      "latitude": 39.24964,
+      "longitude": -8.01009
+    },
+    "2065-999": {
+      "code": "2065-999",
+      "region": "Lisboa",
+      "city": "Alcoentre",
+      "latitude": 39.20857,
+      "longitude": -8.95953
+    },
+    "2525-999": {
+      "code": "2525-999",
+      "region": "Leiria",
+      "city": "Atouguia da Baleia",
+      "latitude": 39.33814,
+      "longitude": -9.3263
+    },
+    "4750-095": {
+      "code": "4750-095",
+      "region": "Braga",
+      "city": "Galegos",
+      "latitude": 41.56268,
+      "longitude": -8.57204
+    },
+    "7100-027": {
+      "code": "7100-027",
+      "region": "Evora",
+      "city": "Estremoz",
+      "latitude": 38.84432,
+      "longitude": -7.58585
+    },
+    "7170-999": {
+      "code": "7170-999",
+      "region": "Evora",
+      "city": "Vila Vicosa",
+      "latitude": 38.7777,
+      "longitude": -7.41793
+    },
+    "7645-999": {
+      "code": "7645-999",
+      "region": "Beja",
+      "city": "Vila Nova de Milfontes",
+      "latitude": 37.72377,
+      "longitude": -8.78278
+    },
+    "7580-506": {
+      "code": "7580-506",
+      "region": "Setubal",
+      "city": "Porto Covo",
+      "latitude": 37.85256,
+      "longitude": -8.79018
+    },
+    "2080-999": {
+      "code": "2080-999",
+      "region": "Santarem",
+      "city": "Santarem",
+      "latitude": 39.23333,
+      "longitude": -8.68333
+    },
+    "": {
+      "code": "",
+      "region": "",
+      "city": "",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "2735-307": {
+      "code": "2735-307",
+      "region": "Lisboa",
+      "city": "Cacem",
+      "latitude": 38.76698,
+      "longitude": -9.29793
+    },
+    "8135-034": {
+      "code": "8135-034",
+      "region": "Faro",
+      "city": "Almancil",
+      "latitude": 37.08686,
+      "longitude": -8.03074
+    },
+    "1500-118": {
+      "code": "1500-118",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1990-083": {
+      "code": "1990-083",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1495-136": {
+      "code": "1495-136",
+      "region": "Lisboa",
+      "city": "Alges",
+      "latitude": 38.70245,
+      "longitude": -9.22936
+    },
+    "7580-123": {
+      "code": "7580-123",
+      "region": "Setubal",
+      "city": "Alcacer do Sal",
+      "latitude": 38.37326,
+      "longitude": -8.51444
+    },
+    "4715-248": {
+      "code": "4715-248",
+      "region": "Braga",
+      "city": "Braga",
+      "latitude": 41.55032,
+      "longitude": -8.42005
+    },
+    "1049-017": {
+      "code": "1049-017",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4049-001": {
+      "code": "4049-001",
+      "region": "Porto",
+      "city": "Porto",
+      "latitude": 41.14961,
+      "longitude": -8.61099
+    },
+    "3750-352": {
+      "code": "3750-352",
+      "region": "Aveiro",
+      "city": "Pampilhosa do Botao",
+      "latitude": 40.3358,
+      "longitude": -8.42738
+    },
+    "1150-280": {
+      "code": "1150-280",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4480-999": {
+      "code": "4480-999",
+      "region": "Porto",
+      "city": "Vila do Conde",
+      "latitude": 41.35481,
+      "longitude": -8.7434
+    },
+    "1070-153": {
+      "code": "1070-153",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "7630-099": {
+      "code": "7630-099",
+      "region": "Beja",
+      "city": "Odemira",
+      "latitude": 37.59798,
+      "longitude": -8.63972
+    },
+    "4620-633": {
+      "code": "4620-633",
+      "region": "Porto",
+      "city": "Sao Felix da Marinha",
+      "latitude": 41.03555,
+      "longitude": -8.62258
+    },
+    "8650-089": {
+      "code": "8650-089",
+      "region": "Faro",
+      "city": "Sagres",
+      "latitude": 37.00864,
+      "longitude": -8.94311
+    },
+    "7100-042": {
+      "code": "7100-042",
+      "region": "Evora",
+      "city": "Reguengos de Monsaraz",
+      "latitude": 38.42529,
+      "longitude": -7.53494
+    },
+    "4200-221": {
+      "code": "4200-221",
+      "region": "Porto",
+      "city": "Porto",
+      "latitude": 41.14961,
+      "longitude": -8.61099
+    },
+    "2610-171": {
+      "code": "2610-171",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "3750-351": {
+      "code": "3750-351",
+      "region": "Aveiro",
+      "city": "Ilhavo",
+      "latitude": 40.5999,
+      "longitude": -8.66732
+    },
+    "7200-013": {
+      "code": "7200-013",
+      "region": "Evora",
+      "city": "Redondo",
+      "latitude": 38.64872,
+      "longitude": -7.54708
+    },
+    "4620-130": {
+      "code": "4620-130",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1600-001": {
+      "code": "1600-001",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1249-130": {
+      "code": "1249-130",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "9000-028": {
+      "code": "9000-028",
+      "region": "Regiao Autonoma da Madeira",
+      "city": "Canical",
+      "latitude": 32.73834,
+      "longitude": -16.73836
+    },
+    "8135-999": {
+      "code": "8135-999",
+      "region": "Faro",
+      "city": "Almancil",
+      "latitude": 37.08686,
+      "longitude": -8.03074
+    },
+    "4900-347": {
+      "code": "4900-347",
+      "region": "Viana do Castelo",
+      "city": "Viana do Castelo",
+      "latitude": 41.69323,
+      "longitude": -8.83287
+    },
+    "2794-066": {
+      "code": "2794-066",
+      "region": "Lisboa",
+      "city": "Carnaxide",
+      "latitude": 38.72706,
+      "longitude": -9.24671
+    },
+    "1249-101": {
+      "code": "1249-101",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4804-534": {
+      "code": "4804-534",
+      "region": "Braga",
+      "city": "Guimaraes",
+      "latitude": 41.44444,
+      "longitude": -8.29619
+    },
+    "1950-157": {
+      "code": "1950-157",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "7570-999": {
+      "code": "7570-999",
+      "region": "Setubal",
+      "city": "Santiago do Cacem",
+      "latitude": 38.01694,
+      "longitude": -8.69475
+    },
+    "2799-562": {
+      "code": "2799-562",
+      "region": "Lisboa",
+      "city": "Carnaxide",
+      "latitude": 38.72706,
+      "longitude": -9.24671
+    },
+    "2779-513": {
+      "code": "2779-513",
+      "region": "Lisboa",
+      "city": "Oeiras",
+      "latitude": 38.683333,
+      "longitude": -9.316667
+    },
+    "1150-322": {
+      "code": "1150-322",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "2600-660": {
+      "code": "2600-660",
+      "region": "Lisboa",
+      "city": "Castanheira do Ribatejo",
+      "latitude": 38.99298,
+      "longitude": -8.97346
+    },
+    "1350-223": {
+      "code": "1350-223",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1250-137": {
+      "code": "1250-137",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1600-260": {
+      "code": "1600-260",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1070-103": {
+      "code": "1070-103",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1050-165": {
+      "code": "1050-165",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1050-187": {
+      "code": "1050-187",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4700-076": {
+      "code": "4700-076",
+      "region": "Braga",
+      "city": "Braga",
+      "latitude": 41.55032,
+      "longitude": -8.42005
+    },
+    "1069-203": {
+      "code": "1069-203",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4445-150": {
+      "code": "4445-150",
+      "region": "Porto",
+      "city": "Maia",
+      "latitude": 41.23574,
+      "longitude": -8.6199
+    },
+    "4100-246": {
+      "code": "4100-246",
+      "region": "Porto",
+      "city": "Porto",
+      "latitude": 41.14961,
+      "longitude": -8.61099
+    },
+    "1990-028": {
+      "code": "1990-028",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "2865-757": {
+      "code": "2865-757",
+      "region": "Setubal",
+      "city": "Moita",
+      "latitude": 38.65078,
+      "longitude": -8.99038
+    },
+    "7630-579": {
+      "code": "7630-579",
+      "region": "Beja",
+      "city": "Sao Teotonio",
+      "latitude": 37.51282,
+      "longitude": -8.70708
+    },
+    "8800-059": {
+      "code": "8800-059",
+      "region": "Faro",
+      "city": "Tavira",
+      "latitude": 37.12734,
+      "longitude": -7.64861
+    },
+    "7580-509": {
+      "code": "7580-509",
+      "region": "Setubal",
+      "city": "Grandola",
+      "latitude": 38.17718,
+      "longitude": -8.56675
+    },
+    "7374-001": {
+      "code": "7374-001",
+      "region": "Portalegre",
+      "city": "Campo Maior",
+      "latitude": 39.01774,
+      "longitude": -7.06497
+    },
+    "7050-563": {
+      "code": "7050-563",
+      "region": "Evora",
+      "city": "Montemor-o-Novo",
+      "latitude": 38.64812,
+      "longitude": -8.21455
+    },
+    "2250-028": {
+      "code": "2250-028",
+      "region": "Santarem",
+      "city": "Tomar",
+      "latitude": 39.60199,
+      "longitude": -8.40924
+    },
+    "8300-011": {
+      "code": "8300-011",
+      "region": "Faro",
+      "city": "Silves",
+      "latitude": 37.18921,
+      "longitude": -8.43822
+    },
+    "7330-307": {
+      "code": "7330-307",
+      "region": "Portalegre",
+      "city": "Portalegre",
+      "latitude": 39.29379,
+      "longitude": -7.43122
+    },
+    "8005-431": {
+      "code": "8005-431",
+      "region": "Faro",
+      "city": "Santa Barbara de Nexe",
+      "latitude": 37.10619,
+      "longitude": -7.96648
+    },
+    "8700-068": {
+      "code": "8700-068",
+      "region": "Faro",
+      "city": "Moncarapacho",
+      "latitude": 37.08863,
+      "longitude": -7.78722
+    },
+    "2025-999": {
+      "code": "2025-999",
+      "region": "Santarem",
+      "city": "Alcanede",
+      "latitude": 39.41501,
+      "longitude": -8.82189
+    },
+    "4860-129": {
+      "code": "4860-129",
+      "region": "Braga",
+      "city": "Real",
+      "latitude": 41.63882,
+      "longitude": -8.18098
+    },
+    "3090-405": {
+      "code": "3090-405",
+      "region": "Coimbra",
+      "city": "Alhadas",
+      "latitude": 40.18607,
+      "longitude": -8.79057
+    },
+    "9000-090": {
+      "code": "9000-090",
+      "region": "Regiao Autonoma da Madeira",
+      "city": "Funchal",
+      "latitude": 32.63333,
+      "longitude": -16.9
+    },
+    "7520-999": {
+      "code": "7520-999",
+      "region": "Setubal",
+      "city": "Santo Andre",
+      "latitude": 38.05444,
+      "longitude": -8.75212
+    },
+    "3505-539": {
+      "code": "3505-539",
+      "region": "Viseu",
+      "city": "Rio de Loba",
+      "latitude": 40.66596,
+      "longitude": -7.87781
+    },
+    "3030-199": {
+      "code": "3030-199",
+      "region": "Coimbra",
+      "city": "Coimbra",
+      "latitude": 40.20564,
+      "longitude": -8.41955
+    },
+    "3240-312": {
+      "code": "3240-312",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1500-589": {
+      "code": "1500-589",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4400-499": {
+      "code": "4400-499",
+      "region": "Porto",
+      "city": "Vila Nova de Gaia",
+      "latitude": 41.13363,
+      "longitude": -8.61742
+    },
+    "1600-209": {
+      "code": "1600-209",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1050-189": {
+      "code": "1050-189",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "3000-135": {
+      "code": "3000-135",
+      "region": "Coimbra",
+      "city": "Coimbra",
+      "latitude": 40.20564,
+      "longitude": -8.41955
+    },
+    "2845-999": {
+      "code": "2845-999",
+      "region": "Setubal",
+      "city": "Corroios",
+      "latitude": 38.64502,
+      "longitude": -9.14843
+    },
+    "7520-089": {
+      "code": "7520-089",
+      "region": "Setubal",
+      "city": "Sines",
+      "latitude": 37.95622,
+      "longitude": -8.86979
+    },
+    "7050-497": {
+      "code": "7050-497",
+      "region": "Evora",
+      "city": "Vendas Novas",
+      "latitude": 38.67706,
+      "longitude": -8.45792
+    },
+    "4520-803": {
+      "code": "4520-803",
+      "region": "Aveiro",
+      "city": "Pardilho",
+      "latitude": 40.79925,
+      "longitude": -8.62598
+    },
+    "3730-275": {
+      "code": "3730-275",
+      "region": "Aveiro",
+      "city": "Beduido",
+      "latitude": 40.76427,
+      "longitude": -8.5611
+    },
+    "4520-824": {
+      "code": "4520-824",
+      "region": "Aveiro",
+      "city": "Souto",
+      "latitude": 40.98675,
+      "longitude": -8.6223
+    },
+    "7350-441": {
+      "code": "7350-441",
+      "region": "Portalegre",
+      "city": "Elvas",
+      "latitude": 38.8815,
+      "longitude": -7.16282
+    },
+    "1269-046": {
+      "code": "1269-046",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "2790-114": {
+      "code": "2790-114",
+      "region": "Lisboa",
+      "city": "Carnaxide",
+      "latitude": 38.72706,
+      "longitude": -9.24671
+    },
+    "7600-503": {
+      "code": "7600-503",
+      "region": "Beja",
+      "city": "Aljustrel",
+      "latitude": 37.87759,
+      "longitude": -8.16516
+    },
+    "2100-057": {
+      "code": "2100-057",
+      "region": "Santarem",
+      "city": "Coruche",
+      "latitude": 38.95955,
+      "longitude": -8.52524
+    },
+    "7150-299": {
+      "code": "7150-299",
+      "region": "Evora",
+      "city": "Borba",
+      "latitude": 38.80553,
+      "longitude": -7.45465
+    },
+    "7300-305": {
+      "code": "7300-305",
+      "region": "Portalegre",
+      "city": "Alagoa",
+      "latitude": 39.36125,
+      "longitude": -7.53894
+    },
+    "7570-429": {
+      "code": "7570-429",
+      "region": "Setubal",
+      "city": "Cercal",
+      "latitude": 37.80601,
+      "longitude": -8.67153
+    },
+    "7300-383": {
+      "code": "7300-383",
+      "region": "Portalegre",
+      "city": "Urra",
+      "latitude": 39.2283,
+      "longitude": -7.39856
+    },
+    "8375-013": {
+      "code": "8375-013",
+      "region": "Faro",
+      "city": "Sao Bartolomeu de Messines",
+      "latitude": 37.26024,
+      "longitude": -8.2867
+    },
+    "2495-194": {
+      "code": "2495-194",
+      "region": "Leiria",
+      "city": "Santa Catarina da Serra",
+      "latitude": 39.6796,
+      "longitude": -8.68679
+    },
+    "1200-478": {
+      "code": "1200-478",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4000-108": {
+      "code": "4000-108",
+      "region": "Porto",
+      "city": "Porto",
+      "latitude": 41.14961,
+      "longitude": -8.61099
+    },
+    "3000-271": {
+      "code": "3000-271",
+      "region": "Coimbra",
+      "city": "Coimbra",
+      "latitude": 40.20564,
+      "longitude": -8.41955
+    },
+    "1500-064": {
+      "code": "1500-064",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "2560-381": {
+      "code": "2560-381",
+      "region": "Lisboa",
+      "city": "Torres Vedras",
+      "latitude": 39.09109,
+      "longitude": -9.2586
+    },
+    "2565-189": {
+      "code": "2565-189",
+      "region": "Lisboa",
+      "city": "Torres Vedras",
+      "latitude": 39.09109,
+      "longitude": -9.2586
+    },
+    "2775-082": {
+      "code": "2775-082",
+      "region": "Lisboa",
+      "city": "Parede",
+      "latitude": 38.69282,
+      "longitude": -9.35412
+    },
+    "9020-105": {
+      "code": "9020-105",
+      "region": "Regiao Autonoma da Madeira",
+      "city": "Funchal",
+      "latitude": 32.63333,
+      "longitude": -16.9
+    },
+    "1990-093": {
+      "code": "1990-093",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "2739-511": {
+      "code": "2739-511",
+      "region": "Lisboa",
+      "city": "Porto Salvo",
+      "latitude": 38.71745,
+      "longitude": -9.29833
+    },
+    "8005-409": {
+      "code": "8005-409",
+      "region": "Faro",
+      "city": "Loule",
+      "latitude": 37.13772,
+      "longitude": -8.01968
+    },
+    "1350-352": {
+      "code": "1350-352",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1070-061": {
+      "code": "1070-061",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1750-111": {
+      "code": "1750-111",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1649-034": {
+      "code": "1649-034",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1250-161": {
+      "code": "1250-161",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "8005-145": {
+      "code": "8005-145",
+      "region": "Faro",
+      "city": "Loule",
+      "latitude": 37.13772,
+      "longitude": -8.01968
+    },
+    "1600-012": {
+      "code": "1600-012",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "2795-023": {
+      "code": "2795-023",
+      "region": "Lisboa",
+      "city": "Linda-a-Velha",
+      "latitude": 38.71446,
+      "longitude": -9.2422
+    },
+    "2460-711": {
+      "code": "2460-711",
+      "region": "Leiria",
+      "city": "Aljubarrota",
+      "latitude": 39.56716,
+      "longitude": -8.92925
+    },
+    "2305-075": {
+      "code": "2305-075",
+      "region": "Santarem",
+      "city": "Golega",
+      "latitude": 39.40474,
+      "longitude": -8.48625
+    },
+    "8135-117": {
+      "code": "8135-117",
+      "region": "Faro",
+      "city": "Almancil",
+      "latitude": 37.08686,
+      "longitude": -8.03074
+    },
+    "2560-999": {
+      "code": "2560-999",
+      "region": "Lisboa",
+      "city": "A dos Cunhados",
+      "latitude": 39.15237,
+      "longitude": -9.2972
+    },
+    "1700-008": {
+      "code": "1700-008",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1700-066": {
+      "code": "1700-066",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1000-029": {
+      "code": "1000-029",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4300-173": {
+      "code": "4300-173",
+      "region": "Porto",
+      "city": "Porto",
+      "latitude": 41.14961,
+      "longitude": -8.61099
+    },
+    "1649-023": {
+      "code": "1649-023",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4825-399": {
+      "code": "4825-399",
+      "region": "Porto",
+      "city": "Ermezinde",
+      "latitude": 41.22176,
+      "longitude": -8.55462
+    },
+    "1749-099": {
+      "code": "1749-099",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4450-021": {
+      "code": "4450-021",
+      "region": "Porto",
+      "city": "Matosinhos",
+      "latitude": 41.18207,
+      "longitude": -8.68908
+    },
+    "4475-611": {
+      "code": "4475-611",
+      "region": "Porto",
+      "city": "Porto",
+      "latitude": 41.14961,
+      "longitude": -8.61099
+    },
+    "4630-614": {
+      "code": "4630-614",
+      "region": "Porto",
+      "city": "Anta",
+      "latitude": 41.26634,
+      "longitude": -8.62844
+    },
+    "2614-502": {
+      "code": "2614-502",
+      "region": "Lisboa",
+      "city": "Amadora",
+      "latitude": 38.75382,
+      "longitude": -9.23083
+    },
+    "2675-432": {
+      "code": "2675-432",
+      "region": "Lisboa",
+      "city": "Odivelas",
+      "latitude": 38.79269,
+      "longitude": -9.1838
+    },
+    "1000-010": {
+      "code": "1000-010",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1050-132": {
+      "code": "1050-132",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1050-215": {
+      "code": "1050-215",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4410-499": {
+      "code": "4410-499",
+      "region": "Porto",
+      "city": "Arcozelo",
+      "latitude": 41.05328,
+      "longitude": -8.64326
+    },
+    "4900-716": {
+      "code": "4900-716",
+      "region": "Viana do Castelo",
+      "city": "Viana do Castelo",
+      "latitude": 41.69323,
+      "longitude": -8.83287
+    },
+    "2835-999": {
+      "code": "2835-999",
+      "region": "Setubal",
+      "city": "Barreiro",
+      "latitude": 38.66314,
+      "longitude": -9.0724
+    },
+    "4485-629": {
+      "code": "4485-629",
+      "region": "Porto",
+      "city": "Vila do Conde",
+      "latitude": 41.35481,
+      "longitude": -8.7434
+    },
+    "1050-229": {
+      "code": "1050-229",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4715-340": {
+      "code": "4715-340",
+      "region": "Braga",
+      "city": "Braga",
+      "latitude": 41.55032,
+      "longitude": -8.42005
+    },
+    "4050-263": {
+      "code": "4050-263",
+      "region": "Porto",
+      "city": "Porto",
+      "latitude": 41.14961,
+      "longitude": -8.61099
+    },
+    "2985-107": {
+      "code": "2985-107",
+      "region": "Setubal",
+      "city": "Quinta do Anjo",
+      "latitude": 38.56753,
+      "longitude": -8.94228
+    },
+    "4750-156": {
+      "code": "4750-156",
+      "region": "Braga",
+      "city": "Barcelos",
+      "latitude": 41.53876,
+      "longitude": -8.61505
+    },
+    "1100-533": {
+      "code": "1100-533",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "2775-378": {
+      "code": "2775-378",
+      "region": "Lisboa",
+      "city": "Estoril",
+      "latitude": 38.70571,
+      "longitude": -9.39773
+    },
+    "4635-165": {
+      "code": "4635-165",
+      "region": "Porto",
+      "city": "Santo Tirso",
+      "latitude": 41.34257,
+      "longitude": -8.47746
+    },
+    "4620-403": {
+      "code": "4620-403",
+      "region": "Porto",
+      "city": "Vila Nova da Telha",
+      "latitude": 41.0717,
+      "longitude": -8.64146
+    },
+    "4615-139": {
+      "code": "4615-139",
+      "region": "Porto",
+      "city": "Leca da Palmeira",
+      "latitude": 41.191,
+      "longitude": -8.70027
+    },
+    "5040-054": {
+      "code": "5040-054",
+      "region": "Porto",
+      "city": "Vila Nova de Gaia",
+      "latitude": 41.13363,
+      "longitude": -8.61742
+    },
+    "7330-155": {
+      "code": "7330-155",
+      "region": "Portalegre",
+      "city": "Castelo de Vide",
+      "latitude": 39.41624,
+      "longitude": -7.4568
+    },
+    "2510-191": {
+      "code": "2510-191",
+      "region": "Leiria",
+      "city": "Obidos",
+      "latitude": 39.36055,
+      "longitude": -9.1567
+    },
+    "3200-305": {
+      "code": "3200-305",
+      "region": "Coimbra",
+      "city": "Lavos",
+      "latitude": 40.09363,
+      "longitude": -8.82826
+    },
+    "5400-673": {
+      "code": "5400-673",
+      "region": "Vila Real",
+      "city": "Chaves",
+      "latitude": 41.74019,
+      "longitude": -7.46879
+    },
+    "4600-653": {
+      "code": "4600-653",
+      "region": "Porto",
+      "city": "Ferreira",
+      "latitude": 41.26718,
+      "longitude": -8.34434
+    },
+    "4625-429": {
+      "code": "4625-429",
+      "region": "Porto",
+      "city": "Teloes",
+      "latitude": 41.31054,
+      "longitude": -8.11101
+    },
+    "4560-072": {
+      "code": "4560-072",
+      "region": "Porto",
+      "city": "Figueiro",
+      "latitude": 41.29922,
+      "longitude": -8.16779
+    },
+    "1749-074": {
+      "code": "1749-074",
+      "region": "Lisboa",
+      "city": "Olival do Basto",
+      "latitude": 38.79079,
+      "longitude": -9.16621
+    },
+    "4200-465": {
+      "code": "4200-465",
+      "region": "Porto",
+      "city": "Porto",
+      "latitude": 41.14961,
+      "longitude": -8.61099
+    },
+    "2829-517": {
+      "code": "2829-517",
+      "region": "Setubal",
+      "city": "Caparica",
+      "latitude": 38.66667,
+      "longitude": -9.2
+    },
+    "1549-020": {
+      "code": "1549-020",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4479-003": {
+      "code": "4479-003",
+      "region": "Porto",
+      "city": "Pedroucos",
+      "latitude": 41.19315,
+      "longitude": -8.58167
+    },
+    "2724-523": {
+      "code": "2724-523",
+      "region": "Lisboa",
+      "city": "Amadora",
+      "latitude": 38.75382,
+      "longitude": -9.23083
+    },
+    "4825-262": {
+      "code": "4825-262",
+      "region": "Porto",
+      "city": "Maia",
+      "latitude": 41.23574,
+      "longitude": -8.6199
+    },
+    "1099-078": {
+      "code": "1099-078",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "2700-545": {
+      "code": "2700-545",
+      "region": "Lisboa",
+      "city": "Pontinha",
+      "latitude": 38.76771,
+      "longitude": -9.19935
+    },
+    "1495-148": {
+      "code": "1495-148",
+      "region": "Lisboa",
+      "city": "Alges",
+      "latitude": 38.70245,
+      "longitude": -9.22936
+    },
+    "1200-602": {
+      "code": "1200-602",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4710-429": {
+      "code": "4710-429",
+      "region": "Braga",
+      "city": "Braga",
+      "latitude": 41.55032,
+      "longitude": -8.42005
+    },
+    "2430-399": {
+      "code": "2430-399",
+      "region": "Leiria",
+      "city": "Marinha Grande",
+      "latitude": 39.74769,
+      "longitude": -8.93228
+    },
+    "1050-190": {
+      "code": "1050-190",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1100-150": {
+      "code": "1100-150",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1000-230": {
+      "code": "1000-230",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1000-177": {
+      "code": "1000-177",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4470-220": {
+      "code": "4470-220",
+      "region": "Porto",
+      "city": "Maia",
+      "latitude": 41.23574,
+      "longitude": -8.6199
+    },
+    "1100-063": {
+      "code": "1100-063",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "2655-241": {
+      "code": "2655-241",
+      "region": "Lisboa",
+      "city": "Ericeira",
+      "latitude": 38.96275,
+      "longitude": -9.41563
+    },
+    "1250-142": {
+      "code": "1250-142",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "2681-502": {
+      "code": "2681-502",
+      "region": "Lisboa",
+      "city": "Sacavem",
+      "latitude": 38.79202,
+      "longitude": -9.10801
+    },
+    "2510-216": {
+      "code": "2510-216",
+      "region": "Leiria",
+      "city": "Obidos",
+      "latitude": 39.36055,
+      "longitude": -9.1567
+    },
+    "1099-035": {
+      "code": "1099-035",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4480-951": {
+      "code": "4480-951",
+      "region": "Porto",
+      "city": "Vila do Conde",
+      "latitude": 41.35481,
+      "longitude": -8.7434
+    },
+    "2609-503": {
+      "code": "2609-503",
+      "region": "Lisboa",
+      "city": "Queluz",
+      "latitude": 38.75657,
+      "longitude": -9.25451
+    },
+    "1050-128": {
+      "code": "1050-128",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1649-004": {
+      "code": "1649-004",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1990-138": {
+      "code": "1990-138",
+      "region": "Porto",
+      "city": "Porto",
+      "latitude": 41.14961,
+      "longitude": -8.61099
+    },
+    "4430-111": {
+      "code": "4430-111",
+      "region": "Porto",
+      "city": "Vila Nova de Gaia",
+      "latitude": 41.13363,
+      "longitude": -8.61742
+    },
+    "4300-454": {
+      "code": "4300-454",
+      "region": "Porto",
+      "city": "Porto",
+      "latitude": 41.14961,
+      "longitude": -8.61099
+    },
+    "1050-009": {
+      "code": "1050-009",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "6270-436": {
+      "code": "6270-436",
+      "region": "Guarda",
+      "city": "Seia",
+      "latitude": 40.4151,
+      "longitude": -7.70859
+    },
+    "1250-050": {
+      "code": "1250-050",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1070-313": {
+      "code": "1070-313",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4605-107": {
+      "code": "4605-107",
+      "region": "Porto",
+      "city": "Senhora da Hora",
+      "latitude": 41.1864,
+      "longitude": -8.65172
+    },
+    "1495-190": {
+      "code": "1495-190",
+      "region": "Lisboa",
+      "city": "Alges",
+      "latitude": 38.70245,
+      "longitude": -9.22936
+    },
+    "1250-067": {
+      "code": "1250-067",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1250-144": {
+      "code": "1250-144",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4100-395": {
+      "code": "4100-395",
+      "region": "Porto",
+      "city": "Porto",
+      "latitude": 41.14961,
+      "longitude": -8.61099
+    },
+    "2354-001": {
+      "code": "2354-001",
+      "region": "Santarem",
+      "city": "Torres Novas",
+      "latitude": 39.48114,
+      "longitude": -8.53949
+    },
+    "1000-300": {
+      "code": "1000-300",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "2740-244": {
+      "code": "2740-244",
+      "region": "Lisboa",
+      "city": "Oeiras",
+      "latitude": 38.683333,
+      "longitude": -9.316667
+    },
+    "1800-224": {
+      "code": "1800-224",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1000-042": {
+      "code": "1000-042",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "1069-300": {
+      "code": "1069-300",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "3780-295": {
+      "code": "3780-295",
+      "region": "Aveiro",
+      "city": "Arcos",
+      "latitude": 40.44779,
+      "longitude": -8.44171
+    },
+    "1998-014": {
+      "code": "1998-014",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4150-212": {
+      "code": "4150-212",
+      "region": "Porto",
+      "city": "Porto",
+      "latitude": 41.14961,
+      "longitude": -8.61099
+    },
+    "1050-094": {
+      "code": "1050-094",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "4650-317": {
+      "code": "4650-317",
+      "region": "Porto",
+      "city": "Gulpilhares",
+      "latitude": 41.08292,
+      "longitude": -8.62679
+    },
+    "4520-627": {
+      "code": "4520-627",
+      "region": "Aveiro",
+      "city": "Feira",
+      "latitude": 40.92535,
+      "longitude": -8.54277
+    },
+    "1149-014": {
+      "code": "1149-014",
+      "region": "Lisboa",
+      "city": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    }
+  }
+}
