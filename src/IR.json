@@ -1,0 +1,356 @@
+{
+  "id": "IR",
+  "country": "Iran, Islamic Republic of",
+  "postal": {
+    "11369": {
+      "code": "11369",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "11793": {
+      "code": "11793",
+      "region": "Mazandaran",
+      "city": "Babol",
+      "latitude": 36.55132,
+      "longitude": 52.67895
+    },
+    "13164": {
+      "code": "13164",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "14114": {
+      "code": "14114",
+      "region": "Fars",
+      "city": "Shiraz",
+      "latitude": 29.6036,
+      "longitude": 52.5388
+    },
+    "14147": {
+      "code": "14147",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "14155": {
+      "code": "14155",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "14185": {
+      "code": "14185",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "14356": {
+      "code": "14356",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "14378": {
+      "code": "14378",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "14399": {
+      "code": "14399",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "14411": {
+      "code": "14411",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "15118": {
+      "code": "15118",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "15337": {
+      "code": "15337",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "15489": {
+      "code": "15489",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "15846": {
+      "code": "15846",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "15849": {
+      "code": "15849",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "15867": {
+      "code": "15867",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "15868": {
+      "code": "15868",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "15875": {
+      "code": "15875",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "15948": {
+      "code": "15948",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "15987": {
+      "code": "15987",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "16315": {
+      "code": "16315",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "16836": {
+      "code": "16836",
+      "region": "Khorasan-e Razavi",
+      "city": "Mashhad",
+      "latitude": 36.297,
+      "longitude": 59.6062
+    },
+    "19157": {
+      "code": "19157",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "19395": {
+      "code": "19395",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "19548": {
+      "code": "19548",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "19585": {
+      "code": "19585",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "19667": {
+      "code": "19667",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "19679": {
+      "code": "19679",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "19689": {
+      "code": "19689",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "19957": {
+      "code": "19957",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "19989": {
+      "code": "19989",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "20049": {
+      "code": "20049",
+      "region": "Mazandaran",
+      "city": "Babol",
+      "latitude": 36.55132,
+      "longitude": 52.67895
+    },
+    "31585": {
+      "code": "31585",
+      "region": "Alborz",
+      "city": "Karaj",
+      "latitude": 35.8355,
+      "longitude": 51.0103
+    },
+    "35195": {
+      "code": "35195",
+      "region": "Semnan",
+      "city": "Semnan",
+      "latitude": 35.57291,
+      "longitude": 53.39714
+    },
+    "36156": {
+      "code": "36156",
+      "region": "Semnan",
+      "city": "Semnan",
+      "latitude": 35.57291,
+      "longitude": 53.39714
+    },
+    "38791": {
+      "code": "38791",
+      "region": "Zanjan",
+      "city": "Zanjan",
+      "latitude": 36.6736,
+      "longitude": 48.4787
+    },
+    "45195": {
+      "code": "45195",
+      "region": "Zanjan",
+      "city": "Zanjan",
+      "latitude": 36.6736,
+      "longitude": 48.4787
+    },
+    "45717": {
+      "code": "45717",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "66411": {
+      "code": "66411",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "71345": {
+      "code": "71345",
+      "region": "Fars",
+      "city": "Shiraz",
+      "latitude": 29.6036,
+      "longitude": 52.5388
+    },
+    "71455": {
+      "code": "71455",
+      "region": "Fars",
+      "city": "Shiraz",
+      "latitude": 29.6036,
+      "longitude": 52.5388
+    },
+    "73441": {
+      "code": "73441",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "81464": {
+      "code": "81464",
+      "region": "Esfahan",
+      "city": "Esfahan",
+      "latitude": 32.65722,
+      "longitude": 51.67761
+    },
+    "83659": {
+      "code": "83659",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "94171": {
+      "code": "94171",
+      "region": "Fars",
+      "city": "Shiraz",
+      "latitude": 29.6036,
+      "longitude": 52.5388
+    },
+    "96314": {
+      "code": "96314",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "98135": {
+      "code": "98135",
+      "region": "Sistan va Baluchestan",
+      "city": "Zahedan",
+      "latitude": 29.4963,
+      "longitude": 60.8629
+    },
+    "": {
+      "code": "",
+      "region": "Khuzestan",
+      "city": "Ahvaz",
+      "latitude": 31.3203,
+      "longitude": 48.6693
+    },
+    "00142": {
+      "code": "00142",
+      "region": "Tehran",
+      "city": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    }
+  }
+}
