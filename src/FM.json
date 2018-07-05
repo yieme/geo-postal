@@ -1,0 +1,34 @@
+{
+  "id": "FM",
+  "country": "Micronesia, Federated States of",
+  "postal": {
+    "96941": {
+      "code": "96941",
+      "region": "Pohnpei",
+      "city": "Kolonia",
+      "latitude": 6.964,
+      "longitude": 158.2064
+    },
+    "96942": {
+      "code": "96942",
+      "region": "Chuuk",
+      "city": "Weno Municipal Offices",
+      "latitude": 7.44428,
+      "longitude": 151.84103
+    },
+    "96943": {
+      "code": "96943",
+      "region": "Yap",
+      "city": "Colonia",
+      "latitude": 9.51638,
+      "longitude": 138.12167
+    },
+    "": {
+      "code": "",
+      "region": "Kosrae",
+      "city": "Tafunsak",
+      "latitude": 5.3671,
+      "longitude": 162.98532
+    }
+  }
+}
