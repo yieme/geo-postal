@@ -1,0 +1,139 @@
+{
+  "id": "HT",
+  "country": "Haiti",
+  "postal": {
+    "HT 6119": {
+      "code": "HT 6119",
+      "region": "Ouest",
+      "city": "Port-au-Prince",
+      "latitude": 18.53917,
+      "longitude": -72.335
+    },
+    "": {
+      "code": "",
+      "region": "",
+      "city": "",
+      "latitude": 18.53917,
+      "longitude": -72.335
+    },
+    "HT 8110": {
+      "code": "HT 8110",
+      "region": "Sud",
+      "city": "Les Cayes",
+      "latitude": 18.2,
+      "longitude": -73.75
+    },
+    "HT 5110": {
+      "code": "HT 5110",
+      "region": "Centre",
+      "city": "Hinche",
+      "latitude": 19.15,
+      "longitude": -72.01667
+    },
+    "HT 2310": {
+      "code": "HT 2310",
+      "region": "Nord-Est",
+      "city": "Trou du Nord",
+      "latitude": 19.63333,
+      "longitude": -72.01667
+    },
+    "HT 6212": {
+      "code": "HT 6212",
+      "region": "Ouest",
+      "city": "Leogane",
+      "latitude": 18.51083,
+      "longitude": -72.63389
+    },
+    "HT 1112": {
+      "code": "HT 1112",
+      "region": "Nord",
+      "city": "Cap-Haitien",
+      "latitude": 19.75778,
+      "longitude": -72.20417
+    },
+    "HT 4310": {
+      "code": "HT 4310",
+      "region": "Artibonite",
+      "city": "Saint-Marc",
+      "latitude": 19.10819,
+      "longitude": -72.69379
+    },
+    "HT 4111": {
+      "code": "HT 4111",
+      "region": "Artibonite",
+      "city": "Gonaives",
+      "latitude": 19.45,
+      "longitude": -72.68333
+    },
+    "HT 1220": {
+      "code": "HT 1220",
+      "region": "Nord",
+      "city": "Plaine du Nord",
+      "latitude": 19.68333,
+      "longitude": -72.26667
+    },
+    "HT 1120": {
+      "code": "HT 1120",
+      "region": "Nord",
+      "city": "Quartier Morin",
+      "latitude": 19.69667,
+      "longitude": -72.15694
+    },
+    "HT 6420": {
+      "code": "HT 6420",
+      "region": "Ouest",
+      "city": "Cabaret",
+      "latitude": 18.73583,
+      "longitude": -72.4175
+    },
+    "HT 9110": {
+      "code": "HT 9110",
+      "region": "Sud-Est",
+      "city": "Jacmel",
+      "latitude": 18.23417,
+      "longitude": -72.53472
+    },
+    "HT 2112": {
+      "code": "HT 2112",
+      "region": "Nord-Est",
+      "city": "Fort Liberte",
+      "latitude": 19.66778,
+      "longitude": -71.83972
+    },
+    "HT 4321": {
+      "code": "HT 4321",
+      "region": "Artibonite",
+      "city": "Verrettes",
+      "latitude": 19.05,
+      "longitude": -72.46667
+    },
+    "HT 6220": {
+      "code": "HT 6220",
+      "region": "Ouest",
+      "city": "Petit Goave",
+      "latitude": 18.43139,
+      "longitude": -72.86694
+    },
+    "HT 6136": {
+      "code": "HT 6136",
+      "region": "Ouest",
+      "city": "Gressier",
+      "latitude": 18.55,
+      "longitude": -72.51667
+    },
+    "HT 7410": {
+      "code": "HT 7410",
+      "region": "Nippes",
+      "city": "Miragoane",
+      "latitude": 18.44232,
+      "longitude": -73.08758
+    },
+    "HT 6125": {
+      "code": "HT 6125",
+      "region": "Ouest",
+      "city": "Delmas 73",
+      "latitude": 18.54472,
+      "longitude": -72.30278
+    }
+  }
+}
