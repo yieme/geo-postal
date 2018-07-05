@@ -1,0 +1,5823 @@
+{
+  "id": "CH",
+  "country": "Switzerland",
+  "postal": {
+    "1000": {
+      "code": "1000",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1001": {
+      "code": "1001",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1002": {
+      "code": "1002",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1003": {
+      "code": "1003",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1004": {
+      "code": "1004",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1005": {
+      "code": "1005",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1006": {
+      "code": "1006",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1007": {
+      "code": "1007",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1008": {
+      "code": "1008",
+      "region": "Vaud",
+      "city": "Prilly",
+      "latitude": 46.53938,
+      "longitude": 6.59266
+    },
+    "1009": {
+      "code": "1009",
+      "region": "Vaud",
+      "city": "Pully",
+      "latitude": 46.51027,
+      "longitude": 6.66183
+    },
+    "1010": {
+      "code": "1010",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1011": {
+      "code": "1011",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1014": {
+      "code": "1014",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1015": {
+      "code": "1015",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1018": {
+      "code": "1018",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1020": {
+      "code": "1020",
+      "region": "Vaud",
+      "city": "Prilly",
+      "latitude": 46.53938,
+      "longitude": 6.59266
+    },
+    "1022": {
+      "code": "1022",
+      "region": "Vaud",
+      "city": "Renens",
+      "latitude": 46.53989,
+      "longitude": 6.5881
+    },
+    "1023": {
+      "code": "1023",
+      "region": "Vaud",
+      "city": "Crissier",
+      "latitude": 46.55165,
+      "longitude": 6.57125
+    },
+    "1024": {
+      "code": "1024",
+      "region": "Vaud",
+      "city": "Ecublens",
+      "latitude": 46.52899,
+      "longitude": 6.56261
+    },
+    "1025": {
+      "code": "1025",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "1026": {
+      "code": "1026",
+      "region": "Vaud",
+      "city": "Bussigny",
+      "latitude": 46.5511,
+      "longitude": 6.55597
+    },
+    "1028": {
+      "code": "1028",
+      "region": "Vaud",
+      "city": "Preverenges",
+      "latitude": 46.51854,
+      "longitude": 6.52682
+    },
+    "1030": {
+      "code": "1030",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1032": {
+      "code": "1032",
+      "region": "Vaud",
+      "city": "Romanel",
+      "latitude": 46.56667,
+      "longitude": 6.60453
+    },
+    "1033": {
+      "code": "1033",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1052": {
+      "code": "1052",
+      "region": "Vaud",
+      "city": "Lausanne",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    "1072": {
+      "code": "1072",
+      "region": "Zurich",
+      "city": "Thalwil",
+      "latitude": 47.29748,
+      "longitude": 8.55634
+    },
+    "1073": {
+      "code": "1073",
+      "region": "Vaud",
+      "city": "Savigny",
+      "latitude": 46.53844,
+      "longitude": 6.73222
+    },
+    "1077": {
+      "code": "1077",
+      "region": "Fribourg",
+      "city": "Ecublens",
+      "latitude": 46.60735,
+      "longitude": 6.80895
+    },
+    "1081": {
+      "code": "1081",
+      "region": "Vaud",
+      "city": "Savigny",
+      "latitude": 46.53844,
+      "longitude": 6.73222
+    },
+    "1096": {
+      "code": "1096",
+      "region": "Vaud",
+      "city": "Cully",
+      "latitude": 46.48892,
+      "longitude": 6.72945
+    },
+    "1097": {
+      "code": "1097",
+      "region": "Vaud",
+      "city": "Cully",
+      "latitude": 46.48892,
+      "longitude": 6.72945
+    },
+    "1098": {
+      "code": "1098",
+      "region": "Vaud",
+      "city": "Cully",
+      "latitude": 46.48892,
+      "longitude": 6.72945
+    },
+    "1110": {
+      "code": "1110",
+      "region": "Vaud",
+      "city": "Morges",
+      "latitude": 46.51127,
+      "longitude": 6.49854
+    },
+    "1113": {
+      "code": "1113",
+      "region": "Vaud",
+      "city": "Colombier",
+      "latitude": 46.55709,
+      "longitude": 6.47284
+    },
+    "1114": {
+      "code": "1114",
+      "region": "Vaud",
+      "city": "Colombier",
+      "latitude": 46.55709,
+      "longitude": 6.47284
+    },
+    "1131": {
+      "code": "1131",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "1135": {
+      "code": "1135",
+      "region": "Vaud",
+      "city": "Saint-Prex",
+      "latitude": 46.47963,
+      "longitude": 6.45992
+    },
+    "1147": {
+      "code": "1147",
+      "region": "Vaud",
+      "city": "L'Abbaye",
+      "latitude": 46.64966,
+      "longitude": 6.31907
+    },
+    "1162": {
+      "code": "1162",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "1170": {
+      "code": "1170",
+      "region": "Vaud",
+      "city": "Aubonne",
+      "latitude": 46.49514,
+      "longitude": 6.39155
+    },
+    "1180": {
+      "code": "1180",
+      "region": "Vaud",
+      "city": "Rolle",
+      "latitude": 46.4582,
+      "longitude": 6.33499
+    },
+    "1183": {
+      "code": "1183",
+      "region": "Vaud",
+      "city": "Gland",
+      "latitude": 46.42082,
+      "longitude": 6.2701
+    },
+    "1196": {
+      "code": "1196",
+      "region": "Vaud",
+      "city": "Gland",
+      "latitude": 46.42082,
+      "longitude": 6.2701
+    },
+    "1200": {
+      "code": "1200",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "1202": {
+      "code": "1202",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "1203": {
+      "code": "1203",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "1204": {
+      "code": "1204",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "1205": {
+      "code": "1205",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "1207": {
+      "code": "1207",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "1208": {
+      "code": "1208",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "1209": {
+      "code": "1209",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "1211": {
+      "code": "1211",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "1213": {
+      "code": "1213",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "1214": {
+      "code": "1214",
+      "region": "Geneve",
+      "city": "Vernier",
+      "latitude": 46.21702,
+      "longitude": 6.08497
+    },
+    "1215": {
+      "code": "1215",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "1216": {
+      "code": "1216",
+      "region": "Geneve",
+      "city": "Les Avanchets",
+      "latitude": 46.22168,
+      "longitude": 6.10814
+    },
+    "1217": {
+      "code": "1217",
+      "region": "Geneve",
+      "city": "Vernier",
+      "latitude": 46.21702,
+      "longitude": 6.08497
+    },
+    "1218": {
+      "code": "1218",
+      "region": "Geneve",
+      "city": "Le Grand-Saconnex",
+      "latitude": 46.23333,
+      "longitude": 6.13333
+    },
+    "1220": {
+      "code": "1220",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "1222": {
+      "code": "1222",
+      "region": "Geneve",
+      "city": "Vandoeuvres",
+      "latitude": 46.22179,
+      "longitude": 6.20285
+    },
+    "1223": {
+      "code": "1223",
+      "region": "Geneve",
+      "city": "Plan-les-Ouates",
+      "latitude": 46.16667,
+      "longitude": 6.11667
+    },
+    "1224": {
+      "code": "1224",
+      "region": "Geneve",
+      "city": "Chene-Bougeries",
+      "latitude": 46.19843,
+      "longitude": 6.18642
+    },
+    "1225": {
+      "code": "1225",
+      "region": "Geneve",
+      "city": "Chene-Bourg",
+      "latitude": 46.19534,
+      "longitude": 6.19406
+    },
+    "1227": {
+      "code": "1227",
+      "region": "Geneve",
+      "city": "Carouge",
+      "latitude": 46.18096,
+      "longitude": 6.13921
+    },
+    "1228": {
+      "code": "1228",
+      "region": "Geneve",
+      "city": "Plan-les-Ouates",
+      "latitude": 46.16667,
+      "longitude": 6.11667
+    },
+    "1234": {
+      "code": "1234",
+      "region": "Geneve",
+      "city": "Troinex",
+      "latitude": 46.16313,
+      "longitude": 6.14745
+    },
+    "1246": {
+      "code": "1246",
+      "region": "Vaud",
+      "city": "Pully",
+      "latitude": 46.51027,
+      "longitude": 6.66183
+    },
+    "1253": {
+      "code": "1253",
+      "region": "Geneve",
+      "city": "Vandoeuvres",
+      "latitude": 46.22179,
+      "longitude": 6.20285
+    },
+    "1258": {
+      "code": "1258",
+      "region": "Geneve",
+      "city": "Confignon",
+      "latitude": 46.17341,
+      "longitude": 6.08437
+    },
+    "1260": {
+      "code": "1260",
+      "region": "Vaud",
+      "city": "Nyon",
+      "latitude": 46.38318,
+      "longitude": 6.23955
+    },
+    "1262": {
+      "code": "1262",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "1264": {
+      "code": "1264",
+      "region": "Vaud",
+      "city": "Saint-Cergue",
+      "latitude": 46.4459,
+      "longitude": 6.15736
+    },
+    "1270": {
+      "code": "1270",
+      "region": "Vaud",
+      "city": "Chavannes",
+      "latitude": 46.53005,
+      "longitude": 6.57068
+    },
+    "1274": {
+      "code": "1274",
+      "region": "Vaud",
+      "city": "Signy-Avenex",
+      "latitude": 46.383333,
+      "longitude": 6.2
+    },
+    "1281": {
+      "code": "1281",
+      "region": "Geneve",
+      "city": "Dardagny",
+      "latitude": 46.19564,
+      "longitude": 5.99497
+    },
+    "1293": {
+      "code": "1293",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "1294": {
+      "code": "1294",
+      "region": "Geneve",
+      "city": "Bellevue",
+      "latitude": 46.25739,
+      "longitude": 6.15475
+    },
+    "1295": {
+      "code": "1295",
+      "region": "Vaud",
+      "city": "Pully",
+      "latitude": 46.51027,
+      "longitude": 6.66183
+    },
+    "1296": {
+      "code": "1296",
+      "region": "Vaud",
+      "city": "Coppet",
+      "latitude": 46.31682,
+      "longitude": 6.19114
+    },
+    "1297": {
+      "code": "1297",
+      "region": "Vaud",
+      "city": "Founex",
+      "latitude": 46.33277,
+      "longitude": 6.19243
+    },
+    "1312": {
+      "code": "1312",
+      "region": "Vaud",
+      "city": "La Sarraz",
+      "latitude": 46.65863,
+      "longitude": 6.51077
+    },
+    "1338": {
+      "code": "1338",
+      "region": "Vaud",
+      "city": "Vallorbe",
+      "latitude": 46.71256,
+      "longitude": 6.37894
+    },
+    "1347": {
+      "code": "1347",
+      "region": "Vaud",
+      "city": "Le Chenit",
+      "latitude": 46.60688,
+      "longitude": 6.23062
+    },
+    "1350": {
+      "code": "1350",
+      "region": "Vaud",
+      "city": "Orbe",
+      "latitude": 46.72504,
+      "longitude": 6.53069
+    },
+    "1400": {
+      "code": "1400",
+      "region": "Vaud",
+      "city": "Yverdon-les-Bains",
+      "latitude": 46.77852,
+      "longitude": 6.64115
+    },
+    "1401": {
+      "code": "1401",
+      "region": "Vaud",
+      "city": "Yverdon-les-Bains",
+      "latitude": 46.77852,
+      "longitude": 6.64115
+    },
+    "1424": {
+      "code": "1424",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "1428": {
+      "code": "1428",
+      "region": "Neuchatel",
+      "city": "Saint-Aubin-Sauges",
+      "latitude": 46.89419,
+      "longitude": 6.77251
+    },
+    "1450": {
+      "code": "1450",
+      "region": "Vaud",
+      "city": "Sainte-Croix",
+      "latitude": 46.82203,
+      "longitude": 6.50283
+    },
+    "1510": {
+      "code": "1510",
+      "region": "Vaud",
+      "city": "Moudon",
+      "latitude": 46.66948,
+      "longitude": 6.80127
+    },
+    "1522": {
+      "code": "1522",
+      "region": "Vaud",
+      "city": "Lucens",
+      "latitude": 46.70854,
+      "longitude": 6.83931
+    },
+    "1530": {
+      "code": "1530",
+      "region": "Vaud",
+      "city": "Payerne",
+      "latitude": 46.82201,
+      "longitude": 6.93608
+    },
+    "1580": {
+      "code": "1580",
+      "region": "Vaud",
+      "city": "Avenches",
+      "latitude": 46.88004,
+      "longitude": 7.04071
+    },
+    "1588": {
+      "code": "1588",
+      "region": "Zurich",
+      "city": "Kloten",
+      "latitude": 47.45152,
+      "longitude": 8.58491
+    },
+    "1617": {
+      "code": "1617",
+      "region": "Fribourg",
+      "city": "Chatel-Saint-Denis",
+      "latitude": 46.52691,
+      "longitude": 6.90083
+    },
+    "1618": {
+      "code": "1618",
+      "region": "Fribourg",
+      "city": "Chatel-Saint-Denis",
+      "latitude": 46.52691,
+      "longitude": 6.90083
+    },
+    "1623": {
+      "code": "1623",
+      "region": "Vaud",
+      "city": "Pully",
+      "latitude": 46.51027,
+      "longitude": 6.66183
+    },
+    "1630": {
+      "code": "1630",
+      "region": "Fribourg",
+      "city": "Bulle",
+      "latitude": 46.6195,
+      "longitude": 7.05674
+    },
+    "1631": {
+      "code": "1631",
+      "region": "Fribourg",
+      "city": "Bulle",
+      "latitude": 46.6195,
+      "longitude": 7.05674
+    },
+    "1660": {
+      "code": "1660",
+      "region": "Vaud",
+      "city": "Chateau-d'Oex",
+      "latitude": 46.47455,
+      "longitude": 7.13155
+    },
+    "1678": {
+      "code": "1678",
+      "region": "Fribourg",
+      "city": "Mezieres",
+      "latitude": 46.67958,
+      "longitude": 6.9263
+    },
+    "1700": {
+      "code": "1700",
+      "region": "Fribourg",
+      "city": "Fribourg",
+      "latitude": 46.80237,
+      "longitude": 7.15128
+    },
+    "1701": {
+      "code": "1701",
+      "region": "Fribourg",
+      "city": "Fribourg",
+      "latitude": 46.80237,
+      "longitude": 7.15128
+    },
+    "1705": {
+      "code": "1705",
+      "region": "Fribourg",
+      "city": "Fribourg",
+      "latitude": 46.80237,
+      "longitude": 7.15128
+    },
+    "1709": {
+      "code": "1709",
+      "region": "Fribourg",
+      "city": "Fribourg",
+      "latitude": 46.80237,
+      "longitude": 7.15128
+    },
+    "1752": {
+      "code": "1752",
+      "region": "Fribourg",
+      "city": "Villars-sur-Glane",
+      "latitude": 46.79054,
+      "longitude": 7.11717
+    },
+    "1753": {
+      "code": "1753",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "1762": {
+      "code": "1762",
+      "region": "Fribourg",
+      "city": "Fribourg",
+      "latitude": 46.80237,
+      "longitude": 7.15128
+    },
+    "1792": {
+      "code": "1792",
+      "region": "Fribourg",
+      "city": "Dudingen",
+      "latitude": 46.84915,
+      "longitude": 7.18848
+    },
+    "1800": {
+      "code": "1800",
+      "region": "Vaud",
+      "city": "Vevey",
+      "latitude": 46.46116,
+      "longitude": 6.84328
+    },
+    "1820": {
+      "code": "1820",
+      "region": "Vaud",
+      "city": "Montreux",
+      "latitude": 46.43301,
+      "longitude": 6.91143
+    },
+    "1854": {
+      "code": "1854",
+      "region": "Vaud",
+      "city": "Leysin",
+      "latitude": 46.34183,
+      "longitude": 7.01151
+    },
+    "1860": {
+      "code": "1860",
+      "region": "Vaud",
+      "city": "Aigle",
+      "latitude": 46.3181,
+      "longitude": 6.96457
+    },
+    "1868": {
+      "code": "1868",
+      "region": "Valais",
+      "city": "Collombey",
+      "latitude": 46.27008,
+      "longitude": 6.94835
+    },
+    "1870": {
+      "code": "1870",
+      "region": "Valais",
+      "city": "Monthey",
+      "latitude": 46.25546,
+      "longitude": 6.96066
+    },
+    "1871": {
+      "code": "1871",
+      "region": "Valais",
+      "city": "Monthey",
+      "latitude": 46.25546,
+      "longitude": 6.96066
+    },
+    "1872": {
+      "code": "1872",
+      "region": "Valais",
+      "city": "Troistorrents",
+      "latitude": 46.2289,
+      "longitude": 6.91589
+    },
+    "1874": {
+      "code": "1874",
+      "region": "Valais",
+      "city": "Champery",
+      "latitude": 46.17543,
+      "longitude": 6.86903
+    },
+    "1880": {
+      "code": "1880",
+      "region": "Vaud",
+      "city": "Bex",
+      "latitude": 46.25214,
+      "longitude": 7.01141
+    },
+    "1882": {
+      "code": "1882",
+      "region": "Vaud",
+      "city": "Gryon",
+      "latitude": 46.27377,
+      "longitude": 7.05975
+    },
+    "1884": {
+      "code": "1884",
+      "region": "Vaud",
+      "city": "Villars-sur-Ollon",
+      "latitude": 46.29832,
+      "longitude": 7.05631
+    },
+    "1892": {
+      "code": "1892",
+      "region": "Valais",
+      "city": "Saint-Maurice",
+      "latitude": 46.21826,
+      "longitude": 7.0032
+    },
+    "1895": {
+      "code": "1895",
+      "region": "Valais",
+      "city": "Vionnaz",
+      "latitude": 46.31101,
+      "longitude": 6.90062
+    },
+    "1896": {
+      "code": "1896",
+      "region": "Valais",
+      "city": "Tanay",
+      "latitude": 46.34503,
+      "longitude": 6.83041
+    },
+    "1897": {
+      "code": "1897",
+      "region": "Valais",
+      "city": "Port-Valais",
+      "latitude": 46.37156,
+      "longitude": 6.87263
+    },
+    "1904": {
+      "code": "1904",
+      "region": "Valais",
+      "city": "Vernayaz",
+      "latitude": 46.13667,
+      "longitude": 7.03906
+    },
+    "1906": {
+      "code": "1906",
+      "region": "Valais",
+      "city": "Charrat-les-Chenes",
+      "latitude": 46.12202,
+      "longitude": 7.13456
+    },
+    "1907": {
+      "code": "1907",
+      "region": "Valais",
+      "city": "Saxon",
+      "latitude": 46.15005,
+      "longitude": 7.18074
+    },
+    "1912": {
+      "code": "1912",
+      "region": "Valais",
+      "city": "Leytron",
+      "latitude": 46.1866,
+      "longitude": 7.2078
+    },
+    "1919": {
+      "code": "1919",
+      "region": "Valais",
+      "city": "Martigny-Ville",
+      "latitude": 46.10276,
+      "longitude": 7.07245
+    },
+    "1926": {
+      "code": "1926",
+      "region": "Valais",
+      "city": "Fully",
+      "latitude": 46.13851,
+      "longitude": 7.11468
+    },
+    "1929": {
+      "code": "1929",
+      "region": "Valais",
+      "city": "Evionnaz",
+      "latitude": 46.01667,
+      "longitude": 7.01667
+    },
+    "1932": {
+      "code": "1932",
+      "region": "Valais",
+      "city": "Martigny-Combe",
+      "latitude": 46.07817,
+      "longitude": 7.05099
+    },
+    "1934": {
+      "code": "1934",
+      "region": "Valais",
+      "city": "Bagnes",
+      "latitude": 46.08333,
+      "longitude": 7.21667
+    },
+    "1936": {
+      "code": "1936",
+      "region": "Valais",
+      "city": "Verbier",
+      "latitude": 46.09872,
+      "longitude": 7.21621
+    },
+    "1937": {
+      "code": "1937",
+      "region": "Valais",
+      "city": "Orsieres",
+      "latitude": 46.02903,
+      "longitude": 7.14437
+    },
+    "1950": {
+      "code": "1950",
+      "region": "Valais",
+      "city": "Sion",
+      "latitude": 46.22908,
+      "longitude": 7.35942
+    },
+    "1951": {
+      "code": "1951",
+      "region": "Valais",
+      "city": "Sion",
+      "latitude": 46.22908,
+      "longitude": 7.35942
+    },
+    "1983": {
+      "code": "1983",
+      "region": "Valais",
+      "city": "Evolene",
+      "latitude": 46.11346,
+      "longitude": 7.49436
+    },
+    "2000": {
+      "code": "2000",
+      "region": "Neuchatel",
+      "city": "Neuchatel",
+      "latitude": 46.99179,
+      "longitude": 6.931
+    },
+    "2001": {
+      "code": "2001",
+      "region": "Neuchatel",
+      "city": "Neuchatel",
+      "latitude": 46.99179,
+      "longitude": 6.931
+    },
+    "2003": {
+      "code": "2003",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "2004": {
+      "code": "2004",
+      "region": "Neuchatel",
+      "city": "Saint-Blaise",
+      "latitude": 47.01323,
+      "longitude": 6.98472
+    },
+    "2007": {
+      "code": "2007",
+      "region": "Neuchatel",
+      "city": "Neuchatel",
+      "latitude": 46.99179,
+      "longitude": 6.931
+    },
+    "2008": {
+      "code": "2008",
+      "region": "Neuchatel",
+      "city": "Neuchatel",
+      "latitude": 46.99179,
+      "longitude": 6.931
+    },
+    "2009": {
+      "code": "2009",
+      "region": "Neuchatel",
+      "city": "Neuchatel",
+      "latitude": 46.99179,
+      "longitude": 6.931
+    },
+    "2010": {
+      "code": "2010",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "2013": {
+      "code": "2013",
+      "region": "Vaud",
+      "city": "Colombier",
+      "latitude": 46.55709,
+      "longitude": 6.47284
+    },
+    "2016": {
+      "code": "2016",
+      "region": "Neuchatel",
+      "city": "Cortaillod",
+      "latitude": 46.94306,
+      "longitude": 6.8444
+    },
+    "2017": {
+      "code": "2017",
+      "region": "Neuchatel",
+      "city": "Boudry",
+      "latitude": 46.94991,
+      "longitude": 6.83757
+    },
+    "2022": {
+      "code": "2022",
+      "region": "Neuchatel",
+      "city": "Bevaix",
+      "latitude": 46.92958,
+      "longitude": 6.8147
+    },
+    "2024": {
+      "code": "2024",
+      "region": "Neuchatel",
+      "city": "Saint-Aubin-Sauges",
+      "latitude": 46.89419,
+      "longitude": 6.77251
+    },
+    "2028": {
+      "code": "2028",
+      "region": "Geneve",
+      "city": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    "2034": {
+      "code": "2034",
+      "region": "Neuchatel",
+      "city": "Peseux",
+      "latitude": 46.98704,
+      "longitude": 6.88903
+    },
+    "2052": {
+      "code": "2052",
+      "region": "Neuchatel",
+      "city": "Fontainemelon",
+      "latitude": 47.05495,
+      "longitude": 6.8868
+    },
+    "2068": {
+      "code": "2068",
+      "region": "Neuchatel",
+      "city": "Saint-Blaise",
+      "latitude": 47.01323,
+      "longitude": 6.98472
+    },
+    "2072": {
+      "code": "2072",
+      "region": "Neuchatel",
+      "city": "Saint-Blaise",
+      "latitude": 47.01323,
+      "longitude": 6.98472
+    },
+    "2112": {
+      "code": "2112",
+      "region": "Neuchatel",
+      "city": "Couvet",
+      "latitude": 46.92613,
+      "longitude": 6.63415
+    },
+    "2114": {
+      "code": "2114",
+      "region": "Neuchatel",
+      "city": "Fleurier",
+      "latitude": 46.90224,
+      "longitude": 6.58253
+    },
+    "2207": {
+      "code": "2207",
+      "region": "Neuchatel",
+      "city": "Les Geneveys-sur-Coffrane",
+      "latitude": 47.014,
+      "longitude": 6.85253
+    },
+    "2300": {
+      "code": "2300",
+      "region": "Neuchatel",
+      "city": "La Chaux-de-Fonds",
+      "latitude": 47.09993,
+      "longitude": 6.82586
+    },
+    "2338": {
+      "code": "2338",
+      "region": "Jura",
+      "city": "Saignelegier",
+      "latitude": 47.25619,
+      "longitude": 6.99648
+    },
+    "2340": {
+      "code": "2340",
+      "region": "Jura",
+      "city": "Le Noirmont",
+      "latitude": 47.22567,
+      "longitude": 6.9573
+    },
+    "2500": {
+      "code": "2500",
+      "region": "Bern",
+      "city": "Biel",
+      "latitude": 47.1324,
+      "longitude": 7.24411
+    },
+    "2501": {
+      "code": "2501",
+      "region": "Bern",
+      "city": "Biel",
+      "latitude": 47.1324,
+      "longitude": 7.24411
+    },
+    "2502": {
+      "code": "2502",
+      "region": "Bern",
+      "city": "Biel",
+      "latitude": 47.1324,
+      "longitude": 7.24411
+    },
+    "2503": {
+      "code": "2503",
+      "region": "Bern",
+      "city": "Biel",
+      "latitude": 47.1324,
+      "longitude": 7.24411
+    },
+    "2504": {
+      "code": "2504",
+      "region": "Bern",
+      "city": "Biel",
+      "latitude": 47.1324,
+      "longitude": 7.24411
+    },
+    "2523": {
+      "code": "2523",
+      "region": "Neuchatel",
+      "city": "Le Landeron",
+      "latitude": 47.0562,
+      "longitude": 7.07184
+    },
+    "2525": {
+      "code": "2525",
+      "region": "Neuchatel",
+      "city": "Le Landeron",
+      "latitude": 47.0562,
+      "longitude": 7.07184
+    },
+    "2534": {
+      "code": "2534",
+      "region": "Bern",
+      "city": "Orvin",
+      "latitude": 47.16068,
+      "longitude": 7.21368
+    },
+    "2540": {
+      "code": "2540",
+      "region": "Solothurn",
+      "city": "Grenchen",
+      "latitude": 47.1921,
+      "longitude": 7.39586
+    },
+    "2543": {
+      "code": "2543",
+      "region": "Bern",
+      "city": "Lengnau",
+      "latitude": 47.18382,
+      "longitude": 7.37371
+    },
+    "2544": {
+      "code": "2544",
+      "region": "Solothurn",
+      "city": "Bettlach",
+      "latitude": 47.20062,
+      "longitude": 7.42405
+    },
+    "2555": {
+      "code": "2555",
+      "region": "Bern",
+      "city": "Brugg",
+      "latitude": 47.1237,
+      "longitude": 7.27887
+    },
+    "2560": {
+      "code": "2560",
+      "region": "Bern",
+      "city": "Nidau",
+      "latitude": 47.12545,
+      "longitude": 7.24033
+    },
+    "2562": {
+      "code": "2562",
+      "region": "Bern",
+      "city": "Bellmund",
+      "latitude": 47.10852,
+      "longitude": 7.24608
+    },
+    "2603": {
+      "code": "2603",
+      "region": "Bern",
+      "city": "Pery",
+      "latitude": 47.19398,
+      "longitude": 7.24913
+    },
+    "2608": {
+      "code": "2608",
+      "region": "Bern",
+      "city": "Courtelary",
+      "latitude": 47.17822,
+      "longitude": 7.07236
+    },
+    "2610": {
+      "code": "2610",
+      "region": "Bern",
+      "city": "Saint-Imier",
+      "latitude": 47.15284,
+      "longitude": 6.99692
+    },
+    "2710": {
+      "code": "2710",
+      "region": "Bern",
+      "city": "Tavannes",
+      "latitude": 47.22079,
+      "longitude": 7.19759
+    },
+    "2720": {
+      "code": "2720",
+      "region": "Bern",
+      "city": "Tramelan",
+      "latitude": 47.22393,
+      "longitude": 7.0995
+    },
+    "2740": {
+      "code": "2740",
+      "region": "Bern",
+      "city": "Moutier",
+      "latitude": 47.27818,
+      "longitude": 7.36951
+    },
+    "2800": {
+      "code": "2800",
+      "region": "Jura",
+      "city": "Delemont",
+      "latitude": 47.36493,
+      "longitude": 7.34453
+    },
+    "2823": {
+      "code": "2823",
+      "region": "Jura",
+      "city": "Vicques",
+      "latitude": 47.35102,
+      "longitude": 7.40266
+    },
+    "2852": {
+      "code": "2852",
+      "region": "Jura",
+      "city": "Courtetelle",
+      "latitude": 47.34074,
+      "longitude": 7.31827
+    },
+    "2854": {
+      "code": "2854",
+      "region": "Jura",
+      "city": "Bassecourt",
+      "latitude": 47.33829,
+      "longitude": 7.24494
+    },
+    "2855": {
+      "code": "2855",
+      "region": "Jura",
+      "city": "Glovelier",
+      "latitude": 47.33466,
+      "longitude": 7.20544
+    },
+    "2900": {
+      "code": "2900",
+      "region": "Jura",
+      "city": "Porrentruy",
+      "latitude": 47.41533,
+      "longitude": 7.07522
+    },
+    "2902": {
+      "code": "2902",
+      "region": "Jura",
+      "city": "Fontenais",
+      "latitude": 47.40478,
+      "longitude": 7.08191
+    },
+    "2926": {
+      "code": "2926",
+      "region": "Jura",
+      "city": "Boncourt",
+      "latitude": 47.4956,
+      "longitude": 7.01423
+    },
+    "2942": {
+      "code": "2942",
+      "region": "Jura",
+      "city": "Alle",
+      "latitude": 47.42618,
+      "longitude": 7.12911
+    },
+    "2946": {
+      "code": "2946",
+      "region": "Fribourg",
+      "city": "Marsens",
+      "latitude": 46.65649,
+      "longitude": 7.06167
+    },
+    "2950": {
+      "code": "2950",
+      "region": "Jura",
+      "city": "Courgenay",
+      "latitude": 47.40365,
+      "longitude": 7.12416
+    },
+    "3000": {
+      "code": "3000",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3001": {
+      "code": "3001",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3003": {
+      "code": "3003",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3004": {
+      "code": "3004",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3005": {
+      "code": "3005",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3006": {
+      "code": "3006",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3007": {
+      "code": "3007",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3008": {
+      "code": "3008",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3010": {
+      "code": "3010",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3011": {
+      "code": "3011",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3013": {
+      "code": "3013",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3014": {
+      "code": "3014",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3015": {
+      "code": "3015",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3018": {
+      "code": "3018",
+      "region": "Bern",
+      "city": "Koniz",
+      "latitude": 46.92436,
+      "longitude": 7.41457
+    },
+    "3027": {
+      "code": "3027",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3029": {
+      "code": "3029",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3030": {
+      "code": "3030",
+      "region": "Bern",
+      "city": "Zollikofen",
+      "latitude": 46.99905,
+      "longitude": 7.45809
+    },
+    "3048": {
+      "code": "3048",
+      "region": "Bern",
+      "city": "Zollikofen",
+      "latitude": 46.99905,
+      "longitude": 7.45809
+    },
+    "3052": {
+      "code": "3052",
+      "region": "Bern",
+      "city": "Zollikofen",
+      "latitude": 46.99905,
+      "longitude": 7.45809
+    },
+    "3053": {
+      "code": "3053",
+      "region": "Bern",
+      "city": "Zollikofen",
+      "latitude": 46.99905,
+      "longitude": 7.45809
+    },
+    "3063": {
+      "code": "3063",
+      "region": "Bern",
+      "city": "Bolligen",
+      "latitude": 46.9751,
+      "longitude": 7.49697
+    },
+    "3072": {
+      "code": "3072",
+      "region": "Bern",
+      "city": "Bolligen",
+      "latitude": 46.9751,
+      "longitude": 7.49697
+    },
+    "3073": {
+      "code": "3073",
+      "region": "Bern",
+      "city": "Muri",
+      "latitude": 46.93122,
+      "longitude": 7.48658
+    },
+    "3074": {
+      "code": "3074",
+      "region": "Bern",
+      "city": "Muri",
+      "latitude": 46.93122,
+      "longitude": 7.48658
+    },
+    "3076": {
+      "code": "3076",
+      "region": "Bern",
+      "city": "Worb",
+      "latitude": 46.92984,
+      "longitude": 7.56306
+    },
+    "3097": {
+      "code": "3097",
+      "region": "Bern",
+      "city": "Koniz",
+      "latitude": 46.92436,
+      "longitude": 7.41457
+    },
+    "3098": {
+      "code": "3098",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3110": {
+      "code": "3110",
+      "region": "Bern",
+      "city": "Munsingen",
+      "latitude": 46.87298,
+      "longitude": 7.561
+    },
+    "3122": {
+      "code": "3122",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3172": {
+      "code": "3172",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "3175": {
+      "code": "3175",
+      "region": "Fribourg",
+      "city": "Flamatt",
+      "latitude": 46.88994,
+      "longitude": 7.32204
+    },
+    "3177": {
+      "code": "3177",
+      "region": "Bern",
+      "city": "Laupen",
+      "latitude": 46.90214,
+      "longitude": 7.23973
+    },
+    "3178": {
+      "code": "3178",
+      "region": "Bern",
+      "city": "Bosingen",
+      "latitude": 46.89229,
+      "longitude": 7.2277
+    },
+    "3186": {
+      "code": "3186",
+      "region": "Fribourg",
+      "city": "Dudingen",
+      "latitude": 46.84915,
+      "longitude": 7.18848
+    },
+    "3250": {
+      "code": "3250",
+      "region": "Bern",
+      "city": "Lyss",
+      "latitude": 47.0741,
+      "longitude": 7.30655
+    },
+    "3254": {
+      "code": "3254",
+      "region": "Solothurn",
+      "city": "Messen",
+      "latitude": 47.09128,
+      "longitude": 7.44957
+    },
+    "3266": {
+      "code": "3266",
+      "region": "Uri",
+      "city": "Seedorf",
+      "latitude": 46.88199,
+      "longitude": 8.61611
+    },
+    "3270": {
+      "code": "3270",
+      "region": "Bern",
+      "city": "Aarberg",
+      "latitude": 47.04439,
+      "longitude": 7.27578
+    },
+    "3280": {
+      "code": "3280",
+      "region": "Fribourg",
+      "city": "Murten",
+      "latitude": 46.92827,
+      "longitude": 7.11715
+    },
+    "3303": {
+      "code": "3303",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "3312": {
+      "code": "3312",
+      "region": "Bern",
+      "city": "Fraubrunnen",
+      "latitude": 47.0862,
+      "longitude": 7.52727
+    },
+    "3321": {
+      "code": "3321",
+      "region": "Bern",
+      "city": "Hindelbank",
+      "latitude": 47.0427,
+      "longitude": 7.54143
+    },
+    "3322": {
+      "code": "3322",
+      "region": "Bern",
+      "city": "Urtenen",
+      "latitude": 47.02667,
+      "longitude": 7.50081
+    },
+    "3360": {
+      "code": "3360",
+      "region": "Bern",
+      "city": "Herzogenbuchsee",
+      "latitude": 47.18795,
+      "longitude": 7.7062
+    },
+    "3400": {
+      "code": "3400",
+      "region": "Bern",
+      "city": "Burgdorf",
+      "latitude": 47.05901,
+      "longitude": 7.62786
+    },
+    "3415": {
+      "code": "3415",
+      "region": "Luzern",
+      "city": "Hasle",
+      "latitude": 46.97786,
+      "longitude": 8.05326
+    },
+    "3422": {
+      "code": "3422",
+      "region": "Sankt Gallen",
+      "city": "Kirchberg",
+      "latitude": 47.41159,
+      "longitude": 9.0402
+    },
+    "3423": {
+      "code": "3423",
+      "region": "Bern",
+      "city": "Ersigen",
+      "latitude": 47.09368,
+      "longitude": 7.59507
+    },
+    "3510": {
+      "code": "3510",
+      "region": "Bern",
+      "city": "Konolfingen",
+      "latitude": 46.87909,
+      "longitude": 7.62013
+    },
+    "3555": {
+      "code": "3555",
+      "region": "Bern",
+      "city": "Trubschachen",
+      "latitude": 46.92228,
+      "longitude": 7.8452
+    },
+    "3609": {
+      "code": "3609",
+      "region": "Bern",
+      "city": "Thun",
+      "latitude": 46.75118,
+      "longitude": 7.62166
+    },
+    "3645": {
+      "code": "3645",
+      "region": "Bern",
+      "city": "Thun",
+      "latitude": 46.75118,
+      "longitude": 7.62166
+    },
+    "3700": {
+      "code": "3700",
+      "region": "Bern",
+      "city": "Spiez",
+      "latitude": 46.68473,
+      "longitude": 7.69111
+    },
+    "3707": {
+      "code": "3707",
+      "region": "Bern",
+      "city": "Darligen",
+      "latitude": 46.66175,
+      "longitude": 7.80808
+    },
+    "3714": {
+      "code": "3714",
+      "region": "Bern",
+      "city": "Frutigen",
+      "latitude": 46.58782,
+      "longitude": 7.64751
+    },
+    "3715": {
+      "code": "3715",
+      "region": "Bern",
+      "city": "Adelboden",
+      "latitude": 46.49142,
+      "longitude": 7.56031
+    },
+    "3717": {
+      "code": "3717",
+      "region": "Bern",
+      "city": "Kandersteg",
+      "latitude": 46.49467,
+      "longitude": 7.67326
+    },
+    "3772": {
+      "code": "3772",
+      "region": "Bern",
+      "city": "Sankt Stephan",
+      "latitude": 46.51168,
+      "longitude": 7.39386
+    },
+    "3780": {
+      "code": "3780",
+      "region": "Bern",
+      "city": "Gstaad",
+      "latitude": 46.47215,
+      "longitude": 7.28685
+    },
+    "3792": {
+      "code": "3792",
+      "region": "Bern",
+      "city": "Saanen",
+      "latitude": 46.48956,
+      "longitude": 7.25961
+    },
+    "3800": {
+      "code": "3800",
+      "region": "Bern",
+      "city": "Unterseen",
+      "latitude": 46.6853,
+      "longitude": 7.84722
+    },
+    "3818": {
+      "code": "3818",
+      "region": "Bern",
+      "city": "Grindelwald",
+      "latitude": 46.62396,
+      "longitude": 8.03601
+    },
+    "3822": {
+      "code": "3822",
+      "region": "Bern",
+      "city": "Lauterbrunnen",
+      "latitude": 46.59568,
+      "longitude": 7.90765
+    },
+    "3852": {
+      "code": "3852",
+      "region": "Bern",
+      "city": "Ringgenberg",
+      "latitude": 46.70114,
+      "longitude": 7.89445
+    },
+    "3855": {
+      "code": "3855",
+      "region": "Bern",
+      "city": "Brienz",
+      "latitude": 46.7545,
+      "longitude": 8.03847
+    },
+    "3902": {
+      "code": "3902",
+      "region": "Valais",
+      "city": "Brig",
+      "latitude": 46.31667,
+      "longitude": 7.98333
+    },
+    "3904": {
+      "code": "3904",
+      "region": "Valais",
+      "city": "Naters",
+      "latitude": 46.32536,
+      "longitude": 7.98912
+    },
+    "3905": {
+      "code": "3905",
+      "region": "Valais",
+      "city": "Saas-Fee",
+      "latitude": 46.11347,
+      "longitude": 7.93488
+    },
+    "3906": {
+      "code": "3906",
+      "region": "Valais",
+      "city": "Saas-Fee",
+      "latitude": 46.11347,
+      "longitude": 7.93488
+    },
+    "3910": {
+      "code": "3910",
+      "region": "Valais",
+      "city": "Saas-Grund",
+      "latitude": 46.12281,
+      "longitude": 7.93651
+    },
+    "3920": {
+      "code": "3920",
+      "region": "Valais",
+      "city": "Zermatt",
+      "latitude": 46.02126,
+      "longitude": 7.74912
+    },
+    "3925": {
+      "code": "3925",
+      "region": "Valais",
+      "city": "Grachen",
+      "latitude": 46.19636,
+      "longitude": 7.8395
+    },
+    "3930": {
+      "code": "3930",
+      "region": "Valais",
+      "city": "Visp",
+      "latitude": 46.2937,
+      "longitude": 7.88149
+    },
+    "3939": {
+      "code": "3939",
+      "region": "Valais",
+      "city": "Baltschieder",
+      "latitude": 46.30888,
+      "longitude": 7.8657
+    },
+    "3942": {
+      "code": "3942",
+      "region": "Valais",
+      "city": "Raron",
+      "latitude": 46.31196,
+      "longitude": 7.80029
+    },
+    "3945": {
+      "code": "3945",
+      "region": "Valais",
+      "city": "Gampel",
+      "latitude": 46.31599,
+      "longitude": 7.7421
+    },
+    "3946": {
+      "code": "3946",
+      "region": "Valais",
+      "city": "Turtmann",
+      "latitude": 46.30148,
+      "longitude": 7.70195
+    },
+    "3953": {
+      "code": "3953",
+      "region": "Valais",
+      "city": "Varen",
+      "latitude": 46.3186,
+      "longitude": 7.60743
+    },
+    "3954": {
+      "code": "3954",
+      "region": "Valais",
+      "city": "Leukerbad",
+      "latitude": 46.37943,
+      "longitude": 7.62687
+    },
+    "3960": {
+      "code": "3960",
+      "region": "Valais",
+      "city": "Sierre",
+      "latitude": 46.29192,
+      "longitude": 7.53559
+    },
+    "3965": {
+      "code": "3965",
+      "region": "Valais",
+      "city": "Chippis",
+      "latitude": 46.28103,
+      "longitude": 7.54288
+    },
+    "3966": {
+      "code": "3966",
+      "region": "Valais",
+      "city": "Chalais",
+      "latitude": 46.26702,
+      "longitude": 7.50958
+    },
+    "3968": {
+      "code": "3968",
+      "region": "Valais",
+      "city": "Veyras",
+      "latitude": 46.30212,
+      "longitude": 7.53619
+    },
+    "3970": {
+      "code": "3970",
+      "region": "Valais",
+      "city": "Salgesch",
+      "latitude": 46.31056,
+      "longitude": 7.56954
+    },
+    "3975": {
+      "code": "3975",
+      "region": "Valais",
+      "city": "Montana",
+      "latitude": 46.31264,
+      "longitude": 7.48408
+    },
+    "3984": {
+      "code": "3984",
+      "region": "Valais",
+      "city": "Fiesch",
+      "latitude": 46.40039,
+      "longitude": 8.1311
+    },
+    "4000": {
+      "code": "4000",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4001": {
+      "code": "4001",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4002": {
+      "code": "4002",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4003": {
+      "code": "4003",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4005": {
+      "code": "4005",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4009": {
+      "code": "4009",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4010": {
+      "code": "4010",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4011": {
+      "code": "4011",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "4012": {
+      "code": "4012",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4013": {
+      "code": "4013",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4016": {
+      "code": "4016",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4042": {
+      "code": "4042",
+      "region": "Basel-Landschaft",
+      "city": "Munchenstein",
+      "latitude": 47.51378,
+      "longitude": 7.62434
+    },
+    "4051": {
+      "code": "4051",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4052": {
+      "code": "4052",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4053": {
+      "code": "4053",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4054": {
+      "code": "4054",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4055": {
+      "code": "4055",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4057": {
+      "code": "4057",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4058": {
+      "code": "4058",
+      "region": "Basel-Stadt",
+      "city": "Basel",
+      "latitude": 47.5584,
+      "longitude": 7.57327
+    },
+    "4070": {
+      "code": "4070",
+      "region": "Fribourg",
+      "city": "La Roche",
+      "latitude": 46.69723,
+      "longitude": 7.1393
+    },
+    "4102": {
+      "code": "4102",
+      "region": "Basel-Landschaft",
+      "city": "Binningen",
+      "latitude": 47.54021,
+      "longitude": 7.56932
+    },
+    "4103": {
+      "code": "4103",
+      "region": "Basel-Landschaft",
+      "city": "Bottmingen",
+      "latitude": 47.52343,
+      "longitude": 7.57211
+    },
+    "4107": {
+      "code": "4107",
+      "region": "Basel-Landschaft",
+      "city": "Ettingen",
+      "latitude": 47.48268,
+      "longitude": 7.54982
+    },
+    "4118": {
+      "code": "4118",
+      "region": "Solothurn",
+      "city": "Rodersdorf",
+      "latitude": 47.4822,
+      "longitude": 7.4576
+    },
+    "4123": {
+      "code": "4123",
+      "region": "Basel-Landschaft",
+      "city": "Allschwil",
+      "latitude": 47.55074,
+      "longitude": 7.53599
+    },
+    "4124": {
+      "code": "4124",
+      "region": "Basel-Landschaft",
+      "city": "Schonenbuch",
+      "latitude": 47.53853,
+      "longitude": 7.50572
+    },
+    "4125": {
+      "code": "4125",
+      "region": "Basel-Stadt",
+      "city": "Riehen",
+      "latitude": 47.57884,
+      "longitude": 7.64683
+    },
+    "4127": {
+      "code": "4127",
+      "region": "Basel-Landschaft",
+      "city": "Birsfelden",
+      "latitude": 47.5529,
+      "longitude": 7.62322
+    },
+    "4132": {
+      "code": "4132",
+      "region": "Basel-Landschaft",
+      "city": "Muttenz",
+      "latitude": 47.52271,
+      "longitude": 7.64511
+    },
+    "4133": {
+      "code": "4133",
+      "region": "Basel-Landschaft",
+      "city": "Pratteln",
+      "latitude": 47.52071,
+      "longitude": 7.69356
+    },
+    "4143": {
+      "code": "4143",
+      "region": "Solothurn",
+      "city": "Dornach",
+      "latitude": 47.48038,
+      "longitude": 7.61644
+    },
+    "4144": {
+      "code": "4144",
+      "region": "Basel-Landschaft",
+      "city": "Arlesheim",
+      "latitude": 47.49412,
+      "longitude": 7.61979
+    },
+    "4146": {
+      "code": "4146",
+      "region": "Solothurn",
+      "city": "Hochwald",
+      "latitude": 47.4583,
+      "longitude": 7.6418
+    },
+    "4153": {
+      "code": "4153",
+      "region": "Aargau",
+      "city": "Reinach",
+      "latitude": 47.26667,
+      "longitude": 8.18333
+    },
+    "4204": {
+      "code": "4204",
+      "region": "Solothurn",
+      "city": "Himmelried",
+      "latitude": 47.42111,
+      "longitude": 7.59659
+    },
+    "4208": {
+      "code": "4208",
+      "region": "Solothurn",
+      "city": "Nunningen",
+      "latitude": 47.3945,
+      "longitude": 7.62122
+    },
+    "4222": {
+      "code": "4222",
+      "region": "Basel-Landschaft",
+      "city": "Zwingen",
+      "latitude": 47.43825,
+      "longitude": 7.53027
+    },
+    "4223": {
+      "code": "4223",
+      "region": "Vaud",
+      "city": "Pully",
+      "latitude": 46.51027,
+      "longitude": 6.66183
+    },
+    "4225": {
+      "code": "4225",
+      "region": "Basel-Landschaft",
+      "city": "Brislach",
+      "latitude": 47.41763,
+      "longitude": 7.5434
+    },
+    "4226": {
+      "code": "4226",
+      "region": "Solothurn",
+      "city": "Breitenbach",
+      "latitude": 47.40564,
+      "longitude": 7.54382
+    },
+    "4242": {
+      "code": "4242",
+      "region": "Basel-Landschaft",
+      "city": "Laufen",
+      "latitude": 47.42193,
+      "longitude": 7.49946
+    },
+    "4246": {
+      "code": "4246",
+      "region": "Basel-Landschaft",
+      "city": "Wahlen",
+      "latitude": 47.40226,
+      "longitude": 7.51511
+    },
+    "4253": {
+      "code": "4253",
+      "region": "Basel-Landschaft",
+      "city": "Liesberg",
+      "latitude": 47.40398,
+      "longitude": 7.42787
+    },
+    "4302": {
+      "code": "4302",
+      "region": "Aargau",
+      "city": "Kaiseraugst",
+      "latitude": 47.53966,
+      "longitude": 7.72605
+    },
+    "4310": {
+      "code": "4310",
+      "region": "Aargau",
+      "city": "Rheinfelden",
+      "latitude": 47.55437,
+      "longitude": 7.79403
+    },
+    "4312": {
+      "code": "4312",
+      "region": "Aargau",
+      "city": "Magden",
+      "latitude": 47.52868,
+      "longitude": 7.81128
+    },
+    "4313": {
+      "code": "4313",
+      "region": "Aargau",
+      "city": "Mohlin",
+      "latitude": 47.55915,
+      "longitude": 7.84329
+    },
+    "4402": {
+      "code": "4402",
+      "region": "Basel-Landschaft",
+      "city": "Frenkendorf",
+      "latitude": 47.50686,
+      "longitude": 7.71648
+    },
+    "4410": {
+      "code": "4410",
+      "region": "Basel-Landschaft",
+      "city": "Liestal",
+      "latitude": 47.48455,
+      "longitude": 7.73446
+    },
+    "4414": {
+      "code": "4414",
+      "region": "Basel-Landschaft",
+      "city": "Pratteln",
+      "latitude": 47.52071,
+      "longitude": 7.69356
+    },
+    "4415": {
+      "code": "4415",
+      "region": "Basel-Landschaft",
+      "city": "Lausen",
+      "latitude": 47.47139,
+      "longitude": 7.7603
+    },
+    "4434": {
+      "code": "4434",
+      "region": "Basel-Landschaft",
+      "city": "Holstein",
+      "latitude": 47.42512,
+      "longitude": 7.77136
+    },
+    "4436": {
+      "code": "4436",
+      "region": "Basel-Landschaft",
+      "city": "Waldenburg",
+      "latitude": 47.38333,
+      "longitude": 7.75
+    },
+    "4437": {
+      "code": "4437",
+      "region": "Basel-Landschaft",
+      "city": "Waldenburg",
+      "latitude": 47.38333,
+      "longitude": 7.75
+    },
+    "4447": {
+      "code": "4447",
+      "region": "Basel-Landschaft",
+      "city": "Kaenerkinden",
+      "latitude": 47.41188,
+      "longitude": 7.83716
+    },
+    "4448": {
+      "code": "4448",
+      "region": "Basel-Landschaft",
+      "city": "Laufelfingen",
+      "latitude": 47.39457,
+      "longitude": 7.85578
+    },
+    "4450": {
+      "code": "4450",
+      "region": "Basel-Landschaft",
+      "city": "Sissach",
+      "latitude": 47.46408,
+      "longitude": 7.80888
+    },
+    "4457": {
+      "code": "4457",
+      "region": "Basel-Landschaft",
+      "city": "Diegten",
+      "latitude": 47.4138,
+      "longitude": 7.81085
+    },
+    "4460": {
+      "code": "4460",
+      "region": "Basel-Landschaft",
+      "city": "Gelterkinden",
+      "latitude": 47.46497,
+      "longitude": 7.85174
+    },
+    "4461": {
+      "code": "4461",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "4463": {
+      "code": "4463",
+      "region": "Basel-Landschaft",
+      "city": "Buus",
+      "latitude": 47.50542,
+      "longitude": 7.86476
+    },
+    "4500": {
+      "code": "4500",
+      "region": "Solothurn",
+      "city": "Solothurn",
+      "latitude": 47.20791,
+      "longitude": 7.53714
+    },
+    "4501": {
+      "code": "4501",
+      "region": "Solothurn",
+      "city": "Solothurn",
+      "latitude": 47.20791,
+      "longitude": 7.53714
+    },
+    "4502": {
+      "code": "4502",
+      "region": "Solothurn",
+      "city": "Solothurn",
+      "latitude": 47.20791,
+      "longitude": 7.53714
+    },
+    "4503": {
+      "code": "4503",
+      "region": "Solothurn",
+      "city": "Solothurn",
+      "latitude": 47.20791,
+      "longitude": 7.53714
+    },
+    "4528": {
+      "code": "4528",
+      "region": "Solothurn",
+      "city": "Zuchwil",
+      "latitude": 47.20173,
+      "longitude": 7.56649
+    },
+    "4543": {
+      "code": "4543",
+      "region": "Solothurn",
+      "city": "Deitingen",
+      "latitude": 47.21579,
+      "longitude": 7.61988
+    },
+    "4552": {
+      "code": "4552",
+      "region": "Solothurn",
+      "city": "Derendingen",
+      "latitude": 47.1985,
+      "longitude": 7.58844
+    },
+    "4563": {
+      "code": "4563",
+      "region": "Solothurn",
+      "city": "Gerlafingen",
+      "latitude": 47.16978,
+      "longitude": 7.57505
+    },
+    "4600": {
+      "code": "4600",
+      "region": "Solothurn",
+      "city": "Olten",
+      "latitude": 47.34999,
+      "longitude": 7.90329
+    },
+    "4601": {
+      "code": "4601",
+      "region": "Solothurn",
+      "city": "Olten",
+      "latitude": 47.34999,
+      "longitude": 7.90329
+    },
+    "4622": {
+      "code": "4622",
+      "region": "Solothurn",
+      "city": "Egerkingen",
+      "latitude": 47.31957,
+      "longitude": 7.78424
+    },
+    "4624": {
+      "code": "4624",
+      "region": "Solothurn",
+      "city": "Solothurn",
+      "latitude": 47.20791,
+      "longitude": 7.53714
+    },
+    "4625": {
+      "code": "4625",
+      "region": "Solothurn",
+      "city": "Oberbuchsiten",
+      "latitude": 47.30508,
+      "longitude": 7.75746
+    },
+    "4629": {
+      "code": "4629",
+      "region": "Aargau",
+      "city": "Fulenbach",
+      "latitude": 47.27496,
+      "longitude": 7.83344
+    },
+    "4632": {
+      "code": "4632",
+      "region": "Solothurn",
+      "city": "Trimbach",
+      "latitude": 47.3656,
+      "longitude": 7.8868
+    },
+    "4663": {
+      "code": "4663",
+      "region": "Aargau",
+      "city": "Aarburg",
+      "latitude": 47.32067,
+      "longitude": 7.89986
+    },
+    "4665": {
+      "code": "4665",
+      "region": "Aargau",
+      "city": "Oftringen",
+      "latitude": 47.31667,
+      "longitude": 7.91667
+    },
+    "4702": {
+      "code": "4702",
+      "region": "Solothurn",
+      "city": "Oensingen",
+      "latitude": 47.28639,
+      "longitude": 7.72305
+    },
+    "4704": {
+      "code": "4704",
+      "region": "Bern",
+      "city": "Niederbipp",
+      "latitude": 47.26613,
+      "longitude": 7.69461
+    },
+    "4710": {
+      "code": "4710",
+      "region": "Solothurn",
+      "city": "Balsthal",
+      "latitude": 47.31613,
+      "longitude": 7.69318
+    },
+    "4712": {
+      "code": "4712",
+      "region": "Solothurn",
+      "city": "Laupersdorf",
+      "latitude": 47.31426,
+      "longitude": 7.65053
+    },
+    "4800": {
+      "code": "4800",
+      "region": "Aargau",
+      "city": "Zofingen",
+      "latitude": 47.28779,
+      "longitude": 7.94586
+    },
+    "4803": {
+      "code": "4803",
+      "region": "Aargau",
+      "city": "Vordemwald",
+      "latitude": 47.27585,
+      "longitude": 7.90114
+    },
+    "4806": {
+      "code": "4806",
+      "region": "Luzern",
+      "city": "Wikon",
+      "latitude": 47.26339,
+      "longitude": 7.96801
+    },
+    "4813": {
+      "code": "4813",
+      "region": "Aargau",
+      "city": "Uerkheim",
+      "latitude": 47.30289,
+      "longitude": 8.02371
+    },
+    "4852": {
+      "code": "4852",
+      "region": "Aargau",
+      "city": "Rothrist",
+      "latitude": 47.30508,
+      "longitude": 7.89196
+    },
+    "4900": {
+      "code": "4900",
+      "region": "Bern",
+      "city": "Langenthal",
+      "latitude": 47.21526,
+      "longitude": 7.79607
+    },
+    "4901": {
+      "code": "4901",
+      "region": "Bern",
+      "city": "Langenthal",
+      "latitude": 47.21526,
+      "longitude": 7.79607
+    },
+    "4917": {
+      "code": "4917",
+      "region": "Bern",
+      "city": "Melchnau",
+      "latitude": 47.18213,
+      "longitude": 7.85128
+    },
+    "4922": {
+      "code": "4922",
+      "region": "Bern",
+      "city": "Herzogenbuchsee",
+      "latitude": 47.18795,
+      "longitude": 7.7062
+    },
+    "4923": {
+      "code": "4923",
+      "region": "Bern",
+      "city": "Wynau",
+      "latitude": 47.2557,
+      "longitude": 7.81626
+    },
+    "4950": {
+      "code": "4950",
+      "region": "Bern",
+      "city": "Huttwil",
+      "latitude": 47.11502,
+      "longitude": 7.86209
+    },
+    "5001": {
+      "code": "5001",
+      "region": "Aargau",
+      "city": "Aarau",
+      "latitude": 47.39254,
+      "longitude": 8.04422
+    },
+    "5012": {
+      "code": "5012",
+      "region": "Zug",
+      "city": "Cham",
+      "latitude": 47.18213,
+      "longitude": 8.46358
+    },
+    "5013": {
+      "code": "5013",
+      "region": "Solothurn",
+      "city": "Niedergosgen",
+      "latitude": 47.37217,
+      "longitude": 7.99122
+    },
+    "5033": {
+      "code": "5033",
+      "region": "Sankt Gallen",
+      "city": "Buchs",
+      "latitude": 47.16743,
+      "longitude": 9.47794
+    },
+    "5034": {
+      "code": "5034",
+      "region": "Aargau",
+      "city": "Suhr",
+      "latitude": 47.37172,
+      "longitude": 8.07967
+    },
+    "5036": {
+      "code": "5036",
+      "region": "Aargau",
+      "city": "Oberentfelden",
+      "latitude": 47.35639,
+      "longitude": 8.04594
+    },
+    "5040": {
+      "code": "5040",
+      "region": "Aargau",
+      "city": "Schoftland",
+      "latitude": 47.30572,
+      "longitude": 8.05138
+    },
+    "5070": {
+      "code": "5070",
+      "region": "Aargau",
+      "city": "Frick",
+      "latitude": 47.5,
+      "longitude": 8.01667
+    },
+    "5073": {
+      "code": "5073",
+      "region": "Aargau",
+      "city": "Gipf-Oberfrick",
+      "latitude": 47.5,
+      "longitude": 8
+    },
+    "5079": {
+      "code": "5079",
+      "region": "Bern",
+      "city": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "5080": {
+      "code": "5080",
+      "region": "Aargau",
+      "city": "Laufenburg",
+      "latitude": 47.55985,
+      "longitude": 8.06225
+    },
+    "5084": {
+      "code": "5084",
+      "region": "Aargau",
+      "city": "Sulz",
+      "latitude": 47.53602,
+      "longitude": 8.09628
+    },
+    "5103": {
+      "code": "5103",
+      "region": "Aargau",
+      "city": "Birr",
+      "latitude": 47.43333,
+      "longitude": 8.2
+    },
+    "5113": {
+      "code": "5113",
+      "region": "Zurich",
+      "city": "Schachen",
+      "latitude": 47.32419,
+      "longitude": 8.47251
+    },
+    "5200": {
+      "code": "5200",
+      "region": "Bern",
+      "city": "Brugg",
+      "latitude": 47.1237,
+      "longitude": 7.27887
+    },
+    "5201": {
+      "code": "5201",
+      "region": "Bern",
+      "city": "Brugg",
+      "latitude": 47.1237,
+      "longitude": 7.27887
+    },
+    "5210": {
+      "code": "5210",
+      "region": "Aargau",
+      "city": "Windisch",
+      "latitude": 47.47899,
+      "longitude": 8.21842
+    },
+    "5232": {
+      "code": "5232",
+      "region": "Aargau",
+      "city": "Villigen",
+      "latitude": 47.52682,
+      "longitude": 8.21486
+    },
+    "5300": {
+      "code": "5300",
+      "region": "Aargau",
+      "city": "Turgi",
+      "latitude": 47.49201,
+      "longitude": 8.25412
+    },
+    "5301": {
+      "code": "5301",
+      "region": "Aargau",
+      "city": "Untersiggenthal",
+      "latitude": 47.50213,
+      "longitude": 8.25554
+    },
+    "5303": {
+      "code": "5303",
+      "region": "Aargau",
+      "city": "Baden",
+      "latitude": 47.47333,
+      "longitude": 8.30592
+    },
+    "5314": {
+      "code": "5314",
+      "region": "Aargau",
+      "city": "Klingnau",
+      "latitude": 47.58333,
+      "longitude": 8.25
+    },
+    "5316": {
+      "code": "5316",
+      "region": "Aargau",
+      "city": "Klingnau",
+      "latitude": 47.58333,
+      "longitude": 8.25
+    },
+    "5322": {
+      "code": "5322",
+      "region": "Aargau",
+      "city": "Koblenz",
+      "latitude": 47.60972,
+      "longitude": 8.2375
+    },
+    "5325": {
+      "code": "5325",
+      "region": "Aargau",
+      "city": "Leibstadt",
+      "latitude": 47.5879,
+      "longitude": 8.17611
+    },
+    "5326": {
+      "code": "5326",
+      "region": "Aargau",
+      "city": "Schwaderloch",
+      "latitude": 47.58541,
+      "longitude": 8.14455
+    },
+    "5330": {
+      "code": "5330",
+      "region": "Aargau",
+      "city": "Bad Zurzach",
+      "latitude": 47.58764,
+      "longitude": 8.29365
+    },
+    "5400": {
+      "code": "5400",
+      "region": "Aargau",
+      "city": "Baden",
+      "latitude": 47.47333,
+      "longitude": 8.30592
+    },
+    "5401": {
+      "code": "5401",
+      "region": "Aargau",
+      "city": "Baden",
+      "latitude": 47.47333,
+      "longitude": 8.30592
+    },
+    "5402": {
+      "code": "5402",
+      "region": "Aargau",
+      "city": "Baden",
+      "latitude": 47.47333,
+      "longitude": 8.30592
+    },
+    "5404": {
+      "code": "5404",
+      "region": "Aargau",
+      "city": "Baden",
+      "latitude": 47.47333,
+      "longitude": 8.30592
+    },
+    "5430": {
+      "code": "5430",
+      "region": "Aargau",
+      "city": "Wettingen",
+      "latitude": 47.4705,
+      "longitude": 8.31636
+    },
+    "5432": {
+      "code": "5432",
+      "region": "Aargau",
+      "city": "Neuenhof",
+      "latitude": 47.45,
+      "longitude": 8.31667
+    },
+    "5453": {
+      "code": "5453",
+      "region": "Aargau",
+      "city": "Kunten",
+      "latitude": 47.3889,
+      "longitude": 8.33105
+    },
+    "5506": {
+      "code": "5506",
+      "region": "Aargau",
+      "city": "Othmarsingen",
+      "latitude": 47.40149,
+      "longitude": 8.21852
+    },
+    "5525": {
+      "code": "5525",
+      "region": "Aargau",
+      "city": "Kunten",
+      "latitude": 47.3889,
+      "longitude": 8.33105
+    },
+    "5600": {
+      "code": "5600",
+      "region": "Aargau",
+      "city": "Lenzburg",
+      "latitude": 47.38853,
+      "longitude": 8.17503
+    },
+    "5606": {
+      "code": "5606",
+      "region": "Aargau",
+      "city": "Dottikon",
+      "latitude": 47.38333,
+      "longitude": 8.23333
+    },
+    "5610": {
+      "code": "5610",
+      "region": "Aargau",
+      "city": "Wohlen",
+      "latitude": 47.35236,
+      "longitude": 8.27877
+    },
+    "5612": {
+      "code": "5612",
+      "region": "Aargau",
+      "city": "Villmergen",
+      "latitude": 47.34917,
+      "longitude": 8.24583
+    },
+    "5620": {
+      "code": "5620",
+      "region": "Aargau",
+      "city": "Bremgarten",
+      "latitude": 47.35109,
+      "longitude": 8.34214
+    },
+    "5634": {
+      "code": "5634",
+      "region": "Aargau",
+      "city": "Merenschwand",
+      "latitude": 47.2587,
+      "longitude": 8.37532
+    },
+    "5642": {
+      "code": "5642",
+      "region": "Aargau",
+      "city": "Merenschwand",
+      "latitude": 47.2587,
+      "longitude": 8.37532
+    },
+    "5643": {
+      "code": "5643",
+      "region": "Aargau",
+      "city": "Sins",
+      "latitude": 47.19216,
+      "longitude": 8.39578
+    },
+    "5704": {
+      "code": "5704",
+      "region": "Aargau",
+      "city": "Egliswil",
+      "latitude": 47.34954,
+      "longitude": 8.18802
+    },
+    "5707": {
+      "code": "5707",
+      "region": "Aargau",
+      "city": "Seengen",
+      "latitude": 47.32852,
+      "longitude": 8.20509
+    },
+    "5724": {
+      "code": "5724",
+      "region": "Aargau",
+      "city": "Durrenasch",
+      "latitude": 47.31812,
+      "longitude": 8.1585
+    },
+    "5734": {
+      "code": "5734",
+      "region": "Aargau",
+      "city": "Reinach",
+      "latitude": 47.26667,
+      "longitude": 8.18333
+    },
+    "5745": {
+      "code": "5745",
+      "region": "Aargau",
+      "city": "Safenwil",
+      "latitude": 47.3214,
+      "longitude": 7.98122
+    },
+    "6000": {
+      "code": "6000",
+      "region": "Luzern",
+      "city": "Luzern",
+      "latitude": 47.05048,
+      "longitude": 8.30635
+    },
+    "6002": {
+      "code": "6002",
+      "region": "Luzern",
+      "city": "Luzern",
+      "latitude": 47.05048,
+      "longitude": 8.30635
+    },
+    "6003": {
+      "code": "6003",
+      "region": "Luzern",
+      "city": "Luzern",
+      "latitude": 47.05048,
+      "longitude": 8.30635
+    },
+    "6004": {
+      "code": "6004",
+      "region": "Luzern",
+      "city": "Luzern",
+      "latitude": 47.05048,
+      "longitude": 8.30635
+    },
+    "6005": {
+      "code": "6005",
+      "region": "Luzern",
+      "city": "Luzern",
+      "latitude": 47.05048,
+      "longitude": 8.30635
+    },
+    "6006": {
+      "code": "6006",
+      "region": "Luzern",
+      "city": "Luzern",
+      "latitude": 47.05048,
+      "longitude": 8.30635
+    },
+    "6010": {
+      "code": "6010",
+      "region": "Luzern",
+      "city": "Kriens",
+      "latitude": 47.03537,
+      "longitude": 8.27631
+    },
+    "6011": {
+      "code": "6011",
+      "region": "Luzern",
+      "city": "Kriens",
+      "latitude": 47.03537,
+      "longitude": 8.27631
+    },
+    "6014": {
+      "code": "6014",
+      "region": "Luzern",
+      "city": "Littau",
+      "latitude": 47.05,
+      "longitude": 8.26274
+    },
+    "6020": {
+      "code": "6020",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "6023": {
+      "code": "6023",
+      "region": "Luzern",
+      "city": "Emmen",
+      "latitude": 47.0811,
+      "longitude": 8.30477
+    },
+    "6030": {
+      "code": "6030",
+      "region": "Luzern",
+      "city": "Ebikon",
+      "latitude": 47.07937,
+      "longitude": 8.34041
+    },
+    "6031": {
+      "code": "6031",
+      "region": "Luzern",
+      "city": "Ebikon",
+      "latitude": 47.07937,
+      "longitude": 8.34041
+    },
+    "6032": {
+      "code": "6032",
+      "region": "Luzern",
+      "city": "Emmen",
+      "latitude": 47.0811,
+      "longitude": 8.30477
+    },
+    "6039": {
+      "code": "6039",
+      "region": "Luzern",
+      "city": "Luzern",
+      "latitude": 47.05048,
+      "longitude": 8.30635
+    },
+    "6048": {
+      "code": "6048",
+      "region": "Luzern",
+      "city": "Luzern",
+      "latitude": 47.05048,
+      "longitude": 8.30635
+    },
+    "6052": {
+      "code": "6052",
+      "region": "Nidwalden",
+      "city": "Hergiswil",
+      "latitude": 46.98429,
+      "longitude": 8.30944
+    },
+    "6053": {
+      "code": "6053",
+      "region": "Obwalden",
+      "city": "Alpnach",
+      "latitude": 46.9402,
+      "longitude": 8.27426
+    },
+    "6060": {
+      "code": "6060",
+      "region": "Obwalden",
+      "city": "Sarnen",
+      "latitude": 46.89851,
+      "longitude": 8.25068
+    },
+    "6061": {
+      "code": "6061",
+      "region": "Obwalden",
+      "city": "Sarnen",
+      "latitude": 46.89851,
+      "longitude": 8.25068
+    },
+    "6062": {
+      "code": "6062",
+      "region": "Obwalden",
+      "city": "Sachseln",
+      "latitude": 46.86718,
+      "longitude": 8.23344
+    },
+    "6064": {
+      "code": "6064",
+      "region": "Obwalden",
+      "city": "Kerns",
+      "latitude": 46.90088,
+      "longitude": 8.27652
+    },
+    "6078": {
+      "code": "6078",
+      "region": "Obwalden",
+      "city": "Giswil",
+      "latitude": 46.83333,
+      "longitude": 8.18065
+    },
+    "6085": {
+      "code": "6085",
+      "region": "Bern",
+      "city": "Meiringen",
+      "latitude": 46.72678,
+      "longitude": 8.18396
+    },
+    "6122": {
+      "code": "6122",
+      "region": "Luzern",
+      "city": "Menznau",
+      "latitude": 47.08364,
+      "longitude": 8.03971
+    },
+    "6130": {
+      "code": "6130",
+      "region": "Luzern",
+      "city": "Willisau",
+      "latitude": 47.12183,
+      "longitude": 7.99418
+    },
+    "6203": {
+      "code": "6203",
+      "region": "Luzern",
+      "city": "Sempach",
+      "latitude": 47.13194,
+      "longitude": 8.19391
+    },
+    "6204": {
+      "code": "6204",
+      "region": "Luzern",
+      "city": "Sempach",
+      "latitude": 47.13194,
+      "longitude": 8.19391
+    },
+    "6207": {
+      "code": "6207",
+      "region": "Luzern",
+      "city": "Nottwil",
+      "latitude": 47.13569,
+      "longitude": 8.13712
+    },
+    "6210": {
+      "code": "6210",
+      "region": "Luzern",
+      "city": "Sursee",
+      "latitude": 47.16667,
+      "longitude": 8.1
+    },
+    "6221": {
+      "code": "6221",
+      "region": "Luzern",
+      "city": "Sursee",
+      "latitude": 47.16667,
+      "longitude": 8.1
+    },
+    "6231": {
+      "code": "6231",
+      "region": "Luzern",
+      "city": "Luzern",
+      "latitude": 47.05048,
+      "longitude": 8.30635
+    },
+    "6246": {
+      "code": "6246",
+      "region": "Luzern",
+      "city": "Altishofen",
+      "latitude": 47.19916,
+      "longitude": 7.96964
+    },
+    "6260": {
+      "code": "6260",
+      "region": "Luzern",
+      "city": "Reiden",
+      "latitude": 47.24719,
+      "longitude": 7.97135
+    },
+    "6264": {
+      "code": "6264",
+      "region": "Luzern",
+      "city": "Pfaffnau",
+      "latitude": 47.22772,
+      "longitude": 7.89719
+    },
+    "6285": {
+      "code": "6285",
+      "region": "Luzern",
+      "city": "Hitzkirch",
+      "latitude": 47.22403,
+      "longitude": 8.26425
+    },
+    "6300": {
+      "code": "6300",
+      "region": "Zug",
+      "city": "Zug",
+      "latitude": 47.17242,
+      "longitude": 8.51744
+    },
+    "6301": {
+      "code": "6301",
+      "region": "Zug",
+      "city": "Zug",
+      "latitude": 47.17242,
+      "longitude": 8.51744
+    },
+    "6302": {
+      "code": "6302",
+      "region": "Zug",
+      "city": "Zug",
+      "latitude": 47.17242,
+      "longitude": 8.51744
+    },
+    "6304": {
+      "code": "6304",
+      "region": "Zug",
+      "city": "Baar",
+      "latitude": 47.19625,
+      "longitude": 8.52954
+    },
+    "6312": {
+      "code": "6312",
+      "region": "Zug",
+      "city": "Steinhausen",
+      "latitude": 47.1951,
+      "longitude": 8.48581
+    },
+    "6314": {
+      "code": "6314",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "6315": {
+      "code": "6315",
+      "region": "Schwyz",
+      "city": "Rothenthurm",
+      "latitude": 47.1042,
+      "longitude": 8.67585
+    },
+    "6317": {
+      "code": "6317",
+      "region": "Zug",
+      "city": "Walchwil",
+      "latitude": 47.10169,
+      "longitude": 8.51693
+    },
+    "6330": {
+      "code": "6330",
+      "region": "Zug",
+      "city": "Steinhausen",
+      "latitude": 47.1951,
+      "longitude": 8.48581
+    },
+    "6331": {
+      "code": "6331",
+      "region": "Zug",
+      "city": "Hunenberg",
+      "latitude": 47.17536,
+      "longitude": 8.42497
+    },
+    "6333": {
+      "code": "6333",
+      "region": "Zug",
+      "city": "Cham",
+      "latitude": 47.18213,
+      "longitude": 8.46358
+    },
+    "6340": {
+      "code": "6340",
+      "region": "Zug",
+      "city": "Baar",
+      "latitude": 47.19625,
+      "longitude": 8.52954
+    },
+    "6341": {
+      "code": "6341",
+      "region": "Zug",
+      "city": "Baar",
+      "latitude": 47.19625,
+      "longitude": 8.52954
+    },
+    "6342": {
+      "code": "6342",
+      "region": "Zug",
+      "city": "Baar",
+      "latitude": 47.19625,
+      "longitude": 8.52954
+    },
+    "6343": {
+      "code": "6343",
+      "region": "Luzern",
+      "city": "Meierskappel",
+      "latitude": 47.12424,
+      "longitude": 8.44436
+    },
+    "6362": {
+      "code": "6362",
+      "region": "Nidwalden",
+      "city": "Stansstad",
+      "latitude": 46.9768,
+      "longitude": 8.33553
+    },
+    "6370": {
+      "code": "6370",
+      "region": "Nidwalden",
+      "city": "Stans",
+      "latitude": 46.95845,
+      "longitude": 8.366
+    },
+    "6371": {
+      "code": "6371",
+      "region": "Nidwalden",
+      "city": "Stans",
+      "latitude": 46.95845,
+      "longitude": 8.366
+    },
+    "6374": {
+      "code": "6374",
+      "region": "Nidwalden",
+      "city": "Buochs",
+      "latitude": 46.97398,
+      "longitude": 8.42279
+    },
+    "6376": {
+      "code": "6376",
+      "region": "Nidwalden",
+      "city": "Beckenried",
+      "latitude": 46.96476,
+      "longitude": 8.47394
+    },
+    "6383": {
+      "code": "6383",
+      "region": "Nidwalden",
+      "city": "Dallenwil",
+      "latitude": 46.9242,
+      "longitude": 8.38785
+    },
+    "6390": {
+      "code": "6390",
+      "region": "Obwalden",
+      "city": "Engelberg",
+      "latitude": 46.82107,
+      "longitude": 8.40133
+    },
+    "6403": {
+      "code": "6403",
+      "region": "Schwyz",
+      "city": "Kussnacht",
+      "latitude": 47.08557,
+      "longitude": 8.44206
+    },
+    "6410": {
+      "code": "6410",
+      "region": "Schwyz",
+      "city": "Goldau",
+      "latitude": 47.04761,
+      "longitude": 8.54616
+    },
+    "6415": {
+      "code": "6415",
+      "region": "Schwyz",
+      "city": "Arth",
+      "latitude": 47.06337,
+      "longitude": 8.52348
+    },
+    "6422": {
+      "code": "6422",
+      "region": "Schwyz",
+      "city": "Steinen",
+      "latitude": 47.04976,
+      "longitude": 8.61214
+    },
+    "6423": {
+      "code": "6423",
+      "region": "Schwyz",
+      "city": "Ingenbohl",
+      "latitude": 47.00464,
+      "longitude": 8.61477
+    },
+    "6430": {
+      "code": "6430",
+      "region": "Schwyz",
+      "city": "Schwyz",
+      "latitude": 47.02786,
+      "longitude": 8.65611
+    },
+    "6431": {
+      "code": "6431",
+      "region": "Schwyz",
+      "city": "Ibach",
+      "latitude": 47.01105,
+      "longitude": 8.64538
+    },
+    "6438": {
+      "code": "6438",
+      "region": "Schwyz",
+      "city": "Ibach",
+      "latitude": 47.01105,
+      "longitude": 8.64538
+    },
+    "6440": {
+      "code": "6440",
+      "region": "Schwyz",
+      "city": "Ingenbohl",
+      "latitude": 47.00464,
+      "longitude": 8.61477
+    },
+    "6442": {
+      "code": "6442",
+      "region": "Schwyz",
+      "city": "Gersau",
+      "latitude": 46.99419,
+      "longitude": 8.525
+    },
+    "6460": {
+      "code": "6460",
+      "region": "Uri",
+      "city": "Altdorf",
+      "latitude": 46.88042,
+      "longitude": 8.64441
+    },
+    "6467": {
+      "code": "6467",
+      "region": "Uri",
+      "city": "Attinghausen",
+      "latitude": 46.86255,
+      "longitude": 8.63036
+    },
+    "6474": {
+      "code": "6474",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "6490": {
+      "code": "6490",
+      "region": "Uri",
+      "city": "Andermatt",
+      "latitude": 46.63565,
+      "longitude": 8.59388
+    },
+    "6500": {
+      "code": "6500",
+      "region": "Ticino",
+      "city": "Bellinzona",
+      "latitude": 46.19278,
+      "longitude": 9.01703
+    },
+    "6501": {
+      "code": "6501",
+      "region": "Ticino",
+      "city": "Bellinzona",
+      "latitude": 46.19278,
+      "longitude": 9.01703
+    },
+    "6506": {
+      "code": "6506",
+      "region": "Ticino",
+      "city": "Bellinzona",
+      "latitude": 46.19278,
+      "longitude": 9.01703
+    },
+    "6512": {
+      "code": "6512",
+      "region": "Ticino",
+      "city": "Giubiasco",
+      "latitude": 46.17246,
+      "longitude": 9.00793
+    },
+    "6513": {
+      "code": "6513",
+      "region": "Ticino",
+      "city": "Monte Carasso",
+      "latitude": 46.18649,
+      "longitude": 8.99892
+    },
+    "6534": {
+      "code": "6534",
+      "region": "Ticino",
+      "city": "Lumino",
+      "latitude": 46.23072,
+      "longitude": 9.06634
+    },
+    "6563": {
+      "code": "6563",
+      "region": "Graubunden",
+      "city": "Mesocco",
+      "latitude": 46.39037,
+      "longitude": 9.23323
+    },
+    "6600": {
+      "code": "6600",
+      "region": "Ticino",
+      "city": "Muralto",
+      "latitude": 46.166667,
+      "longitude": 8.8
+    },
+    "6601": {
+      "code": "6601",
+      "region": "Ticino",
+      "city": "Locarno",
+      "latitude": 46.17086,
+      "longitude": 8.79953
+    },
+    "6605": {
+      "code": "6605",
+      "region": "Ticino",
+      "city": "Muralto",
+      "latitude": 46.166667,
+      "longitude": 8.8
+    },
+    "6648": {
+      "code": "6648",
+      "region": "Ticino",
+      "city": "Minusio",
+      "latitude": 46.17769,
+      "longitude": 8.81473
+    },
+    "6675": {
+      "code": "6675",
+      "region": "Ticino",
+      "city": "Cevio",
+      "latitude": 46.31608,
+      "longitude": 8.60131
+    },
+    "6710": {
+      "code": "6710",
+      "region": "Ticino",
+      "city": "Biasca",
+      "latitude": 46.35972,
+      "longitude": 8.96965
+    },
+    "6716": {
+      "code": "6716",
+      "region": "Ticino",
+      "city": "Acquarossa",
+      "latitude": 46.45176,
+      "longitude": 8.93999
+    },
+    "6721": {
+      "code": "6721",
+      "region": "Ticino",
+      "city": "Malvaglia",
+      "latitude": 46.41282,
+      "longitude": 8.97921
+    },
+    "6743": {
+      "code": "6743",
+      "region": "Ticino",
+      "city": "Bodio",
+      "latitude": 46.37808,
+      "longitude": 8.90991
+    },
+    "6760": {
+      "code": "6760",
+      "region": "Ticino",
+      "city": "Faido",
+      "latitude": 46.477,
+      "longitude": 8.80125
+    },
+    "6802": {
+      "code": "6802",
+      "region": "Ticino",
+      "city": "Cadenazzo",
+      "latitude": 46.15108,
+      "longitude": 8.94199
+    },
+    "6818": {
+      "code": "6818",
+      "region": "Ticino",
+      "city": "Melano",
+      "latitude": 45.9221,
+      "longitude": 8.98544
+    },
+    "6830": {
+      "code": "6830",
+      "region": "Ticino",
+      "city": "Chiasso",
+      "latitude": 45.83203,
+      "longitude": 9.03119
+    },
+    "6834": {
+      "code": "6834",
+      "region": "Ticino",
+      "city": "Balerna",
+      "latitude": 45.84882,
+      "longitude": 9.01416
+    },
+    "6850": {
+      "code": "6850",
+      "region": "Ticino",
+      "city": "Mendrisio",
+      "latitude": 45.86741,
+      "longitude": 8.9821
+    },
+    "6852": {
+      "code": "6852",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "6853": {
+      "code": "6853",
+      "region": "Ticino",
+      "city": "Ligornetto",
+      "latitude": 45.86148,
+      "longitude": 8.95446
+    },
+    "6854": {
+      "code": "6854",
+      "region": "Ticino",
+      "city": "Stabio",
+      "latitude": 45.85099,
+      "longitude": 8.93918
+    },
+    "6855": {
+      "code": "6855",
+      "region": "Ticino",
+      "city": "Stabio",
+      "latitude": 45.85099,
+      "longitude": 8.93918
+    },
+    "6874": {
+      "code": "6874",
+      "region": "Ticino",
+      "city": "Castel San Pietro",
+      "latitude": 45.86061,
+      "longitude": 9.00932
+    },
+    "6883": {
+      "code": "6883",
+      "region": "Ticino",
+      "city": "Novazzano",
+      "latitude": 45.84073,
+      "longitude": 8.98236
+    },
+    "6900": {
+      "code": "6900",
+      "region": "Ticino",
+      "city": "Lugano",
+      "latitude": 46.01008,
+      "longitude": 8.96004
+    },
+    "6901": {
+      "code": "6901",
+      "region": "Ticino",
+      "city": "Lugano",
+      "latitude": 46.01008,
+      "longitude": 8.96004
+    },
+    "6902": {
+      "code": "6902",
+      "region": "Ticino",
+      "city": "Lugano",
+      "latitude": 46.01008,
+      "longitude": 8.96004
+    },
+    "6904": {
+      "code": "6904",
+      "region": "Ticino",
+      "city": "Pregassona",
+      "latitude": 46.02021,
+      "longitude": 8.97429
+    },
+    "6908": {
+      "code": "6908",
+      "region": "Ticino",
+      "city": "Lugano",
+      "latitude": 46.01008,
+      "longitude": 8.96004
+    },
+    "6921": {
+      "code": "6921",
+      "region": "Ticino",
+      "city": "Melide",
+      "latitude": 45.95455,
+      "longitude": 8.94725
+    },
+    "6928": {
+      "code": "6928",
+      "region": "Ticino",
+      "city": "Gravesano",
+      "latitude": 46.04208,
+      "longitude": 8.91832
+    },
+    "6929": {
+      "code": "6929",
+      "region": "Ticino",
+      "city": "Gravesano",
+      "latitude": 46.04208,
+      "longitude": 8.91832
+    },
+    "6930": {
+      "code": "6930",
+      "region": "Jura",
+      "city": "Alle",
+      "latitude": 47.42618,
+      "longitude": 7.12911
+    },
+    "6932": {
+      "code": "6932",
+      "region": "Ticino",
+      "city": "Sorengo",
+      "latitude": 45.99855,
+      "longitude": 8.93713
+    },
+    "6934": {
+      "code": "6934",
+      "region": "Ticino",
+      "city": "Bioggio",
+      "latitude": 46.01667,
+      "longitude": 8.88333
+    },
+    "6962": {
+      "code": "6962",
+      "region": "Ticino",
+      "city": "Viganello",
+      "latitude": 46.01342,
+      "longitude": 8.96879
+    },
+    "6963": {
+      "code": "6963",
+      "region": "Ticino",
+      "city": "Pregassona",
+      "latitude": 46.02021,
+      "longitude": 8.97429
+    },
+    "6982": {
+      "code": "6982",
+      "region": "Ticino",
+      "city": "Agno",
+      "latitude": 45.98333,
+      "longitude": 8.85
+    },
+    "6987": {
+      "code": "6987",
+      "region": "Ticino",
+      "city": "Caslano",
+      "latitude": 45.97153,
+      "longitude": 8.88261
+    },
+    "6989": {
+      "code": "6989",
+      "region": "Ticino",
+      "city": "Agno",
+      "latitude": 45.98333,
+      "longitude": 8.85
+    },
+    "6990": {
+      "code": "6990",
+      "region": "Ticino",
+      "city": "Agno",
+      "latitude": 45.98333,
+      "longitude": 8.85
+    },
+    "6994": {
+      "code": "6994",
+      "region": "Ticino",
+      "city": "Bioggio",
+      "latitude": 46.01667,
+      "longitude": 8.88333
+    },
+    "7000": {
+      "code": "7000",
+      "region": "Graubunden",
+      "city": "Chur",
+      "latitude": 46.84986,
+      "longitude": 9.53287
+    },
+    "7001": {
+      "code": "7001",
+      "region": "Graubunden",
+      "city": "Chur",
+      "latitude": 46.84986,
+      "longitude": 9.53287
+    },
+    "7004": {
+      "code": "7004",
+      "region": "Graubunden",
+      "city": "Chur",
+      "latitude": 46.84986,
+      "longitude": 9.53287
+    },
+    "7006": {
+      "code": "7006",
+      "region": "Graubunden",
+      "city": "Chur",
+      "latitude": 46.84986,
+      "longitude": 9.53287
+    },
+    "7013": {
+      "code": "7013",
+      "region": "Graubunden",
+      "city": "Domat",
+      "latitude": 46.83483,
+      "longitude": 9.45075
+    },
+    "7017": {
+      "code": "7017",
+      "region": "Zurich",
+      "city": "Dorf",
+      "latitude": 47.23715,
+      "longitude": 8.73999
+    },
+    "7018": {
+      "code": "7018",
+      "region": "Graubunden",
+      "city": "Flims",
+      "latitude": 46.83705,
+      "longitude": 9.28458
+    },
+    "7031": {
+      "code": "7031",
+      "region": "Graubunden",
+      "city": "Laax",
+      "latitude": 46.80452,
+      "longitude": 9.25787
+    },
+    "7050": {
+      "code": "7050",
+      "region": "Graubunden",
+      "city": "Arosa",
+      "latitude": 46.77793,
+      "longitude": 9.67621
+    },
+    "7130": {
+      "code": "7130",
+      "region": "Graubunden",
+      "city": "Ilanz",
+      "latitude": 46.77413,
+      "longitude": 9.20461
+    },
+    "7163": {
+      "code": "7163",
+      "region": "Graubunden",
+      "city": "Breil",
+      "latitude": 46.76986,
+      "longitude": 9.06036
+    },
+    "7166": {
+      "code": "7166",
+      "region": "Graubunden",
+      "city": "Trun",
+      "latitude": 46.74292,
+      "longitude": 8.98716
+    },
+    "7180": {
+      "code": "7180",
+      "region": "Graubunden",
+      "city": "Disentis",
+      "latitude": 46.70341,
+      "longitude": 8.8509
+    },
+    "7183": {
+      "code": "7183",
+      "region": "Graubunden",
+      "city": "Disentis",
+      "latitude": 46.70341,
+      "longitude": 8.8509
+    },
+    "7205": {
+      "code": "7205",
+      "region": "Graubunden",
+      "city": "Zizers",
+      "latitude": 46.93575,
+      "longitude": 9.56491
+    },
+    "7214": {
+      "code": "7214",
+      "region": "Graubunden",
+      "city": "Grusch",
+      "latitude": 46.97965,
+      "longitude": 9.64639
+    },
+    "7223": {
+      "code": "7223",
+      "region": "Graubunden",
+      "city": "Jenaz",
+      "latitude": 46.92892,
+      "longitude": 9.71275
+    },
+    "7242": {
+      "code": "7242",
+      "region": "Graubunden",
+      "city": "Luzein",
+      "latitude": 46.91957,
+      "longitude": 9.7608
+    },
+    "7249": {
+      "code": "7249",
+      "region": "Graubunden",
+      "city": "Klosters Serneus",
+      "latitude": 46.88918,
+      "longitude": 9.83826
+    },
+    "7260": {
+      "code": "7260",
+      "region": "Graubunden",
+      "city": "Davos",
+      "latitude": 46.80429,
+      "longitude": 9.83723
+    },
+    "7270": {
+      "code": "7270",
+      "region": "Graubunden",
+      "city": "Davos",
+      "latitude": 46.80429,
+      "longitude": 9.83723
+    },
+    "7302": {
+      "code": "7302",
+      "region": "Graubunden",
+      "city": "Landquart",
+      "latitude": 46.95,
+      "longitude": 9.56667
+    },
+    "7304": {
+      "code": "7304",
+      "region": "Graubunden",
+      "city": "Maienfeld",
+      "latitude": 47.00472,
+      "longitude": 9.53115
+    },
+    "7310": {
+      "code": "7310",
+      "region": "Sankt Gallen",
+      "city": "Bad Ragaz",
+      "latitude": 47.00601,
+      "longitude": 9.50266
+    },
+    "7320": {
+      "code": "7320",
+      "region": "Sankt Gallen",
+      "city": "Sargans",
+      "latitude": 47.04896,
+      "longitude": 9.44103
+    },
+    "7422": {
+      "code": "7422",
+      "region": "Graubunden",
+      "city": "Cazis",
+      "latitude": 46.72308,
+      "longitude": 9.42881
+    },
+    "7425": {
+      "code": "7425",
+      "region": "Graubunden",
+      "city": "Thusis",
+      "latitude": 46.69724,
+      "longitude": 9.43938
+    },
+    "7430": {
+      "code": "7430",
+      "region": "Graubunden",
+      "city": "Thusis",
+      "latitude": 46.69724,
+      "longitude": 9.43938
+    },
+    "7437": {
+      "code": "7437",
+      "region": "Graubunden",
+      "city": "Hinterrhein",
+      "latitude": 46.53333,
+      "longitude": 9.2
+    },
+    "7500": {
+      "code": "7500",
+      "region": "Graubunden",
+      "city": "Saint Moritz",
+      "latitude": 46.4984,
+      "longitude": 9.83909
+    },
+    "7503": {
+      "code": "7503",
+      "region": "Graubunden",
+      "city": "Samaden",
+      "latitude": 46.53417,
+      "longitude": 9.87122
+    },
+    "7505": {
+      "code": "7505",
+      "region": "Graubunden",
+      "city": "Celerina",
+      "latitude": 46.51452,
+      "longitude": 9.8583
+    },
+    "7524": {
+      "code": "7524",
+      "region": "Graubunden",
+      "city": "Zuoz",
+      "latitude": 46.60209,
+      "longitude": 9.95885
+    },
+    "7530": {
+      "code": "7530",
+      "region": "Graubunden",
+      "city": "Zernez",
+      "latitude": 46.70087,
+      "longitude": 10.09461
+    },
+    "7552": {
+      "code": "7552",
+      "region": "Graubunden",
+      "city": "Scuol",
+      "latitude": 46.79676,
+      "longitude": 10.30595
+    },
+    "7742": {
+      "code": "7742",
+      "region": "Graubunden",
+      "city": "Poschiavo",
+      "latitude": 46.3244,
+      "longitude": 10.05721
+    },
+    "7743": {
+      "code": "7743",
+      "region": "Graubunden",
+      "city": "Brusio",
+      "latitude": 46.25767,
+      "longitude": 10.12604
+    },
+    "8000": {
+      "code": "8000",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8001": {
+      "code": "8001",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8002": {
+      "code": "8002",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8003": {
+      "code": "8003",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8004": {
+      "code": "8004",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8005": {
+      "code": "8005",
+      "region": "Zurich",
+      "city": "Zuerich (Kreis 5)",
+      "latitude": 47.38767,
+      "longitude": 8.52152
+    },
+    "8006": {
+      "code": "8006",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8008": {
+      "code": "8008",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8010": {
+      "code": "8010",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8012": {
+      "code": "8012",
+      "region": "Zurich",
+      "city": "Schlieren",
+      "latitude": 47.39668,
+      "longitude": 8.44763
+    },
+    "8021": {
+      "code": "8021",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8022": {
+      "code": "8022",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8023": {
+      "code": "8023",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8024": {
+      "code": "8024",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8026": {
+      "code": "8026",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8027": {
+      "code": "8027",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8031": {
+      "code": "8031",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8032": {
+      "code": "8032",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8033": {
+      "code": "8033",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8034": {
+      "code": "8034",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8036": {
+      "code": "8036",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8037": {
+      "code": "8037",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8038": {
+      "code": "8038",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8039": {
+      "code": "8039",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8040": {
+      "code": "8040",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8044": {
+      "code": "8044",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8045": {
+      "code": "8045",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8046": {
+      "code": "8046",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8047": {
+      "code": "8047",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8048": {
+      "code": "8048",
+      "region": "Zurich",
+      "city": "Zuerich (Kreis 9) / Altstetten",
+      "latitude": 47.38946,
+      "longitude": 8.48533
+    },
+    "8049": {
+      "code": "8049",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8050": {
+      "code": "8050",
+      "region": "Zurich",
+      "city": "Zuerich (Kreis 11) / Oerlikon",
+      "latitude": 47.40823,
+      "longitude": 8.54258
+    },
+    "8051": {
+      "code": "8051",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8052": {
+      "code": "8052",
+      "region": "Zurich",
+      "city": "Zuerich (Kreis 11) / Seebach",
+      "latitude": 47.42181,
+      "longitude": 8.54779
+    },
+    "8053": {
+      "code": "8053",
+      "region": "Zurich",
+      "city": "Zuerich (Kreis 7) / Witikon",
+      "latitude": 47.35751,
+      "longitude": 8.59105
+    },
+    "8057": {
+      "code": "8057",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8058": {
+      "code": "8058",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8060": {
+      "code": "8060",
+      "region": "Zurich",
+      "city": "Kloten",
+      "latitude": 47.45152,
+      "longitude": 8.58491
+    },
+    "8070": {
+      "code": "8070",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8080": {
+      "code": "8080",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8081": {
+      "code": "8081",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8090": {
+      "code": "8090",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8091": {
+      "code": "8091",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8092": {
+      "code": "8092",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8099": {
+      "code": "8099",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8102": {
+      "code": "8102",
+      "region": "Zurich",
+      "city": "Oberengstringen / Zentrum",
+      "latitude": 47.40711,
+      "longitude": 8.46276
+    },
+    "8105": {
+      "code": "8105",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8106": {
+      "code": "8106",
+      "region": "Zurich",
+      "city": "Regensdorf",
+      "latitude": 47.4341,
+      "longitude": 8.46874
+    },
+    "8107": {
+      "code": "8107",
+      "region": "Zurich",
+      "city": "Dietikon",
+      "latitude": 47.40165,
+      "longitude": 8.40015
+    },
+    "8108": {
+      "code": "8108",
+      "region": "Zurich",
+      "city": "Daellikon / Daellikon (Dorf)",
+      "latitude": 47.43983,
+      "longitude": 8.43813
+    },
+    "8112": {
+      "code": "8112",
+      "region": "Zurich",
+      "city": "Otelfingen",
+      "latitude": 47.46053,
+      "longitude": 8.39141
+    },
+    "8117": {
+      "code": "8117",
+      "region": "Zurich",
+      "city": "Fallanden",
+      "latitude": 47.37169,
+      "longitude": 8.63869
+    },
+    "8122": {
+      "code": "8122",
+      "region": "Thurgau",
+      "city": "Amriswil",
+      "latitude": 47.54699,
+      "longitude": 9.29836
+    },
+    "8125": {
+      "code": "8125",
+      "region": "Zurich",
+      "city": "Zollikerberg",
+      "latitude": 47.3451,
+      "longitude": 8.60088
+    },
+    "8126": {
+      "code": "8126",
+      "region": "Zurich",
+      "city": "Zumikon",
+      "latitude": 47.33158,
+      "longitude": 8.62271
+    },
+    "8132": {
+      "code": "8132",
+      "region": "Zurich",
+      "city": "Egg",
+      "latitude": 47.29976,
+      "longitude": 8.69032
+    },
+    "8133": {
+      "code": "8133",
+      "region": "Zurich",
+      "city": "Esslingen",
+      "latitude": 47.28325,
+      "longitude": 8.71038
+    },
+    "8134": {
+      "code": "8134",
+      "region": "Zurich",
+      "city": "Adliswil",
+      "latitude": 47.30997,
+      "longitude": 8.52462
+    },
+    "8142": {
+      "code": "8142",
+      "region": "Zurich",
+      "city": "Uitikon",
+      "latitude": 47.36911,
+      "longitude": 8.45699
+    },
+    "8152": {
+      "code": "8152",
+      "region": "Zurich",
+      "city": "Opfikon",
+      "latitude": 47.43169,
+      "longitude": 8.57588
+    },
+    "8153": {
+      "code": "8153",
+      "region": "Zurich",
+      "city": "Rumlang",
+      "latitude": 47.45041,
+      "longitude": 8.52993
+    },
+    "8154": {
+      "code": "8154",
+      "region": "Zurich",
+      "city": "Oberglatt",
+      "latitude": 47.47576,
+      "longitude": 8.51896
+    },
+    "8157": {
+      "code": "8157",
+      "region": "Zurich",
+      "city": "Dielsdorf",
+      "latitude": 47.48146,
+      "longitude": 8.4585
+    },
+    "8162": {
+      "code": "8162",
+      "region": "Zurich",
+      "city": "Steinmaur",
+      "latitude": 47.4971,
+      "longitude": 8.45216
+    },
+    "8165": {
+      "code": "8165",
+      "region": "Zurich",
+      "city": "Otelfingen",
+      "latitude": 47.46053,
+      "longitude": 8.39141
+    },
+    "8166": {
+      "code": "8166",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8180": {
+      "code": "8180",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8184": {
+      "code": "8184",
+      "region": "Zurich",
+      "city": "Bachenbulach",
+      "latitude": 47.50317,
+      "longitude": 8.54556
+    },
+    "8185": {
+      "code": "8185",
+      "region": "Zurich",
+      "city": "Bachenbulach",
+      "latitude": 47.50317,
+      "longitude": 8.54556
+    },
+    "8192": {
+      "code": "8192",
+      "region": "Zurich",
+      "city": "Glattfelden",
+      "latitude": 47.55871,
+      "longitude": 8.50167
+    },
+    "8200": {
+      "code": "8200",
+      "region": "Schaffhausen",
+      "city": "Schaffhausen",
+      "latitude": 47.69732,
+      "longitude": 8.63493
+    },
+    "8201": {
+      "code": "8201",
+      "region": "Schaffhausen",
+      "city": "Schaffhausen",
+      "latitude": 47.69732,
+      "longitude": 8.63493
+    },
+    "8205": {
+      "code": "8205",
+      "region": "Schaffhausen",
+      "city": "Schaffhausen",
+      "latitude": 47.69732,
+      "longitude": 8.63493
+    },
+    "8207": {
+      "code": "8207",
+      "region": "Schaffhausen",
+      "city": "Schaffhausen",
+      "latitude": 47.69732,
+      "longitude": 8.63493
+    },
+    "8212": {
+      "code": "8212",
+      "region": "Zurich",
+      "city": "Dachsen",
+      "latitude": 47.66515,
+      "longitude": 8.6179
+    },
+    "8215": {
+      "code": "8215",
+      "region": "Schaffhausen",
+      "city": "Hallau",
+      "latitude": 47.69648,
+      "longitude": 8.45827
+    },
+    "8217": {
+      "code": "8217",
+      "region": "Schaffhausen",
+      "city": "Wilchingen",
+      "latitude": 47.66746,
+      "longitude": 8.46774
+    },
+    "8222": {
+      "code": "8222",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8226": {
+      "code": "8226",
+      "region": "Schaffhausen",
+      "city": "Schleitheim",
+      "latitude": 47.74818,
+      "longitude": 8.48213
+    },
+    "8253": {
+      "code": "8253",
+      "region": "Thurgau",
+      "city": "Diessenhofen",
+      "latitude": 47.68908,
+      "longitude": 8.74958
+    },
+    "8260": {
+      "code": "8260",
+      "region": "Schaffhausen",
+      "city": "Stein am Rhein",
+      "latitude": 47.65933,
+      "longitude": 8.85964
+    },
+    "8262": {
+      "code": "8262",
+      "region": "Schaffhausen",
+      "city": "Stein am Rhein",
+      "latitude": 47.65933,
+      "longitude": 8.85964
+    },
+    "8266": {
+      "code": "8266",
+      "region": "Thurgau",
+      "city": "Steckborn",
+      "latitude": 47.66667,
+      "longitude": 8.98333
+    },
+    "8274": {
+      "code": "8274",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8280": {
+      "code": "8280",
+      "region": "Thurgau",
+      "city": "Kreuzlingen",
+      "latitude": 47.65,
+      "longitude": 9.18333
+    },
+    "8285": {
+      "code": "8285",
+      "region": "Thurgau",
+      "city": "Kreuzlingen",
+      "latitude": 47.65,
+      "longitude": 9.18333
+    },
+    "8301": {
+      "code": "8301",
+      "region": "Zurich",
+      "city": "Bruttisellen",
+      "latitude": 47.42173,
+      "longitude": 8.63263
+    },
+    "8302": {
+      "code": "8302",
+      "region": "Zurich",
+      "city": "Kloten",
+      "latitude": 47.45152,
+      "longitude": 8.58491
+    },
+    "8303": {
+      "code": "8303",
+      "region": "Zurich",
+      "city": "Bassersdorf",
+      "latitude": 47.44342,
+      "longitude": 8.62851
+    },
+    "8304": {
+      "code": "8304",
+      "region": "Zurich",
+      "city": "Wallisellen",
+      "latitude": 47.41499,
+      "longitude": 8.59672
+    },
+    "8305": {
+      "code": "8305",
+      "region": "Zurich",
+      "city": "Dietlikon / Dietlikon (Dorf)",
+      "latitude": 47.41827,
+      "longitude": 8.6188
+    },
+    "8306": {
+      "code": "8306",
+      "region": "Zurich",
+      "city": "Bruttisellen",
+      "latitude": 47.42173,
+      "longitude": 8.63263
+    },
+    "8307": {
+      "code": "8307",
+      "region": "Zurich",
+      "city": "Effretikon",
+      "latitude": 47.42575,
+      "longitude": 8.69094
+    },
+    "8320": {
+      "code": "8320",
+      "region": "Zurich",
+      "city": "Fehraltorf",
+      "latitude": 47.38775,
+      "longitude": 8.75149
+    },
+    "8330": {
+      "code": "8330",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8340": {
+      "code": "8340",
+      "region": "Zurich",
+      "city": "Hinwil",
+      "latitude": 47.29426,
+      "longitude": 8.84393
+    },
+    "8355": {
+      "code": "8355",
+      "region": "Thurgau",
+      "city": "Aadorf",
+      "latitude": 47.49204,
+      "longitude": 8.90099
+    },
+    "8370": {
+      "code": "8370",
+      "region": "Thurgau",
+      "city": "Sirnach",
+      "latitude": 47.46222,
+      "longitude": 8.99763
+    },
+    "8376": {
+      "code": "8376",
+      "region": "Thurgau",
+      "city": "Fischingen",
+      "latitude": 47.41428,
+      "longitude": 8.96914
+    },
+    "8400": {
+      "code": "8400",
+      "region": "Zurich",
+      "city": "Stadt Winterthur (Kreis 1) / Toessfeld",
+      "latitude": 47.4934,
+      "longitude": 8.71512
+    },
+    "8401": {
+      "code": "8401",
+      "region": "Zurich",
+      "city": "Winterthur",
+      "latitude": 47.5,
+      "longitude": 8.75
+    },
+    "8404": {
+      "code": "8404",
+      "region": "Zurich",
+      "city": "Winterthur",
+      "latitude": 47.5,
+      "longitude": 8.75
+    },
+    "8405": {
+      "code": "8405",
+      "region": "Zurich",
+      "city": "Winterthur",
+      "latitude": 47.5,
+      "longitude": 8.75
+    },
+    "8406": {
+      "code": "8406",
+      "region": "Zurich",
+      "city": "Winterthur",
+      "latitude": 47.5,
+      "longitude": 8.75
+    },
+    "8408": {
+      "code": "8408",
+      "region": "Zurich",
+      "city": "Winterthur",
+      "latitude": 47.5,
+      "longitude": 8.75
+    },
+    "8409": {
+      "code": "8409",
+      "region": "Zurich",
+      "city": "Winterthur",
+      "latitude": 47.5,
+      "longitude": 8.75
+    },
+    "8411": {
+      "code": "8411",
+      "region": "Zurich",
+      "city": "Winterthur",
+      "latitude": 47.5,
+      "longitude": 8.75
+    },
+    "8413": {
+      "code": "8413",
+      "region": "Zurich",
+      "city": "Neftenbach / Dorf Neftenbach",
+      "latitude": 47.52764,
+      "longitude": 8.6649
+    },
+    "8424": {
+      "code": "8424",
+      "region": "Zurich",
+      "city": "Embrach",
+      "latitude": 47.50561,
+      "longitude": 8.59406
+    },
+    "8472": {
+      "code": "8472",
+      "region": "Zurich",
+      "city": "Seuzach Dorf",
+      "latitude": 47.5356,
+      "longitude": 8.73209
+    },
+    "8474": {
+      "code": "8474",
+      "region": "Zurich",
+      "city": "Sulz",
+      "latitude": 47.53954,
+      "longitude": 8.78887
+    },
+    "8475": {
+      "code": "8475",
+      "region": "Zurich",
+      "city": "Kleinandelfingen",
+      "latitude": 47.60058,
+      "longitude": 8.68362
+    },
+    "8483": {
+      "code": "8483",
+      "region": "Zurich",
+      "city": "Kollbrunn",
+      "latitude": 47.45793,
+      "longitude": 8.78295
+    },
+    "8500": {
+      "code": "8500",
+      "region": "Thurgau",
+      "city": "Frauenfeld",
+      "latitude": 47.55816,
+      "longitude": 8.89854
+    },
+    "8508": {
+      "code": "8508",
+      "region": "Thurgau",
+      "city": "Homburg",
+      "latitude": 47.63466,
+      "longitude": 9.0079
+    },
+    "8542": {
+      "code": "8542",
+      "region": "Zurich",
+      "city": "Wiesendangen / Wiesendangen (Dorf)",
+      "latitude": 47.5217,
+      "longitude": 8.78967
+    },
+    "8570": {
+      "code": "8570",
+      "region": "Thurgau",
+      "city": "Weinfelden",
+      "latitude": 47.56667,
+      "longitude": 9.1
+    },
+    "8580": {
+      "code": "8580",
+      "region": "Thurgau",
+      "city": "Amriswil",
+      "latitude": 47.54699,
+      "longitude": 9.29836
+    },
+    "8586": {
+      "code": "8586",
+      "region": "Thurgau",
+      "city": "Erlen",
+      "latitude": 47.54832,
+      "longitude": 9.23366
+    },
+    "8590": {
+      "code": "8590",
+      "region": "Thurgau",
+      "city": "Romanshorn",
+      "latitude": 47.56586,
+      "longitude": 9.37869
+    },
+    "8592": {
+      "code": "8592",
+      "region": "Thurgau",
+      "city": "Uttwil",
+      "latitude": 47.5836,
+      "longitude": 9.3424
+    },
+    "8598": {
+      "code": "8598",
+      "region": "Thurgau",
+      "city": "Bottighofen",
+      "latitude": 47.63641,
+      "longitude": 9.20884
+    },
+    "8599": {
+      "code": "8599",
+      "region": "Thurgau",
+      "city": "Salmsach",
+      "latitude": 47.55696,
+      "longitude": 9.36889
+    },
+    "8600": {
+      "code": "8600",
+      "region": "Zurich",
+      "city": "Wallisellen",
+      "latitude": 47.41499,
+      "longitude": 8.59672
+    },
+    "8602": {
+      "code": "8602",
+      "region": "Zurich",
+      "city": "Wangen",
+      "latitude": 47.41182,
+      "longitude": 8.64516
+    },
+    "8603": {
+      "code": "8603",
+      "region": "Zurich",
+      "city": "Schwerzenbach",
+      "latitude": 47.38213,
+      "longitude": 8.65727
+    },
+    "8604": {
+      "code": "8604",
+      "region": "Zurich",
+      "city": "Hegnau / Sunnebueel-Eich",
+      "latitude": 47.39246,
+      "longitude": 8.6791
+    },
+    "8606": {
+      "code": "8606",
+      "region": "Zurich",
+      "city": "Greifensee",
+      "latitude": 47.36717,
+      "longitude": 8.68115
+    },
+    "8607": {
+      "code": "8607",
+      "region": "Zurich",
+      "city": "Wallisellen",
+      "latitude": 47.41499,
+      "longitude": 8.59672
+    },
+    "8608": {
+      "code": "8608",
+      "region": "Zurich",
+      "city": "Bubikon",
+      "latitude": 47.26698,
+      "longitude": 8.8179
+    },
+    "8610": {
+      "code": "8610",
+      "region": "Zurich",
+      "city": "Uster",
+      "latitude": 47.34713,
+      "longitude": 8.72091
+    },
+    "8620": {
+      "code": "8620",
+      "region": "Zurich",
+      "city": "Wetzikon",
+      "latitude": 47.3264,
+      "longitude": 8.79779
+    },
+    "8621": {
+      "code": "8621",
+      "region": "Zurich",
+      "city": "Wetzikon",
+      "latitude": 47.3264,
+      "longitude": 8.79779
+    },
+    "8625": {
+      "code": "8625",
+      "region": "Zurich",
+      "city": "Gossau",
+      "latitude": 47.3051,
+      "longitude": 8.75831
+    },
+    "8627": {
+      "code": "8627",
+      "region": "Zurich",
+      "city": "Binzikon",
+      "latitude": 47.27949,
+      "longitude": 8.75842
+    },
+    "8630": {
+      "code": "8630",
+      "region": "Zurich",
+      "city": "Rueti / Oberdorf",
+      "latitude": 47.25894,
+      "longitude": 8.86512
+    },
+    "8632": {
+      "code": "8632",
+      "region": "Zurich",
+      "city": "Tann",
+      "latitude": 47.26898,
+      "longitude": 8.85024
+    },
+    "8633": {
+      "code": "8633",
+      "region": "Zurich",
+      "city": "Wolfhausen",
+      "latitude": 47.25619,
+      "longitude": 8.7991
+    },
+    "8640": {
+      "code": "8640",
+      "region": "Sankt Gallen",
+      "city": "Rapperswil",
+      "latitude": 47.22557,
+      "longitude": 8.82228
+    },
+    "8645": {
+      "code": "8645",
+      "region": "Sankt Gallen",
+      "city": "Jona",
+      "latitude": 47.22983,
+      "longitude": 8.83884
+    },
+    "8700": {
+      "code": "8700",
+      "region": "Zurich",
+      "city": "Kuesnacht",
+      "latitude": 47.31805,
+      "longitude": 8.58401
+    },
+    "8702": {
+      "code": "8702",
+      "region": "Zurich",
+      "city": "Zollikon",
+      "latitude": 47.34019,
+      "longitude": 8.57407
+    },
+    "8704": {
+      "code": "8704",
+      "region": "Zurich",
+      "city": "Herrliberg",
+      "latitude": 47.29064,
+      "longitude": 8.61464
+    },
+    "8707": {
+      "code": "8707",
+      "region": "Zurich",
+      "city": "Uetikon",
+      "latitude": 47.26441,
+      "longitude": 8.67925
+    },
+    "8708": {
+      "code": "8708",
+      "region": "Zurich",
+      "city": "Maennedorf / Dorfkern",
+      "latitude": 47.25612,
+      "longitude": 8.69161
+    },
+    "8712": {
+      "code": "8712",
+      "region": "Zurich",
+      "city": "Stafa",
+      "latitude": 47.24254,
+      "longitude": 8.72342
+    },
+    "8717": {
+      "code": "8717",
+      "region": "Sankt Gallen",
+      "city": "Benken",
+      "latitude": 47.19842,
+      "longitude": 9.00434
+    },
+    "8718": {
+      "code": "8718",
+      "region": "Sankt Gallen",
+      "city": "Schanis",
+      "latitude": 47.15799,
+      "longitude": 9.04736
+    },
+    "8722": {
+      "code": "8722",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8730": {
+      "code": "8730",
+      "region": "Sankt Gallen",
+      "city": "Uznach",
+      "latitude": 47.22421,
+      "longitude": 8.98263
+    },
+    "8735": {
+      "code": "8735",
+      "region": "Sankt Gallen",
+      "city": "Goldingen",
+      "latitude": 47.26277,
+      "longitude": 8.96627
+    },
+    "8737": {
+      "code": "8737",
+      "region": "Sankt Gallen",
+      "city": "Gommiswald",
+      "latitude": 47.23128,
+      "longitude": 9.02355
+    },
+    "8750": {
+      "code": "8750",
+      "region": "Glarus",
+      "city": "Glarus",
+      "latitude": 47.04057,
+      "longitude": 9.06804
+    },
+    "8752": {
+      "code": "8752",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8753": {
+      "code": "8753",
+      "region": "Glarus",
+      "city": "Mollis",
+      "latitude": 47.09418,
+      "longitude": 9.07542
+    },
+    "8754": {
+      "code": "8754",
+      "region": "Glarus",
+      "city": "Netstal",
+      "latitude": 47.06197,
+      "longitude": 9.05534
+    },
+    "8772": {
+      "code": "8772",
+      "region": "Glarus",
+      "city": "Schwanden",
+      "latitude": 46.99541,
+      "longitude": 9.0701
+    },
+    "8775": {
+      "code": "8775",
+      "region": "Glarus",
+      "city": "Luchsingen",
+      "latitude": 46.9664,
+      "longitude": 9.03715
+    },
+    "8782": {
+      "code": "8782",
+      "region": "Glarus",
+      "city": "Linthal",
+      "latitude": 46.92127,
+      "longitude": 8.99799
+    },
+    "8800": {
+      "code": "8800",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8801": {
+      "code": "8801",
+      "region": "Zurich",
+      "city": "Thalwil",
+      "latitude": 47.29748,
+      "longitude": 8.55634
+    },
+    "8802": {
+      "code": "8802",
+      "region": "Zurich",
+      "city": "Kilchberg",
+      "latitude": 47.32438,
+      "longitude": 8.54548
+    },
+    "8803": {
+      "code": "8803",
+      "region": "Zurich",
+      "city": "Thalwil",
+      "latitude": 47.29748,
+      "longitude": 8.55634
+    },
+    "8805": {
+      "code": "8805",
+      "region": "Zurich",
+      "city": "Richterswil",
+      "latitude": 47.20622,
+      "longitude": 8.69686
+    },
+    "8806": {
+      "code": "8806",
+      "region": "Schwyz",
+      "city": "Wollerau",
+      "latitude": 47.19478,
+      "longitude": 8.71903
+    },
+    "8807": {
+      "code": "8807",
+      "region": "Schwyz",
+      "city": "Freienbach",
+      "latitude": 47.20534,
+      "longitude": 8.75842
+    },
+    "8812": {
+      "code": "8812",
+      "region": "Zurich",
+      "city": "Horgen",
+      "latitude": 47.25579,
+      "longitude": 8.60027
+    },
+    "8820": {
+      "code": "8820",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8832": {
+      "code": "8832",
+      "region": "Schwyz",
+      "city": "Wollerau",
+      "latitude": 47.19478,
+      "longitude": 8.71903
+    },
+    "8833": {
+      "code": "8833",
+      "region": "Zurich",
+      "city": "Richterswil / Burghalde",
+      "latitude": 47.20973,
+      "longitude": 8.69133
+    },
+    "8834": {
+      "code": "8834",
+      "region": "Schwyz",
+      "city": "Schindellegi",
+      "latitude": 47.1746,
+      "longitude": 8.71345
+    },
+    "8840": {
+      "code": "8840",
+      "region": "Schwyz",
+      "city": "Einsiedeln",
+      "latitude": 47.11667,
+      "longitude": 8.75
+    },
+    "8842": {
+      "code": "8842",
+      "region": "Schwyz",
+      "city": "Unteriberg",
+      "latitude": 47.05,
+      "longitude": 8.78333
+    },
+    "8852": {
+      "code": "8852",
+      "region": "Schwyz",
+      "city": "Lachen",
+      "latitude": 47.19152,
+      "longitude": 8.8562
+    },
+    "8853": {
+      "code": "8853",
+      "region": "Schwyz",
+      "city": "Lachen",
+      "latitude": 47.19152,
+      "longitude": 8.8562
+    },
+    "8854": {
+      "code": "8854",
+      "region": "Schwyz",
+      "city": "Lachen",
+      "latitude": 47.19152,
+      "longitude": 8.8562
+    },
+    "8856": {
+      "code": "8856",
+      "region": "Schwyz",
+      "city": "Tuggen",
+      "latitude": 47.20291,
+      "longitude": 8.94366
+    },
+    "8857": {
+      "code": "8857",
+      "region": "Schwyz",
+      "city": "Vorderthal",
+      "latitude": 47.12092,
+      "longitude": 8.90185
+    },
+    "8862": {
+      "code": "8862",
+      "region": "Schwyz",
+      "city": "Schubelbach",
+      "latitude": 47.17326,
+      "longitude": 8.92811
+    },
+    "8864": {
+      "code": "8864",
+      "region": "Schwyz",
+      "city": "Reichenburg",
+      "latitude": 47.16747,
+      "longitude": 8.98304
+    },
+    "8865": {
+      "code": "8865",
+      "region": "Glarus",
+      "city": "Bilten",
+      "latitude": 47.15099,
+      "longitude": 9.02821
+    },
+    "8866": {
+      "code": "8866",
+      "region": "Glarus",
+      "city": "Niederurnen",
+      "latitude": 47.12598,
+      "longitude": 9.05428
+    },
+    "8868": {
+      "code": "8868",
+      "region": "Glarus",
+      "city": "Oberurnen",
+      "latitude": 47.11412,
+      "longitude": 9.05866
+    },
+    "8872": {
+      "code": "8872",
+      "region": "Sankt Gallen",
+      "city": "Weesen",
+      "latitude": 47.13447,
+      "longitude": 9.09644
+    },
+    "8873": {
+      "code": "8873",
+      "region": "Sankt Gallen",
+      "city": "Amden",
+      "latitude": 47.14888,
+      "longitude": 9.14233
+    },
+    "8880": {
+      "code": "8880",
+      "region": "Sankt Gallen",
+      "city": "Walenstadt",
+      "latitude": 47.12411,
+      "longitude": 9.31194
+    },
+    "8883": {
+      "code": "8883",
+      "region": "Sankt Gallen",
+      "city": "Quarten",
+      "latitude": 47.10016,
+      "longitude": 9.23401
+    },
+    "8890": {
+      "code": "8890",
+      "region": "Sankt Gallen",
+      "city": "Flums",
+      "latitude": 47.09058,
+      "longitude": 9.34301
+    },
+    "8902": {
+      "code": "8902",
+      "region": "Zurich",
+      "city": "Urdorf / Oberurdorf",
+      "latitude": 47.38072,
+      "longitude": 8.42343
+    },
+    "8903": {
+      "code": "8903",
+      "region": "Zurich",
+      "city": "Birmensdorf",
+      "latitude": 47.35515,
+      "longitude": 8.44256
+    },
+    "8906": {
+      "code": "8906",
+      "region": "Zurich",
+      "city": "Bonstetten",
+      "latitude": 47.31505,
+      "longitude": 8.46836
+    },
+    "8916": {
+      "code": "8916",
+      "region": "Aargau",
+      "city": "Jonen",
+      "latitude": 47.2974,
+      "longitude": 8.39337
+    },
+    "8953": {
+      "code": "8953",
+      "region": "Zurich",
+      "city": "Dietikon",
+      "latitude": 47.40165,
+      "longitude": 8.40015
+    },
+    "8954": {
+      "code": "8954",
+      "region": "Zurich",
+      "city": "Geroldswil",
+      "latitude": 47.42213,
+      "longitude": 8.41085
+    },
+    "8957": {
+      "code": "8957",
+      "region": "Aargau",
+      "city": "Spreitenbach",
+      "latitude": 47.42016,
+      "longitude": 8.36301
+    },
+    "8966": {
+      "code": "8966",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "8967": {
+      "code": "8967",
+      "region": "Aargau",
+      "city": "Bremgarten",
+      "latitude": 47.35109,
+      "longitude": 8.34214
+    },
+    "8970": {
+      "code": "8970",
+      "region": "Zurich",
+      "city": "Urdorf / Oberurdorf",
+      "latitude": 47.38072,
+      "longitude": 8.42343
+    },
+    "9000": {
+      "code": "9000",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "9001": {
+      "code": "9001",
+      "region": "Sankt Gallen",
+      "city": "Sankt Gallen",
+      "latitude": 47.42391,
+      "longitude": 9.37477
+    },
+    "9004": {
+      "code": "9004",
+      "region": "Sankt Gallen",
+      "city": "Morschwil",
+      "latitude": 47.46867,
+      "longitude": 9.42178
+    },
+    "9007": {
+      "code": "9007",
+      "region": "Sankt Gallen",
+      "city": "Morschwil",
+      "latitude": 47.46867,
+      "longitude": 9.42178
+    },
+    "9015": {
+      "code": "9015",
+      "region": "Appenzell Ausserrhoden",
+      "city": "Herisau",
+      "latitude": 47.38615,
+      "longitude": 9.27916
+    },
+    "9038": {
+      "code": "9038",
+      "region": "Appenzell Ausserrhoden",
+      "city": "Rehetobel",
+      "latitude": 47.42611,
+      "longitude": 9.483
+    },
+    "9042": {
+      "code": "9042",
+      "region": "Appenzell Ausserrhoden",
+      "city": "Speicher",
+      "latitude": 47.4109,
+      "longitude": 9.44335
+    },
+    "9050": {
+      "code": "9050",
+      "region": "Appenzell Innerrhoden",
+      "city": "Appenzell",
+      "latitude": 47.33103,
+      "longitude": 9.40996
+    },
+    "9053": {
+      "code": "9053",
+      "region": "Appenzell Ausserrhoden",
+      "city": "Teufen",
+      "latitude": 47.3908,
+      "longitude": 9.38644
+    },
+    "9055": {
+      "code": "9055",
+      "region": "Appenzell Ausserrhoden",
+      "city": "Buhler",
+      "latitude": 47.37348,
+      "longitude": 9.42507
+    },
+    "9056": {
+      "code": "9056",
+      "region": "Appenzell Ausserrhoden",
+      "city": "Gais",
+      "latitude": 47.3615,
+      "longitude": 9.45356
+    },
+    "9064": {
+      "code": "9064",
+      "region": "Appenzell Innerrhoden",
+      "city": "Gonten",
+      "latitude": 47.32725,
+      "longitude": 9.34705
+    },
+    "9100": {
+      "code": "9100",
+      "region": "Sankt Gallen",
+      "city": "Waldkirch",
+      "latitude": 47.46859,
+      "longitude": 9.28605
+    },
+    "9102": {
+      "code": "9102",
+      "region": "Appenzell Ausserrhoden",
+      "city": "Herisau",
+      "latitude": 47.38615,
+      "longitude": 9.27916
+    },
+    "9103": {
+      "code": "9103",
+      "region": "Appenzell Ausserrhoden",
+      "city": "Schwellbrunn",
+      "latitude": 47.35255,
+      "longitude": 9.24894
+    },
+    "9104": {
+      "code": "9104",
+      "region": "Appenzell Ausserrhoden",
+      "city": "Waldstatt",
+      "latitude": 47.35627,
+      "longitude": 9.28345
+    },
+    "9107": {
+      "code": "9107",
+      "region": "Appenzell Ausserrhoden",
+      "city": "Urnasch",
+      "latitude": 47.31669,
+      "longitude": 9.2825
+    },
+    "9113": {
+      "code": "9113",
+      "region": "Sankt Gallen",
+      "city": "Degersheim",
+      "latitude": 47.37429,
+      "longitude": 9.20019
+    },
+    "9200": {
+      "code": "9200",
+      "region": "Zurich",
+      "city": "Gossau",
+      "latitude": 47.3051,
+      "longitude": 8.75831
+    },
+    "9212": {
+      "code": "9212",
+      "region": "Sankt Gallen",
+      "city": "Gossau",
+      "latitude": 47.41694,
+      "longitude": 9.25125
+    },
+    "9230": {
+      "code": "9230",
+      "region": "Sankt Gallen",
+      "city": "Flawil",
+      "latitude": 47.41461,
+      "longitude": 9.18284
+    },
+    "9240": {
+      "code": "9240",
+      "region": "Sankt Gallen",
+      "city": "Uzwil",
+      "latitude": 47.43813,
+      "longitude": 9.13922
+    },
+    "9244": {
+      "code": "9244",
+      "region": "Sankt Gallen",
+      "city": "Uzwil",
+      "latitude": 47.43813,
+      "longitude": 9.13922
+    },
+    "9246": {
+      "code": "9246",
+      "region": "Sankt Gallen",
+      "city": "Niederburen",
+      "latitude": 47.46547,
+      "longitude": 9.20568
+    },
+    "9301": {
+      "code": "9301",
+      "region": "Sankt Gallen",
+      "city": "Wittenbach",
+      "latitude": 47.46308,
+      "longitude": 9.37761
+    },
+    "9320": {
+      "code": "9320",
+      "region": "Thurgau",
+      "city": "Arbon",
+      "latitude": 47.51667,
+      "longitude": 9.43333
+    },
+    "9322": {
+      "code": "9322",
+      "region": "Thurgau",
+      "city": "Egnach",
+      "latitude": 47.54264,
+      "longitude": 9.38
+    },
+    "9325": {
+      "code": "9325",
+      "region": "Thurgau",
+      "city": "Roggwil",
+      "latitude": 47.49981,
+      "longitude": 9.3958
+    },
+    "9326": {
+      "code": "9326",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "9327": {
+      "code": "9327",
+      "region": "Sankt Gallen",
+      "city": "Horn",
+      "latitude": 47.49425,
+      "longitude": 9.46246
+    },
+    "9400": {
+      "code": "9400",
+      "region": "Sankt Gallen",
+      "city": "Rorschach",
+      "latitude": 47.478,
+      "longitude": 9.4903
+    },
+    "9402": {
+      "code": "9402",
+      "region": "Sankt Gallen",
+      "city": "Morschwil",
+      "latitude": 47.46867,
+      "longitude": 9.42178
+    },
+    "9410": {
+      "code": "9410",
+      "region": "Appenzell Ausserrhoden",
+      "city": "Heiden",
+      "latitude": 47.44255,
+      "longitude": 9.53293
+    },
+    "9424": {
+      "code": "9424",
+      "region": "Sankt Gallen",
+      "city": "Rheineck",
+      "latitude": 47.4663,
+      "longitude": 9.59028
+    },
+    "9425": {
+      "code": "9425",
+      "region": "Sankt Gallen",
+      "city": "Rheineck",
+      "latitude": 47.4663,
+      "longitude": 9.59028
+    },
+    "9428": {
+      "code": "9428",
+      "region": "Appenzell Ausserrhoden",
+      "city": "Walzenhausen",
+      "latitude": 47.45007,
+      "longitude": 9.60495
+    },
+    "9430": {
+      "code": "9430",
+      "region": "Sankt Gallen",
+      "city": "Sankt Margrethen",
+      "latitude": 47.45253,
+      "longitude": 9.63741
+    },
+    "9435": {
+      "code": "9435",
+      "region": "Appenzell Innerrhoden",
+      "city": "Balgach",
+      "latitude": 47.40544,
+      "longitude": 9.6095
+    },
+    "9436": {
+      "code": "9436",
+      "region": "Appenzell Innerrhoden",
+      "city": "Balgach",
+      "latitude": 47.40544,
+      "longitude": 9.6095
+    },
+    "9443": {
+      "code": "9443",
+      "region": "Appenzell Innerrhoden",
+      "city": "Balgach",
+      "latitude": 47.40544,
+      "longitude": 9.6095
+    },
+    "9444": {
+      "code": "9444",
+      "region": "Sankt Gallen",
+      "city": "Diepoldsau",
+      "latitude": 47.386,
+      "longitude": 9.65558
+    },
+    "9450": {
+      "code": "9450",
+      "region": "Sankt Gallen",
+      "city": "Altstatten",
+      "latitude": 47.37766,
+      "longitude": 9.54746
+    },
+    "9453": {
+      "code": "9453",
+      "region": "Sankt Gallen",
+      "city": "Eichberg",
+      "latitude": 47.34304,
+      "longitude": 9.5299
+    },
+    "9462": {
+      "code": "9462",
+      "region": "Sankt Gallen",
+      "city": "Oberriet",
+      "latitude": 47.31988,
+      "longitude": 9.56608
+    },
+    "9463": {
+      "code": "9463",
+      "region": "Sankt Gallen",
+      "city": "Oberriet",
+      "latitude": 47.31988,
+      "longitude": 9.56608
+    },
+    "9470": {
+      "code": "9470",
+      "region": "Sankt Gallen",
+      "city": "Buchs",
+      "latitude": 47.16743,
+      "longitude": 9.47794
+    },
+    "9471": {
+      "code": "9471",
+      "region": "Sankt Gallen",
+      "city": "Buchs",
+      "latitude": 47.16743,
+      "longitude": 9.47794
+    },
+    "9472": {
+      "code": "9472",
+      "region": "Sankt Gallen",
+      "city": "Grabs",
+      "latitude": 47.18248,
+      "longitude": 9.44395
+    },
+    "9500": {
+      "code": "9500",
+      "region": "Sankt Gallen",
+      "city": "Wil",
+      "latitude": 47.46152,
+      "longitude": 9.04552
+    },
+    "9502": {
+      "code": "9502",
+      "region": "Zurich",
+      "city": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    "9512": {
+      "code": "9512",
+      "region": "Sankt Gallen",
+      "city": "Wil",
+      "latitude": 47.46152,
+      "longitude": 9.04552
+    },
+    "9532": {
+      "code": "9532",
+      "region": "Sankt Gallen",
+      "city": "Wil",
+      "latitude": 47.46152,
+      "longitude": 9.04552
+    },
+    "9630": {
+      "code": "9630",
+      "region": "Sankt Gallen",
+      "city": "Wattwil",
+      "latitude": 47.30225,
+      "longitude": 9.08757
+    },
+    "9631": {
+      "code": "9631",
+      "region": "Sankt Gallen",
+      "city": "Ebnat-Kappel",
+      "latitude": 47.26195,
+      "longitude": 9.12473
+    },
+    "9652": {
+      "code": "9652",
+      "region": "Sankt Gallen",
+      "city": "Krummenau",
+      "latitude": 47.24755,
+      "longitude": 9.17054
+    }
+  }
+}
