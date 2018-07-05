@@ -1,0 +1,251 @@
+{
+  "id": "BY",
+  "country": "Belarus",
+  "postal": {
+    "220000": {
+      "code": "220000",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220002": {
+      "code": "220002",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220004": {
+      "code": "220004",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220005": {
+      "code": "220005",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220007": {
+      "code": "220007",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220010": {
+      "code": "220010",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220012": {
+      "code": "220012",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220016": {
+      "code": "220016",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220020": {
+      "code": "220020",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220023": {
+      "code": "220023",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220024": {
+      "code": "220024",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220030": {
+      "code": "220030",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220033": {
+      "code": "220033",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220034": {
+      "code": "220034",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220043": {
+      "code": "220043",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220048": {
+      "code": "220048",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220050": {
+      "code": "220050",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220070": {
+      "code": "220070",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220072": {
+      "code": "220072",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220073": {
+      "code": "220073",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220088": {
+      "code": "220088",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220089": {
+      "code": "220089",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220094": {
+      "code": "220094",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220100": {
+      "code": "220100",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220102": {
+      "code": "220102",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220113": {
+      "code": "220113",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220121": {
+      "code": "220121",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220138": {
+      "code": "220138",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220717": {
+      "code": "220717",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "220728": {
+      "code": "220728",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "222030": {
+      "code": "222030",
+      "region": "Minskaya voblasts'",
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "224016": {
+      "code": "224016",
+      "region": "Brestskaya voblasts'",
+      "city": "Brest",
+      "latitude": 52.09755,
+      "longitude": 23.68775
+    },
+    "224030": {
+      "code": "224030",
+      "region": "Brestskaya voblasts'",
+      "city": "Brest",
+      "latitude": 52.09755,
+      "longitude": 23.68775
+    },
+    "246712": {
+      "code": "246712",
+      "region": "Brestskaya voblasts'",
+      "city": "Brest",
+      "latitude": 52.09755,
+      "longitude": 23.68775
+    },
+    "": {
+      "code": "",
+      "region": "Hrodzenskaya voblasts'",
+      "city": "Hrodna",
+      "latitude": 53.6884,
+      "longitude": 23.8258
+    }
+  }
+}
