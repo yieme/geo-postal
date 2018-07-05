@@ -1,0 +1,69 @@
+{
+  "id": "GI",
+  "country": "Gibraltar",
+  "postal": {
+    "16": {
+      "code": "16",
+      "region": "Gibraltar",
+      "city": "Gibraltar",
+      "latitude": 36.14474,
+      "longitude": -5.35257
+    },
+    "21": {
+      "code": "21",
+      "region": "Gibraltar",
+      "city": "Gibraltar",
+      "latitude": 36.14474,
+      "longitude": -5.35257
+    },
+    "50": {
+      "code": "50",
+      "region": "Gibraltar",
+      "city": "Gibraltar",
+      "latitude": 36.14474,
+      "longitude": -5.35257
+    },
+    "701": {
+      "code": "701",
+      "region": "Gibraltar",
+      "city": "Gibraltar",
+      "latitude": 36.14474,
+      "longitude": -5.35257
+    },
+    "711": {
+      "code": "711",
+      "region": "Gibraltar",
+      "city": "Gibraltar",
+      "latitude": 36.14474,
+      "longitude": -5.35257
+    },
+    "901": {
+      "code": "901",
+      "region": "Gibraltar",
+      "city": "Gibraltar",
+      "latitude": 36.14474,
+      "longitude": -5.35257
+    },
+    "951": {
+      "code": "951",
+      "region": "Gibraltar",
+      "city": "Gibraltar",
+      "latitude": 36.14474,
+      "longitude": -5.35257
+    },
+    "1010": {
+      "code": "1010",
+      "region": "Gibraltar",
+      "city": "Gibraltar",
+      "latitude": 36.14474,
+      "longitude": -5.35257
+    },
+    "GX11 1AA": {
+      "code": "GX11 1AA",
+      "region": "Gibraltar",
+      "city": "Gibraltar",
+      "latitude": 36.14474,
+      "longitude": -5.35257
+    }
+  }
+}
