@@ -1,0 +1,48 @@
+{
+  "id": "VC",
+  "country": "Saint Vincent and The Grenadines",
+  "postal": {
+    "103": {
+      "code": "103",
+      "region": "Saint George",
+      "city": "Kingstown",
+      "latitude": 13.15872,
+      "longitude": -61.22475
+    },
+    "VC0120": {
+      "code": "VC0120",
+      "region": "Saint George",
+      "city": "Kingstown",
+      "latitude": 13.15872,
+      "longitude": -61.22475
+    },
+    "VC0212": {
+      "code": "VC0212",
+      "region": "Charlotte",
+      "city": "Georgetown",
+      "latitude": 13.2879,
+      "longitude": -61.1302
+    },
+    "": {
+      "code": "",
+      "region": "Saint David",
+      "city": "Rosehall",
+      "latitude": 13.2725,
+      "longitude": -61.2423
+    },
+    "VC": {
+      "code": "VC",
+      "region": "Saint George",
+      "city": "Kingstown",
+      "latitude": 13.15872,
+      "longitude": -61.22475
+    },
+    "VC0260": {
+      "code": "VC0260",
+      "region": "Charlotte",
+      "city": "Biabou",
+      "latitude": 13.2,
+      "longitude": -61.13333
+    }
+  }
+}
