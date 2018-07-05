@@ -1,0 +1,818 @@
+{
+  "id": "AM",
+  "country": "Armenia",
+  "postal": {
+    "1109": {
+      "code": "1109",
+      "region": "Armavir",
+      "city": "Ejmiatsin",
+      "latitude": 40.16557,
+      "longitude": 44.29462
+    },
+    "1114": {
+      "code": "1114",
+      "region": "Aragacotn",
+      "city": "Aygeshat",
+      "latitude": 40.23571,
+      "longitude": 44.28692
+    },
+    "1117": {
+      "code": "1117",
+      "region": "Armavir",
+      "city": "Apaga",
+      "latitude": 40.09666,
+      "longitude": 44.25157
+    },
+    "1123": {
+      "code": "1123",
+      "region": "Aragacotn",
+      "city": "Norakert",
+      "latitude": 40.19229,
+      "longitude": 44.34774
+    },
+    "1128": {
+      "code": "1128",
+      "region": "Aragacotn",
+      "city": "Doghs",
+      "latitude": 40.22373,
+      "longitude": 44.27171
+    },
+    "1205": {
+      "code": "1205",
+      "region": "Gegark'unik'",
+      "city": "Gavarr",
+      "latitude": 40.35398,
+      "longitude": 45.12386
+    },
+    "1315": {
+      "code": "1315",
+      "region": "Gegark'unik'",
+      "city": "Martuni",
+      "latitude": 40.13768,
+      "longitude": 45.3045
+    },
+    "1318": {
+      "code": "1318",
+      "region": "Gegark'unik'",
+      "city": "Chambarak",
+      "latitude": 40.59655,
+      "longitude": 45.35498
+    },
+    "1403": {
+      "code": "1403",
+      "region": "Gegark'unik'",
+      "city": "Astghadzor",
+      "latitude": 40.12248,
+      "longitude": 45.35698
+    },
+    "1408": {
+      "code": "1408",
+      "region": "Gegark'unik'",
+      "city": "T'azagyugh",
+      "latitude": 40.1382,
+      "longitude": 45.19096
+    },
+    "1414": {
+      "code": "1414",
+      "region": "Gegark'unik'",
+      "city": "Nerk'in Getashen",
+      "latitude": 40.14046,
+      "longitude": 45.279
+    },
+    "1416": {
+      "code": "1416",
+      "region": "Gegark'unik'",
+      "city": "Vaghashen",
+      "latitude": 40.13578,
+      "longitude": 45.32879
+    },
+    "1417": {
+      "code": "1417",
+      "region": "Erevan",
+      "city": "Vardadzor",
+      "latitude": 40.18701,
+      "longitude": 45.19212
+    },
+    "1505": {
+      "code": "1505",
+      "region": "Gegark'unik'",
+      "city": "Sevan",
+      "latitude": 40.5484,
+      "longitude": 44.94868
+    },
+    "1506": {
+      "code": "1506",
+      "region": "Gegark'unik'",
+      "city": "Gagarin",
+      "latitude": 40.54031,
+      "longitude": 44.86918
+    },
+    "1509": {
+      "code": "1509",
+      "region": "Gegark'unik'",
+      "city": "Zovaber",
+      "latitude": 40.56693,
+      "longitude": 44.78827
+    },
+    "1512": {
+      "code": "1512",
+      "region": "Gegark'unik'",
+      "city": "Tsovagyugh",
+      "latitude": 40.63029,
+      "longitude": 44.95738
+    },
+    "1618": {
+      "code": "1618",
+      "region": "Gegark'unik'",
+      "city": "Mets Masrik",
+      "latitude": 40.21825,
+      "longitude": 45.76809
+    },
+    "1711": {
+      "code": "1711",
+      "region": "Lori",
+      "city": "Verin Akhtala",
+      "latitude": 41.16838,
+      "longitude": 44.75811
+    },
+    "1712": {
+      "code": "1712",
+      "region": "Lori",
+      "city": "Dsegh",
+      "latitude": 40.9617,
+      "longitude": 44.65003
+    },
+    "1722": {
+      "code": "1722",
+      "region": "Lori",
+      "city": "Alaverdi",
+      "latitude": 41.09766,
+      "longitude": 44.67316
+    },
+    "1728": {
+      "code": "1728",
+      "region": "Lori",
+      "city": "Shnogh",
+      "latitude": 41.14693,
+      "longitude": 44.84043
+    },
+    "1731": {
+      "code": "1731",
+      "region": "Lori",
+      "city": "Odzun",
+      "latitude": 41.05321,
+      "longitude": 44.61341
+    },
+    "1807": {
+      "code": "1807",
+      "region": "Lori",
+      "city": "Arevashogh",
+      "latitude": 40.86039,
+      "longitude": 44.27438
+    },
+    "1811": {
+      "code": "1811",
+      "region": "Lori",
+      "city": "Jrashen",
+      "latitude": 40.79028,
+      "longitude": 44.18664
+    },
+    "1910": {
+      "code": "1910",
+      "region": "Lori",
+      "city": "Gyulagarak",
+      "latitude": 40.96715,
+      "longitude": 44.47144
+    },
+    "1917": {
+      "code": "1917",
+      "region": "Lori",
+      "city": "Urrut",
+      "latitude": 41.06778,
+      "longitude": 44.39628
+    },
+    "2023": {
+      "code": "2023",
+      "region": "Lori",
+      "city": "Vanadzor",
+      "latitude": 40.80456,
+      "longitude": 44.4939
+    },
+    "2028": {
+      "code": "2028",
+      "region": "Lori",
+      "city": "Bazum",
+      "latitude": 40.86763,
+      "longitude": 44.43978
+    },
+    "2029": {
+      "code": "2029",
+      "region": "Lori",
+      "city": "Gugark'",
+      "latitude": 40.8046,
+      "longitude": 44.54025
+    },
+    "2030": {
+      "code": "2030",
+      "region": "Lori",
+      "city": "Darpas",
+      "latitude": 40.83674,
+      "longitude": 44.42494
+    },
+    "2038": {
+      "code": "2038",
+      "region": "Lori",
+      "city": "Shahumyan",
+      "latitude": 40.77482,
+      "longitude": 44.54596
+    },
+    "2103": {
+      "code": "2103",
+      "region": "Lori",
+      "city": "Tashir",
+      "latitude": 41.12072,
+      "longitude": 44.28462
+    },
+    "2104": {
+      "code": "2104",
+      "region": "Aragacotn",
+      "city": "Arteni",
+      "latitude": 40.29848,
+      "longitude": 43.7622
+    },
+    "2112": {
+      "code": "2112",
+      "region": "Lori",
+      "city": "Metsavan",
+      "latitude": 41.20156,
+      "longitude": 44.22877
+    },
+    "2208": {
+      "code": "2208",
+      "region": "Kotayk'",
+      "city": "Abovyan",
+      "latitude": 40.26741,
+      "longitude": 44.62656
+    },
+    "2215": {
+      "code": "2215",
+      "region": "Kotayk'",
+      "city": "Garrni",
+      "latitude": 40.11931,
+      "longitude": 44.73442
+    },
+    "2240": {
+      "code": "2240",
+      "region": "Erevan",
+      "city": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "2309": {
+      "code": "2309",
+      "region": "Kotayk'",
+      "city": "Hrazdan",
+      "latitude": 40.49748,
+      "longitude": 44.7662
+    },
+    "2310": {
+      "code": "2310",
+      "region": "Kotayk'",
+      "city": "Tsaghkadzor",
+      "latitude": 40.53259,
+      "longitude": 44.72025
+    },
+    "2413": {
+      "code": "2413",
+      "region": "Kotayk'",
+      "city": "Prroshyan",
+      "latitude": 40.24853,
+      "longitude": 44.41631
+    },
+    "2415": {
+      "code": "2415",
+      "region": "Aragacotn",
+      "city": "Kasakh",
+      "latitude": 40.53697,
+      "longitude": 44.41046
+    },
+    "2504": {
+      "code": "2504",
+      "region": "Kotayk'",
+      "city": "Bjni",
+      "latitude": 40.4559,
+      "longitude": 44.64812
+    },
+    "2602": {
+      "code": "2602",
+      "region": "Sirak",
+      "city": "Akhuryan",
+      "latitude": 40.78003,
+      "longitude": 43.90027
+    },
+    "2603": {
+      "code": "2603",
+      "region": "Sirak",
+      "city": "Azatan",
+      "latitude": 40.71959,
+      "longitude": 43.82727
+    },
+    "2617": {
+      "code": "2617",
+      "region": "Sirak",
+      "city": "Mayisyan",
+      "latitude": 40.84715,
+      "longitude": 43.83938
+    },
+    "2707": {
+      "code": "2707",
+      "region": "Sirak",
+      "city": "Haykavan",
+      "latitude": 40.80312,
+      "longitude": 43.75172
+    },
+    "2908": {
+      "code": "2908",
+      "region": "Sirak",
+      "city": "Dzit'hank'ov",
+      "latitude": 40.50891,
+      "longitude": 43.82107
+    },
+    "3010": {
+      "code": "3010",
+      "region": "Ararat",
+      "city": "Geghanist",
+      "latitude": 40.14493,
+      "longitude": 44.43054
+    },
+    "3012": {
+      "code": "3012",
+      "region": "Sirak",
+      "city": "Lerrnakert",
+      "latitude": 40.56118,
+      "longitude": 43.93851
+    },
+    "3019": {
+      "code": "3019",
+      "region": "Sirak",
+      "city": "Anushavan",
+      "latitude": 40.65013,
+      "longitude": 43.97756
+    },
+    "3025": {
+      "code": "3025",
+      "region": "Sirak",
+      "city": "Maralik",
+      "latitude": 40.57453,
+      "longitude": 43.86862
+    },
+    "3126": {
+      "code": "3126",
+      "region": "Sirak",
+      "city": "Gyumri",
+      "latitude": 40.7942,
+      "longitude": 43.84528
+    },
+    "3205": {
+      "code": "3205",
+      "region": "Syunik'",
+      "city": "Goris",
+      "latitude": 39.51288,
+      "longitude": 46.33816
+    },
+    "3219": {
+      "code": "3219",
+      "region": "Syunik'",
+      "city": "Tegh",
+      "latitude": 39.55792,
+      "longitude": 46.47723
+    },
+    "3308": {
+      "code": "3308",
+      "region": "Syunik'",
+      "city": "Kapan",
+      "latitude": 39.20754,
+      "longitude": 46.40576
+    },
+    "3313": {
+      "code": "3313",
+      "region": "Syunik'",
+      "city": "Agarak",
+      "latitude": 39.20684,
+      "longitude": 46.5446
+    },
+    "3317": {
+      "code": "3317",
+      "region": "Syunik'",
+      "city": "Dzorastan",
+      "latitude": 39.27059,
+      "longitude": 46.3572
+    },
+    "3402": {
+      "code": "3402",
+      "region": "Syunik'",
+      "city": "Meghri",
+      "latitude": 38.90292,
+      "longitude": 46.24458
+    },
+    "3507": {
+      "code": "3507",
+      "region": "Syunik'",
+      "city": "Brrnakot'",
+      "latitude": 39.49742,
+      "longitude": 45.97241
+    },
+    "3601": {
+      "code": "3601",
+      "region": "Vayoc Jor",
+      "city": "Yeghegnadzor",
+      "latitude": 39.76389,
+      "longitude": 45.33239
+    },
+    "3606": {
+      "code": "3606",
+      "region": "Vayoc Jor",
+      "city": "Getap'",
+      "latitude": 39.76306,
+      "longitude": 45.30664
+    },
+    "3704": {
+      "code": "3704",
+      "region": "Vayoc Jor",
+      "city": "Jermuk",
+      "latitude": 39.84173,
+      "longitude": 45.6723
+    },
+    "3801": {
+      "code": "3801",
+      "region": "Vayoc Jor",
+      "city": "Vayk'",
+      "latitude": 39.691,
+      "longitude": 45.46653
+    },
+    "3906": {
+      "code": "3906",
+      "region": "Tavus",
+      "city": "Dilijan",
+      "latitude": 40.74103,
+      "longitude": 44.86362
+    },
+    "3908": {
+      "code": "3908",
+      "region": "Tavus",
+      "city": "Haghartsin",
+      "latitude": 40.77614,
+      "longitude": 44.96847
+    },
+    "4002": {
+      "code": "4002",
+      "region": "Tavus",
+      "city": "Ijevan",
+      "latitude": 40.87832,
+      "longitude": 45.14922
+    },
+    "4003": {
+      "code": "4003",
+      "region": "Tavus",
+      "city": "Azatamut",
+      "latitude": 40.98796,
+      "longitude": 45.20794
+    },
+    "4013": {
+      "code": "4013",
+      "region": "Tavus",
+      "city": "Sarigyugh",
+      "latitude": 41.03531,
+      "longitude": 45.14486
+    },
+    "4101": {
+      "code": "4101",
+      "region": "Tavus",
+      "city": "Noyemberyan",
+      "latitude": 41.17244,
+      "longitude": 44.99917
+    },
+    "4103": {
+      "code": "4103",
+      "region": "Tavus",
+      "city": "Archis",
+      "latitude": 41.16351,
+      "longitude": 44.87632
+    },
+    "4104": {
+      "code": "4104",
+      "region": "Tavus",
+      "city": "Bagratashen",
+      "latitude": 41.24358,
+      "longitude": 44.81737
+    },
+    "4112": {
+      "code": "4112",
+      "region": "Armavir",
+      "city": "Hoktember",
+      "latitude": 40.13206,
+      "longitude": 44.00969
+    },
+    "4201": {
+      "code": "4201",
+      "region": "Tavus",
+      "city": "Berd",
+      "latitude": 40.88149,
+      "longitude": 45.38985
+    },
+    "375000": {
+      "code": "375000",
+      "region": "Erevan",
+      "city": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "375014": {
+      "code": "375014",
+      "region": "Erevan",
+      "city": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "375025": {
+      "code": "375025",
+      "region": "Erevan",
+      "city": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "0099": {
+      "code": "0099",
+      "region": "Erevan",
+      "city": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "0504": {
+      "code": "0504",
+      "region": "Aragacotn",
+      "city": "T'alin",
+      "latitude": 40.38428,
+      "longitude": 43.87387
+    },
+    "0805": {
+      "code": "0805",
+      "region": "Ararat",
+      "city": "Argavand",
+      "latitude": 40.15876,
+      "longitude": 44.43916
+    },
+    "0720": {
+      "code": "0720",
+      "region": "Ararat",
+      "city": "Artashat",
+      "latitude": 39.96144,
+      "longitude": 44.54447
+    },
+    "0733": {
+      "code": "0733",
+      "region": "Ararat",
+      "city": "Vostan",
+      "latitude": 39.96515,
+      "longitude": 44.55937
+    },
+    "0912": {
+      "code": "0912",
+      "region": "Sirak",
+      "city": "Amasia",
+      "latitude": 40.95442,
+      "longitude": 43.7872
+    },
+    "0607": {
+      "code": "0607",
+      "region": "Ararat",
+      "city": "Ararat",
+      "latitude": 39.83166,
+      "longitude": 44.70489
+    },
+    "0732": {
+      "code": "0732",
+      "region": "Ararat",
+      "city": "Shahumyan",
+      "latitude": 39.93845,
+      "longitude": 44.56973
+    },
+    "0019": {
+      "code": "0019",
+      "region": "Erevan",
+      "city": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "0815": {
+      "code": "0815",
+      "region": "Ararat",
+      "city": "Masis",
+      "latitude": 40.06762,
+      "longitude": 44.43591
+    },
+    "": {
+      "code": "",
+      "region": "",
+      "city": "",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "0710": {
+      "code": "0710",
+      "region": "Ararat",
+      "city": "Aygepat",
+      "latitude": 39.95845,
+      "longitude": 44.59982
+    },
+    "0502": {
+      "code": "0502",
+      "region": "Aragacotn",
+      "city": "Ashnak",
+      "latitude": 40.32887,
+      "longitude": 43.91848
+    },
+    "0215": {
+      "code": "0215",
+      "region": "Aragacotn",
+      "city": "Kosh",
+      "latitude": 40.29999,
+      "longitude": 44.15584
+    },
+    "0015": {
+      "code": "0015",
+      "region": "Erevan",
+      "city": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "0610": {
+      "code": "0610",
+      "region": "Ararat",
+      "city": "Zangakatun",
+      "latitude": 39.8212,
+      "longitude": 45.04063
+    },
+    "0311": {
+      "code": "0311",
+      "region": "Aragacotn",
+      "city": "Aparan",
+      "latitude": 40.59323,
+      "longitude": 44.3589
+    },
+    "0213": {
+      "code": "0213",
+      "region": "Aragacotn",
+      "city": "Byurakan",
+      "latitude": 40.338,
+      "longitude": 44.27138
+    },
+    "0929": {
+      "code": "0929",
+      "region": "Armavir",
+      "city": "Armavir",
+      "latitude": 40.08658,
+      "longitude": 44.05363
+    },
+    "0227": {
+      "code": "0227",
+      "region": "Aragacotn",
+      "city": "Ashtarak",
+      "latitude": 40.2991,
+      "longitude": 44.36204
+    },
+    "0310": {
+      "code": "0310",
+      "region": "Aragacotn",
+      "city": "Aragats",
+      "latitude": 40.48887,
+      "longitude": 44.35279
+    },
+    "0713": {
+      "code": "0713",
+      "region": "Ararat",
+      "city": "Dalar",
+      "latitude": 39.97653,
+      "longitude": 44.52649
+    },
+    "0822": {
+      "code": "0822",
+      "region": "Ararat",
+      "city": "Sayat'-Nova",
+      "latitude": 40.07428,
+      "longitude": 44.39846
+    },
+    "0714": {
+      "code": "0714",
+      "region": "Ararat",
+      "city": "Bartsrashen",
+      "latitude": 40.08533,
+      "longitude": 44.57958
+    },
+    "0220": {
+      "code": "0220",
+      "region": "Aragacotn",
+      "city": "Voskevaz",
+      "latitude": 40.27678,
+      "longitude": 44.29509
+    },
+    "0061": {
+      "code": "0061",
+      "region": "Erevan",
+      "city": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "0804": {
+      "code": "0804",
+      "region": "Armavir",
+      "city": "Arbat'",
+      "latitude": 40.13811,
+      "longitude": 44.402
+    },
+    "0009": {
+      "code": "0009",
+      "region": "Erevan",
+      "city": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "0010": {
+      "code": "0010",
+      "region": "Erevan",
+      "city": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "0604": {
+      "code": "0604",
+      "region": "Ararat",
+      "city": "Avshar",
+      "latitude": 39.8536,
+      "longitude": 44.6793
+    },
+    "0816": {
+      "code": "0816",
+      "region": "Ararat",
+      "city": "Nizami",
+      "latitude": 40.09114,
+      "longitude": 44.40453
+    },
+    "0613": {
+      "code": "0613",
+      "region": "Ararat",
+      "city": "Noyakert",
+      "latitude": 39.8312,
+      "longitude": 44.66899
+    },
+    "0624": {
+      "code": "0624",
+      "region": "Vayoc Jor",
+      "city": "Armash",
+      "latitude": 39.76532,
+      "longitude": 44.80902
+    },
+    "0928": {
+      "code": "0928",
+      "region": "Armavir",
+      "city": "Lukashin",
+      "latitude": 40.17583,
+      "longitude": 44.01861
+    },
+    "0028": {
+      "code": "0028",
+      "region": "Erevan",
+      "city": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "0014": {
+      "code": "0014",
+      "region": "Erevan",
+      "city": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "0023": {
+      "code": "0023",
+      "region": "Erevan",
+      "city": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "0936": {
+      "code": "0936",
+      "region": "Armavir",
+      "city": "Nalbandyan",
+      "latitude": 40.06236,
+      "longitude": 43.9869
+    },
+    "0223": {
+      "code": "0223",
+      "region": "Aragacotn",
+      "city": "Nor Sasunik",
+      "latitude": 40.24869,
+      "longitude": 44.33957
+    }
+  }
+}
