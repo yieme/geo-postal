@@ -1,0 +1,146 @@
+{
+  "id": "GP",
+  "country": "Guadeloupe",
+  "postal": {
+    "97100": {
+      "code": "97100",
+      "region": "Guadeloupe",
+      "city": "Basse-Terre",
+      "latitude": 15.99854,
+      "longitude": -61.72548
+    },
+    "97110": {
+      "code": "97110",
+      "region": "Guadeloupe",
+      "city": "Pointe-a-Pitre",
+      "latitude": 16.2422,
+      "longitude": -61.5343
+    },
+    "97112": {
+      "code": "97112",
+      "region": "Guadeloupe",
+      "city": "Grand-Bourg",
+      "latitude": 15.88346,
+      "longitude": -61.31484
+    },
+    "97113": {
+      "code": "97113",
+      "region": "Guadeloupe",
+      "city": "Gourbeyre",
+      "latitude": 15.99378,
+      "longitude": -61.69138
+    },
+    "97114": {
+      "code": "97114",
+      "region": "Guadeloupe",
+      "city": "Trois-Rivieres",
+      "latitude": 15.97567,
+      "longitude": -61.64509
+    },
+    "97115": {
+      "code": "97115",
+      "region": "Guadeloupe",
+      "city": "Sainte-Rose",
+      "latitude": 16.33238,
+      "longitude": -61.69793
+    },
+    "97116": {
+      "code": "97116",
+      "region": "Guadeloupe",
+      "city": "Pointe-Noire",
+      "latitude": 16.23086,
+      "longitude": -61.78783
+    },
+    "97118": {
+      "code": "97118",
+      "region": "Guadeloupe",
+      "city": "Saint-Francois",
+      "latitude": 16.25264,
+      "longitude": -61.27414
+    },
+    "97119": {
+      "code": "97119",
+      "region": "Guadeloupe",
+      "city": "Vieux-Habitants",
+      "latitude": 16.0589,
+      "longitude": -61.76595
+    },
+    "97121": {
+      "code": "97121",
+      "region": "Guadeloupe",
+      "city": "Anse-Bertrand",
+      "latitude": 16.47206,
+      "longitude": -61.50778
+    },
+    "97122": {
+      "code": "97122",
+      "region": "Guadeloupe",
+      "city": "Baie-Mahault",
+      "latitude": 16.26738,
+      "longitude": -61.58543
+    },
+    "97123": {
+      "code": "97123",
+      "region": "Guadeloupe",
+      "city": "Baillif",
+      "latitude": 16.02018,
+      "longitude": -61.74632
+    },
+    "97125": {
+      "code": "97125",
+      "region": "Guadeloupe",
+      "city": "Bouillante",
+      "latitude": 16.13041,
+      "longitude": -61.76919
+    },
+    "97129": {
+      "code": "97129",
+      "region": "Guadeloupe",
+      "city": "Lamentin",
+      "latitude": 16.27105,
+      "longitude": -61.63124
+    },
+    "97130": {
+      "code": "97130",
+      "region": "Guadeloupe",
+      "city": "Capesterre-Belle-Eau",
+      "latitude": 16.04322,
+      "longitude": -61.56596
+    },
+    "97136": {
+      "code": "97136",
+      "region": "Guadeloupe",
+      "city": "Terre-de-Bas",
+      "latitude": 15.85011,
+      "longitude": -61.64417
+    },
+    "97150": {
+      "code": "97150",
+      "region": "Guadeloupe",
+      "city": "Pointe-a-Pitre",
+      "latitude": 16.2422,
+      "longitude": -61.5343
+    },
+    "97160": {
+      "code": "97160",
+      "region": "Guadeloupe",
+      "city": "Le Moule",
+      "latitude": 16.33315,
+      "longitude": -61.34728
+    },
+    "97180": {
+      "code": "97180",
+      "region": "Guadeloupe",
+      "city": "Sainte-Anne",
+      "latitude": 16.22636,
+      "longitude": -61.37919
+    },
+    "97196": {
+      "code": "97196",
+      "region": "Guadeloupe",
+      "city": "Pointe-a-Pitre",
+      "latitude": 16.2422,
+      "longitude": -61.5343
+    }
+  }
+}
