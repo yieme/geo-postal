@@ -1,0 +1,76 @@
+{
+  "id": "TJ",
+  "country": "Tajikistan",
+  "postal": {
+    "734002": {
+      "code": "734002",
+      "region": "Dushanbe",
+      "city": "Dushanbe",
+      "latitude": 38.53575,
+      "longitude": 68.77905
+    },
+    "734003": {
+      "code": "734003",
+      "region": "Dushanbe",
+      "city": "Dushanbe",
+      "latitude": 38.53575,
+      "longitude": 68.77905
+    },
+    "734012": {
+      "code": "734012",
+      "region": "Dushanbe",
+      "city": "Dushanbe",
+      "latitude": 38.53575,
+      "longitude": 68.77905
+    },
+    "734018": {
+      "code": "734018",
+      "region": "Dushanbe",
+      "city": "Dushanbe",
+      "latitude": 38.53575,
+      "longitude": 68.77905
+    },
+    "734025": {
+      "code": "734025",
+      "region": "Dushanbe",
+      "city": "Dushanbe",
+      "latitude": 38.53575,
+      "longitude": 68.77905
+    },
+    "734060": {
+      "code": "734060",
+      "region": "Dushanbe",
+      "city": "Dushanbe",
+      "latitude": 38.53575,
+      "longitude": 68.77905
+    },
+    "735701": {
+      "code": "735701",
+      "region": "Sughd",
+      "city": "Khujand",
+      "latitude": 40.28527,
+      "longitude": 69.62792
+    },
+    "735730": {
+      "code": "735730",
+      "region": "Sughd",
+      "city": "Chkalovsk",
+      "latitude": 40.23417,
+      "longitude": 69.69481
+    },
+    "736000": {
+      "code": "736000",
+      "region": "Kuhistoni Badakhshon",
+      "city": "Khorugh",
+      "latitude": 37.48974,
+      "longitude": 71.55304
+    },
+    "": {
+      "code": "",
+      "region": "Sughd",
+      "city": "Istaravshan",
+      "latitude": 39.9142,
+      "longitude": 69.00328
+    }
+  }
+}
