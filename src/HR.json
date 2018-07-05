@@ -1,0 +1,2064 @@
+{
+  "id": "HR",
+  "country": "Croatia",
+  "postal": {
+    "10010": {
+      "code": "10010",
+      "region": "Grad Zagreb",
+      "city": "Zagreb",
+      "latitude": 45.81444,
+      "longitude": 15.97798
+    },
+    "10020": {
+      "code": "10020",
+      "region": "Grad Zagreb",
+      "city": "Zagreb",
+      "latitude": 45.81444,
+      "longitude": 15.97798
+    },
+    "10090": {
+      "code": "10090",
+      "region": "Grad Zagreb",
+      "city": "Zagreb",
+      "latitude": 45.81444,
+      "longitude": 15.97798
+    },
+    "10251": {
+      "code": "10251",
+      "region": "Grad Zagreb",
+      "city": "Zadvorsko",
+      "latitude": 45.73333,
+      "longitude": 15.91667
+    },
+    "10290": {
+      "code": "10290",
+      "region": "Zagrebacka zupanija",
+      "city": "Zapresic",
+      "latitude": 45.85639,
+      "longitude": 15.80778
+    },
+    "10297": {
+      "code": "10297",
+      "region": "Zagrebacka zupanija",
+      "city": "Jakovlje",
+      "latitude": 45.95139,
+      "longitude": 15.85611
+    },
+    "10298": {
+      "code": "10298",
+      "region": "Zagrebacka zupanija",
+      "city": "Jablanovec",
+      "latitude": 45.87583,
+      "longitude": 15.85361
+    },
+    "10314": {
+      "code": "10314",
+      "region": "Zagrebacka zupanija",
+      "city": "Kriz",
+      "latitude": 45.665,
+      "longitude": 16.52333
+    },
+    "10315": {
+      "code": "10315",
+      "region": "Zagrebacka zupanija",
+      "city": "Novoselec",
+      "latitude": 45.6525,
+      "longitude": 16.53639
+    },
+    "10340": {
+      "code": "10340",
+      "region": "Zagrebacka zupanija",
+      "city": "Vrbovec",
+      "latitude": 45.88333,
+      "longitude": 16.42167
+    },
+    "10360": {
+      "code": "10360",
+      "region": "Grad Zagreb",
+      "city": "Dubrava",
+      "latitude": 45.83361,
+      "longitude": 16.06361
+    },
+    "10370": {
+      "code": "10370",
+      "region": "Zagrebacka zupanija",
+      "city": "Gracec",
+      "latitude": 45.83333,
+      "longitude": 16.31667
+    },
+    "10380": {
+      "code": "10380",
+      "region": "Zagrebacka zupanija",
+      "city": "Sveti Ivan Zelina",
+      "latitude": 45.959778,
+      "longitude": 16.243213
+    },
+    "10410": {
+      "code": "10410",
+      "region": "Zagrebacka zupanija",
+      "city": "Velika Gorica",
+      "latitude": 45.7125,
+      "longitude": 16.07556
+    },
+    "10412": {
+      "code": "10412",
+      "region": "Zagrebacka zupanija",
+      "city": "Lukavec",
+      "latitude": 45.70444,
+      "longitude": 15.99
+    },
+    "10417": {
+      "code": "10417",
+      "region": "Zagrebacka zupanija",
+      "city": "Turopolje",
+      "latitude": 45.64944,
+      "longitude": 16.14361
+    },
+    "10430": {
+      "code": "10430",
+      "region": "Zagrebacka zupanija",
+      "city": "Samobor",
+      "latitude": 45.80306,
+      "longitude": 15.71806
+    },
+    "10450": {
+      "code": "10450",
+      "region": "Zagrebacka zupanija",
+      "city": "Jastrebarsko",
+      "latitude": 45.66833,
+      "longitude": 15.64861
+    },
+    "20000": {
+      "code": "20000",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Dubrovnik",
+      "latitude": 42.64807,
+      "longitude": 18.09216
+    },
+    "20207": {
+      "code": "20207",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Cibaca",
+      "latitude": 42.62889,
+      "longitude": 18.17111
+    },
+    "20210": {
+      "code": "20210",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Jasenice",
+      "latitude": 42.59278,
+      "longitude": 18.26917
+    },
+    "20225": {
+      "code": "20225",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Blato",
+      "latitude": 42.7625,
+      "longitude": 17.48222
+    },
+    "20230": {
+      "code": "20230",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Ston",
+      "latitude": 42.83861,
+      "longitude": 17.69639
+    },
+    "20232": {
+      "code": "20232",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Podgora",
+      "latitude": 42.84861,
+      "longitude": 17.83639
+    },
+    "20236": {
+      "code": "20236",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Mokosica",
+      "latitude": 42.67556,
+      "longitude": 18.09028
+    },
+    "20250": {
+      "code": "20250",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Orebic",
+      "latitude": 42.98556,
+      "longitude": 17.17472
+    },
+    "20260": {
+      "code": "20260",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Korcula",
+      "latitude": 42.96222,
+      "longitude": 17.13694
+    },
+    "20270": {
+      "code": "20270",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Vela Luka",
+      "latitude": 42.96333,
+      "longitude": 16.7225
+    },
+    "20272": {
+      "code": "20272",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Smokvica",
+      "latitude": 42.93056,
+      "longitude": 16.89639
+    },
+    "20275": {
+      "code": "20275",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Zrnovo",
+      "latitude": 42.95111,
+      "longitude": 17.11417
+    },
+    "20340": {
+      "code": "20340",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Ploce",
+      "latitude": 43.05631,
+      "longitude": 17.431024
+    },
+    "20350": {
+      "code": "20350",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Metkovic",
+      "latitude": 43.05417,
+      "longitude": 17.64833
+    },
+    "20355": {
+      "code": "20355",
+      "region": "Dubrovacko-neretvanska zupanija",
+      "city": "Opuzen",
+      "latitude": 43.01528,
+      "longitude": 17.56556
+    },
+    "21000": {
+      "code": "21000",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Split",
+      "latitude": 43.50891,
+      "longitude": 16.43915
+    },
+    "21204": {
+      "code": "21204",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Dugopolje",
+      "latitude": 43.58056,
+      "longitude": 16.60278
+    },
+    "21212": {
+      "code": "21212",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Split",
+      "latitude": 43.50891,
+      "longitude": 16.43915
+    },
+    "21216": {
+      "code": "21216",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Trogir",
+      "latitude": 43.5125,
+      "longitude": 16.25167
+    },
+    "21220": {
+      "code": "21220",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Trogir",
+      "latitude": 43.5125,
+      "longitude": 16.25167
+    },
+    "21230": {
+      "code": "21230",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Brnaze",
+      "latitude": 43.68,
+      "longitude": 16.64972
+    },
+    "21233": {
+      "code": "21233",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Hrvace",
+      "latitude": 43.76333,
+      "longitude": 16.615
+    },
+    "21238": {
+      "code": "21238",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Otok",
+      "latitude": 43.69139,
+      "longitude": 16.73833
+    },
+    "21240": {
+      "code": "21240",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Trilj",
+      "latitude": 43.61833,
+      "longitude": 16.72417
+    },
+    "21241": {
+      "code": "21241",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Gala",
+      "latitude": 43.715,
+      "longitude": 16.72694
+    },
+    "21260": {
+      "code": "21260",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Imotski",
+      "latitude": 43.44667,
+      "longitude": 17.21667
+    },
+    "21261": {
+      "code": "21261",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Runovic",
+      "latitude": 43.37667,
+      "longitude": 17.23667
+    },
+    "21262": {
+      "code": "21262",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Grubine",
+      "latitude": 43.42278,
+      "longitude": 17.14972
+    },
+    "21266": {
+      "code": "21266",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Zmijavci",
+      "latitude": 43.41083,
+      "longitude": 17.20556
+    },
+    "21276": {
+      "code": "21276",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Vrgorac",
+      "latitude": 43.20583,
+      "longitude": 17.37111
+    },
+    "21292": {
+      "code": "21292",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Srinjine",
+      "latitude": 43.48333,
+      "longitude": 16.6
+    },
+    "21300": {
+      "code": "21300",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Makarska",
+      "latitude": 43.29694,
+      "longitude": 17.01778
+    },
+    "21310": {
+      "code": "21310",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Omis",
+      "latitude": 43.44472,
+      "longitude": 16.68861
+    },
+    "21315": {
+      "code": "21315",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Duce",
+      "latitude": 43.44278,
+      "longitude": 16.66833
+    },
+    "21320": {
+      "code": "21320",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Baska Voda",
+      "latitude": 43.35694,
+      "longitude": 16.95028
+    },
+    "21322": {
+      "code": "21322",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Donja Brela",
+      "latitude": 43.36889,
+      "longitude": 16.93417
+    },
+    "21325": {
+      "code": "21325",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Tucepi",
+      "latitude": 43.27222,
+      "longitude": 17.05444
+    },
+    "21400": {
+      "code": "21400",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Supetar",
+      "latitude": 43.38417,
+      "longitude": 16.55083
+    },
+    "21404": {
+      "code": "21404",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Marina",
+      "latitude": 43.35,
+      "longitude": 16.45
+    },
+    "21410": {
+      "code": "21410",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Postire",
+      "latitude": 43.37639,
+      "longitude": 16.63222
+    },
+    "21420": {
+      "code": "21420",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Bol",
+      "latitude": 43.26194,
+      "longitude": 16.655
+    },
+    "21450": {
+      "code": "21450",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Hvar",
+      "latitude": 43.1725,
+      "longitude": 16.44278
+    },
+    "21460": {
+      "code": "21460",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Starigrad",
+      "latitude": 43.18472,
+      "longitude": 16.59528
+    },
+    "21465": {
+      "code": "21465",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Jelsa",
+      "latitude": 43.16139,
+      "longitude": 16.69306
+    },
+    "21480": {
+      "code": "21480",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Vis",
+      "latitude": 43.06194,
+      "longitude": 16.18306
+    },
+    "21485": {
+      "code": "21485",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Komiza",
+      "latitude": 43.04306,
+      "longitude": 16.09306
+    },
+    "22000": {
+      "code": "22000",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Sibenik",
+      "latitude": 43.72722,
+      "longitude": 15.90583
+    },
+    "22010": {
+      "code": "22010",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Brodarica",
+      "latitude": 43.68,
+      "longitude": 15.91972
+    },
+    "22030": {
+      "code": "22030",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Sibenik",
+      "latitude": 43.72722,
+      "longitude": 15.90583
+    },
+    "22202": {
+      "code": "22202",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Primosten",
+      "latitude": 43.58694,
+      "longitude": 15.92722
+    },
+    "22203": {
+      "code": "22203",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Rogoznica",
+      "latitude": 43.52472,
+      "longitude": 15.97
+    },
+    "22211": {
+      "code": "22211",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Vodice",
+      "latitude": 43.76083,
+      "longitude": 15.78278
+    },
+    "22212": {
+      "code": "22212",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Tribunj",
+      "latitude": 43.75547,
+      "longitude": 15.74444
+    },
+    "22213": {
+      "code": "22213",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Pirovac",
+      "latitude": 43.81917,
+      "longitude": 15.67278
+    },
+    "22215": {
+      "code": "22215",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Zaton",
+      "latitude": 43.78944,
+      "longitude": 15.82528
+    },
+    "22240": {
+      "code": "22240",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Tijesno",
+      "latitude": 43.80417,
+      "longitude": 15.64333
+    },
+    "22243": {
+      "code": "22243",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Murter",
+      "latitude": 43.8125,
+      "longitude": 15.60611
+    },
+    "22300": {
+      "code": "22300",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Knin",
+      "latitude": 44.04389,
+      "longitude": 16.2
+    },
+    "22305": {
+      "code": "22305",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Kistanje",
+      "latitude": 43.98278,
+      "longitude": 15.965
+    },
+    "22320": {
+      "code": "22320",
+      "region": "Sibensko-kninska zupanija",
+      "city": "Drnis",
+      "latitude": 43.8625,
+      "longitude": 16.15556
+    },
+    "23000": {
+      "code": "23000",
+      "region": "Zadarska zupanija",
+      "city": "Zadar",
+      "latitude": 44.11972,
+      "longitude": 15.24222
+    },
+    "23207": {
+      "code": "23207",
+      "region": "Zadarska zupanija",
+      "city": "Turanj",
+      "latitude": 43.97111,
+      "longitude": 15.41139
+    },
+    "23210": {
+      "code": "23210",
+      "region": "Zadarska zupanija",
+      "city": "Biograd na Moru",
+      "latitude": 43.94333,
+      "longitude": 15.45194
+    },
+    "23211": {
+      "code": "23211",
+      "region": "Zadarska zupanija",
+      "city": "Pakostane",
+      "latitude": 43.91222,
+      "longitude": 15.50889
+    },
+    "23222": {
+      "code": "23222",
+      "region": "Zadarska zupanija",
+      "city": "Galovac",
+      "latitude": 44.07139,
+      "longitude": 15.39333
+    },
+    "23226": {
+      "code": "23226",
+      "region": "Zadarska zupanija",
+      "city": "Pridraga",
+      "latitude": 44.16667,
+      "longitude": 15.56667
+    },
+    "23233": {
+      "code": "23233",
+      "region": "Zadarska zupanija",
+      "city": "Privlaka",
+      "latitude": 44.26333,
+      "longitude": 15.11972
+    },
+    "23234": {
+      "code": "23234",
+      "region": "Zadarska zupanija",
+      "city": "Vir",
+      "latitude": 44.30306,
+      "longitude": 15.08528
+    },
+    "23235": {
+      "code": "23235",
+      "region": "Zadarska zupanija",
+      "city": "Vrsi",
+      "latitude": 44.26472,
+      "longitude": 15.2325
+    },
+    "23241": {
+      "code": "23241",
+      "region": "Zadarska zupanija",
+      "city": "Policnik",
+      "latitude": 44.17806,
+      "longitude": 15.37556
+    },
+    "23244": {
+      "code": "23244",
+      "region": "Zadarska zupanija",
+      "city": "Starigrad",
+      "latitude": 44.29306,
+      "longitude": 15.44306
+    },
+    "23250": {
+      "code": "23250",
+      "region": "Zadarska zupanija",
+      "city": "Pag",
+      "latitude": 44.445,
+      "longitude": 15.0575
+    },
+    "23420": {
+      "code": "23420",
+      "region": "Zadarska zupanija",
+      "city": "Benkovac",
+      "latitude": 44.03444,
+      "longitude": 15.61278
+    },
+    "23423": {
+      "code": "23423",
+      "region": "Zadarska zupanija",
+      "city": "Polaca",
+      "latitude": 44.01833,
+      "longitude": 15.5175
+    },
+    "23440": {
+      "code": "23440",
+      "region": "Zadarska zupanija",
+      "city": "Gracac",
+      "latitude": 44.30056,
+      "longitude": 15.85472
+    },
+    "23450": {
+      "code": "23450",
+      "region": "Zadarska zupanija",
+      "city": "Krusevo",
+      "latitude": 44.18333,
+      "longitude": 15.65
+    },
+    "31000": {
+      "code": "31000",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Osijek",
+      "latitude": 45.55111,
+      "longitude": 18.69389
+    },
+    "31222": {
+      "code": "31222",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Bizovac",
+      "latitude": 45.59278,
+      "longitude": 18.45889
+    },
+    "31224": {
+      "code": "31224",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Koska",
+      "latitude": 45.54528,
+      "longitude": 18.28583
+    },
+    "31225": {
+      "code": "31225",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Jelisavac",
+      "latitude": 45.52889,
+      "longitude": 18.15611
+    },
+    "31226": {
+      "code": "31226",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Dalj",
+      "latitude": 45.49,
+      "longitude": 18.98472
+    },
+    "31300": {
+      "code": "31300",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Beli Manastir",
+      "latitude": 45.77,
+      "longitude": 18.60361
+    },
+    "31306": {
+      "code": "31306",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Batina",
+      "latitude": 45.84611,
+      "longitude": 18.85
+    },
+    "31315": {
+      "code": "31315",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Karanac",
+      "latitude": 45.76056,
+      "longitude": 18.68444
+    },
+    "31402": {
+      "code": "31402",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Semeljci",
+      "latitude": 45.36056,
+      "longitude": 18.54361
+    },
+    "31403": {
+      "code": "31403",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Vuka",
+      "latitude": 45.43389,
+      "longitude": 18.505
+    },
+    "31410": {
+      "code": "31410",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Strizivojna",
+      "latitude": 45.22611,
+      "longitude": 18.42389
+    },
+    "31417": {
+      "code": "31417",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Piskorevci",
+      "latitude": 45.25528,
+      "longitude": 18.40417
+    },
+    "31422": {
+      "code": "31422",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Gorjani",
+      "latitude": 45.39889,
+      "longitude": 18.37222
+    },
+    "31500": {
+      "code": "31500",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Nasice",
+      "latitude": 45.48861,
+      "longitude": 18.08778
+    },
+    "31531": {
+      "code": "31531",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Viljevo",
+      "latitude": 45.75139,
+      "longitude": 18.06306
+    },
+    "31550": {
+      "code": "31550",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Ladimirevci",
+      "latitude": 45.62556,
+      "longitude": 18.44861
+    },
+    "31551": {
+      "code": "31551",
+      "region": "Osjecko-baranjska zupanija",
+      "city": "Belisce",
+      "latitude": 45.68028,
+      "longitude": 18.40583
+    },
+    "32000": {
+      "code": "32000",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Vukovar",
+      "latitude": 45.34333,
+      "longitude": 18.99972
+    },
+    "32010": {
+      "code": "32010",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Vukovar",
+      "latitude": 45.34333,
+      "longitude": 18.99972
+    },
+    "32100": {
+      "code": "32100",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Mirkovci",
+      "latitude": 45.26972,
+      "longitude": 18.85111
+    },
+    "32213": {
+      "code": "32213",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Markusica",
+      "latitude": 45.37389,
+      "longitude": 18.70583
+    },
+    "32221": {
+      "code": "32221",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Ceric",
+      "latitude": 45.31139,
+      "longitude": 18.85611
+    },
+    "32225": {
+      "code": "32225",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Bobota",
+      "latitude": 45.42111,
+      "longitude": 18.85389
+    },
+    "32227": {
+      "code": "32227",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Borovo",
+      "latitude": 45.37639,
+      "longitude": 18.96694
+    },
+    "32232": {
+      "code": "32232",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Sotin",
+      "latitude": 45.295,
+      "longitude": 19.097
+    },
+    "32235": {
+      "code": "32235",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Bapska",
+      "latitude": 45.1975,
+      "longitude": 19.26
+    },
+    "32237": {
+      "code": "32237",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Lovas",
+      "latitude": 45.22639,
+      "longitude": 19.17111
+    },
+    "32242": {
+      "code": "32242",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Slakovci",
+      "latitude": 45.22472,
+      "longitude": 18.95028
+    },
+    "32248": {
+      "code": "32248",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Ilaca",
+      "latitude": 45.18139,
+      "longitude": 19.09583
+    },
+    "32249": {
+      "code": "32249",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Tovarnik",
+      "latitude": 45.165,
+      "longitude": 19.15194
+    },
+    "32251": {
+      "code": "32251",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Privlaka",
+      "latitude": 45.19472,
+      "longitude": 18.8375
+    },
+    "32252": {
+      "code": "32252",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Otok",
+      "latitude": 45.14667,
+      "longitude": 18.88389
+    },
+    "32255": {
+      "code": "32255",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Soljani",
+      "latitude": 44.95028,
+      "longitude": 18.97028
+    },
+    "32260": {
+      "code": "32260",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Gunja",
+      "latitude": 44.88,
+      "longitude": 18.85333
+    },
+    "32270": {
+      "code": "32270",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Zupanja",
+      "latitude": 45.0775,
+      "longitude": 18.6975
+    },
+    "32271": {
+      "code": "32271",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Andrijasevci",
+      "latitude": 45.22472,
+      "longitude": 18.73806
+    },
+    "32275": {
+      "code": "32275",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Bosnjaci",
+      "latitude": 45.05028,
+      "longitude": 18.75556
+    },
+    "32281": {
+      "code": "32281",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Ivankovo",
+      "latitude": 45.28861,
+      "longitude": 18.68389
+    },
+    "32283": {
+      "code": "32283",
+      "region": "Vukovarsko-srijemska zupanija",
+      "city": "Vodinci",
+      "latitude": 45.27556,
+      "longitude": 18.60972
+    },
+    "33000": {
+      "code": "33000",
+      "region": "Viroviticko-podravska zupanija",
+      "city": "Virovitica",
+      "latitude": 45.83194,
+      "longitude": 17.38389
+    },
+    "33404": {
+      "code": "33404",
+      "region": "Viroviticko-podravska zupanija",
+      "city": "Spisic-Bukovica",
+      "latitude": 45.85722,
+      "longitude": 17.29944
+    },
+    "33405": {
+      "code": "33405",
+      "region": "Viroviticko-podravska zupanija",
+      "city": "Pitomaca",
+      "latitude": 45.95056,
+      "longitude": 17.22944
+    },
+    "33513": {
+      "code": "33513",
+      "region": "Viroviticko-podravska zupanija",
+      "city": "Zdenci",
+      "latitude": 45.58917,
+      "longitude": 17.95028
+    },
+    "33514": {
+      "code": "33514",
+      "region": "Viroviticko-podravska zupanija",
+      "city": "Cacinci",
+      "latitude": 45.60389,
+      "longitude": 17.87028
+    },
+    "33515": {
+      "code": "33515",
+      "region": "Viroviticko-podravska zupanija",
+      "city": "Orahovica",
+      "latitude": 45.54,
+      "longitude": 17.88472
+    },
+    "33520": {
+      "code": "33520",
+      "region": "Viroviticko-podravska zupanija",
+      "city": "Slatina",
+      "latitude": 45.70333,
+      "longitude": 17.70278
+    },
+    "33522": {
+      "code": "33522",
+      "region": "Viroviticko-podravska zupanija",
+      "city": "Vocin",
+      "latitude": 45.61778,
+      "longitude": 17.54778
+    },
+    "34000": {
+      "code": "34000",
+      "region": "Pozesko-slavonska zupanija",
+      "city": "Pozega",
+      "latitude": 45.34028,
+      "longitude": 17.68528
+    },
+    "34308": {
+      "code": "34308",
+      "region": "Pozesko-slavonska zupanija",
+      "city": "Jaksic",
+      "latitude": 45.35806,
+      "longitude": 17.76389
+    },
+    "34310": {
+      "code": "34310",
+      "region": "Pozesko-slavonska zupanija",
+      "city": "Pleternica",
+      "latitude": 45.28861,
+      "longitude": 17.80639
+    },
+    "34330": {
+      "code": "34330",
+      "region": "Pozesko-slavonska zupanija",
+      "city": "Velika",
+      "latitude": 45.45444,
+      "longitude": 17.66139
+    },
+    "34334": {
+      "code": "34334",
+      "region": "Pozesko-slavonska zupanija",
+      "city": "Kaptol",
+      "latitude": 45.43472,
+      "longitude": 17.72611
+    },
+    "34335": {
+      "code": "34335",
+      "region": "Pozesko-slavonska zupanija",
+      "city": "Vetovo",
+      "latitude": 45.41611,
+      "longitude": 17.79444
+    },
+    "34340": {
+      "code": "34340",
+      "region": "Pozesko-slavonska zupanija",
+      "city": "Kutjevo",
+      "latitude": 45.42611,
+      "longitude": 17.8825
+    },
+    "34550": {
+      "code": "34550",
+      "region": "Pozesko-slavonska zupanija",
+      "city": "Pakrac",
+      "latitude": 45.43639,
+      "longitude": 17.18889
+    },
+    "34551": {
+      "code": "34551",
+      "region": "Pozesko-slavonska zupanija",
+      "city": "Lipik",
+      "latitude": 45.41139,
+      "longitude": 17.15222
+    },
+    "35106": {
+      "code": "35106",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Slavonski Brod",
+      "latitude": 45.16028,
+      "longitude": 18.01556
+    },
+    "35107": {
+      "code": "35107",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Podvinje",
+      "latitude": 45.19028,
+      "longitude": 18.02694
+    },
+    "35209": {
+      "code": "35209",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Bukovlje",
+      "latitude": 45.18528,
+      "longitude": 18.07
+    },
+    "35210": {
+      "code": "35210",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Vrpolje",
+      "latitude": 45.21056,
+      "longitude": 18.40556
+    },
+    "35211": {
+      "code": "35211",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Korenica",
+      "latitude": 45.22472,
+      "longitude": 18.16556
+    },
+    "35212": {
+      "code": "35212",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Garcin",
+      "latitude": 45.18278,
+      "longitude": 18.18306
+    },
+    "35220": {
+      "code": "35220",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Krusevica",
+      "latitude": 45.0775,
+      "longitude": 18.48278
+    },
+    "35222": {
+      "code": "35222",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Gundinci",
+      "latitude": 45.15833,
+      "longitude": 18.49139
+    },
+    "35224": {
+      "code": "35224",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Sikirevci",
+      "latitude": 45.10889,
+      "longitude": 18.46444
+    },
+    "35250": {
+      "code": "35250",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Oriovac",
+      "latitude": 45.16611,
+      "longitude": 17.76
+    },
+    "35252": {
+      "code": "35252",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Sibinj",
+      "latitude": 45.19167,
+      "longitude": 17.90806
+    },
+    "35257": {
+      "code": "35257",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Luzani",
+      "latitude": 45.16806,
+      "longitude": 17.70694
+    },
+    "35400": {
+      "code": "35400",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Nova Gradiska",
+      "latitude": 45.255,
+      "longitude": 17.38306
+    },
+    "35403": {
+      "code": "35403",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Resetari",
+      "latitude": 45.25639,
+      "longitude": 17.46306
+    },
+    "35404": {
+      "code": "35404",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Cernik",
+      "latitude": 45.28861,
+      "longitude": 17.38194
+    },
+    "35410": {
+      "code": "35410",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Batrina",
+      "latitude": 45.18944,
+      "longitude": 17.66639
+    },
+    "35414": {
+      "code": "35414",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Vrbova",
+      "latitude": 45.21861,
+      "longitude": 17.57778
+    },
+    "35425": {
+      "code": "35425",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Davor",
+      "latitude": 45.11528,
+      "longitude": 17.51639
+    },
+    "35430": {
+      "code": "35430",
+      "region": "Brodsko-posavska zupanija",
+      "city": "Okucani",
+      "latitude": 45.25833,
+      "longitude": 17.20167
+    },
+    "40000": {
+      "code": "40000",
+      "region": "Medimurska zupanija",
+      "city": "Kursanec",
+      "latitude": 46.33028,
+      "longitude": 16.40167
+    },
+    "40305": {
+      "code": "40305",
+      "region": "Medimurska zupanija",
+      "city": "Nedelisce",
+      "latitude": 46.37583,
+      "longitude": 16.3875
+    },
+    "40306": {
+      "code": "40306",
+      "region": "Medimurska zupanija",
+      "city": "Trnovec",
+      "latitude": 46.38583,
+      "longitude": 16.31194
+    },
+    "40311": {
+      "code": "40311",
+      "region": "Medimurska zupanija",
+      "city": "Brezje",
+      "latitude": 46.41861,
+      "longitude": 16.38889
+    },
+    "40314": {
+      "code": "40314",
+      "region": "Krapinsko-zagorska zupanija",
+      "city": "Selnica",
+      "latitude": 46.02333,
+      "longitude": 16.03917
+    },
+    "40315": {
+      "code": "40315",
+      "region": "Medimurska zupanija",
+      "city": "Peklenica",
+      "latitude": 46.49528,
+      "longitude": 16.47611
+    },
+    "40316": {
+      "code": "40316",
+      "region": "Medimurska zupanija",
+      "city": "Vratisinec",
+      "latitude": 46.47806,
+      "longitude": 16.45778
+    },
+    "40317": {
+      "code": "40317",
+      "region": "Medimurska zupanija",
+      "city": "Podturen",
+      "latitude": 46.46472,
+      "longitude": 16.54306
+    },
+    "40318": {
+      "code": "40318",
+      "region": "Medimurska zupanija",
+      "city": "Domasinec",
+      "latitude": 46.4325,
+      "longitude": 16.6
+    },
+    "40319": {
+      "code": "40319",
+      "region": "Medimurska zupanija",
+      "city": "Belica",
+      "latitude": 46.40417,
+      "longitude": 16.51833
+    },
+    "40320": {
+      "code": "40320",
+      "region": "Medimurska zupanija",
+      "city": "Hodosan",
+      "latitude": 46.39528,
+      "longitude": 16.64389
+    },
+    "40321": {
+      "code": "40321",
+      "region": "Medimurska zupanija",
+      "city": "Palovec",
+      "latitude": 46.38889,
+      "longitude": 16.54778
+    },
+    "40322": {
+      "code": "40322",
+      "region": "Medimurska zupanija",
+      "city": "Orehovica",
+      "latitude": 46.33167,
+      "longitude": 16.50694
+    },
+    "40323": {
+      "code": "40323",
+      "region": "Medimurska zupanija",
+      "city": "Prelog",
+      "latitude": 46.335,
+      "longitude": 16.61556
+    },
+    "40324": {
+      "code": "40324",
+      "region": "Medimurska zupanija",
+      "city": "Gorican",
+      "latitude": 46.38417,
+      "longitude": 16.68083
+    },
+    "40329": {
+      "code": "40329",
+      "region": "Medimurska zupanija",
+      "city": "Kotoriba",
+      "latitude": 46.355,
+      "longitude": 16.81806
+    },
+    "42000": {
+      "code": "42000",
+      "region": "Varazdinska zupanija",
+      "city": "Varazdin",
+      "latitude": 46.30444,
+      "longitude": 16.33778
+    },
+    "42207": {
+      "code": "42207",
+      "region": "Varazdinska zupanija",
+      "city": "Vinica",
+      "latitude": 46.33611,
+      "longitude": 16.14944
+    },
+    "42222": {
+      "code": "42222",
+      "region": "Varazdinska zupanija",
+      "city": "Ljubescica",
+      "latitude": 46.16667,
+      "longitude": 16.38333
+    },
+    "42223": {
+      "code": "42223",
+      "region": "Varazdinska zupanija",
+      "city": "Varazdinske Toplice",
+      "latitude": 46.210462,
+      "longitude": 16.422747
+    },
+    "42230": {
+      "code": "42230",
+      "region": "Varazdinska zupanija",
+      "city": "Ludbreg",
+      "latitude": 46.25194,
+      "longitude": 16.61472
+    },
+    "42240": {
+      "code": "42240",
+      "region": "Varazdinska zupanija",
+      "city": "Ivanec",
+      "latitude": 46.22306,
+      "longitude": 16.12
+    },
+    "42244": {
+      "code": "42244",
+      "region": "Varazdinska zupanija",
+      "city": "Klenovnik",
+      "latitude": 46.27028,
+      "longitude": 16.07
+    },
+    "42250": {
+      "code": "42250",
+      "region": "Varazdinska zupanija",
+      "city": "Lepoglava",
+      "latitude": 46.21056,
+      "longitude": 16.03556
+    },
+    "43000": {
+      "code": "43000",
+      "region": "Bjelovarsko-bilogorska zupanija",
+      "city": "Brezovac",
+      "latitude": 45.8675,
+      "longitude": 16.84083
+    },
+    "43211": {
+      "code": "43211",
+      "region": "Bjelovarsko-bilogorska zupanija",
+      "city": "Predavac",
+      "latitude": 45.93583,
+      "longitude": 16.78333
+    },
+    "43212": {
+      "code": "43212",
+      "region": "Bjelovarsko-bilogorska zupanija",
+      "city": "Rovisce",
+      "latitude": 45.94472,
+      "longitude": 16.735
+    },
+    "43240": {
+      "code": "43240",
+      "region": "Bjelovarsko-bilogorska zupanija",
+      "city": "Cazma",
+      "latitude": 45.74667,
+      "longitude": 16.62278
+    },
+    "43251": {
+      "code": "43251",
+      "region": "Bjelovarsko-bilogorska zupanija",
+      "city": "Gudovac",
+      "latitude": 45.88028,
+      "longitude": 16.78083
+    },
+    "43280": {
+      "code": "43280",
+      "region": "Bjelovarsko-bilogorska zupanija",
+      "city": "Garesnica",
+      "latitude": 45.57444,
+      "longitude": 16.94139
+    },
+    "43284": {
+      "code": "43284",
+      "region": "Bjelovarsko-bilogorska zupanija",
+      "city": "Hercegovac",
+      "latitude": 45.65861,
+      "longitude": 17.01361
+    },
+    "43290": {
+      "code": "43290",
+      "region": "Bjelovarsko-bilogorska zupanija",
+      "city": "Grubisno Polje",
+      "latitude": 45.70214,
+      "longitude": 17.17268
+    },
+    "43500": {
+      "code": "43500",
+      "region": "Bjelovarsko-bilogorska zupanija",
+      "city": "Daruvar",
+      "latitude": 45.59056,
+      "longitude": 17.225
+    },
+    "43506": {
+      "code": "43506",
+      "region": "Bjelovarsko-bilogorska zupanija",
+      "city": "Dezanovac",
+      "latitude": 45.57056,
+      "longitude": 17.08667
+    },
+    "43541": {
+      "code": "43541",
+      "region": "Bjelovarsko-bilogorska zupanija",
+      "city": "Sirac",
+      "latitude": 45.52333,
+      "longitude": 17.255
+    },
+    "44000": {
+      "code": "44000",
+      "region": "Sisacko-moslavacka zupanija",
+      "city": "Sisak",
+      "latitude": 45.46611,
+      "longitude": 16.37833
+    },
+    "44202": {
+      "code": "44202",
+      "region": "Sisacko-moslavacka zupanija",
+      "city": "Budasevo",
+      "latitude": 45.47472,
+      "longitude": 16.43667
+    },
+    "44250": {
+      "code": "44250",
+      "region": "Sisacko-moslavacka zupanija",
+      "city": "Petrinja",
+      "latitude": 45.4375,
+      "longitude": 16.29
+    },
+    "44272": {
+      "code": "44272",
+      "region": "Sisacko-moslavacka zupanija",
+      "city": "Lekenik",
+      "latitude": 45.58556,
+      "longitude": 16.21139
+    },
+    "44317": {
+      "code": "44317",
+      "region": "Sisacko-moslavacka zupanija",
+      "city": "Osekovo",
+      "latitude": 45.51639,
+      "longitude": 16.61667
+    },
+    "44318": {
+      "code": "44318",
+      "region": "Sisacko-moslavacka zupanija",
+      "city": "Voloder",
+      "latitude": 45.54806,
+      "longitude": 16.67889
+    },
+    "44320": {
+      "code": "44320",
+      "region": "Sisacko-moslavacka zupanija",
+      "city": "Kutina",
+      "latitude": 45.475,
+      "longitude": 16.78194
+    },
+    "44322": {
+      "code": "44322",
+      "region": "Sisacko-moslavacka zupanija",
+      "city": "Lipovljani",
+      "latitude": 45.39667,
+      "longitude": 16.88972
+    },
+    "44330": {
+      "code": "44330",
+      "region": "Sisacko-moslavacka zupanija",
+      "city": "Novska",
+      "latitude": 45.34056,
+      "longitude": 16.97694
+    },
+    "44400": {
+      "code": "44400",
+      "region": "Sisacko-moslavacka zupanija",
+      "city": "Glina",
+      "latitude": 45.33806,
+      "longitude": 16.08806
+    },
+    "44410": {
+      "code": "44410",
+      "region": "Sisacko-moslavacka zupanija",
+      "city": "Gvozd",
+      "latitude": 45.35028,
+      "longitude": 15.88056
+    },
+    "44430": {
+      "code": "44430",
+      "region": "Sisacko-moslavacka zupanija",
+      "city": "Hrvatska Kostajnica",
+      "latitude": 45.23167,
+      "longitude": 16.53917
+    },
+    "44440": {
+      "code": "44440",
+      "region": "Sisacko-moslavacka zupanija",
+      "city": "Dvor",
+      "latitude": 45.07306,
+      "longitude": 16.37083
+    },
+    "47000": {
+      "code": "47000",
+      "region": "Karlovacka zupanija",
+      "city": "Karlovac",
+      "latitude": 45.48722,
+      "longitude": 15.54778
+    },
+    "47220": {
+      "code": "47220",
+      "region": "Karlovacka zupanija",
+      "city": "Vojnic",
+      "latitude": 45.32361,
+      "longitude": 15.69861
+    },
+    "47240": {
+      "code": "47240",
+      "region": "Karlovacka zupanija",
+      "city": "Slunj",
+      "latitude": 45.11083,
+      "longitude": 15.58944
+    },
+    "47250": {
+      "code": "47250",
+      "region": "Karlovacka zupanija",
+      "city": "Duga Resa",
+      "latitude": 45.444995,
+      "longitude": 15.50283
+    },
+    "47280": {
+      "code": "47280",
+      "region": "Karlovacka zupanija",
+      "city": "Ozalj",
+      "latitude": 45.60667,
+      "longitude": 15.46194
+    },
+    "47300": {
+      "code": "47300",
+      "region": "Karlovacka zupanija",
+      "city": "Ogulin",
+      "latitude": 45.26611,
+      "longitude": 15.22861
+    },
+    "47302": {
+      "code": "47302",
+      "region": "Karlovacka zupanija",
+      "city": "Ostarije",
+      "latitude": 45.22472,
+      "longitude": 15.27333
+    },
+    "48000": {
+      "code": "48000",
+      "region": "Koprivnicko-krizevacka zupanija",
+      "city": "Koprivnica",
+      "latitude": 46.16278,
+      "longitude": 16.8275
+    },
+    "48260": {
+      "code": "48260",
+      "region": "Koprivnicko-krizevacka zupanija",
+      "city": "Krizevci",
+      "latitude": 46.02194,
+      "longitude": 16.5425
+    },
+    "48317": {
+      "code": "48317",
+      "region": "Koprivnicko-krizevacka zupanija",
+      "city": "Legrad",
+      "latitude": 46.2975,
+      "longitude": 16.85667
+    },
+    "48321": {
+      "code": "48321",
+      "region": "Koprivnicko-krizevacka zupanija",
+      "city": "Sigetec",
+      "latitude": 46.18833,
+      "longitude": 16.93583
+    },
+    "48322": {
+      "code": "48322",
+      "region": "Koprivnicko-krizevacka zupanija",
+      "city": "Drnje",
+      "latitude": 46.20694,
+      "longitude": 16.91694
+    },
+    "48326": {
+      "code": "48326",
+      "region": "Koprivnicko-krizevacka zupanija",
+      "city": "Virje",
+      "latitude": 46.06722,
+      "longitude": 16.99
+    },
+    "48350": {
+      "code": "48350",
+      "region": "Koprivnicko-krizevacka zupanija",
+      "city": "Kalinovac",
+      "latitude": 46.02944,
+      "longitude": 17.11556
+    },
+    "48361": {
+      "code": "48361",
+      "region": "Koprivnicko-krizevacka zupanija",
+      "city": "Kalinovac",
+      "latitude": 46.02944,
+      "longitude": 17.11556
+    },
+    "49000": {
+      "code": "49000",
+      "region": "Krapinsko-zagorska zupanija",
+      "city": "Krapina",
+      "latitude": 46.16083,
+      "longitude": 15.87889
+    },
+    "49210": {
+      "code": "49210",
+      "region": "Krapinsko-zagorska zupanija",
+      "city": "Zabok",
+      "latitude": 46.02944,
+      "longitude": 15.915
+    },
+    "49218": {
+      "code": "49218",
+      "region": "Krapinsko-zagorska zupanija",
+      "city": "Pregrada",
+      "latitude": 46.16417,
+      "longitude": 15.75083
+    },
+    "49221": {
+      "code": "49221",
+      "region": "Krapinsko-zagorska zupanija",
+      "city": "Bedekovcina",
+      "latitude": 46.04111,
+      "longitude": 15.99639
+    },
+    "49232": {
+      "code": "49232",
+      "region": "Krapinsko-zagorska zupanija",
+      "city": "Radoboj",
+      "latitude": 46.16639,
+      "longitude": 15.92361
+    },
+    "49240": {
+      "code": "49240",
+      "region": "Krapinsko-zagorska zupanija",
+      "city": "Donja Stubica",
+      "latitude": 45.979952,
+      "longitude": 15.97255
+    },
+    "49243": {
+      "code": "49243",
+      "region": "Krapinsko-zagorska zupanija",
+      "city": "Oroslavje",
+      "latitude": 46.00278,
+      "longitude": 15.91139
+    },
+    "49245": {
+      "code": "49245",
+      "region": "Krapinsko-zagorska zupanija",
+      "city": "Selnica",
+      "latitude": 46.02333,
+      "longitude": 16.03917
+    },
+    "49246": {
+      "code": "49246",
+      "region": "Krapinsko-zagorska zupanija",
+      "city": "Marija Bistrica",
+      "latitude": 46.00611,
+      "longitude": 16.11111
+    },
+    "49250": {
+      "code": "49250",
+      "region": "Krapinsko-zagorska zupanija",
+      "city": "Zlatar",
+      "latitude": 46.09417,
+      "longitude": 16.07083
+    },
+    "49252": {
+      "code": "49252",
+      "region": "Krapinsko-zagorska zupanija",
+      "city": "Mihovljan",
+      "latitude": 46.13306,
+      "longitude": 15.97222
+    },
+    "49290": {
+      "code": "49290",
+      "region": "Krapinsko-zagorska zupanija",
+      "city": "Klanjec",
+      "latitude": 46.05059,
+      "longitude": 15.744512
+    },
+    "51000": {
+      "code": "51000",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Rijeka",
+      "latitude": 45.34306,
+      "longitude": 14.40917
+    },
+    "51215": {
+      "code": "51215",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Kastav",
+      "latitude": 45.37528,
+      "longitude": 14.34861
+    },
+    "51216": {
+      "code": "51216",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Rijeka",
+      "latitude": 45.34306,
+      "longitude": 14.40917
+    },
+    "51224": {
+      "code": "51224",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Krasica",
+      "latitude": 45.30972,
+      "longitude": 14.55556
+    },
+    "51226": {
+      "code": "51226",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Hreljin",
+      "latitude": 45.2825,
+      "longitude": 14.59917
+    },
+    "51242": {
+      "code": "51242",
+      "region": "Splitsko-dalmatinska zupanija",
+      "city": "Veliki Drvenik",
+      "latitude": 43.45,
+      "longitude": 16.15
+    },
+    "51250": {
+      "code": "51250",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Novi Vinodolski",
+      "latitude": 45.12806,
+      "longitude": 14.78889
+    },
+    "51260": {
+      "code": "51260",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Crikvenica",
+      "latitude": 45.17722,
+      "longitude": 14.69278
+    },
+    "51262": {
+      "code": "51262",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Kraljevica",
+      "latitude": 45.26972,
+      "longitude": 14.57083
+    },
+    "51266": {
+      "code": "51266",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Selce",
+      "latitude": 45.15639,
+      "longitude": 14.72111
+    },
+    "51280": {
+      "code": "51280",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Banjol",
+      "latitude": 44.75,
+      "longitude": 14.78333
+    },
+    "51281": {
+      "code": "51281",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Lopar",
+      "latitude": 44.8325,
+      "longitude": 14.73028
+    },
+    "51300": {
+      "code": "51300",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Delnice",
+      "latitude": 45.40083,
+      "longitude": 14.79972
+    },
+    "51306": {
+      "code": "51306",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Cabar",
+      "latitude": 45.594319,
+      "longitude": 14.647072
+    },
+    "51326": {
+      "code": "51326",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Vrbovsko",
+      "latitude": 45.36861,
+      "longitude": 15.07833
+    },
+    "51410": {
+      "code": "51410",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Opatija",
+      "latitude": 45.33917,
+      "longitude": 14.30833
+    },
+    "51414": {
+      "code": "51414",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Opatija",
+      "latitude": 45.33917,
+      "longitude": 14.30833
+    },
+    "51415": {
+      "code": "51415",
+      "region": "Istarska zupanija",
+      "city": "Lovran",
+      "latitude": 45.29194,
+      "longitude": 14.27417
+    },
+    "51500": {
+      "code": "51500",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Krk",
+      "latitude": 45.02583,
+      "longitude": 14.57306
+    },
+    "51512": {
+      "code": "51512",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Njivice",
+      "latitude": 45.15806,
+      "longitude": 14.53861
+    },
+    "51513": {
+      "code": "51513",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Omisalj",
+      "latitude": 45.20889,
+      "longitude": 14.55639
+    },
+    "51521": {
+      "code": "51521",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Punat",
+      "latitude": 45.01472,
+      "longitude": 14.62889
+    },
+    "51550": {
+      "code": "51550",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Mali Losinj",
+      "latitude": 44.53056,
+      "longitude": 14.46861
+    },
+    "51557": {
+      "code": "51557",
+      "region": "Primorsko-goranska zupanija",
+      "city": "Cres",
+      "latitude": 44.96092,
+      "longitude": 14.41246
+    },
+    "52000": {
+      "code": "52000",
+      "region": "Istarska zupanija",
+      "city": "Pazin",
+      "latitude": 45.24028,
+      "longitude": 13.93667
+    },
+    "52100": {
+      "code": "52100",
+      "region": "Istarska zupanija",
+      "city": "Pula",
+      "latitude": 44.86833,
+      "longitude": 13.84806
+    },
+    "52203": {
+      "code": "52203",
+      "region": "Istarska zupanija",
+      "city": "Medulin",
+      "latitude": 44.8225,
+      "longitude": 13.935
+    },
+    "52206": {
+      "code": "52206",
+      "region": "Istarska zupanija",
+      "city": "Marcana",
+      "latitude": 44.95528,
+      "longitude": 13.95389
+    },
+    "52210": {
+      "code": "52210",
+      "region": "Istarska zupanija",
+      "city": "Rovinj",
+      "latitude": 45.08,
+      "longitude": 13.64
+    },
+    "52212": {
+      "code": "52212",
+      "region": "Istarska zupanija",
+      "city": "Fazana",
+      "latitude": 44.9275,
+      "longitude": 13.80361
+    },
+    "52215": {
+      "code": "52215",
+      "region": "Istarska zupanija",
+      "city": "Vodnjan",
+      "latitude": 44.95944,
+      "longitude": 13.85167
+    },
+    "52216": {
+      "code": "52216",
+      "region": "Istarska zupanija",
+      "city": "Galizana",
+      "latitude": 44.93167,
+      "longitude": 13.86861
+    },
+    "52220": {
+      "code": "52220",
+      "region": "Istarska zupanija",
+      "city": "Labin",
+      "latitude": 45.095,
+      "longitude": 14.11972
+    },
+    "52221": {
+      "code": "52221",
+      "region": "Istarska zupanija",
+      "city": "Rabac",
+      "latitude": 45.07944,
+      "longitude": 14.1575
+    },
+    "52223": {
+      "code": "52223",
+      "region": "Istarska zupanija",
+      "city": "Rasa",
+      "latitude": 45.08028,
+      "longitude": 14.07889
+    },
+    "52420": {
+      "code": "52420",
+      "region": "Istarska zupanija",
+      "city": "Buzet",
+      "latitude": 45.40944,
+      "longitude": 13.96667
+    },
+    "52423": {
+      "code": "52423",
+      "region": "Istarska zupanija",
+      "city": "Karojba",
+      "latitude": 45.30083,
+      "longitude": 13.82306
+    },
+    "52440": {
+      "code": "52440",
+      "region": "Istarska zupanija",
+      "city": "Porec",
+      "latitude": 45.22583,
+      "longitude": 13.59389
+    },
+    "52450": {
+      "code": "52450",
+      "region": "Istarska zupanija",
+      "city": "Vrsar",
+      "latitude": 45.14917,
+      "longitude": 13.60528
+    },
+    "52460": {
+      "code": "52460",
+      "region": "Istarska zupanija",
+      "city": "Buje",
+      "latitude": 45.41,
+      "longitude": 13.66194
+    },
+    "52466": {
+      "code": "52466",
+      "region": "Istarska zupanija",
+      "city": "Novigrad",
+      "latitude": 45.315,
+      "longitude": 13.55806
+    },
+    "52470": {
+      "code": "52470",
+      "region": "Istarska zupanija",
+      "city": "Umag",
+      "latitude": 45.43139,
+      "longitude": 13.52389
+    },
+    "53000": {
+      "code": "53000",
+      "region": "Licko-senjska zupanija",
+      "city": "Gospic",
+      "latitude": 44.54611,
+      "longitude": 15.37472
+    },
+    "53220": {
+      "code": "53220",
+      "region": "Licko-senjska zupanija",
+      "city": "Otocac",
+      "latitude": 44.86944,
+      "longitude": 15.2375
+    },
+    "53231": {
+      "code": "53231",
+      "region": "Licko-senjska zupanija",
+      "city": "Jezerce",
+      "latitude": 44.8825,
+      "longitude": 15.62028
+    },
+    "53260": {
+      "code": "53260",
+      "region": "Licko-senjska zupanija",
+      "city": "Brinje",
+      "latitude": 45.0025,
+      "longitude": 15.13389
+    },
+    "53270": {
+      "code": "53270",
+      "region": "Licko-senjska zupanija",
+      "city": "Senj",
+      "latitude": 44.98944,
+      "longitude": 14.90583
+    },
+    "53288": {
+      "code": "53288",
+      "region": "Licko-senjska zupanija",
+      "city": "Karlobag",
+      "latitude": 44.5275,
+      "longitude": 15.07389
+    },
+    "53291": {
+      "code": "53291",
+      "region": "Licko-senjska zupanija",
+      "city": "Novalja",
+      "latitude": 44.55778,
+      "longitude": 14.88667
+    },
+    "": {
+      "code": "",
+      "region": "",
+      "city": "",
+      "latitude": 45.81444,
+      "longitude": 15.97798
+    }
+  }
+}
