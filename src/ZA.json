@@ -1,0 +1,1609 @@
+{
+  "id": "ZA",
+  "country": "South Africa",
+  "postal": {
+    "1021": {
+      "code": "1021",
+      "region": "Gauteng",
+      "city": "Ekangala",
+      "latitude": -25.69619,
+      "longitude": 28.74918
+    },
+    "1028": {
+      "code": "1028",
+      "region": "Gauteng",
+      "city": "Bronkhorstspruit",
+      "latitude": -25.81015,
+      "longitude": 28.74248
+    },
+    "1030": {
+      "code": "1030",
+      "region": "Mpumalanga",
+      "city": "Siyabuswa",
+      "latitude": -25.11319,
+      "longitude": 29.04454
+    },
+    "1098": {
+      "code": "1098",
+      "region": "Mpumalanga",
+      "city": "Hendrina",
+      "latitude": -26.15881,
+      "longitude": 29.71528
+    },
+    "1126": {
+      "code": "1126",
+      "region": "Mpumalanga",
+      "city": "Lydenburg",
+      "latitude": -25.0978,
+      "longitude": 30.45967
+    },
+    "1256": {
+      "code": "1256",
+      "region": "Mpumalanga",
+      "city": "White River",
+      "latitude": -25.33177,
+      "longitude": 31.01166
+    },
+    "1301": {
+      "code": "1301",
+      "region": "Mpumalanga",
+      "city": "Belfast",
+      "latitude": -25.68991,
+      "longitude": 30.03504
+    },
+    "1309": {
+      "code": "1309",
+      "region": "Mpumalanga",
+      "city": "Barberton",
+      "latitude": -25.78842,
+      "longitude": 31.05319
+    },
+    "1345": {
+      "code": "1345",
+      "region": "Mpumalanga",
+      "city": "Komatipoort",
+      "latitude": -25.4332,
+      "longitude": 31.95478
+    },
+    "1355": {
+      "code": "1355",
+      "region": "Mpumalanga",
+      "city": "Nelspruit",
+      "latitude": -25.47448,
+      "longitude": 30.97033
+    },
+    "1369": {
+      "code": "1369",
+      "region": "Limpopo",
+      "city": "Thulamahashi",
+      "latitude": -24.72459,
+      "longitude": 31.19939
+    },
+    "1396": {
+      "code": "1396",
+      "region": "Limpopo",
+      "city": "Phalaborwa",
+      "latitude": -23.94299,
+      "longitude": 31.14107
+    },
+    "1444": {
+      "code": "1444",
+      "region": "Gauteng",
+      "city": "Heidelberg",
+      "latitude": -26.50476,
+      "longitude": 28.35921
+    },
+    "1484": {
+      "code": "1484",
+      "region": "Gauteng",
+      "city": "Alberton",
+      "latitude": -26.267222,
+      "longitude": 28.121944
+    },
+    "1485": {
+      "code": "1485",
+      "region": "Gauteng",
+      "city": "Boksburg",
+      "latitude": -26.21197,
+      "longitude": 28.25958
+    },
+    "1497": {
+      "code": "1497",
+      "region": "Gauteng",
+      "city": "Germiston",
+      "latitude": -26.217778,
+      "longitude": 28.167222
+    },
+    "1527": {
+      "code": "1527",
+      "region": "Gauteng",
+      "city": "Benoni",
+      "latitude": -26.18848,
+      "longitude": 28.32078
+    },
+    "1554": {
+      "code": "1554",
+      "region": "Gauteng",
+      "city": "Brakpan",
+      "latitude": -26.23656,
+      "longitude": 28.36938
+    },
+    "1590": {
+      "code": "1590",
+      "region": "Gauteng",
+      "city": "Nigel",
+      "latitude": -26.43138,
+      "longitude": 28.47713
+    },
+    "1609": {
+      "code": "1609",
+      "region": "Gauteng",
+      "city": "Modderfontein",
+      "latitude": -26.08909,
+      "longitude": 28.16534
+    },
+    "1639": {
+      "code": "1639",
+      "region": "Gauteng",
+      "city": "Kempton Park",
+      "latitude": -26.1,
+      "longitude": 28.233333
+    },
+    "1685": {
+      "code": "1685",
+      "region": "Gauteng",
+      "city": "Midrand",
+      "latitude": -25.96361,
+      "longitude": 28.13778
+    },
+    "1693": {
+      "code": "1693",
+      "region": "Gauteng",
+      "city": "Midrand",
+      "latitude": -25.96361,
+      "longitude": 28.13778
+    },
+    "1794": {
+      "code": "1794",
+      "region": "Gauteng",
+      "city": "Roodepoort",
+      "latitude": -26.1625,
+      "longitude": 27.8725
+    },
+    "1809": {
+      "code": "1809",
+      "region": "Gauteng",
+      "city": "Soweto",
+      "latitude": -26.26781,
+      "longitude": 27.85849
+    },
+    "1914": {
+      "code": "1914",
+      "region": "Gauteng",
+      "city": "Vanderbijlpark",
+      "latitude": -26.71171,
+      "longitude": 27.83795
+    },
+    "1932": {
+      "code": "1932",
+      "region": "Free State",
+      "city": "Deneysville",
+      "latitude": -26.8908,
+      "longitude": 28.09707
+    },
+    "1933": {
+      "code": "1933",
+      "region": "Gauteng",
+      "city": "Krugersdorp",
+      "latitude": -26.08577,
+      "longitude": 27.77515
+    },
+    "1944": {
+      "code": "1944",
+      "region": "Gauteng",
+      "city": "Vereeniging",
+      "latitude": -26.67313,
+      "longitude": 27.92615
+    },
+    "2000": {
+      "code": "2000",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "2001": {
+      "code": "2001",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "2007": {
+      "code": "2007",
+      "region": "Gauteng",
+      "city": "Bedfordview",
+      "latitude": -26.179444,
+      "longitude": 28.136111
+    },
+    "2008": {
+      "code": "2008",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "2017": {
+      "code": "2017",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "2041": {
+      "code": "2041",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "2042": {
+      "code": "2042",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "2044": {
+      "code": "2044",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "2047": {
+      "code": "2047",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "2055": {
+      "code": "2055",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "2062": {
+      "code": "2062",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "2128": {
+      "code": "2128",
+      "region": "Gauteng",
+      "city": "Rivonia",
+      "latitude": -26.051389,
+      "longitude": 28.063056
+    },
+    "2144": {
+      "code": "2144",
+      "region": "Gauteng",
+      "city": "Sandton",
+      "latitude": -26.05447,
+      "longitude": 28.05891
+    },
+    "2145": {
+      "code": "2145",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "2152": {
+      "code": "2152",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "2164": {
+      "code": "2164",
+      "region": "Gauteng",
+      "city": "Sandton",
+      "latitude": -26.05447,
+      "longitude": 28.05891
+    },
+    "2191": {
+      "code": "2191",
+      "region": "Gauteng",
+      "city": "Sandton",
+      "latitude": -26.05447,
+      "longitude": 28.05891
+    },
+    "2194": {
+      "code": "2194",
+      "region": "Gauteng",
+      "city": "Randburg",
+      "latitude": -26.093611,
+      "longitude": 28.006389
+    },
+    "2196": {
+      "code": "2196",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "2213": {
+      "code": "2213",
+      "region": "Mpumalanga",
+      "city": "Delmas",
+      "latitude": -26.1466,
+      "longitude": 28.68322
+    },
+    "2230": {
+      "code": "2230",
+      "region": "Mpumalanga",
+      "city": "Witbank",
+      "latitude": -25.87133,
+      "longitude": 29.23323
+    },
+    "2276": {
+      "code": "2276",
+      "region": "Mpumalanga",
+      "city": "Kriel",
+      "latitude": -26.27391,
+      "longitude": 29.2253
+    },
+    "2285": {
+      "code": "2285",
+      "region": "Mpumalanga",
+      "city": "eMbalenhle",
+      "latitude": -26.53333,
+      "longitude": 29.06667
+    },
+    "2301": {
+      "code": "2301",
+      "region": "Mpumalanga",
+      "city": "Secunda",
+      "latitude": -26.55,
+      "longitude": 29.16667
+    },
+    "2320": {
+      "code": "2320",
+      "region": "Mpumalanga",
+      "city": "Bethal",
+      "latitude": -26.45794,
+      "longitude": 29.46553
+    },
+    "2330": {
+      "code": "2330",
+      "region": "Mpumalanga",
+      "city": "Breyten",
+      "latitude": -26.30176,
+      "longitude": 29.98696
+    },
+    "2370": {
+      "code": "2370",
+      "region": "Mpumalanga",
+      "city": "Ermelo",
+      "latitude": -26.53333,
+      "longitude": 29.98333
+    },
+    "2389": {
+      "code": "2389",
+      "region": "Mpumalanga",
+      "city": "Piet Retief",
+      "latitude": -27.00706,
+      "longitude": 30.81323
+    },
+    "2410": {
+      "code": "2410",
+      "region": "Mpumalanga",
+      "city": "Balfour",
+      "latitude": -26.66331,
+      "longitude": 28.59016
+    },
+    "2436": {
+      "code": "2436",
+      "region": "Mpumalanga",
+      "city": "Standerton",
+      "latitude": -26.93366,
+      "longitude": 29.24152
+    },
+    "2491": {
+      "code": "2491",
+      "region": "Mpumalanga",
+      "city": "Volksrust",
+      "latitude": -27.36542,
+      "longitude": 29.88175
+    },
+    "2515": {
+      "code": "2515",
+      "region": "North-West",
+      "city": "Fochville",
+      "latitude": -26.48862,
+      "longitude": 27.49387
+    },
+    "2519": {
+      "code": "2519",
+      "region": "Gauteng",
+      "city": "Carletonville",
+      "latitude": -26.36094,
+      "longitude": 27.39767
+    },
+    "2538": {
+      "code": "2538",
+      "region": "North-West",
+      "city": "Potchefstroom",
+      "latitude": -26.71667,
+      "longitude": 27.1
+    },
+    "2562": {
+      "code": "2562",
+      "region": "North-West",
+      "city": "Stilfontein",
+      "latitude": -26.84493,
+      "longitude": 26.76829
+    },
+    "2572": {
+      "code": "2572",
+      "region": "North-West",
+      "city": "Klerksdorp",
+      "latitude": -26.85213,
+      "longitude": 26.66672
+    },
+    "2627": {
+      "code": "2627",
+      "region": "North-West",
+      "city": "Orkney",
+      "latitude": -26.98023,
+      "longitude": 26.67272
+    },
+    "2630": {
+      "code": "2630",
+      "region": "North-West",
+      "city": "Wolmaransstad",
+      "latitude": -27.1974,
+      "longitude": 25.98311
+    },
+    "2662": {
+      "code": "2662",
+      "region": "Free State",
+      "city": "Hoopstad",
+      "latitude": -27.83274,
+      "longitude": 25.90833
+    },
+    "2762": {
+      "code": "2762",
+      "region": "North-West",
+      "city": "Lichtenburg",
+      "latitude": -26.152,
+      "longitude": 26.15968
+    },
+    "2777": {
+      "code": "2777",
+      "region": "North-West",
+      "city": "Mmabatho",
+      "latitude": -25.85,
+      "longitude": 25.63333
+    },
+    "2786": {
+      "code": "2786",
+      "region": "North-West",
+      "city": "Schweizer-Reneke",
+      "latitude": -27.18871,
+      "longitude": 25.32931
+    },
+    "2895": {
+      "code": "2895",
+      "region": "North-West",
+      "city": "Zeerust",
+      "latitude": -25.53695,
+      "longitude": 26.07512
+    },
+    "2980": {
+      "code": "2980",
+      "region": "Kwazulu-Natal",
+      "city": "Utrecht",
+      "latitude": -27.65862,
+      "longitude": 30.32166
+    },
+    "3020": {
+      "code": "3020",
+      "region": "Kwazulu-Natal",
+      "city": "Ekuvukeni",
+      "latitude": -28.46752,
+      "longitude": 30.15513
+    },
+    "3081": {
+      "code": "3081",
+      "region": "Kwazulu-Natal",
+      "city": "Dundee",
+      "latitude": -28.16678,
+      "longitude": 30.23371
+    },
+    "3082": {
+      "code": "3082",
+      "region": "Kwazulu-Natal",
+      "city": "Newcastle",
+      "latitude": -27.75796,
+      "longitude": 29.9318
+    },
+    "3137": {
+      "code": "3137",
+      "region": "Kwazulu-Natal",
+      "city": "Mondlo",
+      "latitude": -27.98299,
+      "longitude": 30.71769
+    },
+    "3184": {
+      "code": "3184",
+      "region": "Kwazulu-Natal",
+      "city": "Vryheid",
+      "latitude": -27.76952,
+      "longitude": 30.79165
+    },
+    "3296": {
+      "code": "3296",
+      "region": "Kwazulu-Natal",
+      "city": "Pietermaritzburg",
+      "latitude": -29.61678,
+      "longitude": 30.39278
+    },
+    "3300": {
+      "code": "3300",
+      "region": "Kwazulu-Natal",
+      "city": "Mooirivier",
+      "latitude": -29.20824,
+      "longitude": 29.9946
+    },
+    "3303": {
+      "code": "3303",
+      "region": "Kwazulu-Natal",
+      "city": "Howick",
+      "latitude": -29.47795,
+      "longitude": 30.23057
+    },
+    "3308": {
+      "code": "3308",
+      "region": "Kwazulu-Natal",
+      "city": "Mpophomeni",
+      "latitude": -29.56822,
+      "longitude": 30.18618
+    },
+    "3500": {
+      "code": "3500",
+      "region": "Kwazulu-Natal",
+      "city": "Greytown",
+      "latitude": -29.06416,
+      "longitude": 30.59279
+    },
+    "3730": {
+      "code": "3730",
+      "region": "Kwazulu-Natal",
+      "city": "Mpumalanga",
+      "latitude": -29.81292,
+      "longitude": 30.63646
+    },
+    "3818": {
+      "code": "3818",
+      "region": "Kwazulu-Natal",
+      "city": "Sundumbili",
+      "latitude": -29.13371,
+      "longitude": 31.39752
+    },
+    "3830": {
+      "code": "3830",
+      "region": "Kwazulu-Natal",
+      "city": "Eshowe",
+      "latitude": -28.88648,
+      "longitude": 31.4699
+    },
+    "3838": {
+      "code": "3838",
+      "region": "Kwazulu-Natal",
+      "city": "Ulundi",
+      "latitude": -28.33523,
+      "longitude": 31.41617
+    },
+    "3867": {
+      "code": "3867",
+      "region": "Kwazulu-Natal",
+      "city": "Mtunzini",
+      "latitude": -28.95,
+      "longitude": 31.75
+    },
+    "3880": {
+      "code": "3880",
+      "region": "Kwazulu-Natal",
+      "city": "Empangeni",
+      "latitude": -28.76197,
+      "longitude": 31.89329
+    },
+    "3887": {
+      "code": "3887",
+      "region": "Kwazulu-Natal",
+      "city": "eSikhawini",
+      "latitude": -28.87097,
+      "longitude": 31.89961
+    },
+    "3900": {
+      "code": "3900",
+      "region": "Kwazulu-Natal",
+      "city": "Richards Bay",
+      "latitude": -28.78301,
+      "longitude": 32.03768
+    },
+    "3960": {
+      "code": "3960",
+      "region": "Kwazulu-Natal",
+      "city": "Hluhluwe",
+      "latitude": -28.01895,
+      "longitude": 32.26762
+    },
+    "4001": {
+      "code": "4001",
+      "region": "Kwazulu-Natal",
+      "city": "Durban",
+      "latitude": -29.8579,
+      "longitude": 31.0292
+    },
+    "4062": {
+      "code": "4062",
+      "region": "Gauteng",
+      "city": "Cullinan",
+      "latitude": -25.67088,
+      "longitude": 28.52364
+    },
+    "4091": {
+      "code": "4091",
+      "region": "Kwazulu-Natal",
+      "city": "Berea",
+      "latitude": -29.85185,
+      "longitude": 30.99337
+    },
+    "4186": {
+      "code": "4186",
+      "region": "Kwazulu-Natal",
+      "city": "Scottburgh",
+      "latitude": -30.28666,
+      "longitude": 30.75316
+    },
+    "4281": {
+      "code": "4281",
+      "region": "Kwazulu-Natal",
+      "city": "Margate",
+      "latitude": -30.8636,
+      "longitude": 30.37052
+    },
+    "4380": {
+      "code": "4380",
+      "region": "Kwazulu-Natal",
+      "city": "Ballitoville",
+      "latitude": -29.53897,
+      "longitude": 31.21439
+    },
+    "4490": {
+      "code": "4490",
+      "region": "Kwazulu-Natal",
+      "city": "Stanger",
+      "latitude": -29.32816,
+      "longitude": 31.28954
+    },
+    "4642": {
+      "code": "4642",
+      "region": "Kwazulu-Natal",
+      "city": "Port Shepstone",
+      "latitude": -30.74137,
+      "longitude": 30.45499
+    },
+    "4710": {
+      "code": "4710",
+      "region": "Kwazulu-Natal",
+      "city": "Kokstad",
+      "latitude": -30.54723,
+      "longitude": 29.42412
+    },
+    "4828": {
+      "code": "4828",
+      "region": "Eastern Cape",
+      "city": "Port Saint John's",
+      "latitude": -31.62291,
+      "longitude": 29.54477
+    },
+    "4935": {
+      "code": "4935",
+      "region": "Eastern Cape",
+      "city": "Stutterheim",
+      "latitude": -32.57076,
+      "longitude": 27.42396
+    },
+    "5013": {
+      "code": "5013",
+      "region": "Eastern Cape",
+      "city": "Butterworth",
+      "latitude": -32.33083,
+      "longitude": 28.14981
+    },
+    "5127": {
+      "code": "5127",
+      "region": "Eastern Cape",
+      "city": "Umtata",
+      "latitude": -31.58893,
+      "longitude": 28.78443
+    },
+    "5201": {
+      "code": "5201",
+      "region": "Eastern Cape",
+      "city": "East London",
+      "latitude": -33.01529,
+      "longitude": 27.91162
+    },
+    "5330": {
+      "code": "5330",
+      "region": "Eastern Cape",
+      "city": "Queenstown",
+      "latitude": -31.89756,
+      "longitude": 26.87533
+    },
+    "5455": {
+      "code": "5455",
+      "region": "Eastern Cape",
+      "city": "Elliot",
+      "latitude": -31.33333,
+      "longitude": 27.85
+    },
+    "5500": {
+      "code": "5500",
+      "region": "Eastern Cape",
+      "city": "Molteno",
+      "latitude": -31.39676,
+      "longitude": 26.36246
+    },
+    "5630": {
+      "code": "5630",
+      "region": "Eastern Cape",
+      "city": "Whittlesea",
+      "latitude": -32.17588,
+      "longitude": 26.82437
+    },
+    "5671": {
+      "code": "5671",
+      "region": "Eastern Cape",
+      "city": "Bhisho",
+      "latitude": -32.84721,
+      "longitude": 27.44218
+    },
+    "5708": {
+      "code": "5708",
+      "region": "Eastern Cape",
+      "city": "Alice",
+      "latitude": -32.78749,
+      "longitude": 26.8344
+    },
+    "5730": {
+      "code": "5730",
+      "region": "Eastern Cape",
+      "city": "Fort Beaufort",
+      "latitude": -32.77477,
+      "longitude": 26.63376
+    },
+    "5760": {
+      "code": "5760",
+      "region": "Eastern Cape",
+      "city": "Adelaide",
+      "latitude": -32.70747,
+      "longitude": 26.29564
+    },
+    "5850": {
+      "code": "5850",
+      "region": "Eastern Cape",
+      "city": "Somerset East",
+      "latitude": -32.72173,
+      "longitude": 25.58804
+    },
+    "5884": {
+      "code": "5884",
+      "region": "Eastern Cape",
+      "city": "Cradock",
+      "latitude": -32.16422,
+      "longitude": 25.61918
+    },
+    "5900": {
+      "code": "5900",
+      "region": "Mpumalanga",
+      "city": "Middelburg",
+      "latitude": -25.77507,
+      "longitude": 29.46482
+    },
+    "6000": {
+      "code": "6000",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "6020": {
+      "code": "6020",
+      "region": "Eastern Cape",
+      "city": "Port Elizabeth",
+      "latitude": -33.91799,
+      "longitude": 25.57007
+    },
+    "6125": {
+      "code": "6125",
+      "region": "Eastern Cape",
+      "city": "Kirkwood",
+      "latitude": -33.39829,
+      "longitude": 25.44278
+    },
+    "6150": {
+      "code": "6150",
+      "region": "Eastern Cape",
+      "city": "Grahamstown",
+      "latitude": -33.30422,
+      "longitude": 26.53276
+    },
+    "6175": {
+      "code": "6175",
+      "region": "Eastern Cape",
+      "city": "Port Alfred",
+      "latitude": -33.59057,
+      "longitude": 26.89104
+    },
+    "6242": {
+      "code": "6242",
+      "region": "Eastern Cape",
+      "city": "Uitenhage",
+      "latitude": -33.75757,
+      "longitude": 25.3971
+    },
+    "6286": {
+      "code": "6286",
+      "region": "Eastern Cape",
+      "city": "Graaff-Reinet",
+      "latitude": -32.25215,
+      "longitude": 24.53075
+    },
+    "6332": {
+      "code": "6332",
+      "region": "Eastern Cape",
+      "city": "Jeffrey's Bay",
+      "latitude": -34.05064,
+      "longitude": 24.9195
+    },
+    "6375": {
+      "code": "6375",
+      "region": "Eastern Cape",
+      "city": "Kruisfontein",
+      "latitude": -34.00333,
+      "longitude": 24.73142
+    },
+    "6454": {
+      "code": "6454",
+      "region": "Eastern Cape",
+      "city": "Willowmore",
+      "latitude": -33.29265,
+      "longitude": 23.48954
+    },
+    "6570": {
+      "code": "6570",
+      "region": "Western Cape",
+      "city": "Knysna",
+      "latitude": -34.03627,
+      "longitude": 23.04713
+    },
+    "6606": {
+      "code": "6606",
+      "region": "Western Cape",
+      "city": "Plettenberg Bay",
+      "latitude": -34.05274,
+      "longitude": 23.3716
+    },
+    "6615": {
+      "code": "6615",
+      "region": "Western Cape",
+      "city": "George",
+      "latitude": -33.963,
+      "longitude": 22.46173
+    },
+    "6651": {
+      "code": "6651",
+      "region": "Western Cape",
+      "city": "Oudtshoorn",
+      "latitude": -33.59067,
+      "longitude": 22.2014
+    },
+    "6743": {
+      "code": "6743",
+      "region": "Western Cape",
+      "city": "Swellendam",
+      "latitude": -34.02262,
+      "longitude": 20.44171
+    },
+    "6840": {
+      "code": "6840",
+      "region": "Western Cape",
+      "city": "Ceres",
+      "latitude": -33.36889,
+      "longitude": 19.31096
+    },
+    "6870": {
+      "code": "6870",
+      "region": "Western Cape",
+      "city": "Worcester",
+      "latitude": -33.64651,
+      "longitude": 19.44852
+    },
+    "6973": {
+      "code": "6973",
+      "region": "Western Cape",
+      "city": "Beaufort West",
+      "latitude": -32.35671,
+      "longitude": 22.58295
+    },
+    "7005": {
+      "code": "7005",
+      "region": "Eastern Cape",
+      "city": "Middelburg",
+      "latitude": -31.49285,
+      "longitude": 25.00633
+    },
+    "7090": {
+      "code": "7090",
+      "region": "Kwazulu-Natal",
+      "city": "Richmond",
+      "latitude": -29.87196,
+      "longitude": 30.27235
+    },
+    "7130": {
+      "code": "7130",
+      "region": "Western Cape",
+      "city": "Somerset West",
+      "latitude": -34.083333,
+      "longitude": 18.85
+    },
+    "7140": {
+      "code": "7140",
+      "region": "Western Cape",
+      "city": "Cape Town",
+      "latitude": -33.92584,
+      "longitude": 18.42322
+    },
+    "7210": {
+      "code": "7210",
+      "region": "Western Cape",
+      "city": "Hermanus",
+      "latitude": -34.4187,
+      "longitude": 19.23446
+    },
+    "7232": {
+      "code": "7232",
+      "region": "Western Cape",
+      "city": "Caledon",
+      "latitude": -34.22997,
+      "longitude": 19.4265
+    },
+    "7287": {
+      "code": "7287",
+      "region": "Western Cape",
+      "city": "Bredasdorp",
+      "latitude": -34.53215,
+      "longitude": 20.04031
+    },
+    "7308": {
+      "code": "7308",
+      "region": "Western Cape",
+      "city": "Malmesbury",
+      "latitude": -33.4608,
+      "longitude": 18.72714
+    },
+    "7395": {
+      "code": "7395",
+      "region": "Western Cape",
+      "city": "Saldanha",
+      "latitude": -33.01167,
+      "longitude": 17.9442
+    },
+    "7441": {
+      "code": "7441",
+      "region": "Western Cape",
+      "city": "Sunset Beach",
+      "latitude": -33.85395,
+      "longitude": 18.49231
+    },
+    "7535": {
+      "code": "7535",
+      "region": "Western Cape",
+      "city": "Cape Town",
+      "latitude": -33.92584,
+      "longitude": 18.42322
+    },
+    "7550": {
+      "code": "7550",
+      "region": "Western Cape",
+      "city": "Cape Town",
+      "latitude": -33.92584,
+      "longitude": 18.42322
+    },
+    "7615": {
+      "code": "7615",
+      "region": "Western Cape",
+      "city": "Stellenbosch",
+      "latitude": -33.93462,
+      "longitude": 18.86676
+    },
+    "7700": {
+      "code": "7700",
+      "region": "Northern Cape",
+      "city": "Carnarvon",
+      "latitude": -30.96827,
+      "longitude": 22.13303
+    },
+    "7735": {
+      "code": "7735",
+      "region": "Western Cape",
+      "city": "Claremont",
+      "latitude": -33.98056,
+      "longitude": 18.46528
+    },
+    "7740": {
+      "code": "7740",
+      "region": "Western Cape",
+      "city": "Claremont",
+      "latitude": -33.98056,
+      "longitude": 18.46528
+    },
+    "7785": {
+      "code": "7785",
+      "region": "Western Cape",
+      "city": "Rosebank",
+      "latitude": -33.95556,
+      "longitude": 18.47417
+    },
+    "7947": {
+      "code": "7947",
+      "region": "Eastern Cape",
+      "city": "Ilinge",
+      "latitude": -31.97676,
+      "longitude": 27.04267
+    },
+    "7975": {
+      "code": "7975",
+      "region": "Western Cape",
+      "city": "Constantia",
+      "latitude": -34.03139,
+      "longitude": 18.41833
+    },
+    "8000": {
+      "code": "8000",
+      "region": "Western Cape",
+      "city": "Cape Town",
+      "latitude": -33.92584,
+      "longitude": 18.42322
+    },
+    "8001": {
+      "code": "8001",
+      "region": "Western Cape",
+      "city": "Cape Town",
+      "latitude": -33.92584,
+      "longitude": 18.42322
+    },
+    "8160": {
+      "code": "8160",
+      "region": "Western Cape",
+      "city": "Cape Town",
+      "latitude": -33.92584,
+      "longitude": 18.42322
+    },
+    "8193": {
+      "code": "8193",
+      "region": "Northern Cape",
+      "city": "Calvinia",
+      "latitude": -31.47069,
+      "longitude": 19.77601
+    },
+    "8207": {
+      "code": "8207",
+      "region": "Western Cape",
+      "city": "Vredendal",
+      "latitude": -31.66833,
+      "longitude": 18.50119
+    },
+    "8330": {
+      "code": "8330",
+      "region": "North-West",
+      "city": "Christiana",
+      "latitude": -27.91402,
+      "longitude": 25.16111
+    },
+    "8377": {
+      "code": "8377",
+      "region": "Northern Cape",
+      "city": "Barkly West",
+      "latitude": -28.53537,
+      "longitude": 24.52151
+    },
+    "8405": {
+      "code": "8405",
+      "region": "Northern Cape",
+      "city": "Danielskuil",
+      "latitude": -28.18873,
+      "longitude": 23.53951
+    },
+    "8450": {
+      "code": "8450",
+      "region": "Northern Cape",
+      "city": "Kathu",
+      "latitude": -27.69569,
+      "longitude": 23.04929
+    },
+    "8470": {
+      "code": "8470",
+      "region": "Northern Cape",
+      "city": "Kuruman",
+      "latitude": -27.4524,
+      "longitude": 23.43246
+    },
+    "8532": {
+      "code": "8532",
+      "region": "Northern Cape",
+      "city": "Warrenton",
+      "latitude": -28.11396,
+      "longitude": 24.84753
+    },
+    "8560": {
+      "code": "8560",
+      "region": "North-West",
+      "city": "Jan Kempdorp",
+      "latitude": -27.92246,
+      "longitude": 24.83052
+    },
+    "8570": {
+      "code": "8570",
+      "region": "North-West",
+      "city": "Pampierstad",
+      "latitude": -27.78324,
+      "longitude": 24.68768
+    },
+    "8680": {
+      "code": "8680",
+      "region": "North-West",
+      "city": "Vryburg",
+      "latitude": -26.95659,
+      "longitude": 24.7284
+    },
+    "8701": {
+      "code": "8701",
+      "region": "Northern Cape",
+      "city": "Ritchie",
+      "latitude": -29.03801,
+      "longitude": 24.60278
+    },
+    "8745": {
+      "code": "8745",
+      "region": "Northern Cape",
+      "city": "Kimberley",
+      "latitude": -28.73226,
+      "longitude": 24.76232
+    },
+    "8780": {
+      "code": "8780",
+      "region": "Northern Cape",
+      "city": "De Aar",
+      "latitude": -30.64966,
+      "longitude": 24.0123
+    },
+    "8824": {
+      "code": "8824",
+      "region": "Northern Cape",
+      "city": "Upington",
+      "latitude": -28.44776,
+      "longitude": 21.25612
+    },
+    "8893": {
+      "code": "8893",
+      "region": "Northern Cape",
+      "city": "Springbok",
+      "latitude": -29.66434,
+      "longitude": 17.8865
+    },
+    "9301": {
+      "code": "9301",
+      "region": "Free State",
+      "city": "Bloemfontein",
+      "latitude": -29.12106,
+      "longitude": 26.214
+    },
+    "9400": {
+      "code": "9400",
+      "region": "Free State",
+      "city": "Brandfort",
+      "latitude": -28.70008,
+      "longitude": 26.45968
+    },
+    "9421": {
+      "code": "9421",
+      "region": "Free State",
+      "city": "Winburg",
+      "latitude": -28.51805,
+      "longitude": 27.00933
+    },
+    "9450": {
+      "code": "9450",
+      "region": "Free State",
+      "city": "Ventersburg",
+      "latitude": -28.08561,
+      "longitude": 27.13814
+    },
+    "9483": {
+      "code": "9483",
+      "region": "Free State",
+      "city": "Kutloanong",
+      "latitude": -27.83333,
+      "longitude": 26.75
+    },
+    "9484": {
+      "code": "9484",
+      "region": "Free State",
+      "city": "Virginia",
+      "latitude": -28.10391,
+      "longitude": 26.86593
+    },
+    "9488": {
+      "code": "9488",
+      "region": "Free State",
+      "city": "Welkom",
+      "latitude": -27.98644,
+      "longitude": 26.70661
+    },
+    "9505": {
+      "code": "9505",
+      "region": "Free State",
+      "city": "Kroonstad",
+      "latitude": -27.65036,
+      "longitude": 27.23488
+    },
+    "9540": {
+      "code": "9540",
+      "region": "Free State",
+      "city": "Koppies",
+      "latitude": -27.24179,
+      "longitude": 27.57422
+    },
+    "9580": {
+      "code": "9580",
+      "region": "Free State",
+      "city": "Sasolburg",
+      "latitude": -26.81358,
+      "longitude": 27.81695
+    },
+    "9585": {
+      "code": "9585",
+      "region": "Free State",
+      "city": "Parys",
+      "latitude": -26.9033,
+      "longitude": 27.45727
+    },
+    "9600": {
+      "code": "9600",
+      "region": "Free State",
+      "city": "Senekal",
+      "latitude": -28.31971,
+      "longitude": 27.62082
+    },
+    "9610": {
+      "code": "9610",
+      "region": "Free State",
+      "city": "Marquard",
+      "latitude": -28.66449,
+      "longitude": 27.43048
+    },
+    "9650": {
+      "code": "9650",
+      "region": "Free State",
+      "city": "Heilbron",
+      "latitude": -27.28115,
+      "longitude": 27.9709
+    },
+    "9663": {
+      "code": "9663",
+      "region": "Free State",
+      "city": "Bothaville",
+      "latitude": -27.3887,
+      "longitude": 26.61701
+    },
+    "9682": {
+      "code": "9682",
+      "region": "Free State",
+      "city": "Wesselsbron",
+      "latitude": -27.8549,
+      "longitude": 26.36583
+    },
+    "9706": {
+      "code": "9706",
+      "region": "Free State",
+      "city": "Bethlehem",
+      "latitude": -28.23078,
+      "longitude": 28.30707
+    },
+    "9735": {
+      "code": "9735",
+      "region": "Free State",
+      "city": "Clocolan",
+      "latitude": -28.91367,
+      "longitude": 27.56556
+    },
+    "9744": {
+      "code": "9744",
+      "region": "Eastern Cape",
+      "city": "Burgersdorp",
+      "latitude": -30.99766,
+      "longitude": 26.32862
+    },
+    "9748": {
+      "code": "9748",
+      "region": "Free State",
+      "city": "Ladybrand",
+      "latitude": -29.19448,
+      "longitude": 27.45739
+    },
+    "9754": {
+      "code": "9754",
+      "region": "Eastern Cape",
+      "city": "Aliwal North",
+      "latitude": -30.69366,
+      "longitude": 26.71141
+    },
+    "9789": {
+      "code": "9789",
+      "region": "Free State",
+      "city": "Botshabelo",
+      "latitude": -29.27016,
+      "longitude": 26.7052
+    },
+    "9790": {
+      "code": "9790",
+      "region": "Free State",
+      "city": "Thaba Nchu",
+      "latitude": -29.20932,
+      "longitude": 26.83898
+    },
+    "9810": {
+      "code": "9810",
+      "region": "Free State",
+      "city": "Reitz",
+      "latitude": -27.80138,
+      "longitude": 28.42726
+    },
+    "9830": {
+      "code": "9830",
+      "region": "Free State",
+      "city": "Frankfort",
+      "latitude": -27.26667,
+      "longitude": 28.48333
+    },
+    "9835": {
+      "code": "9835",
+      "region": "Free State",
+      "city": "Vrede",
+      "latitude": -27.42573,
+      "longitude": 29.16585
+    },
+    "9840": {
+      "code": "9840",
+      "region": "Free State",
+      "city": "Villiers",
+      "latitude": -27.03026,
+      "longitude": 28.60061
+    },
+    "9866": {
+      "code": "9866",
+      "region": "Free State",
+      "city": "Phuthaditjhaba",
+      "latitude": -28.52423,
+      "longitude": 28.81582
+    },
+    "9885": {
+      "code": "9885",
+      "region": "Free State",
+      "city": "Harrismith",
+      "latitude": -28.27276,
+      "longitude": 29.12946
+    },
+    "9922": {
+      "code": "9922",
+      "region": "Northern Cape",
+      "city": "Colesberg",
+      "latitude": -30.71999,
+      "longitude": 25.09718
+    },
+    "9928": {
+      "code": "9928",
+      "region": "Free State",
+      "city": "Bloemfontein",
+      "latitude": -29.12106,
+      "longitude": 26.214
+    },
+    "9951": {
+      "code": "9951",
+      "region": "Free State",
+      "city": "Zastron",
+      "latitude": -30.30225,
+      "longitude": 27.08395
+    },
+    "0172": {
+      "code": "0172",
+      "region": "Gauteng",
+      "city": "Centurion",
+      "latitude": -25.85891,
+      "longitude": 28.18577
+    },
+    "": {
+      "code": "",
+      "region": "",
+      "city": "",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    "0183": {
+      "code": "0183",
+      "region": "Gauteng",
+      "city": "Pretoria",
+      "latitude": -25.74486,
+      "longitude": 28.18783
+    },
+    "0960": {
+      "code": "0960",
+      "region": "Limpopo",
+      "city": "Louis Trichardt",
+      "latitude": -23.04385,
+      "longitude": 29.90319
+    },
+    "0959": {
+      "code": "0959",
+      "region": "Limpopo",
+      "city": "Thohoyandou",
+      "latitude": -22.94564,
+      "longitude": 30.48497
+    },
+    "0690": {
+      "code": "0690",
+      "region": "Limpopo",
+      "city": "Mokopane",
+      "latitude": -24.19436,
+      "longitude": 29.00974
+    },
+    "0378": {
+      "code": "0378",
+      "region": "North-West",
+      "city": "Rustenburg",
+      "latitude": -25.66756,
+      "longitude": 27.24208
+    },
+    "0795": {
+      "code": "0795",
+      "region": "Limpopo",
+      "city": "Polokwane",
+      "latitude": -23.90448,
+      "longitude": 29.46885
+    },
+    "0277": {
+      "code": "0277",
+      "region": "North-West",
+      "city": "Brits",
+      "latitude": -25.63473,
+      "longitude": 27.78022
+    },
+    "0557": {
+      "code": "0557",
+      "region": "Limpopo",
+      "city": "Ellisras",
+      "latitude": -23.6649,
+      "longitude": 27.74426
+    },
+    "0769": {
+      "code": "0769",
+      "region": "Limpopo",
+      "city": "Mankoeng",
+      "latitude": -23.9,
+      "longitude": 29.81667
+    },
+    "0204": {
+      "code": "0204",
+      "region": "North-West",
+      "city": "Ga-Rankuwa",
+      "latitude": -25.61692,
+      "longitude": 27.99471
+    },
+    "0876": {
+      "code": "0876",
+      "region": "Limpopo",
+      "city": "Tzaneen",
+      "latitude": -23.83322,
+      "longitude": 30.16351
+    },
+    "0500": {
+      "code": "0500",
+      "region": "Limpopo",
+      "city": "Thabazimbi",
+      "latitude": -24.59165,
+      "longitude": 27.41155
+    },
+    "0539": {
+      "code": "0539",
+      "region": "Limpopo",
+      "city": "Modimolle",
+      "latitude": -24.7,
+      "longitude": 28.4
+    },
+    "0492": {
+      "code": "0492",
+      "region": "Limpopo",
+      "city": "Warmbaths",
+      "latitude": -24.88333,
+      "longitude": 28.28333
+    },
+    "0987": {
+      "code": "0987",
+      "region": "Limpopo",
+      "city": "Giyani",
+      "latitude": -23.30246,
+      "longitude": 30.71868
+    },
+    "0900": {
+      "code": "0900",
+      "region": "Limpopo",
+      "city": "Messina",
+      "latitude": -22.35131,
+      "longitude": 30.0396
+    },
+    "0890": {
+      "code": "0890",
+      "region": "Limpopo",
+      "city": "Nkowakowa",
+      "latitude": -23.88782,
+      "longitude": 30.28708
+    },
+    "0739": {
+      "code": "0739",
+      "region": "Limpopo",
+      "city": "Lebowakgomo",
+      "latitude": -24.2,
+      "longitude": 29.5
+    },
+    "0815": {
+      "code": "0815",
+      "region": "Limpopo",
+      "city": "Ga-Kgapane",
+      "latitude": -23.63333,
+      "longitude": 30.21667
+    },
+    "0369": {
+      "code": "0369",
+      "region": "North-West",
+      "city": "Koster",
+      "latitude": -25.86301,
+      "longitude": 26.89756
+    },
+    "0046": {
+      "code": "0046",
+      "region": "Gauteng",
+      "city": "Centurion",
+      "latitude": -25.85891,
+      "longitude": 28.18577
+    },
+    "0152": {
+      "code": "0152",
+      "region": "Gauteng",
+      "city": "Soshanguve",
+      "latitude": -25.522646,
+      "longitude": 28.100572
+    }
+  }
+}
