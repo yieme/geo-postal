@@ -1,0 +1,34 @@
+{
+  "id": "IM",
+  "country": "Isle of Man",
+  "postal": {
+    "IM2": {
+      "code": "IM2",
+      "region": "Isle of Man",
+      "city": "Douglas",
+      "latitude": 54.15,
+      "longitude": -4.48333
+    },
+    "IM9": {
+      "code": "IM9",
+      "region": "Isle of Man",
+      "city": "Port Erin",
+      "latitude": 54.08487,
+      "longitude": -4.75099
+    },
+    "IM2 1AL": {
+      "code": "IM2 1AL",
+      "region": "Isle of Man",
+      "city": "Douglas",
+      "latitude": 54.15,
+      "longitude": -4.48333
+    },
+    "IM1 1EW": {
+      "code": "IM1 1EW",
+      "region": "Isle of Man",
+      "city": "Douglas",
+      "latitude": 54.15,
+      "longitude": -4.48333
+    }
+  }
+}
