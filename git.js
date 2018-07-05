@@ -6,7 +6,6 @@ var pack   = require('./package.json')
 var ver    = pack.version.replace('1.0.0', '')
 
 var files = fs.readdirSync(srcDir);
-var allData = {}
 for (var i in files) {
   var filename = files[i];
   if (filename.indexOf('.json') > 0) {
