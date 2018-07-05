@@ -1,0 +1,48 @@
+{
+  "id": "YT",
+  "country": "Mayotte",
+  "postal": {
+    "97600": {
+      "code": "97600",
+      "region": "Mamoudzou",
+      "city": "Mamoudzou",
+      "latitude": -12.77944,
+      "longitude": 45.22722
+    },
+    "97630": {
+      "code": "97630",
+      "region": "Mtsamboro",
+      "city": "Mtsamboro",
+      "latitude": -12.69982,
+      "longitude": 45.06894
+    },
+    "97640": {
+      "code": "97640",
+      "region": "Sada",
+      "city": "Sada",
+      "latitude": -12.85055,
+      "longitude": 45.10205
+    },
+    "97650": {
+      "code": "97650",
+      "region": "Bandraboua",
+      "city": "Bandraboua",
+      "latitude": -12.70167,
+      "longitude": 45.12056
+    },
+    "97670": {
+      "code": "97670",
+      "region": "Ouangani",
+      "city": "Ouangani",
+      "latitude": -12.84639,
+      "longitude": 45.13611
+    },
+    "97680": {
+      "code": "97680",
+      "region": "Tsingoni",
+      "city": "Tsingoni",
+      "latitude": -12.78722,
+      "longitude": 45.10278
+    }
+  }
+}
