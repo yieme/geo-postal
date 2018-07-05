@@ -1,0 +1,55 @@
+{
+  "id": "VG",
+  "country": "Virgin Islands, British",
+  "postal": {
+    "146": {
+      "code": "146",
+      "region": "British Virgin Islands",
+      "city": "Road Town",
+      "latitude": 18.41667,
+      "longitude": -64.61667
+    },
+    "362": {
+      "code": "362",
+      "region": "British Virgin Islands",
+      "city": "Road Town",
+      "latitude": 18.41667,
+      "longitude": -64.61667
+    },
+    "3469": {
+      "code": "3469",
+      "region": "British Virgin Islands",
+      "city": "Road Town",
+      "latitude": 18.41667,
+      "longitude": -64.61667
+    },
+    "VG1110": {
+      "code": "VG1110",
+      "region": "British Virgin Islands",
+      "city": "Road Town",
+      "latitude": 18.41667,
+      "longitude": -64.61667
+    },
+    "00362": {
+      "code": "00362",
+      "region": "British Virgin Islands",
+      "city": "Road Town",
+      "latitude": 18.41667,
+      "longitude": -64.61667
+    },
+    "02884": {
+      "code": "02884",
+      "region": "British Virgin Islands",
+      "city": "Road Town",
+      "latitude": 18.41667,
+      "longitude": -64.61667
+    },
+    "NA": {
+      "code": "NA",
+      "region": "British Virgin Islands",
+      "city": "Road Town",
+      "latitude": 18.41667,
+      "longitude": -64.61667
+    }
+  }
+}
