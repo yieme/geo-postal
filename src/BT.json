@@ -1,0 +1,69 @@
+{
+  "id": "BT",
+  "country": "Bhutan",
+  "postal": {
+    "810": {
+      "code": "810",
+      "region": "Thimphu",
+      "city": "Thimphu",
+      "latitude": 27.46609,
+      "longitude": 89.64191
+    },
+    "11001": {
+      "code": "11001",
+      "region": "Thimphu",
+      "city": "Thimphu",
+      "latitude": 27.46609,
+      "longitude": 89.64191
+    },
+    "12001": {
+      "code": "12001",
+      "region": "Paro",
+      "city": "Paro",
+      "latitude": 27.43333,
+      "longitude": 89.41667
+    },
+    "13001": {
+      "code": "13001",
+      "region": "Punakha",
+      "city": "Pajo",
+      "latitude": 27.53333,
+      "longitude": 89.88333
+    },
+    "16001": {
+      "code": "16001",
+      "region": "Gasa",
+      "city": "Gasa",
+      "latitude": 27.90372,
+      "longitude": 89.72689
+    },
+    "21101": {
+      "code": "21101",
+      "region": "Chhukha",
+      "city": "Phuntsholing",
+      "latitude": 26.85164,
+      "longitude": 89.38837
+    },
+    "43001": {
+      "code": "43001",
+      "region": "Monggar",
+      "city": "Mongar",
+      "latitude": 27.25,
+      "longitude": 91.2
+    },
+    "46001": {
+      "code": "46001",
+      "region": "Trashi Yangtse",
+      "city": "Tashi Yangtse",
+      "latitude": 27.58333,
+      "longitude": 91.46667
+    },
+    "": {
+      "code": "",
+      "region": "Wangdue Phodrang",
+      "city": "Wangdue Phodrang",
+      "latitude": 27.4862,
+      "longitude": 89.8991
+    }
+  }
+}
