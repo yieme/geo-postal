@@ -1,0 +1,90 @@
+{
+  "id": "IQ",
+  "country": "Iraq",
+  "postal": {
+    "10013": {
+      "code": "10013",
+      "region": "Baghdad",
+      "city": "Baghdad",
+      "latitude": 33.34058,
+      "longitude": 44.40088
+    },
+    "10015": {
+      "code": "10015",
+      "region": "Baghdad",
+      "city": "Baghdad",
+      "latitude": 33.34058,
+      "longitude": 44.40088
+    },
+    "12216": {
+      "code": "12216",
+      "region": "Kirkuk",
+      "city": "Kirkuk",
+      "latitude": 35.46806,
+      "longitude": 44.39222
+    },
+    "13420": {
+      "code": "13420",
+      "region": "Baghdad",
+      "city": "Baghdad",
+      "latitude": 33.34058,
+      "longitude": 44.40088
+    },
+    "15237": {
+      "code": "15237",
+      "region": "Arbil",
+      "city": "Erbil",
+      "latitude": 36.19257,
+      "longitude": 44.01062
+    },
+    "25412": {
+      "code": "25412",
+      "region": "Baghdad",
+      "city": "Baghdad",
+      "latitude": 33.34058,
+      "longitude": 44.40088
+    },
+    "42001": {
+      "code": "42001",
+      "region": "Arbil",
+      "city": "Erbil",
+      "latitude": 36.19257,
+      "longitude": 44.01062
+    },
+    "44000": {
+      "code": "44000",
+      "region": "Arbil",
+      "city": "Erbil",
+      "latitude": 36.19257,
+      "longitude": 44.01062
+    },
+    "61001": {
+      "code": "61001",
+      "region": "Al Basrah",
+      "city": "Al Basrah",
+      "latitude": 30.53488,
+      "longitude": 47.78885
+    },
+    "82001": {
+      "code": "82001",
+      "region": "Baghdad",
+      "city": "Baghdad",
+      "latitude": 33.34058,
+      "longitude": 44.40088
+    },
+    "": {
+      "code": "",
+      "region": "Baghdad",
+      "city": "Baghdad",
+      "latitude": 33.34058,
+      "longitude": 44.40088
+    },
+    "00964": {
+      "code": "00964",
+      "region": "Baghdad",
+      "city": "Baghdad",
+      "latitude": 33.34058,
+      "longitude": 44.40088
+    }
+  }
+}
