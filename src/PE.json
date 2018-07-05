@@ -1,0 +1,1091 @@
+{
+  "id": "PE",
+  "country": "Peru",
+  "postal": {
+    "11": {
+      "code": "11",
+      "region": "Lima",
+      "city": "Lima",
+      "latitude": -12.043333,
+      "longitude": -77.028333
+    },
+    "14": {
+      "code": "14",
+      "region": "Lima",
+      "city": "Lima",
+      "latitude": -12.043333,
+      "longitude": -77.028333
+    },
+    "27": {
+      "code": "27",
+      "region": "Lima",
+      "city": "San Isidro",
+      "latitude": -12.11667,
+      "longitude": -77.05
+    },
+    "33": {
+      "code": "33",
+      "region": "Lima",
+      "city": "San Isidro",
+      "latitude": -12.11667,
+      "longitude": -77.05
+    },
+    "210": {
+      "code": "210",
+      "region": "Lima",
+      "city": "Lima",
+      "latitude": -12.043333,
+      "longitude": -77.028333
+    },
+    "401": {
+      "code": "401",
+      "region": "Lima",
+      "city": "Lima",
+      "latitude": -12.043333,
+      "longitude": -77.028333
+    },
+    "801": {
+      "code": "801",
+      "region": "Lima",
+      "city": "Lima",
+      "latitude": -12.043333,
+      "longitude": -77.028333
+    },
+    "10000": {
+      "code": "10000",
+      "region": "Huanuco",
+      "city": "Huanuco",
+      "latitude": -9.9329,
+      "longitude": -76.24153
+    },
+    "10140": {
+      "code": "10140",
+      "region": "Huanuco",
+      "city": "Tingo Maria",
+      "latitude": -9.28951,
+      "longitude": -76.00876
+    },
+    "10420": {
+      "code": "10420",
+      "region": "Huanuco",
+      "city": "Ambo",
+      "latitude": -10.13083,
+      "longitude": -76.20472
+    },
+    "10580": {
+      "code": "10580",
+      "region": "Huanuco",
+      "city": "Llata",
+      "latitude": -9.41667,
+      "longitude": -76.78333
+    },
+    "11000": {
+      "code": "11000",
+      "region": "Ica",
+      "city": "Los Aquijes",
+      "latitude": -14.09667,
+      "longitude": -75.69083
+    },
+    "11004": {
+      "code": "11004",
+      "region": "Ica",
+      "city": "Subtanjalla",
+      "latitude": -14.01889,
+      "longitude": -75.75806
+    },
+    "11200": {
+      "code": "11200",
+      "region": "Ica",
+      "city": "Chincha Alta",
+      "latitude": -13.40985,
+      "longitude": -76.13235
+    },
+    "11220": {
+      "code": "11220",
+      "region": "Ica",
+      "city": "Ica",
+      "latitude": -14.06528,
+      "longitude": -75.73083
+    },
+    "11230": {
+      "code": "11230",
+      "region": "Ica",
+      "city": "Santiago",
+      "latitude": -14.18861,
+      "longitude": -75.71417
+    },
+    "11400": {
+      "code": "11400",
+      "region": "Ica",
+      "city": "Nazca",
+      "latitude": -14.83333,
+      "longitude": -74.95
+    },
+    "11420": {
+      "code": "11420",
+      "region": "Ica",
+      "city": "Minas de Marcona",
+      "latitude": -15.21194,
+      "longitude": -75.11028
+    },
+    "11550": {
+      "code": "11550",
+      "region": "Ica",
+      "city": "Paracas",
+      "latitude": -13.86667,
+      "longitude": -76.26667
+    },
+    "11600": {
+      "code": "11600",
+      "region": "Ica",
+      "city": "Pisco",
+      "latitude": -13.7,
+      "longitude": -76.21667
+    },
+    "11631": {
+      "code": "11631",
+      "region": "Ica",
+      "city": "Villa Tupac Amaru",
+      "latitude": -13.7,
+      "longitude": -76.15
+    },
+    "12007": {
+      "code": "12007",
+      "region": "Junin",
+      "city": "Huancayo",
+      "latitude": -12.06667,
+      "longitude": -75.23333
+    },
+    "12260": {
+      "code": "12260",
+      "region": "Junin",
+      "city": "Satipo",
+      "latitude": -11.25222,
+      "longitude": -74.63861
+    },
+    "12300": {
+      "code": "12300",
+      "region": "Junin",
+      "city": "Mazamari",
+      "latitude": -11.32583,
+      "longitude": -74.53083
+    },
+    "12575": {
+      "code": "12575",
+      "region": "Junin",
+      "city": "La Oroya",
+      "latitude": -11.51893,
+      "longitude": -75.89935
+    },
+    "12601": {
+      "code": "12601",
+      "region": "Junin",
+      "city": "Jauja",
+      "latitude": -11.77584,
+      "longitude": -75.49656
+    },
+    "12640": {
+      "code": "12640",
+      "region": "Loreto",
+      "city": "Contamana",
+      "latitude": -7.33333,
+      "longitude": -75.01667
+    },
+    "12650": {
+      "code": "12650",
+      "region": "Junin",
+      "city": "Tarma",
+      "latitude": -11.41972,
+      "longitude": -75.69083
+    },
+    "12730": {
+      "code": "12730",
+      "region": "Junin",
+      "city": "Junin",
+      "latitude": -11.15889,
+      "longitude": -75.99306
+    },
+    "12845": {
+      "code": "12845",
+      "region": "Junin",
+      "city": "San Ramon",
+      "latitude": -11.12139,
+      "longitude": -75.35306
+    },
+    "12865": {
+      "code": "12865",
+      "region": "Junin",
+      "city": "Perene",
+      "latitude": -10.94917,
+      "longitude": -75.22611
+    },
+    "13007": {
+      "code": "13007",
+      "region": "La Libertad",
+      "city": "Trujillo",
+      "latitude": -8.11599,
+      "longitude": -79.02998
+    },
+    "13115": {
+      "code": "13115",
+      "region": "La Libertad",
+      "city": "Otuzco",
+      "latitude": -7.9,
+      "longitude": -78.58333
+    },
+    "13300": {
+      "code": "13300",
+      "region": "La Libertad",
+      "city": "Huamachuco",
+      "latitude": -7.8,
+      "longitude": -78.06667
+    },
+    "13620": {
+      "code": "13620",
+      "region": "La Libertad",
+      "city": "Viru",
+      "latitude": -8.41667,
+      "longitude": -78.75
+    },
+    "13710": {
+      "code": "13710",
+      "region": "La Libertad",
+      "city": "Ascope",
+      "latitude": -7.71444,
+      "longitude": -79.10778
+    },
+    "13740": {
+      "code": "13740",
+      "region": "La Libertad",
+      "city": "Santiago de Cao",
+      "latitude": -7.95889,
+      "longitude": -79.23917
+    },
+    "13800": {
+      "code": "13800",
+      "region": "La Libertad",
+      "city": "Pacasmayo",
+      "latitude": -7.40056,
+      "longitude": -79.57139
+    },
+    "13850": {
+      "code": "13850",
+      "region": "La Libertad",
+      "city": "Pacanga",
+      "latitude": -7.16667,
+      "longitude": -79.5
+    },
+    "13870": {
+      "code": "13870",
+      "region": "La Libertad",
+      "city": "Chepen",
+      "latitude": -7.21667,
+      "longitude": -79.45
+    },
+    "14004": {
+      "code": "14004",
+      "region": "Lambayeque",
+      "city": "Chiclayo",
+      "latitude": -6.77361,
+      "longitude": -79.84167
+    },
+    "14120": {
+      "code": "14120",
+      "region": "Lambayeque",
+      "city": "Tucume",
+      "latitude": -6.51,
+      "longitude": -79.85833
+    },
+    "14210": {
+      "code": "14210",
+      "region": "Lambayeque",
+      "city": "Olmos",
+      "latitude": -5.98472,
+      "longitude": -79.74528
+    },
+    "14220": {
+      "code": "14220",
+      "region": "Lambayeque",
+      "city": "Motupe",
+      "latitude": -6.15194,
+      "longitude": -79.71417
+    },
+    "15000": {
+      "code": "15000",
+      "region": "Lima",
+      "city": "Lima",
+      "latitude": -12.043333,
+      "longitude": -77.028333
+    },
+    "15130": {
+      "code": "15130",
+      "region": "Lima",
+      "city": "Chancay",
+      "latitude": -11.57139,
+      "longitude": -77.26722
+    },
+    "15135": {
+      "code": "15135",
+      "region": "Lima",
+      "city": "Huaura",
+      "latitude": -11.07,
+      "longitude": -77.59944
+    },
+    "15137": {
+      "code": "15137",
+      "region": "Lima",
+      "city": "Huacho",
+      "latitude": -11.10667,
+      "longitude": -77.605
+    },
+    "15170": {
+      "code": "15170",
+      "region": "Lima",
+      "city": "Barranca",
+      "latitude": -10.75,
+      "longitude": -77.76667
+    },
+    "15175": {
+      "code": "15175",
+      "region": "Lima",
+      "city": "Pativilca",
+      "latitude": -10.7,
+      "longitude": -77.78333
+    },
+    "15221": {
+      "code": "15221",
+      "region": "Lima",
+      "city": "Huaral",
+      "latitude": -11.495,
+      "longitude": -77.20778
+    },
+    "15240": {
+      "code": "15240",
+      "region": "Lima",
+      "city": "Sayan",
+      "latitude": -11.13611,
+      "longitude": -77.19333
+    },
+    "15275": {
+      "code": "15275",
+      "region": "Lima",
+      "city": "Oyon",
+      "latitude": -10.66806,
+      "longitude": -76.77306
+    },
+    "15556": {
+      "code": "15556",
+      "region": "Lima",
+      "city": "Matucana",
+      "latitude": -11.85,
+      "longitude": -76.4
+    },
+    "15605": {
+      "code": "15605",
+      "region": "Lima",
+      "city": "Mala",
+      "latitude": -12.65806,
+      "longitude": -76.63083
+    },
+    "15715": {
+      "code": "15715",
+      "region": "Lima",
+      "city": "Quilmana",
+      "latitude": -12.95,
+      "longitude": -76.38333
+    },
+    "15725": {
+      "code": "15725",
+      "region": "Lima",
+      "city": "San Vicente de Canete",
+      "latitude": -13.07512,
+      "longitude": -76.38352
+    },
+    "15870": {
+      "code": "15870",
+      "region": "Lima",
+      "city": "Chilca",
+      "latitude": -12.52111,
+      "longitude": -76.73722
+    },
+    "16000": {
+      "code": "16000",
+      "region": "Loreto",
+      "city": "Iquitos",
+      "latitude": -3.74806,
+      "longitude": -73.24722
+    },
+    "16240": {
+      "code": "16240",
+      "region": "Loreto",
+      "city": "Ramon Castilla",
+      "latitude": -4.25694,
+      "longitude": -69.95944
+    },
+    "16320": {
+      "code": "16320",
+      "region": "Loreto",
+      "city": "Saquena",
+      "latitude": -4.66667,
+      "longitude": -73.51667
+    },
+    "16500": {
+      "code": "16500",
+      "region": "Loreto",
+      "city": "Yurimaguas",
+      "latitude": -5.9,
+      "longitude": -76.08333
+    },
+    "17000": {
+      "code": "17000",
+      "region": "Madre de Dios",
+      "city": "Puerto Maldonado",
+      "latitude": -12.6,
+      "longitude": -69.18333
+    },
+    "17250": {
+      "code": "17250",
+      "region": "Madre de Dios",
+      "city": "Iberia",
+      "latitude": -11.35,
+      "longitude": -69.58333
+    },
+    "18000": {
+      "code": "18000",
+      "region": "Moquegua",
+      "city": "Moquegua",
+      "latitude": -17.19556,
+      "longitude": -70.93528
+    },
+    "18100": {
+      "code": "18100",
+      "region": "Moquegua",
+      "city": "Torata",
+      "latitude": -17.07694,
+      "longitude": -70.84333
+    },
+    "18610": {
+      "code": "18610",
+      "region": "Moquegua",
+      "city": "Ilo",
+      "latitude": -17.63944,
+      "longitude": -71.3375
+    },
+    "19230": {
+      "code": "19230",
+      "region": "Pasco",
+      "city": "Oxapampa",
+      "latitude": -10.5775,
+      "longitude": -75.40167
+    },
+    "19300": {
+      "code": "19300",
+      "region": "Pasco",
+      "city": "Villa Rica",
+      "latitude": -10.73944,
+      "longitude": -75.26972
+    },
+    "19400": {
+      "code": "19400",
+      "region": "Pasco",
+      "city": "Cerro de Pasco",
+      "latitude": -10.68333,
+      "longitude": -76.26667
+    },
+    "20100": {
+      "code": "20100",
+      "region": "Piura",
+      "city": "Sullana",
+      "latitude": -4.90389,
+      "longitude": -80.68528
+    },
+    "20200": {
+      "code": "20200",
+      "region": "Piura",
+      "city": "Tambo Grande",
+      "latitude": -4.92694,
+      "longitude": -80.34472
+    },
+    "20210": {
+      "code": "20210",
+      "region": "Piura",
+      "city": "Las Lomas",
+      "latitude": -4.65333,
+      "longitude": -80.24667
+    },
+    "20300": {
+      "code": "20300",
+      "region": "Piura",
+      "city": "Chulucanas",
+      "latitude": -5.0925,
+      "longitude": -80.1625
+    },
+    "20310": {
+      "code": "20310",
+      "region": "Piura",
+      "city": "Morropon",
+      "latitude": -5.18222,
+      "longitude": -79.96889
+    },
+    "20380": {
+      "code": "20380",
+      "region": "Piura",
+      "city": "Buenos Aires",
+      "latitude": -5.26083,
+      "longitude": -79.96417
+    },
+    "20480": {
+      "code": "20480",
+      "region": "Piura",
+      "city": "Huancabamba",
+      "latitude": -5.23861,
+      "longitude": -79.45056
+    },
+    "20630": {
+      "code": "20630",
+      "region": "Piura",
+      "city": "Piura",
+      "latitude": -5.2,
+      "longitude": -80.63333
+    },
+    "20641": {
+      "code": "20641",
+      "region": "Piura",
+      "city": "La Union",
+      "latitude": -5.4,
+      "longitude": -80.75
+    },
+    "20690": {
+      "code": "20690",
+      "region": "Piura",
+      "city": "Sechura",
+      "latitude": -5.55694,
+      "longitude": -80.82222
+    },
+    "20700": {
+      "code": "20700",
+      "region": "Piura",
+      "city": "Paita",
+      "latitude": -5.08917,
+      "longitude": -81.11444
+    },
+    "20780": {
+      "code": "20780",
+      "region": "Piura",
+      "city": "La Huaca",
+      "latitude": -4.91167,
+      "longitude": -80.96
+    },
+    "20810": {
+      "code": "20810",
+      "region": "Piura",
+      "city": "Talara",
+      "latitude": -4.57722,
+      "longitude": -81.27194
+    },
+    "20851": {
+      "code": "20851",
+      "region": "Piura",
+      "city": "Mancora",
+      "latitude": -4.10778,
+      "longitude": -81.0475
+    },
+    "21100": {
+      "code": "21100",
+      "region": "Puno",
+      "city": "Juliaca",
+      "latitude": -15.5,
+      "longitude": -70.13333
+    },
+    "21160": {
+      "code": "21160",
+      "region": "Puno",
+      "city": "Azangaro",
+      "latitude": -14.91667,
+      "longitude": -70.21667
+    },
+    "21250": {
+      "code": "21250",
+      "region": "Puno",
+      "city": "Macusani",
+      "latitude": -14.08333,
+      "longitude": -70.43333
+    },
+    "21355": {
+      "code": "21355",
+      "region": "Puno",
+      "city": "La Rinconada",
+      "latitude": -14.63126,
+      "longitude": -69.44638
+    },
+    "21450": {
+      "code": "21450",
+      "region": "Puno",
+      "city": "Putina",
+      "latitude": -15.46667,
+      "longitude": -69.43333
+    },
+    "21545": {
+      "code": "21545",
+      "region": "Puno",
+      "city": "Yunguyo",
+      "latitude": -16.25,
+      "longitude": -69.08333
+    },
+    "21670": {
+      "code": "21670",
+      "region": "Puno",
+      "city": "Puno",
+      "latitude": -15.83333,
+      "longitude": -70.03333
+    },
+    "21865": {
+      "code": "21865",
+      "region": "Puno",
+      "city": "Ayaviri",
+      "latitude": -14.88639,
+      "longitude": -70.58889
+    },
+    "21895": {
+      "code": "21895",
+      "region": "Puno",
+      "city": "Nunoa",
+      "latitude": -14.48,
+      "longitude": -70.64111
+    },
+    "22000": {
+      "code": "22000",
+      "region": "San Martin",
+      "city": "Moyobamba",
+      "latitude": -6.05,
+      "longitude": -76.96667
+    },
+    "22130": {
+      "code": "22130",
+      "region": "San Martin",
+      "city": "Lamas",
+      "latitude": -6.41667,
+      "longitude": -76.53333
+    },
+    "22245": {
+      "code": "22245",
+      "region": "San Martin",
+      "city": "Uchiza",
+      "latitude": -8.45917,
+      "longitude": -76.46333
+    },
+    "22430": {
+      "code": "22430",
+      "region": "San Martin",
+      "city": "Picota",
+      "latitude": -6.91969,
+      "longitude": -76.33037
+    },
+    "22480": {
+      "code": "22480",
+      "region": "San Martin",
+      "city": "Bellavista",
+      "latitude": -7.05614,
+      "longitude": -76.5911
+    },
+    "22540": {
+      "code": "22540",
+      "region": "San Martin",
+      "city": "Tocache Nuevo",
+      "latitude": -8.18417,
+      "longitude": -76.5125
+    },
+    "22600": {
+      "code": "22600",
+      "region": "San Martin",
+      "city": "Juanjui",
+      "latitude": -7.17785,
+      "longitude": -76.73135
+    },
+    "22865": {
+      "code": "22865",
+      "region": "San Martin",
+      "city": "Rioja",
+      "latitude": -6.05861,
+      "longitude": -77.165
+    },
+    "23000": {
+      "code": "23000",
+      "region": "Tacna",
+      "city": "Tacna",
+      "latitude": -18.00556,
+      "longitude": -70.24833
+    },
+    "23800": {
+      "code": "23800",
+      "region": "Tacna",
+      "city": "Ilabaya",
+      "latitude": -17.42083,
+      "longitude": -70.51333
+    },
+    "24000": {
+      "code": "24000",
+      "region": "Tumbes",
+      "city": "Tumbes",
+      "latitude": -3.56667,
+      "longitude": -80.44139
+    },
+    "24541": {
+      "code": "24541",
+      "region": "Tumbes",
+      "city": "Zorritos",
+      "latitude": -3.68046,
+      "longitude": -80.67819
+    },
+    "25000": {
+      "code": "25000",
+      "region": "Ucayali",
+      "city": "Pucallpa",
+      "latitude": -8.37915,
+      "longitude": -74.55387
+    },
+    "25500": {
+      "code": "25500",
+      "region": "Ucayali",
+      "city": "Campoverde",
+      "latitude": -8.47528,
+      "longitude": -74.80583
+    },
+    "08000": {
+      "code": "08000",
+      "region": "Cusco",
+      "city": "Cusco",
+      "latitude": -13.51833,
+      "longitude": -71.97806
+    },
+    "": {
+      "code": "",
+      "region": "",
+      "city": "",
+      "latitude": -12.043333,
+      "longitude": -77.028333
+    },
+    "LIMA11": {
+      "code": "LIMA11",
+      "region": "Lima",
+      "city": "Lima",
+      "latitude": -12.043333,
+      "longitude": -77.028333
+    },
+    "05250": {
+      "code": "05250",
+      "region": "Ayacucho",
+      "city": "San Miguel",
+      "latitude": -13.0125,
+      "longitude": -73.98083
+    },
+    "09000": {
+      "code": "09000",
+      "region": "Huancavelica",
+      "city": "Huancavelica",
+      "latitude": -12.76667,
+      "longitude": -74.98333
+    },
+    "06150": {
+      "code": "06150",
+      "region": "Cajamarca",
+      "city": "Cajamarca",
+      "latitude": -7.16378,
+      "longitude": -78.50027
+    },
+    "07000": {
+      "code": "07000",
+      "region": "El Callao",
+      "city": "Callao",
+      "latitude": -12.06667,
+      "longitude": -77.15
+    },
+    "04000": {
+      "code": "04000",
+      "region": "Arequipa",
+      "city": "Arequipa",
+      "latitude": -16.39889,
+      "longitude": -71.535
+    },
+    "05610": {
+      "code": "05610",
+      "region": "Ayacucho",
+      "city": "Coracora",
+      "latitude": -15.03333,
+      "longitude": -73.78333
+    },
+    "06435": {
+      "code": "06435",
+      "region": "Cajamarca",
+      "city": "Cascas",
+      "latitude": -7.48333,
+      "longitude": -78.81667
+    },
+    "01620": {
+      "code": "01620",
+      "region": "Amazonas",
+      "city": "Bagua Grande",
+      "latitude": -5.75611,
+      "longitude": -78.44111
+    },
+    "02165": {
+      "code": "02165",
+      "region": "Ancash",
+      "city": "Caras",
+      "latitude": -9.04667,
+      "longitude": -77.81139
+    },
+    "03620": {
+      "code": "03620",
+      "region": "Apurimac",
+      "city": "Andahuaylas",
+      "latitude": -13.65556,
+      "longitude": -73.38722
+    },
+    "05002": {
+      "code": "05002",
+      "region": "Ayacucho",
+      "city": "Ayacucho",
+      "latitude": -13.15833,
+      "longitude": -74.22389
+    },
+    "06260": {
+      "code": "06260",
+      "region": "Cajamarca",
+      "city": "Celendin",
+      "latitude": -6.87028,
+      "longitude": -78.15167
+    },
+    "02000": {
+      "code": "02000",
+      "region": "Ancash",
+      "city": "Huaraz",
+      "latitude": -9.53333,
+      "longitude": -77.53333
+    },
+    "02800": {
+      "code": "02800",
+      "region": "Ancash",
+      "city": "Chimbote",
+      "latitude": -9.08528,
+      "longitude": -78.57833
+    },
+    "08255": {
+      "code": "08255",
+      "region": "Cusco",
+      "city": "Sicuani",
+      "latitude": -14.26944,
+      "longitude": -71.22611
+    },
+    "01405": {
+      "code": "01405",
+      "region": "Amazonas",
+      "city": "Chachapoyas",
+      "latitude": -6.23169,
+      "longitude": -77.86903
+    },
+    "02115": {
+      "code": "02115",
+      "region": "Ancash",
+      "city": "Carhuaz",
+      "latitude": -9.28194,
+      "longitude": -77.64472
+    },
+    "08741": {
+      "code": "08741",
+      "region": "Cusco",
+      "city": "Santa Ana",
+      "latitude": -12.86667,
+      "longitude": -72.71667
+    },
+    "04415": {
+      "code": "04415",
+      "region": "Arequipa",
+      "city": "Mollendo",
+      "latitude": -17.02306,
+      "longitude": -72.01472
+    },
+    "08675": {
+      "code": "08675",
+      "region": "Cusco",
+      "city": "Ollantaytambo",
+      "latitude": -13.25722,
+      "longitude": -72.26306
+    },
+    "08660": {
+      "code": "08660",
+      "region": "Cusco",
+      "city": "Urubamba",
+      "latitude": -13.30472,
+      "longitude": -72.11583
+    },
+    "02260": {
+      "code": "02260",
+      "region": "Ancash",
+      "city": "Pomabamba",
+      "latitude": -8.83333,
+      "longitude": -77.46667
+    },
+    "08760": {
+      "code": "08760",
+      "region": "Cusco",
+      "city": "Pangoa",
+      "latitude": -12.11667,
+      "longitude": -73
+    },
+    "04115": {
+      "code": "04115",
+      "region": "Arequipa",
+      "city": "Lluta",
+      "latitude": -16.01472,
+      "longitude": -72.01417
+    },
+    "02650": {
+      "code": "02650",
+      "region": "Ancash",
+      "city": "Huarmey",
+      "latitude": -10.06806,
+      "longitude": -78.15222
+    },
+    "02811": {
+      "code": "02811",
+      "region": "Ancash",
+      "city": "Coishco",
+      "latitude": -9.02306,
+      "longitude": -78.61556
+    },
+    "08277": {
+      "code": "08277",
+      "region": "Cusco",
+      "city": "Checca",
+      "latitude": -14.47278,
+      "longitude": -71.39389
+    },
+    "04175": {
+      "code": "04175",
+      "region": "Arequipa",
+      "city": "Ccolo",
+      "latitude": -15.50583,
+      "longitude": -71.49167
+    },
+    "06120": {
+      "code": "06120",
+      "region": "Cajamarca",
+      "city": "Chota",
+      "latitude": -6.55,
+      "longitude": -78.65
+    },
+    "06115": {
+      "code": "06115",
+      "region": "Cajamarca",
+      "city": "Bambamarca",
+      "latitude": -6.68333,
+      "longitude": -78.53333
+    },
+    "06611": {
+      "code": "06611",
+      "region": "Cajamarca",
+      "city": "Jaen",
+      "latitude": -5.70806,
+      "longitude": -78.80472
+    },
+    "03110": {
+      "code": "03110",
+      "region": "Apurimac",
+      "city": "Abancay",
+      "latitude": -13.63389,
+      "longitude": -72.88139
+    },
+    "08420": {
+      "code": "08420",
+      "region": "Cusco",
+      "city": "Santo Tomas",
+      "latitude": -14.44556,
+      "longitude": -72.08417
+    },
+    "08242": {
+      "code": "08242",
+      "region": "Cusco",
+      "city": "Lima Pampa",
+      "latitude": -14.08861,
+      "longitude": -71.33722
+    },
+    "06345": {
+      "code": "06345",
+      "region": "Cajamarca",
+      "city": "Cajabamba",
+      "latitude": -7.61667,
+      "longitude": -78.05
+    },
+    "04550": {
+      "code": "04550",
+      "region": "Arequipa",
+      "city": "Acari",
+      "latitude": -15.43111,
+      "longitude": -74.61583
+    },
+    "08275": {
+      "code": "08275",
+      "region": "Cusco",
+      "city": "Layo",
+      "latitude": -14.49361,
+      "longitude": -71.155
+    },
+    "04445": {
+      "code": "04445",
+      "region": "Arequipa",
+      "city": "Camana",
+      "latitude": -16.62278,
+      "longitude": -72.71111
+    },
+    "08205": {
+      "code": "08205",
+      "region": "Cusco",
+      "city": "Oropesa",
+      "latitude": -13.59278,
+      "longitude": -71.77194
+    },
+    "08770": {
+      "code": "08770",
+      "region": "Cusco",
+      "city": "Calca",
+      "latitude": -13.33333,
+      "longitude": -71.95
+    },
+    "04655": {
+      "code": "04655",
+      "region": "Arequipa",
+      "city": "Orcopampa",
+      "latitude": -15.26611,
+      "longitude": -72.34167
+    },
+    "05645": {
+      "code": "05645",
+      "region": "Puno",
+      "city": "Lampa",
+      "latitude": -15.35,
+      "longitude": -70.36667
+    },
+    "04145": {
+      "code": "04145",
+      "region": "Arequipa",
+      "city": "Chivay",
+      "latitude": -15.63833,
+      "longitude": -71.60111
+    },
+    "04435": {
+      "code": "04435",
+      "region": "Arequipa",
+      "city": "Punta de Bombon",
+      "latitude": -17.17167,
+      "longitude": -71.79306
+    },
+    "0210": {
+      "code": "0210",
+      "region": "Lima",
+      "city": "Lima",
+      "latitude": -12.043333,
+      "longitude": -77.028333
+    }
+  }
+}
