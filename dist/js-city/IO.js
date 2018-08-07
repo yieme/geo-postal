@@ -1,1 +1,1 @@
-window.Postal={'':{r:'British Indian Ocean Territory',c:'Diego Garcia'}};
+window.Postal=window.Postal||{};Postal["IO"]={'':{r:'British Indian Ocean Territory',c:'Diego Garcia'}};

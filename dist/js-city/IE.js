@@ -1,1 +1,1 @@
-window.Postal={'15':{r:'Dublin',c:'Dublin'}, D8:'15', D20: {r:'Cork',c:'Cork'}, D4: {r:'Dublin',c:'Donnybrook'}, D17: {r:'Roscommon',c:'Roscommon'}, D15: {r:'Meath',c:'Dunboyne'}, D18: {r:'Wicklow',c:'Bray'}, DUBLIN15: {r:'Dublin',c:'Dublin'}, DUBLIN12:'DUBLIN15'};
+window.Postal=window.Postal||{};Postal["IE"]={'15':{r:'Dublin',c:'Dublin'}, D8:'15', D20: {r:'Cork',c:'Cork'}, D4: {r:'Dublin',c:'Donnybrook'}, D17: {r:'Roscommon',c:'Roscommon'}, D15: {r:'Meath',c:'Dunboyne'}, D18: {r:'Wicklow',c:'Bray'}, DUBLIN15: {r:'Dublin',c:'Dublin'}, DUBLIN12:'DUBLIN15'};

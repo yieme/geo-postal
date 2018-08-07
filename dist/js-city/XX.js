@@ -1,1 +1,1 @@
-window.Postal={'':''};
+window.Postal=window.Postal||{};Postal["XX"]={'':''};

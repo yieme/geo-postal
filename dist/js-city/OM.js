@@ -1,1 +1,1 @@
-window.Postal={'112':{r:'Masqat',c:'Muscat'},'151':'112', '240':'112', '789':'112', '':{r:'',c:''}};
+window.Postal=window.Postal||{};Postal["OM"]={'112':{r:'Masqat',c:'Muscat'},'151':'112', '240':'112', '789':'112', '':{r:'',c:''}};

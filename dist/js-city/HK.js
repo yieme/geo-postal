@@ -1,1 +1,1 @@
-window.Postal={'':{r:'Hong Kong (SAR)',c:'Hong Kong'}};
+window.Postal=window.Postal||{};Postal["HK"]={'':{r:'Hong Kong (SAR)',c:'Hong Kong'}};

@@ -1,1 +1,1 @@
-window.Postal={H100: {r:'Hhohho',c:'Mbabane'}, M200: {r:'Manzini',c:'Manzini'}, M201: {r:'Manzini',c:'Kwaluseni'}, H107: {r:'Hhohho',c:'Lobamba'},'':{r:'',c:''}};
+window.Postal=window.Postal||{};Postal["SZ"]={H100: {r:'Hhohho',c:'Mbabane'}, M200: {r:'Manzini',c:'Manzini'}, M201: {r:'Manzini',c:'Kwaluseni'}, H107: {r:'Hhohho',c:'Lobamba'},'':{r:'',c:''}};

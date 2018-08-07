@@ -1,1 +1,1 @@
-window.Postal={'47890':{r:'San Marino',c:'San Marino'},'47891':'47890', '47893':'47890', '47896':'47890', '47899':{r:'Serravalle',c:'Serravalle'},'':{r:'Borgo Maggiore',c:'Borgo Maggiore'}};
+window.Postal=window.Postal||{};Postal["SM"]={'47890':{r:'San Marino',c:'San Marino'},'47891':'47890', '47893':'47890', '47896':'47890', '47899':{r:'Serravalle',c:'Serravalle'},'':{r:'Borgo Maggiore',c:'Borgo Maggiore'}};

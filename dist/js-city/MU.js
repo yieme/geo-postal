@@ -1,1 +1,1 @@
-window.Postal={'':{r:'Port Louis',c:'Port Louis'}};
+window.Postal=window.Postal||{};Postal["MU"]={'':{r:'Port Louis',c:'Port Louis'}};

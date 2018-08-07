@@ -139,7 +139,7 @@ for (var i in files) {
         }
       }
       fs.writeFileSync(path.join(jsonDir + '-city', filename), JSON.stringify(data), 'utf8')
-      fs.writeFileSync(path.join(jsDir   + '-city', filename.replace('.json', '.js')), jsHead + jsify(data) + ';', 'utf8') 
+      fs.writeFileSync(path.join(jsDir   + '-city', filename.replace('.json', '.js')), jsHead2 + jsify(data) + ';', 'utf8') 
       cityData[countryCode] = data;
     }
   }

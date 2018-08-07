@@ -1,1 +1,1 @@
-window.Postal={'146':{r:'British Virgin Islands',c:'Road Town'},'362':'146', '3469':'146', VG1110:'146', '00362':'146', '02884':'146', NA:'146'};
+window.Postal=window.Postal||{};Postal["VG"]={'146':{r:'British Virgin Islands',c:'Road Town'},'362':'146', '3469':'146', VG1110:'146', '00362':'146', '02884':'146', NA:'146'};

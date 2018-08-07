@@ -1,1 +1,1 @@
-window.Postal={'96950':{r:'Northern Mariana Islands',c:'Saipan'},'96952':'96950'};
+window.Postal=window.Postal||{};Postal["MP"]={'96950':{r:'Northern Mariana Islands',c:'Saipan'},'96952':'96950'};

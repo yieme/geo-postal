@@ -1,1 +1,1 @@
-window.Postal={'':{r:'Grande Comore',c:'Moroni'}};
+window.Postal=window.Postal||{};Postal["KM"]={'':{r:'Grande Comore',c:'Moroni'}};

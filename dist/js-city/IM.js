@@ -1,1 +1,1 @@
-window.Postal={IM2: {r:'Isle of Man',c:'Douglas'}, IM9: {r:'Isle of Man',c:'Port Erin'},'IM2 1AL':{r:'Isle of Man',c:'Douglas'},'IM1 1EW':'IM2 1AL'};
+window.Postal=window.Postal||{};Postal["IM"]={IM2: {r:'Isle of Man',c:'Douglas'}, IM9: {r:'Isle of Man',c:'Port Erin'},'IM2 1AL':{r:'Isle of Man',c:'Douglas'},'IM1 1EW':'IM2 1AL'};

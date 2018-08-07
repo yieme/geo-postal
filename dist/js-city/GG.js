@@ -1,1 +1,1 @@
-window.Postal={GY5: {r:'Guernsey (general)',c:'Saint Peter Port'}};
+window.Postal=window.Postal||{};Postal["GG"]={GY5: {r:'Guernsey (general)',c:'Saint Peter Port'}};

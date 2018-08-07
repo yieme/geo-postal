@@ -1,1 +1,1 @@
-window.Postal={'':{r:'Al Qunaytirah',c:'Khan Arnabah'}};
+window.Postal=window.Postal||{};Postal["SY"]={'':{r:'Al Qunaytirah',c:'Khan Arnabah'}};
