@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646800"]={"code":"646800","region":"Omskaya oblast'","city":"Tavricheskoye","latitude":54.58508,"longitude":73.6395}}(window,'GeoPostal','RU');

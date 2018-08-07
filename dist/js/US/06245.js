@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06245"]={"code":"06245","region":"CT","city":"Fabyan","latitude":42.0198,"longitude":-71.9417}}(window,'GeoPostal','US');

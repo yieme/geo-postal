@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15310"]={"code":"15310","region":"Auvergne-Rhone-Alpes","city":"Saint-Cernin","latitude":45.0573,"longitude":2.42232}}(window,'GeoPostal','FR');

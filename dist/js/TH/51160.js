@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51160"]={"code":"51160","region":"Lamphun","city":"Thung Hua Chang","latitude":18,"longitude":99.03333}}(window,'GeoPostal','TH');

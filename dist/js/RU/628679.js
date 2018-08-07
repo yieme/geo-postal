@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628679"]={"code":"628679","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Langepas","latitude":61.25439,"longitude":75.2124}}(window,'GeoPostal','RU');

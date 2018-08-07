@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84065"]={"code":"84065","region":"Campania","city":"Piaggine","latitude":40.34481,"longitude":15.37866}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["230 51"]={"code":"230 51","region":"Peloponnisos","city":"Skala","latitude":36.85,"longitude":22.66667}}(window,'GeoPostal','GR');

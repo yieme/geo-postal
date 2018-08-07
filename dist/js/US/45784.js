@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45784"]={"code":"45784","region":"OH","city":"Vincent","latitude":39.3374,"longitude":-81.6743}}(window,'GeoPostal','US');

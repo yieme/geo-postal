@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96114"]={"code":"96114","region":"Avtonomna Respublika Krym","city":"Dzhankoy","latitude":45.71168,"longitude":34.39274}}(window,'GeoPostal','UA');

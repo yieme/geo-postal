@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-240"]={"code":"98-240","region":"Lodzkie","city":"Szadek","latitude":51.69174,"longitude":18.97549}}(window,'GeoPostal','PL');

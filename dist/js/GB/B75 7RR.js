@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B75 7RR"]={"code":"B75 7RR","region":"England","city":"Sutton Coldfield","latitude":52.56667,"longitude":-1.81667}}(window,'GeoPostal','GB');

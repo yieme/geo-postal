@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46167"]={"code":"46167","region":"IN","city":"Pittsboro","latitude":39.8615,"longitude":-86.4645}}(window,'GeoPostal','US');

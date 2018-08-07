@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7300"]={"code":"7300","region":"Canterbury","city":"Kaikoura","latitude":-42.40749,"longitude":173.68132}}(window,'GeoPostal','NZ');

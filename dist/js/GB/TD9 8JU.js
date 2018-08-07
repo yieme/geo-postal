@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD9 8JU"]={"code":"TD9 8JU","region":"Scotland","city":"Hobkirk","latitude":55.38333,"longitude":-2.65}}(window,'GeoPostal','GB');

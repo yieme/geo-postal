@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21719"]={"code":"21719","region":"MD","city":"Cascade","latitude":39.6958,"longitude":-77.4955}}(window,'GeoPostal','US');

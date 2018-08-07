@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12832"]={"code":"12832","region":"New York","city":"Granville","latitude":43.40785,"longitude":-73.25955}}(window,'GeoPostal','US');

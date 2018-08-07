@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV44 8QL"]={"code":"IV44 8QL","region":"Scotland","city":"Ord","latitude":57.13333,"longitude":-5.95}}(window,'GeoPostal','GB');

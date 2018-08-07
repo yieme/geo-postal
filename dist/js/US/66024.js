@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66024"]={"code":"66024","region":"KS","city":"Elwood","latitude":39.7573,"longitude":-94.8824}}(window,'GeoPostal','US');

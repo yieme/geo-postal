@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD6 9BQ"]={"code":"TD6 9BQ","region":"Scotland","city":"Abbotsford","latitude":55.6,"longitude":-2.78333}}(window,'GeoPostal','GB');

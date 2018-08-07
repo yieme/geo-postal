@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57341"]={"code":"57341","region":"SD","city":"Gann Valley","latitude":44.0693,"longitude":-99.0543}}(window,'GeoPostal','US');

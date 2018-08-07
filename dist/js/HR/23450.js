@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23450"]={"code":"23450","region":"Zadarska zupanija","city":"Krusevo","latitude":44.18333,"longitude":15.65}}(window,'GeoPostal','HR');

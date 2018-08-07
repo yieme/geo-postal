@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30111"]={"code":"30111","region":"GA","city":"Clarkdale","latitude":33.9125,"longitude":-84.5572}}(window,'GeoPostal','US');

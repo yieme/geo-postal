@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 4W0"]={"code":"S0K 4W0","region":"Saskatchewan","city":"Wilkie","latitude":52.41683,"longitude":-108.70142}}(window,'GeoPostal','CA');

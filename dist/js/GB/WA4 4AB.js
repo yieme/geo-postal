@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA4 4AB"]={"code":"WA4 4AB","region":"England","city":"Daresbury","latitude":53.34184,"longitude":-2.635}}(window,'GeoPostal','GB');

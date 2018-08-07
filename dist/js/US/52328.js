@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52328"]={"code":"52328","region":"IA","city":"Robins","latitude":42.0731,"longitude":-91.6648}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE24 5PS"]={"code":"PE24 5PS","region":"England","city":"Hogsthorpe","latitude":53.22587,"longitude":0.29869}}(window,'GeoPostal','GB');

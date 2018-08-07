@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE14 0AR"]={"code":"PE14 0AR","region":"England","city":"Elm","latitude":52.63645,"longitude":0.17097}}(window,'GeoPostal','GB');

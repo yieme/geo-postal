@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93277"]={"code":"93277","region":"California","city":"Visalia","latitude":36.33023,"longitude":-119.29206}}(window,'GeoPostal','US');

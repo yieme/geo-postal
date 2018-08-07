@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 6DN"]={"code":"BA12 6DN","region":"England","city":"Mere","latitude":51.08889,"longitude":-2.26694}}(window,'GeoPostal','GB');

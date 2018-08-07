@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["836-0852"]={"code":"836-0852","region":"Fukuoka","city":"Omuta","latitude":33.033,"longitude":130.45}}(window,'GeoPostal','JP');

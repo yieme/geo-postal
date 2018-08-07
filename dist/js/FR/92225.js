@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92225"]={"code":"92225","region":"Ile-de-France","city":"Bagneux","latitude":48.79564,"longitude":2.30796}}(window,'GeoPostal','FR');

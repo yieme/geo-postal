@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87591"]={"code":"87591","region":"Donetska oblast","city":"Staryy Krym","latitude":47.16146,"longitude":37.48934}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST15 0NX"]={"code":"ST15 0NX","region":"England","city":"Norton Bridge","latitude":52.86703,"longitude":-2.19215}}(window,'GeoPostal','GB');

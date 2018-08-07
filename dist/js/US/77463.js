@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77463"]={"code":"77463","region":"TX","city":"Old Ocean","latitude":29.08,"longitude":-95.7497}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37412"]={"code":"37412","region":"Tennessee","city":"East Ridge","latitude":35.01424,"longitude":-85.2519}}(window,'GeoPostal','US');

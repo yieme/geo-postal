@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55775"]={"code":"55775","region":"Minnesota","city":"Pengilly","latitude":47.327691,"longitude":-93.159992}}(window,'GeoPostal','US');

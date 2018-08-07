@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-060"]={"code":"32-060","region":"Malopolskie","city":"Piekary","latitude":50.02495,"longitude":19.79616}}(window,'GeoPostal','PL');

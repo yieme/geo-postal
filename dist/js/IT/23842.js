@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23842"]={"code":"23842","region":"Lombardia","city":"Bosisio Parini","latitude":45.80228,"longitude":9.29074}}(window,'GeoPostal','IT');

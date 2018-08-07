@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0A 1E0"]={"code":"K0A 1E0","region":"Ontario","city":"Bourget","latitude":45.402769,"longitude":-75.109127}}(window,'GeoPostal','CA');

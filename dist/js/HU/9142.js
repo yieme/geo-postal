@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9142"]={"code":"9142","region":"Gyor-Moson-Sopron","city":"Rabapatona","latitude":47.63224,"longitude":17.48004}}(window,'GeoPostal','HU');

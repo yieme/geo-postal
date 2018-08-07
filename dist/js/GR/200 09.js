@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["200 09"]={"code":"200 09","region":"Peloponnisos","city":"Dhervenion","latitude":38.13333,"longitude":22.41667}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5114"]={"code":"5114","region":"South Australia","city":"Blakeview","latitude":-34.67566,"longitude":138.7101}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57680"]={"code":"57680","region":"Grand-Est","city":"Corny-sur-Moselle","latitude":49.03497,"longitude":6.05971}}(window,'GeoPostal','FR');

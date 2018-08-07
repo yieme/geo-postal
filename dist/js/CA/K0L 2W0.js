@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 2W0"]={"code":"K0L 2W0","region":"Ontario","city":"Omemee","latitude":44.29897,"longitude":-78.55989}}(window,'GeoPostal','CA');

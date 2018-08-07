@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV27 4TB"]={"code":"IV27 4TB","region":"Scotland","city":"Scourie","latitude":58.35181,"longitude":-5.15191}}(window,'GeoPostal','GB');

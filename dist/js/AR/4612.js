@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4612"]={"code":"4612","region":"Jujuy","city":"Palpala","latitude":-24.25648,"longitude":-65.21163}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95709"]={"code":"95709","region":"California","city":"Camino","latitude":38.73824,"longitude":-120.67493}}(window,'GeoPostal','US');

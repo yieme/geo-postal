@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11957"]={"code":"11957","region":"NY","city":"Orient","latitude":41.1437,"longitude":-72.2879}}(window,'GeoPostal','US');

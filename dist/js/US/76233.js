@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76233"]={"code":"76233","region":"Texas","city":"Collinsville","latitude":33.559871,"longitude":-96.909623}}(window,'GeoPostal','US');

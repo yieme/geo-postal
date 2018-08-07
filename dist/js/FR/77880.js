@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77880"]={"code":"77880","region":"Ile-de-France","city":"Grez-sur-Loing","latitude":48.31754,"longitude":2.68848}}(window,'GeoPostal','FR');

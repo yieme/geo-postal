@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64028"]={"code":"64028","region":"MO","city":"Farley","latitude":39.2839,"longitude":-94.8302}}(window,'GeoPostal','US');

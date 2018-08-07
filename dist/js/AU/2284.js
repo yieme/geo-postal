@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2284"]={"code":"2284","region":"New South Wales","city":"Speers Point","latitude":-32.96383,"longitude":151.62618}}(window,'GeoPostal','AU');

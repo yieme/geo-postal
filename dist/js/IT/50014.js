@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50014"]={"code":"50014","region":"Toscana","city":"Fiesole","latitude":43.80485,"longitude":11.29412}}(window,'GeoPostal','IT');

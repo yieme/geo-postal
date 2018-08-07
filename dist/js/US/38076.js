@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38076"]={"code":"38076","region":"TN","city":"Williston","latitude":35.1576,"longitude":-89.3684}}(window,'GeoPostal','US');

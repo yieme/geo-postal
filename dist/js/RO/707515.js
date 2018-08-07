@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707515"]={"code":"707515","region":"Iasi","city":"Iasi","latitude":47.16667,"longitude":27.6}}(window,'GeoPostal','RO');

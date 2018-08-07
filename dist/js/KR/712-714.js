@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["712-714"]={"code":"712-714","region":"Gyeongsangbuk-do","city":"Kyongsan","latitude":35.816667,"longitude":128.733333}}(window,'GeoPostal','KR');

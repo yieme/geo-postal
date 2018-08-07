@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55-095"]={"code":"55-095","region":"Lodzkie","city":"Wieruszow","latitude":51.29488,"longitude":18.15547}}(window,'GeoPostal','PL');

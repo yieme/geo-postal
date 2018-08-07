@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98029"]={"code":"98029","region":"Sicilia","city":"Scaletta Zanclea","latitude":38.04796,"longitude":15.46769}}(window,'GeoPostal','IT');

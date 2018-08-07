@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29400"]={"code":"29400","region":"Bretagne","city":"Plouneventer","latitude":48.51667,"longitude":-4.21667}}(window,'GeoPostal','FR');

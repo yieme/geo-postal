@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456510"]={"code":"456510","region":"Chelyabinskaya oblast'","city":"Dolgoderevenskoye","latitude":55.34444,"longitude":61.34444}}(window,'GeoPostal','RU');

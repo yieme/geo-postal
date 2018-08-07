@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663700"]={"code":"663700","region":"Yunnan","city":"Mabai","latitude":23.01279,"longitude":104.45081}}(window,'GeoPostal','CN');

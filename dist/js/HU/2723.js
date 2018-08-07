@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2723"]={"code":"2723","region":"Pest","city":"Nyaregyhaza","latitude":47.26175,"longitude":19.50146}}(window,'GeoPostal','HU');

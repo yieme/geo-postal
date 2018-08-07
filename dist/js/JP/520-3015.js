@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["520-3015"]={"code":"520-3015","region":"Shiga","city":"Ritto","latitude":35.017,"longitude":136}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4902"]={"code":"4902","region":"Oberosterreich","city":"Wolfsegg am Hausruck","latitude":48.10669,"longitude":13.67274}}(window,'GeoPostal','AT');

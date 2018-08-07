@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR4 0UT"]={"code":"PR4 0UT","region":"England","city":"Inskip","latitude":53.83421,"longitude":-2.81756}}(window,'GeoPostal','GB');

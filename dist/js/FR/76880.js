@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76880"]={"code":"76880","region":"Normandie","city":"Arques-la-Bataille","latitude":49.88122,"longitude":1.12875}}(window,'GeoPostal','FR');

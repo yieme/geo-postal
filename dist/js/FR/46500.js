@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46500"]={"code":"46500","region":"Occitanie","city":"Gramat","latitude":44.78075,"longitude":1.71957}}(window,'GeoPostal','FR');

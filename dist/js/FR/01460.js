@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01460"]={"code":"01460","region":"Auvergne-Rhone-Alpes","city":"Beard-Geovreissiat","latitude":46.1906,"longitude":5.5575}}(window,'GeoPostal','FR');

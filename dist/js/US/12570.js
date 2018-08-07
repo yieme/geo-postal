@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12570"]={"code":"12570","region":"New York","city":"Poughquag","latitude":41.64646,"longitude":-73.67164}}(window,'GeoPostal','US');

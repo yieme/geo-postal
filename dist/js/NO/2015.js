@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2015"]={"code":"2015","region":"Akershus","city":"Leirsund","latitude":60,"longitude":11.1}}(window,'GeoPostal','NO');

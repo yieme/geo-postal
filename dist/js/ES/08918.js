@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08918"]={"code":"08918","region":"Catalunya","city":"Badalona","latitude":41.45004,"longitude":2.24741}}(window,'GeoPostal','ES');

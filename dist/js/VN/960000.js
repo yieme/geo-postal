@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["960000"]={"code":"960000","region":"Bac Lieu","city":"Bac Lieu","latitude":9.285,"longitude":105.72444}}(window,'GeoPostal','VN');

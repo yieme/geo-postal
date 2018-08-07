@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1570"]={"code":"1570","region":"New South Wales","city":"Artarmon","latitude":-33.81667,"longitude":151.18333}}(window,'GeoPostal','AU');

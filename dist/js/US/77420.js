@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77420"]={"code":"77420","region":"TX","city":"Boling","latitude":29.2529,"longitude":-95.974}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03449"]={"code":"03449","region":"NH","city":"Hancock","latitude":42.9768,"longitude":-71.9819}}(window,'GeoPostal','US');

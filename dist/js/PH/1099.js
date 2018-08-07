@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1099"]={"code":"1099","region":"National Capital Region","city":"Manila","latitude":14.6042,"longitude":120.9822}}(window,'GeoPostal','PH');

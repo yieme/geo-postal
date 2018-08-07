@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85625"]={"code":"85625","region":"Arizona","city":"Pearce","latitude":31.935187,"longitude":-109.804725}}(window,'GeoPostal','US');

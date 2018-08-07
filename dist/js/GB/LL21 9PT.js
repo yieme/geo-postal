@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL21 9PT"]={"code":"LL21 9PT","region":"Wales","city":"Bettws Gwerfil Goch","latitude":53,"longitude":-3.43333}}(window,'GeoPostal','GB');

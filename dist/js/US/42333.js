@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42333"]={"code":"42333","region":"Kentucky","city":"Cromwell","latitude":37.338602,"longitude":-86.770028}}(window,'GeoPostal','US');

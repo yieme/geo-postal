@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39345"]={"code":"39345","region":"Sachsen-Anhalt","city":"Flechtingen","latitude":52.33083,"longitude":11.24176}}(window,'GeoPostal','DE');

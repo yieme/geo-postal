@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39000"]={"code":"39000","region":"Pahang","city":"Tanah Rata","latitude":4.475,"longitude":101.3704}}(window,'GeoPostal','MY');

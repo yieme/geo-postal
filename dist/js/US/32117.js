@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32117"]={"code":"32117","region":"Florida","city":"Holly Hill","latitude":29.23644,"longitude":-81.05778}}(window,'GeoPostal','US');

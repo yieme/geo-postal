@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56119"]={"code":"56119","region":"Minnesota","city":"Brewster","latitude":43.694165,"longitude":-95.463931}}(window,'GeoPostal','US');

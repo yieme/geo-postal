@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353187"]={"code":"353187","region":"Krasnodarskiy kray","city":"Korenovsk","latitude":45.46899,"longitude":39.45136}}(window,'GeoPostal','RU');

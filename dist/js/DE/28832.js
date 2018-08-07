@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28832"]={"code":"28832","region":"Niedersachsen","city":"Embsen","latitude":53.03204,"longitude":9.02983}}(window,'GeoPostal','DE');

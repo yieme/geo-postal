@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19900-000"]={"code":"19900-000","region":"Sao Paulo","city":"Ourinhos","latitude":-22.97889,"longitude":-49.87056}}(window,'GeoPostal','BR');

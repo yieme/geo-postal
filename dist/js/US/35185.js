@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35185"]={"code":"35185","region":"AL","city":"Westover","latitude":33.3356,"longitude":-86.5437}}(window,'GeoPostal','US');

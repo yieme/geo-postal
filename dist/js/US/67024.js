@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67024"]={"code":"67024","region":"KS","city":"Cedar Vale","latitude":37.1265,"longitude":-96.4701}}(window,'GeoPostal','US');

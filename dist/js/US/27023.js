@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27023"]={"code":"27023","region":"North Carolina","city":"Lewisville","latitude":36.09798,"longitude":-80.420733}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06785"]={"code":"06785","region":"CT","city":"South Kent","latitude":41.6951,"longitude":-73.469}}(window,'GeoPostal','US');

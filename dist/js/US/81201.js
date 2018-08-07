@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81201"]={"code":"81201","region":"Colorado","city":"Salida","latitude":38.53472,"longitude":-105.9989}}(window,'GeoPostal','US');

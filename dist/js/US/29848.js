@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29848"]={"code":"29848","region":"SC","city":"Troy","latitude":33.9876,"longitude":-82.2979}}(window,'GeoPostal','US');

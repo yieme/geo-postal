@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16665"]={"code":"16665","region":"PA","city":"Newry","latitude":40.3937,"longitude":-78.4356}}(window,'GeoPostal','US');

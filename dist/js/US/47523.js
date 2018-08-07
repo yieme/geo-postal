@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47523"]={"code":"47523","region":"IN","city":"Dale","latitude":38.1706,"longitude":-87.007}}(window,'GeoPostal','US');

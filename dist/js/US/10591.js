@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10591"]={"code":"10591","region":"New York","city":"Tarrytown","latitude":41.078111,"longitude":-73.85529}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20674"]={"code":"20674","region":"Maryland","city":"Piney Point","latitude":38.14222,"longitude":-76.5075}}(window,'GeoPostal','US');

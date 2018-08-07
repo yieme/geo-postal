@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K2H 5Z1"]={"code":"K2H 5Z1","region":"Ontario","city":"Bells Corners","latitude":45.320351,"longitude":-75.837325}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98925"]={"code":"98925","region":"Washington","city":"Easton","latitude":47.23833,"longitude":-121.17833}}(window,'GeoPostal','US');

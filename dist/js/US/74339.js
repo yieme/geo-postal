@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74339"]={"code":"74339","region":"Oklahoma","city":"Commerce","latitude":36.9334,"longitude":-94.87301}}(window,'GeoPostal','US');

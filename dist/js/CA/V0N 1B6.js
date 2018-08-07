@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 1B6"]={"code":"V0N 1B6","region":"British Columbia","city":"Whistler","latitude":50.126439,"longitude":-122.9675}}(window,'GeoPostal','CA');

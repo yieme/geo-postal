@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8800-059"]={"code":"8800-059","region":"Faro","city":"Tavira","latitude":37.12734,"longitude":-7.64861}}(window,'GeoPostal','PT');

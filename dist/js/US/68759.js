@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68759"]={"code":"68759","region":"NE","city":"Newport","latitude":42.6001,"longitude":-99.3359}}(window,'GeoPostal','US');

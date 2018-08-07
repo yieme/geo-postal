@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48133"]={"code":"48133","region":"Michigan","city":"Erie","latitude":41.782177,"longitude":-83.491408}}(window,'GeoPostal','US');

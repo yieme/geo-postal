@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77465"]={"code":"77465","region":"TX","city":"Palacios","latitude":28.715,"longitude":-96.2154}}(window,'GeoPostal','US');

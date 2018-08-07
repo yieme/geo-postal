@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78064"]={"code":"78064","region":"Texas","city":"Pleasanton","latitude":28.96719,"longitude":-98.47863}}(window,'GeoPostal','US');

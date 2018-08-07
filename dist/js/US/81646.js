@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81646"]={"code":"81646","region":"CO","city":"Molina","latitude":39.1891,"longitude":-108.0604}}(window,'GeoPostal','US');

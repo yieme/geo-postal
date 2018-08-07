@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28787"]={"code":"28787","region":"North Carolina","city":"Weaverville","latitude":35.69705,"longitude":-82.56069}}(window,'GeoPostal','US');

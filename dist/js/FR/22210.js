@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22210"]={"code":"22210","region":"Bretagne","city":"Plemet","latitude":48.17601,"longitude":-2.59325}}(window,'GeoPostal','FR');

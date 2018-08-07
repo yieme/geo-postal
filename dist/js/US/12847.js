@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12847"]={"code":"12847","region":"New York","city":"Long Lake","latitude":43.95611,"longitude":-74.56833}}(window,'GeoPostal','US');

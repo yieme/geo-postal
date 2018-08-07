@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28877"]={"code":"28877","region":"Piemonte","city":"Ornavasso","latitude":45.96798,"longitude":8.41512}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N4W 1M3"]={"code":"N4W 1M3","region":"Ontario","city":"Listowel","latitude":43.739452,"longitude":-80.947022}}(window,'GeoPostal','CA');

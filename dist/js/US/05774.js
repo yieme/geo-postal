@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05774"]={"code":"05774","region":"VT","city":"Wells","latitude":43.4305,"longitude":-73.2027}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77705"]={"code":"77705","region":"Ivano-Frankivska oblast","city":"Bohorodchany","latitude":48.807,"longitude":24.53834}}(window,'GeoPostal','UA');

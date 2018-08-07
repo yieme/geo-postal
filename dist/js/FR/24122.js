@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24122"]={"code":"24122","region":"Nouvelle-Aquitaine","city":"Terrasson-Lavilledieu","latitude":45.13011,"longitude":1.30136}}(window,'GeoPostal','FR');

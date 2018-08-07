@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52566"]={"code":"52566","region":"IA","city":"Kirkville","latitude":41.1438,"longitude":-92.5006}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38334"]={"code":"38334","region":"TN","city":"Finger","latitude":35.3544,"longitude":-88.5876}}(window,'GeoPostal','US');

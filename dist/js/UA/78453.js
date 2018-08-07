@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78453"]={"code":"78453","region":"Ivano-Frankivska oblast","city":"Sadzhavka","latitude":48.56603,"longitude":24.7882}}(window,'GeoPostal','UA');

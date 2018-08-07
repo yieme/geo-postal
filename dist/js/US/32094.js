@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32094"]={"code":"32094","region":"Florida","city":"Wellborn","latitude":30.180574,"longitude":-82.857938}}(window,'GeoPostal','US');

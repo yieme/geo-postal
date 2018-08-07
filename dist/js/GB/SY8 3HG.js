@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY8 3HG"]={"code":"SY8 3HG","region":"England","city":"Bitterley","latitude":52.39296,"longitude":-2.6449}}(window,'GeoPostal','GB');

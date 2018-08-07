@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2400"]={"code":"2400","region":"Fejer","city":"Dunaujvaros","latitude":46.98333,"longitude":18.93333}}(window,'GeoPostal','HU');

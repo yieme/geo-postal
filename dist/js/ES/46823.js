@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46823"]={"code":"46823","region":"Valenciana, Comunidad","city":"Navarres","latitude":39.10198,"longitude":-0.69469}}(window,'GeoPostal','ES');

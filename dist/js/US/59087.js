@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59087"]={"code":"59087","region":"MT","city":"Winnett","latitude":46.9438,"longitude":-108.3184}}(window,'GeoPostal','US');

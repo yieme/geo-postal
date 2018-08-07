@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66760"]={"code":"66760","region":"KS","city":"Opolis","latitude":37.342,"longitude":-94.6199}}(window,'GeoPostal','US');

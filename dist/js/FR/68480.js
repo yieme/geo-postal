@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68480"]={"code":"68480","region":"Grand-Est","city":"Ferrette","latitude":47.49196,"longitude":7.31937}}(window,'GeoPostal','FR');

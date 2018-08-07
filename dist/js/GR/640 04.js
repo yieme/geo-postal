@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["640 04"]={"code":"640 04","region":"Anatoliki Makedonia kai Thraki","city":"Potamia","latitude":40.71633,"longitude":24.72859}}(window,'GeoPostal','GR');

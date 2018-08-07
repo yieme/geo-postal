@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65747"]={"code":"65747","region":"Missouri","city":"Shell Knob","latitude":36.63229,"longitude":-93.63436}}(window,'GeoPostal','US');

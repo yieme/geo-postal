@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E8J 0A7"]={"code":"E8J 0A7","region":"New Brunswick","city":"Pointe-Verte","latitude":47.85418,"longitude":-65.76622}}(window,'GeoPostal','CA');

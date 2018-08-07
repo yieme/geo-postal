@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["123209"]={"code":"123209","region":"Liaoning","city":"Xizhahaqi","latitude":42.67603,"longitude":122.88619}}(window,'GeoPostal','CN');

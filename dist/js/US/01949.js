@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01949"]={"code":"01949","region":"Massachusetts","city":"Middleton","latitude":42.594128,"longitude":-71.013284}}(window,'GeoPostal','US');

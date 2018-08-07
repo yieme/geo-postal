@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41663"]={"code":"41663","region":"Kentucky","city":"Tram","latitude":37.57332,"longitude":-82.64628}}(window,'GeoPostal','US');

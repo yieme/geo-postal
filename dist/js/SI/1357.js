@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1357"]={"code":"1357","region":"Brezovica","city":"Vnanje Gorice","latitude":46.00722,"longitude":14.42194}}(window,'GeoPostal','SI');

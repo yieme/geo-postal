@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78843"]={"code":"78843","region":"TX","city":"Laughlin A F B","latitude":29.3627,"longitude":-100.8968}}(window,'GeoPostal','US');

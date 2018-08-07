@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356723"]={"code":"356723","region":"Stavropol'skiy kray","city":"Divnoye","latitude":45.90889,"longitude":43.35472}}(window,'GeoPostal','RU');

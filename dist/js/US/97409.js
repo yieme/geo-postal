@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97409"]={"code":"97409","region":"OR","city":"Alvadore","latitude":44.1276,"longitude":-123.2666}}(window,'GeoPostal','US');

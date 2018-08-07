@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3695"]={"code":"3695","region":"Victoria","city":"Kergunyah","latitude":-36.38333,"longitude":147.05}}(window,'GeoPostal','AU');

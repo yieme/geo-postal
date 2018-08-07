@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73015"]={"code":"73015","region":"Oklahoma","city":"Carnegie","latitude":35.103888,"longitude":-98.602167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30523"]={"code":"30523","region":"Georgia","city":"Clarkesville","latitude":34.612611,"longitude":-83.522881}}(window,'GeoPostal','US');

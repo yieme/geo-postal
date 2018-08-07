@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03025"]={"code":"03025","region":"Lazio","city":"Monte San Giovanni Campano","latitude":41.64062,"longitude":13.5137}}(window,'GeoPostal','IT');

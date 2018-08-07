@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["451669"]={"code":"451669","region":"Madhya Pradesh","city":"Sendhwa","latitude":21.68333,"longitude":75.1}}(window,'GeoPostal','IN');

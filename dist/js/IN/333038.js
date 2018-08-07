@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333038"]={"code":"333038","region":"Rajasthan","city":"Jhunjhunun","latitude":28.1307,"longitude":75.4014}}(window,'GeoPostal','IN');

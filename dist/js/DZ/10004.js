@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10004"]={"code":"10004","region":"Bouira","city":"Sour el Ghozlane","latitude":36.14766,"longitude":3.69123}}(window,'GeoPostal','DZ');

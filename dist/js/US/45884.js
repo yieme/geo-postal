@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45884"]={"code":"45884","region":"OH","city":"Saint Johns","latitude":40.5559,"longitude":-84.0836}}(window,'GeoPostal','US');

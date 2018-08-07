@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63600"]={"code":"63600","region":"Kharkivska oblast","city":"Shevchenkove","latitude":49.69585,"longitude":37.17348}}(window,'GeoPostal','UA');

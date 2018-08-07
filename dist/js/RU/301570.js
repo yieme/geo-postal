@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301570"]={"code":"301570","region":"Tul'skaya oblast'","city":"Volovo","latitude":53.55831,"longitude":38.00285}}(window,'GeoPostal','RU');

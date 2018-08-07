@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21700"]={"code":"21700","region":"Andalucia","city":"La Palma del Condado","latitude":37.38605,"longitude":-6.55231}}(window,'GeoPostal','ES');

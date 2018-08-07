@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8226"]={"code":"8226","region":"Schaffhausen","city":"Schleitheim","latitude":47.74818,"longitude":8.48213}}(window,'GeoPostal','CH');

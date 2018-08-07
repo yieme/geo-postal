@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04280"]={"code":"04280","region":"ME","city":"Sabattus","latitude":44.1133,"longitude":-70.0748}}(window,'GeoPostal','US');

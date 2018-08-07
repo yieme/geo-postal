@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98591"]={"code":"98591","region":"Washington","city":"Toledo","latitude":46.44074,"longitude":-122.817135}}(window,'GeoPostal','US');

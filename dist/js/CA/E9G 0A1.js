@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E9G 0A1"]={"code":"E9G 0A1","region":"New Brunswick","city":"Neguac","latitude":47.24894,"longitude":-65.07408}}(window,'GeoPostal','CA');

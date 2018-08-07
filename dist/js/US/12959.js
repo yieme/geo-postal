@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12959"]={"code":"12959","region":"NY","city":"Mooers Forks","latitude":44.9602,"longitude":-73.673}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22570"]={"code":"22570","region":"Bretagne","city":"Gouarec","latitude":48.22725,"longitude":-3.17994}}(window,'GeoPostal','FR');

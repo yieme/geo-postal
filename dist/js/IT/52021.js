@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52021"]={"code":"52021","region":"Toscana","city":"Bucine","latitude":43.47644,"longitude":11.61484}}(window,'GeoPostal','IT');

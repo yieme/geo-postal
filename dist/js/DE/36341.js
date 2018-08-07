@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36341"]={"code":"36341","region":"Hessen","city":"Heblos","latitude":50.64507,"longitude":9.36086}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01007"]={"code":"01007","region":"Massachusetts","city":"Belchertown","latitude":42.278884,"longitude":-72.410245}}(window,'GeoPostal','US');

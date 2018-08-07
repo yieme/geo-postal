@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42041"]={"code":"42041","region":"Kentucky","city":"Fulton","latitude":36.50423,"longitude":-88.87423}}(window,'GeoPostal','US');

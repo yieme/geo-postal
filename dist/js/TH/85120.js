@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85120"]={"code":"85120","region":"Ranong","city":"Kapoe","latitude":9.58522,"longitude":98.59611}}(window,'GeoPostal','TH');

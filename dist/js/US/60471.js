@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60471"]={"code":"60471","region":"Illinois","city":"Richton Park","latitude":41.482962,"longitude":-87.724744}}(window,'GeoPostal','US');

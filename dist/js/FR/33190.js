@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33190"]={"code":"33190","region":"Nouvelle-Aquitaine","city":"Fontet","latitude":44.5597,"longitude":-0.0297}}(window,'GeoPostal','FR');

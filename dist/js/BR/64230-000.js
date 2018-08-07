@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64230-000"]={"code":"64230-000","region":"Piaui","city":"Buriti dos Lopes","latitude":-3.175,"longitude":-41.86694}}(window,'GeoPostal','BR');

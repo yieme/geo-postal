@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["645-070"]={"code":"645-070","region":"Gyeongsangnam-do","city":"Chinhae","latitude":35.14944,"longitude":128.65972}}(window,'GeoPostal','KR');

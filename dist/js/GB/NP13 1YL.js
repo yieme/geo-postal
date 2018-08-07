@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP13 1YL"]={"code":"NP13 1YL","region":"Wales","city":"Abertillery","latitude":51.72981,"longitude":-3.13432}}(window,'GeoPostal','GB');

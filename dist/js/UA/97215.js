@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97215"]={"code":"97215","region":"Avtonomna Respublika Krym","city":"Rozdol'ne","latitude":45.77083,"longitude":33.48777}}(window,'GeoPostal','UA');

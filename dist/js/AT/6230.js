@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6230"]={"code":"6230","region":"Tirol","city":"Brixlegg","latitude":47.42942,"longitude":11.87794}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["649440"]={"code":"649440","region":"Altay, Respublika","city":"Onguday","latitude":50.75,"longitude":86.15}}(window,'GeoPostal','RU');

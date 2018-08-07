@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10110"]={"code":"10110","region":"Grand-Est","city":"Bar-sur-Seine","latitude":48.11294,"longitude":4.37656}}(window,'GeoPostal','FR');

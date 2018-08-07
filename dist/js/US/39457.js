@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39457"]={"code":"39457","region":"Mississippi","city":"McNeill","latitude":30.668611,"longitude":-89.638333}}(window,'GeoPostal','US');

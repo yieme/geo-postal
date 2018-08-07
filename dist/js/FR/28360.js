@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28360"]={"code":"28360","region":"Centre-Val de Loire","city":"Prunay-le-Gillon","latitude":48.3661,"longitude":1.6361}}(window,'GeoPostal','FR');

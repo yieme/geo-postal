@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15056"]={"code":"15056","region":"Bouira","city":"Draa el Mizan","latitude":36.53628,"longitude":3.8334}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH49 7LR"]={"code":"EH49 7LR","region":"England","city":"Springfield","latitude":51.74776,"longitude":0.51121}}(window,'GeoPostal','GB');

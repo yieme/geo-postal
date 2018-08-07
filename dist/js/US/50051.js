@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50051"]={"code":"50051","region":"IA","city":"Clemons","latitude":42.09,"longitude":-93.1688}}(window,'GeoPostal','US');

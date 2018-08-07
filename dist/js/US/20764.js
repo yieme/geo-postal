@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20764"]={"code":"20764","region":"Maryland","city":"Shady Side","latitude":38.835818,"longitude":-76.511405}}(window,'GeoPostal','US');

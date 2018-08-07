@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68492"]={"code":"68492","region":"Varmlands lan","city":"Munkfors","latitude":59.83856,"longitude":13.54361}}(window,'GeoPostal','SE');

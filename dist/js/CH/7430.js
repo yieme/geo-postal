@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7430"]={"code":"7430","region":"Graubunden","city":"Thusis","latitude":46.69724,"longitude":9.43938}}(window,'GeoPostal','CH');

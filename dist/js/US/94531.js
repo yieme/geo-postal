@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94531"]={"code":"94531","region":"CA","city":"Antioch","latitude":37.9658,"longitude":-121.7758}}(window,'GeoPostal','US');

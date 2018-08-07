@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["UB6 7LA"]={"code":"UB6 7LA","region":"England","city":"Slough","latitude":51.50949,"longitude":-0.59541}}(window,'GeoPostal','GB');

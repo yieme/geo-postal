@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2326"]={"code":"2326","region":"Pehcevo","city":"Pehcevo","latitude":41.75944,"longitude":22.89056}}(window,'GeoPostal','MK');

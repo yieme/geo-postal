@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29002"]={"code":"29002","region":"Ida-Virumaa","city":"Narva-Joesuu","latitude":59.45889,"longitude":28.04083}}(window,'GeoPostal','EE');

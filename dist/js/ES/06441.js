@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06441"]={"code":"06441","region":"Extremadura","city":"Higuera de la Serena","latitude":38.64616,"longitude":-5.74129}}(window,'GeoPostal','ES');

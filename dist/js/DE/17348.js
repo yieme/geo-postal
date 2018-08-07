@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17348"]={"code":"17348","region":"Mecklenburg-Vorpommern","city":"Woldegk","latitude":53.46058,"longitude":13.58356}}(window,'GeoPostal','DE');

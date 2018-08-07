@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5742"]={"code":"5742","region":"Salzburg","city":"Neukirchen am Grossvenediger","latitude":47.25,"longitude":12.28333}}(window,'GeoPostal','AT');

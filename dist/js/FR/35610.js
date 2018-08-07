@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35610"]={"code":"35610","region":"Bretagne","city":"Roz-sur-Couesnon","latitude":48.58867,"longitude":-1.59213}}(window,'GeoPostal','FR');

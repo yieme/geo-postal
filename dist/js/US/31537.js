@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31537"]={"code":"31537","region":"Georgia","city":"Folkston","latitude":30.83051,"longitude":-82.00984}}(window,'GeoPostal','US');

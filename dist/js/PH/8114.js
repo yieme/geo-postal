@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8114"]={"code":"8114","region":"Davao del Sur","city":"Maco","latitude":7.36194,"longitude":125.85528}}(window,'GeoPostal','PH');

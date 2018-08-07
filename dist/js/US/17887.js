@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17887"]={"code":"17887","region":"PA","city":"White Deer","latitude":41.0759,"longitude":-76.8747}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768 02"]={"code":"768 02","region":"Zlinsky kraj","city":"Zdounky","latitude":49.22771,"longitude":17.31899}}(window,'GeoPostal','CZ');

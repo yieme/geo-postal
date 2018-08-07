@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99337"]={"code":"99337","region":"WA","city":"Kennewick","latitude":46.1814,"longitude":-119.1383}}(window,'GeoPostal','US');

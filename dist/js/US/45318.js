@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45318"]={"code":"45318","region":"OH","city":"Covington","latitude":40.1176,"longitude":-84.3496}}(window,'GeoPostal','US');

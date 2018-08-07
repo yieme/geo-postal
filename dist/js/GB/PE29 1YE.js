@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE29 1YE"]={"code":"PE29 1YE","region":"England","city":"Hartford","latitude":52.33807,"longitude":-0.15776}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72400"]={"code":"72400","region":"Sirnak","city":"Cizre","latitude":37.32722,"longitude":42.19028}}(window,'GeoPostal','TR');

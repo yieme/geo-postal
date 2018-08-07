@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44000"]={"code":"44000","region":"Sisacko-moslavacka zupanija","city":"Sisak","latitude":45.46611,"longitude":16.37833}}(window,'GeoPostal','HR');

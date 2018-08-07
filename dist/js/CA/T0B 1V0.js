@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 1V0"]={"code":"T0B 1V0","region":"Alberta","city":"Hardisty","latitude":52.66684,"longitude":-111.30168}}(window,'GeoPostal','CA');

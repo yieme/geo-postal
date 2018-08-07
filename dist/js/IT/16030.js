@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16030"]={"code":"16030","region":"Liguria","city":"Casarza Ligure","latitude":44.27188,"longitude":9.44704}}(window,'GeoPostal','IT');

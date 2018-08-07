@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24976"]={"code":"24976","region":"West Virginia","city":"Sinks Grove","latitude":37.66812,"longitude":-80.5215}}(window,'GeoPostal','US');

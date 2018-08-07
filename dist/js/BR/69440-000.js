@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69440-000"]={"code":"69440-000","region":"Amazonas","city":"Codajas","latitude":-3.83667,"longitude":-62.05694}}(window,'GeoPostal','BR');

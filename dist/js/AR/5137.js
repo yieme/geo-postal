@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5137"]={"code":"5137","region":"Cordoba","city":"La Para","latitude":-30.89416,"longitude":-63.00107}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["115612"]={"code":"115612","region":"Nizhegorodskaya oblast'","city":"Prudy","latitude":57.5738,"longitude":46.27176}}(window,'GeoPostal','RU');

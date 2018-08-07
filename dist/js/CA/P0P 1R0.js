@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0P 1R0"]={"code":"P0P 1R0","region":"Ontario","city":"Meldrum Bay","latitude":45.93336,"longitude":-83.11658}}(window,'GeoPostal','CA');

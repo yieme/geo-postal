@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR3 6AE"]={"code":"TR3 6AE","region":"England","city":"Kea","latitude":50.24337,"longitude":-5.07238}}(window,'GeoPostal','GB');

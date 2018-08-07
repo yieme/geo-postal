@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-511"]={"code":"89-511","region":"Kujawsko-pomorskie","city":"Cekcyn","latitude":53.57294,"longitude":18.01123}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62067"]={"code":"62067","region":"IL","city":"Moro","latitude":38.9318,"longitude":-89.9618}}(window,'GeoPostal','US');

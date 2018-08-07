@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06320"]={"code":"06320","region":"Provence-Alpes-Cote d'Azur","city":"La Turbie","latitude":43.74514,"longitude":7.40101}}(window,'GeoPostal','FR');

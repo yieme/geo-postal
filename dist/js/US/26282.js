@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26282"]={"code":"26282","region":"WV","city":"Monterville","latitude":38.5517,"longitude":-80.1224}}(window,'GeoPostal','US');

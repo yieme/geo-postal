@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92072"]={"code":"92072","region":"L'Oriental","city":"Oujda","latitude":34.68052,"longitude":-1.90764}}(window,'GeoPostal','MA');

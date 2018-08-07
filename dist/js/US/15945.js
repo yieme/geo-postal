@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15945"]={"code":"15945","region":"PA","city":"Parkhill","latitude":40.3612,"longitude":-78.8709}}(window,'GeoPostal','US');

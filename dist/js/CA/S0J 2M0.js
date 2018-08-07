@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0J 2M0"]={"code":"S0J 2M0","region":"Saskatchewan","city":"Spiritwood","latitude":53.36683,"longitude":-107.51793}}(window,'GeoPostal','CA');

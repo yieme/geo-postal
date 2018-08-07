@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92676"]={"code":"92676","region":"Bayern","city":"Haselbrunn","latitude":49.76393,"longitude":11.81185}}(window,'GeoPostal','DE');

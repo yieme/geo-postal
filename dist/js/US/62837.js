@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62837"]={"code":"62837","region":"IL","city":"Fairfield","latitude":38.3782,"longitude":-88.3593}}(window,'GeoPostal','US');

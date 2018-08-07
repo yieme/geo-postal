@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA44 7PJ"]={"code":"PA44 7PJ","region":"Scotland","city":"Bridgend","latitude":55.78159,"longitude":-6.24367}}(window,'GeoPostal','GB');

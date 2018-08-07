@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3340"]={"code":"3340","region":"Victoria","city":"Darley","latitude":-37.65807,"longitude":144.44344}}(window,'GeoPostal','AU');

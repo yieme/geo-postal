@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2066"]={"code":"2066","region":"Fejer","city":"Szarliget","latitude":47.51581,"longitude":18.4948}}(window,'GeoPostal','HU');

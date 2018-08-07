@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14767"]={"code":"14767","region":"NY","city":"Panama","latitude":42.057,"longitude":-79.4815}}(window,'GeoPostal','US');

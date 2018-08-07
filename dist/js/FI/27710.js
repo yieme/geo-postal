@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27710"]={"code":"27710","region":"Satakunta","city":"Koylio","latitude":61.1191,"longitude":22.30976}}(window,'GeoPostal','FI');

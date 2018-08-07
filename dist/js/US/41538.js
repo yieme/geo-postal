@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41538"]={"code":"41538","region":"KY","city":"Jonancy","latitude":37.3165,"longitude":-82.5829}}(window,'GeoPostal','US');

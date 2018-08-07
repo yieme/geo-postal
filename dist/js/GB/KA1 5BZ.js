@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA1 5BZ"]={"code":"KA1 5BZ","region":"Scotland","city":"Hurlford","latitude":55.60086,"longitude":-4.45363}}(window,'GeoPostal','GB');

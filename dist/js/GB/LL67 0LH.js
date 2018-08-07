@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL67 0LH"]={"code":"LL67 0LH","region":"Wales","city":"Llanbadrig","latitude":53.41895,"longitude":-4.44281}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26763"]={"code":"26763","region":"West Virginia","city":"Springfield","latitude":39.466941,"longitude":-78.699827}}(window,'GeoPostal','US');

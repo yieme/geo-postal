@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15635"]={"code":"15635","region":"PA","city":"Hannastown","latitude":40.352,"longitude":-79.4979}}(window,'GeoPostal','US');

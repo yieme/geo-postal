@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0X 1H0"]={"code":"P0X 1H0","region":"Ontario","city":"Longbow Lake","latitude":49.71671,"longitude":-94.33372}}(window,'GeoPostal','CA');

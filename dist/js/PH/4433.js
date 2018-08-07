@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4433"]={"code":"4433","region":"Camarines Sur","city":"Antipolo","latitude":13.3927,"longitude":123.5231}}(window,'GeoPostal','PH');

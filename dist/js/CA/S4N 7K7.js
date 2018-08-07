@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S4N 7K7"]={"code":"S4N 7K7","region":"Saskatchewan","city":"Regina","latitude":50.443639,"longitude":-104.572518}}(window,'GeoPostal','CA');

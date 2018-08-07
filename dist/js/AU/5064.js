@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5064"]={"code":"5064","region":"South Australia","city":"St Georges","latitude":-34.952,"longitude":138.64787}}(window,'GeoPostal','AU');

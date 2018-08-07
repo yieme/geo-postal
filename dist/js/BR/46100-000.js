@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46100-000"]={"code":"46100-000","region":"Bahia","city":"Brumado","latitude":-14.20361,"longitude":-41.66528}}(window,'GeoPostal','BR');

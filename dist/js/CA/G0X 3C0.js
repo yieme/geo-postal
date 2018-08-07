@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 3C0"]={"code":"G0X 3C0","region":"Quebec","city":"Sainte-Sophie-de-Levrard","latitude":46.43335,"longitude":-72.1158}}(window,'GeoPostal','CA');

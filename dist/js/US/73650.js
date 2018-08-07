@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73650"]={"code":"73650","region":"Oklahoma","city":"Hammon","latitude":35.689715,"longitude":-99.47197}}(window,'GeoPostal','US');

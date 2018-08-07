@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06255"]={"code":"06255","region":"CT","city":"North Grosvenordale","latitude":41.9784,"longitude":-71.8997}}(window,'GeoPostal','US');

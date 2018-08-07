@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05821"]={"code":"05821","region":"Vermont","city":"Barnet","latitude":44.30806,"longitude":-72.083333}}(window,'GeoPostal','US');

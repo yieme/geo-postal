@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 3JR"]={"code":"SA62 3JR","region":"Wales","city":"Broad Haven","latitude":51.78025,"longitude":-5.10258}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34958"]={"code":"34958","region":"FL","city":"Jensen Beach","latitude":27.2424,"longitude":-80.2246}}(window,'GeoPostal','US');

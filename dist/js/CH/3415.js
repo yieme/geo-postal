@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3415"]={"code":"3415","region":"Luzern","city":"Hasle","latitude":46.97786,"longitude":8.05326}}(window,'GeoPostal','CH');

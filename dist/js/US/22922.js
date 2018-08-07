@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22922"]={"code":"22922","region":"Virginia","city":"Arrington","latitude":37.69218,"longitude":-78.9147}}(window,'GeoPostal','US');

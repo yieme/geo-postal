@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3185"]={"code":"3185","region":"Victoria","city":"Elsternwick","latitude":-37.88333,"longitude":145}}(window,'GeoPostal','AU');

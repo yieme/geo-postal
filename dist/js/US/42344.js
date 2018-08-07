@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42344"]={"code":"42344","region":"KY","city":"Graham","latitude":37.2467,"longitude":-87.2976}}(window,'GeoPostal','US');

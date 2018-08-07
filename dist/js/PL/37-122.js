@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-122"]={"code":"37-122","region":"Podkarpackie","city":"Albigowa","latitude":50.01425,"longitude":22.22414}}(window,'GeoPostal','PL');

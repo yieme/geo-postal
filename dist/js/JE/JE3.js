@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JE3"]={"code":"JE3","region":"Jersey","city":"Saint Helier","latitude":49.18333,"longitude":-2.1}}(window,'GeoPostal','JE');

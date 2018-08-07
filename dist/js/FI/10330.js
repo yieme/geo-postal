@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10330"]={"code":"10330","region":"Uusimaa","city":"Karis","latitude":60.07178,"longitude":23.66163}}(window,'GeoPostal','FI');

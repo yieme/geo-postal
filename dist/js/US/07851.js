@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07851"]={"code":"07851","region":"NJ","city":"Layton","latitude":41.2299,"longitude":-74.8466}}(window,'GeoPostal','US');

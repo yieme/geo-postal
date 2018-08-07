@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43715"]={"code":"43715","region":"Catalunya","city":"Santa Oliva","latitude":41.25357,"longitude":1.55086}}(window,'GeoPostal','ES');

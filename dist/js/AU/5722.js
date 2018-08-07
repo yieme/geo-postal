@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5722"]={"code":"5722","region":"South Australia","city":"Andamooka","latitude":-30.44808,"longitude":137.16564}}(window,'GeoPostal','AU');

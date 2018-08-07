@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71667"]={"code":"71667","region":"AR","city":"Star City","latitude":33.9405,"longitude":-91.8653}}(window,'GeoPostal','US');

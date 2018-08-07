@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57386"]={"code":"57386","region":"South Dakota","city":"Yale","latitude":44.532123,"longitude":-97.981129}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08084"]={"code":"08084","region":"NJ","city":"Stratford","latitude":39.8288,"longitude":-75.0147}}(window,'GeoPostal','US');

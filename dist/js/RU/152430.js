@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152430"]={"code":"152430","region":"Yaroslavskaya oblast'","city":"Prechistoye","latitude":58.42068,"longitude":40.34017}}(window,'GeoPostal','RU');

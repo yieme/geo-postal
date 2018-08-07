@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB45 3UR"]={"code":"AB45 3UR","region":"Scotland","city":"Kirktown of Alvah","latitude":57.61667,"longitude":-2.53333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49748"]={"code":"49748","region":"MI","city":"Hulbert","latitude":46.3908,"longitude":-85.1764}}(window,'GeoPostal','US');

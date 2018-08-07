@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04340"]={"code":"04340","region":"Provence-Alpes-Cote d'Azur","city":"Le Lauzet-Ubaye","latitude":44.4308,"longitude":6.4328}}(window,'GeoPostal','FR');

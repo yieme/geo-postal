@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15647"]={"code":"15647","region":"PA","city":"Larimer","latitude":40.3453,"longitude":-79.7264}}(window,'GeoPostal','US');

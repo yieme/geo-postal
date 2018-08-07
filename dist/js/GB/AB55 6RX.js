@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB55 6RX"]={"code":"AB55 6RX","region":"Scotland","city":"Newmill","latitude":57.55,"longitude":-2.93333}}(window,'GeoPostal','GB');

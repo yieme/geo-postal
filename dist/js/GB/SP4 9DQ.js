@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP4 9DQ"]={"code":"SP4 9DQ","region":"England","city":"Bulford","latitude":51.1893,"longitude":-1.76009}}(window,'GeoPostal','GB');

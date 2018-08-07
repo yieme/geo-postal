@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89035"]={"code":"89035","region":"Vasternorrlands lan","city":"Husum","latitude":63.33333,"longitude":19.16667}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92272"]={"code":"92272","region":"Bayern","city":"Wutschdorf","latitude":49.48045,"longitude":11.98377}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["315200"]={"code":"315200","region":"Arad","city":"Curtici","latitude":46.35,"longitude":21.3}}(window,'GeoPostal','RO');

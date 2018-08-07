@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4273"]={"code":"4273","region":"Bled","city":"Podhom","latitude":46.4,"longitude":14.1}}(window,'GeoPostal','SI');

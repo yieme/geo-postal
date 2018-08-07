@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["CK"]={id:'CK',country:'Cook Islands', postal:{'':{code:'',region:'Cook Islands',city:'Avarua',latitude:-21.20778,longitude:-159.775}}};

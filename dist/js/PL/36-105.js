@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-105"]={"code":"36-105","region":"Podkarpackie","city":"Cmolas","latitude":50.29526,"longitude":21.74417}}(window,'GeoPostal','PL');

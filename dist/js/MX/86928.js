@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86928"]={"code":"86928","region":"Tabasco","city":"San Carlos","latitude":17.55,"longitude":-91.15}}(window,'GeoPostal','MX');

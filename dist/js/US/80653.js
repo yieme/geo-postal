@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80653"]={"code":"80653","region":"Colorado","city":"Weldona","latitude":40.362564,"longitude":-104.020927}}(window,'GeoPostal','US');

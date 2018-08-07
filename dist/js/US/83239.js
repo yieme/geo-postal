@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83239"]={"code":"83239","region":"Idaho","city":"Georgetown","latitude":42.472709,"longitude":-111.397091}}(window,'GeoPostal','US');

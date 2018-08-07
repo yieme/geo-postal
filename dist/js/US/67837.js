@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67837"]={"code":"67837","region":"Kansas","city":"Copeland","latitude":37.5411,"longitude":-100.6289}}(window,'GeoPostal','US');

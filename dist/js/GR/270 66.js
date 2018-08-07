@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["270 66"]={"code":"270 66","region":"Dytiki Ellada","city":"Lalas","latitude":37.71667,"longitude":21.71667}}(window,'GeoPostal','GR');

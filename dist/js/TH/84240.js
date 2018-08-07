@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84240"]={"code":"84240","region":"Surat Thani","city":"Ban Na Doem","latitude":8.88361,"longitude":99.31014}}(window,'GeoPostal','TH');

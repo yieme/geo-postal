@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 0C0"]={"code":"T0B 0C0","region":"Alberta","city":"Andrew","latitude":53.88346,"longitude":-112.35189}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8040"]={"code":"8040","region":"Dhaka","city":"Char Bhadrasan","latitude":23.31667,"longitude":90.21667}}(window,'GeoPostal','BD');

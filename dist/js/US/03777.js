@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03777"]={"code":"03777","region":"New Hampshire","city":"Orford","latitude":43.90535,"longitude":-72.14009}}(window,'GeoPostal','US');

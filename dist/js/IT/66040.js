@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66040"]={"code":"66040","region":"Abruzzo","city":"Perano","latitude":42.10314,"longitude":14.39402}}(window,'GeoPostal','IT');

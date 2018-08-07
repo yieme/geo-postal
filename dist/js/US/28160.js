@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28160"]={"code":"28160","region":"North Carolina","city":"Spindale","latitude":35.358498,"longitude":-81.925855}}(window,'GeoPostal','US');

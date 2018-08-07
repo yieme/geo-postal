@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73448"]={"code":"73448","region":"Oklahoma","city":"Marietta","latitude":33.935922,"longitude":-97.122575}}(window,'GeoPostal','US');

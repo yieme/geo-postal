@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16321"]={"code":"16321","region":"Brandenburg","city":"Bernau bei Berlin","latitude":52.67982,"longitude":13.58708}}(window,'GeoPostal','DE');

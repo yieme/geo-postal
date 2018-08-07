@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93532"]={"code":"93532","region":"CA","city":"Lake Hughes","latitude":34.6847,"longitude":-118.5442}}(window,'GeoPostal','US');

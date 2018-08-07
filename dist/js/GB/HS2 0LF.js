@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 0LF"]={"code":"HS2 0LF","region":"Scotland","city":"Vatisker","latitude":58.28333,"longitude":-6.3}}(window,'GeoPostal','GB');

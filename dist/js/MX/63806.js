@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63806"]={"code":"63806","region":"Nayarit","city":"Santiago Ixcuintla","latitude":21.81667,"longitude":-105.21667}}(window,'GeoPostal','MX');

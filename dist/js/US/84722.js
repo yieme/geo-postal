@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84722"]={"code":"84722","region":"UT","city":"Central","latitude":37.4166,"longitude":-113.6244}}(window,'GeoPostal','US');

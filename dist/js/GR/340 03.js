@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340 03"]={"code":"340 03","region":"Sterea Ellada","city":"Kimi","latitude":38.63333,"longitude":24.1}}(window,'GeoPostal','GR');

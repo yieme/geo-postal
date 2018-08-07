@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21677"]={"code":"21677","region":"MD","city":"Woolford","latitude":38.5026,"longitude":-76.1833}}(window,'GeoPostal','US');

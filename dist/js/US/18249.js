@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18249"]={"code":"18249","region":"PA","city":"Sugarloaf","latitude":40.9971,"longitude":-76.0717}}(window,'GeoPostal','US');

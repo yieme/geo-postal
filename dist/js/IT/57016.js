@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57016"]={"code":"57016","region":"Toscana","city":"Rosignano Marittimo","latitude":43.40793,"longitude":10.47291}}(window,'GeoPostal','IT');

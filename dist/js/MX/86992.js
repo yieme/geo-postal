@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86992"]={"code":"86992","region":"Tabasco","city":"Frontera","latitude":18.58333,"longitude":-92.65}}(window,'GeoPostal','MX');

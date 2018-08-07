@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD22 0DJ"]={"code":"BD22 0DJ","region":"England","city":"Ickornshaw","latitude":53.8821,"longitude":-2.05477}}(window,'GeoPostal','GB');

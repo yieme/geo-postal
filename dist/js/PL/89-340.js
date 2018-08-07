@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-340"]={"code":"89-340","region":"Wielkopolskie","city":"Bialosliwie","latitude":53.10461,"longitude":17.12533}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39600"]={"code":"39600","region":"Cantabria","city":"Camargo","latitude":43.40744,"longitude":-3.88498}}(window,'GeoPostal','ES');

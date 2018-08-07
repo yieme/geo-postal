@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78109"]={"code":"78109","region":"Texas","city":"Converse","latitude":29.51801,"longitude":-98.31612}}(window,'GeoPostal','US');

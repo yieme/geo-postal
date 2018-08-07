@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9485"]={"code":"9485","region":"Gyor-Moson-Sopron","city":"Nagycenk","latitude":47.60435,"longitude":16.69732}}(window,'GeoPostal','HU');

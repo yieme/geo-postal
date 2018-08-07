@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617000"]={"code":"617000","region":"Permskiy kray","city":"Nytva","latitude":57.94042,"longitude":55.33397}}(window,'GeoPostal','RU');

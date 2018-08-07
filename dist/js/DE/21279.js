@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21279"]={"code":"21279","region":"Niedersachsen","city":"Mienenbuttel","latitude":53.37631,"longitude":9.80192}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8790"]={"code":"8790","region":"West-Vlaanderen","city":"Waregem","latitude":50.88898,"longitude":3.42756}}(window,'GeoPostal','BE');

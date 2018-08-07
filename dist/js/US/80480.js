@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80480"]={"code":"80480","region":"CO","city":"Walden","latitude":40.71,"longitude":-106.2767}}(window,'GeoPostal','US');

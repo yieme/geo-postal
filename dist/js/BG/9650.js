@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9650"]={"code":"9650","region":"Dobrich","city":"Kavarna","latitude":43.43333,"longitude":28.33333}}(window,'GeoPostal','BG');

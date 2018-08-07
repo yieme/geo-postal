@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98357"]={"code":"98357","region":"Washington","city":"Neah Bay","latitude":48.36556,"longitude":-124.61556}}(window,'GeoPostal','US');

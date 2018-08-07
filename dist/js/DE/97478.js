@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97478"]={"code":"97478","region":"Bayern","city":"Knetzgau","latitude":49.98333,"longitude":10.55}}(window,'GeoPostal','DE');

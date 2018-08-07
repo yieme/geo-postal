@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42155"]={"code":"42155","region":"Auvergne-Rhone-Alpes","city":"Ouches","latitude":46.01657,"longitude":3.98824}}(window,'GeoPostal','FR');

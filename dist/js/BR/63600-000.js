@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63600-000"]={"code":"63600-000","region":"Ceara","city":"Senador Pompeu","latitude":-5.58806,"longitude":-39.37167}}(window,'GeoPostal','BR');

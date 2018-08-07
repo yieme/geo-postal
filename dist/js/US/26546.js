@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26546"]={"code":"26546","region":"WV","city":"Pursglove","latitude":39.6746,"longitude":-80.035}}(window,'GeoPostal','US');

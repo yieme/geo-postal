@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-401"]={"code":"83-401","region":"Pomorskie","city":"Koscierzyna","latitude":54.12226,"longitude":17.98119}}(window,'GeoPostal','PL');

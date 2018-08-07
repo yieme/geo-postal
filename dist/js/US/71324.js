@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71324"]={"code":"71324","region":"LA","city":"Chase","latitude":32.0971,"longitude":-91.699}}(window,'GeoPostal','US');

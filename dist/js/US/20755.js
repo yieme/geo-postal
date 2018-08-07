@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20755"]={"code":"20755","region":"Maryland","city":"Fort George G. Meade","latitude":39.10764,"longitude":-76.74486}}(window,'GeoPostal','US');

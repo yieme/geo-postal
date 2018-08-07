@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41762"]={"code":"41762","region":"Kentucky","city":"Sizerock","latitude":37.163519,"longitude":-83.437291}}(window,'GeoPostal','US');

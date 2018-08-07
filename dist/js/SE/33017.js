@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33017"]={"code":"33017","region":"Jonkopings lan","city":"Rydaholm","latitude":56.98333,"longitude":14.3}}(window,'GeoPostal','SE');

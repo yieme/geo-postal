@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43600"]={"code":"43600","region":"Auvergne-Rhone-Alpes","city":"Sainte-Sigolene","latitude":45.24329,"longitude":4.23343}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75852"]={"code":"75852","region":"TX","city":"Midway","latitude":30.9806,"longitude":-95.7089}}(window,'GeoPostal','US');

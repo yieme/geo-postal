@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11120"]={"code":"11120","region":"Nonthaburi","city":"Pak Kret","latitude":13.91301,"longitude":100.49883}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30828"]={"code":"30828","region":"Georgia","city":"Warrenton","latitude":33.40708,"longitude":-82.66208}}(window,'GeoPostal','US');

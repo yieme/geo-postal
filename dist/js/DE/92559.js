@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92559"]={"code":"92559","region":"Bayern","city":"Forsthof","latitude":49.43792,"longitude":12.49299}}(window,'GeoPostal','DE');

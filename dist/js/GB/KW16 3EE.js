@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW16 3EE"]={"code":"KW16 3EE","region":"Scotland","city":"Navershaw","latitude":58.96667,"longitude":-3.28333}}(window,'GeoPostal','GB');

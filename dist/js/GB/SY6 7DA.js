@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY6 7DA"]={"code":"SY6 7DA","region":"England","city":"Hope Bowdler","latitude":52.52743,"longitude":-2.77565}}(window,'GeoPostal','GB');

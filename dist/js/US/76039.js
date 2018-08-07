@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76039"]={"code":"76039","region":"Texas","city":"Euless","latitude":32.83707,"longitude":-97.08195}}(window,'GeoPostal','US');

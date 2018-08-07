@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427145"]={"code":"427145","region":"Udmurtskaya Respublika","city":"Igra","latitude":57.55583,"longitude":53.05472}}(window,'GeoPostal','RU');

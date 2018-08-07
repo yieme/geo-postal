@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["810907"]={"code":"810907","region":"Qinghai","city":"Dehenglong","latitude":35.9712,"longitude":102.15195}}(window,'GeoPostal','CN');

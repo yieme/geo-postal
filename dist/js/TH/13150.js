@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13150"]={"code":"13150","region":"Phra Nakhon Si Ayutthaya","city":"Maha Rat","latitude":14.53367,"longitude":100.52672}}(window,'GeoPostal','TH');

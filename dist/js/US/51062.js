@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51062"]={"code":"51062","region":"IA","city":"Westfield","latitude":42.6953,"longitude":-96.492}}(window,'GeoPostal','US');

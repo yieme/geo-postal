@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17520"]={"code":"17520","region":"Nouvelle-Aquitaine","city":"Jarnac-Champagne","latitude":45.5597,"longitude":-0.3986}}(window,'GeoPostal','FR');

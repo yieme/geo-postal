@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86930"]={"code":"86930","region":"Tabasco","city":"Balancan de Dominguez","latitude":17.8,"longitude":-91.53333}}(window,'GeoPostal','MX');

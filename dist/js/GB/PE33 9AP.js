@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE33 9AP"]={"code":"PE33 9AP","region":"England","city":"Wereham","latitude":52.58583,"longitude":0.48118}}(window,'GeoPostal','GB');

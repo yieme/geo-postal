@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP30 0DB"]={"code":"IP30 0DB","region":"England","city":"Little Welnetham","latitude":52.20595,"longitude":0.76606}}(window,'GeoPostal','GB');

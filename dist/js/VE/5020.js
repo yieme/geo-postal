@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5020"]={"code":"5020","region":"Tachira","city":"La Fria","latitude":8.22027,"longitude":-72.2439}}(window,'GeoPostal','VE');

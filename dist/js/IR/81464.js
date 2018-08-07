@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81464"]={"code":"81464","region":"Esfahan","city":"Esfahan","latitude":32.65722,"longitude":51.67761}}(window,'GeoPostal','IR');

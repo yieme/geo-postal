@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78710"]={"code":"78710","region":"Ile-de-France","city":"Rosny-sur-Seine","latitude":48.99808,"longitude":1.6313}}(window,'GeoPostal','FR');

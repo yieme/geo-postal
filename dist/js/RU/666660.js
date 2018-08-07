@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666660"]={"code":"666660","region":"Irkutskaya oblast'","city":"Zheleznodorozhnyy","latitude":57.91222,"longitude":102.76528}}(window,'GeoPostal','RU');

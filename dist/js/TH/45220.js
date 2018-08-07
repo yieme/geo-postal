@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45220"]={"code":"45220","region":"Roi Et","city":"Mueang Suang","latitude":15.82192,"longitude":103.72884}}(window,'GeoPostal','TH');

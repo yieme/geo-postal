@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5070"]={"code":"5070","region":"Monastir","city":"Qasr Hallal","latitude":35.64773,"longitude":10.89046}}(window,'GeoPostal','TN');

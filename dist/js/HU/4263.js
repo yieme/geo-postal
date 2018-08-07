@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4263"]={"code":"4263","region":"Hajdu-Bihar","city":"Nyirmartonfalva","latitude":47.58333,"longitude":21.9}}(window,'GeoPostal','HU');

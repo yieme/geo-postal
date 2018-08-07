@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02250"]={"code":"02250","region":"Hauts-de-France","city":"Marle","latitude":49.74006,"longitude":3.7706}}(window,'GeoPostal','FR');

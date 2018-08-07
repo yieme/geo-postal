@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23600"]={"code":"23600","region":"Nouvelle-Aquitaine","city":"Boussac","latitude":46.3497,"longitude":2.2156}}(window,'GeoPostal','FR');

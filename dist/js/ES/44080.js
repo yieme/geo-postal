@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44080"]={"code":"44080","region":"Aragon","city":"Teruel","latitude":40.3456,"longitude":-1.10646}}(window,'GeoPostal','ES');

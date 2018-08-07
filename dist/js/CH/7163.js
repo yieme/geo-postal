@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7163"]={"code":"7163","region":"Graubunden","city":"Breil","latitude":46.76986,"longitude":9.06036}}(window,'GeoPostal','CH');

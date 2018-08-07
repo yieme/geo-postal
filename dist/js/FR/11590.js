@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11590"]={"code":"11590","region":"Occitanie","city":"Ouveillan","latitude":43.28915,"longitude":2.97124}}(window,'GeoPostal','FR');

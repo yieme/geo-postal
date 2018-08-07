@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60176"]={"code":"60176","region":"Illinois","city":"Schiller Park","latitude":41.957227,"longitude":-87.870316}}(window,'GeoPostal','US');

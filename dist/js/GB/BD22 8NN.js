@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD22 8NN"]={"code":"BD22 8NN","region":"England","city":"Haworth","latitude":53.82905,"longitude":-1.94827}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0L 1Z0"]={"code":"T0L 1Z0","region":"Alberta","city":"Stavely","latitude":50.16678,"longitude":-113.63525}}(window,'GeoPostal','CA');

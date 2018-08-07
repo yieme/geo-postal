@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["721122"]={"code":"721122","region":"West Bengal","city":"Chandrakona","latitude":22.73333,"longitude":87.51667}}(window,'GeoPostal','IN');

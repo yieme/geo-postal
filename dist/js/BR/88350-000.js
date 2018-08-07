@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88350-000"]={"code":"88350-000","region":"Santa Catarina","city":"Brusque","latitude":-27.09806,"longitude":-48.9175}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65014"]={"code":"65014","region":"Abruzzo","city":"Loreto Aprutino","latitude":42.42924,"longitude":13.9809}}(window,'GeoPostal','IT');

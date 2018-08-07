@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WF10 5PY"]={"code":"WF10 5PY","region":"England","city":"Castleford","latitude":53.72587,"longitude":-1.36256}}(window,'GeoPostal','GB');

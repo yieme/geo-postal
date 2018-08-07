@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33405"]={"code":"33405","region":"Viroviticko-podravska zupanija","city":"Pitomaca","latitude":45.95056,"longitude":17.22944}}(window,'GeoPostal','HR');

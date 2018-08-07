@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31710"]={"code":"31710","region":"Navarra, Comunidad Foral de","city":"Zugarramurdi","latitude":43.269922,"longitude":-1.53993}}(window,'GeoPostal','ES');

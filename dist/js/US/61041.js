@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61041"]={"code":"61041","region":"Illinois","city":"Hanover","latitude":42.271233,"longitude":-90.300288}}(window,'GeoPostal','US');

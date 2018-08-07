@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 2E0"]={"code":"S0M 2E0","region":"Saskatchewan","city":"Onion Lake","latitude":53.658936,"longitude":-109.920055}}(window,'GeoPostal','CA');

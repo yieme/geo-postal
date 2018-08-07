@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85034"]={"code":"85034","region":"Basilicata","city":"Francavilla in Sinni","latitude":40.07911,"longitude":16.20328}}(window,'GeoPostal','IT');

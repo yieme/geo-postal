@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50702"]={"code":"50702","region":"Iowa","city":"Waterloo","latitude":42.470331,"longitude":-92.330287}}(window,'GeoPostal','US');

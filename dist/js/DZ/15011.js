@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15011"]={"code":"15011","region":"Tizi Ouzou","city":"Beni Douala","latitude":36.61954,"longitude":4.08282}}(window,'GeoPostal','DZ');

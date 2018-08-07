@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34295"]={"code":"34295","region":"Florida","city":"Englewood","latitude":26.932038,"longitude":-82.28398}}(window,'GeoPostal','US');

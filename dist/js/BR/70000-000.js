@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70000-000"]={"code":"70000-000","region":"Distrito Federal","city":"Brasilia","latitude":-15.77972,"longitude":-47.92972}}(window,'GeoPostal','BR');

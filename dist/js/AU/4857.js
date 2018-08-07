@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4857"]={"code":"4857","region":"Queensland","city":"Silkwood","latitude":-17.74853,"longitude":146.02182}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 7ET"]={"code":"BA12 7ET","region":"England","city":"Monkton Deverill","latitude":51.13479,"longitude":-2.20905}}(window,'GeoPostal','GB');

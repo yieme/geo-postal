@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13250-000"]={"code":"13250-000","region":"Sao Paulo","city":"Itatiba","latitude":-23.00583,"longitude":-46.83889}}(window,'GeoPostal','BR');

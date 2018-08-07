@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34001"]={"code":"34001","region":"Bordj Bou Arreridj","city":"Ras el Oued","latitude":35.9441,"longitude":5.03107}}(window,'GeoPostal','DZ');

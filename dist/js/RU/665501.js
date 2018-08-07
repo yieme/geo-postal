@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665501"]={"code":"665501","region":"Irkutskaya oblast'","city":"Lesogorsk","latitude":56.0458,"longitude":99.5136}}(window,'GeoPostal','RU');

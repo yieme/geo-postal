@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82319"]={"code":"82319","region":"Bayern","city":"Starnberg","latitude":48.00193,"longitude":11.34416}}(window,'GeoPostal','DE');

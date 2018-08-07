@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 2R0"]={"code":"T0J 2R0","region":"Alberta","city":"Rockyford","latitude":51.23342,"longitude":-113.13521}}(window,'GeoPostal','CA');

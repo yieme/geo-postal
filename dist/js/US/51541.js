@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51541"]={"code":"51541","region":"IA","city":"Henderson","latitude":41.1254,"longitude":-95.4586}}(window,'GeoPostal','US');

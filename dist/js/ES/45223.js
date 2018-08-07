@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45223"]={"code":"45223","region":"Castilla-La Mancha","city":"Sesena","latitude":40.10473,"longitude":-3.69793}}(window,'GeoPostal','ES');

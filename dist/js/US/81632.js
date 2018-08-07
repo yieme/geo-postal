@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81632"]={"code":"81632","region":"Colorado","city":"Edwards","latitude":39.64499,"longitude":-106.5942}}(window,'GeoPostal','US');

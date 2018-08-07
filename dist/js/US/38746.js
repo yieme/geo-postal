@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38746"]={"code":"38746","region":"MS","city":"Gunnison","latitude":33.9439,"longitude":-90.9319}}(window,'GeoPostal','US');

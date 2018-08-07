@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0C 1V0"]={"code":"V0C 1V0","region":"British Columbia","city":"Hudson's Hope","latitude":55.99989,"longitude":-122.00305}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO12 3PN"]={"code":"CO12 3PN","region":"England","city":"Dovercourt","latitude":51.93649,"longitude":1.27831}}(window,'GeoPostal','GB');

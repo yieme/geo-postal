@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-510"]={"code":"87-510","region":"Kujawsko-pomorskie","city":"Skrwilno","latitude":53.01607,"longitude":19.62364}}(window,'GeoPostal','PL');

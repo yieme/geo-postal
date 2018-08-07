@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["535 01"]={"code":"535 01","region":"Pardubicky kraj","city":"Prelouc","latitude":50.03985,"longitude":15.56031}}(window,'GeoPostal','CZ');

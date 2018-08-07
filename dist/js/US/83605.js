@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83605"]={"code":"83605","region":"Idaho","city":"Caldwell","latitude":43.66294,"longitude":-116.68736}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29662"]={"code":"29662","region":"South Carolina","city":"Mauldin","latitude":34.77873,"longitude":-82.31012}}(window,'GeoPostal','US');

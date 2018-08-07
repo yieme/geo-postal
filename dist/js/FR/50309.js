@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50309"]={"code":"50309","region":"Normandie","city":"Avranches","latitude":48.68333,"longitude":-1.36667}}(window,'GeoPostal','FR');

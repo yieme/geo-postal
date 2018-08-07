@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41022"]={"code":"41022","region":"Emilia-Romagna","city":"Fiumalbo","latitude":44.17925,"longitude":10.6472}}(window,'GeoPostal','IT');

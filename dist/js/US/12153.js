@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12153"]={"code":"12153","region":"NY","city":"Sand Lake","latitude":42.6379,"longitude":-73.4989}}(window,'GeoPostal','US');

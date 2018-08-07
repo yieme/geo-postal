@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57465"]={"code":"57465","region":"SD","city":"Northville","latitude":45.1611,"longitude":-98.6589}}(window,'GeoPostal','US');

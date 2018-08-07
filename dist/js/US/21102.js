@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21102"]={"code":"21102","region":"Maryland","city":"Manchester","latitude":39.64355,"longitude":-76.6964}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71012"]={"code":"71012","region":"Puglia","city":"Rodi Garganico","latitude":41.92874,"longitude":15.88105}}(window,'GeoPostal','IT');

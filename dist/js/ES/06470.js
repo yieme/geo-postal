@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06470"]={"code":"06470","region":"Extremadura","city":"Guarena","latitude":38.85952,"longitude":-6.09987}}(window,'GeoPostal','ES');

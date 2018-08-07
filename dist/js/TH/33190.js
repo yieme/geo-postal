@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33190"]={"code":"33190","region":"Si Sa Ket","city":"Yang Chum Noi","latitude":15.26453,"longitude":104.39769}}(window,'GeoPostal','TH');

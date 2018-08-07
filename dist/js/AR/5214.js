@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5214"]={"code":"5214","region":"Cordoba","city":"Quilino","latitude":-30.21397,"longitude":-64.50063}}(window,'GeoPostal','AR');

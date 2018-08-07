@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58015"]={"code":"58015","region":"ND","city":"Christine","latitude":46.5736,"longitude":-96.8017}}(window,'GeoPostal','US');

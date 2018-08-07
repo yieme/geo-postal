@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3263"]={"code":"3263","region":"Heves","city":"Domoszlo","latitude":47.83333,"longitude":20.11667}}(window,'GeoPostal','HU');

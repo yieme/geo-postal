@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97068"]={"code":"97068","region":"Oregon","city":"West Linn","latitude":45.367241,"longitude":-122.64964}}(window,'GeoPostal','US');

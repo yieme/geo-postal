@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250 70"]={"code":"250 70","region":"Stredocesky kraj","city":"Odolena Voda","latitude":50.23341,"longitude":14.41078}}(window,'GeoPostal','CZ');

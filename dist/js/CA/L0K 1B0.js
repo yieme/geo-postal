@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0K 1B0"]={"code":"L0K 1B0","region":"Ontario","city":"Brechin","latitude":44.54766,"longitude":-79.17727}}(window,'GeoPostal','CA');

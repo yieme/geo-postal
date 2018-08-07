@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99578"]={"code":"99578","region":"Alaska","city":"Eek","latitude":60.21861,"longitude":-162.02583}}(window,'GeoPostal','US');

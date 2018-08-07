@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74029"]={"code":"74029","region":"Oklahoma","city":"Dewey","latitude":36.795923,"longitude":-95.937466}}(window,'GeoPostal','US');

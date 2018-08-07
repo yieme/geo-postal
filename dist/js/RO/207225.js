@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207225"]={"code":"207225","region":"Dolj","city":"Desa","latitude":43.86667,"longitude":23.03333}}(window,'GeoPostal','RO');

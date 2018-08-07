@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16403"]={"code":"16403","region":"Pennsylvania","city":"Cambridge Springs","latitude":41.801625,"longitude":-80.059374}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 1K0"]={"code":"V0K 1K0","region":"British Columbia","city":"Clinton","latitude":51.08309,"longitude":-121.58597}}(window,'GeoPostal','CA');

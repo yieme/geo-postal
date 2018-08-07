@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["156014"]={"code":"156014","region":"Kostromskaya oblast'","city":"Kostroma","latitude":57.76647,"longitude":40.92686}}(window,'GeoPostal','RU');

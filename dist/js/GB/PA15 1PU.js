@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA15 1PU"]={"code":"PA15 1PU","region":"Scotland","city":"Greenock","latitude":55.94838,"longitude":-4.76121}}(window,'GeoPostal','GB');

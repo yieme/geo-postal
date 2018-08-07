@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76120"]={"code":"76120","region":"Federacija Bosne i Hercegovine","city":"Brcko","latitude":44.87278,"longitude":18.80833}}(window,'GeoPostal','BA');

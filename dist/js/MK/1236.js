@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1236"]={"code":"1236","region":"Vrapciste","city":"Negotino","latitude":41.87861,"longitude":20.88389}}(window,'GeoPostal','MK');

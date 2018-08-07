@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81076"]={"code":"81076","region":"Colorado","city":"Sugar City","latitude":38.24848,"longitude":-103.663464}}(window,'GeoPostal','US');

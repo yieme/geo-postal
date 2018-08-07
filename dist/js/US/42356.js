@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42356"]={"code":"42356","region":"KY","city":"Maple Mount","latitude":37.6932,"longitude":-87.3238}}(window,'GeoPostal','US');

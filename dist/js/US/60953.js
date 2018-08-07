@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60953"]={"code":"60953","region":"Illinois","city":"Milford","latitude":40.641784,"longitude":-87.698927}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75762"]={"code":"75762","region":"Texas","city":"Flint","latitude":32.20417,"longitude":-95.34861}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08299"]={"code":"08299","region":"Kyiv","city":"Kotsyubinskoye","latitude":50.48836,"longitude":30.32957}}(window,'GeoPostal','UA');

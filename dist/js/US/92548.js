@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92548"]={"code":"92548","region":"CA","city":"Homeland","latitude":33.7453,"longitude":-117.1118}}(window,'GeoPostal','US');

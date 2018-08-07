@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55917"]={"code":"55917","region":"MN","city":"Blooming Prairie","latitude":43.8977,"longitude":-93.0608}}(window,'GeoPostal','US');

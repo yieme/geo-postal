@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29842"]={"code":"29842","region":"SC","city":"Beech Island","latitude":33.4707,"longitude":-81.8639}}(window,'GeoPostal','US');

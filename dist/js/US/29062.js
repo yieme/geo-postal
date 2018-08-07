@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29062"]={"code":"29062","region":"SC","city":"Horatio","latitude":34.0213,"longitude":-80.5659}}(window,'GeoPostal','US');

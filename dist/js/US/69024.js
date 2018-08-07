@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69024"]={"code":"69024","region":"NE","city":"Culbertson","latitude":40.2237,"longitude":-100.85}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61728"]={"code":"61728","region":"IL","city":"Colfax","latitude":40.5704,"longitude":-88.62}}(window,'GeoPostal','US');

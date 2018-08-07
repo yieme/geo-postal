@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 1V0"]={"code":"J0X 1V0","region":"Quebec","city":"Fort-Coulonge","latitude":45.85011,"longitude":-76.73272}}(window,'GeoPostal','CA');

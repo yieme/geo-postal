@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85140"]={"code":"85140","region":"Pays-de-la-Loire","city":"Les Essarts","latitude":46.7744,"longitude":-1.22834}}(window,'GeoPostal','FR');

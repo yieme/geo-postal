@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737625"]={"code":"737625","region":"Vaslui","city":"Zapodeni","latitude":46.75,"longitude":27.65}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78400"]={"code":"78400","region":"Republika Srpska","city":"Bosanska Gradiska","latitude":45.14111,"longitude":17.25}}(window,'GeoPostal','BA');

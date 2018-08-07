@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162400"]={"code":"162400","region":"Vologodskaya oblast'","city":"Chagoda","latitude":59.164,"longitude":35.3285}}(window,'GeoPostal','RU');

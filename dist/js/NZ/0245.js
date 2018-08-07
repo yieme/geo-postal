@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0245"]={"code":"0245","region":"Northland","city":"Kerikeri","latitude":-35.22676,"longitude":173.94739}}(window,'GeoPostal','NZ');

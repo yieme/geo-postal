@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412210"]={"code":"412210","region":"Saratovskaya oblast'","city":"Arkadak","latitude":51.93261,"longitude":43.49778}}(window,'GeoPostal','RU');

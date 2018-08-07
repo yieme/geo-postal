@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68599"]={"code":"68599","region":"Varmlands lan","city":"Torsby","latitude":60.13527,"longitude":13.0082}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0S 1E0"]={"code":"J0S 1E0","region":"Quebec","city":"Franklin","latitude":45.03338,"longitude":-73.91591}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR10 3AH"]={"code":"WR10 3AH","region":"England","city":"Birlingham","latitude":52.08666,"longitude":-2.09876}}(window,'GeoPostal','GB');

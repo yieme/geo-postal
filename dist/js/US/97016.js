@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97016"]={"code":"97016","region":"Oregon","city":"Clatskanie","latitude":46.10122,"longitude":-123.20679}}(window,'GeoPostal','US');

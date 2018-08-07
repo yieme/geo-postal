@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70544"]={"code":"70544","region":"LA","city":"Jeanerette","latitude":29.9032,"longitude":-91.6544}}(window,'GeoPostal','US');

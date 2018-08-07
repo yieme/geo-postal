@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15526"]={"code":"15526","region":"Brandenburg","city":"Dorf Saarow","latitude":52.27651,"longitude":14.04558}}(window,'GeoPostal','DE');

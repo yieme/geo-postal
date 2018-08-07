@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH7 4JP"]={"code":"CH7 4JP","region":"Wales","city":"Llong","latitude":53.15369,"longitude":-3.10534}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44190"]={"code":"44190","region":"Pays-de-la-Loire","city":"Boussay","latitude":47.04476,"longitude":-1.18476}}(window,'GeoPostal','FR');

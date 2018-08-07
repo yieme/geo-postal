@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71039"]={"code":"71039","region":"LA","city":"Heflin","latitude":32.447,"longitude":-93.2852}}(window,'GeoPostal','US');

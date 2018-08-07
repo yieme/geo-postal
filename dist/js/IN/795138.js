@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["795138"]={"code":"795138","region":"Manipur","city":"Yairipok","latitude":24.66667,"longitude":94.06667}}(window,'GeoPostal','IN');

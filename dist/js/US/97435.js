@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97435"]={"code":"97435","region":"OR","city":"Drain","latitude":43.6877,"longitude":-123.2929}}(window,'GeoPostal','US');

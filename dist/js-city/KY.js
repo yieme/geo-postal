@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["KY"]={KY1: {r:'Cayman Islands',c:'George Town'},'KY1-1800':{r:'Cayman Islands',c:'East End'},'00000':{r:'Cayman Islands',c:'George Town'},'KY1-1300':'00000', 'KY1-1108':'00000', 'KY1-1107':'00000', 'KY1-1003':'00000', 'KY1-1008':'00000', 'KY1-1205':'00000', 'KY1-1104':'00000', BWI:'00000'};

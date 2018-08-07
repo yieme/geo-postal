@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT3 4JR"]={"code":"DT3 4JR","region":"England","city":"Abbotsbury","latitude":50.66667,"longitude":-2.6}}(window,'GeoPostal','GB');

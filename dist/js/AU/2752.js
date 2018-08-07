@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2752"]={"code":"2752","region":"New South Wales","city":"Warragamba","latitude":-33.89191,"longitude":150.60461}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6520"]={"code":"6520","region":"Syddanmark","city":"Toftlund","latitude":55.18858,"longitude":9.06925}}(window,'GeoPostal','DK');

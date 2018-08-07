@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62570"]={"code":"62570","region":"IL","city":"Tovey","latitude":39.588,"longitude":-89.4495}}(window,'GeoPostal','US');

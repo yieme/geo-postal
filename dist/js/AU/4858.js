@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4858"]={"code":"4858","region":"Queensland","city":"Mourilyan","latitude":-17.58258,"longitude":146.04349}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97330"]={"code":"97330","region":"Yucatan","city":"Progreso","latitude":21.28333,"longitude":-89.66667}}(window,'GeoPostal','MX');

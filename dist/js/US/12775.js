@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12775"]={"code":"12775","region":"NY","city":"Rock Hill","latitude":41.6134,"longitude":-74.5872}}(window,'GeoPostal','US');

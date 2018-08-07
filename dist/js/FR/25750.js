@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25750"]={"code":"25750","region":"Bourgogne-Franche-Comte","city":"Arcey","latitude":47.52258,"longitude":6.66222}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90596"]={"code":"90596","region":"Bayern","city":"Leerstetten","latitude":49.32356,"longitude":11.1246}}(window,'GeoPostal','DE');

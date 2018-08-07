@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["614738"]={"code":"614738","region":"Tamil Nadu","city":"Peravurani","latitude":10.3,"longitude":79.18333}}(window,'GeoPostal','IN');

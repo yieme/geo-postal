@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Z 3E0"]={"code":"J0Z 3E0","region":"Quebec","city":"Poularies","latitude":48.66688,"longitude":-78.98291}}(window,'GeoPostal','CA');

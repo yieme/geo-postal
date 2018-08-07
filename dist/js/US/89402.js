@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89402"]={"code":"89402","region":"Nevada","city":"Crystal Bay","latitude":39.24583,"longitude":-119.95}}(window,'GeoPostal','US');

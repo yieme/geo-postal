@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71322"]={"code":"71322","region":"Louisiana","city":"Bunkie","latitude":30.94338,"longitude":-92.18526}}(window,'GeoPostal','US');

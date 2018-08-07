@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01536"]={"code":"01536","region":"MA","city":"North Grafton","latitude":42.2297,"longitude":-71.7037}}(window,'GeoPostal','US');

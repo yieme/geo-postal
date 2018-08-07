@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1932"]={"code":"1932","region":"Free State","city":"Deneysville","latitude":-26.8908,"longitude":28.09707}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04015"]={"code":"04015","region":"Lazio","city":"Priverno","latitude":41.46911,"longitude":13.1856}}(window,'GeoPostal','IT');

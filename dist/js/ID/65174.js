@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65174"]={"code":"65174","region":"Jawa Timur","city":"Gondanglegi Wetan","latitude":-8.17966,"longitude":112.64076}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5500"]={"code":"5500","region":"Eastern Cape","city":"Molteno","latitude":-31.39676,"longitude":26.36246}}(window,'GeoPostal','ZA');

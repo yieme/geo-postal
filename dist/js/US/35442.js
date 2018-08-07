@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35442"]={"code":"35442","region":"Alabama","city":"Aliceville","latitude":33.12957,"longitude":-88.15142}}(window,'GeoPostal','US');

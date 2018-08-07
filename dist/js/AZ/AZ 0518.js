@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0518"]={"code":"AZ 0518","region":"Agstafa","city":"Vurgun","latitude":41.09423,"longitude":45.47162}}(window,'GeoPostal','AZ');

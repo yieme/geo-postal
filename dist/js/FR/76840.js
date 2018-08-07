@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76840"]={"code":"76840","region":"Normandie","city":"Henouville","latitude":49.4789,"longitude":0.96367}}(window,'GeoPostal','FR');

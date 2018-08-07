@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2881"]={"code":"2881","region":"Niederosterreich","city":"Kirchberg am Wechsel","latitude":47.60738,"longitude":15.99103}}(window,'GeoPostal','AT');

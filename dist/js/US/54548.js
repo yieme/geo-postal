@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54548"]={"code":"54548","region":"Wisconsin","city":"Minocqua","latitude":45.84667,"longitude":-89.83056}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74172"]={"code":"74172","region":"Baden-Wurttemberg","city":"Neckarsulm","latitude":49.18912,"longitude":9.22528}}(window,'GeoPostal','DE');

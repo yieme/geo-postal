@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81243"]={"code":"81243","region":"CO","city":"Powderhorn","latitude":38.2822,"longitude":-107.1084}}(window,'GeoPostal','US');

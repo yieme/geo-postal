@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["315601"]={"code":"315601","region":"Zhejiang","city":"Changjie","latitude":29.25,"longitude":121.705}}(window,'GeoPostal','CN');

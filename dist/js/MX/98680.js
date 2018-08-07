@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98680"]={"code":"98680","region":"Zacatecas","city":"San Pedro Piedra Gorda","latitude":22.45,"longitude":-102.35}}(window,'GeoPostal','MX');

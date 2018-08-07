@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417105"]={"code":"417105","region":"Bihor","city":"Buduslau","latitude":47.4,"longitude":22.26667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["294 41"]={"code":"294 41","region":"Stredocesky kraj","city":"Dobrovice","latitude":50.36933,"longitude":14.96233}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 4AH"]={"code":"BD23 4AH","region":"England","city":"Airton","latitude":54.02834,"longitude":-2.15064}}(window,'GeoPostal','GB');

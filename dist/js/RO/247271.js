@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247271"]={"code":"247271","region":"Dambovita","city":"Bucsani","latitude":44.37611,"longitude":25.65528}}(window,'GeoPostal','RO');

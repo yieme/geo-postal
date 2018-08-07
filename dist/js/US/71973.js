@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71973"]={"code":"71973","region":"Arkansas","city":"Wickes","latitude":34.30139,"longitude":-94.335}}(window,'GeoPostal','US');

@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["YT"]={'97600':{r:'Mamoudzou',c:'Mamoudzou'},'97630':{r:'Mtsamboro',c:'Mtsamboro'},'97640':{r:'Sada',c:'Sada'},'97650':{r:'Bandraboua',c:'Bandraboua'},'97670':{r:'Ouangani',c:'Ouangani'},'97680':{r:'Tsingoni',c:'Tsingoni'}};

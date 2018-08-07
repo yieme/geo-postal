@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45140"]={"code":"45140","region":"Roi Et","city":"Nong Hi","latitude":15.61117,"longitude":103.99484}}(window,'GeoPostal','TH');

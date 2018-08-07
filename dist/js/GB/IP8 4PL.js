@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP8 4PL"]={"code":"IP8 4PL","region":"England","city":"Somersham","latitude":52.09607,"longitude":1.05022}}(window,'GeoPostal','GB');

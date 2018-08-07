@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35501"]={"code":"35501","region":"Pirkanmaa","city":"Juupajoki","latitude":61.79901,"longitude":24.36939}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96040"]={"code":"96040","region":"California","city":"Hat Creek","latitude":40.816027,"longitude":-121.505388}}(window,'GeoPostal','US');

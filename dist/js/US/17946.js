@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17946"]={"code":"17946","region":"PA","city":"Lost Creek","latitude":40.8081,"longitude":-76.2407}}(window,'GeoPostal','US');

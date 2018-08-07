@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52756"]={"code":"52756","region":"IA","city":"Long Grove","latitude":41.7213,"longitude":-90.5534}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29681"]={"code":"29681","region":"South Carolina","city":"Simpsonville","latitude":34.744716,"longitude":-82.257476}}(window,'GeoPostal','US');

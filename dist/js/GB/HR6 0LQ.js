@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR6 0LQ"]={"code":"HR6 0LQ","region":"England","city":"Stoke Prior","latitude":52.2,"longitude":-2.7}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-4601"]={"code":"MD-4601","region":"Edinet","city":"Edinet","latitude":48.16806,"longitude":27.305}}(window,'GeoPostal','MD');

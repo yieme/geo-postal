@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30268"]={"code":"30268","region":"GA","city":"Palmetto","latitude":33.5242,"longitude":-84.679}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04934"]={"code":"04934","region":"Brandenburg","city":"Hohenleipisch","latitude":51.5,"longitude":13.55}}(window,'GeoPostal','DE');

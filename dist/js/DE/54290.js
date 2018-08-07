@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54290"]={"code":"54290","region":"Rheinland-Pfalz","city":"Trier","latitude":49.75565,"longitude":6.63935}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10252"]={"code":"10252","region":"Extremadura","city":"Torrecillas de la Tiesa","latitude":39.56837,"longitude":-5.74238}}(window,'GeoPostal','ES');

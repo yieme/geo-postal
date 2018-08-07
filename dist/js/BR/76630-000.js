@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76630-000"]={"code":"76630-000","region":"Goias","city":"Itaberai","latitude":-16.02028,"longitude":-49.81028}}(window,'GeoPostal','BR');

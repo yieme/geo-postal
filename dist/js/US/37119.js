@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37119"]={"code":"37119","region":"TN","city":"Mitchellville","latitude":36.632,"longitude":-86.539}}(window,'GeoPostal','US');

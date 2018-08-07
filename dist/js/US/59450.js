@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59450"]={"code":"59450","region":"MT","city":"Highwood","latitude":47.5816,"longitude":-110.7887}}(window,'GeoPostal','US');

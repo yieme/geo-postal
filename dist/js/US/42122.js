@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42122"]={"code":"42122","region":"KY","city":"Alvaton","latitude":36.863,"longitude":-86.3632}}(window,'GeoPostal','US');

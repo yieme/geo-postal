@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54517"]={"code":"54517","region":"WI","city":"Clam Lake","latitude":46.1638,"longitude":-90.9024}}(window,'GeoPostal','US');

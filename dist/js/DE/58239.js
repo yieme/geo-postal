@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58239"]={"code":"58239","region":"Nordrhein-Westfalen","city":"Schwerte","latitude":51.44387,"longitude":7.5675}}(window,'GeoPostal','DE');

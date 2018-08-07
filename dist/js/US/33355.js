@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33355"]={"code":"33355","region":"Florida","city":"Davie","latitude":26.11218,"longitude":-80.30374}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68472"]={"code":"68472","region":"Jawa Timur","city":"Wringinputih","latitude":-8.4765,"longitude":114.3343}}(window,'GeoPostal','ID');

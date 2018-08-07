@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["799203"]={"code":"799203","region":"Tripura","city":"Ambasa","latitude":23.91722,"longitude":91.84722}}(window,'GeoPostal','IN');

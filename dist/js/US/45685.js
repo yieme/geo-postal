@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45685"]={"code":"45685","region":"Ohio","city":"Thurman","latitude":38.956441,"longitude":-82.473469}}(window,'GeoPostal','US');

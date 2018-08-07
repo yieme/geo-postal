@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18224"]={"code":"18224","region":"PA","city":"Freeland","latitude":41.0196,"longitude":-75.888}}(window,'GeoPostal','US');

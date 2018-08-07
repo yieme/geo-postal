@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6322"]={"code":"6322","region":"Ohrid","city":"Ohrid","latitude":41.11722,"longitude":20.80194}}(window,'GeoPostal','MK');

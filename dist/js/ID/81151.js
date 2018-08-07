@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81151"]={"code":"81151","region":"Bali","city":"Banjar Banyuning Barat","latitude":-8.1145,"longitude":115.1021}}(window,'GeoPostal','ID');

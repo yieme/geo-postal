@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93424"]={"code":"93424","region":"Ile-de-France","city":"Villepinte","latitude":48.96203,"longitude":2.53253}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42200"]={"code":"42200","region":"Castilla y Leon","city":"Almazan","latitude":41.48648,"longitude":-2.53088}}(window,'GeoPostal','ES');

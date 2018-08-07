@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14708"]={"code":"14708","region":"New York","city":"Alma","latitude":42.01738,"longitude":-78.024472}}(window,'GeoPostal','US');

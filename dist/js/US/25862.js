@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25862"]={"code":"25862","region":"WV","city":"Lansing","latitude":38.0869,"longitude":-81.0588}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17469"]={"code":"17469","region":"Catalunya","city":"Castello d'Empuries","latitude":42.25673,"longitude":3.07446}}(window,'GeoPostal','ES');

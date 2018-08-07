@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96031"]={"code":"96031","region":"CA","city":"Forks Of Salmon","latitude":41.2191,"longitude":-123.2363}}(window,'GeoPostal','US');

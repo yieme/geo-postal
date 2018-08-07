@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58002"]={"code":"58002","region":"ND","city":"Absaraka","latitude":46.9763,"longitude":-97.4069}}(window,'GeoPostal','US');

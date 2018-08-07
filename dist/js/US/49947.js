@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49947"]={"code":"49947","region":"Michigan","city":"Marenisco","latitude":46.3758,"longitude":-89.59398}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR13 4RG"]={"code":"NR13 4RG","region":"England","city":"Blofield","latitude":52.63452,"longitude":1.44796}}(window,'GeoPostal','GB');

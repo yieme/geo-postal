@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11771"]={"code":"11771","region":"New York","city":"Oyster Bay","latitude":40.823889,"longitude":-73.548056}}(window,'GeoPostal','US');

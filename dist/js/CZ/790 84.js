@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["790 84"]={"code":"790 84","region":"Olomoucky kraj","city":"Mikulovice","latitude":50.29854,"longitude":17.32155}}(window,'GeoPostal','CZ');

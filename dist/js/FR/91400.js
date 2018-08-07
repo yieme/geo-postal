@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91400"]={"code":"91400","region":"Ile-de-France","city":"Saclay","latitude":48.7326,"longitude":2.16923}}(window,'GeoPostal','FR');

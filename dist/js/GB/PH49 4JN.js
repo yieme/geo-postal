@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH49 4JN"]={"code":"PH49 4JN","region":"Scotland","city":"Ballachulish","latitude":56.67575,"longitude":-5.13851}}(window,'GeoPostal','GB');

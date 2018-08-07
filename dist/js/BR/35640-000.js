@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35640-000"]={"code":"35640-000","region":"Minas Gerais","city":"Pompeu","latitude":-19.22444,"longitude":-44.93528}}(window,'GeoPostal','BR');

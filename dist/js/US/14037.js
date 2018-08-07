@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14037"]={"code":"14037","region":"NY","city":"Cowlesville","latitude":42.8112,"longitude":-78.4481}}(window,'GeoPostal','US');

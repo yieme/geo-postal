@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74523"]={"code":"74523","region":"Oklahoma","city":"Antlers","latitude":34.233755,"longitude":-95.615599}}(window,'GeoPostal','US');

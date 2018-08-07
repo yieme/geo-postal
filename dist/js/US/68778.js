@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68778"]={"code":"68778","region":"NE","city":"Springview","latitude":42.8488,"longitude":-99.8061}}(window,'GeoPostal','US');

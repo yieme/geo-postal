@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76859"]={"code":"76859","region":"Texas","city":"Menard","latitude":30.91767,"longitude":-99.78646}}(window,'GeoPostal','US');

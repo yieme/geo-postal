@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["211224"]={"code":"211224","region":"Jiangsu","city":"Changqiao","latitude":31.53805,"longitude":119.07966}}(window,'GeoPostal','CN');

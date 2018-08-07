@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29374"]={"code":"29374","region":"SC","city":"Pauline","latitude":34.7855,"longitude":-81.8492}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68318"]={"code":"68318","region":"Nebraska","city":"Blue Springs","latitude":40.138335,"longitude":-96.663379}}(window,'GeoPostal','US');

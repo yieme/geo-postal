@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35559"]={"code":"35559","region":"AL","city":"Glen Allen","latitude":33.9151,"longitude":-87.7417}}(window,'GeoPostal','US');

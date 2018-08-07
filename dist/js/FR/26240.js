@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26240"]={"code":"26240","region":"Auvergne-Rhone-Alpes","city":"Beausemblant","latitude":45.21784,"longitude":4.82847}}(window,'GeoPostal','FR');

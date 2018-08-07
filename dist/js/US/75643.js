@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75643"]={"code":"75643","region":"Texas","city":"Gary","latitude":32.03111,"longitude":-94.36722}}(window,'GeoPostal','US');

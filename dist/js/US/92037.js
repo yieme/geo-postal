@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92037"]={"code":"92037","region":"California","city":"La Jolla","latitude":32.839449,"longitude":-117.252502}}(window,'GeoPostal','US');

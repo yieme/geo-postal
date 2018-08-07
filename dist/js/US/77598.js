@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77598"]={"code":"77598","region":"Texas","city":"Webster","latitude":29.541597,"longitude":-95.140537}}(window,'GeoPostal','US');

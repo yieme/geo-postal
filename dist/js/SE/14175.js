@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14175"]={"code":"14175","region":"Stockholms lan","city":"Segeltorp","latitude":59.27597,"longitude":17.93072}}(window,'GeoPostal','SE');

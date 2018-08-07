@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187704"]={"code":"187704","region":"Leningradskaya oblast'","city":"Lodeynoye Pole","latitude":60.726,"longitude":33.55306}}(window,'GeoPostal','RU');

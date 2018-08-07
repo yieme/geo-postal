@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21040"]={"code":"21040","region":"Lombardia","city":"Caronno Varesino","latitude":45.73577,"longitude":8.83173}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0E 1R0"]={"code":"K0E 1R0","region":"Ontario","city":"Mallorytown Landing","latitude":44.45451,"longitude":-75.85825}}(window,'GeoPostal','CA');

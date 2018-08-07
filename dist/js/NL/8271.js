@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8271"]={"code":"8271","region":"Overijssel","city":"Kampen","latitude":52.555,"longitude":5.91111}}(window,'GeoPostal','NL');

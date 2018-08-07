@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147433"]={"code":"147433","region":"Teleorman","city":"Peretu","latitude":44.05,"longitude":25.08333}}(window,'GeoPostal','RO');

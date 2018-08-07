@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N4S 6J6"]={"code":"N4S 6J6","region":"Ontario","city":"Woodstock","latitude":43.130969,"longitude":-80.758701}}(window,'GeoPostal','CA');

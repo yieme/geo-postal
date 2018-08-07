@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["653106"]={"code":"653106","region":"Yunnan","city":"Shuangjiang","latitude":24.17261,"longitude":102.40049}}(window,'GeoPostal','CN');

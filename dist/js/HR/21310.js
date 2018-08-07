@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21310"]={"code":"21310","region":"Splitsko-dalmatinska zupanija","city":"Omis","latitude":43.44472,"longitude":16.68861}}(window,'GeoPostal','HR');

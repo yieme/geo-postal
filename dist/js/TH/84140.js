@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84140"]={"code":"84140","region":"Surat Thani","city":"Ko Samui","latitude":9.53567,"longitude":99.93567}}(window,'GeoPostal','TH');

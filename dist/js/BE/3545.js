@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3545"]={"code":"3545","region":"Limburg","city":"Halen","latitude":50.94837,"longitude":5.11096}}(window,'GeoPostal','BE');

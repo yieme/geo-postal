@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50630"]={"code":"50630","region":"Aragon","city":"Alagon","latitude":41.76964,"longitude":-1.11906}}(window,'GeoPostal','ES');

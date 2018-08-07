@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7401"]={"code":"7401","region":"Sulu","city":"Bangkal","latitude":6.06667,"longitude":121.06667}}(window,'GeoPostal','PH');

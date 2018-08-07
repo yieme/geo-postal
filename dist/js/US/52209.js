@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52209"]={"code":"52209","region":"Iowa","city":"Blairstown","latitude":41.90598,"longitude":-92.082565}}(window,'GeoPostal','US');

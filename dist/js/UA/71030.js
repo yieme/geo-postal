@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71030"]={"code":"71030","region":"Zaporizka oblast","city":"Kamysh-Zarya","latitude":47.32755,"longitude":36.69298}}(window,'GeoPostal','UA');

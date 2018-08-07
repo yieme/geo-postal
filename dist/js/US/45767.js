@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45767"]={"code":"45767","region":"OH","city":"New Matamoras","latitude":39.5288,"longitude":-81.094}}(window,'GeoPostal','US');

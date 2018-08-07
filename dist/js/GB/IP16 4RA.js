@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP16 4RA"]={"code":"IP16 4RA","region":"England","city":"Theberton","latitude":52.23784,"longitude":1.56684}}(window,'GeoPostal','GB');

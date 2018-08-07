@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24324"]={"code":"24324","region":"VA","city":"Draper","latitude":36.9697,"longitude":-80.8188}}(window,'GeoPostal','US');

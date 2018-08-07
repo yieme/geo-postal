@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90300"]={"code":"90300","region":"Balochistan","city":"Gadani","latitude":25.11853,"longitude":66.72985}}(window,'GeoPostal','PK');

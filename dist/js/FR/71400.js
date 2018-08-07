@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71400"]={"code":"71400","region":"Bourgogne-Franche-Comte","city":"Curgy","latitude":46.98714,"longitude":4.38452}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3784"]={"code":"3784","region":"Vidin","city":"Novo Selo","latitude":44.15861,"longitude":22.78667}}(window,'GeoPostal','BG');

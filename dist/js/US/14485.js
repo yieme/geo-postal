@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14485"]={"code":"14485","region":"New York","city":"Lima","latitude":42.90479,"longitude":-77.61139}}(window,'GeoPostal','US');

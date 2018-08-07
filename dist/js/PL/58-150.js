@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-150"]={"code":"58-150","region":"Dolnoslaskie","city":"Strzegom","latitude":50.96264,"longitude":16.35006}}(window,'GeoPostal','PL');

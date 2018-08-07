@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33028"]={"code":"33028","region":"Friuli-Venezia Giulia","city":"Tolmezzo","latitude":46.4075,"longitude":13.0175}}(window,'GeoPostal','IT');

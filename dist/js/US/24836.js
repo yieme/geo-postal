@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24836"]={"code":"24836","region":"WV","city":"Gary","latitude":37.3658,"longitude":-81.5544}}(window,'GeoPostal','US');

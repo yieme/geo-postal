@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48060"]={"code":"48060","region":"Michigan","city":"Port Huron","latitude":42.97086,"longitude":-82.42491}}(window,'GeoPostal','US');

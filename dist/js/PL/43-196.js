@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-196"]={"code":"43-196","region":"Slaskie","city":"Mikolow","latitude":50.17103,"longitude":18.9041}}(window,'GeoPostal','PL');

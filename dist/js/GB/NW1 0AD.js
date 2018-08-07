@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NW1 0AD"]={"code":"NW1 0AD","region":"England","city":"Camden Town","latitude":51.54057,"longitude":-0.14334}}(window,'GeoPostal','GB');

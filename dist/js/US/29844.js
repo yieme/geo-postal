@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29844"]={"code":"29844","region":"SC","city":"Parksville","latitude":33.7854,"longitude":-82.2111}}(window,'GeoPostal','US');

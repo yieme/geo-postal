@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD5 8HN"]={"code":"TD5 8HN","region":"Scotland","city":"Sprouston","latitude":55.60798,"longitude":-2.39093}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["724312"]={"code":"724312","region":"Gansu","city":"Baiyang","latitude":33.17288,"longitude":105.78184}}(window,'GeoPostal','CN');

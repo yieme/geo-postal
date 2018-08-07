@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62056"]={"code":"62056","region":"Illinois","city":"Litchfield","latitude":39.17533,"longitude":-89.65426}}(window,'GeoPostal','US');

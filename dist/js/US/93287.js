@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93287"]={"code":"93287","region":"CA","city":"Woody","latitude":35.7068,"longitude":-118.8439}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16841"]={"code":"16841","region":"PA","city":"Howard","latitude":41.0203,"longitude":-77.6702}}(window,'GeoPostal','US');

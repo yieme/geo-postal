@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74831"]={"code":"74831","region":"OK","city":"Byars","latitude":34.8904,"longitude":-97.0997}}(window,'GeoPostal','US');

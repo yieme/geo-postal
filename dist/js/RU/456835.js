@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456835"]={"code":"456835","region":"Chelyabinskaya oblast'","city":"Kasli","latitude":55.8909,"longitude":60.7616}}(window,'GeoPostal','RU');

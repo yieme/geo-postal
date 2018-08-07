@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW17 2BJ"]={"code":"KW17 2BJ","region":"Scotland","city":"Kettletoft","latitude":59.23333,"longitude":-2.6}}(window,'GeoPostal','GB');

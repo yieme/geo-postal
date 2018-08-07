@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98014"]={"code":"98014","region":"Washington","city":"Carnation","latitude":47.657884,"longitude":-121.913256}}(window,'GeoPostal','US');

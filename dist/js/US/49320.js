@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49320"]={"code":"49320","region":"MI","city":"Chippewa Lake","latitude":43.7553,"longitude":-85.2783}}(window,'GeoPostal','US');

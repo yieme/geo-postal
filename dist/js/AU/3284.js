@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3284"]={"code":"3284","region":"Victoria","city":"Port Fairy","latitude":-38.38535,"longitude":142.2371}}(window,'GeoPostal','AU');

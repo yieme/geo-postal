@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95946"]={"code":"95946","region":"California","city":"Penn Valley","latitude":39.216369,"longitude":-121.192385}}(window,'GeoPostal','US');

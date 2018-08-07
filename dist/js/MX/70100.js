@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70100"]={"code":"70100","region":"Oaxaca","city":"Union Hidalgo","latitude":16.4723,"longitude":-94.82952}}(window,'GeoPostal','MX');

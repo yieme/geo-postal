@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD16 2PL"]={"code":"BD16 2PL","region":"England","city":"Anderton","latitude":53.26667,"longitude":-2.53333}}(window,'GeoPostal','GB');

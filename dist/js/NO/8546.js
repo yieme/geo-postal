@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8546"]={"code":"8546","region":"Nordland","city":"Ballangen","latitude":68.34283,"longitude":16.83145}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH17 6HU"]={"code":"RH17 6HU","region":"England","city":"Balcombe","latitude":51.05726,"longitude":-0.1345}}(window,'GeoPostal','GB');

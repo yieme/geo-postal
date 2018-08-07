@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMCAN20"]={"code":"JMCAN20","region":"Saint Ann","city":"Runaway Bay","latitude":18.45962,"longitude":-77.3357}}(window,'GeoPostal','JM');

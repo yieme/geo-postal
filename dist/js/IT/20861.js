@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20861"]={"code":"20861","region":"Lombardia","city":"Brugherio","latitude":45.55301,"longitude":9.29907}}(window,'GeoPostal','IT');

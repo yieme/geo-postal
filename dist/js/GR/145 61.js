@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["145 61"]={"code":"145 61","region":"Attiki","city":"Kifisia","latitude":38.07438,"longitude":23.81106}}(window,'GeoPostal','GR');

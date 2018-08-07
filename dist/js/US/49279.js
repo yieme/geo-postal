@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49279"]={"code":"49279","region":"Michigan","city":"Sand Creek","latitude":41.782786,"longitude":-84.10414}}(window,'GeoPostal','US');

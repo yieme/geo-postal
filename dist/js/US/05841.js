@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05841"]={"code":"05841","region":"Vermont","city":"Greensboro","latitude":44.581486,"longitude":-72.29813}}(window,'GeoPostal','US');

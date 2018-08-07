@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44851"]={"code":"44851","region":"Ohio","city":"New London","latitude":41.08505,"longitude":-82.39989}}(window,'GeoPostal','US');

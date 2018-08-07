@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR2 4PH"]={"code":"TR2 4PH","region":"England","city":"Ladock","latitude":50.32026,"longitude":-4.96142}}(window,'GeoPostal','GB');

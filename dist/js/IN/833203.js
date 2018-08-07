@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["833203"]={"code":"833203","region":"Jharkhand","city":"Jagannathpur","latitude":22.23333,"longitude":85.65}}(window,'GeoPostal','IN');

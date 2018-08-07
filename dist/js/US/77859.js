@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77859"]={"code":"77859","region":"Texas","city":"Hearne","latitude":30.87852,"longitude":-96.59303}}(window,'GeoPostal','US');

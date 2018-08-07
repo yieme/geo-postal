@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70001"]={"code":"70001","region":"Colonia","city":"Juan L. Lacaze","latitude":-34.43333,"longitude":-57.41667}}(window,'GeoPostal','UY');

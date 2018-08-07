@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["124683"]={"code":"124683","region":"Moskva","city":"Zelenograd","latitude":55.9825,"longitude":37.18139}}(window,'GeoPostal','RU');

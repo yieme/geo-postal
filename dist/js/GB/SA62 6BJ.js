@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 6BJ"]={"code":"SA62 6BJ","region":"Wales","city":"Pelcomb Cross","latitude":51.82139,"longitude":-5.02028}}(window,'GeoPostal','GB');

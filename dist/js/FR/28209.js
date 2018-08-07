@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28209"]={"code":"28209","region":"Centre-Val de Loire","city":"Chateaudun","latitude":48.08333,"longitude":1.33333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["720000"]={"code":"720000","region":"Chuy","city":"Belovodskoe","latitude":42.82944,"longitude":74.1083}}(window,'GeoPostal','KG');

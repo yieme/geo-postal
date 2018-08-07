@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57450"]={"code":"57450","region":"South Dakota","city":"Hoven","latitude":45.24147,"longitude":-99.778821}}(window,'GeoPostal','US');

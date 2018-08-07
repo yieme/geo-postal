@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07309"]={"code":"07309","region":"NJ","city":"General Lafayette","latitude":40.71,"longitude":-74.03}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23273"]={"code":"23273","region":"Juznobanatski okrug","city":"Banatski Karlovac","latitude":45.04722,"longitude":21.01611}}(window,'GeoPostal','RS');

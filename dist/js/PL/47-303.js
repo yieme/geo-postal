@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-303"]={"code":"47-303","region":"Opolskie","city":"Krapkowice","latitude":50.47515,"longitude":17.96539}}(window,'GeoPostal','PL');

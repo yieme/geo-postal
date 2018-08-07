@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61074"]={"code":"61074","region":"Illinois","city":"Savanna","latitude":42.09447,"longitude":-90.15679}}(window,'GeoPostal','US');

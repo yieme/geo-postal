@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22719"]={"code":"22719","region":"Virginia","city":"Etlan","latitude":38.557536,"longitude":-78.307529}}(window,'GeoPostal','US');

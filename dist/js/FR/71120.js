@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71120"]={"code":"71120","region":"Bourgogne-Franche-Comte","city":"Charolles","latitude":46.43333,"longitude":4.28333}}(window,'GeoPostal','FR');

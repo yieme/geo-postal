@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04095"]={"code":"04095","region":"Maine","city":"West Newfield","latitude":43.674167,"longitude":-70.911389}}(window,'GeoPostal','US');

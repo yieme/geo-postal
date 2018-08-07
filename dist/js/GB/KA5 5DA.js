@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA5 5DA"]={"code":"KA5 5DA","region":"Scotland","city":"Mauchline","latitude":55.51604,"longitude":-4.37928}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["014-0337"]={"code":"014-0337","region":"Akita","city":"Semboku","latitude":39.70167,"longitude":140.7315}}(window,'GeoPostal','JP');

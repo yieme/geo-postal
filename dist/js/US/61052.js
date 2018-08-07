@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61052"]={"code":"61052","region":"IL","city":"Monroe Center","latitude":42.105,"longitude":-89.0169}}(window,'GeoPostal','US');

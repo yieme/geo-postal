@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62152"]={"code":"62152","region":"L'Oriental","city":"Boudinar","latitude":35.15601,"longitude":-3.62358}}(window,'GeoPostal','MA');

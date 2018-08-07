@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77574"]={"code":"77574","region":"TX","city":"League City","latitude":29.5116,"longitude":-95.0582}}(window,'GeoPostal','US');

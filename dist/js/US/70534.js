@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70534"]={"code":"70534","region":"LA","city":"Estherwood","latitude":30.1808,"longitude":-92.4643}}(window,'GeoPostal','US');

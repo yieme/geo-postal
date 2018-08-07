@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16335"]={"code":"16335","region":"Pennsylvania","city":"Meadville","latitude":41.64144,"longitude":-80.15145}}(window,'GeoPostal','US');

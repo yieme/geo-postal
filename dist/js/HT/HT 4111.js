@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 4111"]={"code":"HT 4111","region":"Artibonite","city":"Gonaives","latitude":19.45,"longitude":-72.68333}}(window,'GeoPostal','HT');

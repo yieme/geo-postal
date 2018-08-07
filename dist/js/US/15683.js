@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15683"]={"code":"15683","region":"Pennsylvania","city":"Scottdale","latitude":40.10035,"longitude":-79.58698}}(window,'GeoPostal','US');

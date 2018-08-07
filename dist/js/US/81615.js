@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81615"]={"code":"81615","region":"Colorado","city":"Snowmass Village","latitude":39.21304,"longitude":-106.93782}}(window,'GeoPostal','US');

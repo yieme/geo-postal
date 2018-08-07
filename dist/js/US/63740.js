@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63740"]={"code":"63740","region":"MO","city":"Chaffee","latitude":37.1726,"longitude":-89.6457}}(window,'GeoPostal','US');

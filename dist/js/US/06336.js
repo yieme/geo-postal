@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06336"]={"code":"06336","region":"CT","city":"Gilman","latitude":41.5795,"longitude":-72.1963}}(window,'GeoPostal','US');

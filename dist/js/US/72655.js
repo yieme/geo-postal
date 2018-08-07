@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72655"]={"code":"72655","region":"Arkansas","city":"Mount Judea","latitude":35.92,"longitude":-93.06}}(window,'GeoPostal','US');

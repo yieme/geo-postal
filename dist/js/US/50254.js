@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50254"]={"code":"50254","region":"IA","city":"Thayer","latitude":41.0029,"longitude":-94.0686}}(window,'GeoPostal','US');

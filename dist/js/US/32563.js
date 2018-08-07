@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32563"]={"code":"32563","region":"FL","city":"Gulf Breeze","latitude":30.3962,"longitude":-87.0274}}(window,'GeoPostal','US');

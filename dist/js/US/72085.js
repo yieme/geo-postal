@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72085"]={"code":"72085","region":"AR","city":"Letona","latitude":35.3617,"longitude":-91.8293}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72110"]={"code":"72110","region":"Suphan Buri","city":"Song Phi Nong","latitude":14.22408,"longitude":100.02094}}(window,'GeoPostal','TH');

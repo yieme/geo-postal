@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77430"]={"code":"77430","region":"TX","city":"Damon","latitude":29.3014,"longitude":-95.7036}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84031"]={"code":"84031","region":"Campania","city":"Auletta","latitude":40.56151,"longitude":15.42536}}(window,'GeoPostal','IT');

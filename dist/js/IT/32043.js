@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32043"]={"code":"32043","region":"Veneto","city":"Cortina d'Ampezzo","latitude":46.5369,"longitude":12.13903}}(window,'GeoPostal','IT');

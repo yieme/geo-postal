@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35147"]={"code":"35147","region":"AL","city":"Sterrett","latitude":33.4461,"longitude":-86.4917}}(window,'GeoPostal','US');

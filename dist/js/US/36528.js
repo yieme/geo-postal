@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36528"]={"code":"36528","region":"AL","city":"Dauphin Island","latitude":30.2521,"longitude":-88.1096}}(window,'GeoPostal','US');

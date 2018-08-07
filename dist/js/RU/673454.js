@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673454"]={"code":"673454","region":"Zabaykal'skiy kray","city":"Baley","latitude":51.6,"longitude":116.63333}}(window,'GeoPostal','RU');

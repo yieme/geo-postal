@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23774"]={"code":"23774","region":"Baja California","city":"Mulege","latitude":26.88333,"longitude":-111.98333}}(window,'GeoPostal','MX');

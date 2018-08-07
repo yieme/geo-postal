@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0H 1R2"]={"code":"V0H 1R2","region":"British Columbia","city":"Eagle Bluff","latitude":49.26366,"longitude":-119.50519}}(window,'GeoPostal','CA');

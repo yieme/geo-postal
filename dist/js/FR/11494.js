@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11494"]={"code":"11494","region":"Occitanie","city":"Castelnaudary","latitude":43.31829,"longitude":1.95449}}(window,'GeoPostal','FR');

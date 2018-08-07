@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658138"]={"code":"658138","region":"Altayskiy kray","city":"Aleysk","latitude":52.4926,"longitude":82.7822}}(window,'GeoPostal','RU');

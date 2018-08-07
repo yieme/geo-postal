@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82059"]={"code":"82059","region":"WY","city":"Granite Canon","latitude":41.0473,"longitude":-105.1517}}(window,'GeoPostal','US');

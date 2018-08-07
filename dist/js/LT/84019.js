@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84019"]={"code":"84019","region":"Siauliu apskritis","city":"Zagare","latitude":56.35917,"longitude":23.25}}(window,'GeoPostal','LT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2608"]={"code":"2608","region":"Australian Capital Territory","city":"Molonglo","latitude":-35.33333,"longitude":149.18333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26815"]={"code":"26815","region":"West Virginia","city":"Sugar Grove","latitude":38.514997,"longitude":-79.28421}}(window,'GeoPostal','US');

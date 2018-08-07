@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["557100"]={"code":"557100","region":"Sibiu","city":"Hoghilag","latitude":46.23333,"longitude":24.61667}}(window,'GeoPostal','RO');

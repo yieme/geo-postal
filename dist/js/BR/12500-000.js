@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12500-000"]={"code":"12500-000","region":"Sao Paulo","city":"Aparecida","latitude":-22.84694,"longitude":-45.22972}}(window,'GeoPostal','BR');

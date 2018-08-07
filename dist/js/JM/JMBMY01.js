@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMBMY01"]={"code":"JMBMY01","region":"Saint Mary","city":"Islington","latitude":18.30922,"longitude":-76.85482}}(window,'GeoPostal','JM');

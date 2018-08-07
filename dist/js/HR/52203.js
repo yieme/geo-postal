@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52203"]={"code":"52203","region":"Istarska zupanija","city":"Medulin","latitude":44.8225,"longitude":13.935}}(window,'GeoPostal','HR');

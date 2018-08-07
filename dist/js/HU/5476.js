@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5476"]={"code":"5476","region":"Jasz-Nagykun-Szolnok","city":"Kunszentmarton","latitude":46.83916,"longitude":20.28879}}(window,'GeoPostal','HU');

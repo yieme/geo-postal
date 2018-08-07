@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 4N0"]={"code":"T0B 4N0","region":"Alberta","city":"Viking","latitude":53.10014,"longitude":-111.76844}}(window,'GeoPostal','CA');

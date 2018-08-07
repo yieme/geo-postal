@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18060"]={"code":"18060","region":"PA","city":"Limeport","latitude":40.509,"longitude":-75.4471}}(window,'GeoPostal','US');

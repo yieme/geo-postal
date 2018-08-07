@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG17 9EH"]={"code":"RG17 9EH","region":"England","city":"Combe","latitude":51.34632,"longitude":-1.46762}}(window,'GeoPostal','GB');

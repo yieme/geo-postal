@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 7LR"]={"code":"NE65 7LR","region":"England","city":"Thropton","latitude":55.31459,"longitude":-1.95759}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7Z 2A3"]={"code":"T7Z 2A3","region":"Alberta","city":"Brightbank","latitude":53.41683,"longitude":-114.18536}}(window,'GeoPostal','CA');

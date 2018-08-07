@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15831"]={"code":"15831","region":"Brandenburg","city":"Mahlow","latitude":52.36017,"longitude":13.40954}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7150"]={"code":"7150","region":"Ruse","city":"Dve Mogili","latitude":43.6,"longitude":25.86667}}(window,'GeoPostal','BG');

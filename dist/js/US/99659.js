@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99659"]={"code":"99659","region":"AK","city":"Saint Michael","latitude":63.4776,"longitude":-162.1091}}(window,'GeoPostal','US');

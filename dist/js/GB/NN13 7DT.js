@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN13 7DT"]={"code":"NN13 7DT","region":"England","city":"Harley","latitude":52.6,"longitude":-2.6}}(window,'GeoPostal','GB');

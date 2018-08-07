@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25247"]={"code":"25247","region":"West Virginia","city":"Hartford","latitude":39.00078,"longitude":-81.9795}}(window,'GeoPostal','US');

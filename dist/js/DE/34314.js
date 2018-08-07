@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34314"]={"code":"34314","region":"Hessen","city":"Espenau","latitude":51.39664,"longitude":9.47021}}(window,'GeoPostal','DE');

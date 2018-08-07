@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78390-000"]={"code":"78390-000","region":"Mato Grosso","city":"Barra do Bugres","latitude":-15.0725,"longitude":-57.18111}}(window,'GeoPostal','BR');

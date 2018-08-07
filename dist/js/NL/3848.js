@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3848"]={"code":"3848","region":"Gelderland","city":"Harderwijk","latitude":52.34167,"longitude":5.62083}}(window,'GeoPostal','NL');

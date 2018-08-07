@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32343"]={"code":"32343","region":"Florida","city":"Midway","latitude":30.49115,"longitude":-84.462084}}(window,'GeoPostal','US');

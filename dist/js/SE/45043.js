@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45043"]={"code":"45043","region":"Vastra Gotalands lan","city":"Smoegen","latitude":58.35593,"longitude":11.22411}}(window,'GeoPostal','SE');

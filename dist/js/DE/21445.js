@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21445"]={"code":"21445","region":"Niedersachsen","city":"Bahlburg","latitude":53.30667,"longitude":10.17721}}(window,'GeoPostal','DE');

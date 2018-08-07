@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3595"]={"code":"3595","region":"Victoria","city":"Nyah West","latitude":-35.18537,"longitude":143.35082}}(window,'GeoPostal','AU');

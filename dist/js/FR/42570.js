@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42570"]={"code":"42570","region":"Auvergne-Rhone-Alpes","city":"Saint-Heand","latitude":45.52817,"longitude":4.37377}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646620"]={"code":"646620","region":"Omskaya oblast'","city":"Nizhnyaya Omka","latitude":55.43376,"longitude":74.94256}}(window,'GeoPostal','RU');

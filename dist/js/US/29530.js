@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29530"]={"code":"29530","region":"SC","city":"Coward","latitude":33.9905,"longitude":-79.7515}}(window,'GeoPostal','US');

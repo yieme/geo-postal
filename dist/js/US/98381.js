@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98381"]={"code":"98381","region":"Washington","city":"Sekiu","latitude":48.264509,"longitude":-124.308317}}(window,'GeoPostal','US');

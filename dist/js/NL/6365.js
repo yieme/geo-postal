@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6365"]={"code":"6365","region":"Limburg","city":"Schinnen","latitude":50.94333,"longitude":5.88889}}(window,'GeoPostal','NL');

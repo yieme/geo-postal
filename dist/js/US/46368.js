@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46368"]={"code":"46368","region":"Indiana","city":"Portage","latitude":41.57587,"longitude":-87.17615}}(window,'GeoPostal','US');

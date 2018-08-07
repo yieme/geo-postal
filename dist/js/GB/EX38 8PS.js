@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX38 8PS"]={"code":"EX38 8PS","region":"England","city":"Little Torrington","latitude":50.93113,"longitude":-4.14831}}(window,'GeoPostal','GB');

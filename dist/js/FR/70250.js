@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70250"]={"code":"70250","region":"Bourgogne-Franche-Comte","city":"Ronchamp","latitude":47.70063,"longitude":6.6359}}(window,'GeoPostal','FR');

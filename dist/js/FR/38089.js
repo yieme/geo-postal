@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38089"]={"code":"38089","region":"Auvergne-Rhone-Alpes","city":"L'Isle-d'Abeau","latitude":45.61813,"longitude":5.23546}}(window,'GeoPostal','FR');

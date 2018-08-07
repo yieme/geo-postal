@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IKL 9033"]={"code":"IKL 9033","region":"Iklin","city":"L-Iklin","latitude":35.90414,"longitude":14.45415}}(window,'GeoPostal','MT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91480"]={"code":"91480","region":"Ile-de-France","city":"Varennes-Jarcy","latitude":48.67914,"longitude":2.56152}}(window,'GeoPostal','FR');

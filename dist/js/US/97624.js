@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97624"]={"code":"97624","region":"OR","city":"Chiloquin","latitude":42.5463,"longitude":-121.745}}(window,'GeoPostal','US');

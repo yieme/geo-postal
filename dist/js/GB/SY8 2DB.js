@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY8 2DB"]={"code":"SY8 2DB","region":"England","city":"Culmington","latitude":52.43392,"longitude":-2.74734}}(window,'GeoPostal','GB');

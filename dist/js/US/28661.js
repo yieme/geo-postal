@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28661"]={"code":"28661","region":"NC","city":"Patterson","latitude":35.9973,"longitude":-81.5626}}(window,'GeoPostal','US');

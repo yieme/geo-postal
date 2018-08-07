@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629179"]={"code":"629179","region":"Tamil Nadu","city":"Aruppukkottai","latitude":9.51667,"longitude":78.1}}(window,'GeoPostal','IN');

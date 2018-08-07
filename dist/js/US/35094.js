@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35094"]={"code":"35094","region":"Alabama","city":"Leeds","latitude":33.54816,"longitude":-86.54443}}(window,'GeoPostal','US');

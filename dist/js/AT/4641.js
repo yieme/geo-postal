@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4641"]={"code":"4641","region":"Oberosterreich","city":"Steinhaus","latitude":48.11614,"longitude":14.0189}}(window,'GeoPostal','AT');

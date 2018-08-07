@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20236"]={"code":"20236","region":"Dubrovacko-neretvanska zupanija","city":"Mokosica","latitude":42.67556,"longitude":18.09028}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65157"]={"code":"65157","region":"Jawa Timur","city":"Kedampul","latitude":-8.0097,"longitude":112.8132}}(window,'GeoPostal','ID');

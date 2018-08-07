@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR28 9PX"]={"code":"NR28 9PX","region":"England","city":"Dilham","latitude":52.77311,"longitude":1.45567}}(window,'GeoPostal','GB');

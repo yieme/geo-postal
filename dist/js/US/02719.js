@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02719"]={"code":"02719","region":"Massachusetts","city":"Fairhaven","latitude":41.638804,"longitude":-70.889393}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50616"]={"code":"50616","region":"Iowa","city":"Charles City","latitude":43.06636,"longitude":-92.67241}}(window,'GeoPostal','US');

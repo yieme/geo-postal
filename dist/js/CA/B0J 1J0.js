@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0J 1J0"]={"code":"B0J 1J0","region":"Nova Scotia","city":"Chester","latitude":44.55015,"longitude":-64.24874}}(window,'GeoPostal','CA');

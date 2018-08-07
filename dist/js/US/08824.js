@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08824"]={"code":"08824","region":"New Jersey","city":"Kendall Park","latitude":40.422206,"longitude":-74.546919}}(window,'GeoPostal','US');

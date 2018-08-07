@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM3 6BY"]={"code":"CM3 6BY","region":"England","city":"Althorne","latitude":51.65722,"longitude":0.76085}}(window,'GeoPostal','GB');

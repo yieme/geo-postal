@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17235"]={"code":"17235","region":"Mecklenburg-Vorpommern","city":"Strelitz Alt","latitude":53.33235,"longitude":13.09548}}(window,'GeoPostal','DE');

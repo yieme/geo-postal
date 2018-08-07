@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38980"]={"code":"38980","region":"Auvergne-Rhone-Alpes","city":"Viriville","latitude":45.31737,"longitude":5.20373}}(window,'GeoPostal','FR');

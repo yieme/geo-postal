@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3610"]={"code":"3610","region":"Formosa","city":"Clorinda","latitude":-25.28481,"longitude":-57.71851}}(window,'GeoPostal','AR');

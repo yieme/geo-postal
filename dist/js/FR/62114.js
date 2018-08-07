@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62114"]={"code":"62114","region":"Hauts-de-France","city":"Sains-en-Gohelle","latitude":50.44512,"longitude":2.68301}}(window,'GeoPostal','FR');

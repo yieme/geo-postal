@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY21 0QR"]={"code":"SY21 0QR","region":"Wales","city":"Llanfair Caereinion","latitude":52.6479,"longitude":-3.32668}}(window,'GeoPostal','GB');

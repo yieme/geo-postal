@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1310"]={"code":"1310","region":"Porto Novo","city":"Porto Novo","latitude":17.01969,"longitude":-25.06471}}(window,'GeoPostal','CV');

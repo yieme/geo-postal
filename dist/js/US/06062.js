@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06062"]={"code":"06062","region":"Connecticut","city":"Plainville","latitude":41.6724,"longitude":-72.864665}}(window,'GeoPostal','US');

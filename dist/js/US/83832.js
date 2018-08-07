@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83832"]={"code":"83832","region":"ID","city":"Genesee","latitude":46.5714,"longitude":-116.929}}(window,'GeoPostal','US');

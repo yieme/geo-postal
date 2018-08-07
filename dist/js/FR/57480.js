@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57480"]={"code":"57480","region":"Grand-Est","city":"Kirschnaumen","latitude":49.3983,"longitude":6.435}}(window,'GeoPostal','FR');

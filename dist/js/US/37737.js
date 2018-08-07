@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37737"]={"code":"37737","region":"Tennessee","city":"Friendsville","latitude":35.755833,"longitude":-84.131111}}(window,'GeoPostal','US');

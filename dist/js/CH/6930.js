@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6930"]={"code":"6930","region":"Jura","city":"Alle","latitude":47.42618,"longitude":7.12911}}(window,'GeoPostal','CH');

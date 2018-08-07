@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08101"]={"code":"08101","region":"Bago","city":"Taungoo","latitude":18.93333,"longitude":96.43333}}(window,'GeoPostal','MM');

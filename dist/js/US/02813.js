@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02813"]={"code":"02813","region":"RI","city":"Charlestown","latitude":41.4007,"longitude":-71.6615}}(window,'GeoPostal','US');

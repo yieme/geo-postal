@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY7 8AG"]={"code":"SY7 8AG","region":"England","city":"Plowden","latitude":52.48405,"longitude":-2.91521}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47438"]={"code":"47438","region":"IN","city":"Jasonville","latitude":39.1723,"longitude":-87.2023}}(window,'GeoPostal','US');

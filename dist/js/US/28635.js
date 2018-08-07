@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28635"]={"code":"28635","region":"North Carolina","city":"Hays","latitude":36.24985,"longitude":-81.11564}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT30 6JR"]={"code":"BT30 6JR","region":"Northern Ireland","city":"Downpatrick","latitude":54.32633,"longitude":-5.70345}}(window,'GeoPostal','GB');

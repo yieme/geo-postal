@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48733"]={"code":"48733","region":"MI","city":"Fairgrove","latitude":43.5126,"longitude":-83.5835}}(window,'GeoPostal','US');

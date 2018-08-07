@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93238"]={"code":"93238","region":"California","city":"Kernville","latitude":35.75467,"longitude":-118.42536}}(window,'GeoPostal','US');

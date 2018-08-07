@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33593"]={"code":"33593","region":"Asturias, Principado de","city":"Llanes","latitude":43.41982,"longitude":-4.75485}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["960135"]={"code":"960135","region":"Nasarawa","city":"Wamba","latitude":8.93333,"longitude":8.6}}(window,'GeoPostal','NG');

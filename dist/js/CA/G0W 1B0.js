@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0W 1B0"]={"code":"G0W 1B0","region":"Quebec","city":"Saint-Eugene-d'Argentenay","latitude":48.98324,"longitude":-72.28192}}(window,'GeoPostal','CA');

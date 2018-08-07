@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82140"]={"code":"82140","region":"Pohjois-Karjala","city":"Kiihtelysvaara","latitude":62.49525,"longitude":30.25081}}(window,'GeoPostal','FI');

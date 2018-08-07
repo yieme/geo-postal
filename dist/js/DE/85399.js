@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85399"]={"code":"85399","region":"Bayern","city":"Hallbergmoos","latitude":48.32747,"longitude":11.75142}}(window,'GeoPostal','DE');

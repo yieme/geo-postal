@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["221314"]={"code":"221314","region":"Bihar","city":"Siwan","latitude":26.21667,"longitude":84.36667}}(window,'GeoPostal','IN');

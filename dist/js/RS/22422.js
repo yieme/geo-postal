@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22422"]={"code":"22422","region":"Sremski okrug","city":"Nikinci","latitude":44.85167,"longitude":19.82194}}(window,'GeoPostal','RS');

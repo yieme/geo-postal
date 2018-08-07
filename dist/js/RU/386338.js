@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["386338"]={"code":"386338","region":"Chechenskaya Respublika","city":"Verkhniye Achaluki","latitude":43.34694,"longitude":44.6975}}(window,'GeoPostal','RU');

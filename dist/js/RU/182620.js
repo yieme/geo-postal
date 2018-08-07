@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182620"]={"code":"182620","region":"Pskovskaya oblast'","city":"Porkhov","latitude":57.76502,"longitude":29.55612}}(window,'GeoPostal','RU');

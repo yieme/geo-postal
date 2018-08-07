@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74951"]={"code":"74951","region":"OK","city":"Panama","latitude":35.1535,"longitude":-94.6709}}(window,'GeoPostal','US');

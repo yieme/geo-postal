@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-200"]={"code":"36-200","region":"Podkarpackie","city":"Brzozow","latitude":49.69501,"longitude":22.01926}}(window,'GeoPostal','PL');

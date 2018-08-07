@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61449"]={"code":"61449","region":"Thuringen","city":"Steinbach","latitude":50.52407,"longitude":10.84534}}(window,'GeoPostal','DE');

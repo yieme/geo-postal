@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 3G0"]={"code":"S0K 3G0","region":"Saskatchewan","city":"Pilger","latitude":52.41675,"longitude":-105.26779}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62422"]={"code":"62422","region":"Illinois","city":"Cowden","latitude":39.218324,"longitude":-88.903917}}(window,'GeoPostal','US');

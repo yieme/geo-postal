@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58025"]={"code":"58025","region":"Toscana","city":"Monterotondo","latitude":43.14556,"longitude":10.85591}}(window,'GeoPostal','IT');

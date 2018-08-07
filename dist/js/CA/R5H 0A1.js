@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R5H 0A1"]={"code":"R5H 0A1","region":"Manitoba","city":"Ste. Anne","latitude":43.70011,"longitude":-79.4163}}(window,'GeoPostal','CA');

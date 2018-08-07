@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76388"]={"code":"76388","region":"Texas","city":"Weinert","latitude":33.328018,"longitude":-99.611968}}(window,'GeoPostal','US');

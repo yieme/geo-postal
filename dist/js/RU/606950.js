@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606950"]={"code":"606950","region":"Nizhegorodskaya oblast'","city":"Tonshayevo","latitude":57.73598,"longitude":47.01265}}(window,'GeoPostal','RU');

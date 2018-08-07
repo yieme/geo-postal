@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY16 4JN"]={"code":"SY16 4JN","region":"Wales","city":"Mochdre","latitude":52.48333,"longitude":-3.36667}}(window,'GeoPostal','GB');

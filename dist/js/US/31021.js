@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31021"]={"code":"31021","region":"Georgia","city":"Dublin","latitude":32.541897,"longitude":-82.910655}}(window,'GeoPostal','US');

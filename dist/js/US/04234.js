@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04234"]={"code":"04234","region":"ME","city":"East Wilton","latitude":44.6159,"longitude":-70.1928}}(window,'GeoPostal','US');

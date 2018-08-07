@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99013"]={"code":"99013","region":"WA","city":"Ford","latitude":47.9169,"longitude":-117.8119}}(window,'GeoPostal','US');

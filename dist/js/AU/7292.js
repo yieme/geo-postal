@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7292"]={"code":"7292","region":"Tasmania","city":"Selbourne","latitude":-41.45,"longitude":146.88333}}(window,'GeoPostal','AU');

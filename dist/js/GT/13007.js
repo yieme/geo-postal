@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13007"]={"code":"13007","region":"Huehuetenango","city":"Jacaltenango","latitude":15.66667,"longitude":-91.73333}}(window,'GeoPostal','GT');

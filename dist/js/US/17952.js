@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17952"]={"code":"17952","region":"PA","city":"Mary D","latitude":40.7473,"longitude":-76.0628}}(window,'GeoPostal','US');

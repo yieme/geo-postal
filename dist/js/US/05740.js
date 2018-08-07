@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05740"]={"code":"05740","region":"VT","city":"East Middlebury","latitude":43.9734,"longitude":-73.1062}}(window,'GeoPostal','US');

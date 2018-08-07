@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86512"]={"code":"86512","region":"Arizona","city":"Sanders","latitude":35.21639,"longitude":-109.33361}}(window,'GeoPostal','US');

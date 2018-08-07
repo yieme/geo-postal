@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28207"]={"code":"28207","region":"North Carolina","city":"Charlotte","latitude":35.196178,"longitude":-80.82874}}(window,'GeoPostal','US');

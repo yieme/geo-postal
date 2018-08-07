@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2950"]={"code":"2950","region":"Blagoevgrad","city":"Satovcha","latitude":41.61667,"longitude":23.98333}}(window,'GeoPostal','BG');

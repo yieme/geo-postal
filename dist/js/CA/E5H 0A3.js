@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5H 0A3"]={"code":"E5H 0A3","region":"New Brunswick","city":"Woodland","latitude":45.08343,"longitude":-66.71559}}(window,'GeoPostal','CA');

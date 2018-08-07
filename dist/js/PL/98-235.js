@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-235"]={"code":"98-235","region":"Lodzkie","city":"Blaszki","latitude":51.65163,"longitude":18.43472}}(window,'GeoPostal','PL');

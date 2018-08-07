@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317300"]={"code":"317300","region":"Zhejiang","city":"Xianju","latitude":28.85,"longitude":120.73333}}(window,'GeoPostal','CN');

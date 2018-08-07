@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25557"]={"code":"25557","region":"WV","city":"Ranger","latitude":38.097,"longitude":-82.1633}}(window,'GeoPostal','US');

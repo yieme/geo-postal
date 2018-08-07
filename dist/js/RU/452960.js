@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452960"]={"code":"452960","region":"Bashkortostan, Respublika","city":"Burayevo","latitude":55.84069,"longitude":55.40834}}(window,'GeoPostal','RU');

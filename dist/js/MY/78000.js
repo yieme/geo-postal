@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78000"]={"code":"78000","region":"Melaka","city":"Alor Gajah","latitude":2.3804,"longitude":102.2089}}(window,'GeoPostal','MY');

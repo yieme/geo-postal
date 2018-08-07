@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13758"]={"code":"13758","region":"New York","city":"East Pharsalia","latitude":42.558056,"longitude":-75.7175}}(window,'GeoPostal','US');

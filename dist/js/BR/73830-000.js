@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73830-000"]={"code":"73830-000","region":"Goias","city":"Campos Belos","latitude":-13.03667,"longitude":-46.77167}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0J 2W0"]={"code":"G0J 2W0","region":"Quebec","city":"Saint-Leon-le-Grand","latitude":46.31676,"longitude":-72.93243}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07879"]={"code":"07879","region":"NJ","city":"Tranquility","latitude":40.9559,"longitude":-74.7881}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71662"]={"code":"71662","region":"AR","city":"Pickens","latitude":33.842,"longitude":-91.5022}}(window,'GeoPostal','US');

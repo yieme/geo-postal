@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61301"]={"code":"61301","region":"Illinois","city":"La Salle","latitude":41.351899,"longitude":-89.092806}}(window,'GeoPostal','US');

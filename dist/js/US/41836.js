@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41836"]={"code":"41836","region":"Kentucky","city":"Mallie","latitude":37.301774,"longitude":-82.916273}}(window,'GeoPostal','US');

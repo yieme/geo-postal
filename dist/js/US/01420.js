@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01420"]={"code":"01420","region":"Massachusetts","city":"Fitchburg","latitude":42.57825,"longitude":-71.800833}}(window,'GeoPostal','US');

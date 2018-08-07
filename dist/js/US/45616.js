@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45616"]={"code":"45616","region":"OH","city":"Blue Creek","latitude":38.7776,"longitude":-83.3302}}(window,'GeoPostal','US');

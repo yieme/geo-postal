@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2920"]={"code":"2920","region":"Ilocos Norte","city":"Burgos","latitude":18.5121,"longitude":120.6445}}(window,'GeoPostal','PH');

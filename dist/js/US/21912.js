@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21912"]={"code":"21912","region":"Maryland","city":"Warwick","latitude":39.430332,"longitude":-75.805281}}(window,'GeoPostal','US');

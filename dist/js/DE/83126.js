@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83126"]={"code":"83126","region":"Bayern","city":"Flintsbach","latitude":47.72576,"longitude":12.12419}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4434"]={"code":"4434","region":"Camarines Sur","city":"Nabua","latitude":13.4075,"longitude":123.3724}}(window,'GeoPostal','PH');

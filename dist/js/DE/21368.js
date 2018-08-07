@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21368"]={"code":"21368","region":"Niedersachsen","city":"Dahlenburg","latitude":53.18767,"longitude":10.7365}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29550"]={"code":"29550","region":"South Carolina","city":"Hartsville","latitude":34.371372,"longitude":-80.081059}}(window,'GeoPostal','US');

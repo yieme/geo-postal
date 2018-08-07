@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL26 0AF"]={"code":"LL26 0AF","region":"Wales","city":"Llanrwst","latitude":53.14021,"longitude":-3.79527}}(window,'GeoPostal','GB');

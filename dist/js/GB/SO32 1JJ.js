@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO32 1JJ"]={"code":"SO32 1JJ","region":"England","city":"Upham","latitude":50.98253,"longitude":-1.23493}}(window,'GeoPostal','GB');

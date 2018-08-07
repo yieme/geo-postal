@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72183"]={"code":"72183","region":"AR","city":"Wrightsville","latitude":34.6012,"longitude":-92.1938}}(window,'GeoPostal','US');

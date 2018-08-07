@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59221"]={"code":"59221","region":"Hauts-de-France","city":"Bauvin","latitude":50.51714,"longitude":2.89404}}(window,'GeoPostal','FR');

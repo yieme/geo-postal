@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18170"]={"code":"18170","region":"Saraburi","city":"Nong Saeng","latitude":14.49208,"longitude":100.78431}}(window,'GeoPostal','TH');

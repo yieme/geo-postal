@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 0DY"]={"code":"NE65 0DY","region":"England","city":"Amble","latitude":55.33333,"longitude":-1.58333}}(window,'GeoPostal','GB');

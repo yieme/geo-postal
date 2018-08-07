@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607586"]={"code":"607586","region":"Ilfov","city":"Balotesti","latitude":44.61667,"longitude":26.11667}}(window,'GeoPostal','RO');

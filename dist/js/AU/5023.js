@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5023"]={"code":"5023","region":"South Australia","city":"Findon","latitude":-34.9,"longitude":138.53333}}(window,'GeoPostal','AU');

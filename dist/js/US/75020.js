@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75020"]={"code":"75020","region":"Texas","city":"Denison","latitude":33.75566,"longitude":-96.53666}}(window,'GeoPostal','US');

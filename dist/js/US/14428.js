@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14428"]={"code":"14428","region":"New York","city":"Riga","latitude":43.069444,"longitude":-77.883889}}(window,'GeoPostal','US');

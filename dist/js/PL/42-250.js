@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-250"]={"code":"42-250","region":"Slaskie","city":"Czeladz","latitude":50.31542,"longitude":19.07824}}(window,'GeoPostal','PL');

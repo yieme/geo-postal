@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19490"]={"code":"19490","region":"Nouvelle-Aquitaine","city":"Sainte-Fortunade","latitude":45.20805,"longitude":1.77181}}(window,'GeoPostal','FR');

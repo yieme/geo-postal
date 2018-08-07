@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67158"]={"code":"67158","region":"Grand-Est","city":"Erstein","latitude":48.42373,"longitude":7.66262}}(window,'GeoPostal','FR');

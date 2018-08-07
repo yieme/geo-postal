@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04402"]={"code":"04402","region":"Maine","city":"Hermon","latitude":44.832203,"longitude":-68.78755}}(window,'GeoPostal','US');

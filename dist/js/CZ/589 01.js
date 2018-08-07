@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["589 01"]={"code":"589 01","region":"Kraj Vysocina","city":"Trest'","latitude":49.29092,"longitude":15.48211}}(window,'GeoPostal','CZ');

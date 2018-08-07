@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17214"]={"code":"17214","region":"Mecklenburg-Vorpommern","city":"Nossentiner Hutte","latitude":53.53434,"longitude":12.42416}}(window,'GeoPostal','DE');

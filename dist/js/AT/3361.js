@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3361"]={"code":"3361","region":"Niederosterreich","city":"Kematen an der Ybbs","latitude":48.02541,"longitude":14.76468}}(window,'GeoPostal','AT');

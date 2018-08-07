@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88132"]={"code":"88132","region":"NM","city":"Rogers","latitude":33.9216,"longitude":-103.1898}}(window,'GeoPostal','US');

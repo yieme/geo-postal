@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61546"]={"code":"61546","region":"IL","city":"Manito","latitude":40.416,"longitude":-89.7898}}(window,'GeoPostal','US');

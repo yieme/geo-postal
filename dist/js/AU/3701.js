@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3701"]={"code":"3701","region":"Victoria","city":"Dartmouth","latitude":-36.56667,"longitude":147.58333}}(window,'GeoPostal','AU');

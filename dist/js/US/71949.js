@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71949"]={"code":"71949","region":"AR","city":"Jessieville","latitude":34.7094,"longitude":-93.0382}}(window,'GeoPostal','US');

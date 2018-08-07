@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97731"]={"code":"97731","region":"Oregon","city":"Chemult","latitude":43.216667,"longitude":-121.78167}}(window,'GeoPostal','US');

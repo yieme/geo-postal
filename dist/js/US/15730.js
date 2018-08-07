@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15730"]={"code":"15730","region":"PA","city":"Coolspring","latitude":41.0431,"longitude":-79.0836}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7120"]={"code":"7120","region":"Tasman","city":"Motueka","latitude":-41.13333,"longitude":173.01667}}(window,'GeoPostal','NZ');

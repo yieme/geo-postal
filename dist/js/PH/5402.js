@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5402"]={"code":"5402","region":"Masbate","city":"Buenavista","latitude":12.17639,"longitude":123.79056}}(window,'GeoPostal','PH');

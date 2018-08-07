@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56130"]={"code":"56130","region":"Punjab","city":"Renala Khurd","latitude":30.88333,"longitude":73.6}}(window,'GeoPostal','PK');

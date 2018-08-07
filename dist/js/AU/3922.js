@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3922"]={"code":"3922","region":"Victoria","city":"Phillip Island","latitude":-38.48349,"longitude":145.23102}}(window,'GeoPostal','AU');

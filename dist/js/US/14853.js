@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14853"]={"code":"14853","region":"New York","city":"Ithaca","latitude":42.441003,"longitude":-76.486828}}(window,'GeoPostal','US');

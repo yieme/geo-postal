@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70710"]={"code":"70710","region":"LA","city":"Addis","latitude":30.3557,"longitude":-91.2613}}(window,'GeoPostal','US');

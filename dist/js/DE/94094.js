@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94094"]={"code":"94094","region":"Bayern","city":"Rotthalmunster","latitude":48.35825,"longitude":13.20162}}(window,'GeoPostal','DE');

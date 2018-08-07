@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30270"]={"code":"30270","region":"GA","city":"Peachtree City","latitude":33.3968,"longitude":-84.59}}(window,'GeoPostal','US');

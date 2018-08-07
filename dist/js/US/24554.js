@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24554"]={"code":"24554","region":"VA","city":"Gladys","latitude":37.1386,"longitude":-79.1048}}(window,'GeoPostal','US');

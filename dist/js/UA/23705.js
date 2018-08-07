@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23705"]={"code":"23705","region":"Vinnytska oblast","city":"Haysyn","latitude":48.81143,"longitude":29.38977}}(window,'GeoPostal','UA');

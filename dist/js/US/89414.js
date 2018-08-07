@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89414"]={"code":"89414","region":"Nevada","city":"Golconda","latitude":40.95333,"longitude":-117.48917}}(window,'GeoPostal','US');

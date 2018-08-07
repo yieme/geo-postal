@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202410"]={"code":"202410","region":"Uttar Pradesh","city":"Bahjoi","latitude":28.4,"longitude":78.61667}}(window,'GeoPostal','IN');

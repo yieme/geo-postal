@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73523"]={"code":"73523","region":"OK","city":"Altus Afb","latitude":34.5982,"longitude":-99.4408}}(window,'GeoPostal','US');

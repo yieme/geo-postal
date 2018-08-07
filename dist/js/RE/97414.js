@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97414"]={"code":"97414","region":"Reunion","city":"L'Entre-Deux","latitude":-21.23333,"longitude":55.46667}}(window,'GeoPostal','RE');

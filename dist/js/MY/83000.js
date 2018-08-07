@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83000"]={"code":"83000","region":"Johor","city":"Batu Pahat","latitude":1.8548,"longitude":102.9325}}(window,'GeoPostal','MY');

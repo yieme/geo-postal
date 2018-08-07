@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92543"]={"code":"92543","region":"Bayern","city":"Weidenthal","latitude":49.4683,"longitude":12.28352}}(window,'GeoPostal','DE');

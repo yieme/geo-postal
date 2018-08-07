@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB6 2GH"]={"code":"CB6 2GH","region":"England","city":"Mepal","latitude":52.40623,"longitude":0.11772}}(window,'GeoPostal','GB');

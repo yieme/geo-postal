@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40932"]={"code":"40932","region":"Kentucky","city":"Fall Rock","latitude":37.21968,"longitude":-83.78832}}(window,'GeoPostal','US');

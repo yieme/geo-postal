@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89740"]={"code":"89740","region":"Bourgogne-Franche-Comte","city":"Cruzy-le-Chatel","latitude":47.8567,"longitude":4.2128}}(window,'GeoPostal','FR');

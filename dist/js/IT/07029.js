@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07029"]={"code":"07029","region":"Sardegna","city":"Tempio Pausania","latitude":40.89737,"longitude":9.10352}}(window,'GeoPostal','IT');

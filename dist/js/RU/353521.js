@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353521"]={"code":"353521","region":"Krasnodarskiy kray","city":"Golubitskaya","latitude":45.32222,"longitude":37.28222}}(window,'GeoPostal','RU');

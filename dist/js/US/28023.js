@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28023"]={"code":"28023","region":"North Carolina","city":"China Grove","latitude":35.568791,"longitude":-80.590054}}(window,'GeoPostal','US');

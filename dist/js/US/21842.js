@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21842"]={"code":"21842","region":"Maryland","city":"Ocean City","latitude":38.3365,"longitude":-75.08491}}(window,'GeoPostal','US');

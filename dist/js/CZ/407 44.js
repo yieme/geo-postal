@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407 44"]={"code":"407 44","region":"Ustecky kraj","city":"Chribska","latitude":50.86079,"longitude":14.48444}}(window,'GeoPostal','CZ');

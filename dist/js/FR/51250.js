@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51250"]={"code":"51250","region":"Grand-Est","city":"Sermaize-les-Bains","latitude":48.78507,"longitude":4.91169}}(window,'GeoPostal','FR');

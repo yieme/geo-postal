@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16915"]={"code":"16915","region":"Pennsylvania","city":"Coudersport","latitude":41.77479,"longitude":-78.02056}}(window,'GeoPostal','US');

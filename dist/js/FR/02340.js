@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02340"]={"code":"02340","region":"Hauts-de-France","city":"Montcornet","latitude":49.69526,"longitude":4.01667}}(window,'GeoPostal','FR');

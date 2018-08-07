@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1823"]={"code":"1823","region":"Ostfold","city":"Knappstad","latitude":59.63333,"longitude":11.05}}(window,'GeoPostal','NO');

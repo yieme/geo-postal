@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12027"]={"code":"12027","region":"New York","city":"Burnt Hills","latitude":42.91626,"longitude":-73.901632}}(window,'GeoPostal','US');

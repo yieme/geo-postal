@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88343"]={"code":"88343","region":"NM","city":"Picacho","latitude":33.3518,"longitude":-105.145}}(window,'GeoPostal','US');

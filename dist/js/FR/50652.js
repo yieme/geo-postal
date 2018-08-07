@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50652"]={"code":"50652","region":"Normandie","city":"Cherbourg-Octeville","latitude":49.63984,"longitude":-1.61636}}(window,'GeoPostal','FR');

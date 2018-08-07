@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79519"]={"code":"79519","region":"TX","city":"Goldsboro","latitude":32.0482,"longitude":-99.6775}}(window,'GeoPostal','US');

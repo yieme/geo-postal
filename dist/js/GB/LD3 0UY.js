@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD3 0UY"]={"code":"LD3 0UY","region":"Wales","city":"Llyswen","latitude":52.03333,"longitude":-3.26667}}(window,'GeoPostal','GB');

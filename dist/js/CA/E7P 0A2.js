@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E7P 0A2"]={"code":"E7P 0A2","region":"New Brunswick","city":"Hartland","latitude":46.29986,"longitude":-67.51669}}(window,'GeoPostal','CA');

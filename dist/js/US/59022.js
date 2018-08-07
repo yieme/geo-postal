@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59022"]={"code":"59022","region":"Montana","city":"Crow Agency","latitude":45.645619,"longitude":-107.46651}}(window,'GeoPostal','US');

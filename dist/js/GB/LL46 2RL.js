@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL46 2RL"]={"code":"LL46 2RL","region":"Wales","city":"Llanfair","latitude":52.84415,"longitude":-4.11541}}(window,'GeoPostal','GB');

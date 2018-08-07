@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2853"]={"code":"2853","region":"Niederosterreich","city":"Bad Schonau","latitude":47.48333,"longitude":16.23333}}(window,'GeoPostal','AT');

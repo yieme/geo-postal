@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56599"]={"code":"56599","region":"Rheinland-Pfalz","city":"Feldkirchen","latitude":50.45244,"longitude":7.42562}}(window,'GeoPostal','DE');

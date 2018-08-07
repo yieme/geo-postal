@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38378"]={"code":"38378","region":"TN","city":"Spring Creek","latitude":35.7668,"longitude":-88.6839}}(window,'GeoPostal','US');

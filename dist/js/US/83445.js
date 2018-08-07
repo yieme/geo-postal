@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83445"]={"code":"83445","region":"Idaho","city":"Saint Anthony","latitude":44.15724,"longitude":-111.64506}}(window,'GeoPostal','US');

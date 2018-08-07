@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["071201"]={"code":"071201","region":"El Oro","city":"Santa Rosa","latitude":-3.45,"longitude":-79.96667}}(window,'GeoPostal','EC');

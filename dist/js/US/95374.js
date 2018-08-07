@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95374"]={"code":"95374","region":"CA","city":"Stevinson","latitude":37.3283,"longitude":-120.8764}}(window,'GeoPostal','US');

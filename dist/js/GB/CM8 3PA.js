@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM8 3PA"]={"code":"CM8 3PA","region":"England","city":"Wickham Bishops","latitude":51.7783,"longitude":0.66823}}(window,'GeoPostal','GB');

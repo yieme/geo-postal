@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5300"]={"code":"5300","region":"Aargau","city":"Turgi","latitude":47.49201,"longitude":8.25412}}(window,'GeoPostal','CH');

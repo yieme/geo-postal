@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76866"]={"code":"76866","region":"Texas","city":"Paint Rock","latitude":31.50849,"longitude":-99.92008}}(window,'GeoPostal','US');

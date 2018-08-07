@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9460"]={"code":"9460","region":"Nordjylland","city":"Brovst","latitude":57.09562,"longitude":9.52801}}(window,'GeoPostal','DK');

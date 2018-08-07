@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49321"]={"code":"49321","region":"Michigan","city":"Comstock Park","latitude":43.05871,"longitude":-85.66811}}(window,'GeoPostal','US');

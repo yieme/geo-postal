@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27446"]={"code":"27446","region":"Niedersachsen","city":"Selsingen","latitude":53.37329,"longitude":9.21289}}(window,'GeoPostal','DE');

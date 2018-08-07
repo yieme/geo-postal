@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68038"]={"code":"68038","region":"Nebraska","city":"Lyons","latitude":41.93579,"longitude":-96.472726}}(window,'GeoPostal','US');

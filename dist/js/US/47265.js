@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47265"]={"code":"47265","region":"Indiana","city":"North Vernon","latitude":39.017032,"longitude":-85.652708}}(window,'GeoPostal','US');

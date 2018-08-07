@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0J 1N0"]={"code":"S0J 1N0","region":"Saskatchewan","city":"Leoville","latitude":53.63344,"longitude":-107.55123}}(window,'GeoPostal','CA');

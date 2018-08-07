@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18618"]={"code":"18618","region":"Pennsylvania","city":"Harveys Lake","latitude":41.341784,"longitude":-76.020157}}(window,'GeoPostal','US');

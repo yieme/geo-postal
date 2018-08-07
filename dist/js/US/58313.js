@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58313"]={"code":"58313","region":"North Dakota","city":"Balta","latitude":48.16662,"longitude":-100.03662}}(window,'GeoPostal','US');

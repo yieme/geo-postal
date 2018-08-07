@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2553"]={"code":"2553","region":"Cordoba","city":"Justiniano Posse","latitude":-32.88411,"longitude":-62.67788}}(window,'GeoPostal','AR');

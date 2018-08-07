@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH33 6SE"]={"code":"PH33 6SE","region":"Scotland","city":"Corran","latitude":56.71667,"longitude":-5.23333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48320"]={"code":"48320","region":"Punjab","city":"Choa Saidan Shah","latitude":32.72006,"longitude":72.98486}}(window,'GeoPostal','PK');

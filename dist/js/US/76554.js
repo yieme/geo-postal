@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76554"]={"code":"76554","region":"TX","city":"Little River Academy","latitude":30.9863,"longitude":-97.3586}}(window,'GeoPostal','US');

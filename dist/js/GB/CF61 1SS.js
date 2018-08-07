@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF61 1SS"]={"code":"CF61 1SS","region":"Wales","city":"Llantwit Major","latitude":51.4107,"longitude":-3.48632}}(window,'GeoPostal','GB');

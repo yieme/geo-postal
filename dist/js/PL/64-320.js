@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-320"]={"code":"64-320","region":"Wielkopolskie","city":"Buk","latitude":52.35532,"longitude":16.51958}}(window,'GeoPostal','PL');

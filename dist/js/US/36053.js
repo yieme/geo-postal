@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36053"]={"code":"36053","region":"AL","city":"Midway","latitude":32.0955,"longitude":-85.5315}}(window,'GeoPostal','US');

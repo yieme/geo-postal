@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75400"]={"code":"75400","region":"Samsun","city":"Bafra","latitude":41.56778,"longitude":35.90694}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39360"]={"code":"39360","region":"Mississippi","city":"Shubuta","latitude":31.86083,"longitude":-88.70056}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42283"]={"code":"42283","region":"KY","city":"South Union","latitude":36.87,"longitude":-86.65}}(window,'GeoPostal','US');

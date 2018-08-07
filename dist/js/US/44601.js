@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44601"]={"code":"44601","region":"Ohio","city":"Alliance","latitude":40.918086,"longitude":-81.133545}}(window,'GeoPostal','US');

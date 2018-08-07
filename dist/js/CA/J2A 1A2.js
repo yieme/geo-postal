@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J2A 1A2"]={"code":"J2A 1A2","region":"Quebec","city":"Saint-Nicephore","latitude":45.84606,"longitude":-72.440226}}(window,'GeoPostal','CA');

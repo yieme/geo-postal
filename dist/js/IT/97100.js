@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97100"]={"code":"97100","region":"Sicilia","city":"Ragusa","latitude":36.92824,"longitude":14.71719}}(window,'GeoPostal','IT');

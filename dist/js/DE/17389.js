@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17389"]={"code":"17389","region":"Mecklenburg-Vorpommern","city":"Anklam","latitude":53.85637,"longitude":13.68965}}(window,'GeoPostal','DE');

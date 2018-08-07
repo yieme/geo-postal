@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627250"]={"code":"627250","region":"Tyumenskaya oblast'","city":"Yurginskoye","latitude":56.81888,"longitude":67.39211}}(window,'GeoPostal','RU');

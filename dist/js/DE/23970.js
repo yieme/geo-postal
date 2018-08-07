@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23970"]={"code":"23970","region":"Mecklenburg-Vorpommern","city":"Dammhusen","latitude":53.87993,"longitude":11.42634}}(window,'GeoPostal','DE');

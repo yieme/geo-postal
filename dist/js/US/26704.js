@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26704"]={"code":"26704","region":"West Virginia","city":"Augusta","latitude":39.295,"longitude":-78.6383}}(window,'GeoPostal','US');

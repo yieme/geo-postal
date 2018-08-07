@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA11 3HD"]={"code":"PA11 3HD","region":"Scotland","city":"Bridge of Weir","latitude":55.85,"longitude":-4.58333}}(window,'GeoPostal','GB');

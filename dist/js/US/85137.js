@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85137"]={"code":"85137","region":"Arizona","city":"Kearny","latitude":33.05701,"longitude":-110.91067}}(window,'GeoPostal','US');

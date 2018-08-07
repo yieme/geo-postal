@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-200"]={"code":"06-200","region":"Mazowieckie","city":"Makow Mazowiecki","latitude":52.86493,"longitude":21.10053}}(window,'GeoPostal','PL');

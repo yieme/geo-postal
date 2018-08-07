@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37639"]={"code":"37639","region":"Niedersachsen","city":"Bevern","latitude":51.85826,"longitude":9.49408}}(window,'GeoPostal','DE');

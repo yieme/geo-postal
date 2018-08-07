@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22969"]={"code":"22969","region":"Virginia","city":"Schuyler","latitude":37.776253,"longitude":-78.70014}}(window,'GeoPostal','US');

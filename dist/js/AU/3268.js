@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3268"]={"code":"3268","region":"Victoria","city":"Timboon","latitude":-38.48434,"longitude":142.98033}}(window,'GeoPostal','AU');

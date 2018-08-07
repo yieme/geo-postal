@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67102"]={"code":"67102","region":"Odeska oblast","city":"Velyka Mykhaylivka","latitude":47.07944,"longitude":29.85139}}(window,'GeoPostal','UA');

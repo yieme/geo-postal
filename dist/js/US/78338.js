@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78338"]={"code":"78338","region":"Texas","city":"Armstrong","latitude":26.826596,"longitude":-97.750659}}(window,'GeoPostal','US');

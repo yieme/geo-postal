@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407107"]={"code":"407107","region":"Bucuresti","city":"Bucharest","latitude":44.43225,"longitude":26.10626}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606525"]={"code":"606525","region":"Nizhegorodskaya oblast'","city":"Zavolzh'ye","latitude":56.64051,"longitude":43.39446}}(window,'GeoPostal','RU');

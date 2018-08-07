@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74-503"]={"code":"74-503","region":"Zachodniopomorskie","city":"Moryn","latitude":52.85769,"longitude":14.39297}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02807"]={"code":"02807","region":"RI","city":"Block Island","latitude":41.1715,"longitude":-71.5748}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["361303"]={"code":"361303","region":"Kabardino-Balkarskaya Respublika","city":"Mayskiy","latitude":43.6414,"longitude":44.03851}}(window,'GeoPostal','RU');

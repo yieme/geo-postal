@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15456"]={"code":"15456","region":"Pennsylvania","city":"Lemont Furnace","latitude":39.9229,"longitude":-79.7875}}(window,'GeoPostal','US');

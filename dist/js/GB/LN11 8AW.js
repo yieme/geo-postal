@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 8AW"]={"code":"LN11 8AW","region":"England","city":"Keddington","latitude":53.36667,"longitude":0.01667}}(window,'GeoPostal','GB');

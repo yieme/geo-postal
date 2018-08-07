@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23882"]={"code":"23882","region":"Virginia","city":"Stony Creek","latitude":36.936585,"longitude":-77.425695}}(window,'GeoPostal','US');

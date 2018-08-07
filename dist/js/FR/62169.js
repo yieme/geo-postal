@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62169"]={"code":"62169","region":"Hauts-de-France","city":"Saint-Pol-sur-Ternoise","latitude":50.38113,"longitude":2.33407}}(window,'GeoPostal','FR');

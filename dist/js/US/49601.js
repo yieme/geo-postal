@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49601"]={"code":"49601","region":"Michigan","city":"Cadillac","latitude":44.2554,"longitude":-85.442615}}(window,'GeoPostal','US');

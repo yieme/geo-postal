@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18334"]={"code":"18334","region":"PA","city":"Long Pond","latitude":41.0677,"longitude":-75.4482}}(window,'GeoPostal','US');

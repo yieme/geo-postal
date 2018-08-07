@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36015"]={"code":"36015","region":"Veneto","city":"Schio","latitude":45.7124,"longitude":11.35739}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74959"]={"code":"74959","region":"Oklahoma","city":"Spiro","latitude":35.24121,"longitude":-94.61994}}(window,'GeoPostal','US');

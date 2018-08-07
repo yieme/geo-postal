@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627061"]={"code":"627061","region":"Ialomita","city":"Fetesti","latitude":44.38333,"longitude":27.83333}}(window,'GeoPostal','RO');

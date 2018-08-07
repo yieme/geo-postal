@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6800"]={"code":"6800","region":"Sogn og Fjordane","city":"Forde","latitude":61.45217,"longitude":5.85717}}(window,'GeoPostal','NO');

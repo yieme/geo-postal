@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25632"]={"code":"25632","region":"WV","city":"Lyburn","latitude":37.7656,"longitude":-81.9217}}(window,'GeoPostal','US');

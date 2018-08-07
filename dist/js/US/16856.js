@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16856"]={"code":"16856","region":"PA","city":"Mingoville","latitude":40.9299,"longitude":-77.6389}}(window,'GeoPostal','US');

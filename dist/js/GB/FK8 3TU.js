@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK8 3TU"]={"code":"FK8 3TU","region":"Scotland","city":"Inversnaid","latitude":56.24373,"longitude":-4.6843}}(window,'GeoPostal','GB');

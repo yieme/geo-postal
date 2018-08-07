@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16652"]={"code":"16652","region":"Pennsylvania","city":"Huntingdon","latitude":40.4848,"longitude":-78.01028}}(window,'GeoPostal','US');

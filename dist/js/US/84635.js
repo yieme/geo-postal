@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84635"]={"code":"84635","region":"Utah","city":"Hinckley","latitude":39.36444,"longitude":-112.7193}}(window,'GeoPostal','US');

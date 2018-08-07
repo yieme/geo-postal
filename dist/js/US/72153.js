@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72153"]={"code":"72153","region":"AR","city":"Shirley","latitude":35.6498,"longitude":-92.3143}}(window,'GeoPostal','US');

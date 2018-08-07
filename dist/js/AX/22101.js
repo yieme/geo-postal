@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22101"]={"code":"22101","region":"Mariehamn","city":"Mariehamn","latitude":60.09726,"longitude":19.93481}}(window,'GeoPostal','AX');

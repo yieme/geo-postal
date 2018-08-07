@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53510"]={"code":"53510","region":"Wisconsin","city":"Belmont","latitude":42.75806,"longitude":-90.365}}(window,'GeoPostal','US');

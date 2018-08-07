@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6462"]={"code":"6462","region":"More og Romsdal","city":"Eidsvag","latitude":62.7767,"longitude":8.06681}}(window,'GeoPostal','NO');

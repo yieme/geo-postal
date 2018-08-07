@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80137"]={"code":"80137","region":"Colorado","city":"Watkins","latitude":39.761153,"longitude":-104.652433}}(window,'GeoPostal','US');

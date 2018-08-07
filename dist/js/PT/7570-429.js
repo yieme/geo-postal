@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7570-429"]={"code":"7570-429","region":"Setubal","city":"Cercal","latitude":37.80601,"longitude":-8.67153}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19850"]={"code":"19850","region":"Delaware","city":"Wilmington","latitude":39.728452,"longitude":-75.537264}}(window,'GeoPostal','US');

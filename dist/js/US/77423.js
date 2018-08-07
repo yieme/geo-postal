@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77423"]={"code":"77423","region":"Texas","city":"Brookshire","latitude":29.79894,"longitude":-95.962284}}(window,'GeoPostal','US');

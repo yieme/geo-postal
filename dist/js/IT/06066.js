@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06066"]={"code":"06066","region":"Umbria","city":"Piegaro","latitude":42.96694,"longitude":12.08345}}(window,'GeoPostal','IT');

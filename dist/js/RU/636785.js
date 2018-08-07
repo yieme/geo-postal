@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636785"]={"code":"636785","region":"Tomskaya oblast'","city":"Strezhevoy","latitude":60.7333,"longitude":77.5889}}(window,'GeoPostal','RU');

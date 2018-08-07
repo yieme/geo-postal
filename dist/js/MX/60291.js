@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60291"]={"code":"60291","region":"Michoacan de Ocampo","city":"San Francisco Pichataro","latitude":19.56667,"longitude":-101.8}}(window,'GeoPostal','MX');

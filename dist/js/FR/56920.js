@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56920"]={"code":"56920","region":"Bretagne","city":"Kerfourn","latitude":48.0439,"longitude":-2.8322}}(window,'GeoPostal','FR');

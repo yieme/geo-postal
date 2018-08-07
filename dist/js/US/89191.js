@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89191"]={"code":"89191","region":"Nevada","city":"Nellis Air Force Base","latitude":36.2424,"longitude":-115.04175}}(window,'GeoPostal','US');

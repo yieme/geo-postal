@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60528"]={"code":"60528","region":"Hessen","city":"Niederrad","latitude":50.08309,"longitude":8.62852}}(window,'GeoPostal','DE');

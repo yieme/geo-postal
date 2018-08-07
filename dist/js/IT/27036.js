@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27036"]={"code":"27036","region":"Lombardia","city":"Mortara","latitude":45.24726,"longitude":8.73554}}(window,'GeoPostal','IT');

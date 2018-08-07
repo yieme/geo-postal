@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40309"]={"code":"40309","region":"Nouvelle-Aquitaine","city":"Peyrehorade","latitude":43.54886,"longitude":-1.11574}}(window,'GeoPostal','FR');

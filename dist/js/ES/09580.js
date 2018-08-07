@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09580"]={"code":"09580","region":"Castilla y Leon","city":"Villasana de Mena","latitude":43.10017,"longitude":-3.28253}}(window,'GeoPostal','ES');

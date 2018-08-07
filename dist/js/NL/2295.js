@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2295"]={"code":"2295","region":"Zuid-Holland","city":"Kwintsheul","latitude":52.01333,"longitude":4.25556}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33879"]={"code":"33879","region":"Asturias, Principado de","city":"Tineo","latitude":43.33765,"longitude":-6.41452}}(window,'GeoPostal','ES');

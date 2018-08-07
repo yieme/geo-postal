@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM9 8BD"]={"code":"CM9 8BD","region":"England","city":"Goldhanger","latitude":51.7485,"longitude":0.75239}}(window,'GeoPostal','GB');

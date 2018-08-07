@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6490"]={"code":"6490","region":"Haskovo","city":"Simeonovgrad","latitude":42.03333,"longitude":25.83333}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02011"]={"code":"02011","region":"Chlef","city":"Oued Sly","latitude":36.10124,"longitude":1.19949}}(window,'GeoPostal','DZ');

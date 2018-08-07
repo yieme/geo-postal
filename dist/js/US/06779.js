@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06779"]={"code":"06779","region":"CT","city":"Oakville","latitude":41.5909,"longitude":-73.0873}}(window,'GeoPostal','US');

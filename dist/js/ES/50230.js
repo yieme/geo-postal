@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50230"]={"code":"50230","region":"Aragon","city":"Alhama de Aragon","latitude":41.29657,"longitude":-1.89358}}(window,'GeoPostal','ES');

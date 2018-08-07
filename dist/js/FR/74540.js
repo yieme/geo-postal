@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74540"]={"code":"74540","region":"Auvergne-Rhone-Alpes","city":"Cusy","latitude":45.76633,"longitude":6.02695}}(window,'GeoPostal','FR');

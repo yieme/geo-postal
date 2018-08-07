@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24929"]={"code":"24929","region":"Kentriki Makedonia","city":"Agios Athanasios","latitude":40.71722,"longitude":22.72806}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91302"]={"code":"91302","region":"California","city":"Carlsbad","latitude":34.134741,"longitude":-118.656723}}(window,'GeoPostal','US');

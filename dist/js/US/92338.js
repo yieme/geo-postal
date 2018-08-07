@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92338"]={"code":"92338","region":"CA","city":"Ludlow","latitude":34.7211,"longitude":-116.16}}(window,'GeoPostal','US');

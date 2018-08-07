@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE6 1GF"]={"code":"DE6 1GF","region":"England","city":"Ashbourne","latitude":53.01667,"longitude":-1.73333}}(window,'GeoPostal','GB');

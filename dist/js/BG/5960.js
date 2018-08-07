@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5960"]={"code":"5960","region":"Pleven","city":"Gulyantsi","latitude":43.63333,"longitude":24.7}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19533"]={"code":"19533","region":"Pennsylvania","city":"Leesport","latitude":40.44704,"longitude":-75.96632}}(window,'GeoPostal','US');

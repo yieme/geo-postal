@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79350"]={"code":"79350","region":"Nouvelle-Aquitaine","city":"Chiche","latitude":46.79643,"longitude":-0.3556}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396691"]={"code":"396691","region":"Voronezhskaya oblast'","city":"Zabolotovka","latitude":50.27368,"longitude":39.3147}}(window,'GeoPostal','RU');

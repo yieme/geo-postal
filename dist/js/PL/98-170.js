@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-170"]={"code":"98-170","region":"Lodzkie","city":"Widawa","latitude":51.43855,"longitude":18.94421}}(window,'GeoPostal','PL');

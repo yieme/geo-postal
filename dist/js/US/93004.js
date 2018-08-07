@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93004"]={"code":"93004","region":"California","city":"Saticoy","latitude":34.28028,"longitude":-119.16444}}(window,'GeoPostal','US');

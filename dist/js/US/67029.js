@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67029"]={"code":"67029","region":"Kansas","city":"Coldwater","latitude":37.26891,"longitude":-99.32678}}(window,'GeoPostal','US');

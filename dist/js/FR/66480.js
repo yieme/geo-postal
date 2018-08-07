@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66480"]={"code":"66480","region":"Occitanie","city":"Maureillas-las-Illas","latitude":42.49014,"longitude":2.80752}}(window,'GeoPostal','FR');

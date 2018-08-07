@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34410"]={"code":"34410","region":"Occitanie","city":"Loupian","latitude":43.44886,"longitude":3.61381}}(window,'GeoPostal','FR');

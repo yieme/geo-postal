@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87900-000"]={"code":"87900-000","region":"Parana","city":"Loanda","latitude":-22.92306,"longitude":-53.13722}}(window,'GeoPostal','BR');

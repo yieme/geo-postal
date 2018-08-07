@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60502"]={"code":"60502","region":"Illinois","city":"Aurora","latitude":41.76058,"longitude":-88.32007}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171470"]={"code":"171470","region":"Tverskaya oblast'","city":"Kesova Gora","latitude":57.58361,"longitude":37.29222}}(window,'GeoPostal','RU');

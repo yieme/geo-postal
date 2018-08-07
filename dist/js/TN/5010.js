@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5010"]={"code":"5010","region":"Monastir","city":"Al Wardanin","latitude":35.70915,"longitude":10.67397}}(window,'GeoPostal','TN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431732"]={"code":"431732","region":"Maharashtra","city":"Mukher","latitude":18.7,"longitude":77.36667}}(window,'GeoPostal','IN');

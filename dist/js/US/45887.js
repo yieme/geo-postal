@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45887"]={"code":"45887","region":"OH","city":"Spencerville","latitude":40.7038,"longitude":-84.3413}}(window,'GeoPostal','US');

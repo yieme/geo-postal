@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48529"]={"code":"48529","region":"Niedersachsen","city":"Nordhorn","latitude":52.43081,"longitude":7.06833}}(window,'GeoPostal','DE');

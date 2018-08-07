@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8700"]={"code":"8700","region":"Somogy","city":"Marcali","latitude":46.58498,"longitude":17.41196}}(window,'GeoPostal','HU');

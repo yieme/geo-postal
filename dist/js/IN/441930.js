@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["441930"]={"code":"441930","region":"Maharashtra","city":"Balapur","latitude":20.66667,"longitude":76.76667}}(window,'GeoPostal','IN');

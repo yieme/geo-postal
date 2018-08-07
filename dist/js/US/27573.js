@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27573"]={"code":"27573","region":"North Carolina","city":"Roxboro","latitude":36.39375,"longitude":-78.98279}}(window,'GeoPostal','US');

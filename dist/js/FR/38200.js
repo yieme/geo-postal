@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38200"]={"code":"38200","region":"Auvergne-Rhone-Alpes","city":"Chuzelles","latitude":45.58484,"longitude":4.87795}}(window,'GeoPostal','FR');

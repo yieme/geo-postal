@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9050"]={"code":"9050","region":"Appenzell Innerrhoden","city":"Appenzell","latitude":47.33103,"longitude":9.40996}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6112"]={"code":"6112","region":"Bacs-Kiskun","city":"Palmonostora","latitude":46.62417,"longitude":19.95156}}(window,'GeoPostal','HU');

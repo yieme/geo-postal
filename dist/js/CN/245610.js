@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245610"]={"code":"245610","region":"Anhui","city":"Xiaolukou","latitude":29.8615,"longitude":117.6077}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22446"]={"code":"22446","region":"VA","city":"Corbin","latitude":38.1996,"longitude":-77.3889}}(window,'GeoPostal','US');

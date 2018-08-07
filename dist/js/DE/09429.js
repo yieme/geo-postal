@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09429"]={"code":"09429","region":"Sachsen","city":"Gehringswalde","latitude":50.66055,"longitude":13.09246}}(window,'GeoPostal','DE');

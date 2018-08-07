@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6456"]={"code":"6456","region":"Bacs-Kiskun","city":"Madaras","latitude":46.0587,"longitude":19.26121}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646130"]={"code":"646130","region":"Omskaya oblast'","city":"Krutinka","latitude":56.0055,"longitude":71.51131}}(window,'GeoPostal','RU');

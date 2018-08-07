@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN43 5FG"]={"code":"BN43 5FG","region":"England","city":"Shoreham-by-Sea","latitude":50.83413,"longitude":-0.27431}}(window,'GeoPostal','GB');

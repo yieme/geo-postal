@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65072"]={"code":"65072","region":"MO","city":"Rocky Mount","latitude":38.2911,"longitude":-92.7059}}(window,'GeoPostal','US');

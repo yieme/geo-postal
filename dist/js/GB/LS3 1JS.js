@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS3 1JS"]={"code":"LS3 1JS","region":"England","city":"Leeds","latitude":51.24677,"longitude":0.60682}}(window,'GeoPostal','GB');

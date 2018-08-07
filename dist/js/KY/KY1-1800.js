@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KY1-1800"]={"code":"KY1-1800","region":"Cayman Islands","city":"East End","latitude":19.3,"longitude":-81.11667}}(window,'GeoPostal','KY');

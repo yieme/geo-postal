@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10800"]={"code":"10800","region":"Ciudad de Mexico","city":"Iztacalco","latitude":19.39667,"longitude":-99.08472}}(window,'GeoPostal','MX');

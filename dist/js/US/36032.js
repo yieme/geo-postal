@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36032"]={"code":"36032","region":"Alabama","city":"Fort Deposit","latitude":31.98459,"longitude":-86.57859}}(window,'GeoPostal','US');

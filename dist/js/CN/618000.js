@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618000"]={"code":"618000","region":"Sichuan","city":"Deyang","latitude":31.13019,"longitude":104.38198}}(window,'GeoPostal','CN');

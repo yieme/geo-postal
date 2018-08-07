@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6008"]={"code":"6008","region":"Western Australia","city":"Subiaco","latitude":-31.95,"longitude":115.8}}(window,'GeoPostal','AU');

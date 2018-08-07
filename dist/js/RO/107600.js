@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107600"]={"code":"107600","region":"Prahova","city":"Telega","latitude":45.13333,"longitude":25.78333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22436"]={"code":"22436","region":"Vinnytska oblast","city":"Pavlovka","latitude":49.44143,"longitude":28.45956}}(window,'GeoPostal','UA');

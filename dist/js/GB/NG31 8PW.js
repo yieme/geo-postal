@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG31 8PW"]={"code":"NG31 8PW","region":"England","city":"Great Gonerby","latitude":52.93507,"longitude":-0.66685}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15856"]={"code":"15856","region":"Pennsylvania","city":"Rockton","latitude":41.092164,"longitude":-78.634165}}(window,'GeoPostal','US');

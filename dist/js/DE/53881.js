@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53881"]={"code":"53881","region":"Nordrhein-Westfalen","city":"Euskirchen","latitude":50.66057,"longitude":6.78722}}(window,'GeoPostal','DE');

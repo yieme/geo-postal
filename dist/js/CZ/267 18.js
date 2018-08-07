@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["267 18"]={"code":"267 18","region":"Stredocesky kraj","city":"Revnice","latitude":49.91395,"longitude":14.23589}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA6 2BP"]={"code":"LA6 2BP","region":"England","city":"Kirkby Lonsdale","latitude":54.20259,"longitude":-2.59827}}(window,'GeoPostal','GB');

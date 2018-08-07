@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["112105"]={"code":"112105","region":"Ogun","city":"Ifo","latitude":6.81437,"longitude":3.19575}}(window,'GeoPostal','NG');

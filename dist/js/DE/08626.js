@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08626"]={"code":"08626","region":"Thuringen","city":"Freiberg","latitude":50.3313,"longitude":12.23735}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["361215"]={"code":"361215","region":"Stavropol'skiy kray","city":"Urozhaynoye","latitude":44.78833,"longitude":44.92278}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99031"]={"code":"99031","region":"WA","city":"Spangle","latitude":47.4338,"longitude":-117.3827}}(window,'GeoPostal','US');

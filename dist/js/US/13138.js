@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13138"]={"code":"13138","region":"NY","city":"Pompey","latitude":42.899,"longitude":-76.016}}(window,'GeoPostal','US');

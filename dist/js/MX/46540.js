@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46540"]={"code":"46540","region":"Jalisco","city":"San Marcos","latitude":20.78333,"longitude":-104.18333}}(window,'GeoPostal','MX');

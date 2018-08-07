@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE66 2UL"]={"code":"NE66 2UL","region":"England","city":"Shilbottle","latitude":55.37099,"longitude":-1.6882}}(window,'GeoPostal','GB');

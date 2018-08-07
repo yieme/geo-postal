@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77876"]={"code":"77876","region":"TX","city":"Shiro","latitude":30.6133,"longitude":-95.8883}}(window,'GeoPostal','US');

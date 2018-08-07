@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62610"]={"code":"62610","region":"Hauts-de-France","city":"Ardres","latitude":50.85786,"longitude":1.98168}}(window,'GeoPostal','FR');

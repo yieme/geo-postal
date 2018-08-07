@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06925"]={"code":"06925","region":"Sachsen","city":"Dautzschen","latitude":51.63893,"longitude":13.00711}}(window,'GeoPostal','DE');

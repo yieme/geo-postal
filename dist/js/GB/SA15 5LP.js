@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA15 5LP"]={"code":"SA15 5LP","region":"Wales","city":"Upper Tumble","latitude":51.78048,"longitude":-4.12597}}(window,'GeoPostal','GB');

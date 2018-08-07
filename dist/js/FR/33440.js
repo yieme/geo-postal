@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33440"]={"code":"33440","region":"Nouvelle-Aquitaine","city":"Ambares-et-Lagrave","latitude":44.91667,"longitude":-0.48333}}(window,'GeoPostal','FR');

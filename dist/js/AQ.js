@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["AQ"]={id:'AQ',country:'Antarctica', postal:{'':{code:'', region:'', city:'', latitude:-90, longitude:0}}};

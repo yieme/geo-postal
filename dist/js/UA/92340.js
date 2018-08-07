@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92340"]={"code":"92340","region":"Luhanska oblast","city":"Novopskov","latitude":49.5464,"longitude":39.08987}}(window,'GeoPostal','UA');

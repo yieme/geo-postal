@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6990"]={"code":"6990","region":"Luxembourg","city":"Hotton","latitude":50.26742,"longitude":5.44609}}(window,'GeoPostal','BE');

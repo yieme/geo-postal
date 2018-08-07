@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25521"]={"code":"25521","region":"WV","city":"Griffithsville","latitude":38.2197,"longitude":-81.9995}}(window,'GeoPostal','US');

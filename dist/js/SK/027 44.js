@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["027 44"]={"code":"027 44","region":"Zilinsky kraj","city":"Tvrdosin","latitude":49.337,"longitude":19.556}}(window,'GeoPostal','SK');

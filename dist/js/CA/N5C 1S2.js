@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N5C 1S2"]={"code":"N5C 1S2","region":"Ontario","city":"Ingersoll","latitude":43.039273,"longitude":-80.881235}}(window,'GeoPostal','CA');

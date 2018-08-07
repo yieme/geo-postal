@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96013"]={"code":"96013","region":"California","city":"Burney","latitude":40.88238,"longitude":-121.66082}}(window,'GeoPostal','US');

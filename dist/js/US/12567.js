@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12567"]={"code":"12567","region":"NY","city":"Pine Plains","latitude":41.9896,"longitude":-73.6602}}(window,'GeoPostal','US');

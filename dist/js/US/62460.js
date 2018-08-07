@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62460"]={"code":"62460","region":"Illinois","city":"Saint Francisville","latitude":38.591852,"longitude":-87.64636}}(window,'GeoPostal','US');

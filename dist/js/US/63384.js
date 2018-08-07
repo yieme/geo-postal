@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63384"]={"code":"63384","region":"MO","city":"Wellsville","latitude":39.0765,"longitude":-91.5645}}(window,'GeoPostal','US');

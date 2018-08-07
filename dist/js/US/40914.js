@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40914"]={"code":"40914","region":"Kentucky","city":"Big Creek","latitude":37.155272,"longitude":-83.623163}}(window,'GeoPostal','US');

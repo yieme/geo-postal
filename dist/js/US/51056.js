@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51056"]={"code":"51056","region":"Iowa","city":"Smithland","latitude":42.22917,"longitude":-95.93194}}(window,'GeoPostal','US');

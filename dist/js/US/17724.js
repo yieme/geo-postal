@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17724"]={"code":"17724","region":"Pennsylvania","city":"Canton","latitude":41.65646,"longitude":-76.85329}}(window,'GeoPostal','US');

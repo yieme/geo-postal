@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68381"]={"code":"68381","region":"Nebraska","city":"Liberty","latitude":40.08138,"longitude":-96.51762}}(window,'GeoPostal','US');

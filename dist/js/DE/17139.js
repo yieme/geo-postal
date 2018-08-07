@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17139"]={"code":"17139","region":"Mecklenburg-Vorpommern","city":"Malchin","latitude":53.7399,"longitude":12.76539}}(window,'GeoPostal','DE');

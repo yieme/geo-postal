@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43149"]={"code":"43149","region":"OH","city":"Rockbridge","latitude":39.5509,"longitude":-82.5626}}(window,'GeoPostal','US');

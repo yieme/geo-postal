@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07746"]={"code":"07746","region":"New Jersey","city":"Marlboro","latitude":40.316605,"longitude":-74.264013}}(window,'GeoPostal','US');

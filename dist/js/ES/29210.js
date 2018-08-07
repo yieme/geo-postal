@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29210"]={"code":"29210","region":"Andalucia","city":"Cuevas de San Marcos","latitude":37.26666,"longitude":-4.41432}}(window,'GeoPostal','ES');

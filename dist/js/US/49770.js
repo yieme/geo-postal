@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49770"]={"code":"49770","region":"Michigan","city":"Petoskey","latitude":45.359194,"longitude":-84.92869}}(window,'GeoPostal','US');

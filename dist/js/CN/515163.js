@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515163"]={"code":"515163","region":"Guangdong","city":"Xilu","latitude":23.38114,"longitude":116.50454}}(window,'GeoPostal','CN');

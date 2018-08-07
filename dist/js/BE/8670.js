@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8670"]={"code":"8670","region":"West-Vlaanderen","city":"Koksijde","latitude":51.11642,"longitude":2.63772}}(window,'GeoPostal','BE');

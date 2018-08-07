@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8600"]={"code":"8600","region":"Niederosterreich","city":"Berndorf","latitude":47.94567,"longitude":16.10973}}(window,'GeoPostal','AT');

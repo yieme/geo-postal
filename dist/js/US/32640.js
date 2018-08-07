@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32640"]={"code":"32640","region":"FL","city":"Hawthorne","latitude":29.574,"longitude":-82.1056}}(window,'GeoPostal','US');

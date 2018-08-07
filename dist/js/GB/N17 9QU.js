@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N17 9QU"]={"code":"N17 9QU","region":"England","city":"London","latitude":51.50853,"longitude":-0.12574}}(window,'GeoPostal','GB');

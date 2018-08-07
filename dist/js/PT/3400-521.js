@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3400-521"]={"code":"3400-521","region":"Coimbra","city":"Oliveira do Hospital","latitude":40.3618,"longitude":-7.86014}}(window,'GeoPostal','PT');

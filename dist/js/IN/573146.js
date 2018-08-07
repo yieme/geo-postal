@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["573146"]={"code":"573146","region":"Karnataka","city":"Konanur","latitude":12.62639,"longitude":76.05417}}(window,'GeoPostal','IN');

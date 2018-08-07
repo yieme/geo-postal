@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 0UA"]={"code":"AB51 0UA","region":"Scotland","city":"Kintore","latitude":57.23721,"longitude":-2.3454}}(window,'GeoPostal','GB');

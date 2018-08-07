@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90290"]={"code":"90290","region":"California","city":"Topanga","latitude":34.103133,"longitude":-118.605058}}(window,'GeoPostal','US');

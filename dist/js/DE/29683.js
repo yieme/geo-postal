@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29683"]={"code":"29683","region":"Niedersachsen","city":"Vierde","latitude":52.88188,"longitude":9.73074}}(window,'GeoPostal','DE');

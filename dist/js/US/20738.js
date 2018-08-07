@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20738"]={"code":"20738","region":"MD","city":"Riverdale","latitude":38.8336,"longitude":-76.8777}}(window,'GeoPostal','US');

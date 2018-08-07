@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38469"]={"code":"38469","region":"Tennessee","city":"Loretto","latitude":35.07786,"longitude":-87.43974}}(window,'GeoPostal','US');

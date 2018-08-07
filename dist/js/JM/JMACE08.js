@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMACE08"]={"code":"JMACE08","region":"Saint Catherine","city":"Ewarton","latitude":18.18084,"longitude":-77.07664}}(window,'GeoPostal','JM');

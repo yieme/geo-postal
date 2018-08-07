@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457345"]={"code":"457345","region":"Salaj","city":"Valcau de Jos","latitude":47.11667,"longitude":22.73333}}(window,'GeoPostal','RO');

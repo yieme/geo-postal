@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18621"]={"code":"18621","region":"PA","city":"Hunlock Creek","latitude":41.2459,"longitude":-76.0879}}(window,'GeoPostal','US');

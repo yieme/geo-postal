@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68879"]={"code":"68879","region":"Nebraska","city":"Taylor","latitude":41.77028,"longitude":-99.37872}}(window,'GeoPostal','US');

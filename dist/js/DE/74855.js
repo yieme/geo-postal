@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74855"]={"code":"74855","region":"Baden-Wurttemberg","city":"Michaelsberg","latitude":49.3,"longitude":9.15}}(window,'GeoPostal','DE');

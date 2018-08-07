@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55487"]={"code":"55487","region":"Rheinland-Pfalz","city":"Sohren","latitude":49.93333,"longitude":7.31667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65532"]={"code":"65532","region":"MO","city":"Lake Spring","latitude":37.7825,"longitude":-91.6788}}(window,'GeoPostal','US');

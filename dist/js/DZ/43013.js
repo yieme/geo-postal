@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43013"]={"code":"43013","region":"Mila","city":"Chelghoum el Aid","latitude":36.16286,"longitude":6.16651}}(window,'GeoPostal','DZ');

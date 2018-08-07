@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36328-000"]={"code":"36328-000","region":"Minas Gerais","city":"Sao Joao del Rei","latitude":-21.13556,"longitude":-44.26167}}(window,'GeoPostal','BR');

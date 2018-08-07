@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82923"]={"code":"82923","region":"Wyoming","city":"Boulder","latitude":42.729377,"longitude":-109.685463}}(window,'GeoPostal','US');

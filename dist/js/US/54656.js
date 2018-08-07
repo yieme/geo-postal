@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54656"]={"code":"54656","region":"Wisconsin","city":"Sparta","latitude":43.944983,"longitude":-90.811602}}(window,'GeoPostal','US');

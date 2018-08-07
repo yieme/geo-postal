@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["800000"]={"code":"800000","region":"Binh Thuan","city":"Phan Thiet","latitude":10.93333,"longitude":108.1}}(window,'GeoPostal','VN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP22 1NW"]={"code":"IP22 1NW","region":"England","city":"Wattisfield","latitude":52.33064,"longitude":0.94748}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613983"]={"code":"613983","region":"Kirovskaya oblast'","city":"Luza","latitude":60.63082,"longitude":47.25118}}(window,'GeoPostal','RU');

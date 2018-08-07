@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64733"]={"code":"64733","region":"MO","city":"Chilhowee","latitude":38.6126,"longitude":-93.8653}}(window,'GeoPostal','US');

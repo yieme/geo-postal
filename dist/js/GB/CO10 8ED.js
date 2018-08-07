@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO10 8ED"]={"code":"CO10 8ED","region":"England","city":"Hundon","latitude":52.10988,"longitude":0.53644}}(window,'GeoPostal','GB');

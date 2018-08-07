@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86981"]={"code":"86981","region":"Bayern","city":"Kinsau","latitude":47.88333,"longitude":10.91667}}(window,'GeoPostal','DE');

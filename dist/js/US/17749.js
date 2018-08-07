@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17749"]={"code":"17749","region":"PA","city":"Mc Ewensville","latitude":41.072,"longitude":-76.8184}}(window,'GeoPostal','US');

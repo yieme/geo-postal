@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43117"]={"code":"43117","region":"OH","city":"Derby","latitude":39.7687,"longitude":-83.2057}}(window,'GeoPostal','US');

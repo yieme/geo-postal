@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38233"]={"code":"38233","region":"TN","city":"Kenton","latitude":36.1906,"longitude":-89.0229}}(window,'GeoPostal','US');

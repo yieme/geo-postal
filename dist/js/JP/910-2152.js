@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["910-2152"]={"code":"910-2152","region":"Fukui","city":"Fukui","latitude":36.067,"longitude":136.217}}(window,'GeoPostal','JP');

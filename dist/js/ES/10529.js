@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10529"]={"code":"10529","region":"Extremadura","city":"Majadas","latitude":39.94291,"longitude":-5.74589}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98870"]={"code":"98870","region":"Province Sud","city":"Bourail","latitude":-21.56667,"longitude":165.48333}}(window,'GeoPostal','NC');

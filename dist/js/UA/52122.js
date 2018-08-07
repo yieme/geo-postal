@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52122"]={"code":"52122","region":"Dnipropetrovska oblast","city":"Lykhivka","latitude":48.68735,"longitude":33.92279}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 4T0"]={"code":"S0K 4T0","region":"Saskatchewan","city":"Watrous","latitude":51.66677,"longitude":-105.46788}}(window,'GeoPostal','CA');

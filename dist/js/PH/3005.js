@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3005"]={"code":"3005","region":"Bulacan","city":"Pulilan","latitude":14.90167,"longitude":120.84917}}(window,'GeoPostal','PH');

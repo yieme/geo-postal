@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31224"]={"code":"31224","region":"Osjecko-baranjska zupanija","city":"Koska","latitude":45.54528,"longitude":18.28583}}(window,'GeoPostal','HR');

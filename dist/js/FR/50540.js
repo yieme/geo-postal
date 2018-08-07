@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50540"]={"code":"50540","region":"Normandie","city":"Isigny-le-Buat","latitude":48.61705,"longitude":-1.16994}}(window,'GeoPostal','FR');

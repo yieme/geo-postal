@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-430"]={"code":"63-430","region":"Wielkopolskie","city":"Odolanow","latitude":51.57419,"longitude":17.67434}}(window,'GeoPostal','PL');

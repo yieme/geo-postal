@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43721"]={"code":"43721","region":"OH","city":"Brownsville","latitude":39.947,"longitude":-82.2565}}(window,'GeoPostal','US');

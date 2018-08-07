@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["030450"]={"code":"030450","region":"Canar","city":"La Troncal","latitude":-2.4,"longitude":-79.33333}}(window,'GeoPostal','EC');

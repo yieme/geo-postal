@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54929"]={"code":"54929","region":"Wisconsin","city":"Clintonville","latitude":44.62053,"longitude":-88.76232}}(window,'GeoPostal','US');

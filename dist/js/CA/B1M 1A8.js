@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1M 1A8"]={"code":"B1M 1A8","region":"Nova Scotia","city":"Morrison Road","latitude":46.10014,"longitude":-60.01514}}(window,'GeoPostal','CA');

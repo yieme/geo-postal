@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73566"]={"code":"73566","region":"OK","city":"Snyder","latitude":34.6548,"longitude":-98.9508}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["753403"]={"code":"753403","region":"Ningxia","city":"Dawukou","latitude":39.04194,"longitude":106.39583}}(window,'GeoPostal','CN');

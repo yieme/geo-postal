@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17470-000"]={"code":"17470-000","region":"Sao Paulo","city":"Duartina","latitude":-22.41444,"longitude":-49.40389}}(window,'GeoPostal','BR');

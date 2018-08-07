@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35490"]={"code":"35490","region":"AL","city":"Vance","latitude":33.175,"longitude":-87.2574}}(window,'GeoPostal','US');

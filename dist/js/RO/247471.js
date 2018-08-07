@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247471"]={"code":"247471","region":"Hunedoara","city":"Petrosani","latitude":45.41667,"longitude":23.36667}}(window,'GeoPostal','RO');

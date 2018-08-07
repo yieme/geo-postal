@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39852"]={"code":"39852","region":"GA","city":"Fowlstown","latitude":30.8024,"longitude":-84.5471}}(window,'GeoPostal','US');

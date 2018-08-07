@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82110"]={"code":"82110","region":"Occitanie","city":"Lauzerte","latitude":44.25535,"longitude":1.13817}}(window,'GeoPostal','FR');

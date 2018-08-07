@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43771"]={"code":"43771","region":"Ohio","city":"Philo","latitude":39.845181,"longitude":-81.937594}}(window,'GeoPostal','US');

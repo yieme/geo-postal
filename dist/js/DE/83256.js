@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83256"]={"code":"83256","region":"Bayern","city":"Chiemsee","latitude":47.86667,"longitude":12.41667}}(window,'GeoPostal','DE');

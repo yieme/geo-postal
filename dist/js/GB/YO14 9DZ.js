@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO14 9DZ"]={"code":"YO14 9DZ","region":"England","city":"Filey","latitude":54.21,"longitude":-0.28917}}(window,'GeoPostal','GB');

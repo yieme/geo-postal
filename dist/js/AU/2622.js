@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2622"]={"code":"2622","region":"New South Wales","city":"Sandy Point","latitude":-35.06283,"longitude":149.86348}}(window,'GeoPostal','AU');

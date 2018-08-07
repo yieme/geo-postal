@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38259"]={"code":"38259","region":"TN","city":"Trimble","latitude":36.2011,"longitude":-89.1863}}(window,'GeoPostal','US');

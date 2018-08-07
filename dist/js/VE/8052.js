@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8052"]={"code":"8052","region":"Bolivar","city":"Upata","latitude":8.00861,"longitude":-62.39889}}(window,'GeoPostal','VE');

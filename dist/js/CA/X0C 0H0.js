@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0C 0H0"]={"code":"X0C 0H0","region":"Nunavut","city":"Repulse Bay","latitude":66.53417,"longitude":-86.24919}}(window,'GeoPostal','CA');

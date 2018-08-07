@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14729"]={"code":"14729","region":"Andalucia","city":"Almodovar del Rio","latitude":37.8107,"longitude":-5.02037}}(window,'GeoPostal','ES');

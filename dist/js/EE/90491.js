@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90491"]={"code":"90491","region":"Laanemaa","city":"Uuemoisa","latitude":58.93944,"longitude":23.58944}}(window,'GeoPostal','EE');

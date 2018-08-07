@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96010"]={"code":"96010","region":"California","city":"Big Bar","latitude":40.91496,"longitude":-123.25745}}(window,'GeoPostal','US');

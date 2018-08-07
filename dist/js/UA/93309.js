@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93309"]={"code":"93309","region":"Luhanska oblast","city":"Popasnaya","latitude":48.63328,"longitude":38.37804}}(window,'GeoPostal','UA');

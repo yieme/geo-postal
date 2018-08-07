@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["444710"]={"code":"444710","region":"Maharashtra","city":"Dattapur","latitude":20.76667,"longitude":78.16667}}(window,'GeoPostal','IN');

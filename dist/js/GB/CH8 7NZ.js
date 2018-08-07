@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH8 7NZ"]={"code":"CH8 7NZ","region":"Wales","city":"Holywell","latitude":53.27466,"longitude":-3.22895}}(window,'GeoPostal','GB');

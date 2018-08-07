@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["200"]={"code":"200","region":"Keelung","city":"Keelung","latitude":25.12825,"longitude":121.7419}}(window,'GeoPostal','TW');

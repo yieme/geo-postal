@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19004"]={"code":"19004","region":"Zacapa","city":"Gualan","latitude":15.13333,"longitude":-89.36667}}(window,'GeoPostal','GT');

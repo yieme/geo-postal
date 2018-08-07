@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49617"]={"code":"49617","region":"Michigan","city":"Beulah","latitude":44.63194,"longitude":-86.09092}}(window,'GeoPostal','US');

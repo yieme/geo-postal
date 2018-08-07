@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17829"]={"code":"17829","region":"PA","city":"Hartleton","latitude":40.9005,"longitude":-77.1558}}(window,'GeoPostal','US');

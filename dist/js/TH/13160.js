@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13160"]={"code":"13160","region":"Phra Nakhon Si Ayutthaya","city":"Bang Pa-in","latitude":14.22728,"longitude":100.57879}}(window,'GeoPostal','TH');

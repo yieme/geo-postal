@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03442"]={"code":"03442","region":"NH","city":"Bennington","latitude":43.0103,"longitude":-71.9153}}(window,'GeoPostal','US');

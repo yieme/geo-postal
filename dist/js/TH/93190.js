@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93190"]={"code":"93190","region":"Phatthalung","city":"Si Banphot","latitude":7.72136,"longitude":99.8843}}(window,'GeoPostal','TH');

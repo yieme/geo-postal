@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["072 31"]={"code":"072 31","region":"Kosicky kraj","city":"Vinne","latitude":48.80965,"longitude":21.96757}}(window,'GeoPostal','SK');

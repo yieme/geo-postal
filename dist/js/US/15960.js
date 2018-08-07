@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15960"]={"code":"15960","region":"PA","city":"Twin Rocks","latitude":40.4967,"longitude":-78.8659}}(window,'GeoPostal','US');

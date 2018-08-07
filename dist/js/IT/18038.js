@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18038"]={"code":"18038","region":"Liguria","city":"San Remo","latitude":43.81725,"longitude":7.7772}}(window,'GeoPostal','IT');

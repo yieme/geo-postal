@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59711"]={"code":"59711","region":"Michoacan de Ocampo","city":"Ario de Rayon","latitude":20.03333,"longitude":-102.35}}(window,'GeoPostal','MX');

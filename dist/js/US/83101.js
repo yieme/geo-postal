@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83101"]={"code":"83101","region":"Wyoming","city":"Kemmerer","latitude":41.79245,"longitude":-110.53767}}(window,'GeoPostal','US');

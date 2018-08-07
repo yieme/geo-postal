@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49922"]={"code":"49922","region":"Michigan","city":"Dollar Bay","latitude":47.11965,"longitude":-88.51151}}(window,'GeoPostal','US');

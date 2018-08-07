@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 3L0"]={"code":"G0X 3L0","region":"Quebec","city":"Yamachiche","latitude":46.26676,"longitude":-72.83243}}(window,'GeoPostal','CA');

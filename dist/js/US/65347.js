@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65347"]={"code":"65347","region":"MO","city":"Nelson","latitude":39.0104,"longitude":-93.0311}}(window,'GeoPostal','US');

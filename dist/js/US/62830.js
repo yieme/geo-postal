@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62830"]={"code":"62830","region":"Illinois","city":"Dix","latitude":38.442335,"longitude":-88.938498}}(window,'GeoPostal','US');

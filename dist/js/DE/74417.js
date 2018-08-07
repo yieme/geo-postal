@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74417"]={"code":"74417","region":"Baden-Wurttemberg","city":"Gschwend","latitude":48.93333,"longitude":9.74436}}(window,'GeoPostal','DE');

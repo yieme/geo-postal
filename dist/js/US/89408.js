@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89408"]={"code":"89408","region":"Nevada","city":"Fernley","latitude":39.598128,"longitude":-119.231669}}(window,'GeoPostal','US');

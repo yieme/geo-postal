@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245700"]={"code":"245700","region":"Valcea","city":"Dragasani","latitude":44.65,"longitude":24.26667}}(window,'GeoPostal','RO');

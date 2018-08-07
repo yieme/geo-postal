@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35901"]={"code":"35901","region":"Alabama","city":"Gadsden","latitude":34.01426,"longitude":-86.00664}}(window,'GeoPostal','US');

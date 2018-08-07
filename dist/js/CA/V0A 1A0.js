@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0A 1A0"]={"code":"V0A 1A0","region":"British Columbia","city":"Athalmer","latitude":50.51666,"longitude":-116.01877}}(window,'GeoPostal','CA');

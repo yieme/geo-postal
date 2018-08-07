@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B91 3GZ"]={"code":"B91 3GZ","region":"England","city":"Olton","latitude":52.43834,"longitude":-1.80506}}(window,'GeoPostal','GB');

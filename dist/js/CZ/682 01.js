@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682 01"]={"code":"682 01","region":"Jihomoravsky kraj","city":"Vyskov","latitude":49.27747,"longitude":16.99897}}(window,'GeoPostal','CZ');

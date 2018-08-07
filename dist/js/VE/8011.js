@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8011"]={"code":"8011","region":"Bolivar","city":"Santa Elena de Uairen","latitude":4.602177,"longitude":-61.111243}}(window,'GeoPostal','VE');

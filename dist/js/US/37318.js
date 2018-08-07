@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37318"]={"code":"37318","region":"TN","city":"Cowan","latitude":35.1783,"longitude":-86.0167}}(window,'GeoPostal','US');

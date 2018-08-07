@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21027"]={"code":"21027","region":"Lombardia","city":"Ispra","latitude":45.8148,"longitude":8.61294}}(window,'GeoPostal','IT');

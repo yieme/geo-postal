@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27552"]={"code":"27552","region":"NC","city":"Mamers","latitude":35.4168,"longitude":-78.9334}}(window,'GeoPostal','US');

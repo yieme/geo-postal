@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 9AQ"]={"code":"NE65 9AQ","region":"England","city":"Guyzance","latitude":55.32889,"longitude":-1.6693}}(window,'GeoPostal','GB');

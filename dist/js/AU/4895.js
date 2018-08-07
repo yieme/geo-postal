@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4895"]={"code":"4895","region":"Queensland","city":"Endeavour","latitude":-15.41667,"longitude":145.08333}}(window,'GeoPostal','AU');

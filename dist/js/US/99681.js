@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99681"]={"code":"99681","region":"Alaska","city":"Tununak","latitude":60.58056,"longitude":-165.25944}}(window,'GeoPostal','US');

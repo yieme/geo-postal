@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29590"]={"code":"29590","region":"South Carolina","city":"Salters","latitude":33.564869,"longitude":-79.826889}}(window,'GeoPostal','US');

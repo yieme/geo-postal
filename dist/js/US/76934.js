@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76934"]={"code":"76934","region":"TX","city":"Carlsbad","latitude":31.6266,"longitude":-100.6694}}(window,'GeoPostal','US');

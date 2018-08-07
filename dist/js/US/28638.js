@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28638"]={"code":"28638","region":"NC","city":"Hudson","latitude":35.8403,"longitude":-81.4897}}(window,'GeoPostal','US');

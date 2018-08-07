@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7840"]={"code":"7840","region":"Midtjylland","city":"Stoholm","latitude":56.48454,"longitude":9.14617}}(window,'GeoPostal','DK');

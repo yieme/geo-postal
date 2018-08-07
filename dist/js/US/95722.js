@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95722"]={"code":"95722","region":"CA","city":"Meadow Vista","latitude":39.0031,"longitude":-121.0292}}(window,'GeoPostal','US');

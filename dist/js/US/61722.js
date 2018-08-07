@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61722"]={"code":"61722","region":"IL","city":"Arrowsmith","latitude":40.412,"longitude":-88.6296}}(window,'GeoPostal','US');

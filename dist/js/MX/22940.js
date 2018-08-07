@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22940"]={"code":"22940","region":"Baja California","city":"San Quintin","latitude":30.48333,"longitude":-115.95}}(window,'GeoPostal','MX');

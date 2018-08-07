@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 2H0"]={"code":"S0A 2H0","region":"Saskatchewan","city":"Lintlaw","latitude":52.06668,"longitude":-103.23428}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90000"]={"code":"90000","region":"Uva Province","city":"Badulla","latitude":6.9895,"longitude":81.0557}}(window,'GeoPostal','LK');

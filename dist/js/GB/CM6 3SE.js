@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM6 3SE"]={"code":"CM6 3SE","region":"England","city":"Stebbing","latitude":51.89111,"longitude":0.41422}}(window,'GeoPostal','GB');

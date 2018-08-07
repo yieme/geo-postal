@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72450"]={"code":"72450","region":"Arkansas","city":"Paragould","latitude":36.057223,"longitude":-90.501511}}(window,'GeoPostal','US');

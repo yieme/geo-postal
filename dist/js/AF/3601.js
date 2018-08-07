@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3601"]={"code":"3601","region":"Baghlan","city":"Pul-e Khumri","latitude":35.94458,"longitude":68.71512}}(window,'GeoPostal','AF');

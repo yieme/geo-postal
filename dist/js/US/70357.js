@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70357"]={"code":"70357","region":"Louisiana","city":"Golden Meadow","latitude":29.37911,"longitude":-90.26008}}(window,'GeoPostal','US');

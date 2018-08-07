@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30471"]={"code":"30471","region":"GA","city":"Twin City","latitude":32.6129,"longitude":-82.1979}}(window,'GeoPostal','US');

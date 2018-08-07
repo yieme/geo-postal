@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7100"]={"code":"7100","region":"Le Kef","city":"El Kef","latitude":36.17424,"longitude":8.70486}}(window,'GeoPostal','TN');

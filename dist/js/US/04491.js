@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04491"]={"code":"04491","region":"ME","city":"Vanceboro","latitude":45.5634,"longitude":-67.4297}}(window,'GeoPostal','US');

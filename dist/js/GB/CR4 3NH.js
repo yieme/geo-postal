@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CR4 3NH"]={"code":"CR4 3NH","region":"England","city":"Mitcham","latitude":51.40474,"longitude":-0.16404}}(window,'GeoPostal','GB');

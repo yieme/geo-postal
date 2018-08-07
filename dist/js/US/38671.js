@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38671"]={"code":"38671","region":"Mississippi","city":"Southaven","latitude":34.975557,"longitude":-89.995144}}(window,'GeoPostal','US');

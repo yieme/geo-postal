@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW15 1LE"]={"code":"KW15 1LE","region":"Scotland","city":"Orkney","latitude":58.98465,"longitude":-2.95953}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27121"]={"code":"27121","region":"Sumatera Barat","city":"Padangpanjang","latitude":-0.46721,"longitude":100.40226}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65026"]={"code":"65026","region":"Missouri","city":"Eldon","latitude":38.34836,"longitude":-92.58158}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55784"]={"code":"55784","region":"MN","city":"Swan River","latitude":47.0739,"longitude":-93.1964}}(window,'GeoPostal','US');

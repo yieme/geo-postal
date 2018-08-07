@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98553"]={"code":"98553","region":"Thuringen","city":"Ahlstadt","latitude":50.53333,"longitude":10.68333}}(window,'GeoPostal','DE');

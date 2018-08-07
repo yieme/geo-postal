@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2712"]={"code":"2712","region":"New South Wales","city":"Berrigan","latitude":-35.65879,"longitude":145.81145}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613112"]={"code":"613112","region":"Kirovskaya oblast'","city":"Stulovo","latitude":58.7225,"longitude":50.14389}}(window,'GeoPostal','RU');

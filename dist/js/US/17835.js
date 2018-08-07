@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17835"]={"code":"17835","region":"Pennsylvania","city":"Laurelton","latitude":40.952237,"longitude":-77.194547}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29471"]={"code":"29471","region":"SC","city":"Reevesville","latitude":33.1872,"longitude":-80.6672}}(window,'GeoPostal','US');

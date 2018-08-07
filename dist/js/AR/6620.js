@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6620"]={"code":"6620","region":"Buenos Aires","city":"Chivilcoy","latitude":-34.89566,"longitude":-60.01667}}(window,'GeoPostal','AR');

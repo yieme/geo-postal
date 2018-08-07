@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30412"]={"code":"30412","region":"Georgia","city":"Alston","latitude":32.080515,"longitude":-82.479623}}(window,'GeoPostal','US');

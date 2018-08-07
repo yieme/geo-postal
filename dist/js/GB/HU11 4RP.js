@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU11 4RP"]={"code":"HU11 4RP","region":"England","city":"Aldbrough","latitude":53.82893,"longitude":-0.11467}}(window,'GeoPostal','GB');

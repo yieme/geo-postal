@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07024"]={"code":"07024","region":"New Jersey","city":"Fort Lee","latitude":40.84884,"longitude":-73.97358}}(window,'GeoPostal','US');

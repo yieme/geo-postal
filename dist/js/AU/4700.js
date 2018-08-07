@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4700"]={"code":"4700","region":"Queensland","city":"Rockhampton","latitude":-23.38032,"longitude":150.50595}}(window,'GeoPostal','AU');

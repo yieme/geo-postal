@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31065"]={"code":"31065","region":"GA","city":"Montrose","latitude":32.5619,"longitude":-83.1601}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77879"]={"code":"77879","region":"Ile-de-France","city":"Montereau-Fault-Yonne","latitude":48.38333,"longitude":2.95}}(window,'GeoPostal','FR');

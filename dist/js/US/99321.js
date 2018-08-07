@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99321"]={"code":"99321","region":"Washington","city":"Beverly","latitude":46.83667,"longitude":-119.93306}}(window,'GeoPostal','US');

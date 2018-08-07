@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23770"]={"code":"23770","region":"Andalucia","city":"Marmolejo","latitude":38.04549,"longitude":-4.17029}}(window,'GeoPostal','ES');

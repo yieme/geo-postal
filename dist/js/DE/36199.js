@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36199"]={"code":"36199","region":"Hessen","city":"Erkshausen","latitude":51.0348,"longitude":9.76635}}(window,'GeoPostal','DE');

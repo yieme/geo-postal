@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64130"]={"code":"64130","region":"Sukhothai","city":"Si Satchanalai","latitude":17.51692,"longitude":99.75978}}(window,'GeoPostal','TH');

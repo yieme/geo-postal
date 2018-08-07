@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4247"]={"code":"4247","region":"Gorje","city":"Zgornje Gorje","latitude":46.3796,"longitude":14.0694}}(window,'GeoPostal','SI');

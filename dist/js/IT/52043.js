@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52043"]={"code":"52043","region":"Toscana","city":"Castiglion Fiorentino","latitude":43.34284,"longitude":11.91804}}(window,'GeoPostal','IT');

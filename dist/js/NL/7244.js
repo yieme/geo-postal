@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7244"]={"code":"7244","region":"Gelderland","city":"Barchem","latitude":52.12417,"longitude":6.44306}}(window,'GeoPostal','NL');

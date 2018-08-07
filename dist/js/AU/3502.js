@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3502"]={"code":"3502","region":"Victoria","city":"Mildura","latitude":-34.18551,"longitude":142.16251}}(window,'GeoPostal','AU');

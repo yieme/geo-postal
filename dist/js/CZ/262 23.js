@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262 23"]={"code":"262 23","region":"Stredocesky kraj","city":"Mnisek pod Brdy","latitude":49.8665,"longitude":14.26176}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13832"]={"code":"13832","region":"NY","city":"Plymouth","latitude":42.6336,"longitude":-75.6172}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17262"]={"code":"17262","region":"PA","city":"Spring Run","latitude":40.1734,"longitude":-77.7092}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17073"]={"code":"17073","region":"Pennsylvania","city":"Palmyra","latitude":40.30872,"longitude":-76.2528}}(window,'GeoPostal','US');

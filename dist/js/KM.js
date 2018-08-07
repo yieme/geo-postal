@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["KM"]={id:'KM',country:'Comoros', postal:{'':{code:'',region:'Grande Comore',city:'Moroni',latitude:-11.70216,longitude:43.25506}}};

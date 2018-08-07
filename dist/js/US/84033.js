@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84033"]={"code":"84033","region":"UT","city":"Henefer","latitude":41.0186,"longitude":-111.5011}}(window,'GeoPostal','US');

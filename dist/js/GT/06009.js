@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06009"]={"code":"06009","region":"Santa Rosa","city":"Taxisco","latitude":14.07083,"longitude":-90.46306}}(window,'GeoPostal','GT');

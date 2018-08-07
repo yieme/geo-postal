@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3551"]={"code":"3551","region":"Victoria","city":"Bagshot","latitude":-36.65,"longitude":144.41667}}(window,'GeoPostal','AU');

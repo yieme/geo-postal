@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12175"]={"code":"12175","region":"NY","city":"Summit","latitude":42.535,"longitude":-74.5452}}(window,'GeoPostal','US');

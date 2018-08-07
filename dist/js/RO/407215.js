@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407215"]={"code":"407215","region":"Cluj","city":"Dosu Biricii","latitude":47.3,"longitude":23.88333}}(window,'GeoPostal','RO');

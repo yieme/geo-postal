@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM6 3QR"]={"code":"CM6 3QR","region":"England","city":"Lindsell","latitude":51.91722,"longitude":0.38813}}(window,'GeoPostal','GB');

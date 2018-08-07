@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24588"]={"code":"24588","region":"Virginia","city":"Rustburg","latitude":37.295478,"longitude":-79.148105}}(window,'GeoPostal','US');

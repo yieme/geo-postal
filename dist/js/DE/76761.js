@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76761"]={"code":"76761","region":"Rheinland-Pfalz","city":"Rulzheim","latitude":49.16278,"longitude":8.28583}}(window,'GeoPostal','DE');

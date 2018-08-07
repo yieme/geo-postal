@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA37 1PH"]={"code":"PA37 1PH","region":"Scotland","city":"Connel","latitude":56.45426,"longitude":-5.38764}}(window,'GeoPostal','GB');

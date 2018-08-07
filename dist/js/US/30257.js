@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30257"]={"code":"30257","region":"GA","city":"Milner","latitude":33.141,"longitude":-84.1759}}(window,'GeoPostal','US');

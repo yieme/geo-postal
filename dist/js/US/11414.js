@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11414"]={"code":"11414","region":"NY","city":"Howard Beach","latitude":40.6588,"longitude":-73.8438}}(window,'GeoPostal','US');

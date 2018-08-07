@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00780"]={"code":"00780","region":"PR","city":"Coto Laurel","latitude":18.09,"longitude":-66.57}}(window,'GeoPostal','US');

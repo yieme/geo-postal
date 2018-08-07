@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48455"]={"code":"48455","region":"Niedersachsen","city":"Bentheim","latitude":52.30078,"longitude":7.16031}}(window,'GeoPostal','DE');

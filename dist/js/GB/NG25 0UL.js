@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG25 0UL"]={"code":"NG25 0UL","region":"England","city":"Fiskerton","latitude":53.05205,"longitude":-0.90268}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5330"]={"code":"5330","region":"Aargau","city":"Bad Zurzach","latitude":47.58764,"longitude":8.29365}}(window,'GeoPostal','CH');

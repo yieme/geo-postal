@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85445"]={"code":"85445","region":"Bayern","city":"Oberding","latitude":48.31667,"longitude":11.85}}(window,'GeoPostal','DE');

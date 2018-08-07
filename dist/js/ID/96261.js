@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96261"]={"code":"96261","region":"Gorontalo","city":"Molobulahe","latitude":0.6326,"longitude":122.5748}}(window,'GeoPostal','ID');

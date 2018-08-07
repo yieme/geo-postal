@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91-463"]={"code":"91-463","region":"Lodzkie","city":"Lodz","latitude":51.75,"longitude":19.46667}}(window,'GeoPostal','PL');

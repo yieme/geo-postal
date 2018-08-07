@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72585"]={"code":"72585","region":"AR","city":"Wideman","latitude":36.1865,"longitude":-92.0088}}(window,'GeoPostal','US');

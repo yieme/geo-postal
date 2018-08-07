@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69850-000"]={"code":"69850-000","region":"Amazonas","city":"Boca do Acre","latitude":-8.75222,"longitude":-67.39778}}(window,'GeoPostal','BR');

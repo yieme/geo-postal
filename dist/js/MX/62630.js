@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62630"]={"code":"62630","region":"Morelos","city":"Mazatepec","latitude":18.71667,"longitude":-99.35}}(window,'GeoPostal','MX');

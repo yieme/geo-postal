@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93570"]={"code":"93570","region":"Veracruz de Ignacio de la Llave","city":"Tecolutla","latitude":20.48333,"longitude":-97.01667}}(window,'GeoPostal','MX');

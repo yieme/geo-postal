@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517112"]={"code":"517112","region":"Andhra Pradesh","city":"Pakala","latitude":13.46667,"longitude":79.11667}}(window,'GeoPostal','IN');

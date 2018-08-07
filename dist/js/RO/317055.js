@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317055"]={"code":"317055","region":"Arad","city":"Bocsig","latitude":46.41667,"longitude":21.95}}(window,'GeoPostal','RO');

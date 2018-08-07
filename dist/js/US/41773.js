@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41773"]={"code":"41773","region":"Kentucky","city":"Vicco","latitude":37.159773,"longitude":-83.095334}}(window,'GeoPostal','US');

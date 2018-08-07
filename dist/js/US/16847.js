@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16847"]={"code":"16847","region":"PA","city":"Kylertown","latitude":40.9934,"longitude":-78.1672}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73094"]={"code":"73094","region":"Auvergne-Rhone-Alpes","city":"Chambery","latitude":45.56667,"longitude":5.93333}}(window,'GeoPostal','FR');

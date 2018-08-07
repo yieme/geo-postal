@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2207"]={"code":"2207","region":"New South Wales","city":"Bexley","latitude":-33.95,"longitude":151.11667}}(window,'GeoPostal','AU');

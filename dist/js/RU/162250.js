@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162250"]={"code":"162250","region":"Vologodskaya oblast'","city":"Kharovsk","latitude":59.96425,"longitude":40.19121}}(window,'GeoPostal','RU');

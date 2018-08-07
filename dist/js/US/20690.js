@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20690"]={"code":"20690","region":"MD","city":"Tall Timbers","latitude":38.1653,"longitude":-76.5399}}(window,'GeoPostal','US');

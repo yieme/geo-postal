@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83834"]={"code":"83834","region":"ID","city":"Harvard","latitude":46.9376,"longitude":-116.7025}}(window,'GeoPostal','US');

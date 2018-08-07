@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32602"]={"code":"32602","region":"Khmelnytska oblast","city":"Nova Ushytsya","latitude":48.83716,"longitude":27.27434}}(window,'GeoPostal','UA');

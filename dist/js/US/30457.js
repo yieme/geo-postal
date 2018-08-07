@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30457"]={"code":"30457","region":"GA","city":"Soperton","latitude":32.3869,"longitude":-82.5871}}(window,'GeoPostal','US');

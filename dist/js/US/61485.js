@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61485"]={"code":"61485","region":"Illinois","city":"Victoria","latitude":41.033427,"longitude":-90.096889}}(window,'GeoPostal','US');

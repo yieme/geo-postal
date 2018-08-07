@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2420"]={"code":"2420","region":"New South Wales","city":"Dungog","latitude":-32.40032,"longitude":151.75758}}(window,'GeoPostal','AU');

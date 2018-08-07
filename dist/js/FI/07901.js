@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07901"]={"code":"07901","region":"Uusimaa","city":"Lovisa","latitude":60.45659,"longitude":26.22505}}(window,'GeoPostal','FI');

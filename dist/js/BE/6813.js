@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6813"]={"code":"6813","region":"Luxembourg","city":"Chiny","latitude":49.73833,"longitude":5.34104}}(window,'GeoPostal','BE');

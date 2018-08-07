@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15101"]={"code":"15101","region":"Pennsylvania","city":"Allison Park","latitude":40.567621,"longitude":-79.969114}}(window,'GeoPostal','US');

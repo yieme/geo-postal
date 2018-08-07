@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47921"]={"code":"47921","region":"Indiana","city":"Boswell","latitude":40.51833,"longitude":-87.38139}}(window,'GeoPostal','US');

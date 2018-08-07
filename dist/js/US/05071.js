@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05071"]={"code":"05071","region":"VT","city":"South Woodstock","latitude":43.5601,"longitude":-72.5384}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28660"]={"code":"28660","region":"NC","city":"Olin","latitude":35.9593,"longitude":-80.8511}}(window,'GeoPostal','US');

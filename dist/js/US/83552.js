@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83552"]={"code":"83552","region":"Idaho","city":"Stites","latitude":46.09083,"longitude":-115.97639}}(window,'GeoPostal','US');

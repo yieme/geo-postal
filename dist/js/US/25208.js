@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25208"]={"code":"25208","region":"WV","city":"Wharton","latitude":37.9034,"longitude":-81.6773}}(window,'GeoPostal','US');

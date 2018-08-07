@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5282"]={"code":"5282","region":"Oberosterreich","city":"Braunau am Inn","latitude":48.25628,"longitude":13.04343}}(window,'GeoPostal','AT');

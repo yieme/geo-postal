@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22513"]={"code":"22513","region":"Virginia","city":"Merry Point","latitude":37.73389,"longitude":-76.4825}}(window,'GeoPostal','US');

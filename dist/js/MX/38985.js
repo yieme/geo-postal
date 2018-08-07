@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38985"]={"code":"38985","region":"Guanajuato","city":"Uriangato","latitude":20.15,"longitude":-101.18333}}(window,'GeoPostal','MX');

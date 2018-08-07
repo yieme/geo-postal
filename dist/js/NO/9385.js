@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9385"]={"code":"9385","region":"Troms","city":"Skaland","latitude":69.44456,"longitude":17.29832}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58211"]={"code":"58211","region":"Jawa Tengah","city":"Wonosari","latitude":-6.9516,"longitude":111.4335}}(window,'GeoPostal','ID');

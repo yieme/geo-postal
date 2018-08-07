@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18360-000"]={"code":"18360-000","region":"Sao Paulo","city":"Apiai","latitude":-24.50944,"longitude":-48.8425}}(window,'GeoPostal','BR');

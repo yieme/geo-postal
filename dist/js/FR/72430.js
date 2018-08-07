@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72430"]={"code":"72430","region":"Pays-de-la-Loire","city":"Noyen-sur-Sarthe","latitude":47.87187,"longitude":-0.09916}}(window,'GeoPostal','FR');

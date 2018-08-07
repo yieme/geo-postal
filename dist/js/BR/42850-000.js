@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42850-000"]={"code":"42850-000","region":"Bahia","city":"Mata de Sao Joao","latitude":-12.53028,"longitude":-38.29917}}(window,'GeoPostal','BR');

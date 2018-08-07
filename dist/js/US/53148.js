@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53148"]={"code":"53148","region":"WI","city":"Lyons","latitude":42.6487,"longitude":-88.359}}(window,'GeoPostal','US');

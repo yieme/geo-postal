@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95550"]={"code":"95550","region":"CA","city":"Korbel","latitude":40.7775,"longitude":-123.8486}}(window,'GeoPostal','US');

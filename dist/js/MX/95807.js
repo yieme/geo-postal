@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95807"]={"code":"95807","region":"Veracruz de Ignacio de la Llave","city":"San Andres Tuxtla","latitude":18.45,"longitude":-95.21667}}(window,'GeoPostal','MX');

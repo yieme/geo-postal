@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6110"]={"code":"6110","region":"Siliana","city":"Qa'fur","latitude":36.32045,"longitude":9.32424}}(window,'GeoPostal','TN');

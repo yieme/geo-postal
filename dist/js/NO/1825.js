@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1825"]={"code":"1825","region":"Ostfold","city":"Tomter","latitude":59.65,"longitude":11}}(window,'GeoPostal','NO');

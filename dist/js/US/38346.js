@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38346"]={"code":"38346","region":"TN","city":"Idlewild","latitude":36.0306,"longitude":-88.8056}}(window,'GeoPostal','US');

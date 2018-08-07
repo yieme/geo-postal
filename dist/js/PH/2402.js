@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2402"]={"code":"2402","region":"Pangasinan","city":"Dulig","latitude":16.00212,"longitude":120.16864}}(window,'GeoPostal','PH');

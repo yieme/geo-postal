@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9401"]={"code":"9401","region":"Cotabato","city":"Batasan","latitude":7.03333,"longitude":125.05}}(window,'GeoPostal','PH');

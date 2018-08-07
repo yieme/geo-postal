@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67333"]={"code":"67333","region":"Kansas","city":"Caney","latitude":37.01146,"longitude":-95.93526}}(window,'GeoPostal','US');

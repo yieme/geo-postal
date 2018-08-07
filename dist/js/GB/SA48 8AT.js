@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA48 8AT"]={"code":"SA48 8AT","region":"Wales","city":"Silian","latitude":52.14079,"longitude":-4.09177}}(window,'GeoPostal','GB');

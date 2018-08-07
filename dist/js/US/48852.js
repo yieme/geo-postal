@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48852"]={"code":"48852","region":"MI","city":"Mcbrides","latitude":43.3503,"longitude":-85.0517}}(window,'GeoPostal','US');

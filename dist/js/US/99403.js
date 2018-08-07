@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99403"]={"code":"99403","region":"Washington","city":"Clarkston","latitude":46.398333,"longitude":-117.066564}}(window,'GeoPostal','US');

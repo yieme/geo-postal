@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3230"]={"code":"3230","region":"Vratsa","city":"Knezha","latitude":43.5,"longitude":24.08333}}(window,'GeoPostal','BG');

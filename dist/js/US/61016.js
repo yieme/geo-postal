@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61016"]={"code":"61016","region":"IL","city":"Cherry Valley","latitude":42.2206,"longitude":-88.9619}}(window,'GeoPostal','US');

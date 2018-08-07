@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01450"]={"code":"01450","region":"Auvergne-Rhone-Alpes","city":"Poncin","latitude":46.08384,"longitude":5.40966}}(window,'GeoPostal','FR');

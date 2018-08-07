@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58745-000"]={"code":"58745-000","region":"Paraiba","city":"Imaculada","latitude":-7.38972,"longitude":-37.50917}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56142"]={"code":"56142","region":"Minnesota","city":"Ivanhoe","latitude":44.4633,"longitude":-96.24726}}(window,'GeoPostal','US');

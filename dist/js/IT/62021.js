@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62021"]={"code":"62021","region":"Marche","city":"Apiro","latitude":43.38996,"longitude":13.13147}}(window,'GeoPostal','IT');

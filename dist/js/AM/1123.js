@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1123"]={"code":"1123","region":"Aragacotn","city":"Norakert","latitude":40.19229,"longitude":44.34774}}(window,'GeoPostal','AM');

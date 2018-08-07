@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301470"]={"code":"301470","region":"Tul'skaya oblast'","city":"Plavsk","latitude":53.70944,"longitude":37.29194}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517321"]={"code":"517321","region":"Guangdong","city":"Sidu","latitude":24.21639,"longitude":115.265}}(window,'GeoPostal','CN');

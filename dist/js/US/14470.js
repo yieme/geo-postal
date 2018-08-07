@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14470"]={"code":"14470","region":"New York","city":"Holley","latitude":43.22645,"longitude":-78.02668}}(window,'GeoPostal','US');

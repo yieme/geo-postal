@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95603"]={"code":"95603","region":"California","city":"Auburn","latitude":38.92182,"longitude":-121.09812}}(window,'GeoPostal','US');

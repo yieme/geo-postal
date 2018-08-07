@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69060"]={"code":"69060","region":"Zaporizka oblast","city":"Zaporizhzhya","latitude":47.82289,"longitude":35.19031}}(window,'GeoPostal','UA');

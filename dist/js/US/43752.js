@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43752"]={"code":"43752","region":"Ohio","city":"Laings","latitude":39.716944,"longitude":-81.0125}}(window,'GeoPostal','US');

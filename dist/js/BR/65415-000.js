@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65415-000"]={"code":"65415-000","region":"Maranhao","city":"Coroata","latitude":-4.13,"longitude":-44.12417}}(window,'GeoPostal','BR');

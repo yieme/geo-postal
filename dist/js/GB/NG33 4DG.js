@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG33 4DG"]={"code":"NG33 4DG","region":"England","city":"Boothby Pagnell","latitude":52.86737,"longitude":-0.55859}}(window,'GeoPostal','GB');

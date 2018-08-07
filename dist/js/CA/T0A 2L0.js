@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 2L0"]={"code":"T0A 2L0","region":"Alberta","city":"Rich Lake","latitude":54.50019,"longitude":-111.61857}}(window,'GeoPostal','CA');

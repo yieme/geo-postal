@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52072"]={"code":"52072","region":"Dnipropetrovska oblast","city":"Kaydaki","latitude":48.37678,"longitude":35.12398}}(window,'GeoPostal','UA');

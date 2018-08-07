@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DY8 5ST"]={"code":"DY8 5ST","region":"England","city":"Ridge Hill","latitude":51.9974,"longitude":-2.5396}}(window,'GeoPostal','GB');

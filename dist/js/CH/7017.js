@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7017"]={"code":"7017","region":"Zurich","city":"Dorf","latitude":47.23715,"longitude":8.73999}}(window,'GeoPostal','CH');

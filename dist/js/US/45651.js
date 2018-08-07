@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45651"]={"code":"45651","region":"OH","city":"Mc Arthur","latitude":39.28,"longitude":-82.4753}}(window,'GeoPostal','US');

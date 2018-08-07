@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77184"]={"code":"77184","region":"Ile-de-France","city":"Emerainville","latitude":48.81276,"longitude":2.62139}}(window,'GeoPostal','FR');

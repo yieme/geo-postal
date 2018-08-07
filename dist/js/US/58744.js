@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58744"]={"code":"58744","region":"North Dakota","city":"Karlsruhe","latitude":48.136843,"longitude":-100.490132}}(window,'GeoPostal','US');

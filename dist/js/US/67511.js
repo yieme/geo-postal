@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67511"]={"code":"67511","region":"KS","city":"Albert","latitude":38.4528,"longitude":-99.0115}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["611 00"]={"code":"611 00","region":"Kentriki Makedonia","city":"Kilkis","latitude":40.99194,"longitude":22.87083}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J2B 6X1"]={"code":"J2B 6X1","region":"Quebec","city":"Drummondville","latitude":45.879208,"longitude":-72.48142}}(window,'GeoPostal','CA');

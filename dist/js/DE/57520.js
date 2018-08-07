@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57520"]={"code":"57520","region":"Rheinland-Pfalz","city":"Daaden","latitude":50.73333,"longitude":7.96667}}(window,'GeoPostal','DE');

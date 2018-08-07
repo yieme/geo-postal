@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134512"]={"code":"134512","region":"Jilin","city":"Manjiang","latitude":41.94756,"longitude":127.59084}}(window,'GeoPostal','CN');

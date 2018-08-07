@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84023"]={"code":"84023","region":"Utah","city":"Dutch John","latitude":40.93,"longitude":-109.38611}}(window,'GeoPostal','US');

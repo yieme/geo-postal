@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356200"]={"code":"356200","region":"Stavropol'skiy kray","city":"Pelagiada","latitude":45.20639,"longitude":42.02361}}(window,'GeoPostal','RU');

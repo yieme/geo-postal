@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09899"]={"code":"09899","region":"Ciudad de Mexico","city":"Benito Juarez","latitude":19.385,"longitude":-99.165}}(window,'GeoPostal','MX');

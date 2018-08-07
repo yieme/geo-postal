@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17033"]={"code":"17033","region":"Mecklenburg-Vorpommern","city":"Neubrandenburg","latitude":53.56414,"longitude":13.27532}}(window,'GeoPostal','DE');

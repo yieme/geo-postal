@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59830"]={"code":"59830","region":"Montana","city":"De Borgia","latitude":47.391364,"longitude":-115.348674}}(window,'GeoPostal','US');

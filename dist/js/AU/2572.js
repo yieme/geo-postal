@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2572"]={"code":"2572","region":"New South Wales","city":"Lakesland","latitude":-34.16667,"longitude":150.53333}}(window,'GeoPostal','AU');

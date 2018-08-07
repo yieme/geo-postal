@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36255"]={"code":"36255","region":"Centre-Val de Loire","city":"Saint-Maur","latitude":46.80657,"longitude":1.63904}}(window,'GeoPostal','FR');

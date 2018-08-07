@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94014"]={"code":"94014","region":"Sicilia","city":"Nicosia","latitude":37.74745,"longitude":14.39727}}(window,'GeoPostal','IT');

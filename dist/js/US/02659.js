@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02659"]={"code":"02659","region":"MA","city":"South Chatham","latitude":41.6801,"longitude":-70.0241}}(window,'GeoPostal','US');

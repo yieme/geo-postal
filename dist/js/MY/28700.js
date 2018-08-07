@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28700"]={"code":"28700","region":"Pahang","city":"Bentong Town","latitude":3.51667,"longitude":101.9}}(window,'GeoPostal','MY');

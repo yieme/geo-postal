@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99154"]={"code":"99154","region":"WA","city":"Mohler","latitude":47.3897,"longitude":-118.3659}}(window,'GeoPostal','US');

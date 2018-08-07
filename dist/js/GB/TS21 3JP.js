@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS21 3JP"]={"code":"TS21 3JP","region":"England","city":"Thorpe Thewles","latitude":54.6041,"longitude":-1.3806}}(window,'GeoPostal','GB');

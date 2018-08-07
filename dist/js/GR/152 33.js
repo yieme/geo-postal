@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152 33"]={"code":"152 33","region":"Attiki","city":"Khalandrion","latitude":38.03058,"longitude":23.79793}}(window,'GeoPostal','GR');

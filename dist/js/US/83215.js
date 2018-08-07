@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83215"]={"code":"83215","region":"Idaho","city":"Atomic City","latitude":43.444285,"longitude":-112.81255}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32252"]={"code":"32252","region":"Taza-Al Hoceima-Taounate","city":"Imzourene","latitude":35.15,"longitude":-3.86}}(window,'GeoPostal','MA');

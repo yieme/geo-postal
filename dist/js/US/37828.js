@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37828"]={"code":"37828","region":"Tennessee","city":"Norris","latitude":36.19563,"longitude":-84.06797}}(window,'GeoPostal','US');

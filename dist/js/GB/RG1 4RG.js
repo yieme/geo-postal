@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG1 4RG"]={"code":"RG1 4RG","region":"England","city":"Basing","latitude":51.26667,"longitude":-1.03333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13331"]={"code":"13331","region":"New York","city":"Eagle Bay","latitude":43.768611,"longitude":-74.816944}}(window,'GeoPostal','US');

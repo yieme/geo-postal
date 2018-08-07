@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["390531"]={"code":"390531","region":"Ryazanskaya oblast'","city":"Solotcha","latitude":54.7897,"longitude":39.83336}}(window,'GeoPostal','RU');

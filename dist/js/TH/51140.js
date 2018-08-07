@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51140"]={"code":"51140","region":"Lamphun","city":"Mae Tha","latitude":18.46456,"longitude":99.14026}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60046"]={"code":"60046","region":"Illinois","city":"Lindenhurst","latitude":42.41112,"longitude":-88.06464}}(window,'GeoPostal','US');

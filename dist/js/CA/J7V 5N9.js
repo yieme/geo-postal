@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J7V 5N9"]={"code":"J7V 5N9","region":"Quebec","city":"Terrasse-Vaudreuil","latitude":45.388556,"longitude":-73.993679}}(window,'GeoPostal','CA');

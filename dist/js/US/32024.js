@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32024"]={"code":"32024","region":"Florida","city":"Lake City","latitude":30.18968,"longitude":-82.63929}}(window,'GeoPostal','US');

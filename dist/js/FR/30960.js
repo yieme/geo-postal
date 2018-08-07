@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30960"]={"code":"30960","region":"Occitanie","city":"Les Mages","latitude":44.22862,"longitude":4.16946}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53036"]={"code":"53036","region":"Wisconsin","city":"Ixonia","latitude":43.135767,"longitude":-88.583219}}(window,'GeoPostal','US');

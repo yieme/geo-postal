@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40885"]={"code":"40885","region":"Nordrhein-Westfalen","city":"Lintorf","latitude":51.3368,"longitude":6.83122}}(window,'GeoPostal','DE');

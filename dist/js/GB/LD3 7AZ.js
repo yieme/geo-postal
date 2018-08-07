@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD3 7AZ"]={"code":"LD3 7AZ","region":"Wales","city":"Llanfrynach","latitude":51.92291,"longitude":-3.34736}}(window,'GeoPostal','GB');

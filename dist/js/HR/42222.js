@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42222"]={"code":"42222","region":"Varazdinska zupanija","city":"Ljubescica","latitude":46.16667,"longitude":16.38333}}(window,'GeoPostal','HR');

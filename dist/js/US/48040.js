@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48040"]={"code":"48040","region":"Michigan","city":"Marysville","latitude":42.914681,"longitude":-82.481782}}(window,'GeoPostal','US');

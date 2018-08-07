@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43007"]={"code":"43007","region":"OH","city":"Broadway","latitude":40.3406,"longitude":-83.4163}}(window,'GeoPostal','US');

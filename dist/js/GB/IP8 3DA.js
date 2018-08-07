@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP8 3DA"]={"code":"IP8 3DA","region":"England","city":"Sproughton","latitude":52.06233,"longitude":1.09499}}(window,'GeoPostal','GB');

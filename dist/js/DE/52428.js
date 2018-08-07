@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52428"]={"code":"52428","region":"Nordrhein-Westfalen","city":"Julich","latitude":50.9227,"longitude":6.36395}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19474"]={"code":"19474","region":"PA","city":"Skippack","latitude":40.2251,"longitude":-75.4031}}(window,'GeoPostal','US');

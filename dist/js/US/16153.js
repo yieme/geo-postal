@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16153"]={"code":"16153","region":"PA","city":"Stoneboro","latitude":41.3439,"longitude":-80.0976}}(window,'GeoPostal','US');

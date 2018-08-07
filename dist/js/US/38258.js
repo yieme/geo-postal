@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38258"]={"code":"38258","region":"Tennessee","city":"Trezevant","latitude":36.031154,"longitude":-88.600232}}(window,'GeoPostal','US');

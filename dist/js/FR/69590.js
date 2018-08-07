@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69590"]={"code":"69590","region":"Auvergne-Rhone-Alpes","city":"Coise","latitude":45.6144,"longitude":4.4742}}(window,'GeoPostal','FR');

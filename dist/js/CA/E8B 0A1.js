@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E8B 0A1"]={"code":"E8B 0A1","region":"New Brunswick","city":"Kedgwick","latitude":47.64457,"longitude":-67.34344}}(window,'GeoPostal','CA');

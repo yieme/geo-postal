@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673-1302"]={"code":"673-1302","region":"Hyogo","city":"Kato","latitude":34.917,"longitude":134.967}}(window,'GeoPostal','JP');

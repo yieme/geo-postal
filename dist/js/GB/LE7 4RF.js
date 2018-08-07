@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE7 4RF"]={"code":"LE7 4RF","region":"England","city":"Barsby","latitude":52.69549,"longitude":-0.96801}}(window,'GeoPostal','GB');

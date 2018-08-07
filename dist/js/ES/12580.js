@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12580"]={"code":"12580","region":"Valenciana, Comunidad","city":"Benicarlo","latitude":40.4165,"longitude":0.42709}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31097"]={"code":"31097","region":"GA","city":"Yatesville","latitude":32.9156,"longitude":-84.1593}}(window,'GeoPostal','US');

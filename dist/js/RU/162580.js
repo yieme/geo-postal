@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162580"]={"code":"162580","region":"Vologodskaya oblast'","city":"Chebsara","latitude":59.20016,"longitude":38.83556}}(window,'GeoPostal','RU');

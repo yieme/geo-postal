@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13853"]={"code":"13853","region":"Piemonte","city":"Lessona","latitude":45.58516,"longitude":8.19512}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7341"]={"code":"7341","region":"Sor-Trondelag","city":"Oppdal","latitude":62.59431,"longitude":9.6912}}(window,'GeoPostal','NO');

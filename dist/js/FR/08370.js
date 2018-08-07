@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08370"]={"code":"08370","region":"Grand-Est","city":"Margut","latitude":49.585,"longitude":5.2614}}(window,'GeoPostal','FR');

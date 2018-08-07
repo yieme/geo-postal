@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN17 3SA"]={"code":"DN17 3SA","region":"England","city":"Messingham","latitude":53.52828,"longitude":-0.65385}}(window,'GeoPostal','GB');

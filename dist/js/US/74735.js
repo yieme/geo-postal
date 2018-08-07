@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74735"]={"code":"74735","region":"Oklahoma","city":"Fort Towson","latitude":34.045904,"longitude":-95.256809}}(window,'GeoPostal','US');

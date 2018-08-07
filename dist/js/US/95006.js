@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95006"]={"code":"95006","region":"California","city":"Boulder Creek","latitude":37.147293,"longitude":-122.129234}}(window,'GeoPostal','US');

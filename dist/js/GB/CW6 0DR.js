@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW6 0DR"]={"code":"CW6 0DR","region":"England","city":"Tarporley","latitude":53.15918,"longitude":-2.66867}}(window,'GeoPostal','GB');

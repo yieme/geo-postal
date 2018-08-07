@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1Y 0A5"]={"code":"B1Y 0A5","region":"Nova Scotia","city":"Millville","latitude":44.99631,"longitude":-64.81753}}(window,'GeoPostal','CA');

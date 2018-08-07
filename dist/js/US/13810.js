@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13810"]={"code":"13810","region":"NY","city":"Mount Vision","latitude":42.6068,"longitude":-75.1264}}(window,'GeoPostal','US');

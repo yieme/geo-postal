@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4075"]={"code":"4075","region":"Queensland","city":"Sherwood","latitude":-27.52471,"longitude":152.98067}}(window,'GeoPostal','AU');

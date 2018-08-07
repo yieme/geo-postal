@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS40 9YE"]={"code":"BS40 9YE","region":"England","city":"Felton","latitude":51.38889,"longitude":-2.68278}}(window,'GeoPostal','GB');

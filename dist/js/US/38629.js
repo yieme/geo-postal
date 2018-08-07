@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38629"]={"code":"38629","region":"Mississippi","city":"Falkner","latitude":34.84361,"longitude":-88.933333}}(window,'GeoPostal','US');

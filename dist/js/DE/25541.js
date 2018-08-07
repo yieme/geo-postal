@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25541"]={"code":"25541","region":"Schleswig-Holstein","city":"Sosmenhusen","latitude":53.89072,"longitude":9.11156}}(window,'GeoPostal','DE');

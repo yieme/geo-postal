@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37057"]={"code":"37057","region":"TN","city":"Dixon Springs","latitude":36.4455,"longitude":-86.0533}}(window,'GeoPostal','US');

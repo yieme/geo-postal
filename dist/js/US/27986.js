@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27986"]={"code":"27986","region":"North Carolina","city":"Winton","latitude":36.39571,"longitude":-76.9319}}(window,'GeoPostal','US');

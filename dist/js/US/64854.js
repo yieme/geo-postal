@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64854"]={"code":"64854","region":"Missouri","city":"Noel","latitude":36.54563,"longitude":-94.48522}}(window,'GeoPostal','US');

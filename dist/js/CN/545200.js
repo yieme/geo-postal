@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["545200"]={"code":"545200","region":"Guangxi","city":"Dabu","latitude":24.66739,"longitude":109.23547}}(window,'GeoPostal','CN');

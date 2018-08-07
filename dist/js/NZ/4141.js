@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4141"]={"code":"4141","region":"Hawke's Bay","city":"Taradale","latitude":-39.53333,"longitude":176.85}}(window,'GeoPostal','NZ');

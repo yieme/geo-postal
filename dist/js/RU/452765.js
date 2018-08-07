@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452765"]={"code":"452765","region":"Bashkortostan, Respublika","city":"Kandry","latitude":54.56667,"longitude":54.11667}}(window,'GeoPostal','RU');

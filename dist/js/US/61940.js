@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61940"]={"code":"61940","region":"IL","city":"Metcalf","latitude":39.8008,"longitude":-87.7955}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617023"]={"code":"617023","region":"Neamt","city":"Bahna","latitude":46.78333,"longitude":26.78333}}(window,'GeoPostal','RO');

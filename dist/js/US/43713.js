@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43713"]={"code":"43713","region":"Ohio","city":"Barnesville","latitude":39.98813,"longitude":-81.1765}}(window,'GeoPostal','US');

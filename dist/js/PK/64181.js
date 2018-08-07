@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64181"]={"code":"64181","region":"Punjab","city":"Kot Samaba","latitude":28.5522,"longitude":70.46837}}(window,'GeoPostal','PK');

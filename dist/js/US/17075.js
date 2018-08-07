@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17075"]={"code":"17075","region":"PA","city":"Newton Hamilton","latitude":40.3931,"longitude":-77.8316}}(window,'GeoPostal','US');

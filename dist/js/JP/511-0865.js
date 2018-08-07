@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["511-0865"]={"code":"511-0865","region":"Mie","city":"Kuwana","latitude":35.067,"longitude":136.683}}(window,'GeoPostal','JP');

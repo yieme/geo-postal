@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90255"]={"code":"90255","region":"Zakarpatska oblast","city":"Vary","latitude":48.12207,"longitude":22.71281}}(window,'GeoPostal','UA');

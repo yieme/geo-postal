@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26283"]={"code":"26283","region":"WV","city":"Montrose","latitude":39.0964,"longitude":-79.7896}}(window,'GeoPostal','US');

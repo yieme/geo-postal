@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93254"]={"code":"93254","region":"California","city":"New Cuyama","latitude":34.94806,"longitude":-119.68917}}(window,'GeoPostal','US');

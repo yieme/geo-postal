@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0210"]={"code":"0210","region":"Northland","city":"Kawakawa","latitude":-35.38333,"longitude":174.06667}}(window,'GeoPostal','NZ');

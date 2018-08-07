@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11026"]={"code":"11026","region":"Valle d'Aosta","city":"Pont-Saint-Martin","latitude":45.59536,"longitude":7.79451}}(window,'GeoPostal','IT');

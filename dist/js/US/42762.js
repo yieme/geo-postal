@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42762"]={"code":"42762","region":"Kentucky","city":"Millwood","latitude":37.440529,"longitude":-86.410483}}(window,'GeoPostal','US');

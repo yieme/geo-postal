@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24878"]={"code":"24878","region":"West Virginia","city":"Premier","latitude":37.433,"longitude":-81.63465}}(window,'GeoPostal','US');

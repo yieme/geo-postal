@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99335"]={"code":"99335","region":"WA","city":"Kahlotus","latitude":46.6779,"longitude":-118.5337}}(window,'GeoPostal','US');

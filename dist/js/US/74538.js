@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74538"]={"code":"74538","region":"Oklahoma","city":"Coalgate","latitude":34.53815,"longitude":-96.21861}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA4 9RA"]={"code":"PA4 9RA","region":"Scotland","city":"Inchinnan","latitude":55.88995,"longitude":-4.43842}}(window,'GeoPostal','GB');

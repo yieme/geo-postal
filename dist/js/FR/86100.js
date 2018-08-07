@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86100"]={"code":"86100","region":"Nouvelle-Aquitaine","city":"Chatellerault","latitude":46.8,"longitude":0.53333}}(window,'GeoPostal','FR');

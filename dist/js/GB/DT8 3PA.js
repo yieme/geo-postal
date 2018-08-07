@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT8 3PA"]={"code":"DT8 3PA","region":"England","city":"Hooke","latitude":50.79884,"longitude":-2.66032}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25841"]={"code":"25841","region":"WV","city":"Flat Top","latitude":37.55,"longitude":-81.128}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94010"]={"code":"94010","region":"Sicilia","city":"Villarosa","latitude":37.58875,"longitude":14.16597}}(window,'GeoPostal','IT');

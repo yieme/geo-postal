@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97427"]={"code":"97427","region":"OR","city":"Culp Creek","latitude":43.68,"longitude":-122.79}}(window,'GeoPostal','US');

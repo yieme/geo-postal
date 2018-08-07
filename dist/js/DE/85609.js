@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85609"]={"code":"85609","region":"Bayern","city":"Aschheim","latitude":48.17112,"longitude":11.71675}}(window,'GeoPostal','DE');

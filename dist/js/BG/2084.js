@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2084"]={"code":"2084","region":"Sofia","city":"Chavdar","latitude":42.65,"longitude":24.05}}(window,'GeoPostal','BG');

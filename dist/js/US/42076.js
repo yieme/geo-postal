@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42076"]={"code":"42076","region":"KY","city":"New Concord","latitude":36.55,"longitude":-88.0955}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["197720"]={"code":"197720","region":"Sankt-Peterburg","city":"Zelenogorsk","latitude":60.19968,"longitude":29.70183}}(window,'GeoPostal','RU');

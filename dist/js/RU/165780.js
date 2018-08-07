@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["165780"]={"code":"165780","region":"Arkhangel'skaya oblast'","city":"Yarensk","latitude":62.16755,"longitude":49.09162}}(window,'GeoPostal','RU');

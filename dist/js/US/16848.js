@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16848"]={"code":"16848","region":"PA","city":"Lamar","latitude":41.0162,"longitude":-77.5311}}(window,'GeoPostal','US');

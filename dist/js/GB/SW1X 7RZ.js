@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW1X 7RZ"]={"code":"SW1X 7RZ","region":"England","city":"Carlton","latitude":52.18801,"longitude":-0.60704}}(window,'GeoPostal','GB');

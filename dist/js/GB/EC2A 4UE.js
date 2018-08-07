@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC2A 4UE"]={"code":"EC2A 4UE","region":"England","city":"Tavistock","latitude":50.54944,"longitude":-4.14418}}(window,'GeoPostal','GB');

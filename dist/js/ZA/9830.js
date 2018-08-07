@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9830"]={"code":"9830","region":"Free State","city":"Frankfort","latitude":-27.26667,"longitude":28.48333}}(window,'GeoPostal','ZA');

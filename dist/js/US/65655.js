@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65655"]={"code":"65655","region":"Missouri","city":"Gainesville","latitude":36.574927,"longitude":-92.415144}}(window,'GeoPostal','US');

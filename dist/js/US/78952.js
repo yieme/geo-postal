@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78952"]={"code":"78952","region":"TX","city":"Plum","latitude":29.9349,"longitude":-96.9675}}(window,'GeoPostal','US');

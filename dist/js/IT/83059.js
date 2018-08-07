@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83059"]={"code":"83059","region":"Campania","city":"Vallata","latitude":41.03722,"longitude":15.25215}}(window,'GeoPostal','IT');

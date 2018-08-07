@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43465"]={"code":"43465","region":"Ohio","city":"Walbridge","latitude":41.58783,"longitude":-83.49327}}(window,'GeoPostal','US');

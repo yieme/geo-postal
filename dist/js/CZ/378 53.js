@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["378 53"]={"code":"378 53","region":"Jihocesky kraj","city":"Strmilov","latitude":49.15846,"longitude":15.19934}}(window,'GeoPostal','CZ');

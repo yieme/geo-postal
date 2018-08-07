@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678330"]={"code":"678330","region":"Saha, Respublika","city":"Zhigansk","latitude":66.76972,"longitude":123.37111}}(window,'GeoPostal','RU');

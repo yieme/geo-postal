@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59104"]={"code":"59104","region":"Montana","city":"Billings","latitude":45.77543,"longitude":-108.5818}}(window,'GeoPostal','US');

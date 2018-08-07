@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP31 2HL"]={"code":"IP31 2HL","region":"England","city":"Ixworth","latitude":52.29893,"longitude":0.8341}}(window,'GeoPostal','GB');

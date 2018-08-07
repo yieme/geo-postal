@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692730"]={"code":"692730","region":"Primorskiy kray","city":"Slavyanka","latitude":42.86333,"longitude":131.38472}}(window,'GeoPostal','RU');

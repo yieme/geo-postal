@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95075"]={"code":"95075","region":"CA","city":"Tres Pinos","latitude":36.767,"longitude":-121.3017}}(window,'GeoPostal','US');

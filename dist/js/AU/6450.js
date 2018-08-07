@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6450"]={"code":"6450","region":"Western Australia","city":"Esperance","latitude":-33.86013,"longitude":121.88259}}(window,'GeoPostal','AU');

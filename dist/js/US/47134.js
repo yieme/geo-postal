@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47134"]={"code":"47134","region":"IN","city":"Jeffersonville","latitude":38.2868,"longitude":-85.7321}}(window,'GeoPostal','US');

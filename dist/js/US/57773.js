@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57773"]={"code":"57773","region":"SD","city":"Pringle","latitude":43.6086,"longitude":-103.5938}}(window,'GeoPostal','US');

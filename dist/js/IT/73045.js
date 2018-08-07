@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73045"]={"code":"73045","region":"Puglia","city":"Leverano","latitude":40.28902,"longitude":18.00002}}(window,'GeoPostal','IT');

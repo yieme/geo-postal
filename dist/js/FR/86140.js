@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86140"]={"code":"86140","region":"Nouvelle-Aquitaine","city":"Scorbe-Clairvaux","latitude":46.81061,"longitude":0.41369}}(window,'GeoPostal','FR');

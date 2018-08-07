@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN33 2EP"]={"code":"DN33 2EP","region":"England","city":"Scartho","latitude":53.53675,"longitude":-0.09105}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7800"]={"code":"7800","region":"Canindeyu","city":"Salto del Guaira","latitude":-24.05,"longitude":-54.35}}(window,'GeoPostal','PY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87675"]={"code":"87675","region":"Bayern","city":"Rettenbach am Auerberg","latitude":47.77387,"longitude":10.74999}}(window,'GeoPostal','DE');

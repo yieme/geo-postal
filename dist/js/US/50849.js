@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50849"]={"code":"50849","region":"Iowa","city":"Greenfield","latitude":41.30527,"longitude":-94.46135}}(window,'GeoPostal','US');

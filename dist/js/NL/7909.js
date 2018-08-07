@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7909"]={"code":"7909","region":"Drenthe","city":"Hoogeveen","latitude":52.7225,"longitude":6.47639}}(window,'GeoPostal','NL');

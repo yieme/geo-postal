@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577525"]={"code":"577525","region":"Karnataka","city":"Mayakonda","latitude":14.28333,"longitude":76.08333}}(window,'GeoPostal','IN');

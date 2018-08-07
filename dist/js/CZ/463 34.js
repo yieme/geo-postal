@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["463 34"]={"code":"463 34","region":"Liberecky kraj","city":"Hradek nad Nisou","latitude":50.85279,"longitude":14.84455}}(window,'GeoPostal','CZ');

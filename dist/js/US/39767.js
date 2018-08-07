@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39767"]={"code":"39767","region":"Mississippi","city":"Stewart","latitude":33.530884,"longitude":-89.497344}}(window,'GeoPostal','US');

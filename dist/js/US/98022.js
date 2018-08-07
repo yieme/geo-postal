@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98022"]={"code":"98022","region":"Washington","city":"Enumclaw","latitude":47.20872,"longitude":-121.86342}}(window,'GeoPostal','US');

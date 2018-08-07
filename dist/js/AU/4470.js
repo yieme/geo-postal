@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4470"]={"code":"4470","region":"Queensland","city":"Charleville","latitude":-26.40542,"longitude":146.24274}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-660"]={"code":"05-660","region":"Mazowieckie","city":"Warka","latitude":51.7843,"longitude":21.19091}}(window,'GeoPostal','PL');

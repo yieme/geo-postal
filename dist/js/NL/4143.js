@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4143"]={"code":"4143","region":"Zuid-Holland","city":"Leerdam","latitude":51.89333,"longitude":5.09167}}(window,'GeoPostal','NL');

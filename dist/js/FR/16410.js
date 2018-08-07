@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16410"]={"code":"16410","region":"Nouvelle-Aquitaine","city":"Garat","latitude":45.63333,"longitude":0.26667}}(window,'GeoPostal','FR');

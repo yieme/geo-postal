@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB22 3ER"]={"code":"CB22 3ER","region":"England","city":"Pampisford","latitude":52.1108,"longitude":0.18479}}(window,'GeoPostal','GB');

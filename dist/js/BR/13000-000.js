@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13000-000"]={"code":"13000-000","region":"Sao Paulo","city":"Campinas","latitude":-22.90556,"longitude":-47.06083}}(window,'GeoPostal','BR');

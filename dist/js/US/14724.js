@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14724"]={"code":"14724","region":"NY","city":"Clymer","latitude":42.0557,"longitude":-79.6685}}(window,'GeoPostal','US');

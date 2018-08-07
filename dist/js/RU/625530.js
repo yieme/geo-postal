@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["625530"]={"code":"625530","region":"Tyumenskaya oblast'","city":"Vinzili","latitude":56.95938,"longitude":65.7708}}(window,'GeoPostal','RU');

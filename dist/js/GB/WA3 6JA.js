@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA3 6JA"]={"code":"WA3 6JA","region":"England","city":"Newbury","latitude":51.40033,"longitude":-1.32059}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53543"]={"code":"53543","region":"Wisconsin","city":"Highland","latitude":43.04639,"longitude":-90.37917}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA6 4RY"]={"code":"TA6 4RY","region":"England","city":"Pawlett","latitude":51.18022,"longitude":-3.0024}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13440"]={"code":"13440","region":"Castilla-La Mancha","city":"Argamasilla de Calatrava","latitude":38.72985,"longitude":-4.07627}}(window,'GeoPostal','ES');

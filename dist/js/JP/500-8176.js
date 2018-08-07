@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["500-8176"]={"code":"500-8176","region":"Gifu","city":"Gifu","latitude":35.417,"longitude":136.767}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8328"]={"code":"8328","region":"Rio Negro","city":"Allen","latitude":-38.97736,"longitude":-67.82714}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-230"]={"code":"58-230","region":"Dolnoslaskie","city":"Kamieniec Zabkowicki","latitude":50.52541,"longitude":16.87921}}(window,'GeoPostal','PL');

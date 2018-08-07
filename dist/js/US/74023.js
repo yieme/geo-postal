@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74023"]={"code":"74023","region":"Oklahoma","city":"Cushing","latitude":35.98506,"longitude":-96.76697}}(window,'GeoPostal','US');

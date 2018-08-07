@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16123"]={"code":"16123","region":"PA","city":"Fombell","latitude":40.8125,"longitude":-80.2073}}(window,'GeoPostal','US');

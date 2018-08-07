@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 1R0"]={"code":"J0B 1R0","region":"Quebec","city":"East Angus","latitude":45.48338,"longitude":-71.66577}}(window,'GeoPostal','CA');

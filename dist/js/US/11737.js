@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11737"]={"code":"11737","region":"NY","city":"Farmingdale","latitude":40.7326,"longitude":-73.4454}}(window,'GeoPostal','US');

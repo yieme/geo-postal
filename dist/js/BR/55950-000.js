@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55950-000"]={"code":"55950-000","region":"Pernambuco","city":"Itaquitinga","latitude":-7.66778,"longitude":-35.10167}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01360"]={"code":"01360","region":"MA","city":"Northfield","latitude":42.6887,"longitude":-72.451}}(window,'GeoPostal','US');

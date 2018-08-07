@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25817"]={"code":"25817","region":"WV","city":"Bolt","latitude":37.7673,"longitude":-81.4156}}(window,'GeoPostal','US');

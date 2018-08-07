@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52232"]={"code":"52232","region":"IA","city":"Hartwick","latitude":41.808,"longitude":-92.3538}}(window,'GeoPostal','US');

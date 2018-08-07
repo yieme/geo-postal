@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24129"]={"code":"24129","region":"VA","city":"New River","latitude":37.0964,"longitude":-80.6081}}(window,'GeoPostal','US');

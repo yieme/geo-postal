@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2730"]={"code":"2730","region":"Hovedstaden","city":"Herlev","latitude":55.72366,"longitude":12.43998}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11610"]={"code":"11610","region":"Occitanie","city":"Pennautier","latitude":43.24512,"longitude":2.31892}}(window,'GeoPostal','FR');

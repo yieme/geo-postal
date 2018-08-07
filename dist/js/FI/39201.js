@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39201"]={"code":"39201","region":"Pirkanmaa","city":"Hameenkyro","latitude":61.63913,"longitude":23.19531}}(window,'GeoPostal','FI');

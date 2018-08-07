@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0J 1E0"]={"code":"G0J 1E0","region":"Quebec","city":"Cap-Chat","latitude":49.10009,"longitude":-66.68212}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2328"]={"code":"2328","region":"New South Wales","city":"Denman","latitude":-32.38788,"longitude":150.68935}}(window,'GeoPostal','AU');

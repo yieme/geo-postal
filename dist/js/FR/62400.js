@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62400"]={"code":"62400","region":"Hauts-de-France","city":"Locon","latitude":50.57029,"longitude":2.66629}}(window,'GeoPostal','FR');

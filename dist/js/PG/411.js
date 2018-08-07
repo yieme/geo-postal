@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["411"]={"code":"411","region":"Morobe","city":"Lae","latitude":-6.72208,"longitude":146.98469}}(window,'GeoPostal','PG');

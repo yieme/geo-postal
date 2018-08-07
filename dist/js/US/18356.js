@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18356"]={"code":"18356","region":"PA","city":"Shawnee On Delaware","latitude":41.0123,"longitude":-75.1107}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16159"]={"code":"16159","region":"PA","city":"West Middlesex","latitude":41.1741,"longitude":-80.4528}}(window,'GeoPostal','US');

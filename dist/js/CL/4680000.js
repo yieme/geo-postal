@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4680000"]={"code":"4680000","region":"La Araucania","city":"Collipulli","latitude":-37.95,"longitude":-72.43333}}(window,'GeoPostal','CL');

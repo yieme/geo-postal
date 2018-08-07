@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08660"]={"code":"08660","region":"Catalunya","city":"Balsareny","latitude":41.86311,"longitude":1.87356}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2490-999"]={"code":"2490-999","region":"Santarem","city":"Ourem","latitude":39.64168,"longitude":-8.5919}}(window,'GeoPostal','PT');

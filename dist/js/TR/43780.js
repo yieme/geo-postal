@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43780"]={"code":"43780","region":"Kutahya","city":"Emet","latitude":39.343,"longitude":29.25847}}(window,'GeoPostal','TR');

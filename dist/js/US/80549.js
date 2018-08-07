@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80549"]={"code":"80549","region":"CO","city":"Wellington","latitude":40.7255,"longitude":-105.0318}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9900"]={"code":"9900","region":"Nordjylland","city":"Frederikshavn","latitude":57.44073,"longitude":10.53661}}(window,'GeoPostal','DK');

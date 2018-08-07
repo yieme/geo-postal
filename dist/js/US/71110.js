@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71110"]={"code":"71110","region":"LA","city":"Barksdale Afb","latitude":32.5137,"longitude":-93.6404}}(window,'GeoPostal','US');

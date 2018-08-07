@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18058"]={"code":"18058","region":"PA","city":"Kunkletown","latitude":40.8999,"longitude":-75.476}}(window,'GeoPostal','US');

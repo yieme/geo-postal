@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49163"]={"code":"49163","region":"Niedersachsen","city":"Bad Essen","latitude":52.31667,"longitude":8.33333}}(window,'GeoPostal','DE');

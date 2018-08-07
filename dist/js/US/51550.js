@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51550"]={"code":"51550","region":"IA","city":"Magnolia","latitude":41.6921,"longitude":-95.8742}}(window,'GeoPostal','US');

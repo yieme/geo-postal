@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184433"]={"code":"184433","region":"Murmanskaya oblast'","city":"Zapolyarnyy","latitude":69.41541,"longitude":30.81355}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84403"]={"code":"84403","region":"Utah","city":"Ogden","latitude":41.17818,"longitude":-111.96354}}(window,'GeoPostal','US');

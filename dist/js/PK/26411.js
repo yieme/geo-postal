@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26411"]={"code":"26411","region":"Khyber Pakhtunkhwa","city":"Karak","latitude":33.11738,"longitude":71.0949}}(window,'GeoPostal','PK');

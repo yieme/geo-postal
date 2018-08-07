@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01223"]={"code":"01223","region":"Massachusetts","city":"Becket","latitude":42.383574,"longitude":-73.143718}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 28"]={"code":"252 28","region":"Stredocesky kraj","city":"Cernosice","latitude":49.96008,"longitude":14.31979}}(window,'GeoPostal','CZ');

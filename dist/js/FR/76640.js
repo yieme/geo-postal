@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76640"]={"code":"76640","region":"Normandie","city":"Yebleron","latitude":49.63333,"longitude":0.53746}}(window,'GeoPostal','FR');

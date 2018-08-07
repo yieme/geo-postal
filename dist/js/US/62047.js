@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62047"]={"code":"62047","region":"Illinois","city":"Hardin","latitude":39.15671,"longitude":-90.6179}}(window,'GeoPostal','US');

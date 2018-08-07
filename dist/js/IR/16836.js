@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16836"]={"code":"16836","region":"Khorasan-e Razavi","city":"Mashhad","latitude":36.297,"longitude":59.6062}}(window,'GeoPostal','IR');

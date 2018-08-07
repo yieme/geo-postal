@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["561 22"]={"code":"561 22","region":"Kentriki Makedonia","city":"Menemeni","latitude":40.65694,"longitude":22.9}}(window,'GeoPostal','GR');

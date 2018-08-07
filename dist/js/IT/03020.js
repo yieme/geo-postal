@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03020"]={"code":"03020","region":"Lazio","city":"Castro dei Volsci","latitude":41.50822,"longitude":13.4063}}(window,'GeoPostal','IT');

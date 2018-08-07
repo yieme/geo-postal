@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20744"]={"code":"20744","region":"Maryland","city":"Fort Washington","latitude":38.755467,"longitude":-76.982544}}(window,'GeoPostal','US');

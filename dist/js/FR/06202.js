@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06202"]={"code":"06202","region":"Provence-Alpes-Cote d'Azur","city":"Nice","latitude":43.70313,"longitude":7.26608}}(window,'GeoPostal','FR');

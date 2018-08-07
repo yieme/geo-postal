@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF43 4EW"]={"code":"CF43 4EW","region":"Wales","city":"Ferndale","latitude":51.66056,"longitude":-3.4475}}(window,'GeoPostal','GB');

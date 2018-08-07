@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332428"]={"code":"332428","region":"Jiangxi","city":"Shuiyuan","latitude":28.99853,"longitude":114.03466}}(window,'GeoPostal','CN');

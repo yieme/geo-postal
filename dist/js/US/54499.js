@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54499"]={"code":"54499","region":"Wisconsin","city":"Wittenberg","latitude":44.825442,"longitude":-89.168687}}(window,'GeoPostal','US');

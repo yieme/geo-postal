@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49802"]={"code":"49802","region":"Michigan","city":"Kingsford","latitude":45.79496,"longitude":-88.07207}}(window,'GeoPostal','US');

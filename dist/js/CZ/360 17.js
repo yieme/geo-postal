@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["360 17"]={"code":"360 17","region":"Karlovarsky kraj","city":"Karlovy Vary","latitude":50.23271,"longitude":12.87117}}(window,'GeoPostal','CZ');

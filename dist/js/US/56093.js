@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56093"]={"code":"56093","region":"Minnesota","city":"Waseca","latitude":44.080262,"longitude":-93.502907}}(window,'GeoPostal','US');

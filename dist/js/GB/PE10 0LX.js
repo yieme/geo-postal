@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE10 0LX"]={"code":"PE10 0LX","region":"England","city":"Grimsthorpe","latitude":52.79409,"longitude":-0.44598}}(window,'GeoPostal','GB');

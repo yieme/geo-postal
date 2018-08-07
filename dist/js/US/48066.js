@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48066"]={"code":"48066","region":"Michigan","city":"Roseville","latitude":42.504421,"longitude":-82.937762}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66538"]={"code":"66538","region":"Saarland","city":"Neunkirchen","latitude":49.34449,"longitude":7.18045}}(window,'GeoPostal','DE');

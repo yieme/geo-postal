@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["539 01"]={"code":"539 01","region":"Kralovehradecky kraj","city":"Doudleby nad Orlici","latitude":50.10742,"longitude":16.26131}}(window,'GeoPostal','CZ');

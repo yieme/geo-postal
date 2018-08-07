@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63720"]={"code":"63720","region":"Auvergne-Rhone-Alpes","city":"Varennes-sur-Morge","latitude":45.942,"longitude":3.187}}(window,'GeoPostal','FR');

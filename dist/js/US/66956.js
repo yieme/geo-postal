@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66956"]={"code":"66956","region":"Kansas","city":"Mankato","latitude":39.78723,"longitude":-98.21005}}(window,'GeoPostal','US');

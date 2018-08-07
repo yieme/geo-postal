@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72100"]={"code":"72100","region":"Pohjois-Savo","city":"Karttula","latitude":62.8963,"longitude":26.97045}}(window,'GeoPostal','FI');

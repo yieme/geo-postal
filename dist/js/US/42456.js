@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42456"]={"code":"42456","region":"KY","city":"Slaughters","latitude":37.5054,"longitude":-87.5053}}(window,'GeoPostal','US');

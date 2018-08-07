@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75205"]={"code":"75205","region":"Texas","city":"University Park","latitude":32.836855,"longitude":-96.795136}}(window,'GeoPostal','US');

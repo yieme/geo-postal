@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32704"]={"code":"32704","region":"Galicia","city":"Ambia","latitude":42.20578,"longitude":-7.73706}}(window,'GeoPostal','ES');

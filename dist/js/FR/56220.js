@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56220"]={"code":"56220","region":"Bretagne","city":"Caden","latitude":47.63124,"longitude":-2.28704}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17084"]={"code":"17084","region":"PA","city":"Reedsville","latitude":40.6722,"longitude":-77.6116}}(window,'GeoPostal','US');

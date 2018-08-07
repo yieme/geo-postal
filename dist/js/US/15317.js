@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15317"]={"code":"15317","region":"Pennsylvania","city":"Canonsburg","latitude":40.2744,"longitude":-80.15358}}(window,'GeoPostal','US');

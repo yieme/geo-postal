@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78200"]={"code":"78200","region":"Punjab","city":"Khanpur","latitude":28.64534,"longitude":70.6567}}(window,'GeoPostal','PK');

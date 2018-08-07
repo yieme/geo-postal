@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71800"]={"code":"71800","region":"Bourgogne-Franche-Comte","city":"La Clayette","latitude":46.29002,"longitude":4.30422}}(window,'GeoPostal','FR');

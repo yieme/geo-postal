@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24569"]={"code":"24569","region":"Virginia","city":"Long Island","latitude":37.065271,"longitude":-79.115454}}(window,'GeoPostal','US');

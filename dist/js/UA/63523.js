@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63523"]={"code":"63523","region":"Kharkivska oblast","city":"Novopokrovka","latitude":49.84252,"longitude":36.54773}}(window,'GeoPostal','UA');

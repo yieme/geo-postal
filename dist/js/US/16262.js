@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16262"]={"code":"16262","region":"PA","city":"Worthington","latitude":40.8378,"longitude":-79.6298}}(window,'GeoPostal','US');

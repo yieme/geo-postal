@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14166"]={"code":"14166","region":"NY","city":"Van Buren Point","latitude":42.4511,"longitude":-79.4154}}(window,'GeoPostal','US');

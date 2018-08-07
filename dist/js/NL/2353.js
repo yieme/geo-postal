@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2353"]={"code":"2353","region":"Zuid-Holland","city":"Leiderdorp","latitude":52.15833,"longitude":4.52917}}(window,'GeoPostal','NL');

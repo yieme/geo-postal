@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55716"]={"code":"55716","region":"MN","city":"Calumet","latitude":47.3229,"longitude":-93.2763}}(window,'GeoPostal','US');

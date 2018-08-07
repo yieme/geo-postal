@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80136"]={"code":"80136","region":"Colorado","city":"Strasburg","latitude":39.73832,"longitude":-104.32329}}(window,'GeoPostal','US');

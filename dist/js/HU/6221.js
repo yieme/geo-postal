@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6221"]={"code":"6221","region":"Bacs-Kiskun","city":"Akaszto","latitude":46.69167,"longitude":19.20423}}(window,'GeoPostal','HU');

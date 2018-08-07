@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2686"]={"code":"2686","region":"Cordoba","city":"Alejandro Roca","latitude":-33.35369,"longitude":-63.71849}}(window,'GeoPostal','AR');

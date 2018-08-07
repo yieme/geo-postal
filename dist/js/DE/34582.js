@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34582"]={"code":"34582","region":"Hessen","city":"Borken","latitude":51.04501,"longitude":9.2844}}(window,'GeoPostal','DE');

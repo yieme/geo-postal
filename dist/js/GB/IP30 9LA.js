@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP30 9LA"]={"code":"IP30 9LA","region":"England","city":"Rougham","latitude":52.22422,"longitude":0.80166}}(window,'GeoPostal','GB');

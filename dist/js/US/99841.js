@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99841"]={"code":"99841","region":"AK","city":"Tenakee Springs","latitude":57.7808,"longitude":-135.2189}}(window,'GeoPostal','US');

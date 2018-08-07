@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42023"]={"code":"42023","region":"Auvergne-Rhone-Alpes","city":"Saint-Etienne","latitude":45.43333,"longitude":4.4}}(window,'GeoPostal','FR');

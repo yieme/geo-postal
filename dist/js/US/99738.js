@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99738"]={"code":"99738","region":"AK","city":"Eagle","latitude":64.7881,"longitude":-141.2}}(window,'GeoPostal','US');

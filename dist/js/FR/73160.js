@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73160"]={"code":"73160","region":"Auvergne-Rhone-Alpes","city":"Cognin","latitude":45.56377,"longitude":5.89435}}(window,'GeoPostal','FR');

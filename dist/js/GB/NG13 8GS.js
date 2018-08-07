@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 8GS"]={"code":"NG13 8GS","region":"England","city":"Tithby","latitude":52.92519,"longitude":-0.96279}}(window,'GeoPostal','GB');

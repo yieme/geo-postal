@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1500"]={"code":"1500","region":"Vlaams-Brabant","city":"Halle","latitude":50.73385,"longitude":4.23454}}(window,'GeoPostal','BE');

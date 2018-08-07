@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57763"]={"code":"57763","region":"SD","city":"Oelrichs","latitude":43.1551,"longitude":-103.2162}}(window,'GeoPostal','US');

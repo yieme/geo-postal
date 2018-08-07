@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4112"]={"code":"4112","region":"Cavite","city":"Maragondon","latitude":14.2733,"longitude":120.7377}}(window,'GeoPostal','PH');

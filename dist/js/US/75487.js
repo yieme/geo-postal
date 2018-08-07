@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75487"]={"code":"75487","region":"Texas","city":"Talco","latitude":33.362381,"longitude":-95.10342}}(window,'GeoPostal','US');

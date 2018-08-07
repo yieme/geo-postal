@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16023"]={"code":"16023","region":"PA","city":"Cabot","latitude":40.7924,"longitude":-79.76}}(window,'GeoPostal','US');

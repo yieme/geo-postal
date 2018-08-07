@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60230"]={"code":"60230","region":"Hauts-de-France","city":"Chambly","latitude":49.16667,"longitude":2.25}}(window,'GeoPostal','FR');

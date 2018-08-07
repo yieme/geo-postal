@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26167"]={"code":"26167","region":"West Virginia","city":"Reader","latitude":39.577799,"longitude":-80.747295}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17360"]={"code":"17360","region":"PA","city":"Seven Valleys","latitude":39.8556,"longitude":-76.7383}}(window,'GeoPostal','US');

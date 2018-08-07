@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56621"]={"code":"56621","region":"Minnesota","city":"Bagley","latitude":47.52162,"longitude":-95.39835}}(window,'GeoPostal','US');

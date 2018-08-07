@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62298"]={"code":"62298","region":"Illinois","city":"Waterloo","latitude":38.33589,"longitude":-90.14983}}(window,'GeoPostal','US');

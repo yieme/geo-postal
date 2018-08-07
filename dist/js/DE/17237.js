@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17237"]={"code":"17237","region":"Mecklenburg-Vorpommern","city":"Georgenhof","latitude":53.36707,"longitude":13.24109}}(window,'GeoPostal','DE');

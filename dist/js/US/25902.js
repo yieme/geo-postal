@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25902"]={"code":"25902","region":"WV","city":"Odd","latitude":37.593,"longitude":-81.1872}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5950000"]={"code":"5950000","region":"Aisen del General Carlos Ibanez del Campo","city":"Coihaique","latitude":-45.57524,"longitude":-72.06619}}(window,'GeoPostal','CL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40944"]={"code":"40944","region":"KY","city":"Goose Rock","latitude":37.0904,"longitude":-83.6944}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4168"]={"code":"4168","region":"Tucuman","city":"Bella Vista","latitude":-27.03084,"longitude":-65.30315}}(window,'GeoPostal','AR');

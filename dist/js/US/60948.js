@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60948"]={"code":"60948","region":"IL","city":"Loda","latitude":40.5241,"longitude":-88.0927}}(window,'GeoPostal','US');

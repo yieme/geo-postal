@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537 05"]={"code":"537 05","region":"Pardubicky kraj","city":"Chrudim","latitude":49.95109,"longitude":15.79558}}(window,'GeoPostal','CZ');

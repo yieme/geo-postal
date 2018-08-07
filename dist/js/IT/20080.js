@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20080"]={"code":"20080","region":"Lombardia","city":"Basiglio","latitude":45.35917,"longitude":9.15855}}(window,'GeoPostal','IT');

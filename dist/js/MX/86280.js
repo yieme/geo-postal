@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86280"]={"code":"86280","region":"Tabasco","city":"Luis Gil Perez","latitude":17.86667,"longitude":-93.05}}(window,'GeoPostal','MX');

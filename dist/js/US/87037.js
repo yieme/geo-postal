@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87037"]={"code":"87037","region":"NM","city":"Nageezi","latitude":36.1598,"longitude":-107.7664}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78002"]={"code":"78002","region":"TX","city":"Atascosa","latitude":29.2705,"longitude":-98.7421}}(window,'GeoPostal','US');

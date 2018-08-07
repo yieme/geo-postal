@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26555"]={"code":"26555","region":"Kirovohradska oblast","city":"Pobugskoye","latitude":48.16579,"longitude":30.59274}}(window,'GeoPostal','UA');

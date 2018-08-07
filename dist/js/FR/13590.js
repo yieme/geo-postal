@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13590"]={"code":"13590","region":"Provence-Alpes-Cote d'Azur","city":"Meyreuil","latitude":43.4878,"longitude":5.49574}}(window,'GeoPostal','FR');

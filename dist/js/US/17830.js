@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17830"]={"code":"17830","region":"Pennsylvania","city":"Herndon","latitude":40.70417,"longitude":-76.84333}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 9HN"]={"code":"BA12 9HN","region":"England","city":"Bishopstrow","latitude":51.19306,"longitude":-2.15528}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1786"]={"code":"1786","region":"Noord-Holland","city":"Den Helder","latitude":52.95988,"longitude":4.75933}}(window,'GeoPostal','NL');

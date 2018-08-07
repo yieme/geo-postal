@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54562"]={"code":"54562","region":"Wisconsin","city":"Three Lakes","latitude":45.79833,"longitude":-89.16278}}(window,'GeoPostal','US');

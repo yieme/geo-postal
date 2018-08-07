@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88580"]={"code":"88580","region":"Grand-Est","city":"Saulcy-sur-Meurthe","latitude":48.23758,"longitude":6.96443}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81335"]={"code":"81335","region":"CO","city":"Yellow Jacket","latitude":37.5344,"longitude":-108.7173}}(window,'GeoPostal','US');

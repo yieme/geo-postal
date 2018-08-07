@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63089"]={"code":"63089","region":"MO","city":"Villa Ridge","latitude":38.4601,"longitude":-90.8822}}(window,'GeoPostal','US');

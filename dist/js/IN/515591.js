@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515591"]={"code":"515591","region":"Andhra Pradesh","city":"Kadiri","latitude":14.11667,"longitude":78.16667}}(window,'GeoPostal','IN');

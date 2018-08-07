@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["455 00"]={"code":"455 00","region":"Ipeiros","city":"Pedini","latitude":39.59972,"longitude":20.84333}}(window,'GeoPostal','GR');

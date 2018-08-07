@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0340"]={"code":"0340","region":"Northland","city":"Dargaville","latitude":-35.93333,"longitude":173.88333}}(window,'GeoPostal','NZ');

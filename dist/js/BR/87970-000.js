@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87970-000"]={"code":"87970-000","region":"Parana","city":"Nova Londrina","latitude":-22.76583,"longitude":-52.985}}(window,'GeoPostal','BR');

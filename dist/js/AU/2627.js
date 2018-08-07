@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2627"]={"code":"2627","region":"New South Wales","city":"Jindabyne","latitude":-36.41623,"longitude":148.62505}}(window,'GeoPostal','AU');

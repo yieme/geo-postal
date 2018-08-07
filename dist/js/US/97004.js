@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97004"]={"code":"97004","region":"OR","city":"Beavercreek","latitude":45.2597,"longitude":-122.4751}}(window,'GeoPostal','US');

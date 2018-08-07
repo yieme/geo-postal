@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK17 0RH"]={"code":"SK17 0RH","region":"England","city":"Hollinsclough","latitude":53.19564,"longitude":-1.90385}}(window,'GeoPostal','GB');

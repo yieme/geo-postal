@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA26 0TJ"]={"code":"KA26 0TJ","region":"Scotland","city":"Doularg","latitude":55.2,"longitude":-4.73333}}(window,'GeoPostal','GB');

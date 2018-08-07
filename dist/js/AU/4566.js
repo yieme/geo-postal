@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4566"]={"code":"4566","region":"Queensland","city":"Noosaville","latitude":-26.4,"longitude":153.06667}}(window,'GeoPostal','AU');

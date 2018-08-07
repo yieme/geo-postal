@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437390"]={"code":"437390","region":"Maramures","city":"Viseu de Jos","latitude":47.72558,"longitude":24.36613}}(window,'GeoPostal','RO');

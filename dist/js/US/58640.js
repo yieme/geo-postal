@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58640"]={"code":"58640","region":"North Dakota","city":"Killdeer","latitude":47.370806,"longitude":-102.75529}}(window,'GeoPostal','US');

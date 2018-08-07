@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO9 3PP"]={"code":"CO9 3PP","region":"England","city":"Sible Hedingham","latitude":51.97772,"longitude":0.59262}}(window,'GeoPostal','GB');

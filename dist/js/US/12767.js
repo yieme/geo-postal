@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12767"]={"code":"12767","region":"NY","city":"Obernburg","latitude":41.8448,"longitude":-75.0071}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73240"]={"code":"73240","region":"Auvergne-Rhone-Alpes","city":"Saint-Genix-sur-Guiers","latitude":45.59966,"longitude":5.63436}}(window,'GeoPostal','FR');

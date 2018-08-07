@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36129"]={"code":"36129","region":"Hessen","city":"Gersfeld","latitude":50.45138,"longitude":9.91422}}(window,'GeoPostal','DE');

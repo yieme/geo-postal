@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74579"]={"code":"74579","region":"Baden-Wurttemberg","city":"Wildenstein","latitude":49.06926,"longitude":10.21208}}(window,'GeoPostal','DE');

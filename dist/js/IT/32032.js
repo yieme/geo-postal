@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32032"]={"code":"32032","region":"Veneto","city":"Feltre","latitude":46.02351,"longitude":11.907}}(window,'GeoPostal','IT');

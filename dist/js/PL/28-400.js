@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-400"]={"code":"28-400","region":"Swietokrzyskie","city":"Pinczow","latitude":50.52052,"longitude":20.52649}}(window,'GeoPostal','PL');

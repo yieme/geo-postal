@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58262"]={"code":"58262","region":"ND","city":"Mountain","latitude":48.6931,"longitude":-97.8841}}(window,'GeoPostal','US');

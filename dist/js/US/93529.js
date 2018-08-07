@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93529"]={"code":"93529","region":"California","city":"June Lake","latitude":37.77972,"longitude":-119.07556}}(window,'GeoPostal','US');

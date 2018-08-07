@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4173"]={"code":"4173","region":"Queensland","city":"Tingalpa","latitude":-27.4736,"longitude":153.12704}}(window,'GeoPostal','AU');

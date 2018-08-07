@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31016"]={"code":"31016","region":"Oran","city":"Bou Tlelis","latitude":35.57272,"longitude":-0.8996}}(window,'GeoPostal','DZ');

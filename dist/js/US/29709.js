@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29709"]={"code":"29709","region":"South Carolina","city":"Chesterfield","latitude":34.73599,"longitude":-80.08812}}(window,'GeoPostal','US');

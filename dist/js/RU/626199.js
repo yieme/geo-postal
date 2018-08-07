@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626199"]={"code":"626199","region":"Tyumenskaya oblast'","city":"Uvat","latitude":59.14333,"longitude":68.89528}}(window,'GeoPostal','RU');

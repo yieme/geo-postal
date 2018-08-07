@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05022"]={"code":"05022","region":"Umbria","city":"Amelia","latitude":42.55233,"longitude":12.41817}}(window,'GeoPostal','IT');

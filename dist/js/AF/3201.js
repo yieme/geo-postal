@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3201"]={"code":"3201","region":"Ghor","city":"Chaghcharan","latitude":34.51952,"longitude":65.25094}}(window,'GeoPostal','AF');

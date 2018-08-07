@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403803"]={"code":"403803","region":"Goa","city":"Vasco Da Gama","latitude":15.39585,"longitude":73.81568}}(window,'GeoPostal','IN');

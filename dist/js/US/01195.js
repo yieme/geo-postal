@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01195"]={"code":"01195","region":"MA","city":"Springfield Bmc","latitude":42.1,"longitude":-72.58}}(window,'GeoPostal','US');

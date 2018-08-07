@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52632"]={"code":"52632","region":"Iowa","city":"Keokuk","latitude":40.39727,"longitude":-91.38487}}(window,'GeoPostal','US');

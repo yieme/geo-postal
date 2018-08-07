@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39-220"]={"code":"39-220","region":"Podkarpackie","city":"Pilzno","latitude":49.97883,"longitude":21.29228}}(window,'GeoPostal','PL');

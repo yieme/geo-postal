@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68825"]={"code":"68825","region":"Nebraska","city":"Callaway","latitude":41.291139,"longitude":-99.921621}}(window,'GeoPostal','US');

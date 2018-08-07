@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01069"]={"code":"01069","region":"Auvergne-Rhone-Alpes","city":"Bourg-en-Bresse","latitude":46.20574,"longitude":5.2258}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-503"]={"code":"32-503","region":"Malopolskie","city":"Pogorzyce","latitude":50.10186,"longitude":19.42228}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9122"]={"code":"9122","region":"Karnten","city":"Eberndorf","latitude":46.59139,"longitude":14.64361}}(window,'GeoPostal','AT');

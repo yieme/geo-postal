@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67049"]={"code":"67049","region":"Abruzzo","city":"Tornimparte","latitude":42.29533,"longitude":13.29999}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["527130"]={"code":"527130","region":"Covasna","city":"Ozun","latitude":45.8,"longitude":25.85}}(window,'GeoPostal','RO');

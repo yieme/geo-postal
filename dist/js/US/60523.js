@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60523"]={"code":"60523","region":"Illinois","city":"Oak Brook","latitude":41.800833,"longitude":-87.936944}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65742"]={"code":"65742","region":"Missouri","city":"Rogersville","latitude":37.12194,"longitude":-93.13878}}(window,'GeoPostal','US');

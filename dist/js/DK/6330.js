@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6330"]={"code":"6330","region":"Syddanmark","city":"Padborg","latitude":54.82657,"longitude":9.36247}}(window,'GeoPostal','DK');

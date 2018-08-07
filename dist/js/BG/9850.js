@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9850"]={"code":"9850","region":"Shumen","city":"Veliki Preslav","latitude":43.16667,"longitude":26.81667}}(window,'GeoPostal','BG');

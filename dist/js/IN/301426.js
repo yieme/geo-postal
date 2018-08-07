@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301426"]={"code":"301426","region":"Rajasthan","city":"Mandawar","latitude":27.86667,"longitude":76.55}}(window,'GeoPostal','IN');

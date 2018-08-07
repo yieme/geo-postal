@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98365"]={"code":"98365","region":"WA","city":"Port Ludlow","latitude":47.9222,"longitude":-122.6896}}(window,'GeoPostal','US');

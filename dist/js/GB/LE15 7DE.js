@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE15 7DE"]={"code":"LE15 7DE","region":"England","city":"Cottesmore","latitude":52.71384,"longitude":-0.6633}}(window,'GeoPostal','GB');

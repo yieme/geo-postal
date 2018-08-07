@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25156"]={"code":"25156","region":"WV","city":"Pinch","latitude":38.402,"longitude":-81.4611}}(window,'GeoPostal','US');

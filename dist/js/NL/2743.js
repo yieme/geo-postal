@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2743"]={"code":"2743","region":"Zuid-Holland","city":"Waddinxveen","latitude":52.045,"longitude":4.65139}}(window,'GeoPostal','NL');

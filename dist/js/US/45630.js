@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45630"]={"code":"45630","region":"OH","city":"Friendship","latitude":38.6991,"longitude":-83.0916}}(window,'GeoPostal','US');

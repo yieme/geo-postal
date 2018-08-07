@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27442"]={"code":"27442","region":"Niedersachsen","city":"Rubehorst","latitude":53.40321,"longitude":8.99481}}(window,'GeoPostal','DE');

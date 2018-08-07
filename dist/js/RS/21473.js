@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21473"]={"code":"21473","region":"Juznobacki okrug","city":"Maglic","latitude":45.36222,"longitude":19.53167}}(window,'GeoPostal','RS');

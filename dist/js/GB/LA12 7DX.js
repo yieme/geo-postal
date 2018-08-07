@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 7DX"]={"code":"LA12 7DX","region":"England","city":"Ulverston","latitude":54.19594,"longitude":-3.09626}}(window,'GeoPostal','GB');

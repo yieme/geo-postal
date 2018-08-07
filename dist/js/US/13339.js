@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13339"]={"code":"13339","region":"NY","city":"Fort Plain","latitude":42.9372,"longitude":-74.6433}}(window,'GeoPostal','US');

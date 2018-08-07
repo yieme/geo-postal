@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17456"]={"code":"17456","region":"Attiki","city":"Alimos","latitude":37.91667,"longitude":23.71667}}(window,'GeoPostal','GR');

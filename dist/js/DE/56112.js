@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56112"]={"code":"56112","region":"Rheinland-Pfalz","city":"Lahnstein","latitude":50.3,"longitude":7.61667}}(window,'GeoPostal','DE');

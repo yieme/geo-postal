@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0K 0E0"]={"code":"R0K 0E0","region":"Manitoba","city":"Boissevain","latitude":49.23062,"longitude":-100.05586}}(window,'GeoPostal','CA');

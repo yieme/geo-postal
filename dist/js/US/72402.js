@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72402"]={"code":"72402","region":"AR","city":"Jonesboro","latitude":35.8088,"longitude":-90.6529}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16043"]={"code":"16043","region":"Gharb-Chrarda-Beni Hssen","city":"Sidi Qacem","latitude":34.22149,"longitude":-5.70775}}(window,'GeoPostal','MA');

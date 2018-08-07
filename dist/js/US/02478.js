@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02478"]={"code":"02478","region":"Massachusetts","city":"Belmont","latitude":42.39479,"longitude":-71.18157}}(window,'GeoPostal','US');

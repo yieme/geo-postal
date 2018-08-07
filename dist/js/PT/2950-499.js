@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2950-499"]={"code":"2950-499","region":"Setubal","city":"Palmela","latitude":38.56902,"longitude":-8.90126}}(window,'GeoPostal','PT');

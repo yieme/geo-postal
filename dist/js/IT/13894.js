@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13894"]={"code":"13894","region":"Piemonte","city":"Gaglianico","latitude":45.53786,"longitude":8.07502}}(window,'GeoPostal','IT');

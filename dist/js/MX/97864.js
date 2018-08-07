@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97864"]={"code":"97864","region":"Yucatan","city":"Ticul","latitude":20.4,"longitude":-89.53333}}(window,'GeoPostal','MX');

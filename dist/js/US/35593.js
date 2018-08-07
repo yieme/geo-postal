@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35593"]={"code":"35593","region":"AL","city":"Vina","latitude":34.3712,"longitude":-88.0774}}(window,'GeoPostal','US');

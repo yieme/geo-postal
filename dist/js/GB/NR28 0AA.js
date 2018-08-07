@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR28 0AA"]={"code":"NR28 0AA","region":"England","city":"Felmingham","latitude":52.8149,"longitude":1.3393}}(window,'GeoPostal','GB');

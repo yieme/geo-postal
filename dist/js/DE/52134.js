@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52134"]={"code":"52134","region":"Nordrhein-Westfalen","city":"Herzogenrath","latitude":50.87067,"longitude":6.10136}}(window,'GeoPostal','DE');

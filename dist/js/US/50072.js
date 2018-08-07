@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50072"]={"code":"50072","region":"IA","city":"Earlham","latitude":41.4709,"longitude":-94.1294}}(window,'GeoPostal','US');

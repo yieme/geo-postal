@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2643"]={"code":"2643","region":"Nograd","city":"Diosjeno","latitude":47.93968,"longitude":19.04317}}(window,'GeoPostal','HU');

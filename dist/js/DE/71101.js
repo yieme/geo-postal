@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71101"]={"code":"71101","region":"Baden-Wurttemberg","city":"Schonaich","latitude":48.65,"longitude":9.06667}}(window,'GeoPostal','DE');

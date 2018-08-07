@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28700"]={"code":"28700","region":"Centre-Val de Loire","city":"Sainville","latitude":48.4161,"longitude":1.8806}}(window,'GeoPostal','FR');

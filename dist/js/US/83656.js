@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83656"]={"code":"83656","region":"ID","city":"Notus","latitude":43.7259,"longitude":-116.7997}}(window,'GeoPostal','US');

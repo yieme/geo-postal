@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54980"]={"code":"54980","region":"Grand-Est","city":"Batilly","latitude":49.17372,"longitude":5.96889}}(window,'GeoPostal','FR');

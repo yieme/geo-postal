@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61373"]={"code":"61373","region":"IL","city":"Utica","latitude":41.363,"longitude":-89.0008}}(window,'GeoPostal','US');

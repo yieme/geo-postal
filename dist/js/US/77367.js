@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77367"]={"code":"77367","region":"TX","city":"Riverside","latitude":30.853,"longitude":-95.4036}}(window,'GeoPostal','US');

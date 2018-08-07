@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57718"]={"code":"57718","region":"South Dakota","city":"Blackhawk","latitude":44.158822,"longitude":-103.327136}}(window,'GeoPostal','US');

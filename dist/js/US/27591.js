@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27591"]={"code":"27591","region":"North Carolina","city":"Wendell","latitude":35.794576,"longitude":-78.389817}}(window,'GeoPostal','US');

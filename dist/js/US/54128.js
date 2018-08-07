@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54128"]={"code":"54128","region":"Wisconsin","city":"Gresham","latitude":44.842262,"longitude":-88.821343}}(window,'GeoPostal','US');

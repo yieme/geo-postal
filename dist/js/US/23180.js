@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23180"]={"code":"23180","region":"Virginia","city":"Water View","latitude":37.700242,"longitude":-76.618291}}(window,'GeoPostal','US');

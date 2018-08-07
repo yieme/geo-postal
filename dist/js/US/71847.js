@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71847"]={"code":"71847","region":"AR","city":"Mc Caskill","latitude":33.923,"longitude":-93.6266}}(window,'GeoPostal','US');

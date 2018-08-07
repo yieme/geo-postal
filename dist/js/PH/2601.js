@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2601"]={"code":"2601","region":"Benguet","city":"La Trinidad","latitude":16.455,"longitude":120.5875}}(window,'GeoPostal','PH');

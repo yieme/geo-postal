@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62370"]={"code":"62370","region":"Kharkivska oblast","city":"Solonytsivka","latitude":49.99682,"longitude":36.03464}}(window,'GeoPostal','UA');

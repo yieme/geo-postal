@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96107"]={"code":"96107","region":"California","city":"Coleville","latitude":38.56639,"longitude":-119.50722}}(window,'GeoPostal','US');

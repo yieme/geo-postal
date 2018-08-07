@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40077"]={"code":"40077","region":"Kentucky","city":"Westport","latitude":38.487408,"longitude":-85.453264}}(window,'GeoPostal','US');

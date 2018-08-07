@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17551"]={"code":"17551","region":"Pennsylvania","city":"Millersville","latitude":39.999507,"longitude":-76.361022}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 7YF"]={"code":"EX22 7YF","region":"England","city":"Cookbury","latitude":50.8318,"longitude":-4.26398}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH47 7BA"]={"code":"CH47 7BA","region":"England","city":"Great Meols","latitude":53.40569,"longitude":-3.15339}}(window,'GeoPostal','GB');

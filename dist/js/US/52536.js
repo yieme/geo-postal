@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52536"]={"code":"52536","region":"IA","city":"Blakesburg","latitude":40.9555,"longitude":-92.6195}}(window,'GeoPostal','US');

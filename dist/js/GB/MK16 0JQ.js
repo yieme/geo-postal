@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK16 0JQ"]={"code":"MK16 0JQ","region":"England","city":"Newport Pagnell","latitude":52.08731,"longitude":-0.72218}}(window,'GeoPostal','GB');

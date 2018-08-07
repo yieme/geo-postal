@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75507"]={"code":"75507","region":"TX","city":"Texarkana","latitude":33.4251,"longitude":-94.0477}}(window,'GeoPostal','US');

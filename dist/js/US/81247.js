@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81247"]={"code":"81247","region":"CO","city":"Gunnison","latitude":38.54,"longitude":-106.92}}(window,'GeoPostal','US');

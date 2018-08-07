@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0B 1T0"]={"code":"C0B 1T0","region":"Prince Edward Island","city":"Miscouche","latitude":46.43344,"longitude":-63.86543}}(window,'GeoPostal','CA');

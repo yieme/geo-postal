@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-410"]={"code":"88-410","region":"Kujawsko-pomorskie","city":"Gasawa","latitude":52.76757,"longitude":17.75579}}(window,'GeoPostal','PL');

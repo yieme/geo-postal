@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66300"]={"code":"66300","region":"Occitanie","city":"Llupia","latitude":42.62074,"longitude":2.76924}}(window,'GeoPostal','FR');

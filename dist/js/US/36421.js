@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36421"]={"code":"36421","region":"Alabama","city":"Andalusia","latitude":31.307991,"longitude":-86.476872}}(window,'GeoPostal','US');

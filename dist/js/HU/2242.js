@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2242"]={"code":"2242","region":"Pest","city":"Suelysap","latitude":47.45206,"longitude":19.53369}}(window,'GeoPostal','HU');

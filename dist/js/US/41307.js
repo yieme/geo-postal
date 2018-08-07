@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41307"]={"code":"41307","region":"KY","city":"Athol","latitude":37.55,"longitude":-83.57}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6011"]={"code":"6011","region":"Luzern","city":"Kriens","latitude":47.03537,"longitude":8.27631}}(window,'GeoPostal','CH');

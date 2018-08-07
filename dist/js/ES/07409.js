@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07409"]={"code":"07409","region":"Illes Balears","city":"Port d'Alcudia","latitude":39.84182,"longitude":3.13291}}(window,'GeoPostal','ES');

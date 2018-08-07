@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17345"]={"code":"17345","region":"Pennsylvania","city":"Manchester","latitude":40.06315,"longitude":-76.7183}}(window,'GeoPostal','US');

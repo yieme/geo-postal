@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["384 81"]={"code":"384 81","region":"Jihocesky kraj","city":"Ckyne","latitude":49.11503,"longitude":13.82906}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6086"]={"code":"6086","region":"Bacs-Kiskun","city":"Szalkszentmarton","latitude":46.97565,"longitude":19.01178}}(window,'GeoPostal','HU');

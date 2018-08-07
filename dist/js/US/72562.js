@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72562"]={"code":"72562","region":"Arkansas","city":"Newark","latitude":35.70174,"longitude":-91.44152}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24347"]={"code":"24347","region":"VA","city":"Hiwassee","latitude":36.9756,"longitude":-80.6695}}(window,'GeoPostal','US');

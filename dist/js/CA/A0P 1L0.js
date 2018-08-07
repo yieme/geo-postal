@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0P 1L0"]={"code":"A0P 1L0","region":"Newfoundland and Labrador","city":"Nain","latitude":56.54581,"longitude":-61.67253}}(window,'GeoPostal','CA');

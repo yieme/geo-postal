@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02000"]={"code":"02000","region":"Perlis","city":"Kuala Perlis","latitude":6.4,"longitude":100.13333}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 4H0"]={"code":"A0K 4H0","region":"Newfoundland and Labrador","city":"Port Saunders","latitude":50.65007,"longitude":-57.29822}}(window,'GeoPostal','CA');

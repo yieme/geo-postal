@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 2C0"]={"code":"T0M 2C0","region":"Alberta","city":"Trochu","latitude":51.83341,"longitude":-113.21862}}(window,'GeoPostal','CA');

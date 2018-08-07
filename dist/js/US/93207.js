@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93207"]={"code":"93207","region":"CA","city":"California Hot Springs","latitude":35.8818,"longitude":-118.6561}}(window,'GeoPostal','US');

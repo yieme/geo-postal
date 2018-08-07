@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78935"]={"code":"78935","region":"Texas","city":"Alleyton","latitude":29.74847,"longitude":-96.45491}}(window,'GeoPostal','US');

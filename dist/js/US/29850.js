@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29850"]={"code":"29850","region":"SC","city":"Vaucluse","latitude":33.6126,"longitude":-81.8098}}(window,'GeoPostal','US');

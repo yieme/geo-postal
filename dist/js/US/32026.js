@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32026"]={"code":"32026","region":"Florida","city":"Raiford","latitude":30.091848,"longitude":-82.195779}}(window,'GeoPostal','US');

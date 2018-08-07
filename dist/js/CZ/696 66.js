@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 66"]={"code":"696 66","region":"Jihomoravsky kraj","city":"Sudomerice","latitude":48.86723,"longitude":17.25676}}(window,'GeoPostal','CZ');

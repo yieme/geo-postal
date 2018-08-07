@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94463"]={"code":"94463","region":"Veracruz de Ignacio de la Llave","city":"Ixtaczoquitlan","latitude":18.85,"longitude":-97.06667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06069"]={"code":"06069","region":"Umbria","city":"Tuoro sul Trasimeno","latitude":43.20654,"longitude":12.07465}}(window,'GeoPostal','IT');

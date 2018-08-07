@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92750"]={"code":"92750","region":"Veracruz de Ignacio de la Llave","city":"Potrero del Llano","latitude":21.05,"longitude":-97.68333}}(window,'GeoPostal','MX');

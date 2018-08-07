@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78139"]={"code":"78139","region":"Ile-de-France","city":"Les Mureaux","latitude":48.99173,"longitude":1.90972}}(window,'GeoPostal','FR');

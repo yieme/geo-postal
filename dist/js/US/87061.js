@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87061"]={"code":"87061","region":"New Mexico","city":"Torreon","latitude":34.747616,"longitude":-106.156494}}(window,'GeoPostal','US');

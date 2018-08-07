@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49892"]={"code":"49892","region":"MI","city":"Vulcan","latitude":45.7623,"longitude":-87.8168}}(window,'GeoPostal','US');

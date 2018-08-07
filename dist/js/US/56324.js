@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56324"]={"code":"56324","region":"Minnesota","city":"Dalton","latitude":46.151565,"longitude":-95.831752}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51310"]={"code":"51310","region":"Grand-Est","city":"Esternay","latitude":48.73232,"longitude":3.56159}}(window,'GeoPostal','FR');

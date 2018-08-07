@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK14 6FF"]={"code":"SK14 6FF","region":"England","city":"Hyde","latitude":53.45131,"longitude":-2.07943}}(window,'GeoPostal','GB');

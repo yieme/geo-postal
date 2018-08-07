@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37434"]={"code":"37434","region":"Niedersachsen","city":"Rollshausen","latitude":51.56667,"longitude":10.21667}}(window,'GeoPostal','DE');

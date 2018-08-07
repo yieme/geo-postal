@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38440"]={"code":"38440","region":"Niedersachsen","city":"Sandkamp","latitude":52.42765,"longitude":10.75235}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72657"]={"code":"72657","region":"Arkansas","city":"Timbo","latitude":35.842608,"longitude":-92.356931}}(window,'GeoPostal','US');

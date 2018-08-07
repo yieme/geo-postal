@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57243"]={"code":"57243","region":"SD","city":"Henry","latitude":44.8858,"longitude":-97.4442}}(window,'GeoPostal','US');

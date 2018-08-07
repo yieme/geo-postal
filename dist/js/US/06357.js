@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06357"]={"code":"06357","region":"CT","city":"Niantic","latitude":41.3253,"longitude":-72.2108}}(window,'GeoPostal','US');

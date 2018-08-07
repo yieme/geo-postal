@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5400-673"]={"code":"5400-673","region":"Vila Real","city":"Chaves","latitude":41.74019,"longitude":-7.46879}}(window,'GeoPostal','PT');

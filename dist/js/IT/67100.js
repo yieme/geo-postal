@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67100"]={"code":"67100","region":"Abruzzo","city":"L'Aquila","latitude":42.35055,"longitude":13.39954}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP6 8NR"]={"code":"IP6 8NR","region":"England","city":"Creeting Saint Mary","latitude":52.16667,"longitude":1.06667}}(window,'GeoPostal','GB');

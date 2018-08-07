@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37854"]={"code":"37854","region":"TN","city":"Rockwood","latitude":35.8587,"longitude":-84.6842}}(window,'GeoPostal','US');

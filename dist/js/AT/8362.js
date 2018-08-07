@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8362"]={"code":"8362","region":"Steiermark","city":"Altenmarkt bei Furstenfeld","latitude":47.05,"longitude":16.05}}(window,'GeoPostal','AT');

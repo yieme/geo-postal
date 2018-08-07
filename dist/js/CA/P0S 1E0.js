@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0S 1E0"]={"code":"P0S 1E0","region":"Ontario","city":"Goulais Bay","latitude":46.72221,"longitude":-84.41414}}(window,'GeoPostal','CA');

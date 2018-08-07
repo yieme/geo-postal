@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01338"]={"code":"01338","region":"MA","city":"Buckland","latitude":42.5736,"longitude":-72.8213}}(window,'GeoPostal','US');

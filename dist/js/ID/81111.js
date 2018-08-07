@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81111"]={"code":"81111","region":"Bali","city":"Banjar Kaliuntu Satu","latitude":-8.1118,"longitude":115.082}}(window,'GeoPostal','ID');

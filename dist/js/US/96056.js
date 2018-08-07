@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96056"]={"code":"96056","region":"California","city":"McArthur","latitude":41.165764,"longitude":-121.356169}}(window,'GeoPostal','US');

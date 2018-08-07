@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06385"]={"code":"06385","region":"Connecticut","city":"Waterford","latitude":41.34972,"longitude":-72.14694}}(window,'GeoPostal','US');

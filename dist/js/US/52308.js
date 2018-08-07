@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52308"]={"code":"52308","region":"Iowa","city":"Millersburg","latitude":41.573883,"longitude":-92.159909}}(window,'GeoPostal','US');

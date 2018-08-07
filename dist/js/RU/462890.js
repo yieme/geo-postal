@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["462890"]={"code":"462890","region":"Orenburgskaya oblast'","city":"Krasnoyarskiy","latitude":51.965,"longitude":59.89667}}(window,'GeoPostal','RU');

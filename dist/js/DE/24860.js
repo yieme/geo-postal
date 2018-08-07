@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24860"]={"code":"24860","region":"Schleswig-Holstein","city":"Hollmuhle","latitude":54.62567,"longitude":9.62355}}(window,'GeoPostal','DE');

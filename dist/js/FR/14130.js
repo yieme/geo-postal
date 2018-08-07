@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14130"]={"code":"14130","region":"Normandie","city":"Pont-l'Eveque","latitude":49.2864,"longitude":0.1847}}(window,'GeoPostal','FR');

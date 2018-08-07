@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45980-000"]={"code":"45980-000","region":"Bahia","city":"Itamaraju","latitude":-17.03917,"longitude":-39.53111}}(window,'GeoPostal','BR');

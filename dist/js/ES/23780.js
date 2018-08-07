@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23780"]={"code":"23780","region":"Andalucia","city":"Lopera","latitude":37.94542,"longitude":-4.21463}}(window,'GeoPostal','ES');

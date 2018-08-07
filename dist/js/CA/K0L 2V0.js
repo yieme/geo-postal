@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 2V0"]={"code":"K0L 2V0","region":"Ontario","city":"Norwood","latitude":44.38342,"longitude":-77.98281}}(window,'GeoPostal','CA');

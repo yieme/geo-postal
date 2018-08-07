@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74035"]={"code":"74035","region":"OK","city":"Hominy","latitude":36.4111,"longitude":-96.3878}}(window,'GeoPostal','US');

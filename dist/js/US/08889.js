@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08889"]={"code":"08889","region":"New Jersey","city":"Whitehouse Station","latitude":40.600567,"longitude":-74.760728}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13125"]={"code":"13125","region":"Berlin","city":"Buch","latitude":52.6347,"longitude":13.49679}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05483"]={"code":"05483","region":"VT","city":"Sheldon","latitude":44.8872,"longitude":-72.953}}(window,'GeoPostal','US');

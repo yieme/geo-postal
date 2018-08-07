@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA71 5HX"]={"code":"SA71 5HX","region":"Wales","city":"Saint Twynnells","latitude":51.64056,"longitude":-4.96167}}(window,'GeoPostal','GB');

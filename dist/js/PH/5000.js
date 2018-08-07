@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5000"]={"code":"5000","region":"Iloilo","city":"Iloilo","latitude":10.69694,"longitude":122.56444}}(window,'GeoPostal','PH');

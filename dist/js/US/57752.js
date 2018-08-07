@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57752"]={"code":"57752","region":"South Dakota","city":"Kyle","latitude":43.42667,"longitude":-102.17556}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-250"]={"code":"05-250","region":"Mazowieckie","city":"Radzymin","latitude":52.41592,"longitude":21.18414}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47588"]={"code":"47588","region":"IN","city":"Troy","latitude":38.0331,"longitude":-86.7981}}(window,'GeoPostal','US');

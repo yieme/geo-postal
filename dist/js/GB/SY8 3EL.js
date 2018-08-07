@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY8 3EL"]={"code":"SY8 3EL","region":"England","city":"Cleestanton","latitude":52.4104,"longitude":-2.63165}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33331"]={"code":"33331","region":"Florida","city":"Weston","latitude":26.05932,"longitude":-80.36958}}(window,'GeoPostal','US');

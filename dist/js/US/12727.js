@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12727"]={"code":"12727","region":"NY","city":"Cochecton Center","latitude":41.6548,"longitude":-74.9827}}(window,'GeoPostal','US');

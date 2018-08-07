@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55366"]={"code":"55366","region":"MN","city":"New Auburn","latitude":44.6735,"longitude":-94.2293}}(window,'GeoPostal','US');

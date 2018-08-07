@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R4L 1B2"]={"code":"R4L 1B2","region":"Manitoba","city":"Pigeon Lake","latitude":49.94641,"longitude":-97.59758}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE23 5QR"]={"code":"PE23 5QR","region":"England","city":"Firsby","latitude":53.15324,"longitude":0.17767}}(window,'GeoPostal','GB');

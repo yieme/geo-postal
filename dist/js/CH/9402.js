@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9402"]={"code":"9402","region":"Sankt Gallen","city":"Morschwil","latitude":47.46867,"longitude":9.42178}}(window,'GeoPostal','CH');

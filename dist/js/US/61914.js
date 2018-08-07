@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61914"]={"code":"61914","region":"IL","city":"Bethany","latitude":39.6348,"longitude":-88.7543}}(window,'GeoPostal','US');

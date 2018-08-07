@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N7T 7W5"]={"code":"N7T 7W5","region":"Ontario","city":"Sarnia","latitude":42.97213,"longitude":-82.407265}}(window,'GeoPostal','CA');

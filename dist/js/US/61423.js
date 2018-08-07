@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61423"]={"code":"61423","region":"IL","city":"Cameron","latitude":40.889,"longitude":-90.5001}}(window,'GeoPostal','US');

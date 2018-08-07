@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71853"]={"code":"71853","region":"AR","city":"Ogden","latitude":33.5826,"longitude":-94.0427}}(window,'GeoPostal','US');

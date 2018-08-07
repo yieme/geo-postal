@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52738"]={"code":"52738","region":"IA","city":"Columbus Junction","latitude":41.2926,"longitude":-91.3006}}(window,'GeoPostal','US');

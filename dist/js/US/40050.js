@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40050"]={"code":"40050","region":"KY","city":"New Castle","latitude":38.4374,"longitude":-85.1756}}(window,'GeoPostal','US');

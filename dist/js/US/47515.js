@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47515"]={"code":"47515","region":"IN","city":"Bristow","latitude":38.1981,"longitude":-86.6821}}(window,'GeoPostal','US');

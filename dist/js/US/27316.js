@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27316"]={"code":"27316","region":"NC","city":"Ramseur","latitude":35.7143,"longitude":-79.6469}}(window,'GeoPostal','US');

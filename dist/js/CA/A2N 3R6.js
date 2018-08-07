@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A2N 3R6"]={"code":"A2N 3R6","region":"Newfoundland and Labrador","city":"Stephenville","latitude":48.555179,"longitude":-58.59919}}(window,'GeoPostal','CA');

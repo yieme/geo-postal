@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82800"]={"code":"82800","region":"Occitanie","city":"Negrepelisse","latitude":44.07436,"longitude":1.51978}}(window,'GeoPostal','FR');

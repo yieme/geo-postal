@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23050"]={"code":"23050","region":"Virginia","city":"Dutton","latitude":37.49778,"longitude":-76.4575}}(window,'GeoPostal','US');

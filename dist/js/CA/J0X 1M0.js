@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 1M0"]={"code":"J0X 1M0","region":"Quebec","city":"Chapeau","latitude":45.91121,"longitude":-77.07305}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73858"]={"code":"73858","region":"Oklahoma","city":"Shattuck","latitude":36.27587,"longitude":-99.88123}}(window,'GeoPostal','US');

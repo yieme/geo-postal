@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49335"]={"code":"49335","region":"MI","city":"Moline","latitude":42.737,"longitude":-85.6635}}(window,'GeoPostal','US');

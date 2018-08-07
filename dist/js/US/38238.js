@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38238"]={"code":"38238","region":"Tennessee","city":"Martin","latitude":36.342316,"longitude":-88.858538}}(window,'GeoPostal','US');

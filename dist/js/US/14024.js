@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14024"]={"code":"14024","region":"New York","city":"Bliss","latitude":42.576017,"longitude":-78.258313}}(window,'GeoPostal','US');

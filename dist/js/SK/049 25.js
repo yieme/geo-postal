@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["049 25"]={"code":"049 25","region":"Kosicky kraj","city":"Dobsina","latitude":48.82073,"longitude":20.36988}}(window,'GeoPostal','SK');

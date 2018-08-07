@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 1H0"]={"code":"T0K 1H0","region":"Alberta","city":"Beaver Mines","latitude":49.45,"longitude":-114.20196}}(window,'GeoPostal','CA');

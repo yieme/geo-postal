@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29129"]={"code":"29129","region":"SC","city":"Ridge Spring","latitude":33.8714,"longitude":-81.6559}}(window,'GeoPostal','US');

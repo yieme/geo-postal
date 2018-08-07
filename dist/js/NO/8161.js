@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8161"]={"code":"8161","region":"Nordland","city":"Glomfjord","latitude":66.81667,"longitude":13.96667}}(window,'GeoPostal','NO');

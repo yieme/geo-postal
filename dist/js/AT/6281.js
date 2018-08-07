@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6281"]={"code":"6281","region":"Tirol","city":"Gerlos","latitude":47.21667,"longitude":12}}(window,'GeoPostal','AT');

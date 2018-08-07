@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0K 1A0"]={"code":"L0K 1A0","region":"Ontario","city":"Beaverton","latitude":44.43342,"longitude":-79.1496}}(window,'GeoPostal','CA');

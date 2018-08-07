@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98082"]={"code":"98082","region":"Washington","city":"Mill Creek","latitude":47.85455,"longitude":-122.22084}}(window,'GeoPostal','US');

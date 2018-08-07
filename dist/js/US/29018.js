@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29018"]={"code":"29018","region":"South Carolina","city":"Bowman","latitude":33.347156,"longitude":-80.685747}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2212"]={"code":"2212","region":"New South Wales","city":"Revesby","latitude":-33.95,"longitude":151.01667}}(window,'GeoPostal','AU');

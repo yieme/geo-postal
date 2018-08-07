@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56639"]={"code":"56639","region":"MN","city":"Effie","latitude":47.8472,"longitude":-93.5799}}(window,'GeoPostal','US');

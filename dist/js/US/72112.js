@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72112"]={"code":"72112","region":"Arkansas","city":"Newport","latitude":35.6048,"longitude":-91.2818}}(window,'GeoPostal','US');

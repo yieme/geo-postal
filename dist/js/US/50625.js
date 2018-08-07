@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50625"]={"code":"50625","region":"Iowa","city":"Dumont","latitude":42.76394,"longitude":-92.979601}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP26 5HU"]={"code":"IP26 5HU","region":"England","city":"Didlington","latitude":52.53333,"longitude":0.63333}}(window,'GeoPostal','GB');

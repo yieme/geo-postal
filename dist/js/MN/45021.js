@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45021"]={"code":"45021","region":"Selenge","city":"Sharingol","latitude":49.23733,"longitude":106.43005}}(window,'GeoPostal','MN');

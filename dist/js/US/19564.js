@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19564"]={"code":"19564","region":"PA","city":"Virginville","latitude":40.524,"longitude":-75.873}}(window,'GeoPostal','US');

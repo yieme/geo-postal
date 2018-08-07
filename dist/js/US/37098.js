@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37098"]={"code":"37098","region":"Tennessee","city":"Bon Aqua Junction","latitude":35.92784,"longitude":-87.31084}}(window,'GeoPostal','US');

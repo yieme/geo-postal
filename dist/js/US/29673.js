@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29673"]={"code":"29673","region":"South Carolina","city":"Piedmont","latitude":34.722555,"longitude":-82.421458}}(window,'GeoPostal','US');

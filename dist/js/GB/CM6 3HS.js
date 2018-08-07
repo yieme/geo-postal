@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM6 3HS"]={"code":"CM6 3HS","region":"England","city":"Little Dunmow","latitude":51.86658,"longitude":0.40426}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32455"]={"code":"32455","region":"Florida","city":"Ponce de Leon","latitude":30.76774,"longitude":-85.953103}}(window,'GeoPostal','US');

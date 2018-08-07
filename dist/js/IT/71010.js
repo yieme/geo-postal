@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71010"]={"code":"71010","region":"Puglia","city":"Serracapriola","latitude":41.81194,"longitude":15.16024}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-034"]={"code":"46-034","region":"Opolskie","city":"Pokoj","latitude":50.90265,"longitude":17.83751}}(window,'GeoPostal','PL');

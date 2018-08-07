@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38621"]={"code":"38621","region":"MS","city":"Crenshaw","latitude":34.4491,"longitude":-90.1701}}(window,'GeoPostal','US');

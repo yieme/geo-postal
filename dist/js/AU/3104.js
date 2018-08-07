@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3104"]={"code":"3104","region":"Victoria","city":"Balwyn","latitude":-37.81168,"longitude":145.08099}}(window,'GeoPostal','AU');

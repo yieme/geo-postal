@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["752119"]={"code":"752119","region":"Odisha","city":"Konarka","latitude":19.9,"longitude":86.11667}}(window,'GeoPostal','IN');

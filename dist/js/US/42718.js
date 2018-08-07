@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42718"]={"code":"42718","region":"Kentucky","city":"Campbellsville","latitude":37.3434,"longitude":-85.34191}}(window,'GeoPostal','US');

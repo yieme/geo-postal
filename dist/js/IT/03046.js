@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03046"]={"code":"03046","region":"Lazio","city":"San Donato Val di Comino","latitude":41.70812,"longitude":13.81261}}(window,'GeoPostal','IT');

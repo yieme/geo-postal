@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SR7 8ST"]={"code":"SR7 8ST","region":"England","city":"Dalton le Dale","latitude":54.81667,"longitude":-1.36667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25141"]={"code":"25141","region":"West Virginia","city":"Nebo","latitude":38.625536,"longitude":-81.028624}}(window,'GeoPostal','US');

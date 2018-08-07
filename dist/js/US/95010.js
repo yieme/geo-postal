@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95010"]={"code":"95010","region":"California","city":"Capitola","latitude":36.976555,"longitude":-121.952107}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8493"]={"code":"8493","region":"Steiermark","city":"Kloch","latitude":46.76472,"longitude":15.96556}}(window,'GeoPostal','AT');

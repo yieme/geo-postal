@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81650"]={"code":"81650","region":"Colorado","city":"Rifle","latitude":39.5347,"longitude":-107.78312}}(window,'GeoPostal','US');

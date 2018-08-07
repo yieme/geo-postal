@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15379"]={"code":"15379","region":"PA","city":"West Middletown","latitude":40.2417,"longitude":-80.4242}}(window,'GeoPostal','US');

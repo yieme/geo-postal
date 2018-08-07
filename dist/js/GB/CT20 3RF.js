@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT20 3RF"]={"code":"CT20 3RF","region":"England","city":"Shorncliffe Camp","latitude":51.08333,"longitude":1.15}}(window,'GeoPostal','GB');

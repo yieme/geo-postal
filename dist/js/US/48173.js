@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48173"]={"code":"48173","region":"Michigan","city":"Rockwood","latitude":42.07088,"longitude":-83.2466}}(window,'GeoPostal','US');

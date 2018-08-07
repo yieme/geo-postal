@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70005"]={"code":"70005","region":"Louisiana","city":"Metairie","latitude":29.998534,"longitude":-90.133691}}(window,'GeoPostal','US');

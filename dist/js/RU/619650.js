@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["619650"]={"code":"619650","region":"Permskiy kray","city":"Gayny","latitude":60.30707,"longitude":54.32412}}(window,'GeoPostal','RU');

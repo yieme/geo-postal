@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07331"]={"code":"07331","region":"Kyivska oblast","city":"Dymer","latitude":50.78647,"longitude":30.3026}}(window,'GeoPostal','UA');

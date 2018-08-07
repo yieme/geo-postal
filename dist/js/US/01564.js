@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01564"]={"code":"01564","region":"Massachusetts","city":"Sterling","latitude":42.43759,"longitude":-71.76063}}(window,'GeoPostal','US');

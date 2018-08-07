@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99662"]={"code":"99662","region":"AK","city":"Scammon Bay","latitude":61.845,"longitude":-165.5819}}(window,'GeoPostal','US');

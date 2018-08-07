@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64734"]={"code":"64734","region":"MO","city":"Cleveland","latitude":38.6898,"longitude":-94.5695}}(window,'GeoPostal','US');

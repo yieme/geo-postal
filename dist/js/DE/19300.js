@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19300"]={"code":"19300","region":"Mecklenburg-Vorpommern","city":"Prislich","latitude":53.26667,"longitude":11.61667}}(window,'GeoPostal','DE');

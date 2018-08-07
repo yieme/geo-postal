@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU17 8QF"]={"code":"HU17 8QF","region":"England","city":"Bishop Burton","latitude":53.84562,"longitude":-0.49811}}(window,'GeoPostal','GB');

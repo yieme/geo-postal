@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12585"]={"code":"12585","region":"NY","city":"Verbank","latitude":41.7227,"longitude":-73.7184}}(window,'GeoPostal','US');

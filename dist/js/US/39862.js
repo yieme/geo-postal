@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39862"]={"code":"39862","region":"GA","city":"Leary","latitude":31.4849,"longitude":-84.5128}}(window,'GeoPostal','US');

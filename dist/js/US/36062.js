@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36062"]={"code":"36062","region":"AL","city":"Petrey","latitude":31.8488,"longitude":-86.2077}}(window,'GeoPostal','US');

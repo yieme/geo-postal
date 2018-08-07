@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22220"]={"code":"22220","region":"Bretagne","city":"Plouguiel","latitude":48.79742,"longitude":-3.23883}}(window,'GeoPostal','FR');

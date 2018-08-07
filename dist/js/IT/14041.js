@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14041"]={"code":"14041","region":"Piemonte","city":"Agliano Terme","latitude":44.79025,"longitude":8.25044}}(window,'GeoPostal','IT');

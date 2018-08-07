@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02479"]={"code":"02479","region":"MA","city":"Waverley","latitude":42.3876,"longitude":-71.1828}}(window,'GeoPostal','US');

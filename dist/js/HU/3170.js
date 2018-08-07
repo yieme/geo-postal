@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3170"]={"code":"3170","region":"Nograd","city":"Szecseny","latitude":48.08057,"longitude":19.52019}}(window,'GeoPostal','HU');

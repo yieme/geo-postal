@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49413"]={"code":"49413","region":"Niedersachsen","city":"Dinklage","latitude":52.66223,"longitude":8.1244}}(window,'GeoPostal','DE');

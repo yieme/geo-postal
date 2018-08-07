@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31001"]={"code":"31001","region":"Hatay","city":"Serinyol","latitude":36.3707,"longitude":36.22525}}(window,'GeoPostal','TR');

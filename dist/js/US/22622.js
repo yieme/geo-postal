@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22622"]={"code":"22622","region":"VA","city":"Brucetown","latitude":39.2543,"longitude":-78.0664}}(window,'GeoPostal','US');

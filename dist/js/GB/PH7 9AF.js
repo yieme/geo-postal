@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH7 9AF"]={"code":"PH7 9AF","region":"Scotland","city":"Crieff","latitude":56.37268,"longitude":-3.83891}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96001"]={"code":"96001","region":"Klaipedos apskritis","city":"Gargzdai","latitude":55.71278,"longitude":21.40333}}(window,'GeoPostal','LT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30809"]={"code":"30809","region":"Georgia","city":"Evans","latitude":33.541034,"longitude":-82.139148}}(window,'GeoPostal','US');

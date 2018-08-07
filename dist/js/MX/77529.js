@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77529"]={"code":"77529","region":"Quintana Roo","city":"Cancun","latitude":21.17429,"longitude":-86.84656}}(window,'GeoPostal','MX');

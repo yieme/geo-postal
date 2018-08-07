@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04241"]={"code":"04241","region":"ME","city":"Lewiston","latitude":44.197,"longitude":-70.2395}}(window,'GeoPostal','US');

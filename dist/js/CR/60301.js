@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60301"]={"code":"60301","region":"Puntarenas","city":"Buenos Aires","latitude":9.17189,"longitude":-83.33417}}(window,'GeoPostal','CR');

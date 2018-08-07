@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58001"]={"code":"58001","region":"North Dakota","city":"Abercrombie","latitude":46.417566,"longitude":-96.71224}}(window,'GeoPostal','US');

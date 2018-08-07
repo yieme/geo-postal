@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6014"]={"code":"6014","region":"Cebu","city":"Baugo","latitude":10.31667,"longitude":123.91667}}(window,'GeoPostal','PH');

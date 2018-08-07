@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24150"]={"code":"24150","region":"VA","city":"Ripplemead","latitude":37.3665,"longitude":-80.6717}}(window,'GeoPostal','US');

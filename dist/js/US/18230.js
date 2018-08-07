@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18230"]={"code":"18230","region":"PA","city":"Junedale","latitude":40.9234,"longitude":-75.9416}}(window,'GeoPostal','US');

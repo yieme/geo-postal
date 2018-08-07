@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12015"]={"code":"12015","region":"NY","city":"Athens","latitude":42.2736,"longitude":-73.8152}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54837"]={"code":"54837","region":"Wisconsin","city":"Frederic","latitude":45.65912,"longitude":-92.46714}}(window,'GeoPostal','US');

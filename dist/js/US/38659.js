@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38659"]={"code":"38659","region":"MS","city":"Potts Camp","latitude":34.6047,"longitude":-89.3151}}(window,'GeoPostal','US');

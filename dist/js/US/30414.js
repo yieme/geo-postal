@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30414"]={"code":"30414","region":"GA","city":"Bellville","latitude":32.1524,"longitude":-81.9743}}(window,'GeoPostal','US');

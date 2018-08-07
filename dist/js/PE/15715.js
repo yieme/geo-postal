@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15715"]={"code":"15715","region":"Lima","city":"Quilmana","latitude":-12.95,"longitude":-76.38333}}(window,'GeoPostal','PE');

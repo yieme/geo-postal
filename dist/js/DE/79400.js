@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79400"]={"code":"79400","region":"Baden-Wurttemberg","city":"Kandern","latitude":47.71393,"longitude":7.66237}}(window,'GeoPostal','DE');

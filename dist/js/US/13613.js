@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13613"]={"code":"13613","region":"New York","city":"Brasher Falls","latitude":44.80167,"longitude":-74.77806}}(window,'GeoPostal','US');

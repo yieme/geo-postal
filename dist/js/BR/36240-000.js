@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36240-000"]={"code":"36240-000","region":"Minas Gerais","city":"Santos Dumont","latitude":-21.45667,"longitude":-43.5525}}(window,'GeoPostal','BR');

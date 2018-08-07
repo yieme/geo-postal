@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45310"]={"code":"45310","region":"Centre-Val de Loire","city":"Patay","latitude":48.04833,"longitude":1.695}}(window,'GeoPostal','FR');

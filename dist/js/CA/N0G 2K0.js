@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 2K0"]={"code":"N0G 2K0","region":"Ontario","city":"Quarindale","latitude":43.732476,"longitude":-80.746087}}(window,'GeoPostal','CA');

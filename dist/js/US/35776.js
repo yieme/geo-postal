@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35776"]={"code":"35776","region":"AL","city":"Woodville","latitude":34.6689,"longitude":-86.2296}}(window,'GeoPostal','US');

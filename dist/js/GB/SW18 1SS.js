@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW18 1SS"]={"code":"SW18 1SS","region":"England","city":"Wandsworth","latitude":51.45722,"longitude":-0.19278}}(window,'GeoPostal','GB');

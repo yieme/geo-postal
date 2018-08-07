@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38190"]={"code":"38190","region":"Auvergne-Rhone-Alpes","city":"Le Champ-pres-Froges","latitude":45.28105,"longitude":5.93966}}(window,'GeoPostal','FR');

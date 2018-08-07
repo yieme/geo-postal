@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21274"]={"code":"21274","region":"Niedersachsen","city":"Undeloh","latitude":53.19711,"longitude":9.97575}}(window,'GeoPostal','DE');

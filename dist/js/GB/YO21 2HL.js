@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO21 2HL"]={"code":"YO21 2HL","region":"England","city":"Commondale","latitude":54.48348,"longitude":-0.97735}}(window,'GeoPostal','GB');

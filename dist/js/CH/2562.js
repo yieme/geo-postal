@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2562"]={"code":"2562","region":"Bern","city":"Bellmund","latitude":47.10852,"longitude":7.24608}}(window,'GeoPostal','CH');

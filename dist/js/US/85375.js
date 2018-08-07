@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85375"]={"code":"85375","region":"AZ","city":"Sun City West","latitude":33.6856,"longitude":-112.3659}}(window,'GeoPostal','US');

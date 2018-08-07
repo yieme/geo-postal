@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7J 0A1"]={"code":"L7J 0A1","region":"Ontario","city":"Acton","latitude":43.62969,"longitude":-80.04149}}(window,'GeoPostal','CA');

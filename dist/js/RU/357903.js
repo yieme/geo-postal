@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357903"]={"code":"357903","region":"Stavropol'skiy kray","city":"Otkaznoye","latitude":44.32639,"longitude":43.86083}}(window,'GeoPostal','RU');

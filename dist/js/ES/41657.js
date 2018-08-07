@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41657"]={"code":"41657","region":"Andalucia","city":"Los Corrales","latitude":37.09918,"longitude":-4.98429}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85130"]={"code":"85130","region":"Ranong","city":"La-Un","latitude":10.11556,"longitude":98.74992}}(window,'GeoPostal','TH');

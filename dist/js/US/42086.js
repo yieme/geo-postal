@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42086"]={"code":"42086","region":"KY","city":"West Paducah","latitude":37.0922,"longitude":-88.7611}}(window,'GeoPostal','US');

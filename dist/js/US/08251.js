@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08251"]={"code":"08251","region":"NJ","city":"Villas","latitude":39.0219,"longitude":-74.9354}}(window,'GeoPostal','US');

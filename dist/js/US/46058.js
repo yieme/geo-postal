@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46058"]={"code":"46058","region":"Indiana","city":"Mulberry","latitude":40.37329,"longitude":-86.62861}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88058"]={"code":"88058","region":"NM","city":"San Miguel","latitude":32.1554,"longitude":-106.735}}(window,'GeoPostal','US');

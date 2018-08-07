@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA7 7BL"]={"code":"LA7 7BL","region":"England","city":"Beetham","latitude":54.2,"longitude":-2.76667}}(window,'GeoPostal','GB');

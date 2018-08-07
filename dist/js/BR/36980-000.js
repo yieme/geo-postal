@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36980-000"]={"code":"36980-000","region":"Minas Gerais","city":"Lajinha","latitude":-20.15139,"longitude":-41.62278}}(window,'GeoPostal','BR');

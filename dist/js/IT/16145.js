@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16145"]={"code":"16145","region":"Lombardia","city":"Milan","latitude":45.46427,"longitude":9.18951}}(window,'GeoPostal','IT');

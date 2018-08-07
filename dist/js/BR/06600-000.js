@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06600-000"]={"code":"06600-000","region":"Sao Paulo","city":"Itapevi","latitude":-23.54889,"longitude":-46.93417}}(window,'GeoPostal','BR');

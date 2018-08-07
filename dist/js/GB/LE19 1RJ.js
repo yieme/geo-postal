@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE19 1RJ"]={"code":"LE19 1RJ","region":"Scotland","city":"Dall","latitude":56.67971,"longitude":-4.29702}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65120"]={"code":"65120","region":"Occitanie","city":"Luz-Saint-Sauveur","latitude":42.87191,"longitude":-0.00322}}(window,'GeoPostal','FR');

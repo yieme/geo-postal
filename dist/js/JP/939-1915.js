@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["939-1915"]={"code":"939-1915","region":"Toyama","city":"Nanto","latitude":36.585,"longitude":136.9225}}(window,'GeoPostal','JP');

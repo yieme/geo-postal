@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06088"]={"code":"06088","region":"Connecticut","city":"East Windsor","latitude":41.90358,"longitude":-72.5955}}(window,'GeoPostal','US');

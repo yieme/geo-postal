@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["037100"]={"code":"037100","region":"Shanxi","city":"Zuoyun","latitude":40.01,"longitude":112.75}}(window,'GeoPostal','CN');

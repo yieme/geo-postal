@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768232"]={"code":"768232","region":"Odisha","city":"Rengali","latitude":21.63333,"longitude":84.05}}(window,'GeoPostal','IN');

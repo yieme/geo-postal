@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN21 4DZ"]={"code":"DN21 4DZ","region":"England","city":"Kirton in Lindsey","latitude":53.47548,"longitude":-0.59566}}(window,'GeoPostal','GB');

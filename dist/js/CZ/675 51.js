@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675 51"]={"code":"675 51","region":"Kraj Vysocina","city":"Jaromerice nad Rokytnou","latitude":49.09408,"longitude":15.89331}}(window,'GeoPostal','CZ');

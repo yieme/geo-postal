@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607036"]={"code":"607036","region":"Nizhegorodskaya oblast'","city":"Shimorskoye","latitude":55.32444,"longitude":42.02667}}(window,'GeoPostal','RU');

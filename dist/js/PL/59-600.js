@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-600"]={"code":"59-600","region":"Dolnoslaskie","city":"Lwowek Slaski","latitude":51.11074,"longitude":15.58582}}(window,'GeoPostal','PL');

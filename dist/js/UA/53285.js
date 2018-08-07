@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53285"]={"code":"53285","region":"Dnipropetrovska oblast","city":"Chervonohryhorivka","latitude":47.62298,"longitude":34.53887}}(window,'GeoPostal','UA');

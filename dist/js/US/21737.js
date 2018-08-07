@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21737"]={"code":"21737","region":"MD","city":"Glenelg","latitude":39.2546,"longitude":-77.0198}}(window,'GeoPostal','US');

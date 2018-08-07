@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632553"]={"code":"632553","region":"Novosibirskaya oblast'","city":"Chulym","latitude":55.09972,"longitude":80.95722}}(window,'GeoPostal','RU');

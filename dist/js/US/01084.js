@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01084"]={"code":"01084","region":"MA","city":"West Chesterfield","latitude":42.3903,"longitude":-72.8709}}(window,'GeoPostal','US');

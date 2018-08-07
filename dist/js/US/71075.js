@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71075"]={"code":"71075","region":"Louisiana","city":"Springhill","latitude":33.00597,"longitude":-93.46684}}(window,'GeoPostal','US');

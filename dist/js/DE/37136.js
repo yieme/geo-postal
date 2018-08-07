@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37136"]={"code":"37136","region":"Niedersachsen","city":"Seulingen","latitude":51.55,"longitude":10.16667}}(window,'GeoPostal','DE');

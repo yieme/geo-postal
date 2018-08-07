@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08210"]={"code":"08210","region":"New Jersey","city":"Cape May Court House","latitude":39.08261,"longitude":-74.82378}}(window,'GeoPostal','US');

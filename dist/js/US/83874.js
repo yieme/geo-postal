@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83874"]={"code":"83874","region":"ID","city":"Murray","latitude":47.6271,"longitude":-115.8585}}(window,'GeoPostal','US');

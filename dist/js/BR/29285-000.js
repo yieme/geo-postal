@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29285-000"]={"code":"29285-000","region":"Espirito Santo","city":"Piuma","latitude":-20.83778,"longitude":-40.72194}}(window,'GeoPostal','BR');

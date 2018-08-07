@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47860"]={"code":"47860","region":"Jalisco","city":"Mascota","latitude":20.51667,"longitude":-104.78333}}(window,'GeoPostal','MX');

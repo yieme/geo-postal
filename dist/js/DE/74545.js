@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74545"]={"code":"74545","region":"Baden-Wurttemberg","city":"Untersteinbach","latitude":49.14259,"longitude":9.57097}}(window,'GeoPostal','DE');

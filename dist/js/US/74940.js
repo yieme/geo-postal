@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74940"]={"code":"74940","region":"Oklahoma","city":"Howe","latitude":34.92768,"longitude":-94.70048}}(window,'GeoPostal','US');

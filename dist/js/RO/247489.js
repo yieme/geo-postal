@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247489"]={"code":"247489","region":"Valcea","city":"Perisani","latitude":45.38333,"longitude":24.4}}(window,'GeoPostal','RO');

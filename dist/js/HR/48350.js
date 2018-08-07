@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48350"]={"code":"48350","region":"Koprivnicko-krizevacka zupanija","city":"Kalinovac","latitude":46.02944,"longitude":17.11556}}(window,'GeoPostal','HR');

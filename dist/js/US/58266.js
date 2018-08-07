@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58266"]={"code":"58266","region":"North Dakota","city":"Niagara","latitude":47.977137,"longitude":-97.817462}}(window,'GeoPostal','US');

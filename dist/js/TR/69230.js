@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69230"]={"code":"69230","region":"Bayburt","city":"Bayburt","latitude":40.25889,"longitude":40.22778}}(window,'GeoPostal','TR');

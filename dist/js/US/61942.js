@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61942"]={"code":"61942","region":"IL","city":"Newman","latitude":39.7848,"longitude":-88.0001}}(window,'GeoPostal','US');

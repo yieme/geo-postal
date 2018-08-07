@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11941"]={"code":"11941","region":"New York","city":"Eastport","latitude":40.82593,"longitude":-72.73177}}(window,'GeoPostal','US');

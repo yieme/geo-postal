@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11412"]={"code":"11412","region":"New York","city":"Saint Albans","latitude":40.694761,"longitude":-73.76692}}(window,'GeoPostal','US');

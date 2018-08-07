@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43154"]={"code":"43154","region":"OH","city":"Stoutsville","latitude":39.6067,"longitude":-82.8193}}(window,'GeoPostal','US');

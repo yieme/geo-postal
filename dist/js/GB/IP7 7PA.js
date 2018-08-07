@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP7 7PA"]={"code":"IP7 7PA","region":"England","city":"Brettenham","latitude":52.15,"longitude":0.88333}}(window,'GeoPostal','GB');

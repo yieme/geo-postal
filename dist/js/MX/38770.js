@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38770"]={"code":"38770","region":"Guanajuato","city":"Iramuco","latitude":19.95,"longitude":-100.91667}}(window,'GeoPostal','MX');

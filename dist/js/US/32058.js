@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32058"]={"code":"32058","region":"Florida","city":"Lawtey","latitude":30.082789,"longitude":-82.122575}}(window,'GeoPostal','US');

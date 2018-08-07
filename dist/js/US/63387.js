@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63387"]={"code":"63387","region":"MO","city":"Whiteside","latitude":39.1853,"longitude":-91.0168}}(window,'GeoPostal','US');

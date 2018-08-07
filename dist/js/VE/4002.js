@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4002"]={"code":"4002","region":"Zulia","city":"Maracaibo","latitude":10.63167,"longitude":-71.64056}}(window,'GeoPostal','VE');

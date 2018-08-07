@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56700-000"]={"code":"56700-000","region":"Pernambuco","city":"Sao Jose do Egito","latitude":-7.47889,"longitude":-37.27444}}(window,'GeoPostal','BR');

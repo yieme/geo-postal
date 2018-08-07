@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13465-000"]={"code":"13465-000","region":"Sao Paulo","city":"Americana","latitude":-22.73917,"longitude":-47.33139}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46147"]={"code":"46147","region":"IN","city":"Jamestown","latitude":39.9579,"longitude":-86.6236}}(window,'GeoPostal','US');

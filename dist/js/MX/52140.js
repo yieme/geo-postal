@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52140"]={"code":"52140","region":"Mexico","city":"Metepec","latitude":19.25361,"longitude":-99.60778}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35008"]={"code":"35008","region":"Canarias","city":"Las Palmas de Gran Canaria","latitude":28.09973,"longitude":-15.41343}}(window,'GeoPostal','ES');

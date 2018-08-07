@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17500"]={"code":"17500","region":"Kelantan","city":"Tanah Merah","latitude":5.8,"longitude":102.15}}(window,'GeoPostal','MY');

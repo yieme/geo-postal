@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY18 6WX"]={"code":"SY18 6WX","region":"Wales","city":"Llanidloes","latitude":52.44977,"longitude":-3.53997}}(window,'GeoPostal','GB');

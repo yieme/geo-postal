@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69460"]={"code":"69460","region":"Auvergne-Rhone-Alpes","city":"Blace","latitude":46.03185,"longitude":4.64499}}(window,'GeoPostal','FR');

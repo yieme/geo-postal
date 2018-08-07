@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11768"]={"code":"11768","region":"New York","city":"Northport","latitude":40.91382,"longitude":-73.3335}}(window,'GeoPostal','US');

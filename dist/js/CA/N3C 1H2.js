@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N3C 1H2"]={"code":"N3C 1H2","region":"Ontario","city":"Hespeler","latitude":43.429785,"longitude":-80.310637}}(window,'GeoPostal','CA');

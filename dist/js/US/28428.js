@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28428"]={"code":"28428","region":"North Carolina","city":"Carolina Beach","latitude":34.03517,"longitude":-77.8936}}(window,'GeoPostal','US');

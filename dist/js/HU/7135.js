@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7135"]={"code":"7135","region":"Tolna","city":"Dunaszentgyorgy","latitude":46.52852,"longitude":18.81771}}(window,'GeoPostal','HU');

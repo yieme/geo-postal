@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3200"]={"code":"3200","region":"Niederosterreich","city":"Weinburg","latitude":48.11351,"longitude":15.53295}}(window,'GeoPostal','AT');

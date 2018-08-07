@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL17 0SN"]={"code":"GL17 0SN","region":"England","city":"Mitcheldean","latitude":51.8644,"longitude":-2.4895}}(window,'GeoPostal','GB');

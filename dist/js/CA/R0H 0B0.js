@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0H 0B0"]={"code":"R0H 0B0","region":"Manitoba","city":"Amaranth","latitude":50.59562,"longitude":-98.73906}}(window,'GeoPostal','CA');

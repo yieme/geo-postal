@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431713"]={"code":"431713","region":"Maharashtra","city":"Mudkhed","latitude":19.16667,"longitude":77.51667}}(window,'GeoPostal','IN');

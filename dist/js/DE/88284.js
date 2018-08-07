@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88284"]={"code":"88284","region":"Baden-Wurttemberg","city":"Geiger","latitude":47.9158,"longitude":9.64431}}(window,'GeoPostal','DE');

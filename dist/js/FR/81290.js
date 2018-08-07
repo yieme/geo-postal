@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81290"]={"code":"81290","region":"Occitanie","city":"Labruguiere","latitude":43.53858,"longitude":2.26392}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17003"]={"code":"17003","region":"Chernihivska oblast","city":"Kozelets","latitude":50.91334,"longitude":31.1214}}(window,'GeoPostal','UA');

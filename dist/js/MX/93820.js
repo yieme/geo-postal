@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93820"]={"code":"93820","region":"Veracruz de Ignacio de la Llave","city":"Misantla","latitude":19.93333,"longitude":-96.83333}}(window,'GeoPostal','MX');

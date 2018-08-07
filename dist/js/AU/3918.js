@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3918"]={"code":"3918","region":"Victoria","city":"Bittern","latitude":-38.33333,"longitude":145.16667}}(window,'GeoPostal','AU');

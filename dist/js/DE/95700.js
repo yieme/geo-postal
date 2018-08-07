@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95700"]={"code":"95700","region":"Bayern","city":"Neusorg","latitude":49.93333,"longitude":11.96667}}(window,'GeoPostal','DE');

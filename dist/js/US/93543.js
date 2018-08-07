@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93543"]={"code":"93543","region":"CA","city":"Littlerock","latitude":34.4891,"longitude":-117.9708}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15629"]={"code":"15629","region":"PA","city":"East Vandergrift","latitude":40.598,"longitude":-79.5624}}(window,'GeoPostal','US');

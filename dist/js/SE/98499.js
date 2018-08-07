@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98499"]={"code":"98499","region":"Norrbottens lan","city":"Pajala","latitude":67.21284,"longitude":23.36607}}(window,'GeoPostal','SE');

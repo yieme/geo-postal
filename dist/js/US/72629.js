@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72629"]={"code":"72629","region":"Arkansas","city":"Dennard","latitude":35.75667,"longitude":-92.52472}}(window,'GeoPostal','US');

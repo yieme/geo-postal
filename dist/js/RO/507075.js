@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507075"]={"code":"507075","region":"Brasov","city":"Ghimbav","latitude":45.66667,"longitude":25.5}}(window,'GeoPostal','RO');

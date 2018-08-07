@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60082"]={"code":"60082","region":"IL","city":"Techny","latitude":42.1164,"longitude":-87.8121}}(window,'GeoPostal','US');

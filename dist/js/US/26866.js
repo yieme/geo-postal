@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26866"]={"code":"26866","region":"West Virginia","city":"Upper Tract","latitude":38.78722,"longitude":-79.2825}}(window,'GeoPostal','US');

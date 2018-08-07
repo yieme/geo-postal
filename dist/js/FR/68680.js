@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68680"]={"code":"68680","region":"Grand-Est","city":"Kembs","latitude":47.68948,"longitude":7.50323}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30442"]={"code":"30442","region":"GA","city":"Millen","latitude":32.7877,"longitude":-81.9618}}(window,'GeoPostal','US');

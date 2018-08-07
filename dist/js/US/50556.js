@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50556"]={"code":"50556","region":"IA","city":"Ledyard","latitude":43.4346,"longitude":-94.1503}}(window,'GeoPostal','US');

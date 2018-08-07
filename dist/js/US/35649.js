@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35649"]={"code":"35649","region":"AL","city":"Mooresville","latitude":34.6259,"longitude":-86.8746}}(window,'GeoPostal','US');

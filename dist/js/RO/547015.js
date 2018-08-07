@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547015"]={"code":"547015","region":"Mures","city":"Adamus","latitude":46.3,"longitude":24.23333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12778"]={"code":"12778","region":"New York","city":"Smallwood","latitude":41.665278,"longitude":-74.819722}}(window,'GeoPostal','US');

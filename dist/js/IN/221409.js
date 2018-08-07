@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["221409"]={"code":"221409","region":"Uttar Pradesh","city":"Saidpur","latitude":25.55,"longitude":83.18333}}(window,'GeoPostal','IN');

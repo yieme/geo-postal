@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44695-000"]={"code":"44695-000","region":"Bahia","city":"Capim Grosso","latitude":-11.38111,"longitude":-40.01278}}(window,'GeoPostal','BR');

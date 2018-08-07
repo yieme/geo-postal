@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20763"]={"code":"20763","region":"Maryland","city":"Savage","latitude":39.140921,"longitude":-76.826771}}(window,'GeoPostal','US');

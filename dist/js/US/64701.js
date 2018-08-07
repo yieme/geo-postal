@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64701"]={"code":"64701","region":"MO","city":"Harrisonville","latitude":38.6419,"longitude":-94.3285}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652804"]={"code":"652804","region":"Yunnan","city":"Huaxijie","latitude":24.07501,"longitude":103.01398}}(window,'GeoPostal','CN');

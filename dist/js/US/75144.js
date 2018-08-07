@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75144"]={"code":"75144","region":"TX","city":"Kerens","latitude":32.1275,"longitude":-96.2298}}(window,'GeoPostal','US');

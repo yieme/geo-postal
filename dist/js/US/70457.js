@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70457"]={"code":"70457","region":"LA","city":"Saint Benedict","latitude":30.5269,"longitude":-90.1126}}(window,'GeoPostal','US');

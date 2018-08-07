@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61853"]={"code":"61853","region":"Illinois","city":"Mahomet","latitude":40.199139,"longitude":-88.393021}}(window,'GeoPostal','US');

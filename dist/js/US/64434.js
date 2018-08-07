@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64434"]={"code":"64434","region":"MO","city":"Conception Junction","latitude":40.2659,"longitude":-94.6915}}(window,'GeoPostal','US');

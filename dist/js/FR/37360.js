@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37360"]={"code":"37360","region":"Centre-Val de Loire","city":"Semblancay","latitude":47.4997,"longitude":0.5811}}(window,'GeoPostal','FR');

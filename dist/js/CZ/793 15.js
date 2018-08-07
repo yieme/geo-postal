@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["793 15"]={"code":"793 15","region":"Moravskoslezsky kraj","city":"Lichnov","latitude":50.00786,"longitude":17.6264}}(window,'GeoPostal','CZ');

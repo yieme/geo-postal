@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78877"]={"code":"78877","region":"TX","city":"Quemado","latitude":28.9256,"longitude":-100.5912}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68865"]={"code":"68865","region":"NE","city":"Phillips","latitude":40.8982,"longitude":-98.2129}}(window,'GeoPostal','US');

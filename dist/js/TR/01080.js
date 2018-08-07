@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01080"]={"code":"01080","region":"Gaziantep","city":"Oguzeli","latitude":36.96572,"longitude":37.51339}}(window,'GeoPostal','TR');

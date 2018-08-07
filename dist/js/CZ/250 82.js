@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250 82"]={"code":"250 82","region":"Stredocesky kraj","city":"Uvaly","latitude":50.07394,"longitude":14.7308}}(window,'GeoPostal','CZ');

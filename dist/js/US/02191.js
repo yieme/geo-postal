@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02191"]={"code":"02191","region":"MA","city":"North Weymouth","latitude":42.2459,"longitude":-70.9467}}(window,'GeoPostal','US');

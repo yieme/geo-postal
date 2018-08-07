@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20876"]={"code":"20876","region":"Baja California Sur","city":"La Paz","latitude":24.16667,"longitude":-110.3}}(window,'GeoPostal','MX');

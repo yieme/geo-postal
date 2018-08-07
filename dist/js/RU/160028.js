@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["160028"]={"code":"160028","region":"Vologodskaya oblast'","city":"Vologda","latitude":59.2187,"longitude":39.8886}}(window,'GeoPostal','RU');

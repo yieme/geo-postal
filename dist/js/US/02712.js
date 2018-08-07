@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02712"]={"code":"02712","region":"MA","city":"Chartley","latitude":41.9487,"longitude":-71.2259}}(window,'GeoPostal','US');

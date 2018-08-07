@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692175"]={"code":"692175","region":"Primorskiy kray","city":"Novopokrovka","latitude":45.85306,"longitude":134.50889}}(window,'GeoPostal','RU');

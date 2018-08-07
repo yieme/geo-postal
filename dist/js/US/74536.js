@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74536"]={"code":"74536","region":"Oklahoma","city":"Clayton","latitude":34.58778,"longitude":-95.35694}}(window,'GeoPostal','US');

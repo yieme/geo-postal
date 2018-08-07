@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59430"]={"code":"59430","region":"Michoacan de Ocampo","city":"Angamacutiro de la Union","latitude":20.16667,"longitude":-101.68333}}(window,'GeoPostal','MX');

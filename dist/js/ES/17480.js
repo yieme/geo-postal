@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17480"]={"code":"17480","region":"Catalunya","city":"Roses","latitude":42.26199,"longitude":3.17689}}(window,'GeoPostal','ES');

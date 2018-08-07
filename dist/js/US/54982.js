@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54982"]={"code":"54982","region":"Wisconsin","city":"Wautoma","latitude":44.0747,"longitude":-89.2879}}(window,'GeoPostal','US');

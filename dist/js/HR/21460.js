@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21460"]={"code":"21460","region":"Splitsko-dalmatinska zupanija","city":"Starigrad","latitude":43.18472,"longitude":16.59528}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25425"]={"code":"25425","region":"WV","city":"Harpers Ferry","latitude":39.3153,"longitude":-77.7694}}(window,'GeoPostal','US');

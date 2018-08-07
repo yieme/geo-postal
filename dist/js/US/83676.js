@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83676"]={"code":"83676","region":"ID","city":"Wilder","latitude":43.6579,"longitude":-116.9122}}(window,'GeoPostal','US');

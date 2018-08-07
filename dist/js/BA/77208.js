@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77208"]={"code":"77208","region":"Federacija Bosne i Hercegovine","city":"Izacic","latitude":44.875,"longitude":15.78194}}(window,'GeoPostal','BA');

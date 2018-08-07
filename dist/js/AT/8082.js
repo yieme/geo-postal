@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8082"]={"code":"8082","region":"Karnten","city":"Kirchbach","latitude":46.65028,"longitude":13.21139}}(window,'GeoPostal','AT');

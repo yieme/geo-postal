@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8260"]={"code":"8260","region":"Burgas","city":"Tsarevo","latitude":42.16667,"longitude":27.85}}(window,'GeoPostal','BG');

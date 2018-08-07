@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["294 04"]={"code":"294 04","region":"Stredocesky kraj","city":"Dolni Bousov","latitude":50.43825,"longitude":15.12812}}(window,'GeoPostal','CZ');

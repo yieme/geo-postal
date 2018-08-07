@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR7 4HU"]={"code":"HR7 4HU","region":"England","city":"Bromyard","latitude":52.19019,"longitude":-2.50875}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56302"]={"code":"56302","region":"Minnesota","city":"Saint Cloud","latitude":45.56128,"longitude":-94.16511}}(window,'GeoPostal','US');

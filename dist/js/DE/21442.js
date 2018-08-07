@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21442"]={"code":"21442","region":"Niedersachsen","city":"Tangendorf","latitude":53.29453,"longitude":10.0962}}(window,'GeoPostal','DE');

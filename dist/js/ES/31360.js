@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31360"]={"code":"31360","region":"Navarra, Comunidad Foral de","city":"Funes","latitude":42.31562,"longitude":-1.80017}}(window,'GeoPostal','ES');

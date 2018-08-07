@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB10 1SR"]={"code":"CB10 1SR","region":"England","city":"Ickleton","latitude":52.07228,"longitude":0.17737}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14003"]={"code":"14003","region":"Tiaret","city":"Sougueur","latitude":35.18568,"longitude":1.49612}}(window,'GeoPostal','DZ');

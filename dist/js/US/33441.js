@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33441"]={"code":"33441","region":"Florida","city":"Deerfield Beach","latitude":26.309594,"longitude":-80.102404}}(window,'GeoPostal','US');

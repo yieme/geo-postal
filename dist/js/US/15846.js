@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15846"]={"code":"15846","region":"Pennsylvania","city":"Kersey","latitude":41.353056,"longitude":-78.614851}}(window,'GeoPostal','US');

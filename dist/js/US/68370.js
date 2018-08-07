@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68370"]={"code":"68370","region":"NE","city":"Hebron","latitude":40.1728,"longitude":-97.6052}}(window,'GeoPostal','US');

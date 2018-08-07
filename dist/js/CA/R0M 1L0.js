@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0M 1L0"]={"code":"R0M 1L0","region":"Manitoba","city":"Melita","latitude":49.26811,"longitude":-100.99669}}(window,'GeoPostal','CA');

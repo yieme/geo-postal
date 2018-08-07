@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55294"]={"code":"55294","region":"Rheinland-Pfalz","city":"Bodenheim","latitude":49.93528,"longitude":8.32}}(window,'GeoPostal','DE');

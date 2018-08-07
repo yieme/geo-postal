@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11902"]={"code":"11902","region":"Monte Plata","city":"Yamasa","latitude":18.77014,"longitude":-70.02508}}(window,'GeoPostal','DO');

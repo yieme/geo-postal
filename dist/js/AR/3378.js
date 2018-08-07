@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3378"]={"code":"3378","region":"Misiones","city":"Puerto Esperanza","latitude":-26.01517,"longitude":-54.67306}}(window,'GeoPostal','AR');

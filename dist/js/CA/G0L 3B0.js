@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0L 3B0"]={"code":"G0L 3B0","region":"Quebec","city":"Sainte-Francoise","latitude":46.45005,"longitude":-71.98239}}(window,'GeoPostal','CA');

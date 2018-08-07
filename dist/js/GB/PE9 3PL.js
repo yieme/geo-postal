@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 3PL"]={"code":"PE9 3PL","region":"England","city":"Collyweston","latitude":52.61399,"longitude":-0.52983}}(window,'GeoPostal','GB');

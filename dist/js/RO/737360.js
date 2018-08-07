@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737360"]={"code":"737360","region":"Vaslui","city":"Miclesti","latitude":46.81667,"longitude":27.83333}}(window,'GeoPostal','RO');

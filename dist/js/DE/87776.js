@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87776"]={"code":"87776","region":"Bayern","city":"Sontheim","latitude":48.00704,"longitude":10.35461}}(window,'GeoPostal','DE');

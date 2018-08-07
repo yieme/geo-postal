@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81527"]={"code":"81527","region":"CO","city":"Whitewater","latitude":38.9744,"longitude":-108.399}}(window,'GeoPostal','US');

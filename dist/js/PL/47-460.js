@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-460"]={"code":"47-460","region":"Slaskie","city":"Chalupki","latitude":49.92559,"longitude":18.3173}}(window,'GeoPostal','PL');

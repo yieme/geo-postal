@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717373"]={"code":"717373","region":"Botosani","city":"Sulita-Tirg","latitude":47.65,"longitude":26.91667}}(window,'GeoPostal','RO');

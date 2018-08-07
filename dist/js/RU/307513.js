@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307513"]={"code":"307513","region":"Kurskaya oblast'","city":"Pervoavgustovskiy","latitude":52.2264,"longitude":35.0552}}(window,'GeoPostal','RU');

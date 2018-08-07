@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47500-000"]={"code":"47500-000","region":"Bahia","city":"Paratinga","latitude":-12.69056,"longitude":-43.18417}}(window,'GeoPostal','BR');

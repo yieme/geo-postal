@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94038"]={"code":"94038","region":"CA","city":"Moss Beach","latitude":37.531,"longitude":-122.5068}}(window,'GeoPostal','US');

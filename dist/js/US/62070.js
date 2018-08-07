@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62070"]={"code":"62070","region":"IL","city":"Mozier","latitude":39.2925,"longitude":-90.7493}}(window,'GeoPostal','US');

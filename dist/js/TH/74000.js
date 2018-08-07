@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74000"]={"code":"74000","region":"Samut Sakhon","city":"Samut Sakhon","latitude":13.54753,"longitude":100.27362}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA11 6PP"]={"code":"TA11 6PP","region":"England","city":"Compton Dundon","latitude":51.09306,"longitude":-2.73056}}(window,'GeoPostal','GB');

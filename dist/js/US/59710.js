@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59710"]={"code":"59710","region":"Montana","city":"Alder","latitude":45.28635,"longitude":-112.10331}}(window,'GeoPostal','US');

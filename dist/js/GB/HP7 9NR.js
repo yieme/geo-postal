@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP7 9NR"]={"code":"HP7 9NR","region":"England","city":"Little Chalfont","latitude":51.66829,"longitude":-0.57038}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3317"]={"code":"3317","region":"Misiones","city":"Almafuerte","latitude":-27.50518,"longitude":-55.39497}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37071"]={"code":"37071","region":"Tennessee","city":"Gladeville","latitude":36.193563,"longitude":-86.276147}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83604"]={"code":"83604","region":"Idaho","city":"Bruneau","latitude":42.679372,"longitude":-115.930078}}(window,'GeoPostal','US');

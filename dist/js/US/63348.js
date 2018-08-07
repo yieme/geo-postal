@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63348"]={"code":"63348","region":"MO","city":"Foristell","latitude":38.7626,"longitude":-90.9343}}(window,'GeoPostal','US');

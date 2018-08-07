@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13695"]={"code":"13695","region":"NY","city":"Wanakena","latitude":44.1408,"longitude":-74.9125}}(window,'GeoPostal','US');

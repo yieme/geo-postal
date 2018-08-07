@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24915"]={"code":"24915","region":"West Virginia","city":"Arbovale","latitude":38.454782,"longitude":-79.755754}}(window,'GeoPostal','US');

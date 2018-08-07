@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07723"]={"code":"07723","region":"New Jersey","city":"Deal","latitude":40.249951,"longitude":-74.001335}}(window,'GeoPostal','US');

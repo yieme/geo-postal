@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 4DQ"]={"code":"YO25 4DQ","region":"England","city":"Kilham","latitude":54.05,"longitude":-0.36667}}(window,'GeoPostal','GB');

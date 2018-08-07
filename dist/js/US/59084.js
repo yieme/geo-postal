@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59084"]={"code":"59084","region":"MT","city":"Teigen","latitude":47.0366,"longitude":-108.5968}}(window,'GeoPostal','US');

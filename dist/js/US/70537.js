@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70537"]={"code":"70537","region":"Louisiana","city":"Evangeline","latitude":30.259982,"longitude":-92.564006}}(window,'GeoPostal','US');

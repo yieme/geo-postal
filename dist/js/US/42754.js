@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42754"]={"code":"42754","region":"Kentucky","city":"Leitchfield","latitude":37.48005,"longitude":-86.29386}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68642"]={"code":"68642","region":"Hessen","city":"Hofheim","latitude":49.6575,"longitude":8.41384}}(window,'GeoPostal','DE');

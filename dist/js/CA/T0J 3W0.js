@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 3W0"]={"code":"T0J 3W0","region":"Alberta","city":"Siksika","latitude":50.77642,"longitude":-112.9422}}(window,'GeoPostal','CA');

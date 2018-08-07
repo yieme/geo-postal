@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["519-4325"]={"code":"519-4325","region":"Mie","city":"Kumano","latitude":33.883,"longitude":136.1}}(window,'GeoPostal','JP');

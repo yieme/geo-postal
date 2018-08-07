@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18830"]={"code":"18830","region":"Pennsylvania","city":"Little Meadows","latitude":41.961528,"longitude":-76.10624}}(window,'GeoPostal','US');

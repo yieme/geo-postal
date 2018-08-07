@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71839"]={"code":"71839","region":"AR","city":"Garland City","latitude":33.3352,"longitude":-93.7316}}(window,'GeoPostal','US');

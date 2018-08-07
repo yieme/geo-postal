@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45015"]={"code":"45015","region":"Veneto","city":"Corbola","latitude":45.00417,"longitude":12.08083}}(window,'GeoPostal','IT');

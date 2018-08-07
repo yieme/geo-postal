@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-270"]={"code":"62-270","region":"Wielkopolskie","city":"Klecko","latitude":52.63181,"longitude":17.43075}}(window,'GeoPostal','PL');

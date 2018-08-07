@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["229203"]={"code":"229203","region":"Uttar Pradesh","city":"Dalmau","latitude":26.06667,"longitude":81.03333}}(window,'GeoPostal','IN');

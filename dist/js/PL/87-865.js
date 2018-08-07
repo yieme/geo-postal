@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-865"]={"code":"87-865","region":"Kujawsko-pomorskie","city":"Izbica Kujawska","latitude":52.42073,"longitude":18.7627}}(window,'GeoPostal','PL');

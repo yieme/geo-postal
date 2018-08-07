@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75414"]={"code":"75414","region":"Texas","city":"Bells","latitude":33.612346,"longitude":-96.423045}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35963"]={"code":"35963","region":"AL","city":"Dawson","latitude":34.3568,"longitude":-85.9292}}(window,'GeoPostal','US');

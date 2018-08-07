@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47201"]={"code":"47201","region":"Ternopilska oblast","city":"Zboriv","latitude":49.66484,"longitude":25.14096}}(window,'GeoPostal','UA');

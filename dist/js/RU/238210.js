@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238210"]={"code":"238210","region":"Kaliningradskaya oblast'","city":"Gvardeysk","latitude":54.64772,"longitude":21.06513}}(window,'GeoPostal','RU');

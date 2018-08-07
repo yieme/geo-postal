@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4682"]={"code":"4682","region":"Liege","city":"Oupeye","latitude":50.71184,"longitude":5.6468}}(window,'GeoPostal','BE');

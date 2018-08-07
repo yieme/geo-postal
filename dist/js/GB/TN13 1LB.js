@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN13 1LB"]={"code":"TN13 1LB","region":"England","city":"Sevenoaks","latitude":51.26997,"longitude":0.19278}}(window,'GeoPostal','GB');

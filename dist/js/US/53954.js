@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53954"]={"code":"53954","region":"WI","city":"Pardeeville","latitude":43.534,"longitude":-89.3265}}(window,'GeoPostal','US');

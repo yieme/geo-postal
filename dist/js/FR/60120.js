@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60120"]={"code":"60120","region":"Hauts-de-France","city":"Esquennoy","latitude":49.6569,"longitude":2.2694}}(window,'GeoPostal','FR');

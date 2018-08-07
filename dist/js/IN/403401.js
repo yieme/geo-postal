@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403401"]={"code":"403401","region":"Goa","city":"Ponda","latitude":15.4,"longitude":74.01667}}(window,'GeoPostal','IN');

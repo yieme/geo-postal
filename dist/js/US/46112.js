@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46112"]={"code":"46112","region":"Indiana","city":"Brownsburg","latitude":39.84338,"longitude":-86.39777}}(window,'GeoPostal','US');

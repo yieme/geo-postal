@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72830"]={"code":"72830","region":"Arkansas","city":"Clarksville","latitude":35.467495,"longitude":-93.471666}}(window,'GeoPostal','US');

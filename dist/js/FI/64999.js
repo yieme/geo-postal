@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64999"]={"code":"64999","region":"Pohjanmaa","city":"Kristinestad","latitude":62.27429,"longitude":21.37596}}(window,'GeoPostal','FI');

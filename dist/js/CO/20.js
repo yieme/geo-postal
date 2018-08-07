@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20"]={"code":"20","region":"Atlantico","city":"Barranquilla","latitude":10.96389,"longitude":-74.79639}}(window,'GeoPostal','CO');

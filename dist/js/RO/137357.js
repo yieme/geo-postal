@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137357"]={"code":"137357","region":"Dambovita","city":"Petresti","latitude":44.65,"longitude":25.33333}}(window,'GeoPostal','RO');

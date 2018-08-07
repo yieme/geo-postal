@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756 41"]={"code":"756 41","region":"Zlinsky kraj","city":"Lesna","latitude":49.52055,"longitude":17.93004}}(window,'GeoPostal','CZ');

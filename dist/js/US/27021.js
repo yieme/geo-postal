@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27021"]={"code":"27021","region":"NC","city":"King","latitude":36.295,"longitude":-80.356}}(window,'GeoPostal','US');

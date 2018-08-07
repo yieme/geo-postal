@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56581"]={"code":"56581","region":"MN","city":"Shelly","latitude":47.4554,"longitude":-96.7838}}(window,'GeoPostal','US');

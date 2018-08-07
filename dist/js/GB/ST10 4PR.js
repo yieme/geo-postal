@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST10 4PR"]={"code":"ST10 4PR","region":"England","city":"Church Leigh","latitude":52.92168,"longitude":-1.96673}}(window,'GeoPostal','GB');

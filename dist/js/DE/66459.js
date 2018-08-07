@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66459"]={"code":"66459","region":"Saarland","city":"Kirkel","latitude":49.28333,"longitude":7.23333}}(window,'GeoPostal','DE');

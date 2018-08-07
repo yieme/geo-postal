@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40380"]={"code":"40380","region":"Nouvelle-Aquitaine","city":"Montfort-en-Chalosse","latitude":43.71124,"longitude":-0.83947}}(window,'GeoPostal','FR');

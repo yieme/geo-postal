@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17290-000"]={"code":"17290-000","region":"Sao Paulo","city":"Macatuba","latitude":-22.50222,"longitude":-48.71139}}(window,'GeoPostal','BR');

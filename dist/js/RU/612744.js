@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612744"]={"code":"612744","region":"Kirovskaya oblast'","city":"Omutninsk","latitude":58.67001,"longitude":52.1932}}(window,'GeoPostal','RU');

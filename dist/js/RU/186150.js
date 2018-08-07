@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186150"]={"code":"186150","region":"Kareliya, Respublika","city":"Pudozh","latitude":61.80988,"longitude":36.53454}}(window,'GeoPostal','RU');

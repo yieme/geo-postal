@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40218"]={"code":"40218","region":"Jawa Barat","city":"Margahayukencana","latitude":-6.97083,"longitude":107.5675}}(window,'GeoPostal','ID');

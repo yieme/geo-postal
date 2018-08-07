@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83634"]={"code":"83634","region":"Idaho","city":"Kuna","latitude":43.479178,"longitude":-116.391365}}(window,'GeoPostal','US');

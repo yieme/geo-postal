@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79309"]={"code":"79309","region":"Nouvelle-Aquitaine","city":"Bressuire","latitude":46.85,"longitude":-0.48333}}(window,'GeoPostal','FR');

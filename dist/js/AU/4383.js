@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4383"]={"code":"4383","region":"Queensland","city":"Wallangarra","latitude":-28.92389,"longitude":151.92816}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07075"]={"code":"07075","region":"New Jersey","city":"Wood-Ridge","latitude":40.847579,"longitude":-74.087008}}(window,'GeoPostal','US');

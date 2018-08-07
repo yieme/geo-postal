@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41537"]={"code":"41537","region":"Kentucky","city":"Jenkins","latitude":37.17344,"longitude":-82.63099}}(window,'GeoPostal','US');

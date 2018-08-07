@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74915"]={"code":"74915","region":"Baden-Wurttemberg","city":"Waibstadt","latitude":49.29505,"longitude":8.91771}}(window,'GeoPostal','DE');

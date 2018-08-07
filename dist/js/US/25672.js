@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25672"]={"code":"25672","region":"West Virginia","city":"Edgarton","latitude":37.58097,"longitude":-82.10526}}(window,'GeoPostal','US');

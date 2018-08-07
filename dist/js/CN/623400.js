@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623400"]={"code":"623400","region":"Sichuan","city":"Yongle","latitude":33.26465,"longitude":104.23278}}(window,'GeoPostal','CN');

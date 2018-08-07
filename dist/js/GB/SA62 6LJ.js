@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 6LJ"]={"code":"SA62 6LJ","region":"Wales","city":"Llandeloy","latitude":51.89736,"longitude":-5.11362}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92677"]={"code":"92677","region":"California","city":"Laguna Niguel","latitude":33.52554,"longitude":-117.71436}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8061"]={"code":"8061","region":"Nabeul","city":"Dar Chabanne","latitude":36.46798,"longitude":10.75167}}(window,'GeoPostal','TN');

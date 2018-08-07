@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3240"]={"code":"3240","region":"Sylhet","city":"Sylhet","latitude":24.89667,"longitude":91.87167}}(window,'GeoPostal','BD');

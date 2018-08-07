@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385100"]={"code":"385100","region":"Adygeya, Respublika","city":"Takhtamukay","latitude":44.9215,"longitude":38.99583}}(window,'GeoPostal','RU');

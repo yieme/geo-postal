@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42159"]={"code":"42159","region":"KY","city":"Oakland","latitude":36.9985,"longitude":-86.2501}}(window,'GeoPostal','US');

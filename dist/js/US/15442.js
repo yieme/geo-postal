@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15442"]={"code":"15442","region":"PA","city":"Grindstone","latitude":40.0084,"longitude":-79.8404}}(window,'GeoPostal','US');

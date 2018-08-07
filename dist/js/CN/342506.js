@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["342506"]={"code":"342506","region":"Jiangxi","city":"Shazhouba","latitude":25.88476,"longitude":115.99337}}(window,'GeoPostal','CN');

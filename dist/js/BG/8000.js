@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8000"]={"code":"8000","region":"Burgas","city":"Burgas","latitude":42.50606,"longitude":27.46781}}(window,'GeoPostal','BG');

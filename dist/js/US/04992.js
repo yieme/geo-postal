@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04992"]={"code":"04992","region":"Maine","city":"West Farmington","latitude":44.668993,"longitude":-70.146379}}(window,'GeoPostal','US');

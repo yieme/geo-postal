@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5731"]={"code":"5731","region":"Noord-Brabant","city":"Mierlo","latitude":51.44,"longitude":5.61944}}(window,'GeoPostal','NL');

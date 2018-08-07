@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36509"]={"code":"36509","region":"AL","city":"Bayou La Batre","latitude":30.408,"longitude":-88.2507}}(window,'GeoPostal','US');

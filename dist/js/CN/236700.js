@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["236700"]={"code":"236700","region":"Anhui","city":"Lixin","latitude":33.14328,"longitude":116.22718}}(window,'GeoPostal','CN');

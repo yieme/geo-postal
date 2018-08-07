@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29845-000"]={"code":"29845-000","region":"Espirito Santo","city":"Boa Esperanca","latitude":-18.54,"longitude":-40.29583}}(window,'GeoPostal','BR');

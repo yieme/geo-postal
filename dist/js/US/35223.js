@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35223"]={"code":"35223","region":"Alabama","city":"Mountain Brook","latitude":33.50094,"longitude":-86.75221}}(window,'GeoPostal','US');

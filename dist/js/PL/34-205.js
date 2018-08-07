@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-205"]={"code":"34-205","region":"Malopolskie","city":"Stryszawa","latitude":49.71327,"longitude":19.52185}}(window,'GeoPostal','PL');

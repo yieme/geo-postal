@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713305"]={"code":"713305","region":"Shaanxi","city":"Moxi","latitude":34.515,"longitude":108.18889}}(window,'GeoPostal','CN');

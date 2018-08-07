@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54021"]={"code":"54021","region":"Wisconsin","city":"Prescott","latitude":44.74886,"longitude":-92.80215}}(window,'GeoPostal','US');

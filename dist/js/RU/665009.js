@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665009"]={"code":"665009","region":"Irkutskaya oblast'","city":"Tayshet","latitude":55.9342,"longitude":98.0044}}(window,'GeoPostal','RU');

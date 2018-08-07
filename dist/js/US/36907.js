@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36907"]={"code":"36907","region":"Alabama","city":"Cuba","latitude":32.43361,"longitude":-88.37167}}(window,'GeoPostal','US');

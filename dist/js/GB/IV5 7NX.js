@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV5 7NX"]={"code":"IV5 7NX","region":"Scotland","city":"Kirkhill","latitude":57.47662,"longitude":-4.41324}}(window,'GeoPostal','GB');

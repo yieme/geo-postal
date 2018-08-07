@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR12 8YH"]={"code":"NR12 8YH","region":"England","city":"Beeston Saint Lawrence","latitude":52.73333,"longitude":1.45}}(window,'GeoPostal','GB');

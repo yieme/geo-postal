@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83654"]={"code":"83654","region":"Nusa Tenggara Barat","city":"Montonggedeng","latitude":-8.5388,"longitude":116.5917}}(window,'GeoPostal','ID');

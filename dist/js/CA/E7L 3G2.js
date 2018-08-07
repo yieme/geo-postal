@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E7L 3G2"]={"code":"E7L 3G2","region":"New Brunswick","city":"Juniper","latitude":46.449147,"longitude":-67.614019}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601144"]={"code":"601144","region":"Vladimirskaya oblast'","city":"Petushki","latitude":55.92639,"longitude":39.46104}}(window,'GeoPostal','RU');

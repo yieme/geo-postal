@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-430"]={"code":"18-430","region":"Podlaskie","city":"Wizna","latitude":53.19518,"longitude":22.38241}}(window,'GeoPostal','PL');

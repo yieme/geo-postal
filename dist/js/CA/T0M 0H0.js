@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 0H0"]={"code":"T0M 0H0","region":"Alberta","city":"Benalto","latitude":52.30011,"longitude":-114.28531}}(window,'GeoPostal','CA');

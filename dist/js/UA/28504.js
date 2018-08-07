@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28504"]={"code":"28504","region":"Kirovohradska oblast","city":"Dolyns'ka","latitude":48.11041,"longitude":32.76449}}(window,'GeoPostal','UA');

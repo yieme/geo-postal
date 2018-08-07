@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67442"]={"code":"67442","region":"KS","city":"Falun","latitude":38.6648,"longitude":-97.7554}}(window,'GeoPostal','US');

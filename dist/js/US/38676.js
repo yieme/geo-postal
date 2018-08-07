@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38676"]={"code":"38676","region":"Mississippi","city":"Tunica","latitude":34.6944,"longitude":-90.36942}}(window,'GeoPostal','US');

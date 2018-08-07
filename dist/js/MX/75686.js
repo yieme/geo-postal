@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75686"]={"code":"75686","region":"Puebla","city":"San Miguel Zozutla","latitude":18.75,"longitude":-97.65}}(window,'GeoPostal','MX');

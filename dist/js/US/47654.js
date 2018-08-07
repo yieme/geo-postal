@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47654"]={"code":"47654","region":"IN","city":"Mackey","latitude":38.2523,"longitude":-87.3917}}(window,'GeoPostal','US');

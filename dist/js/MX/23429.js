@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23429"]={"code":"23429","region":"Baja California Sur","city":"San Jose del Cabo","latitude":23.05888,"longitude":-109.69771}}(window,'GeoPostal','MX');

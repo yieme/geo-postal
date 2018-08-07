@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25220"]={"code":"25220","region":"Skane lan","city":"Helsingborg","latitude":56.04673,"longitude":12.69437}}(window,'GeoPostal','SE');

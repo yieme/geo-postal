@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38873"]={"code":"38873","region":"Mississippi","city":"Tishomingo","latitude":34.63472,"longitude":-88.23}}(window,'GeoPostal','US');

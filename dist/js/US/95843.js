@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95843"]={"code":"95843","region":"California","city":"Antelope","latitude":38.686118,"longitude":-121.380837}}(window,'GeoPostal','US');

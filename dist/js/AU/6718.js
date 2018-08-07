@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6718"]={"code":"6718","region":"Western Australia","city":"Whim Creek","latitude":-20.83333,"longitude":117.83333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65765"]={"code":"65765","region":"MO","city":"Turners","latitude":37.1809,"longitude":-93.1555}}(window,'GeoPostal','US');

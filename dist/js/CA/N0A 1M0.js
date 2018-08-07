@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0A 1M0"]={"code":"N0A 1M0","region":"Ontario","city":"Ohsweken","latitude":43.075427,"longitude":-80.163408}}(window,'GeoPostal','CA');

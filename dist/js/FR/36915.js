@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36915"]={"code":"36915","region":"Centre-Val de Loire","city":"Chateauroux","latitude":46.81667,"longitude":1.7}}(window,'GeoPostal','FR');

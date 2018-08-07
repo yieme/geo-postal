@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["305405"]={"code":"305405","region":"Rajasthan","city":"Shahpura","latitude":25.63333,"longitude":74.93333}}(window,'GeoPostal','IN');

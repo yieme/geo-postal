@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13786"]={"code":"13786","region":"NY","city":"Harpersfield","latitude":42.4499,"longitude":-74.6871}}(window,'GeoPostal','US');

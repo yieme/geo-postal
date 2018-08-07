@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62615"]={"code":"62615","region":"Illinois","city":"Auburn","latitude":39.590298,"longitude":-89.745396}}(window,'GeoPostal','US');

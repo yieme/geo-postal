@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95309"]={"code":"95309","region":"CA","city":"Chinese Camp","latitude":37.8594,"longitude":-120.4069}}(window,'GeoPostal','US');

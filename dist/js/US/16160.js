@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16160"]={"code":"16160","region":"PA","city":"West Pittsburg","latitude":40.9301,"longitude":-80.3611}}(window,'GeoPostal','US');

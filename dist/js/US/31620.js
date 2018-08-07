@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31620"]={"code":"31620","region":"Georgia","city":"Adel","latitude":31.138672,"longitude":-83.426449}}(window,'GeoPostal','US');

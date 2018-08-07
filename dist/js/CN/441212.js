@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["441212"]={"code":"441212","region":"Hubei","city":"Xiongji","latitude":31.95639,"longitude":112.65472}}(window,'GeoPostal','CN');

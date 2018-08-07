@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82732"]={"code":"82732","region":"Wyoming","city":"Wright","latitude":43.74692,"longitude":-105.47055}}(window,'GeoPostal','US');

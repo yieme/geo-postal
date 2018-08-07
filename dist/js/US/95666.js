@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95666"]={"code":"95666","region":"CA","city":"Pioneer","latitude":38.4319,"longitude":-120.5719}}(window,'GeoPostal','US');

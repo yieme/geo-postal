@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396240"]={"code":"396240","region":"Dadra and Nagar Haveli","city":"Silvassa","latitude":20.26667,"longitude":73.01667}}(window,'GeoPostal','IN');

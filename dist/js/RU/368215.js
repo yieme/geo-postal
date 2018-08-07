@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368215"]={"code":"368215","region":"Dagestan, Respublika","city":"Kafyr-Kumukh","latitude":42.83754,"longitude":47.15412}}(window,'GeoPostal','RU');

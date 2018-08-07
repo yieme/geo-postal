@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["591267"]={"code":"591267","region":"Karnataka","city":"Athni","latitude":16.73333,"longitude":75.06667}}(window,'GeoPostal','IN');

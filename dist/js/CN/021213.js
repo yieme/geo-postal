@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["021213"]={"code":"021213","region":"Nei Mongol","city":"Amgalang","latitude":48.25,"longitude":118.2}}(window,'GeoPostal','CN');

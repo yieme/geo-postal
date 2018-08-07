@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59390"]={"code":"59390","region":"Hauts-de-France","city":"Toufflers","latitude":50.66039,"longitude":3.23358}}(window,'GeoPostal','FR');

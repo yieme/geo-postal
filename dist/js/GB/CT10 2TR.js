@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT10 2TR"]={"code":"CT10 2TR","region":"England","city":"Saint Peters","latitude":51.36667,"longitude":1.41667}}(window,'GeoPostal','GB');

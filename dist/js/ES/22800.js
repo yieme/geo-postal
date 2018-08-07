@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22800"]={"code":"22800","region":"Aragon","city":"Ayerbe","latitude":42.27268,"longitude":-0.68844}}(window,'GeoPostal','ES');

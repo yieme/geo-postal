@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46010"]={"code":"46010","region":"Lombardia","city":"Mantova","latitude":45.16031,"longitude":10.79784}}(window,'GeoPostal','IT');

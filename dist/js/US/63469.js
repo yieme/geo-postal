@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63469"]={"code":"63469","region":"Missouri","city":"Shelbyville","latitude":39.80587,"longitude":-92.04156}}(window,'GeoPostal','US');

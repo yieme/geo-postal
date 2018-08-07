@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59755"]={"code":"59755","region":"MT","city":"Virginia City","latitude":45.2938,"longitude":-111.9461}}(window,'GeoPostal','US');

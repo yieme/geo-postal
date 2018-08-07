@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58278"]={"code":"58278","region":"ND","city":"Thompson","latitude":47.7766,"longitude":-97.0962}}(window,'GeoPostal','US');

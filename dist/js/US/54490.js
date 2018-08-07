@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54490"]={"code":"54490","region":"Wisconsin","city":"Westboro","latitude":45.335565,"longitude":-90.35739}}(window,'GeoPostal','US');

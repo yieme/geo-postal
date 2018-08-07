@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76686"]={"code":"76686","region":"TX","city":"Tehuacana","latitude":31.7504,"longitude":-96.5416}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA19 7NL"]={"code":"KA19 7NL","region":"Scotland","city":"Straiton","latitude":55.3,"longitude":-4.55}}(window,'GeoPostal','GB');

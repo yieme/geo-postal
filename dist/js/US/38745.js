@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38745"]={"code":"38745","region":"Mississippi","city":"Grace","latitude":32.824158,"longitude":-91.044677}}(window,'GeoPostal','US');

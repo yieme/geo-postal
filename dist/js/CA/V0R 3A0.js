@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0R 3A0"]={"code":"V0R 3A0","region":"British Columbia","city":"Ucluelet","latitude":48.939806,"longitude":-125.544446}}(window,'GeoPostal','CA');

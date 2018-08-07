@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-300"]={"code":"17-300","region":"Podlaskie","city":"Siemiatycze","latitude":52.42719,"longitude":22.86231}}(window,'GeoPostal','PL');

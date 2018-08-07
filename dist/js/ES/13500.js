@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13500"]={"code":"13500","region":"Castilla-La Mancha","city":"Puertollano","latitude":38.68712,"longitude":-4.10734}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0L 1M0"]={"code":"G0L 1M0","region":"Quebec","city":"Kamouraska","latitude":47.56593,"longitude":-69.86631}}(window,'GeoPostal','CA');

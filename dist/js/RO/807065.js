@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807065"]={"code":"807065","region":"Galati","city":"Cavadinesti","latitude":46.06667,"longitude":28.01694}}(window,'GeoPostal','RO');

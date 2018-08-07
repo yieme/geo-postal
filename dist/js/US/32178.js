@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32178"]={"code":"32178","region":"Florida","city":"Palatka","latitude":29.64828,"longitude":-81.63768}}(window,'GeoPostal','US');

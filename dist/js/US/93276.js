@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93276"]={"code":"93276","region":"California","city":"Tupman","latitude":35.289466,"longitude":-119.3387}}(window,'GeoPostal','US');

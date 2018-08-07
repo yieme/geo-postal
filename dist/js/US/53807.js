@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53807"]={"code":"53807","region":"Wisconsin","city":"Cuba City","latitude":42.60555,"longitude":-90.42985}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59196-000"]={"code":"59196-000","region":"Rio Grande do Norte","city":"Pedro Velho","latitude":-6.43917,"longitude":-35.22139}}(window,'GeoPostal','BR');

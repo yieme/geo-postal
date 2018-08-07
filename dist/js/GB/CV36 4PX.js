@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV36 4PX"]={"code":"CV36 4PX","region":"England","city":"Shipston on Stour","latitude":52.06057,"longitude":-1.62778}}(window,'GeoPostal','GB');

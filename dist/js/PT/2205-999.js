@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2205-999"]={"code":"2205-999","region":"Santarem","city":"Abrantes","latitude":39.46667,"longitude":-8.2}}(window,'GeoPostal','PT');

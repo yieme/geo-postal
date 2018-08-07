@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05657"]={"code":"05657","region":"VT","city":"Lake Elmore","latitude":44.5426,"longitude":-72.5254}}(window,'GeoPostal','US');

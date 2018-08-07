@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07003"]={"code":"07003","region":"New Jersey","city":"Bloomfield","latitude":40.806885,"longitude":-74.187172}}(window,'GeoPostal','US');

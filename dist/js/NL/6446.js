@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6446"]={"code":"6446","region":"Limburg","city":"Brunssum","latitude":50.94667,"longitude":5.97083}}(window,'GeoPostal','NL');

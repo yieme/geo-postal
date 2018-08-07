@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77643"]={"code":"77643","region":"TX","city":"Port Arthur","latitude":29.9621,"longitude":-93.8679}}(window,'GeoPostal','US');

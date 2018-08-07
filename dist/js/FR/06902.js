@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06902"]={"code":"06902","region":"Provence-Alpes-Cote d'Azur","city":"Valbonne","latitude":43.63292,"longitude":6.99911}}(window,'GeoPostal','FR');

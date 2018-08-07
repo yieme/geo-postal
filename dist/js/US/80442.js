@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80442"]={"code":"80442","region":"Colorado","city":"Fraser","latitude":39.94499,"longitude":-105.81723}}(window,'GeoPostal','US');

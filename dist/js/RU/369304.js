@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369304"]={"code":"369304","region":"Karachayevo-Cherkesskaya Respublika","city":"Ust'-Dzheguta","latitude":44.0834,"longitude":41.9763}}(window,'GeoPostal','RU');

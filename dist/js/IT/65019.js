@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65019"]={"code":"65019","region":"Abruzzo","city":"Pianella","latitude":42.40034,"longitude":14.0499}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43109"]={"code":"43109","region":"OH","city":"Brice","latitude":39.9181,"longitude":-82.8321}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96029"]={"code":"96029","region":"CA","city":"Flournoy","latitude":39.9024,"longitude":-122.4918}}(window,'GeoPostal','US');

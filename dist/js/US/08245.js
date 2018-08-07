@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08245"]={"code":"08245","region":"NJ","city":"South Dennis","latitude":39.1,"longitude":-74.8487}}(window,'GeoPostal','US');

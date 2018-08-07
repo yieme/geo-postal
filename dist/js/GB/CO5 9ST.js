@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO5 9ST"]={"code":"CO5 9ST","region":"England","city":"Inworth","latitude":51.82681,"longitude":0.72729}}(window,'GeoPostal','GB');

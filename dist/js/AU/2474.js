@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2474"]={"code":"2474","region":"New South Wales","city":"Barkers Vale","latitude":-28.53333,"longitude":153.11667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS9 7EG"]={"code":"TS9 7EG","region":"England","city":"Great Broughton","latitude":54.44763,"longitude":-1.15689}}(window,'GeoPostal','GB');

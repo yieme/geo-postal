@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20621"]={"code":"20621","region":"Maryland","city":"Chaptico","latitude":38.3675,"longitude":-76.78306}}(window,'GeoPostal','US');

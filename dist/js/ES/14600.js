@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14600"]={"code":"14600","region":"Andalucia","city":"Montoro","latitude":38.02409,"longitude":-4.3834}}(window,'GeoPostal','ES');

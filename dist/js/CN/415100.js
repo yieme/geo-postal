@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415100"]={"code":"415100","region":"Hunan","city":"Changde","latitude":29.03222,"longitude":111.67806}}(window,'GeoPostal','CN');

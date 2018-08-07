@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66194"]={"code":"66194","region":"Varmlands lan","city":"Saeffle","latitude":59.13229,"longitude":12.92888}}(window,'GeoPostal','SE');

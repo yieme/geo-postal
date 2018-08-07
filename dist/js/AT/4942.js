@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4942"]={"code":"4942","region":"Oberosterreich","city":"Waldzell","latitude":48.13562,"longitude":13.42701}}(window,'GeoPostal','AT');

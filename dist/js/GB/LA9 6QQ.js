@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA9 6QQ"]={"code":"LA9 6QQ","region":"England","city":"Burneside","latitude":54.35271,"longitude":-2.76151}}(window,'GeoPostal','GB');

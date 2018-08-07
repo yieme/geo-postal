@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641400"]={"code":"641400","region":"Kurganskaya oblast'","city":"Glyadyanskoye","latitude":54.9075,"longitude":65.08833}}(window,'GeoPostal','RU');

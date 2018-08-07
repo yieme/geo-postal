@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57551"]={"code":"57551","region":"South Dakota","city":"Martin","latitude":43.1725,"longitude":-101.73265}}(window,'GeoPostal','US');

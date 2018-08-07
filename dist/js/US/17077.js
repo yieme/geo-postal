@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17077"]={"code":"17077","region":"PA","city":"Ono","latitude":40.4029,"longitude":-76.5347}}(window,'GeoPostal','US');

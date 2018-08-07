@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39056"]={"code":"39056","region":"Trentino-Alto Adige","city":"Nova Levante","latitude":46.43002,"longitude":11.53778}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 0L0"]={"code":"R0B 0L0","region":"Manitoba","city":"Willbeach","latitude":56.22585,"longitude":-95.02171}}(window,'GeoPostal','CA');

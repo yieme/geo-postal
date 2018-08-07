@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98275"]={"code":"98275","region":"Washington","city":"Mukilteo","latitude":47.9081,"longitude":-122.3062}}(window,'GeoPostal','US');

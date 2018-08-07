@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6824"]={"code":"6824","region":"Luxembourg","city":"Florenville","latitude":49.69983,"longitude":5.3074}}(window,'GeoPostal','BE');

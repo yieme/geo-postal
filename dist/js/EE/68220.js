@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68220"]={"code":"68220","region":"Valgamaa","city":"Valga","latitude":57.77781,"longitude":26.0473}}(window,'GeoPostal','EE');

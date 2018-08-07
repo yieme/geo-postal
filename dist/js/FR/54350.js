@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54350"]={"code":"54350","region":"Grand-Est","city":"Mont-Saint-Martin","latitude":49.5467,"longitude":5.79375}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6038"]={"code":"6038","region":"Cebu","city":"Toledo","latitude":10.37917,"longitude":123.64194}}(window,'GeoPostal','PH');

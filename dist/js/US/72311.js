@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72311"]={"code":"72311","region":"AR","city":"Aubrey","latitude":34.7195,"longitude":-90.8969}}(window,'GeoPostal','US');

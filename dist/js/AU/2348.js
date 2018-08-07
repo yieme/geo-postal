@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2348"]={"code":"2348","region":"New South Wales","city":"Bithramere","latitude":-31.13568,"longitude":150.78112}}(window,'GeoPostal','AU');

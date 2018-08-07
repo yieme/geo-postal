@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68680-000"]={"code":"68680-000","region":"Para","city":"Tome Acu","latitude":-2.41889,"longitude":-48.15222}}(window,'GeoPostal','BR');

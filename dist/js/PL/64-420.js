@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-420"]={"code":"64-420","region":"Wielkopolskie","city":"Kwilcz","latitude":52.55506,"longitude":16.08562}}(window,'GeoPostal','PL');

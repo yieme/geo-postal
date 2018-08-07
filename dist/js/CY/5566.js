@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5566"]={"code":"5566","region":"Ammochostos","city":"Athna","latitude":35.05833,"longitude":33.78333}}(window,'GeoPostal','CY');

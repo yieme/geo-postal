@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8990"]={"code":"8990","region":"Steiermark","city":"Bad Aussee","latitude":47.60998,"longitude":13.78243}}(window,'GeoPostal','AT');

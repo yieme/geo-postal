@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24534"]={"code":"24534","region":"Virginia","city":"Clover","latitude":36.875903,"longitude":-78.786997}}(window,'GeoPostal','US');

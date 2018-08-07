@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH23 3ND"]={"code":"PH23 3ND","region":"Scotland","city":"Duthil","latitude":57.29647,"longitude":-3.76926}}(window,'GeoPostal','GB');

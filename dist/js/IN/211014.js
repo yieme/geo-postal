@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["211014"]={"code":"211014","region":"Uttar Pradesh","city":"Allahabad","latitude":25.45,"longitude":81.85}}(window,'GeoPostal','IN');

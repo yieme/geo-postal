@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142660"]={"code":"142660","region":"Moskovskaya oblast'","city":"Drezna","latitude":55.74208,"longitude":38.84753}}(window,'GeoPostal','RU');

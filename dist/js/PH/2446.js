@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2446"]={"code":"2446","region":"Pangasinan","city":"Lagasit","latitude":15.9934,"longitude":120.794}}(window,'GeoPostal','PH');

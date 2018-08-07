@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE17 6NB"]={"code":"LE17 6NB","region":"England","city":"Husbands Bosworth","latitude":52.45232,"longitude":-1.05557}}(window,'GeoPostal','GB');

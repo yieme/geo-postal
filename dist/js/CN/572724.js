@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572724"]={"code":"572724","region":"Hainan","city":"Wulie","latitude":19.28614,"longitude":108.78394}}(window,'GeoPostal','CN');

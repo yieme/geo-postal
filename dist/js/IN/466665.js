@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["466665"]={"code":"466665","region":"Madhya Pradesh","city":"Ashta","latitude":23.01667,"longitude":76.71667}}(window,'GeoPostal','IN');

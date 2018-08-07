@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25340"]={"code":"25340","region":"Bourgogne-Franche-Comte","city":"Clerval","latitude":47.39167,"longitude":6.49925}}(window,'GeoPostal','FR');

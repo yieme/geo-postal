@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67739"]={"code":"67739","region":"Kansas","city":"Herndon","latitude":39.891268,"longitude":-100.826328}}(window,'GeoPostal','US');

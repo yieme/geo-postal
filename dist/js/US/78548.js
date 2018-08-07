@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78548"]={"code":"78548","region":"TX","city":"Grulla","latitude":26.2897,"longitude":-98.6479}}(window,'GeoPostal','US');

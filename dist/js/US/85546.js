@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85546"]={"code":"85546","region":"Arizona","city":"Safford","latitude":32.83395,"longitude":-109.70758}}(window,'GeoPostal','US');

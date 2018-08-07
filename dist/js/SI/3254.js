@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3254"]={"code":"3254","region":"Podcetrtek","city":"Podcetrtek","latitude":46.1569,"longitude":15.5986}}(window,'GeoPostal','SI');

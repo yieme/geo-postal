@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39311"]={"code":"39311","region":"Cantabria","city":"Cartes","latitude":43.32596,"longitude":-4.06893}}(window,'GeoPostal','ES');

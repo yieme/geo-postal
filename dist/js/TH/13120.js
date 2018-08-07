@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13120"]={"code":"13120","region":"Phra Nakhon Si Ayutthaya","city":"Phra Nakhon Si Ayutthaya","latitude":14.35167,"longitude":100.57739}}(window,'GeoPostal','TH');

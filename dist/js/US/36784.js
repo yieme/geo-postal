@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36784"]={"code":"36784","region":"Alabama","city":"Thomasville","latitude":31.890736,"longitude":-87.748162}}(window,'GeoPostal','US');

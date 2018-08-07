@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY9 5HH"]={"code":"SY9 5HH","region":"England","city":"More","latitude":52.51752,"longitude":-2.96924}}(window,'GeoPostal','GB');

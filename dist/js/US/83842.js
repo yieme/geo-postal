@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83842"]={"code":"83842","region":"ID","city":"Medimont","latitude":47.4625,"longitude":-116.5683}}(window,'GeoPostal','US');

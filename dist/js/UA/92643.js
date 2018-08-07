@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92643"]={"code":"92643","region":"Luhanska oblast","city":"Pervomaysk","latitude":48.62988,"longitude":38.54806}}(window,'GeoPostal','UA');

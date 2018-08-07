@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81328"]={"code":"81328","region":"CO","city":"Mancos","latitude":37.3471,"longitude":-108.2982}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22044"]={"code":"22044","region":"Sidi Bel Abbes","city":"Sidi Bel Abbes","latitude":35.18994,"longitude":-0.63085}}(window,'GeoPostal','DZ');

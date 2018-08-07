@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-520"]={"code":"89-520","region":"Kujawsko-pomorskie","city":"Gostycyn","latitude":53.49014,"longitude":17.80978}}(window,'GeoPostal','PL');

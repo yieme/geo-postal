@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07020"]={"code":"07020","region":"New Jersey","city":"Edgewater","latitude":40.834219,"longitude":-73.973528}}(window,'GeoPostal','US');

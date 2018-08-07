@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50454"]={"code":"50454","region":"IA","city":"Little Cedar","latitude":43.3919,"longitude":-92.7344}}(window,'GeoPostal','US');

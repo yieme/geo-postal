@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47226"]={"code":"47226","region":"IN","city":"Clifford","latitude":39.2826,"longitude":-85.8685}}(window,'GeoPostal','US');

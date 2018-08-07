@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3683"]={"code":"3683","region":"Victoria","city":"Chiltern","latitude":-36.15044,"longitude":146.60843}}(window,'GeoPostal','AU');

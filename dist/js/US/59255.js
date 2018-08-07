@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59255"]={"code":"59255","region":"Montana","city":"Poplar","latitude":48.11091,"longitude":-105.191435}}(window,'GeoPostal','US');

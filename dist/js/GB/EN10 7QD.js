@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EN10 7QD"]={"code":"EN10 7QD","region":"England","city":"Broxbourne","latitude":51.74712,"longitude":-0.01923}}(window,'GeoPostal','GB');

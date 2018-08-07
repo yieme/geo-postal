@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1165"]={"code":"1165","region":"Noord-Holland","city":"Haarlem","latitude":52.38084,"longitude":4.63683}}(window,'GeoPostal','NL');

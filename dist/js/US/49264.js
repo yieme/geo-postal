@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49264"]={"code":"49264","region":"MI","city":"Onondaga","latitude":42.4487,"longitude":-84.5535}}(window,'GeoPostal','US');

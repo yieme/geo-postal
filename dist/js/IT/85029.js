@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85029"]={"code":"85029","region":"Basilicata","city":"Venosa","latitude":40.96132,"longitude":15.81486}}(window,'GeoPostal','IT');

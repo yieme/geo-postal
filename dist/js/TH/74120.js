@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74120"]={"code":"74120","region":"Samut Sakhon","city":"Ban Phaeo","latitude":13.59072,"longitude":100.10748}}(window,'GeoPostal','TH');

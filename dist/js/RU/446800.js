@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446800"]={"code":"446800","region":"Samarskaya oblast'","city":"Koshki","latitude":54.20914,"longitude":50.46767}}(window,'GeoPostal','RU');

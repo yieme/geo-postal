@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44270"]={"code":"44270","region":"Pays-de-la-Loire","city":"La Marne","latitude":46.9964,"longitude":-1.7397}}(window,'GeoPostal','FR');

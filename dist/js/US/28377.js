@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28377"]={"code":"28377","region":"NC","city":"Red Springs","latitude":34.8083,"longitude":-79.1636}}(window,'GeoPostal','US');

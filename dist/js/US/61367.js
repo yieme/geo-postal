@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61367"]={"code":"61367","region":"Illinois","city":"Sublette","latitude":41.64306,"longitude":-89.23056}}(window,'GeoPostal','US');

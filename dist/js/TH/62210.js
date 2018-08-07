@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62210"]={"code":"62210","region":"Kamphaeng Phet","city":"Thung Sai","latitude":16.31489,"longitude":99.83267}}(window,'GeoPostal','TH');

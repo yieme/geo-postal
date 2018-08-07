@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70883"]={"code":"70883","region":"LA","city":"Cablevision","latitude":30.44,"longitude":-91.18}}(window,'GeoPostal','US');

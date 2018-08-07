@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60447"]={"code":"60447","region":"Illinois","city":"Minooka","latitude":41.506889,"longitude":-88.33715}}(window,'GeoPostal','US');

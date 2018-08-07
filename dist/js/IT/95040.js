@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95040"]={"code":"95040","region":"Sicilia","city":"Mirabella Imbaccari","latitude":37.32754,"longitude":14.44628}}(window,'GeoPostal','IT');

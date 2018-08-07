@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95327"]={"code":"95327","region":"California","city":"Jamestown","latitude":37.95326,"longitude":-120.4227}}(window,'GeoPostal','US');

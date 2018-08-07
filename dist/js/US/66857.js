@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66857"]={"code":"66857","region":"KS","city":"Le Roy","latitude":38.0874,"longitude":-95.6227}}(window,'GeoPostal','US');

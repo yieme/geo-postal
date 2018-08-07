@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16438"]={"code":"16438","region":"Pennsylvania","city":"Union City","latitude":41.8995,"longitude":-79.84533}}(window,'GeoPostal','US');

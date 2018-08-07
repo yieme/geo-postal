@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187010"]={"code":"187010","region":"Leningradskaya oblast'","city":"Ul'yanovka","latitude":59.63944,"longitude":30.76472}}(window,'GeoPostal','RU');

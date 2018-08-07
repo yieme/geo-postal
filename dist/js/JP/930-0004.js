@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["930-0004"]={"code":"930-0004","region":"Toyama","city":"Toyama","latitude":36.7,"longitude":137.217}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49304"]={"code":"49304","region":"Michigan","city":"Baldwin","latitude":43.90112,"longitude":-85.85173}}(window,'GeoPostal','US');

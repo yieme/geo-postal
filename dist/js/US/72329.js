@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72329"]={"code":"72329","region":"AR","city":"Driver","latitude":35.6253,"longitude":-90.0138}}(window,'GeoPostal','US');

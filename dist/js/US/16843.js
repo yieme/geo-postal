@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16843"]={"code":"16843","region":"PA","city":"Hyde","latitude":41.003,"longitude":-78.4642}}(window,'GeoPostal','US');

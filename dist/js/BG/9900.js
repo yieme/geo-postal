@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9900"]={"code":"9900","region":"Shumen","city":"Novi Pazar","latitude":43.35,"longitude":27.2}}(window,'GeoPostal','BG');

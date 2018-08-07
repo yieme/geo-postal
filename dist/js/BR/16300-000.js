@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16300-000"]={"code":"16300-000","region":"Sao Paulo","city":"Penapolis","latitude":-21.41972,"longitude":-50.0775}}(window,'GeoPostal','BR');

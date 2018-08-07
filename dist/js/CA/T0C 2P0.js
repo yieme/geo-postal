@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 2P0"]={"code":"T0C 2P0","region":"Alberta","city":"Thorsby","latitude":53.23343,"longitude":-114.05205}}(window,'GeoPostal','CA');

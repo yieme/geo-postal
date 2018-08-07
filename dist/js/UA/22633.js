@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22633"]={"code":"22633","region":"Vinnytska oblast","city":"Orativ","latitude":49.18889,"longitude":29.52697}}(window,'GeoPostal','UA');

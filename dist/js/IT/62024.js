@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62024"]={"code":"62024","region":"Marche","city":"Matelica","latitude":43.25405,"longitude":13.01057}}(window,'GeoPostal','IT');

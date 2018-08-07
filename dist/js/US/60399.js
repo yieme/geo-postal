@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60399"]={"code":"60399","region":"IL","city":"Wood Dale","latitude":41.9545,"longitude":-87.9377}}(window,'GeoPostal','US');

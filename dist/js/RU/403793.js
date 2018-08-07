@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403793"]={"code":"403793","region":"Volgogradskaya oblast'","city":"Zhirnovsk","latitude":50.98448,"longitude":44.77347}}(window,'GeoPostal','RU');

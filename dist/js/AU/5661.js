@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5661"]={"code":"5661","region":"South Australia","city":"Wirrulla","latitude":-32.4,"longitude":134.51667}}(window,'GeoPostal','AU');

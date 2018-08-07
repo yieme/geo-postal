@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37647"]={"code":"37647","region":"Niedersachsen","city":"Grave","latitude":51.91579,"longitude":9.45477}}(window,'GeoPostal','DE');

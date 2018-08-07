@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN37 7DA"]={"code":"DN37 7DA","region":"England","city":"Laceby","latitude":53.54092,"longitude":-0.1683}}(window,'GeoPostal','GB');

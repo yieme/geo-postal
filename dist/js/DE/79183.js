@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79183"]={"code":"79183","region":"Bayern","city":"Waldkirch","latitude":48.47725,"longitude":10.48182}}(window,'GeoPostal','DE');

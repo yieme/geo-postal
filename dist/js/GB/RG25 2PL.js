@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG25 2PL"]={"code":"RG25 2PL","region":"England","city":"Herriard","latitude":51.20328,"longitude":-1.04379}}(window,'GeoPostal','GB');

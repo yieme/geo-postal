@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17429"]={"code":"17429","region":"Mecklenburg-Vorpommern","city":"Neu Sallenthin","latitude":53.95862,"longitude":14.11704}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["037101"]={"code":"037101","region":"Shanxi","city":"Que'ershan","latitude":40.11914,"longitude":112.94328}}(window,'GeoPostal','CN');

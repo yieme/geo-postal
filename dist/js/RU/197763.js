@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["197763"]={"code":"197763","region":"Sankt-Peterburg","city":"Kronshtadt","latitude":59.99361,"longitude":29.77361}}(window,'GeoPostal','RU');

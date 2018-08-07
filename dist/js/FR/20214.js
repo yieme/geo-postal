@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20214"]={"code":"20214","region":"Corse","city":"Calenzana","latitude":42.50839,"longitude":8.85594}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36260"]={"code":"36260","region":"Chaiyaphum","city":"Phakdi Chumphon","latitude":15.90517,"longitude":101.42228}}(window,'GeoPostal','TH');

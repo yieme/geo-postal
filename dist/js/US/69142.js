@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69142"]={"code":"69142","region":"NE","city":"Halsey","latitude":41.9291,"longitude":-100.2955}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49721"]={"code":"49721","region":"Michigan","city":"Cheboygan","latitude":45.64696,"longitude":-84.47448}}(window,'GeoPostal','US');

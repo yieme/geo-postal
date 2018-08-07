@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-340"]={"code":"34-340","region":"Slaskie","city":"Jelesnia","latitude":49.64246,"longitude":19.32701}}(window,'GeoPostal','PL');

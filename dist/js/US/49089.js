@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49089"]={"code":"49089","region":"MI","city":"Sherwood","latitude":42.0107,"longitude":-85.2408}}(window,'GeoPostal','US');

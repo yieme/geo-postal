@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84542"]={"code":"84542","region":"Utah","city":"Wellington","latitude":39.54247,"longitude":-110.73543}}(window,'GeoPostal','US');

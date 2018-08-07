@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06757"]={"code":"06757","region":"Connecticut","city":"Kent","latitude":41.736641,"longitude":-73.452713}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36768"]={"code":"36768","region":"AL","city":"Pine Apple","latitude":31.9265,"longitude":-87.0047}}(window,'GeoPostal','US');

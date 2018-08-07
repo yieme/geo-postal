@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11598"]={"code":"11598","region":"New York","city":"Woodmere","latitude":40.632265,"longitude":-73.713734}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13486"]={"code":"13486","region":"NY","city":"Westernville","latitude":43.3294,"longitude":-75.3151}}(window,'GeoPostal','US');

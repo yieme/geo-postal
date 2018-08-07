@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 4601"]={"code":"AZ 4601","region":"Naftalan","city":"Naftalan","latitude":40.50667,"longitude":46.825}}(window,'GeoPostal','AZ');

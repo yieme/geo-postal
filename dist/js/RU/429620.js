@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429620"]={"code":"429620","region":"Chuvashskaya Respublika","city":"Krasnoarmeyskoye","latitude":55.76813,"longitude":47.17244}}(window,'GeoPostal','RU');

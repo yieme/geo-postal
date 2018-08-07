@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25231"]={"code":"25231","region":"WV","city":"Advent","latitude":38.6104,"longitude":-81.5587}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28219"]={"code":"28219","region":"Chihuahua","city":"Ciudad Camargo","latitude":27.66667,"longitude":-105.16667}}(window,'GeoPostal','MX');

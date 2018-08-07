@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67776"]={"code":"67776","region":"Odeska oblast","city":"Zatoka","latitude":46.07251,"longitude":30.46538}}(window,'GeoPostal','UA');

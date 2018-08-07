@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37350"]={"code":"37350","region":"Cankiri","city":"Korgun","latitude":40.7348,"longitude":33.51844}}(window,'GeoPostal','TR');

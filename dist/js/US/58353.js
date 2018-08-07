@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58353"]={"code":"58353","region":"North Dakota","city":"Mylo","latitude":48.635419,"longitude":-99.621866}}(window,'GeoPostal','US');

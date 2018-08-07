@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25881"]={"code":"25881","region":"Schleswig-Holstein","city":"Tholendorf","latitude":54.32968,"longitude":8.67517}}(window,'GeoPostal','DE');

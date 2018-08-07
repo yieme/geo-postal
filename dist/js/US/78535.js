@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78535"]={"code":"78535","region":"TX","city":"Combes","latitude":26.2451,"longitude":-97.7416}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04000"]={"code":"04000","region":"Arequipa","city":"Arequipa","latitude":-16.39889,"longitude":-71.535}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62638"]={"code":"62638","region":"IL","city":"Franklin","latitude":39.6222,"longitude":-90.0889}}(window,'GeoPostal','US');

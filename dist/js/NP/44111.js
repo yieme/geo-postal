@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44111"]={"code":"44111","region":"Bagmati","city":"Kodari","latitude":27.95251,"longitude":85.94847}}(window,'GeoPostal','NP');

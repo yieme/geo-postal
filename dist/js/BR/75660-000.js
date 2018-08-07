@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75660-000"]={"code":"75660-000","region":"Goias","city":"Buriti Alegre","latitude":-18.14,"longitude":-49.04028}}(window,'GeoPostal','BR');

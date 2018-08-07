@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5271"]={"code":"5271","region":"Vipava","city":"Vipava","latitude":45.84667,"longitude":13.96306}}(window,'GeoPostal','SI');

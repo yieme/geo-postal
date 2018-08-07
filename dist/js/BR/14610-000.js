@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14610-000"]={"code":"14610-000","region":"Sao Paulo","city":"Ipua","latitude":-20.43806,"longitude":-48.01222}}(window,'GeoPostal','BR');

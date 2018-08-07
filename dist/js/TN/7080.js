@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7080"]={"code":"7080","region":"Bizerte","city":"Menzel Jemil","latitude":37.23618,"longitude":9.91448}}(window,'GeoPostal','TN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31606"]={"code":"31606","region":"GA","city":"Valdosta","latitude":30.7989,"longitude":-83.1891}}(window,'GeoPostal','US');

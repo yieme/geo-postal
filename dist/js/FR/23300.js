@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23300"]={"code":"23300","region":"Nouvelle-Aquitaine","city":"La Souterraine","latitude":46.23714,"longitude":1.48701}}(window,'GeoPostal','FR');

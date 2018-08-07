@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84577"]={"code":"84577","region":"Bayern","city":"Tuszshing","latitude":48.21218,"longitude":12.59954}}(window,'GeoPostal','DE');

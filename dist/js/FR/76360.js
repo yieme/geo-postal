@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76360"]={"code":"76360","region":"Normandie","city":"Barentin","latitude":49.54533,"longitude":0.95515}}(window,'GeoPostal','FR');

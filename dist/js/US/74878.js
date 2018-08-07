@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74878"]={"code":"74878","region":"OK","city":"Wanette","latitude":34.9983,"longitude":-97.0419}}(window,'GeoPostal','US');

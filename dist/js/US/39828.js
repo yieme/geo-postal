@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39828"]={"code":"39828","region":"GA","city":"Cairo","latitude":30.8768,"longitude":-84.2091}}(window,'GeoPostal','US');

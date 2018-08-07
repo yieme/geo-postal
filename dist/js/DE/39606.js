@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39606"]={"code":"39606","region":"Sachsen-Anhalt","city":"Rossau","latitude":52.79072,"longitude":11.64036}}(window,'GeoPostal','DE');

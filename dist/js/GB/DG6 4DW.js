@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG6 4DW"]={"code":"DG6 4DW","region":"Scotland","city":"Kirkcudbright","latitude":54.8383,"longitude":-4.04908}}(window,'GeoPostal','GB');

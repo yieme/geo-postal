@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06525"]={"code":"06525","region":"Connecticut","city":"Woodbridge","latitude":41.35774,"longitude":-73.01232}}(window,'GeoPostal','US');

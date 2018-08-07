@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447021"]={"code":"447021","region":"Satu Mare","city":"Ardud","latitude":47.63333,"longitude":22.88333}}(window,'GeoPostal','RO');

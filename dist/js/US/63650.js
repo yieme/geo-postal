@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63650"]={"code":"63650","region":"Missouri","city":"Ironton","latitude":37.59727,"longitude":-90.62734}}(window,'GeoPostal','US');

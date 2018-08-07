@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18410"]={"code":"18410","region":"Centre-Val de Loire","city":"Blancafort","latitude":47.53219,"longitude":2.52981}}(window,'GeoPostal','FR');

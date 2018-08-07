@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-460"]={"code":"38-460","region":"Podkarpackie","city":"Jedlicze","latitude":49.71749,"longitude":21.64886}}(window,'GeoPostal','PL');

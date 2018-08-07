@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53220"]={"code":"53220","region":"Pays-de-la-Loire","city":"Larchamp","latitude":48.36131,"longitude":-0.999}}(window,'GeoPostal','FR');

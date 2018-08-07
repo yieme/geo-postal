@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64096"]={"code":"64096","region":"MO","city":"Waverly","latitude":39.2055,"longitude":-93.5257}}(window,'GeoPostal','US');

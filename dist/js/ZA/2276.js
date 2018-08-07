@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2276"]={"code":"2276","region":"Mpumalanga","city":"Kriel","latitude":-26.27391,"longitude":29.2253}}(window,'GeoPostal','ZA');

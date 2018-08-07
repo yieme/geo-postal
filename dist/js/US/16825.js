@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16825"]={"code":"16825","region":"PA","city":"Bigler","latitude":40.9848,"longitude":-78.3064}}(window,'GeoPostal','US');

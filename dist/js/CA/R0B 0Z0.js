@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 0Z0"]={"code":"R0B 0Z0","region":"Manitoba","city":"Opekamank","latitude":52.74753,"longitude":-96.71}}(window,'GeoPostal','CA');

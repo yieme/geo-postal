@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90427"]={"code":"90427","region":"Zakarpatska oblast","city":"Horinchovo","latitude":48.27076,"longitude":23.43475}}(window,'GeoPostal','UA');

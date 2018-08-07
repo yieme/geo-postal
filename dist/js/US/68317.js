@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68317"]={"code":"68317","region":"NE","city":"Bennet","latitude":40.68,"longitude":-96.5064}}(window,'GeoPostal','US');

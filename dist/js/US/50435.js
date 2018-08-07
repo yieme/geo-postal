@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50435"]={"code":"50435","region":"Iowa","city":"Floyd","latitude":43.127039,"longitude":-92.737534}}(window,'GeoPostal','US');

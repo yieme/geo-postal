@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98100"]={"code":"98100","region":"Lappi","city":"Kemijarvi","latitude":66.66667,"longitude":27.41667}}(window,'GeoPostal','FI');

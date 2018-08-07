@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85356"]={"code":"85356","region":"Bayern","city":"Freising","latitude":48.40351,"longitude":11.74876}}(window,'GeoPostal','DE');

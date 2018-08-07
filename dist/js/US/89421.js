@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89421"]={"code":"89421","region":"NV","city":"Mc Dermitt","latitude":41.9708,"longitude":-117.6737}}(window,'GeoPostal','US');

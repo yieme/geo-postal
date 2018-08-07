@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59497"]={"code":"59497","region":"Hauts-de-France","city":"Linselles","latitude":50.73708,"longitude":3.07878}}(window,'GeoPostal','FR');

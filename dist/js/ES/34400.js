@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34400"]={"code":"34400","region":"Castilla y Leon","city":"Herrera de Pisuerga","latitude":42.59492,"longitude":-4.33034}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91625"]={"code":"91625","region":"Bayern","city":"Ransbach an der Holzecke","latitude":49.1806,"longitude":10.19612}}(window,'GeoPostal','DE');

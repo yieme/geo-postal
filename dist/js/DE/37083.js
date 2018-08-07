@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37083"]={"code":"37083","region":"Niedersachsen","city":"Geismar","latitude":51.51591,"longitude":9.96116}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["905 01"]={"code":"905 01","region":"Trnavsky kraj","city":"Senica","latitude":48.67922,"longitude":17.36697}}(window,'GeoPostal','SK');

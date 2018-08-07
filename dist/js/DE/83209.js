@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83209"]={"code":"83209","region":"Bayern","city":"Prien am Chiemsee","latitude":47.85602,"longitude":12.34623}}(window,'GeoPostal','DE');

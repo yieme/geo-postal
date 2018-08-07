@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05602"]={"code":"05602","region":"Vermont","city":"Montpelier","latitude":44.27022,"longitude":-72.57642}}(window,'GeoPostal','US');

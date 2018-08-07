@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45873"]={"code":"45873","region":"OH","city":"Oakwood","latitude":41.0908,"longitude":-84.3969}}(window,'GeoPostal','US');

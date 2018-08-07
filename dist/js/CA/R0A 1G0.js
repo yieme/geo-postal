@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 1G0"]={"code":"R0A 1G0","region":"Manitoba","city":"Otterburne","latitude":49.500482,"longitude":-97.051604}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32949"]={"code":"32949","region":"FL","city":"Grant","latitude":27.9289,"longitude":-80.5264}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6340"]={"code":"6340","region":"Bohol","city":"Panglao","latitude":9.57806,"longitude":123.74583}}(window,'GeoPostal','PH');

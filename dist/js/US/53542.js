@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53542"]={"code":"53542","region":"WI","city":"Hanover","latitude":42.6323,"longitude":-89.1594}}(window,'GeoPostal','US');

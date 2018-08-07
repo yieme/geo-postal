@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88199"]={"code":"88199","region":"Grand-Est","city":"Golbey","latitude":48.19764,"longitude":6.43966}}(window,'GeoPostal','FR');

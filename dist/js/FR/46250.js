@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46250"]={"code":"46250","region":"Occitanie","city":"Cazals","latitude":44.6439,"longitude":1.2272}}(window,'GeoPostal','FR');

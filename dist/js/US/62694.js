@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62694"]={"code":"62694","region":"Illinois","city":"Winchester","latitude":39.550556,"longitude":-90.48}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49632"]={"code":"49632","region":"Niedersachsen","city":"Essen","latitude":52.72258,"longitude":7.9371}}(window,'GeoPostal','DE');

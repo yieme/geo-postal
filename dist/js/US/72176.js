@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72176"]={"code":"72176","region":"Arkansas","city":"Ward","latitude":35.020778,"longitude":-91.948584}}(window,'GeoPostal','US');

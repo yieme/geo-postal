@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65529"]={"code":"65529","region":"Schleswig-Holstein","city":"Esch","latitude":53.68578,"longitude":9.56347}}(window,'GeoPostal','DE');

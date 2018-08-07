@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["299-5242"]={"code":"299-5242","region":"Chiba","city":"Katsuura","latitude":35.15,"longitude":140.317}}(window,'GeoPostal','JP');

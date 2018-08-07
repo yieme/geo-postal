@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42160"]={"code":"42160","region":"KY","city":"Park City","latitude":37.0939,"longitude":-86.0464}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52044"]={"code":"52044","region":"Toscana","city":"Cortona","latitude":43.27467,"longitude":11.98533}}(window,'GeoPostal','IT');

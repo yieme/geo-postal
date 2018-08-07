@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662 00"]={"code":"662 00","region":"Anatoliki Makedonia kai Thraki","city":"Prosotsani","latitude":41.18333,"longitude":23.96667}}(window,'GeoPostal','GR');

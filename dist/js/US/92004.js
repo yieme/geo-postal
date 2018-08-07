@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92004"]={"code":"92004","region":"CA","city":"Borrego Springs","latitude":33.2386,"longitude":-116.3514}}(window,'GeoPostal','US');

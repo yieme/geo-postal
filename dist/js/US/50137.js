@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50137"]={"code":"50137","region":"IA","city":"Killduff","latitude":41.608,"longitude":-92.9046}}(window,'GeoPostal','US');

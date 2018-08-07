@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29346"]={"code":"29346","region":"SC","city":"Glendale","latitude":34.9448,"longitude":-81.8376}}(window,'GeoPostal','US');

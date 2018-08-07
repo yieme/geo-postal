@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10404"]={"code":"10404","region":"Grand-Est","city":"Nogent-sur-Seine","latitude":48.48333,"longitude":3.5}}(window,'GeoPostal','FR');

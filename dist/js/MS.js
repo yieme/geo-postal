@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["MS"]={id:'MS',country:'Montserrat', postal:{'':{code:'',region:'Saint Anthony',city:'Plymouth',latitude:16.70555,longitude:-62.21292}}};

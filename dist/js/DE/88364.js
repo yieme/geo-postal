@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88364"]={"code":"88364","region":"Baden-Wurttemberg","city":"Dietrichsholz","latitude":47.83196,"longitude":9.81513}}(window,'GeoPostal','DE');

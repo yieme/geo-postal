@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34072"]={"code":"34072","region":"Friuli-Venezia Giulia","city":"Gradisca d'Isonzo","latitude":45.8925,"longitude":13.50167}}(window,'GeoPostal','IT');

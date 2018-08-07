@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12128"]={"code":"12128","region":"NY","city":"Newtonville","latitude":42.725,"longitude":-73.7643}}(window,'GeoPostal','US');

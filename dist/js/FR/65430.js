@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65430"]={"code":"65430","region":"Occitanie","city":"Soues","latitude":43.20736,"longitude":0.09874}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-6693"]={"code":"L-6693","region":"Grevenmacher","city":"Mertert","latitude":49.69611,"longitude":6.48139}}(window,'GeoPostal','LU');

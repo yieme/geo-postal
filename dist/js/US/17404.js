@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17404"]={"code":"17404","region":"Pennsylvania","city":"York","latitude":39.968742,"longitude":-76.77501}}(window,'GeoPostal','US');

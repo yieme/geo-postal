@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48842"]={"code":"48842","region":"Michigan","city":"Holt","latitude":42.64059,"longitude":-84.51525}}(window,'GeoPostal','US');

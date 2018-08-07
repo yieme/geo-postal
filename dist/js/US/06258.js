@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06258"]={"code":"06258","region":"CT","city":"Pomfret","latitude":41.889,"longitude":-71.9682}}(window,'GeoPostal','US');

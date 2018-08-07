@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59434"]={"code":"59434","region":"Montana","city":"South Browning","latitude":48.54608,"longitude":-113.01425}}(window,'GeoPostal','US');

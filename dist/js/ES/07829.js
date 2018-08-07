@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07829"]={"code":"07829","region":"Illes Balears","city":"Sant Antoni de Portmany","latitude":38.98068,"longitude":1.30362}}(window,'GeoPostal','ES');

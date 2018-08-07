@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68655-000"]={"code":"68655-000","region":"Para","city":"Irituia","latitude":-1.77111,"longitude":-47.43806}}(window,'GeoPostal','BR');

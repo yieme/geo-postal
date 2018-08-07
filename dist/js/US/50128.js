@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50128"]={"code":"50128","region":"IA","city":"Jamaica","latitude":41.8419,"longitude":-94.3204}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16695"]={"code":"16695","region":"PA","city":"Woodbury","latitude":40.2185,"longitude":-78.3666}}(window,'GeoPostal','US');

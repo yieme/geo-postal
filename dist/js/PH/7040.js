@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7040"]={"code":"7040","region":"Zamboanga del Sur","city":"Alicia","latitude":7.51389,"longitude":122.93}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215221"]={"code":"215221","region":"Jiangsu","city":"Pingwang","latitude":30.97667,"longitude":120.63611}}(window,'GeoPostal','CN');

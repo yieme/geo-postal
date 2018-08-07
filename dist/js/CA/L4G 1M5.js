@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L4G 1M5"]={"code":"L4G 1M5","region":"Ontario","city":"Aurora","latitude":43.992641,"longitude":-79.465756}}(window,'GeoPostal','CA');

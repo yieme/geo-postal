@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51003"]={"code":"51003","region":"Guanacaste","city":"La Cruz","latitude":11.07377,"longitude":-85.63272}}(window,'GeoPostal','CR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53184"]={"code":"53184","region":"WI","city":"Walworth","latitude":42.535,"longitude":-88.6027}}(window,'GeoPostal','US');

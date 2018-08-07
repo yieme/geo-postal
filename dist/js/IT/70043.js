@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70043"]={"code":"70043","region":"Puglia","city":"Monopoli","latitude":40.95593,"longitude":17.2896}}(window,'GeoPostal','IT');

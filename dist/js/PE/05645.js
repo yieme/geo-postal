@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05645"]={"code":"05645","region":"Puno","city":"Lampa","latitude":-15.35,"longitude":-70.36667}}(window,'GeoPostal','PE');

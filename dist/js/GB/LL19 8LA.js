@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL19 8LA"]={"code":"LL19 8LA","region":"Wales","city":"Meliden","latitude":53.31733,"longitude":-3.4083}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78549"]={"code":"78549","region":"TX","city":"Hargill","latitude":26.4671,"longitude":-98.0393}}(window,'GeoPostal','US');

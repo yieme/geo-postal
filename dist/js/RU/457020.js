@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457020"]={"code":"457020","region":"Chelyabinskaya oblast'","city":"Plast","latitude":54.36914,"longitude":60.81361}}(window,'GeoPostal','RU');

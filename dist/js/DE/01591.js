@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01591"]={"code":"01591","region":"Sachsen","city":"Riesa","latitude":51.30776,"longitude":13.29168}}(window,'GeoPostal','DE');

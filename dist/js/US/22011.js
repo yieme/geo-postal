@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22011"]={"code":"22011","region":"Virginia","city":"Herndon","latitude":39.0337,"longitude":-77.4957}}(window,'GeoPostal','US');

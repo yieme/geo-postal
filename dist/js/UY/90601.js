@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90601"]={"code":"90601","region":"Canelones","city":"Santa Lucia","latitude":-34.45333,"longitude":-56.39056}}(window,'GeoPostal','UY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V8R 4R7"]={"code":"V8R 4R7","region":"British Columbia","city":"Victoria","latitude":48.429618,"longitude":-123.329991}}(window,'GeoPostal','CA');

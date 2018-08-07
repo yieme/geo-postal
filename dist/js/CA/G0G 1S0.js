@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0G 1S0"]={"code":"G0G 1S0","region":"Quebec","city":"Kegaska","latitude":50.18374,"longitude":-61.27098}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53525"]={"code":"53525","region":"Wisconsin","city":"Clinton","latitude":42.55779,"longitude":-88.86511}}(window,'GeoPostal','US');

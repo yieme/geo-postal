@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL63 5HX"]={"code":"LL63 5HX","region":"Wales","city":"Ty Croes","latitude":53.22271,"longitude":-4.47577}}(window,'GeoPostal','GB');

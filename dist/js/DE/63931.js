@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63931"]={"code":"63931","region":"Bayern","city":"Kirchzell","latitude":49.618,"longitude":9.17785}}(window,'GeoPostal','DE');

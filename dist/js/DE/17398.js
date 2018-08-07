@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17398"]={"code":"17398","region":"Mecklenburg-Vorpommern","city":"Kamp","latitude":53.84203,"longitude":13.84838}}(window,'GeoPostal','DE');

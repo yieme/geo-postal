@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57223"]={"code":"57223","region":"SD","city":"Castlewood","latitude":44.7313,"longitude":-97.0204}}(window,'GeoPostal','US');

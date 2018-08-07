@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0E 1Y0"]={"code":"J0E 1Y0","region":"Quebec","city":"Racine","latitude":45.50008,"longitude":-72.2491}}(window,'GeoPostal','CA');

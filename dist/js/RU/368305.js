@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368305"]={"code":"368305","region":"Dagestan, Respublika","city":"Kaspiysk","latitude":42.88165,"longitude":47.63919}}(window,'GeoPostal','RU');

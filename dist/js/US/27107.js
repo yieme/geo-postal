@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27107"]={"code":"27107","region":"North Carolina","city":"Winston-Salem","latitude":36.060969,"longitude":-80.184068}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55170-000"]={"code":"55170-000","region":"Pernambuco","city":"Santa Cruz do Capibaribe","latitude":-7.9575,"longitude":-36.20472}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8840"]={"code":"8840","region":"Somogy","city":"Csurgo","latitude":46.25314,"longitude":17.1006}}(window,'GeoPostal','HU');

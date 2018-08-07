@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06702"]={"code":"06702","region":"Connecticut","city":"Waterbury","latitude":41.555686,"longitude":-73.040295}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67040"]={"code":"67040","region":"Abruzzo","city":"Ocre","latitude":42.28593,"longitude":13.47529}}(window,'GeoPostal','IT');

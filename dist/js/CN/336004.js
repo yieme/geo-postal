@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336004"]={"code":"336004","region":"Jiangxi","city":"Xinfang","latitude":27.70047,"longitude":114.46992}}(window,'GeoPostal','CN');

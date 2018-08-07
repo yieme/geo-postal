@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01570"]={"code":"01570","region":"Massachusetts","city":"Webster","latitude":42.051508,"longitude":-71.882903}}(window,'GeoPostal','US');

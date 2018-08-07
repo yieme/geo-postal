@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N8H 3V4"]={"code":"N8H 3V4","region":"Ontario","city":"Point Pelee","latitude":41.99395,"longitude":-82.53496}}(window,'GeoPostal','CA');

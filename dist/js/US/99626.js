@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99626"]={"code":"99626","region":"AK","city":"Lower Kalskag","latitude":61.5138,"longitude":-160.36}}(window,'GeoPostal','US');

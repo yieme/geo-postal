@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665471"]={"code":"665471","region":"Irkutskaya oblast'","city":"Tayturka","latitude":52.86917,"longitude":103.46083}}(window,'GeoPostal','RU');

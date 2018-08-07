@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45018"]={"code":"45018","region":"OH","city":"Fairfield","latitude":39.441,"longitude":-84.5757}}(window,'GeoPostal','US');

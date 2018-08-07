@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 5PR"]={"code":"SA62 5PR","region":"Wales","city":"Hayscastle Cross","latitude":51.885,"longitude":-5.03167}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81000"]={"code":"81000","region":"Kirikkale","city":"Kirikkale","latitude":39.84528,"longitude":33.50639}}(window,'GeoPostal','TR');

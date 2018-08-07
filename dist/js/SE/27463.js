@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27463"]={"code":"27463","region":"Skane lan","city":"Rydsgard","latitude":55.46667,"longitude":13.58333}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75202"]={"code":"75202","region":"Soriano","city":"Jose Enrique Rodo","latitude":-33.68333,"longitude":-57.56667}}(window,'GeoPostal','UY');

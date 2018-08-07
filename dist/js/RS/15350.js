@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15350"]={"code":"15350","region":"Macvanski okrug","city":"Bogatic","latitude":44.8375,"longitude":19.48056}}(window,'GeoPostal','RS');

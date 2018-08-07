@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61421"]={"code":"61421","region":"Illinois","city":"Bradford","latitude":41.17694,"longitude":-89.65944}}(window,'GeoPostal','US');

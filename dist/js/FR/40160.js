@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40160"]={"code":"40160","region":"Nouvelle-Aquitaine","city":"Ychoux","latitude":44.32869,"longitude":-0.9518}}(window,'GeoPostal','FR');

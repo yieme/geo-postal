@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9500"]={"code":"9500","region":"South Cotabato","city":"Klinan","latitude":6.18683,"longitude":125.13684}}(window,'GeoPostal','PH');

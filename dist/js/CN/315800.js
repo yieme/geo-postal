@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["315800"]={"code":"315800","region":"Zhejiang","city":"Beilun","latitude":29.91917,"longitude":121.83778}}(window,'GeoPostal','CN');

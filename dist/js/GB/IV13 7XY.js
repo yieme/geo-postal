@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV13 7XY"]={"code":"IV13 7XY","region":"Scotland","city":"Corrybrough","latitude":57.35,"longitude":-3.95}}(window,'GeoPostal','GB');

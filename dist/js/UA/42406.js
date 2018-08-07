@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42406"]={"code":"42406","region":"Sumska oblast","city":"Krasnopillya","latitude":50.77458,"longitude":35.25965}}(window,'GeoPostal','UA');

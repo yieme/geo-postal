@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70640"]={"code":"70640","region":"LA","city":"Fenton","latitude":30.3655,"longitude":-92.9122}}(window,'GeoPostal','US');

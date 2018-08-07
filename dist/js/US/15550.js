@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15550"]={"code":"15550","region":"PA","city":"Manns Choice","latitude":39.9808,"longitude":-78.6423}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54106"]={"code":"54106","region":"WI","city":"Black Creek","latitude":44.4702,"longitude":-88.4547}}(window,'GeoPostal','US');

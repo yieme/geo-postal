@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63486"]={"code":"63486","region":"Hessen","city":"Bruchkobel","latitude":50.17853,"longitude":8.92316}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH7 5RE"]={"code":"CH7 5RE","region":"Wales","city":"Nannerch","latitude":53.21608,"longitude":-3.25027}}(window,'GeoPostal','GB');

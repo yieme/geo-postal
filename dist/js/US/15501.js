@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15501"]={"code":"15501","region":"Pennsylvania","city":"Somerset","latitude":40.014731,"longitude":-79.123623}}(window,'GeoPostal','US');

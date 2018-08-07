@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11624"]={"code":"11624","region":"Zhytomyrska oblast","city":"Chopovychi","latitude":50.83325,"longitude":28.95334}}(window,'GeoPostal','UA');

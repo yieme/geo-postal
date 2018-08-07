@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0A 0A0"]={"code":"X0A 0A0","region":"Nunavut","city":"Arctic Bay","latitude":73.03471,"longitude":-85.1663}}(window,'GeoPostal','CA');

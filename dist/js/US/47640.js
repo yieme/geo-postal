@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47640"]={"code":"47640","region":"IN","city":"Hazleton","latitude":38.4623,"longitude":-87.4983}}(window,'GeoPostal','US');

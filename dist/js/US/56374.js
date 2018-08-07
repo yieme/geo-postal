@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56374"]={"code":"56374","region":"Minnesota","city":"Saint Joseph","latitude":45.56496,"longitude":-94.31833}}(window,'GeoPostal','US');

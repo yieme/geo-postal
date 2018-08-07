@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 1Z0"]={"code":"J0X 1Z0","region":"Quebec","city":"Lac-Sainte-Marie","latitude":45.95011,"longitude":-75.94935}}(window,'GeoPostal','CA');

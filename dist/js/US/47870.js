@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47870"]={"code":"47870","region":"IN","city":"Prairieton","latitude":39.3712,"longitude":-87.4759}}(window,'GeoPostal','US');

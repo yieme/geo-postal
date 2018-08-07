@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8719"]={"code":"8719","region":"Somogy","city":"Bohonye","latitude":46.41345,"longitude":17.38036}}(window,'GeoPostal','HU');

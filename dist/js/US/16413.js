@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16413"]={"code":"16413","region":"PA","city":"Elgin","latitude":41.9031,"longitude":-79.7437}}(window,'GeoPostal','US');

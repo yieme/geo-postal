@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2740-244"]={"code":"2740-244","region":"Lisboa","city":"Oeiras","latitude":38.683333,"longitude":-9.316667}}(window,'GeoPostal','PT');

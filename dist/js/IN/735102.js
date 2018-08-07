@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735102"]={"code":"735102","region":"West Bengal","city":"Jalpaiguri","latitude":26.51667,"longitude":88.73333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207600"]={"code":"207600","region":"Dolj","city":"Urzicuta","latitude":44.01667,"longitude":23.55}}(window,'GeoPostal','RO');

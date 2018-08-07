@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16928"]={"code":"16928","region":"Brandenburg","city":"Koppel","latitude":53.14869,"longitude":12.23231}}(window,'GeoPostal','DE');

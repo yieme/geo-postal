@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8185"]={"code":"8185","region":"Nordland","city":"Vagaholmen","latitude":66.71367,"longitude":13.28711}}(window,'GeoPostal','NO');

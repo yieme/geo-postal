@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84327"]={"code":"84327","region":"UT","city":"Newton","latitude":41.8627,"longitude":-111.9908}}(window,'GeoPostal','US');

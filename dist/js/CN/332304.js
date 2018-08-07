@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332304"]={"code":"332304","region":"Jiangxi","city":"Henglu","latitude":29.415,"longitude":115.10944}}(window,'GeoPostal','CN');

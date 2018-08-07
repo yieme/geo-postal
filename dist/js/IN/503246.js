@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503246"]={"code":"503246","region":"Telangana","city":"Nizamabad","latitude":18.66667,"longitude":78.11667}}(window,'GeoPostal','IN');

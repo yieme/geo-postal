@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9N 2R6"]={"code":"V9N 2R6","region":"British Columbia","city":"Courtenay","latitude":49.687457,"longitude":-124.999383}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74571"]={"code":"74571","region":"Oklahoma","city":"Talihina","latitude":34.75149,"longitude":-95.04802}}(window,'GeoPostal','US');

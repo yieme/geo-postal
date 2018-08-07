@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28662"]={"code":"28662","region":"NC","city":"Pineola","latitude":36.0285,"longitude":-81.8915}}(window,'GeoPostal','US');

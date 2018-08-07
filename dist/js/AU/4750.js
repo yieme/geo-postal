@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4750"]={"code":"4750","region":"Queensland","city":"Shoal Point","latitude":-21.00476,"longitude":149.15272}}(window,'GeoPostal','AU');

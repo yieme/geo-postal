@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64769"]={"code":"64769","region":"MO","city":"Mindenmines","latitude":37.452,"longitude":-94.5756}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28688"]={"code":"28688","region":"NC","city":"Turnersburg","latitude":35.9085,"longitude":-80.8073}}(window,'GeoPostal','US');

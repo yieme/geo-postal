@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13691"]={"code":"13691","region":"NY","city":"Theresa","latitude":44.2113,"longitude":-75.8014}}(window,'GeoPostal','US');

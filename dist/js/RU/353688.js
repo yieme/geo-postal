@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353688"]={"code":"353688","region":"Krasnodarskiy kray","city":"Yeysk","latitude":46.7055,"longitude":38.2739}}(window,'GeoPostal','RU');

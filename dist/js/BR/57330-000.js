@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57330-000"]={"code":"57330-000","region":"Alagoas","city":"Lagoa da Canoa","latitude":-9.82972,"longitude":-36.73778}}(window,'GeoPostal','BR');

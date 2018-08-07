@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38575"]={"code":"38575","region":"Tennessee","city":"Moss","latitude":36.596672,"longitude":-85.685707}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46026"]={"code":"46026","region":"Lombardia","city":"Quistello","latitude":45.00558,"longitude":10.9823}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9400"]={"code":"9400","region":"Otago","city":"Oamaru","latitude":-45.07836,"longitude":170.98009}}(window,'GeoPostal','NZ');

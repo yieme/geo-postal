@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["450771"]={"code":"450771","region":"Madhya Pradesh","city":"Khandwa","latitude":21.83333,"longitude":76.33333}}(window,'GeoPostal','IN');

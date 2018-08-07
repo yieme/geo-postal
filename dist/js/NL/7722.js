@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7722"]={"code":"7722","region":"Overijssel","city":"Dalfsen","latitude":52.51167,"longitude":6.25694}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5453"]={"code":"5453","region":"South Australia","city":"Clare","latitude":-33.83325,"longitude":138.61064}}(window,'GeoPostal','AU');

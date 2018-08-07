@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7330-307"]={"code":"7330-307","region":"Portalegre","city":"Portalegre","latitude":39.29379,"longitude":-7.43122}}(window,'GeoPostal','PT');

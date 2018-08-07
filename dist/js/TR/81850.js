@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81850"]={"code":"81850","region":"Sinop","city":"Boyabat","latitude":41.46889,"longitude":34.76667}}(window,'GeoPostal','TR');

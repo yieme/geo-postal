@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79009"]={"code":"79009","region":"Texas","city":"Bovina","latitude":34.51368,"longitude":-102.883}}(window,'GeoPostal','US');

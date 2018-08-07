@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56514"]={"code":"56514","region":"Minnesota","city":"Barnesville","latitude":46.67004,"longitude":-96.39156}}(window,'GeoPostal','US');

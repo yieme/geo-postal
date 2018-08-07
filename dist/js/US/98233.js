@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98233"]={"code":"98233","region":"Washington","city":"Burlington","latitude":48.50328,"longitude":-122.36046}}(window,'GeoPostal','US');

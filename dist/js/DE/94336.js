@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94336"]={"code":"94336","region":"Bayern","city":"Netzstuhl","latitude":48.93467,"longitude":12.75798}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516347"]={"code":"516347","region":"Guangdong","city":"Renshan","latitude":22.83795,"longitude":114.80423}}(window,'GeoPostal','CN');

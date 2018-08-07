@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S9A 2X6"]={"code":"S9A 2X6","region":"Saskatchewan","city":"North Battleford","latitude":52.775689,"longitude":-108.298886}}(window,'GeoPostal','CA');

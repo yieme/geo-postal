@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658980"]={"code":"658980","region":"Altayskiy kray","city":"Klyuchi","latitude":52.26667,"longitude":79.16667}}(window,'GeoPostal','RU');

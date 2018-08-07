@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24248"]={"code":"24248","region":"Schleswig-Holstein","city":"Dietrichsdorf","latitude":54.336,"longitude":10.18399}}(window,'GeoPostal','DE');

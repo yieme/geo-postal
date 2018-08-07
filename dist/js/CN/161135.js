@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["161135"]={"code":"161135","region":"Nei Mongol","city":"Inder","latitude":46.7,"longitude":122.93333}}(window,'GeoPostal','CN');

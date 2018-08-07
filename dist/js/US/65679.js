@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65679"]={"code":"65679","region":"MO","city":"Kirbyville","latitude":36.5792,"longitude":-93.1263}}(window,'GeoPostal','US');

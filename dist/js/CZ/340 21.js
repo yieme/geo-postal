@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340 21"]={"code":"340 21","region":"Plzensky kraj","city":"Janovice nad Uhlavou","latitude":49.34515,"longitude":13.21813}}(window,'GeoPostal','CZ');

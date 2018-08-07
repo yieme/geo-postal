@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40011"]={"code":"40011","region":"Emilia-Romagna","city":"Anzola dell'Emilia","latitude":44.54637,"longitude":11.19461}}(window,'GeoPostal','IT');

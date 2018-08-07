@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26790"]={"code":"26790","region":"Auvergne-Rhone-Alpes","city":"Tulette","latitude":44.28527,"longitude":4.9296}}(window,'GeoPostal','FR');

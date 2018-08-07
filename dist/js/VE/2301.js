@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2301"]={"code":"2301","region":"Guarico","city":"Valle de La Pascua","latitude":9.21554,"longitude":-66.00734}}(window,'GeoPostal','VE');

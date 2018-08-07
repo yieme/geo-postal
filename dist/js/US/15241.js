@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15241"]={"code":"15241","region":"Pennsylvania","city":"Upper Saint Clair","latitude":40.3359,"longitude":-80.08339}}(window,'GeoPostal','US');

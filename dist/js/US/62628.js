@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62628"]={"code":"62628","region":"IL","city":"Chapin","latitude":39.7716,"longitude":-90.4113}}(window,'GeoPostal','US');

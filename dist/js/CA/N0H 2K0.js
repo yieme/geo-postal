@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0H 2K0"]={"code":"N0H 2K0","region":"Ontario","city":"Park Head","latitude":44.60009,"longitude":-81.14974}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93624"]={"code":"93624","region":"CA","city":"Five Points","latitude":36.3386,"longitude":-120.1118}}(window,'GeoPostal','US');

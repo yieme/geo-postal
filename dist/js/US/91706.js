@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91706"]={"code":"91706","region":"California","city":"Baldwin Park","latitude":34.08529,"longitude":-117.9609}}(window,'GeoPostal','US');

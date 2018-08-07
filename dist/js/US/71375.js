@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71375"]={"code":"71375","region":"LA","city":"Waterproof","latitude":31.8076,"longitude":-91.3872}}(window,'GeoPostal','US');

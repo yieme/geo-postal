@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB10 1NZ"]={"code":"CB10 1NZ","region":"England","city":"Great Chesterford","latitude":52.06431,"longitude":0.1972}}(window,'GeoPostal','GB');

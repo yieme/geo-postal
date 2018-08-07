@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33024"]={"code":"33024","region":"Florida","city":"Cooper City","latitude":26.05731,"longitude":-80.27172}}(window,'GeoPostal','US');

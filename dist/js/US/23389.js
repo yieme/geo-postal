@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23389"]={"code":"23389","region":"VA","city":"Harborton","latitude":37.6618,"longitude":-75.8305}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88470"]={"code":"88470","region":"Grand-Est","city":"Saint-Michel-sur-Meurthe","latitude":48.32219,"longitude":6.89024}}(window,'GeoPostal','FR');

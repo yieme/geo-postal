@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70346"]={"code":"70346","region":"Louisiana","city":"Saint James","latitude":30.103826,"longitude":-90.99862}}(window,'GeoPostal','US');

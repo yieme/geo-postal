@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2330"]={"code":"2330","region":"Mpumalanga","city":"Breyten","latitude":-26.30176,"longitude":29.98696}}(window,'GeoPostal','ZA');

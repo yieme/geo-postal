@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS13 4AB"]={"code":"TS13 4AB","region":"England","city":"Carlin How","latitude":54.56291,"longitude":-0.90691}}(window,'GeoPostal','GB');

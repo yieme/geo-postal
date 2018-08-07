@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4L 0A1"]={"code":"E4L 0A1","region":"New Brunswick","city":"Sackville","latitude":45.91875,"longitude":-64.38455}}(window,'GeoPostal','CA');

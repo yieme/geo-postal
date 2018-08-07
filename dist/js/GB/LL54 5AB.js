@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL54 5AB"]={"code":"LL54 5AB","region":"Wales","city":"Gwydir","latitude":52.98333,"longitude":-4.41667}}(window,'GeoPostal','GB');

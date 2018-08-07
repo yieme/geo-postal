@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36720"]={"code":"36720","region":"Pirkanmaa","city":"Palkane","latitude":61.33424,"longitude":24.27197}}(window,'GeoPostal','FI');

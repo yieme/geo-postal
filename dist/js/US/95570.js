@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95570"]={"code":"95570","region":"CA","city":"Trinidad","latitude":41.0593,"longitude":-124.1431}}(window,'GeoPostal','US');

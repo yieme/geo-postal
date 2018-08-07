@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO24 0LW"]={"code":"SO24 0LW","region":"England","city":"Bramdean","latitude":51.04806,"longitude":-1.1264}}(window,'GeoPostal','GB');

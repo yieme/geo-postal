@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41621"]={"code":"41621","region":"Kentucky","city":"Dwale","latitude":37.623056,"longitude":-82.723889}}(window,'GeoPostal','US');

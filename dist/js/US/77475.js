@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77475"]={"code":"77475","region":"TX","city":"Sheridan","latitude":29.4936,"longitude":-96.6711}}(window,'GeoPostal','US');

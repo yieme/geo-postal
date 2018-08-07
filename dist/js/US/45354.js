@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45354"]={"code":"45354","region":"OH","city":"Phillipsburg","latitude":39.9054,"longitude":-84.4028}}(window,'GeoPostal','US');

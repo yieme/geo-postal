@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19522"]={"code":"19522","region":"PA","city":"Fleetwood","latitude":40.4473,"longitude":-75.8185}}(window,'GeoPostal','US');

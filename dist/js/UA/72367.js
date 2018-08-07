@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72367"]={"code":"72367","region":"Zaporizka oblast","city":"Kostyantynivka","latitude":46.81673,"longitude":35.42287}}(window,'GeoPostal','UA');

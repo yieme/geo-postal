@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9751"]={"code":"9751","region":"Shumen","city":"Venets","latitude":43.55,"longitude":26.93333}}(window,'GeoPostal','BG');

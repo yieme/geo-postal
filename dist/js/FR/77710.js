@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77710"]={"code":"77710","region":"Ile-de-France","city":"Treuzy-Levelay","latitude":48.2723,"longitude":2.8144}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68001"]={"code":"68001","region":"Marijampoles apskritis","city":"Marijampole","latitude":54.56667,"longitude":23.35}}(window,'GeoPostal','LT');

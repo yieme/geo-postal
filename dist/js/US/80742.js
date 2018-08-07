@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80742"]={"code":"80742","region":"Colorado","city":"New Raymer","latitude":40.640962,"longitude":-103.874342}}(window,'GeoPostal','US');

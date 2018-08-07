@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171256"]={"code":"171256","region":"Tverskaya oblast'","city":"Konakovo","latitude":56.7,"longitude":36.76667}}(window,'GeoPostal','RU');

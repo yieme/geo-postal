@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05845"]={"code":"05845","region":"Vermont","city":"Irasburg","latitude":44.80611,"longitude":-72.26778}}(window,'GeoPostal','US');

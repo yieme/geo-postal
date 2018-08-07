@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431923"]={"code":"431923","region":"Hubei","city":"Shenji","latitude":30.85737,"longitude":112.36858}}(window,'GeoPostal','CN');

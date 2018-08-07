@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15445"]={"code":"15445","region":"Pennsylvania","city":"Hopwood","latitude":39.87702,"longitude":-79.70199}}(window,'GeoPostal','US');

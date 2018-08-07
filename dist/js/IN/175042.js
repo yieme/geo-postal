@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["175042"]={"code":"175042","region":"Himachal Pradesh","city":"Rampur","latitude":31.45,"longitude":77.63333}}(window,'GeoPostal','IN');

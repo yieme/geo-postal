@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43730"]={"code":"43730","region":"Punjab","city":"Hasan Abdal","latitude":30.43333,"longitude":72.7}}(window,'GeoPostal','PK');

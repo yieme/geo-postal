@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97831"]={"code":"97831","region":"Yucatan","city":"Halacho","latitude":20.48333,"longitude":-90.08333}}(window,'GeoPostal','MX');

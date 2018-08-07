@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37314"]={"code":"37314","region":"TN","city":"Coker Creek","latitude":35.2467,"longitude":-84.3031}}(window,'GeoPostal','US');

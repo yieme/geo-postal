@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0N 1V0"]={"code":"B0N 1V0","region":"Nova Scotia","city":"Meaghers Grant","latitude":44.93345,"longitude":-63.23197}}(window,'GeoPostal','CA');

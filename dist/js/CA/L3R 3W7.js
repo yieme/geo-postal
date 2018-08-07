@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L3R 3W7"]={"code":"L3R 3W7","region":"Ontario","city":"Markham","latitude":43.831413,"longitude":-79.336624}}(window,'GeoPostal','CA');

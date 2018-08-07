@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE16 3JU"]={"code":"SE16 3JU","region":"England","city":"Brighton","latitude":50.82838,"longitude":-0.13947}}(window,'GeoPostal','GB');

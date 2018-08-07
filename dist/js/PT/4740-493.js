@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4740-493"]={"code":"4740-493","region":"Braga","city":"Esposende","latitude":41.53333,"longitude":-8.78333}}(window,'GeoPostal','PT');

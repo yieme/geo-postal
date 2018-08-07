@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR8 5AU"]={"code":"TR8 5AU","region":"England","city":"Mitchell","latitude":50.35162,"longitude":-5.00957}}(window,'GeoPostal','GB');

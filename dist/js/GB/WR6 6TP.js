@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR6 6TP"]={"code":"WR6 6TP","region":"England","city":"Shrawley","latitude":52.28404,"longitude":-2.29152}}(window,'GeoPostal','GB');

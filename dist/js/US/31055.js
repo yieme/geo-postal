@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31055"]={"code":"31055","region":"Georgia","city":"McRae","latitude":32.06795,"longitude":-82.9007}}(window,'GeoPostal','US');

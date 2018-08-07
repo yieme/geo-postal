@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA72 4UH"]={"code":"SA72 4UH","region":"Wales","city":"Cosheston","latitude":51.69653,"longitude":-4.88882}}(window,'GeoPostal','GB');

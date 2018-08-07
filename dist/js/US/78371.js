@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78371"]={"code":"78371","region":"TX","city":"Oilton","latitude":27.4685,"longitude":-98.9586}}(window,'GeoPostal','US');

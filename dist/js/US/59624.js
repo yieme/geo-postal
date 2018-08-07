@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59624"]={"code":"59624","region":"Montana","city":"Helena","latitude":46.598284,"longitude":-112.030237}}(window,'GeoPostal','US');

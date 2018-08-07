@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96016"]={"code":"96016","region":"Avtonomna Respublika Krym","city":"Armyans'k","latitude":46.10919,"longitude":33.69206}}(window,'GeoPostal','UA');

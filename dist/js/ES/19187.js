@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19187"]={"code":"19187","region":"Castilla-La Mancha","city":"Uceda","latitude":40.83944,"longitude":-3.4604}}(window,'GeoPostal','ES');

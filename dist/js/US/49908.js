@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49908"]={"code":"49908","region":"Michigan","city":"Baraga","latitude":46.78428,"longitude":-88.49364}}(window,'GeoPostal','US');

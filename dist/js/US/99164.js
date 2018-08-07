@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99164"]={"code":"99164","region":"Washington","city":"Pullman","latitude":46.72857,"longitude":-117.15517}}(window,'GeoPostal','US');

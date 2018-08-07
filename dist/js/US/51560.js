@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51560"]={"code":"51560","region":"Iowa","city":"Oakland","latitude":41.30916,"longitude":-95.39667}}(window,'GeoPostal','US');

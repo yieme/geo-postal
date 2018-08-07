@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30150"]={"code":"30150","region":"GA","city":"Mount Zion","latitude":33.643,"longitude":-85.1818}}(window,'GeoPostal','US');

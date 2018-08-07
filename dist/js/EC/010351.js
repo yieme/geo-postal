@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["010351"]={"code":"010351","region":"Azuay","city":"Gualaceo","latitude":-2.9,"longitude":-78.78333}}(window,'GeoPostal','EC');

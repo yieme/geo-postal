@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA2 8AE"]={"code":"LA2 8AE","region":"England","city":"Ingleborough","latitude":54.1,"longitude":-2.38333}}(window,'GeoPostal','GB');

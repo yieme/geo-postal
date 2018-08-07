@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05769"]={"code":"05769","region":"VT","city":"Salisbury","latitude":43.9017,"longitude":-73.1008}}(window,'GeoPostal','US');

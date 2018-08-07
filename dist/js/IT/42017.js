@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42017"]={"code":"42017","region":"Emilia-Romagna","city":"Novellara","latitude":44.84297,"longitude":10.72749}}(window,'GeoPostal','IT');

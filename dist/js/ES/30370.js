@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30370"]={"code":"30370","region":"Murcia, Region de","city":"La Manga del Mar Menor","latitude":37.64129,"longitude":-0.71651}}(window,'GeoPostal','ES');

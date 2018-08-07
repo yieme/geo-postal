@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMACE27"]={"code":"JMACE27","region":"Saint Catherine","city":"Bog Walk","latitude":18.10205,"longitude":-77.00541}}(window,'GeoPostal','JM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58725"]={"code":"58725","region":"North Dakota","city":"Carpio","latitude":48.415871,"longitude":-101.711889}}(window,'GeoPostal','US');

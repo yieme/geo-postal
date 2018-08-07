@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1414"]={"code":"1414","region":"Benedikt","city":"Benedikt","latitude":46.6086,"longitude":15.8883}}(window,'GeoPostal','SI');

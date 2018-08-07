@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50603"]={"code":"50603","region":"Iowa","city":"Alta Vista","latitude":43.148002,"longitude":-92.435765}}(window,'GeoPostal','US');

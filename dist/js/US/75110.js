@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75110"]={"code":"75110","region":"Texas","city":"Corsicana","latitude":32.06016,"longitude":-96.43116}}(window,'GeoPostal','US');

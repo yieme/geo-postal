@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S3N 0A1"]={"code":"S3N 0A1","region":"Saskatchewan","city":"Yorkton","latitude":51.2167,"longitude":-102.46766}}(window,'GeoPostal','CA');

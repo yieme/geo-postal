@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13425"]={"code":"13425","region":"NY","city":"Oriskany Falls","latitude":42.9576,"longitude":-75.4838}}(window,'GeoPostal','US');

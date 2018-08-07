@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73063"]={"code":"73063","region":"OK","city":"Mulhall","latitude":36.0537,"longitude":-97.4098}}(window,'GeoPostal','US');

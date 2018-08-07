@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627439"]={"code":"627439","region":"Tyumenskaya oblast'","city":"Kazanskoye","latitude":55.64477,"longitude":69.235}}(window,'GeoPostal','RU');

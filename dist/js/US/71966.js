@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71966"]={"code":"71966","region":"AR","city":"Oden","latitude":34.619,"longitude":-93.7769}}(window,'GeoPostal','US');

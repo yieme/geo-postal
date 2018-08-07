@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11725"]={"code":"11725","region":"New York","city":"Commack","latitude":40.84149,"longitude":-73.280431}}(window,'GeoPostal','US');

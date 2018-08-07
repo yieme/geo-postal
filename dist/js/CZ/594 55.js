@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["594 55"]={"code":"594 55","region":"Kraj Vysocina","city":"Dolni Loucky","latitude":49.36099,"longitude":16.35871}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63110"]={"code":"63110","region":"Tak","city":"Mae Sot","latitude":16.71667,"longitude":98.56667}}(window,'GeoPostal','TH');

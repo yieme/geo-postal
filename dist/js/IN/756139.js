@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756139"]={"code":"756139","region":"Odisha","city":"Chandbali","latitude":20.78333,"longitude":86.76667}}(window,'GeoPostal','IN');

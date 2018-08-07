@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86443"]={"code":"86443","region":"AZ","city":"Temple Bar Marina","latitude":35.2106,"longitude":-114.1792}}(window,'GeoPostal','US');

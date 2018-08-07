@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93169"]={"code":"93169","region":"Veracruz de Ignacio de la Llave","city":"Coatzintla","latitude":20.48333,"longitude":-97.45}}(window,'GeoPostal','MX');

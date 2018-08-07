@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09010"]={"code":"09010","region":"Sardegna","city":"Fluminimaggiore","latitude":39.43972,"longitude":8.49639}}(window,'GeoPostal','IT');

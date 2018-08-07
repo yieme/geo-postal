@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38711"]={"code":"38711","region":"Kainuu","city":"Kankaanpaa","latitude":64.16667,"longitude":28.58333}}(window,'GeoPostal','FI');

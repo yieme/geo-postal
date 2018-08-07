@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571500"]={"code":"571500","region":"Hainan","city":"Wanning","latitude":18.80028,"longitude":110.39667}}(window,'GeoPostal','CN');

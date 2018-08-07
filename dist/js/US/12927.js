@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12927"]={"code":"12927","region":"NY","city":"Cranberry Lake","latitude":44.229,"longitude":-74.8581}}(window,'GeoPostal','US');

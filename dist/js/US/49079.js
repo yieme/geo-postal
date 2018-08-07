@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49079"]={"code":"49079","region":"Michigan","city":"Paw Paw","latitude":42.232381,"longitude":-85.903303}}(window,'GeoPostal','US');

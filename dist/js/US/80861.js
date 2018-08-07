@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80861"]={"code":"80861","region":"CO","city":"Vona","latitude":39.3236,"longitude":-102.7393}}(window,'GeoPostal','US');

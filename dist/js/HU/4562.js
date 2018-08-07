@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4562"]={"code":"4562","region":"Szabolcs-Szatmar-Bereg","city":"Vaja","latitude":48.00574,"longitude":22.16761}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["812007"]={"code":"812007","region":"Jharkhand","city":"Barki Saria","latitude":24.16667,"longitude":85.88333}}(window,'GeoPostal','IN');

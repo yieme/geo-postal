@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44210"]={"code":"44210","region":"Maha Sarakham","city":"Yang Si Surat","latitude":15.68361,"longitude":103.10311}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78164"]={"code":"78164","region":"Texas","city":"Yorktown","latitude":28.982579,"longitude":-97.506964}}(window,'GeoPostal','US');

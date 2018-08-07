@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27098"]={"code":"27098","region":"NC","city":"Rural Hall","latitude":36.2404,"longitude":-80.2934}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27974"]={"code":"27974","region":"NC","city":"Shiloh","latitude":36.2584,"longitude":-76.0432}}(window,'GeoPostal','US');

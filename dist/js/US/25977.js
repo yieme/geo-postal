@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25977"]={"code":"25977","region":"WV","city":"Meadow Creek","latitude":37.8101,"longitude":-80.9231}}(window,'GeoPostal','US');

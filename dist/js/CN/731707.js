@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["731707"]={"code":"731707","region":"Gansu","city":"Xiaoling","latitude":35.89484,"longitude":102.99562}}(window,'GeoPostal','CN');

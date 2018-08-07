@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24521"]={"code":"24521","region":"Virginia","city":"Amherst","latitude":37.572124,"longitude":-79.057383}}(window,'GeoPostal','US');

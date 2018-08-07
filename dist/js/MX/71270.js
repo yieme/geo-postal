@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71270"]={"code":"71270","region":"Oaxaca","city":"San Pablo Huixtepec","latitude":16.83333,"longitude":-96.76667}}(window,'GeoPostal','MX');

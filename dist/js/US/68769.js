@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68769"]={"code":"68769","region":"Nebraska","city":"Plainview","latitude":42.34973,"longitude":-97.79201}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA24 8SL"]={"code":"TA24 8SL","region":"England","city":"Bratton","latitude":51.20417,"longitude":-3.50944}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3500"]={"code":"3500","region":"Montana","city":"Berkovitsa","latitude":43.23611,"longitude":23.12583}}(window,'GeoPostal','BG');

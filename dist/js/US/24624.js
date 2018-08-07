@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24624"]={"code":"24624","region":"VA","city":"Keen Mountain","latitude":37.2023,"longitude":-81.9862}}(window,'GeoPostal','US');

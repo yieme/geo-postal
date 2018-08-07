@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48651"]={"code":"48651","region":"Michigan","city":"Prudenville","latitude":44.29835,"longitude":-84.65197}}(window,'GeoPostal','US');

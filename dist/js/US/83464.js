@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83464"]={"code":"83464","region":"ID","city":"Leadore","latitude":44.7389,"longitude":-113.4926}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11025"]={"code":"11025","region":"Valle d'Aosta","city":"Chatillon","latitude":45.75166,"longitude":7.61751}}(window,'GeoPostal','IT');

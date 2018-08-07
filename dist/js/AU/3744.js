@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3744"]={"code":"3744","region":"Victoria","city":"Bright","latitude":-36.72712,"longitude":146.96126}}(window,'GeoPostal','AU');

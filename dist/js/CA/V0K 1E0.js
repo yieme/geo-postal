@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 1E0"]={"code":"V0K 1E0","region":"British Columbia","city":"Bridge Lake","latitude":51.4824,"longitude":-120.73236}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31593"]={"code":"31593","region":"Navarra, Comunidad Foral de","city":"Fitero","latitude":42.0577,"longitude":-1.85756}}(window,'GeoPostal','ES');

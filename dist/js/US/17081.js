@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17081"]={"code":"17081","region":"PA","city":"Plainfield","latitude":40.203,"longitude":-77.2848}}(window,'GeoPostal','US');

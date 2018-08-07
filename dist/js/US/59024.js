@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59024"]={"code":"59024","region":"Montana","city":"Custer","latitude":46.203421,"longitude":-107.679085}}(window,'GeoPostal','US');

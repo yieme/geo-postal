@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL73 8PA"]={"code":"LL73 8PA","region":"Wales","city":"Marianglas","latitude":53.33587,"longitude":-4.24626}}(window,'GeoPostal','GB');

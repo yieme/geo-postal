@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05846"]={"code":"05846","region":"Vermont","city":"Island Pond","latitude":44.81444,"longitude":-71.88222}}(window,'GeoPostal','US');

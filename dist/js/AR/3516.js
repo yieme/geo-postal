@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3516"]={"code":"3516","region":"Chaco","city":"Basail","latitude":-27.86667,"longitude":-59.3}}(window,'GeoPostal','AR');

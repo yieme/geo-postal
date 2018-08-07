@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93080"]={"code":"93080","region":"Nordrhein-Westfalen","city":"Pentling","latitude":51.59296,"longitude":7.87226}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98606"]={"code":"98606","region":"WA","city":"Brush Prairie","latitude":45.7304,"longitude":-122.4843}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41-400"]={"code":"41-400","region":"Slaskie","city":"Myslowice","latitude":50.20745,"longitude":19.16668}}(window,'GeoPostal','PL');

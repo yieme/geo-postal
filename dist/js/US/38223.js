@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38223"]={"code":"38223","region":"TN","city":"Como","latitude":36.2931,"longitude":-88.5123}}(window,'GeoPostal','US');

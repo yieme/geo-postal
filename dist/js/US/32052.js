@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32052"]={"code":"32052","region":"Florida","city":"Jasper","latitude":30.51827,"longitude":-82.94819}}(window,'GeoPostal','US');

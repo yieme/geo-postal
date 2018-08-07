@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54812"]={"code":"54812","region":"Wisconsin","city":"Barron","latitude":45.40135,"longitude":-91.84906}}(window,'GeoPostal','US');

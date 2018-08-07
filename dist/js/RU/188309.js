@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188309"]={"code":"188309","region":"Leningradskaya oblast'","city":"Gatchina","latitude":59.57639,"longitude":30.12833}}(window,'GeoPostal','RU');

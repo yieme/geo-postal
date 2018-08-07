@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 1E0"]={"code":"V0J 1E0","region":"British Columbia","city":"Burns Lake","latitude":54.2331,"longitude":-125.7533}}(window,'GeoPostal','CA');

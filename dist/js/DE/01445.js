@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01445"]={"code":"01445","region":"Sachsen","city":"Radebeul","latitude":51.10654,"longitude":13.66047}}(window,'GeoPostal','DE');

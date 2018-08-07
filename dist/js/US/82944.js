@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82944"]={"code":"82944","region":"Wyoming","city":"Robertson","latitude":41.086336,"longitude":-110.558496}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03390"]={"code":"03390","region":"Valenciana, Comunidad","city":"Benejuzar","latitude":38.07728,"longitude":-0.83942}}(window,'GeoPostal','ES');

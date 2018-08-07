@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67627"]={"code":"67627","region":"KS","city":"Catharine","latitude":38.9276,"longitude":-99.2161}}(window,'GeoPostal','US');

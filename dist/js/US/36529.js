@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36529"]={"code":"36529","region":"Alabama","city":"Deer Park","latitude":31.321111,"longitude":-88.188611}}(window,'GeoPostal','US');

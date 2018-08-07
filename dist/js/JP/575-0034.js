@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["575-0034"]={"code":"575-0034","region":"Osaka","city":"Shijonawate","latitude":34.74,"longitude":135.63944}}(window,'GeoPostal','JP');

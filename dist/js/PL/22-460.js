@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-460"]={"code":"22-460","region":"Lubelskie","city":"Szczebrzeszyn","latitude":50.69499,"longitude":22.97954}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6849"]={"code":"6849","region":"Western Australia","city":"Perth","latitude":-31.95224,"longitude":115.8614}}(window,'GeoPostal','AU');

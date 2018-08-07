@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48769"]={"code":"48769","region":"MI","city":"Vassar","latitude":43.33,"longitude":-83.34}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73968"]={"code":"73968","region":"Puebla","city":"Teziutlan","latitude":19.81667,"longitude":-97.35}}(window,'GeoPostal','MX');

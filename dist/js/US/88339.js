@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88339"]={"code":"88339","region":"New Mexico","city":"Mayhill","latitude":32.907583,"longitude":-105.467049}}(window,'GeoPostal','US');

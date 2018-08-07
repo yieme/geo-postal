@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23009"]={"code":"23009","region":"VA","city":"Aylett","latitude":37.8221,"longitude":-77.1885}}(window,'GeoPostal','US');

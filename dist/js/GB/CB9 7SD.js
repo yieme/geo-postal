@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB9 7SD"]={"code":"CB9 7SD","region":"England","city":"Withersfield","latitude":52.10735,"longitude":0.41877}}(window,'GeoPostal','GB');

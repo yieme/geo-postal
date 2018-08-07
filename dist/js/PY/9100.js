@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9100"]={"code":"9100","region":"Alto Paraguay","city":"Capitan Pablo Lagerenza","latitude":-19.91667,"longitude":-60.78333}}(window,'GeoPostal','PY');

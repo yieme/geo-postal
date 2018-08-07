@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24357"]={"code":"24357","region":"Schleswig-Holstein","city":"Fellhorst","latitude":54.45782,"longitude":9.67711}}(window,'GeoPostal','DE');

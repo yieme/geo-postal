@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3242"]={"code":"3242","region":"Heves","city":"Paradsasvar","latitude":47.9126,"longitude":19.97709}}(window,'GeoPostal','HU');

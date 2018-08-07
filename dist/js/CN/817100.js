@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["817100"]={"code":"817100","region":"Qinghai","city":"Chaka","latitude":36.79219,"longitude":99.07372}}(window,'GeoPostal','CN');

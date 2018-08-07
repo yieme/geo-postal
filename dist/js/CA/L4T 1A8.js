@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L4T 1A8"]={"code":"L4T 1A8","region":"Ontario","city":"Malton","latitude":43.710261,"longitude":-79.63574}}(window,'GeoPostal','CA');

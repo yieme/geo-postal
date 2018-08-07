@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49757"]={"code":"49757","region":"Niedersachsen","city":"Lahn","latitude":52.81667,"longitude":7.61667}}(window,'GeoPostal','DE');

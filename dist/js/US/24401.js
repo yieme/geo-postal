@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24401"]={"code":"24401","region":"Virginia","city":"Staunton","latitude":38.14958,"longitude":-79.0717}}(window,'GeoPostal','US');

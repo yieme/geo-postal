@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16689"]={"code":"16689","region":"PA","city":"Waterfall","latitude":40.1276,"longitude":-78.0628}}(window,'GeoPostal','US');

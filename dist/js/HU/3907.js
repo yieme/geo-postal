@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3907"]={"code":"3907","region":"Borsod-Abauj-Zemplen","city":"Tallya","latitude":48.23333,"longitude":21.23333}}(window,'GeoPostal','HU');

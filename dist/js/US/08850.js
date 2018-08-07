@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08850"]={"code":"08850","region":"NJ","city":"Milltown","latitude":40.4493,"longitude":-74.439}}(window,'GeoPostal','US');

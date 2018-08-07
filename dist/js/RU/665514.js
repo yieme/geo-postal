@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665514"]={"code":"665514","region":"Irkutskaya oblast'","city":"Chunskiy","latitude":56.0815,"longitude":99.6342}}(window,'GeoPostal','RU');

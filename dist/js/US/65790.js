@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65790"]={"code":"65790","region":"Missouri","city":"Pottersville","latitude":36.701475,"longitude":-92.047371}}(window,'GeoPostal','US');

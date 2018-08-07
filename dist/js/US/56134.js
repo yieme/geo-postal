@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56134"]={"code":"56134","region":"Minnesota","city":"Hardwick","latitude":43.774506,"longitude":-96.198756}}(window,'GeoPostal','US');

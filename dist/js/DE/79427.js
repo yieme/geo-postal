@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79427"]={"code":"79427","region":"Rheinland-Pfalz","city":"Eschbach","latitude":49.17444,"longitude":8.01917}}(window,'GeoPostal','DE');

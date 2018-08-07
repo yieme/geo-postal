@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35660"]={"code":"35660","region":"Canarias","city":"Corralejo","latitude":28.74243,"longitude":-13.86839}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50829"]={"code":"50829","region":"Nordrhein-Westfalen","city":"Bocklemund","latitude":50.9752,"longitude":6.8668}}(window,'GeoPostal','DE');

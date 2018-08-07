@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72001"]={"code":"72001","region":"Taurages apskritis","city":"Taurage","latitude":55.25222,"longitude":22.28972}}(window,'GeoPostal','LT');

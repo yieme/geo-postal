@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337270"]={"code":"337270","region":"Hunedoara","city":"Ilia","latitude":45.93333,"longitude":22.65}}(window,'GeoPostal','RO');

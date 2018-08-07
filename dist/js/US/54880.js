@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54880"]={"code":"54880","region":"Wisconsin","city":"Superior","latitude":46.72077,"longitude":-92.10408}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01158"]={"code":"01158","region":"Auvergne-Rhone-Alpes","city":"Lagnieu","latitude":45.90038,"longitude":5.3466}}(window,'GeoPostal','FR');

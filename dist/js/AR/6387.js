@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6387"]={"code":"6387","region":"La Pampa","city":"Caleufu","latitude":-35.59559,"longitude":-64.55778}}(window,'GeoPostal','AR');

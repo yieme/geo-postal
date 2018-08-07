@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56479"]={"code":"56479","region":"Minnesota","city":"Staples","latitude":46.35552,"longitude":-94.79224}}(window,'GeoPostal','US');

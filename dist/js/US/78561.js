@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78561"]={"code":"78561","region":"TX","city":"Lasara","latitude":26.4648,"longitude":-97.9111}}(window,'GeoPostal','US');

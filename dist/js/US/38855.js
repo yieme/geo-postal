@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38855"]={"code":"38855","region":"MS","city":"Mantachie","latitude":34.3243,"longitude":-88.4912}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56230"]={"code":"56230","region":"MN","city":"Danube","latitude":44.7919,"longitude":-95.0972}}(window,'GeoPostal','US');

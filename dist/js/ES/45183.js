@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45183"]={"code":"45183","region":"Castilla-La Mancha","city":"Las Ventas de Retamosa","latitude":40.15526,"longitude":-4.11455}}(window,'GeoPostal','ES');

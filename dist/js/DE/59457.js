@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59457"]={"code":"59457","region":"Nordrhein-Westfalen","city":"Werl","latitude":51.55493,"longitude":7.91403}}(window,'GeoPostal','DE');

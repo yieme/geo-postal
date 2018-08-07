@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59036"]={"code":"59036","region":"Montana","city":"Harlowton","latitude":46.43551,"longitude":-109.83435}}(window,'GeoPostal','US');

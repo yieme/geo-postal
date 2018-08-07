@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27087"]={"code":"27087","region":"Chiapas","city":"Villa Comaltitlan","latitude":15.21667,"longitude":-92.58333}}(window,'GeoPostal','MX');

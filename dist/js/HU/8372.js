@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8372"]={"code":"8372","region":"Zala","city":"Cserszegtomaj","latitude":46.80165,"longitude":17.22096}}(window,'GeoPostal','HU');

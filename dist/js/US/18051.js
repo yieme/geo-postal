@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18051"]={"code":"18051","region":"PA","city":"Fogelsville","latitude":40.593,"longitude":-75.6568}}(window,'GeoPostal','US');

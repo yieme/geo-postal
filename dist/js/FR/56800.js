@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56800"]={"code":"56800","region":"Bretagne","city":"Loyat","latitude":47.98933,"longitude":-2.38344}}(window,'GeoPostal','FR');

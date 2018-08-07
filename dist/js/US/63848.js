@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63848"]={"code":"63848","region":"Missouri","city":"Gideon","latitude":36.45201,"longitude":-89.91926}}(window,'GeoPostal','US');

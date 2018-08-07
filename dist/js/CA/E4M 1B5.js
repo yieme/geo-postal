@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4M 1B5"]={"code":"E4M 1B5","region":"New Brunswick","city":"Port Elgin","latitude":46.04874,"longitude":-64.08683}}(window,'GeoPostal','CA');

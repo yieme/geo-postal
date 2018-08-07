@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1340"]={"code":"1340","region":"Brabant wallon","city":"Ottignies","latitude":50.66535,"longitude":4.56679}}(window,'GeoPostal','BE');

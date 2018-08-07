@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 2N0"]={"code":"T0J 2N0","region":"Alberta","city":"Ralston","latitude":50.25011,"longitude":-111.16844}}(window,'GeoPostal','CA');

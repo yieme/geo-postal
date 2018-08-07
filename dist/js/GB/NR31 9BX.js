@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR31 9BX"]={"code":"NR31 9BX","region":"England","city":"Hopton on Sea","latitude":52.53333,"longitude":1.73333}}(window,'GeoPostal','GB');

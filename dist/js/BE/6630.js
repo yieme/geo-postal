@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6630"]={"code":"6630","region":"Luxembourg","city":"Martelange","latitude":49.83195,"longitude":5.73655}}(window,'GeoPostal','BE');

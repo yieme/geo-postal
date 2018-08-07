@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7170"]={"code":"7170","region":"Tasmania","city":"Cambridge","latitude":-42.83333,"longitude":147.45}}(window,'GeoPostal','AU');

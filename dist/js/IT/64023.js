@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64023"]={"code":"64023","region":"Abruzzo","city":"Mosciano Sant'Angelo","latitude":42.74685,"longitude":13.8883}}(window,'GeoPostal','IT');

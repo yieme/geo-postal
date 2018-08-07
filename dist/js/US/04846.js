@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04846"]={"code":"04846","region":"ME","city":"Glen Cove","latitude":44.11,"longitude":-69.08}}(window,'GeoPostal','US');

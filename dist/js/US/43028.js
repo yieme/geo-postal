@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43028"]={"code":"43028","region":"OH","city":"Howard","latitude":40.4158,"longitude":-82.3334}}(window,'GeoPostal','US');

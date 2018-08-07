@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627180"]={"code":"627180","region":"Tyumenskaya oblast'","city":"Uporovo","latitude":56.31093,"longitude":66.26926}}(window,'GeoPostal','RU');

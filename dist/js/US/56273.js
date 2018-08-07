@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56273"]={"code":"56273","region":"Minnesota","city":"New London","latitude":45.30108,"longitude":-94.94418}}(window,'GeoPostal','US');

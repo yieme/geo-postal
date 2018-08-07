@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623070"]={"code":"623070","region":"Sverdlovskaya oblast'","city":"Verkhniye Sergi","latitude":56.64694,"longitude":59.55556}}(window,'GeoPostal','RU');

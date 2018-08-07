@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86320"]={"code":"86320","region":"Arizona","city":"Ash Fork","latitude":35.22111,"longitude":-112.48722}}(window,'GeoPostal','US');

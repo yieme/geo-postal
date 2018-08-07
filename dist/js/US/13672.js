@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13672"]={"code":"13672","region":"NY","city":"Parishville","latitude":44.5927,"longitude":-74.7941}}(window,'GeoPostal','US');

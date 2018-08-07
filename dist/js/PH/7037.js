@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7037"]={"code":"7037","region":"Zamboanga del Sur","city":"San Miguel","latitude":7.64833,"longitude":123.2675}}(window,'GeoPostal','PH');

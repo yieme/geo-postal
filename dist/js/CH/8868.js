@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8868"]={"code":"8868","region":"Glarus","city":"Oberurnen","latitude":47.11412,"longitude":9.05866}}(window,'GeoPostal','CH');

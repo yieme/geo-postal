@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137441"]={"code":"137441","region":"Valcea","city":"Tatarani","latitude":45,"longitude":25.26667}}(window,'GeoPostal','RO');

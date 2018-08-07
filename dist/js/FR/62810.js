@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62810"]={"code":"62810","region":"Hauts-de-France","city":"Grand-Rullecourt","latitude":50.2553,"longitude":2.475}}(window,'GeoPostal','FR');

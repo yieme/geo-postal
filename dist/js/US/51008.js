@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51008"]={"code":"51008","region":"IA","city":"Brunsville","latitude":42.8093,"longitude":-96.2626}}(window,'GeoPostal','US');

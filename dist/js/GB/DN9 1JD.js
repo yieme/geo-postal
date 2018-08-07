@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN9 1JD"]={"code":"DN9 1JD","region":"England","city":"Epworth","latitude":53.52602,"longitude":-0.82399}}(window,'GeoPostal','GB');

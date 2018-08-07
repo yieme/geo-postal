@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51080"]={"code":"51080","region":"Ceuta","city":"Ceuta","latitude":35.88933,"longitude":-5.31979}}(window,'GeoPostal','ES');

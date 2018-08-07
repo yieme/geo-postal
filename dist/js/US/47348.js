@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47348"]={"code":"47348","region":"Indiana","city":"Hartford City","latitude":40.45115,"longitude":-85.36997}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162100"]={"code":"162100","region":"Heilongjiang","city":"Gannan","latitude":47.91472,"longitude":123.50306}}(window,'GeoPostal','CN');

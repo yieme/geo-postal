@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79730"]={"code":"79730","region":"Baden-Wurttemberg","city":"Rippolingen","latitude":47.5767,"longitude":7.9868}}(window,'GeoPostal','DE');

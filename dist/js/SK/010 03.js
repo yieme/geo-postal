@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["010 03"]={"code":"010 03","region":"Zilinsky kraj","city":"Zilina","latitude":49.22315,"longitude":18.73941}}(window,'GeoPostal','SK');

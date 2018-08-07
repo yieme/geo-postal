@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15770"]={"code":"15770","region":"PA","city":"Ringgold","latitude":40.9997,"longitude":-79.1766}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 1K0"]={"code":"T0B 1K0","region":"Alberta","city":"Heath","latitude":52.80014,"longitude":-110.60162}}(window,'GeoPostal','CA');

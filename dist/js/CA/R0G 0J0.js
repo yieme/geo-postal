@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0G 0J0"]={"code":"R0G 0J0","region":"Manitoba","city":"Carman","latitude":49.4992,"longitude":-98.00156}}(window,'GeoPostal','CA');

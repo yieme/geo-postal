@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97137"]={"code":"97137","region":"OR","city":"Saint Paul","latitude":45.196,"longitude":-122.9674}}(window,'GeoPostal','US');

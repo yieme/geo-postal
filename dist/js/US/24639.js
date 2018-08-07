@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24639"]={"code":"24639","region":"Virginia","city":"Raven","latitude":37.08706,"longitude":-81.85512}}(window,'GeoPostal','US');

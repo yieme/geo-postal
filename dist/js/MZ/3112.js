@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3112"]={"code":"3112","region":"Nampula","city":"Cidade de Nacala","latitude":-14.54278,"longitude":40.67278}}(window,'GeoPostal','MZ');

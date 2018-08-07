@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21714"]={"code":"21714","region":"MD","city":"Braddock Heights","latitude":39.4203,"longitude":-77.5051}}(window,'GeoPostal','US');

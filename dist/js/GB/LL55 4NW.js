@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL55 4NW"]={"code":"LL55 4NW","region":"Wales","city":"Nant Gwynant","latitude":53.04789,"longitude":-4.03885}}(window,'GeoPostal','GB');

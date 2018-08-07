@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226221"]={"code":"226221","region":"Jiangsu","city":"Beixin","latitude":31.82509,"longitude":121.50881}}(window,'GeoPostal','CN');

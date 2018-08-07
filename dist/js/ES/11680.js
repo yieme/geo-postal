@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11680"]={"code":"11680","region":"Andalucia","city":"Algodonales","latitude":36.88044,"longitude":-5.40536}}(window,'GeoPostal','ES');

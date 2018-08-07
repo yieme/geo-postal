@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57319"]={"code":"57319","region":"Hessen","city":"Nordenau","latitude":51.17574,"longitude":8.42445}}(window,'GeoPostal','DE');

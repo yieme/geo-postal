@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317100"]={"code":"317100","region":"Zhejiang","city":"Haiyou","latitude":29.12358,"longitude":121.37344}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["710-0055"]={"code":"710-0055","region":"Okayama","city":"Kurashiki","latitude":34.583,"longitude":133.767}}(window,'GeoPostal','JP');

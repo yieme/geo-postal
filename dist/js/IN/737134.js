@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737134"]={"code":"737134","region":"Sikkim","city":"Singtam","latitude":27.23333,"longitude":88.5}}(window,'GeoPostal','IN');

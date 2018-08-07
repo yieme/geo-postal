@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR34 0BN"]={"code":"NR34 0BN","region":"England","city":"Burgh Saint Peter","latitude":52.48333,"longitude":1.63333}}(window,'GeoPostal','GB');

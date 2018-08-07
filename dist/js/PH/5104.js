@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5104"]={"code":"5104","region":"Mindoro Occidental","city":"Barahan","latitude":13.0121,"longitude":120.762}}(window,'GeoPostal','PH');

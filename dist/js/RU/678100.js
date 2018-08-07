@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678100"]={"code":"678100","region":"Saha, Respublika","city":"Olekminsk","latitude":60.37361,"longitude":120.42639}}(window,'GeoPostal','RU');

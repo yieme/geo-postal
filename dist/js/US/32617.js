@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32617"]={"code":"32617","region":"FL","city":"Anthony","latitude":29.3048,"longitude":-82.1262}}(window,'GeoPostal','US');

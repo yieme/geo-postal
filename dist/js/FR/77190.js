@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77190"]={"code":"77190","region":"Ile-de-France","city":"Villiers-en-Biere","latitude":48.4953,"longitude":2.5986}}(window,'GeoPostal','FR');

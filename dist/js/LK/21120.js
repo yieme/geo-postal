@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21120"]={"code":"21120","region":"Central Province","city":"Sigiriya","latitude":7.9518,"longitude":80.7426}}(window,'GeoPostal','LK');

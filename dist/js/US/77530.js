@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77530"]={"code":"77530","region":"Texas","city":"Channelview","latitude":29.7897,"longitude":-95.1191}}(window,'GeoPostal','US');

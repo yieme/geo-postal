@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4710"]={"code":"4710","region":"Queensland","city":"Emu Park","latitude":-23.25838,"longitude":150.82484}}(window,'GeoPostal','AU');

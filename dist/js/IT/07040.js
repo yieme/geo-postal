@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07040"]={"code":"07040","region":"Sardegna","city":"Siligo","latitude":40.57616,"longitude":8.72692}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97827"]={"code":"97827","region":"Oregon","city":"Elgin","latitude":45.56486,"longitude":-117.91743}}(window,'GeoPostal','US');

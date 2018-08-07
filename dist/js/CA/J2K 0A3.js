@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J2K 0A3"]={"code":"J2K 0A3","region":"Quebec","city":"Brigham","latitude":45.25008,"longitude":-72.84913}}(window,'GeoPostal','CA');

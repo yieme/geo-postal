@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62480-000"]={"code":"62480-000","region":"Ceara","city":"Coreau","latitude":-3.53333,"longitude":-40.65667}}(window,'GeoPostal','BR');

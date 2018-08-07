@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["103101"]={"code":"103101","region":"Lagos","city":"Badagry","latitude":6.41667,"longitude":2.88333}}(window,'GeoPostal','NG');

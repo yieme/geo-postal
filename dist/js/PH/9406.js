@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9406"]={"code":"9406","region":"Cotabato","city":"Marbel","latitude":7.11583,"longitude":124.9125}}(window,'GeoPostal','PH');

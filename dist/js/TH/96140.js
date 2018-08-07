@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96140"]={"code":"96140","region":"Narathiwat","city":"Su-ngai Padi","latitude":6.0857,"longitude":101.87959}}(window,'GeoPostal','TH');

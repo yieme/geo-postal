@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-251"]={"code":"23-251","region":"Lubelskie","city":"Dzierzkowice","latitude":50.9602,"longitude":22.06639}}(window,'GeoPostal','PL');

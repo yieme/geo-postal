@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28001"]={"code":"28001","region":"Utenos apskritis","city":"Utena","latitude":55.5,"longitude":25.6}}(window,'GeoPostal','LT');

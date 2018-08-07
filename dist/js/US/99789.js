@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99789"]={"code":"99789","region":"AK","city":"Nuiqsut","latitude":70.1927,"longitude":-150.9971}}(window,'GeoPostal','US');

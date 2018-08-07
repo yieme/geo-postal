@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L3Y 7B6"]={"code":"L3Y 7B6","region":"Ontario","city":"Newmarket","latitude":44.072306,"longitude":-79.429287}}(window,'GeoPostal','CA');

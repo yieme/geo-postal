@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-203"]={"code":"83-203","region":"Pomorskie","city":"Starogard Gdanski","latitude":53.96396,"longitude":18.52638}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442130"]={"code":"442130","region":"Penzenskaya oblast'","city":"Verkhniy Lomov","latitude":53.46778,"longitude":43.55111}}(window,'GeoPostal','RU');

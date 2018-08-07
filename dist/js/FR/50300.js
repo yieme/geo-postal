@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50300"]={"code":"50300","region":"Normandie","city":"Le Val-Saint-Pere","latitude":48.66176,"longitude":-1.37653}}(window,'GeoPostal','FR');

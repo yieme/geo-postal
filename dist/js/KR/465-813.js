@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["465-813"]={"code":"465-813","region":"Gyeonggi-do","city":"Hanam","latitude":37.54,"longitude":127.20556}}(window,'GeoPostal','KR');

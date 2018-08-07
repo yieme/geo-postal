@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG1 2BA"]={"code":"DG1 2BA","region":"Scotland","city":"Dumfries","latitude":55.06959,"longitude":-3.61139}}(window,'GeoPostal','GB');

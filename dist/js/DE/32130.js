@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32130"]={"code":"32130","region":"Nordrhein-Westfalen","city":"Enger","latitude":52.14063,"longitude":8.55772}}(window,'GeoPostal','DE');

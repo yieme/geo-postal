@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43119"]={"code":"43119","region":"Ohio","city":"Galloway","latitude":39.93672,"longitude":-83.19444}}(window,'GeoPostal','US');

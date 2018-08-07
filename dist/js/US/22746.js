@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22746"]={"code":"22746","region":"VA","city":"Viewtown","latitude":38.6457,"longitude":-78.0258}}(window,'GeoPostal','US');

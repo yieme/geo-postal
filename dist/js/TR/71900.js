@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71900"]={"code":"71900","region":"Yalova","city":"Kadikoy","latitude":40.62015,"longitude":29.22536}}(window,'GeoPostal','TR');

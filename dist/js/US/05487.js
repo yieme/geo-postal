@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05487"]={"code":"05487","region":"VT","city":"Starksboro","latitude":44.2261,"longitude":-73.0157}}(window,'GeoPostal','US');

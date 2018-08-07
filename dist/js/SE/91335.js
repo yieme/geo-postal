@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91335"]={"code":"91335","region":"Vasterbottens lan","city":"Holmsund","latitude":63.70602,"longitude":20.36409}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55624"]={"code":"55624","region":"Rheinland-Pfalz","city":"Weitersbach","latitude":49.86667,"longitude":7.31667}}(window,'GeoPostal','DE');

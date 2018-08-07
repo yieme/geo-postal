@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28602"]={"code":"28602","region":"Kirovohradska oblast","city":"Ustynivka","latitude":47.95507,"longitude":32.53674}}(window,'GeoPostal','UA');

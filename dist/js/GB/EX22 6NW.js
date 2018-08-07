@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 6NW"]={"code":"EX22 6NW","region":"England","city":"Hollacombe","latitude":50.80421,"longitude":-4.30514}}(window,'GeoPostal','GB');

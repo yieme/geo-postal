@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50269"]={"code":"50269","region":"IA","city":"Whitten","latitude":42.2718,"longitude":-93.0214}}(window,'GeoPostal','US');

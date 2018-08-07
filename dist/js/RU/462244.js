@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["462244"]={"code":"462244","region":"Orenburgskaya oblast'","city":"Kuvandyk","latitude":51.4781,"longitude":57.3552}}(window,'GeoPostal','RU');

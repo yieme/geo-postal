@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88256"]={"code":"88256","region":"NM","city":"Loving","latitude":32.274,"longitude":-104.0914}}(window,'GeoPostal','US');

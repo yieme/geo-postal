@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692270"]={"code":"692270","region":"Primorskiy kray","city":"Yaroslavskiy","latitude":44.16833,"longitude":132.20722}}(window,'GeoPostal','RU');

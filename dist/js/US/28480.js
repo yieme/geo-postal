@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28480"]={"code":"28480","region":"NC","city":"Wrightsville Beach","latitude":34.2228,"longitude":-77.7932}}(window,'GeoPostal','US');

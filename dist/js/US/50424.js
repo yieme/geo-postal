@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50424"]={"code":"50424","region":"Iowa","city":"Buffalo Center","latitude":43.387719,"longitude":-93.947988}}(window,'GeoPostal','US');

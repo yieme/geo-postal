@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3650"]={"code":"3650","region":"Montana","city":"Vulchedrum","latitude":43.69639,"longitude":23.44472}}(window,'GeoPostal','BG');

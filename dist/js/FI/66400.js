@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66400"]={"code":"66400","region":"Pohjanmaa","city":"Laihia","latitude":62.97609,"longitude":22.01143}}(window,'GeoPostal','FI');

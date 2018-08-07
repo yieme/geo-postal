@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68817"]={"code":"68817","region":"Nebraska","city":"Ashton","latitude":41.300371,"longitude":-98.815757}}(window,'GeoPostal','US');

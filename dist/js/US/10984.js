@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10984"]={"code":"10984","region":"NY","city":"Thiells","latitude":41.2078,"longitude":-74.0154}}(window,'GeoPostal','US');

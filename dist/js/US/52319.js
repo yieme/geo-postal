@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52319"]={"code":"52319","region":"Iowa","city":"Oakdale","latitude":41.716704,"longitude":-91.62257}}(window,'GeoPostal','US');

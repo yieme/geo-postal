@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98622"]={"code":"98622","region":"WA","city":"Heisson","latitude":45.8248,"longitude":-122.4912}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72581"]={"code":"72581","region":"Baden-Wurttemberg","city":"Dettingen an der Erms","latitude":48.53077,"longitude":9.34458}}(window,'GeoPostal','DE');

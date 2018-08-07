@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37160"]={"code":"37160","region":"Tennessee","city":"Shelbyville","latitude":35.473338,"longitude":-86.468374}}(window,'GeoPostal','US');

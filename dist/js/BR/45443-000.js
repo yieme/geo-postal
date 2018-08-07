@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45443-000"]={"code":"45443-000","region":"Bahia","city":"Camamu","latitude":-13.94472,"longitude":-39.10389}}(window,'GeoPostal','BR');

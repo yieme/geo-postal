@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76887"]={"code":"76887","region":"Rheinland-Pfalz","city":"Oberhausen","latitude":49.09694,"longitude":8.05833}}(window,'GeoPostal','DE');

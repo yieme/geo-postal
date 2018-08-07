@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63409"]={"code":"63409","region":"Kharkivska oblast","city":"Chuhuiv","latitude":49.83588,"longitude":36.68803}}(window,'GeoPostal','UA');

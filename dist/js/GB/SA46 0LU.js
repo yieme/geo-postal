@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA46 0LU"]={"code":"SA46 0LU","region":"Wales","city":"Aber-Arth","latitude":52.25,"longitude":-4.23333}}(window,'GeoPostal','GB');

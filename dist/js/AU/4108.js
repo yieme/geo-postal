@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4108"]={"code":"4108","region":"Queensland","city":"Orange Grove","latitude":-27.56667,"longitude":153.03333}}(window,'GeoPostal','AU');

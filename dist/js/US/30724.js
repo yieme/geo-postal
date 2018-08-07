@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30724"]={"code":"30724","region":"GA","city":"Eton","latitude":34.8251,"longitude":-84.7633}}(window,'GeoPostal','US');

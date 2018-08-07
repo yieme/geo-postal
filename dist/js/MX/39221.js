@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39221"]={"code":"39221","region":"Guerrero","city":"Chilapa de Alvarez","latitude":17.6,"longitude":-99.16667}}(window,'GeoPostal','MX');

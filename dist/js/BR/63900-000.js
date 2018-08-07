@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63900-000"]={"code":"63900-000","region":"Ceara","city":"Quixada","latitude":-4.97139,"longitude":-39.01528}}(window,'GeoPostal','BR');

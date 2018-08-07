@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56255"]={"code":"56255","region":"Minnesota","city":"Lucan","latitude":44.408816,"longitude":-95.409881}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88832"]={"code":"88832","region":"Calabria","city":"Santa Severina","latitude":39.1478,"longitude":16.91001}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14850"]={"code":"14850","region":"Andalucia","city":"Baena","latitude":37.6167,"longitude":-4.32245}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07733"]={"code":"07733","region":"New Jersey","city":"Holmdel","latitude":40.383959,"longitude":-74.170563}}(window,'GeoPostal','US');

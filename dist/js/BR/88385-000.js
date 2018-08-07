@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88385-000"]={"code":"88385-000","region":"Santa Catarina","city":"Navegantes","latitude":-26.89889,"longitude":-48.65417}}(window,'GeoPostal','BR');

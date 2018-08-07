@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44250"]={"code":"44250","region":"OH","city":"Lakemore","latitude":41.0222,"longitude":-81.4279}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["320000"]={"code":"320000","region":"Yen Bai","city":"Yen Bai","latitude":21.7,"longitude":104.86667}}(window,'GeoPostal','VN');

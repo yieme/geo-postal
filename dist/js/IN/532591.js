@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["532591"]={"code":"532591","region":"Andhra Pradesh","city":"Razam","latitude":18.46667,"longitude":83.66667}}(window,'GeoPostal','IN');

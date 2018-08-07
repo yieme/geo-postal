@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88456"]={"code":"88456","region":"Baden-Wurttemberg","city":"Winterstettenstadt","latitude":48.00715,"longitude":9.74041}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 1600"]={"code":"AZ 1600","region":"Daskasan","city":"Verkhniy Dashkesan","latitude":40.49228,"longitude":46.07137}}(window,'GeoPostal','AZ');

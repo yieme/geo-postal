@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-160"]={"code":"44-160","region":"Slaskie","city":"Rudziniec","latitude":50.35324,"longitude":18.40914}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["533285"]={"code":"533285","region":"Andhra Pradesh","city":"Mandapeta","latitude":16.86667,"longitude":81.93333}}(window,'GeoPostal','IN');

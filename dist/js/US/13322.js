@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13322"]={"code":"13322","region":"NY","city":"Clayville","latitude":42.9801,"longitude":-75.251}}(window,'GeoPostal','US');

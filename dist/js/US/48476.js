@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48476"]={"code":"48476","region":"MI","city":"Vernon","latitude":42.9406,"longitude":-84.0328}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04341"]={"code":"04341","region":"ME","city":"Coopers Mills","latitude":44.2588,"longitude":-69.551}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-400"]={"code":"06-400","region":"Mazowieckie","city":"Ciechanow","latitude":52.88141,"longitude":20.61996}}(window,'GeoPostal','PL');

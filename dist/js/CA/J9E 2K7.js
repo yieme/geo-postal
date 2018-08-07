@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J9E 2K7"]={"code":"J9E 2K7","region":"Quebec","city":"Maniwaki","latitude":46.375406,"longitude":-75.97672}}(window,'GeoPostal','CA');

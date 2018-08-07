@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CR7 8DZ"]={"code":"CR7 8DZ","region":"England","city":"Thornton Heath","latitude":51.39884,"longitude":-0.09872}}(window,'GeoPostal','GB');

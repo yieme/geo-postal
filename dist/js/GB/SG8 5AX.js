@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG8 5AX"]={"code":"SG8 5AX","region":"England","city":"Royston","latitude":52.04832,"longitude":-0.02438}}(window,'GeoPostal','GB');

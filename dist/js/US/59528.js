@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59528"]={"code":"59528","region":"MT","city":"Hingham","latitude":48.587,"longitude":-110.4275}}(window,'GeoPostal','US');

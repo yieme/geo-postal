@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25746"]={"code":"25746","region":"Mecklenburg-Vorpommern","city":"Heide","latitude":53.41671,"longitude":10.73522}}(window,'GeoPostal','DE');

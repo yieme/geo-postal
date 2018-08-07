@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0A 1A0"]={"code":"J0A 1A0","region":"Quebec","city":"Danville","latitude":45.78337,"longitude":-72.0158}}(window,'GeoPostal','CA');

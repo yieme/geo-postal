@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY10 0NA"]={"code":"SY10 0NA","region":"Wales","city":"Llanwddyn","latitude":52.75972,"longitude":-3.45812}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9472"]={"code":"9472","region":"Sankt Gallen","city":"Grabs","latitude":47.18248,"longitude":9.44395}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141734"]={"code":"141734","region":"Moskovskaya oblast'","city":"Lobnya","latitude":56.00972,"longitude":37.48194}}(window,'GeoPostal','RU');

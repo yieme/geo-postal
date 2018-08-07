@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT11 0NL"]={"code":"DT11 0NL","region":"England","city":"Winterborne Stickland","latitude":50.84078,"longitude":-2.23556}}(window,'GeoPostal','GB');

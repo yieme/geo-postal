@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88046"]={"code":"88046","region":"Calabria","city":"Lamezia Terme","latitude":38.96589,"longitude":16.3092}}(window,'GeoPostal','IT');

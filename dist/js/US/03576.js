@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03576"]={"code":"03576","region":"New Hampshire","city":"Colebrook","latitude":44.89449,"longitude":-71.49592}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55614"]={"code":"55614","region":"Minnesota","city":"Silver Bay","latitude":47.29436,"longitude":-91.25739}}(window,'GeoPostal','US');

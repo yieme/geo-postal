@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364 52"]={"code":"364 52","region":"Karlovarsky kraj","city":"Zlutice","latitude":50.09192,"longitude":13.16297}}(window,'GeoPostal','CZ');

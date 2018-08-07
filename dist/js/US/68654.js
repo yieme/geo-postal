@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68654"]={"code":"68654","region":"Nebraska","city":"Polk","latitude":41.073135,"longitude":-97.786355}}(window,'GeoPostal','US');

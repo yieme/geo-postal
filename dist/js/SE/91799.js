@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91799"]={"code":"91799","region":"Vasterbottens lan","city":"Dorotea","latitude":64.26185,"longitude":16.41306}}(window,'GeoPostal','SE');

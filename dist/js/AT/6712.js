@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6712"]={"code":"6712","region":"Vorarlberg","city":"Thuringen","latitude":47.2,"longitude":9.76667}}(window,'GeoPostal','AT');

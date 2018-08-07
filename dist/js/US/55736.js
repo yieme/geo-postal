@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55736"]={"code":"55736","region":"Minnesota","city":"Floodwood","latitude":46.92694,"longitude":-92.91583}}(window,'GeoPostal','US');

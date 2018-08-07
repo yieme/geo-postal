@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5090000"]={"code":"5090000","region":"Los Rios","city":"Valdivia","latitude":-39.81422,"longitude":-73.24589}}(window,'GeoPostal','CL');

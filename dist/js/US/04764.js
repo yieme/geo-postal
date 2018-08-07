@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04764"]={"code":"04764","region":"ME","city":"Oxbow","latitude":46.402,"longitude":-68.5218}}(window,'GeoPostal','US');

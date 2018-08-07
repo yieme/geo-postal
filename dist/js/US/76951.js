@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76951"]={"code":"76951","region":"Texas","city":"Sterling City","latitude":31.83625,"longitude":-100.98483}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25010"]={"code":"25010","region":"Lombardia","city":"Limone sul Garda","latitude":45.8145,"longitude":10.79278}}(window,'GeoPostal','IT');

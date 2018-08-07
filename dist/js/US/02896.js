@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02896"]={"code":"02896","region":"RI","city":"North Smithfield","latitude":41.9724,"longitude":-71.5508}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 0TA"]={"code":"LA12 0TA","region":"England","city":"Great Urswick","latitude":54.1591,"longitude":-3.12171}}(window,'GeoPostal','GB');

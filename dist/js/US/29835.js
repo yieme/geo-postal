@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29835"]={"code":"29835","region":"SC","city":"Mc Cormick","latitude":33.9146,"longitude":-82.2719}}(window,'GeoPostal','US');

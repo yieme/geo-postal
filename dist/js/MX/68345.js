@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68345"]={"code":"68345","region":"Oaxaca","city":"San Juan Bautista Tuxtepec","latitude":18.1,"longitude":-96.11667}}(window,'GeoPostal','MX');

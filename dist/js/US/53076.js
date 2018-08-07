@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53076"]={"code":"53076","region":"WI","city":"Richfield","latitude":43.2739,"longitude":-88.2155}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86000"]={"code":"86000","region":"Balochistan","city":"Chaman","latitude":30.9236,"longitude":66.45116}}(window,'GeoPostal','PK');

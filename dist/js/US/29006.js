@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29006"]={"code":"29006","region":"SC","city":"Batesburg","latitude":33.8702,"longitude":-81.5505}}(window,'GeoPostal','US');

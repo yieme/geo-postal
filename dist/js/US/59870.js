@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59870"]={"code":"59870","region":"MT","city":"Stevensville","latitude":46.5267,"longitude":-114.0478}}(window,'GeoPostal','US');

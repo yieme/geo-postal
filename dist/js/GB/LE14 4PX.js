@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 4PX"]={"code":"LE14 4PX","region":"England","city":"Sproxton","latitude":52.80971,"longitude":-0.73111}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3890"]={"code":"3890","region":"Telemark","city":"Amot","latitude":59.57136,"longitude":7.98774}}(window,'GeoPostal','NO');

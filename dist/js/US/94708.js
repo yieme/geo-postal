@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94708"]={"code":"94708","region":"California","city":"Berkeley","latitude":37.906115,"longitude":-122.273476}}(window,'GeoPostal','US');

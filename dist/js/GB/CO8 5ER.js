@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO8 5ER"]={"code":"CO8 5ER","region":"England","city":"Lamarsh","latitude":51.98652,"longitude":0.75239}}(window,'GeoPostal','GB');

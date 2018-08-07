@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64021"]={"code":"64021","region":"MO","city":"Corder","latitude":39.1024,"longitude":-93.6391}}(window,'GeoPostal','US');

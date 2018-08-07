@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD8 3QW"]={"code":"DD8 3QW","region":"Scotland","city":"Fern","latitude":56.74451,"longitude":-2.84639}}(window,'GeoPostal','GB');

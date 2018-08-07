@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43270"]={"code":"43270","region":"Auvergne-Rhone-Alpes","city":"Allegre","latitude":45.20052,"longitude":3.71276}}(window,'GeoPostal','FR');

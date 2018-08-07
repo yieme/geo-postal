@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92420"]={"code":"92420","region":"Veracruz de Ignacio de la Llave","city":"Chinampa de Gorostiza","latitude":21.36667,"longitude":-97.73333}}(window,'GeoPostal','MX');

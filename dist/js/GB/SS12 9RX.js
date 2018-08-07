@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SS12 9RX"]={"code":"SS12 9RX","region":"England","city":"Wickford","latitude":51.61101,"longitude":0.52331}}(window,'GeoPostal','GB');

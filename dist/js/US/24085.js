@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24085"]={"code":"24085","region":"VA","city":"Eagle Rock","latitude":37.6667,"longitude":-79.8172}}(window,'GeoPostal','US');

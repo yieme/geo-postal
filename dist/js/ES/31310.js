@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31310"]={"code":"31310","region":"Navarra, Comunidad Foral de","city":"Carcastillo","latitude":42.37908,"longitude":-1.44376}}(window,'GeoPostal','ES');

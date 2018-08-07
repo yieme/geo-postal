@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50567"]={"code":"50567","region":"Iowa","city":"Nemaha","latitude":42.515039,"longitude":-95.089763}}(window,'GeoPostal','US');

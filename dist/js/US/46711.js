@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46711"]={"code":"46711","region":"Indiana","city":"Berne","latitude":40.65782,"longitude":-84.95191}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32464"]={"code":"32464","region":"Florida","city":"Westville","latitude":30.77029,"longitude":-85.854621}}(window,'GeoPostal','US');

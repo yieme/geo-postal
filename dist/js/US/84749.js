@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84749"]={"code":"84749","region":"UT","city":"Lyman","latitude":38.3969,"longitude":-111.5896}}(window,'GeoPostal','US');

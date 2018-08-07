@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22052"]={"code":"22052","region":"Tadla-Azilal","city":"Timoulilt","latitude":32.20368,"longitude":-6.4666}}(window,'GeoPostal','MA');

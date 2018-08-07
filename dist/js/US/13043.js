@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13043"]={"code":"13043","region":"NY","city":"Clockville","latitude":43.042,"longitude":-75.7408}}(window,'GeoPostal','US');

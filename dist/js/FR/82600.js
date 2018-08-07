@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82600"]={"code":"82600","region":"Occitanie","city":"Verdun-sur-Garonne","latitude":43.85446,"longitude":1.23425}}(window,'GeoPostal','FR');

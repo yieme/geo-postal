@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97147"]={"code":"97147","region":"OR","city":"Wheeler","latitude":45.6888,"longitude":-123.8816}}(window,'GeoPostal','US');

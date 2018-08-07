@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48763"]={"code":"48763","region":"Michigan","city":"Tawas City","latitude":44.26946,"longitude":-83.5147}}(window,'GeoPostal','US');

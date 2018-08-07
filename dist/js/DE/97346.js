@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97346"]={"code":"97346","region":"Bayern","city":"Iphofen","latitude":49.70239,"longitude":10.26037}}(window,'GeoPostal','DE');

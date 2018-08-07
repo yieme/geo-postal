@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65675"]={"code":"65675","region":"MO","city":"Hurley","latitude":36.9305,"longitude":-93.4965}}(window,'GeoPostal','US');

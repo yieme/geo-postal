@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44662"]={"code":"44662","region":"OH","city":"Navarre","latitude":40.7204,"longitude":-81.5338}}(window,'GeoPostal','US');

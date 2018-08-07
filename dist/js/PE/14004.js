@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14004"]={"code":"14004","region":"Lambayeque","city":"Chiclayo","latitude":-6.77361,"longitude":-79.84167}}(window,'GeoPostal','PE');

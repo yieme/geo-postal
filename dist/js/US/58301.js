@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58301"]={"code":"58301","region":"North Dakota","city":"Devils Lake","latitude":48.11278,"longitude":-98.86512}}(window,'GeoPostal','US');

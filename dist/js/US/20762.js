@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20762"]={"code":"20762","region":"Maryland","city":"Andrews Air Force Base","latitude":38.80531,"longitude":-76.8746}}(window,'GeoPostal','US');

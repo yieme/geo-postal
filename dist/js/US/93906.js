@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93906"]={"code":"93906","region":"California","city":"Salinas","latitude":36.712066,"longitude":-121.639773}}(window,'GeoPostal','US');

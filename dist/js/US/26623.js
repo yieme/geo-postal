@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26623"]={"code":"26623","region":"WV","city":"Frametown","latitude":38.6305,"longitude":-80.8589}}(window,'GeoPostal','US');

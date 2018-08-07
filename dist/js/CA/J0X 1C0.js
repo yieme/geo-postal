@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 1C0"]={"code":"J0X 1C0","region":"Quebec","city":"Blue Sea","latitude":46.20011,"longitude":-76.08266}}(window,'GeoPostal','CA');

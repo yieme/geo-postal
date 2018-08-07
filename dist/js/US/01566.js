@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01566"]={"code":"01566","region":"MA","city":"Sturbridge","latitude":42.1126,"longitude":-72.0842}}(window,'GeoPostal','US');

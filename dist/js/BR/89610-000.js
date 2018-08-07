@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89610-000"]={"code":"89610-000","region":"Santa Catarina","city":"Joacaba","latitude":-27.17806,"longitude":-51.50472}}(window,'GeoPostal','BR');

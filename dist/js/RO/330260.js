@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330260"]={"code":"330260","region":"Hunedoara","city":"Deva","latitude":45.88333,"longitude":22.9}}(window,'GeoPostal','RO');

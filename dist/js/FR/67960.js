@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67960"]={"code":"67960","region":"Grand-Est","city":"Entzheim","latitude":48.53224,"longitude":7.63329}}(window,'GeoPostal','FR');

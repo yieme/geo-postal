@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72084"]={"code":"72084","region":"AR","city":"Leola","latitude":34.1856,"longitude":-92.5979}}(window,'GeoPostal','US');

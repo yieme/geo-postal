@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97539"]={"code":"97539","region":"OR","city":"Shady Cove","latitude":42.6107,"longitude":-122.8125}}(window,'GeoPostal','US');

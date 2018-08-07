@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768051"]={"code":"768051","region":"Odisha","city":"Bargarh","latitude":21.33333,"longitude":83.61667}}(window,'GeoPostal','IN');

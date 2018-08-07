@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391 43"]={"code":"391 43","region":"Jihocesky kraj","city":"Mlada Vozice","latitude":49.53313,"longitude":14.80857}}(window,'GeoPostal','CZ');

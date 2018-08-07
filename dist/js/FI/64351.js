@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64351"]={"code":"64351","region":"Etela-Pohjanmaa","city":"Karijoki","latitude":62.30851,"longitude":21.70856}}(window,'GeoPostal','FI');

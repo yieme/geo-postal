@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04008"]={"code":"04008","region":"ME","city":"Bowdoinham","latitude":44.0101,"longitude":-69.8984}}(window,'GeoPostal','US');

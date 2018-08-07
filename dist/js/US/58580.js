@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58580"]={"code":"58580","region":"North Dakota","city":"Zap","latitude":47.298945,"longitude":-101.928756}}(window,'GeoPostal','US');

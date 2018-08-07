@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86983"]={"code":"86983","region":"Bayern","city":"Grundl","latitude":47.69607,"longitude":10.80179}}(window,'GeoPostal','DE');

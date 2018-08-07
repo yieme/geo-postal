@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92870"]={"code":"92870","region":"California","city":"Placentia","latitude":33.87224,"longitude":-117.87034}}(window,'GeoPostal','US');

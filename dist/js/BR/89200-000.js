@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89200-000"]={"code":"89200-000","region":"Santa Catarina","city":"Joinville","latitude":-26.30444,"longitude":-48.84556}}(window,'GeoPostal','BR');

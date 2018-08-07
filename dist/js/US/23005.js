@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23005"]={"code":"23005","region":"Virginia","city":"Ashland","latitude":37.749426,"longitude":-77.472557}}(window,'GeoPostal','US');

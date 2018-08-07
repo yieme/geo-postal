@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["285 33"]={"code":"285 33","region":"Stredocesky kraj","city":"Cirkvice","latitude":49.9456,"longitude":15.33505}}(window,'GeoPostal','CZ');

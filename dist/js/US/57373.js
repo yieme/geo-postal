@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57373"]={"code":"57373","region":"SD","city":"Saint Lawrence","latitude":44.5215,"longitude":-98.8754}}(window,'GeoPostal','US');

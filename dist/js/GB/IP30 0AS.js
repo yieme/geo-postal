@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP30 0AS"]={"code":"IP30 0AS","region":"England","city":"Bradfield Saint George","latitude":52.2,"longitude":0.8}}(window,'GeoPostal','GB');

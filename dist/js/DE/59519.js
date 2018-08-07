@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59519"]={"code":"59519","region":"Nordrhein-Westfalen","city":"Sudrandweg","latitude":51.48446,"longitude":8.13736}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47855"]={"code":"47855","region":"IN","city":"Hymera","latitude":39.1833,"longitude":-87.2994}}(window,'GeoPostal','US');

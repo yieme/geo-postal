@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28300-000"]={"code":"28300-000","region":"Rio de Janeiro","city":"Itaperuna","latitude":-21.205,"longitude":-41.88778}}(window,'GeoPostal','BR');

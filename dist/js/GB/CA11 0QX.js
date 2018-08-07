@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA11 0QX"]={"code":"CA11 0QX","region":"England","city":"Penruddock","latitude":54.64079,"longitude":-2.88826}}(window,'GeoPostal','GB');

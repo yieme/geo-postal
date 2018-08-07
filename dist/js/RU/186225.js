@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186225"]={"code":"186225","region":"Kareliya, Respublika","city":"Kondopoga","latitude":62.20565,"longitude":34.26138}}(window,'GeoPostal','RU');

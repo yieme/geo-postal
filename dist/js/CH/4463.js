@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4463"]={"code":"4463","region":"Basel-Landschaft","city":"Buus","latitude":47.50542,"longitude":7.86476}}(window,'GeoPostal','CH');

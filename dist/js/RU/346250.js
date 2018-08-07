@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346250"]={"code":"346250","region":"Rostovskaya oblast'","city":"Bokovskaya","latitude":49.22899,"longitude":41.8306}}(window,'GeoPostal','RU');

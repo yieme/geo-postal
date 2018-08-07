@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56729"]={"code":"56729","region":"Rheinland-Pfalz","city":"Kirchwald","latitude":50.36667,"longitude":7.15}}(window,'GeoPostal','DE');

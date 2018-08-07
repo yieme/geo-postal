@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 1J0"]={"code":"T0K 1J0","region":"Alberta","city":"Magrath","latitude":49.41668,"longitude":-112.86856}}(window,'GeoPostal','CA');

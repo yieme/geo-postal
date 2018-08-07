@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95046"]={"code":"95046","region":"California","city":"San Martin","latitude":37.090569,"longitude":-121.59604}}(window,'GeoPostal','US');

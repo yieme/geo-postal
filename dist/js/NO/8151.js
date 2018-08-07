@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8151"]={"code":"8151","region":"Nordland","city":"Ornes","latitude":66.8689,"longitude":13.7078}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML6 8PG"]={"code":"ML6 8PG","region":"Scotland","city":"Airdrie","latitude":55.86602,"longitude":-3.98025}}(window,'GeoPostal','GB');

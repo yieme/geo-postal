@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88317"]={"code":"88317","region":"Baden-Wurttemberg","city":"Rieden","latitude":47.9065,"longitude":10.07257}}(window,'GeoPostal','DE');

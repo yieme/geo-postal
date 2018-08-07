@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8204"]={"code":"8204","region":"La Pampa","city":"Bernasconi","latitude":-37.90459,"longitude":-63.7424}}(window,'GeoPostal','AR');

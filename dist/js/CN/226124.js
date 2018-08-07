@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226124"]={"code":"226124","region":"Jiangsu","city":"Changle","latitude":31.93424,"longitude":121.24754}}(window,'GeoPostal','CN');

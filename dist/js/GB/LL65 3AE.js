@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL65 3AE"]={"code":"LL65 3AE","region":"Wales","city":"Bryngwran","latitude":53.27023,"longitude":-4.48079}}(window,'GeoPostal','GB');

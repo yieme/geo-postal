@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12944"]={"code":"12944","region":"NY","city":"Keeseville","latitude":44.4999,"longitude":-73.4745}}(window,'GeoPostal','US');

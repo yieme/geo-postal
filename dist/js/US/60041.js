@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60041"]={"code":"60041","region":"IL","city":"Ingleside","latitude":42.3631,"longitude":-88.1587}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37765"]={"code":"37765","region":"TN","city":"Kyles Ford","latitude":36.5721,"longitude":-83.0507}}(window,'GeoPostal','US');

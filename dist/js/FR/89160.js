@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89160"]={"code":"89160","region":"Bourgogne-Franche-Comte","city":"Ancy-le-Franc","latitude":47.77586,"longitude":4.16361}}(window,'GeoPostal','FR');

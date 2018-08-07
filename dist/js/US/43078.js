@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43078"]={"code":"43078","region":"Ohio","city":"Urbana","latitude":40.10839,"longitude":-83.75243}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47960"]={"code":"47960","region":"Indiana","city":"Monticello","latitude":40.74532,"longitude":-86.76473}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16351"]={"code":"16351","region":"Pennsylvania","city":"Tidioute","latitude":41.68444,"longitude":-79.40389}}(window,'GeoPostal','US');

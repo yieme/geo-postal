@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537231"]={"code":"537231","region":"Guangxi","city":"Guiping","latitude":23.3925,"longitude":110.08139}}(window,'GeoPostal','CN');

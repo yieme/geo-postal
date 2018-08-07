@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41311"]={"code":"41311","region":"Kentucky","city":"Beattyville","latitude":37.575529,"longitude":-83.709691}}(window,'GeoPostal','US');

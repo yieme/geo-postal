@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76401"]={"code":"76401","region":"Texas","city":"Stephenville","latitude":32.2207,"longitude":-98.20226}}(window,'GeoPostal','US');

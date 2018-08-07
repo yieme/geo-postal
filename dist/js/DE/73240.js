@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73240"]={"code":"73240","region":"Baden-Wurttemberg","city":"Wendlingen","latitude":47.74805,"longitude":9.38858}}(window,'GeoPostal','DE');

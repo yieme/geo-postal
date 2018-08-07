@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY21 9EL"]={"code":"SY21 9EL","region":"Wales","city":"Llangyniew","latitude":52.67066,"longitude":-3.29276}}(window,'GeoPostal','GB');

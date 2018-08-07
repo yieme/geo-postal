@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG11 7BB"]={"code":"NG11 7BB","region":"England","city":"Wilford","latitude":52.92573,"longitude":-1.16}}(window,'GeoPostal','GB');

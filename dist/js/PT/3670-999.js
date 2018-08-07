@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3670-999"]={"code":"3670-999","region":"Viseu","city":"Sao Pedro do Sul","latitude":40.75537,"longitude":-8.07265}}(window,'GeoPostal','PT');

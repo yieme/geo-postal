@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620021"]={"code":"620021","region":"Tamil Nadu","city":"Puliyur","latitude":10.63333,"longitude":78.83333}}(window,'GeoPostal','IN');

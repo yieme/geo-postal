@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["664 41"]={"code":"664 41","region":"Jihomoravsky kraj","city":"Troubsko","latitude":49.16951,"longitude":16.51078}}(window,'GeoPostal','CZ');

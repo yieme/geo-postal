@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA15 8QQ"]={"code":"CA15 8QQ","region":"England","city":"Flimby","latitude":54.68956,"longitude":-3.52092}}(window,'GeoPostal','GB');

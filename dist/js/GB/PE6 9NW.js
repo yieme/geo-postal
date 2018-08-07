@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE6 9NW"]={"code":"PE6 9NW","region":"England","city":"Wilsthorpe","latitude":52.7,"longitude":-0.36667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2312"]={"code":"2312","region":"Guarico","city":"Calabozo","latitude":8.92416,"longitude":-67.42929}}(window,'GeoPostal','VE');

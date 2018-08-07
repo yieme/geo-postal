@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J6N 1W5"]={"code":"J6N 1W5","region":"Quebec","city":"Beauharnois","latitude":45.313595,"longitude":-73.893244}}(window,'GeoPostal','CA');

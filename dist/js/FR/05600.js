@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05600"]={"code":"05600","region":"Provence-Alpes-Cote d'Azur","city":"Guillestre","latitude":44.6595,"longitude":6.64948}}(window,'GeoPostal','FR');

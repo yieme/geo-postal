@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33854"]={"code":"33854","region":"FL","city":"Lakeshore","latitude":27.966,"longitude":-81.6965}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63073"]={"code":"63073","region":"Marche","city":"Offida","latitude":42.93575,"longitude":13.70039}}(window,'GeoPostal','IT');

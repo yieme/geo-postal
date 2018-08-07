@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62850"]={"code":"62850","region":"IL","city":"Johnsonville","latitude":38.5223,"longitude":-88.537}}(window,'GeoPostal','US');

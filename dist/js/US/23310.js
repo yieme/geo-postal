@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23310"]={"code":"23310","region":"Virginia","city":"Cape Charles","latitude":37.269665,"longitude":-76.016478}}(window,'GeoPostal','US');

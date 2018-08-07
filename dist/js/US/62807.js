@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62807"]={"code":"62807","region":"IL","city":"Alma","latitude":38.7231,"longitude":-88.9157}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6156"]={"code":"6156","region":"Tirol","city":"Gries am Brenner","latitude":47.05,"longitude":11.48333}}(window,'GeoPostal','AT');

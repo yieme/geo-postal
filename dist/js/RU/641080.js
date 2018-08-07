@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641080"]={"code":"641080","region":"Kurganskaya oblast'","city":"Safakulevo","latitude":54.9901,"longitude":62.5442}}(window,'GeoPostal','RU');

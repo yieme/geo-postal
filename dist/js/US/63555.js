@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63555"]={"code":"63555","region":"Missouri","city":"Memphis","latitude":40.45781,"longitude":-92.17129}}(window,'GeoPostal','US');

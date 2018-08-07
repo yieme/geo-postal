@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33840"]={"code":"33840","region":"FL","city":"Eaton Park","latitude":28.0086,"longitude":-81.9076}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537090"]={"code":"537090","region":"Harghita","city":"Ditrau","latitude":46.81667,"longitude":25.51667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48039"]={"code":"48039","region":"MI","city":"Marine City","latitude":42.6859,"longitude":-82.5499}}(window,'GeoPostal','US');

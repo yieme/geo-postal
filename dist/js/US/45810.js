@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45810"]={"code":"45810","region":"Ohio","city":"Ada","latitude":40.748301,"longitude":-83.791131}}(window,'GeoPostal','US');

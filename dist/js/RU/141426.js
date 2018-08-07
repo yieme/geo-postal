@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141426"]={"code":"141426","region":"Moskovskaya oblast'","city":"Skhodnya","latitude":55.94806,"longitude":37.29778}}(window,'GeoPostal','RU');

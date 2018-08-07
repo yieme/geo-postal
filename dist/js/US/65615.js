@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65615"]={"code":"65615","region":"Missouri","city":"Branson","latitude":36.64367,"longitude":-93.21851}}(window,'GeoPostal','US');

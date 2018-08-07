@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606150"]={"code":"606150","region":"Nizhegorodskaya oblast'","city":"Vacha","latitude":55.80083,"longitude":42.77056}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81053"]={"code":"81053","region":"Campania","city":"Riardo","latitude":41.26272,"longitude":14.15192}}(window,'GeoPostal','IT');

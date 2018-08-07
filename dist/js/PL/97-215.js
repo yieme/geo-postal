@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-215"]={"code":"97-215","region":"Lodzkie","city":"Inowlodz","latitude":51.52717,"longitude":20.223}}(window,'GeoPostal','PL');

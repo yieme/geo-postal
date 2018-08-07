@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49276"]={"code":"49276","region":"MI","city":"Riga","latitude":41.7953,"longitude":-83.8011}}(window,'GeoPostal','US');

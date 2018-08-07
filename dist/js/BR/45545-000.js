@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45545-000"]={"code":"45545-000","region":"Bahia","city":"Ubaitaba","latitude":-14.3125,"longitude":-39.32333}}(window,'GeoPostal','BR');

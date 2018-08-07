@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08420"]={"code":"08420","region":"Cusco","city":"Santo Tomas","latitude":-14.44556,"longitude":-72.08417}}(window,'GeoPostal','PE');

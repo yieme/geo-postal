@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416705"]={"code":"416705","region":"Maharashtra","city":"Rajapur","latitude":16.66667,"longitude":73.51667}}(window,'GeoPostal','IN');

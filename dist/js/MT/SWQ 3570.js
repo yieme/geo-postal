@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SWQ 3570"]={"code":"SWQ 3570","region":"Swieqi","city":"Swieqi","latitude":35.9225,"longitude":14.48}}(window,'GeoPostal','MT');

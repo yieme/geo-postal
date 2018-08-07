@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04974"]={"code":"04974","region":"ME","city":"Searsport","latitude":44.4877,"longitude":-68.9311}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN6 9DF"]={"code":"LN6 9DF","region":"England","city":"Eagle","latitude":53.19471,"longitude":-0.68864}}(window,'GeoPostal','GB');

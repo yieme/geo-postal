@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66515"]={"code":"66515","region":"KS","city":"Morrill","latitude":39.9356,"longitude":-95.712}}(window,'GeoPostal','US');

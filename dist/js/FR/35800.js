@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35800"]={"code":"35800","region":"Bretagne","city":"Saint-Briac-sur-Mer","latitude":48.62189,"longitude":-2.13435}}(window,'GeoPostal','FR');

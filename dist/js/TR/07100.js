@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07100"]={"code":"07100","region":"Izmir","city":"Selcuk","latitude":37.95137,"longitude":27.36849}}(window,'GeoPostal','TR');

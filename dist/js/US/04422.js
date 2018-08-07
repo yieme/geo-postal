@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04422"]={"code":"04422","region":"Maine","city":"Charleston","latitude":45.069472,"longitude":-69.086243}}(window,'GeoPostal','US');

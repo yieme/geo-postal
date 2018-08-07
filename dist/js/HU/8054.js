@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8054"]={"code":"8054","region":"Fejer","city":"Bodajk","latitude":47.32352,"longitude":18.23312}}(window,'GeoPostal','HU');

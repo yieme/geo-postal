@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 4R0"]={"code":"S0A 4R0","region":"Saskatchewan","city":"Wishart","latitude":51.55005,"longitude":-103.98436}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76484"]={"code":"76484","region":"TX","city":"Palo Pinto","latitude":32.7673,"longitude":-98.2987}}(window,'GeoPostal','US');

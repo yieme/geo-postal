@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70604"]={"code":"70604","region":"Viljandimaa","city":"Vohma","latitude":58.62833,"longitude":25.54833}}(window,'GeoPostal','EE');

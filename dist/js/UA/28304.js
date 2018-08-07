@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28304"]={"code":"28304","region":"Kirovohradska oblast","city":"Petrove","latitude":48.32467,"longitude":33.25617}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6417"]={"code":"6417","region":"Northern Samar","city":"Mondragon","latitude":12.5157,"longitude":124.7523}}(window,'GeoPostal','PH');

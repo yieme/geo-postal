@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03440"]={"code":"03440","region":"Auvergne-Rhone-Alpes","city":"Buxieres-les-Mines","latitude":46.46886,"longitude":2.96143}}(window,'GeoPostal','FR');

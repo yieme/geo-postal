@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671210"]={"code":"671210","region":"Buryatiya, Respublika","city":"Rechka-Vydrino","latitude":51.4892,"longitude":104.8429}}(window,'GeoPostal','RU');

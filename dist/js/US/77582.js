@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77582"]={"code":"77582","region":"TX","city":"Raywood","latitude":30.0542,"longitude":-94.6764}}(window,'GeoPostal','US');

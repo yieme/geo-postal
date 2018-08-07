@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45696"]={"code":"45696","region":"Ohio","city":"Willow Wood","latitude":38.59526,"longitude":-82.454138}}(window,'GeoPostal','US');

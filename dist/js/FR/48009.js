@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48009"]={"code":"48009","region":"Occitanie","city":"Mende","latitude":44.51667,"longitude":3.5}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81244"]={"code":"81244","region":"Colorado","city":"Rockvale","latitude":38.368259,"longitude":-105.16411}}(window,'GeoPostal','US');

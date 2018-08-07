@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88135"]={"code":"88135","region":"NM","city":"Texico","latitude":34.3958,"longitude":-103.0615}}(window,'GeoPostal','US');

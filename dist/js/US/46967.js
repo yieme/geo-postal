@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46967"]={"code":"46967","region":"IN","city":"Onward","latitude":40.6947,"longitude":-86.1951}}(window,'GeoPostal','US');

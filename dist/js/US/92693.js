@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92693"]={"code":"92693","region":"California","city":"San Juan Capistrano","latitude":33.49788,"longitude":-117.6648}}(window,'GeoPostal','US');

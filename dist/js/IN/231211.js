@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["231211"]={"code":"231211","region":"Uttar Pradesh","city":"Mirzapur","latitude":25.15,"longitude":82.58333}}(window,'GeoPostal','IN');

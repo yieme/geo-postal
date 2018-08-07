@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40004"]={"code":"40004","region":"Kentucky","city":"Bardstown","latitude":37.810534,"longitude":-85.465221}}(window,'GeoPostal','US');

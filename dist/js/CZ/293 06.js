@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["293 06"]={"code":"293 06","region":"Stredocesky kraj","city":"Kosmonosy","latitude":50.4385,"longitude":14.93}}(window,'GeoPostal','CZ');

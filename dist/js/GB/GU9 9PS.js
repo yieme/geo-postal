@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU9 9PS"]={"code":"GU9 9PS","region":"England","city":"Farnham","latitude":50.93725,"longitude":-2.05676}}(window,'GeoPostal','GB');

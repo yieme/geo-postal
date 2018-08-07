@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN10 6XQ"]={"code":"LN10 6XQ","region":"England","city":"Woodhall Spa","latitude":53.15215,"longitude":-0.21453}}(window,'GeoPostal','GB');

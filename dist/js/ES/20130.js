@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20130"]={"code":"20130","region":"Pais Vasco","city":"Urnieta","latitude":43.24727,"longitude":-1.99084}}(window,'GeoPostal','ES');

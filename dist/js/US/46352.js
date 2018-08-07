@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46352"]={"code":"46352","region":"IN","city":"La Porte","latitude":41.499,"longitude":-86.7099}}(window,'GeoPostal','US');

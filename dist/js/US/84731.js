@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84731"]={"code":"84731","region":"UT","city":"Greenville","latitude":38.2544,"longitude":-112.7124}}(window,'GeoPostal','US');

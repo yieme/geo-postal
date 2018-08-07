@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["283 01"]={"code":"283 01","region":"Ionia Nisia","city":"Ithaki","latitude":38.36421,"longitude":20.71848}}(window,'GeoPostal','GR');

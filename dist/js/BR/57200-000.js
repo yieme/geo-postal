@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57200-000"]={"code":"57200-000","region":"Alagoas","city":"Campo Grande","latitude":-10.23333,"longitude":-36.5}}(window,'GeoPostal','BR');

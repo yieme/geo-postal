@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-113"]={"code":"84-113","region":"Pomorskie","city":"Wierzchucino","latitude":54.78797,"longitude":18.00307}}(window,'GeoPostal','PL');

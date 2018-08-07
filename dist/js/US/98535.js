@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98535"]={"code":"98535","region":"Washington","city":"Copalis Beach","latitude":47.11669,"longitude":-124.156115}}(window,'GeoPostal','US');

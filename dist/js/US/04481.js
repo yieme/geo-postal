@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04481"]={"code":"04481","region":"ME","city":"Sebec","latitude":45.2465,"longitude":-69.1021}}(window,'GeoPostal','US');

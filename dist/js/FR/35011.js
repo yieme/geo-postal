@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35011"]={"code":"35011","region":"Bretagne","city":"Rennes","latitude":48.11198,"longitude":-1.67429}}(window,'GeoPostal','FR');

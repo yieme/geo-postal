@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2478"]={"code":"2478","region":"New South Wales","city":"Ballina","latitude":-28.86414,"longitude":153.56541}}(window,'GeoPostal','AU');

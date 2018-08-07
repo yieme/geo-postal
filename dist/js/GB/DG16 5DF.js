@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG16 5DF"]={"code":"DG16 5DF","region":"Scotland","city":"Gretna","latitude":54.9938,"longitude":-3.06594}}(window,'GeoPostal','GB');

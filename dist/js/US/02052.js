@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02052"]={"code":"02052","region":"Massachusetts","city":"Medfield","latitude":42.180215,"longitude":-71.30417}}(window,'GeoPostal','US');

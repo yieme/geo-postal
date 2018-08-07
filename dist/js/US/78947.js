@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78947"]={"code":"78947","region":"Texas","city":"Lexington","latitude":30.4191,"longitude":-97.01165}}(window,'GeoPostal','US');

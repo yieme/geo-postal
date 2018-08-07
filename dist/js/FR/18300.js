@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18300"]={"code":"18300","region":"Centre-Val de Loire","city":"Sancerre","latitude":47.32889,"longitude":2.83448}}(window,'GeoPostal','FR');

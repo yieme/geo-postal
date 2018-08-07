@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-370"]={"code":"33-370","region":"Malopolskie","city":"Muszyna","latitude":49.35661,"longitude":20.89718}}(window,'GeoPostal','PL');

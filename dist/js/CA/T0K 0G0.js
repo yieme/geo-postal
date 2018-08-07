@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 0G0"]={"code":"T0K 0G0","region":"Alberta","city":"Bow Island","latitude":49.86676,"longitude":-111.36843}}(window,'GeoPostal','CA');

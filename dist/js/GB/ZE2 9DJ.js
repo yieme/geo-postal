@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9DJ"]={"code":"ZE2 9DJ","region":"Scotland","city":"Funzie","latitude":60.58333,"longitude":-0.8}}(window,'GeoPostal','GB');

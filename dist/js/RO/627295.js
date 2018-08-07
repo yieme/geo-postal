@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627295"]={"code":"627295","region":"Vrancea","city":"Ruginesti","latitude":46.06667,"longitude":27.11667}}(window,'GeoPostal','RO');

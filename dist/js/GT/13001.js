@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13001"]={"code":"13001","region":"Huehuetenango","city":"Huehuetenango","latitude":15.31972,"longitude":-91.47083}}(window,'GeoPostal','GT');

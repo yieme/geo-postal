@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03817"]={"code":"03817","region":"NH","city":"Chocorua","latitude":43.8909,"longitude":-71.2407}}(window,'GeoPostal','US');

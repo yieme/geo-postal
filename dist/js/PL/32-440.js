@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-440"]={"code":"32-440","region":"Malopolskie","city":"Harbutowice","latitude":49.81235,"longitude":19.78045}}(window,'GeoPostal','PL');

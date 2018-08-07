@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73309"]={"code":"73309","region":"Auvergne-Rhone-Alpes","city":"Saint-Jean-de-Maurienne","latitude":45.28333,"longitude":6.35}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72947"]={"code":"72947","region":"AR","city":"Mulberry","latitude":35.5172,"longitude":-93.9885}}(window,'GeoPostal','US');

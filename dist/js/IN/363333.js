@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363333"]={"code":"363333","region":"Gujarat","city":"Sayla","latitude":22.55,"longitude":71.46667}}(window,'GeoPostal','IN');

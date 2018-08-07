@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49000"]={"code":"49000","region":"Pays-de-la-Loire","city":"Ecouflant","latitude":47.53101,"longitude":-0.5278}}(window,'GeoPostal','FR');

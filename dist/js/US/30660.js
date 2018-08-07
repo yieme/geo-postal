@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30660"]={"code":"30660","region":"Georgia","city":"Rayle","latitude":33.726601,"longitude":-82.76339}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41124"]={"code":"41124","region":"KY","city":"Blaine","latitude":38.027,"longitude":-82.8513}}(window,'GeoPostal','US');

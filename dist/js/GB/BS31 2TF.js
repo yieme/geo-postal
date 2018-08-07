@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS31 2TF"]={"code":"BS31 2TF","region":"England","city":"Burnett","latitude":51.38589,"longitude":-2.48331}}(window,'GeoPostal','GB');

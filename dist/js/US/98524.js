@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98524"]={"code":"98524","region":"WA","city":"Allyn","latitude":47.3571,"longitude":-122.8587}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03811"]={"code":"03811","region":"NH","city":"Atkinson","latitude":42.837,"longitude":-71.1603}}(window,'GeoPostal','US');

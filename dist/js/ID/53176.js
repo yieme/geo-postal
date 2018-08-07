@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53176"]={"code":"53176","region":"Jawa Tengah","city":"Sangkalputung","latitude":-7.50611,"longitude":109.0625}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23190"]={"code":"23190","region":"Virginia","city":"Woods Cross Roads","latitude":37.48188,"longitude":-76.61898}}(window,'GeoPostal','US');

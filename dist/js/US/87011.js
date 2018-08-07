@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87011"]={"code":"87011","region":"New Mexico","city":"Claunch","latitude":34.14291,"longitude":-105.99391}}(window,'GeoPostal','US');

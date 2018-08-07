@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-320"]={"code":"99-320","region":"Lodzkie","city":"Zychlin","latitude":52.24404,"longitude":19.62613}}(window,'GeoPostal','PL');

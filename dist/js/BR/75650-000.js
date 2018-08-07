@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75650-000"]={"code":"75650-000","region":"Goias","city":"Morrinhos","latitude":-17.73111,"longitude":-49.09944}}(window,'GeoPostal','BR');

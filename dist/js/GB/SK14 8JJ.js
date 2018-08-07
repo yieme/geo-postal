@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK14 8JJ"]={"code":"SK14 8JJ","region":"England","city":"Hollingworth","latitude":53.63288,"longitude":-2.11083}}(window,'GeoPostal','GB');

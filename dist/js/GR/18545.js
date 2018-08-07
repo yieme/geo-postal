@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18545"]={"code":"18545","region":"Attiki","city":"Aigaleo","latitude":37.98333,"longitude":23.68333}}(window,'GeoPostal','GR');

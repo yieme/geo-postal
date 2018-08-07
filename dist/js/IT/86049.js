@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86049"]={"code":"86049","region":"Molise","city":"Ururi","latitude":41.81654,"longitude":15.01613}}(window,'GeoPostal','IT');

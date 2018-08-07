@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B74 2EX"]={"code":"B74 2EX","region":"England","city":"Streetly","latitude":52.58333,"longitude":-1.88333}}(window,'GeoPostal','GB');

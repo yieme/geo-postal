@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78886"]={"code":"78886","region":"TX","city":"Yancey","latitude":29.1404,"longitude":-99.1428}}(window,'GeoPostal','US');

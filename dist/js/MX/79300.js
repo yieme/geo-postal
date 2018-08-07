@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79300"]={"code":"79300","region":"San Luis Potosi","city":"Cerritos","latitude":22.43333,"longitude":-100.28333}}(window,'GeoPostal','MX');

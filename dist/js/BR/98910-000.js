@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98910-000"]={"code":"98910-000","region":"Rio Grande do Sul","city":"Tres de Maio","latitude":-27.77333,"longitude":-54.24}}(window,'GeoPostal','BR');

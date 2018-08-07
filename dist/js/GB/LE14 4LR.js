@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 4LR"]={"code":"LE14 4LR","region":"England","city":"Goadby Marwood","latitude":52.82974,"longitude":-0.8408}}(window,'GeoPostal','GB');

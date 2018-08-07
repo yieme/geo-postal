@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571273"]={"code":"571273","region":"Karnataka","city":"Channarayapatna","latitude":12.90444,"longitude":76.39167}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95488"]={"code":"95488","region":"CA","city":"Westport","latitude":39.6843,"longitude":-123.7686}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06056"]={"code":"06056","region":"Umbria","city":"Massa Martana","latitude":42.77314,"longitude":12.52497}}(window,'GeoPostal','IT');

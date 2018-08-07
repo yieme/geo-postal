@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82633"]={"code":"82633","region":"Wyoming","city":"Douglas","latitude":42.75969,"longitude":-105.38221}}(window,'GeoPostal','US');

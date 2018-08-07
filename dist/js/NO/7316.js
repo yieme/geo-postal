@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7316"]={"code":"7316","region":"Sor-Trondelag","city":"Lensvik","latitude":63.51389,"longitude":9.80611}}(window,'GeoPostal','NO');

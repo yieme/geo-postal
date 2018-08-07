@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32157"]={"code":"32157","region":"FL","city":"Lake Como","latitude":29.4839,"longitude":-81.5729}}(window,'GeoPostal','US');

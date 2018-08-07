@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79140"]={"code":"79140","region":"Nouvelle-Aquitaine","city":"Le Pin","latitude":46.86179,"longitude":-0.6544}}(window,'GeoPostal','FR');

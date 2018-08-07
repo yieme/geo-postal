@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU22 9LG"]={"code":"GU22 9LG","region":"England","city":"Woking","latitude":51.31903,"longitude":-0.55893}}(window,'GeoPostal','GB');

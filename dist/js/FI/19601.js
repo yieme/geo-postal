@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19601"]={"code":"19601","region":"Paijat-Hame","city":"Hartola","latitude":61.58333,"longitude":26.01667}}(window,'GeoPostal','FI');

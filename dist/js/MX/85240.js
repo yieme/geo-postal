@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85240"]={"code":"85240","region":"Sonora","city":"Huatabampo","latitude":26.83333,"longitude":-109.63333}}(window,'GeoPostal','MX');

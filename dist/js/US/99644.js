@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99644"]={"code":"99644","region":"AK","city":"Ouzinkie","latitude":57.9236,"longitude":-152.5022}}(window,'GeoPostal','US');

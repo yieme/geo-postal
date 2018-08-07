@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79358"]={"code":"79358","region":"TX","city":"Ropesville","latitude":33.4575,"longitude":-102.1584}}(window,'GeoPostal','US');

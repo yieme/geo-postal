@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93245"]={"code":"93245","region":"California","city":"Lemoore","latitude":36.3201,"longitude":-119.81682}}(window,'GeoPostal','US');

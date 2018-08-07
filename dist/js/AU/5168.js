@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5168"]={"code":"5168","region":"South Australia","city":"Noarlunga","latitude":-35.18333,"longitude":138.5}}(window,'GeoPostal','AU');

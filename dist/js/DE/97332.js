@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97332"]={"code":"97332","region":"Bayern","city":"Volkach","latitude":49.86352,"longitude":10.22813}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85333"]={"code":"85333","region":"Arizona","city":"Dateland","latitude":32.876311,"longitude":-113.4262}}(window,'GeoPostal','US');

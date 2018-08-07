@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40921"]={"code":"40921","region":"Kentucky","city":"Bryants Store","latitude":36.765339,"longitude":-83.919378}}(window,'GeoPostal','US');

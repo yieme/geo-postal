@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2288"]={"code":"2288","region":"Antwerpen","city":"Grobbendonk","latitude":51.19043,"longitude":4.73562}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["752 01"]={"code":"752 01","region":"Olomoucky kraj","city":"Kojetin","latitude":49.35179,"longitude":17.30207}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9M 0A1"]={"code":"L9M 0A1","region":"Ontario","city":"Penetanguishene","latitude":44.7834,"longitude":-79.91637}}(window,'GeoPostal','CA');

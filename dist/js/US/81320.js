@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81320"]={"code":"81320","region":"Colorado","city":"Cahone","latitude":37.694973,"longitude":-108.756403}}(window,'GeoPostal','US');

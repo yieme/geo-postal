@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6604"]={"code":"6604","region":"Leyte","city":"Bantiqui","latitude":10.9245,"longitude":124.4154}}(window,'GeoPostal','PH');

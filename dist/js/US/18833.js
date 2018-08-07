@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18833"]={"code":"18833","region":"Pennsylvania","city":"New Albany","latitude":41.601427,"longitude":-76.442136}}(window,'GeoPostal','US');

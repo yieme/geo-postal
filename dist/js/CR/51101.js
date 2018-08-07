@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51101"]={"code":"51101","region":"Guanacaste","city":"Hojancha","latitude":10.0579,"longitude":-85.41803}}(window,'GeoPostal','CR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12543"]={"code":"12543","region":"New York","city":"Maybrook","latitude":41.48959,"longitude":-74.214968}}(window,'GeoPostal','US');

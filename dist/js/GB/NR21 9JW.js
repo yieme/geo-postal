@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR21 9JW"]={"code":"NR21 9JW","region":"England","city":"North Creake","latitude":52.90901,"longitude":0.75462}}(window,'GeoPostal','GB');

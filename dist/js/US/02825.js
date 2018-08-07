@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02825"]={"code":"02825","region":"RI","city":"Foster","latitude":41.7815,"longitude":-71.7187}}(window,'GeoPostal','US');

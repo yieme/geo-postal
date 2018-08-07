@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6313"]={"code":"6313","region":"Negros Occidental","city":"Bugang","latitude":10.74185,"longitude":123.3933}}(window,'GeoPostal','PH');

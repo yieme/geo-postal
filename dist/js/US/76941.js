@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76941"]={"code":"76941","region":"TX","city":"Mertzon","latitude":31.2829,"longitude":-100.8221}}(window,'GeoPostal','US');

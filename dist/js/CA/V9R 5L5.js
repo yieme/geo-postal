@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9R 5L5"]={"code":"V9R 5L5","region":"British Columbia","city":"Boat Harbour","latitude":49.08293,"longitude":-123.8027}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA22 0NS"]={"code":"LA22 0NS","region":"England","city":"Hawkshead","latitude":54.37503,"longitude":-2.999}}(window,'GeoPostal','GB');

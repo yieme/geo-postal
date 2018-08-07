@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR11 5TX"]={"code":"TR11 5TX","region":"England","city":"Flushing","latitude":50.16486,"longitude":-5.06976}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97461"]={"code":"97461","region":"OR","city":"Noti","latitude":44.0992,"longitude":-123.4684}}(window,'GeoPostal','US');

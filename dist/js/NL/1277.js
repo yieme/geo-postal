@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1277"]={"code":"1277","region":"Noord-Holland","city":"Huizen","latitude":52.29917,"longitude":5.24167}}(window,'GeoPostal','NL');

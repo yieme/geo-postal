@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99606"]={"code":"99606","region":"Zacatecas","city":"Morelos","latitude":22.88333,"longitude":-102.61667}}(window,'GeoPostal','MX');

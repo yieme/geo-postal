@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4406"]={"code":"4406","region":"Queensland","city":"Goranba","latitude":-27.28333,"longitude":150.6}}(window,'GeoPostal','AU');

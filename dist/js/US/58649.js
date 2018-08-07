@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58649"]={"code":"58649","region":"ND","city":"Reeder","latitude":46.1116,"longitude":-102.9405}}(window,'GeoPostal','US');

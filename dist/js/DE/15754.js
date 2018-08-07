@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15754"]={"code":"15754","region":"Brandenburg","city":"Dolgenbrodt","latitude":52.24295,"longitude":13.76931}}(window,'GeoPostal','DE');

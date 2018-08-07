@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80467"]={"code":"80467","region":"Colorado","city":"Oak Creek","latitude":40.275,"longitude":-106.9575}}(window,'GeoPostal','US');

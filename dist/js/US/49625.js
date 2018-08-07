@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49625"]={"code":"49625","region":"MI","city":"Copemish","latitude":44.4503,"longitude":-85.8879}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76800"]={"code":"76800","region":"Normandie","city":"Saint-Etienne-du-Rouvray","latitude":49.37794,"longitude":1.10467}}(window,'GeoPostal','FR');

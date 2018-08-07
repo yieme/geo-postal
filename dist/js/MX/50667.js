@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50667"]={"code":"50667","region":"Michoacan de Ocampo","city":"Los Reyes","latitude":19.73333,"longitude":-100.26667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58795"]={"code":"58795","region":"ND","city":"Wildrose","latitude":48.5678,"longitude":-103.1536}}(window,'GeoPostal','US');

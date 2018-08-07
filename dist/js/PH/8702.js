@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8702"]={"code":"8702","region":"Bukidnon","city":"Impalutao","latitude":8.25778,"longitude":125.0275}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17866"]={"code":"17866","region":"Pennsylvania","city":"Edgewood","latitude":40.78842,"longitude":-76.57246}}(window,'GeoPostal','US');

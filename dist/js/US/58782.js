@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58782"]={"code":"58782","region":"North Dakota","city":"Sherwood","latitude":48.946451,"longitude":-101.824092}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66550"]={"code":"66550","region":"Occitanie","city":"Corneilla-la-Riviere","latitude":42.69675,"longitude":2.72962}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47108"]={"code":"47108","region":"Indiana","city":"Campbellsburg","latitude":38.65,"longitude":-86.26}}(window,'GeoPostal','US');

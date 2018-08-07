@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K7V 1T5"]={"code":"K7V 1T5","region":"Ontario","city":"Renfrew","latitude":45.471837,"longitude":-76.685574}}(window,'GeoPostal','CA');

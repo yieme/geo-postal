@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 9AS"]={"code":"BA12 9AS","region":"England","city":"Warminster","latitude":51.20434,"longitude":-2.17873}}(window,'GeoPostal','GB');

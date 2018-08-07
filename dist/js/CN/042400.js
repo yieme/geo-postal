@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["042400"]={"code":"042400","region":"Shanxi","city":"Yueyang","latitude":36.2896,"longitude":111.91454}}(window,'GeoPostal','CN');

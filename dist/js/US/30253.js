@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30253"]={"code":"30253","region":"Georgia","city":"McDonough","latitude":33.4461,"longitude":-84.1823}}(window,'GeoPostal','US');

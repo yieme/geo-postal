@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 5QS"]={"code":"NG23 5QS","region":"England","city":"Kelham","latitude":53.09297,"longitude":-0.8459}}(window,'GeoPostal','GB');

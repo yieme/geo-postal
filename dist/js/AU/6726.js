@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6726"]={"code":"6726","region":"Western Australia","city":"Cable Beach","latitude":-17.94464,"longitude":122.21397}}(window,'GeoPostal','AU');

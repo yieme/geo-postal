@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62580-000"]={"code":"62580-000","region":"Ceara","city":"Acarau","latitude":-2.88556,"longitude":-40.12}}(window,'GeoPostal','BR');

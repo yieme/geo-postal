@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33960"]={"code":"33960","region":"Florida","city":"Venus","latitude":27.091768,"longitude":-81.397959}}(window,'GeoPostal','US');

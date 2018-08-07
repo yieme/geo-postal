@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72025"]={"code":"72025","region":"AR","city":"Casa","latitude":35.0322,"longitude":-93.047}}(window,'GeoPostal','US');

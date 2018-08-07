@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5730"]={"code":"5730","region":"Eastern Cape","city":"Fort Beaufort","latitude":-32.77477,"longitude":26.63376}}(window,'GeoPostal','ZA');

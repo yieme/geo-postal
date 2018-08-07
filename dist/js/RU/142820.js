@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142820"]={"code":"142820","region":"Moskovskaya oblast'","city":"Zhilevo","latitude":55.01408,"longitude":38.01106}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3116"]={"code":"3116","region":"Victoria","city":"Chirnside Park","latitude":-37.7386,"longitude":145.31431}}(window,'GeoPostal','AU');

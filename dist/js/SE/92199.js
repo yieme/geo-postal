@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92199"]={"code":"92199","region":"Vasterbottens lan","city":"Lycksele","latitude":64.59537,"longitude":18.67351}}(window,'GeoPostal','SE');

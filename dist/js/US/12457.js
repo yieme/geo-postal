@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12457"]={"code":"12457","region":"NY","city":"Mount Tremper","latitude":42.0435,"longitude":-74.2485}}(window,'GeoPostal','US');

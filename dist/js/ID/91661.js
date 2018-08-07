@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91661"]={"code":"91661","region":"Sulawesi Selatan","city":"Rappang","latitude":-3.8445,"longitude":119.8173}}(window,'GeoPostal','ID');

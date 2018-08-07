@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71270"]={"code":"71270","region":"Federacija Bosne i Hercegovine","city":"Fojnica","latitude":43.9625,"longitude":17.89833}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU17 9BA"]={"code":"HU17 9BA","region":"England","city":"Beverley","latitude":53.84587,"longitude":-0.42332}}(window,'GeoPostal','GB');

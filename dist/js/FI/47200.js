@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47200"]={"code":"47200","region":"Kymenlaakso","city":"Elimaki","latitude":60.71667,"longitude":26.46667}}(window,'GeoPostal','FI');

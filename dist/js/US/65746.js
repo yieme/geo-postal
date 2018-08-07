@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65746"]={"code":"65746","region":"Missouri","city":"Seymour","latitude":37.14644,"longitude":-92.76878}}(window,'GeoPostal','US');

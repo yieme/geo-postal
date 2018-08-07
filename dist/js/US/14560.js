@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14560"]={"code":"14560","region":"New York","city":"Springwater","latitude":42.633333,"longitude":-77.57167}}(window,'GeoPostal','US');

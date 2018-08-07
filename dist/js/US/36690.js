@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36690"]={"code":"36690","region":"AL","city":"Firms","latitude":30.69,"longitude":-88.04}}(window,'GeoPostal','US');

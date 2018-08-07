@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA5 1TN"]={"code":"WA5 1TN","region":"England","city":"Warrington","latitude":52.18446,"longitude":-0.68759}}(window,'GeoPostal','GB');

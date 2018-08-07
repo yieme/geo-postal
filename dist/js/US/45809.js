@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45809"]={"code":"45809","region":"OH","city":"Gomer","latitude":40.8451,"longitude":-84.1872}}(window,'GeoPostal','US');

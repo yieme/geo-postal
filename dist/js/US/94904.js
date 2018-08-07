@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94904"]={"code":"94904","region":"California","city":"Greenbrae","latitude":37.95114,"longitude":-122.53956}}(window,'GeoPostal','US');

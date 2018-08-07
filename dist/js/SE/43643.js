@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43643"]={"code":"43643","region":"Vastra Gotalands lan","city":"Billdal","latitude":57.56667,"longitude":11.93333}}(window,'GeoPostal','SE');

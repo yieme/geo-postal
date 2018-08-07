@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81425"]={"code":"81425","region":"CO","city":"Olathe","latitude":38.5976,"longitude":-107.9921}}(window,'GeoPostal','US');

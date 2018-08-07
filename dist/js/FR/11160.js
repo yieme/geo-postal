@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11160"]={"code":"11160","region":"Occitanie","city":"Rieux-Minervois","latitude":43.28194,"longitude":2.58687}}(window,'GeoPostal','FR');

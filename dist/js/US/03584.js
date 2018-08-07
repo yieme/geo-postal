@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03584"]={"code":"03584","region":"New Hampshire","city":"Lancaster","latitude":44.48895,"longitude":-71.56925}}(window,'GeoPostal','US');

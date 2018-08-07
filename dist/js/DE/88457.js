@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88457"]={"code":"88457","region":"Mecklenburg-Vorpommern","city":"Kirchdorf","latitude":53.99417,"longitude":11.43693}}(window,'GeoPostal','DE');

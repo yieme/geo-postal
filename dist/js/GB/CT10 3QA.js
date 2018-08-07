@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT10 3QA"]={"code":"CT10 3QA","region":"England","city":"Kingsgate","latitude":51.37829,"longitude":1.43153}}(window,'GeoPostal','GB');

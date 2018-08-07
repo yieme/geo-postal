@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99149"]={"code":"99149","region":"WA","city":"Malden","latitude":47.2288,"longitude":-117.4727}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["323000"]={"code":"323000","region":"Zhejiang","city":"Lishui","latitude":28.46042,"longitude":119.91029}}(window,'GeoPostal','CN');

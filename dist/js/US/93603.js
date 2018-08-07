@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93603"]={"code":"93603","region":"CA","city":"Badger","latitude":36.6313,"longitude":-119.0132}}(window,'GeoPostal','US');

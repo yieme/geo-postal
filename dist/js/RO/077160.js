@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["077160"]={"code":"077160","region":"Ilfov","city":"Popesti-Leordeni","latitude":44.38333,"longitude":26.16667}}(window,'GeoPostal','RO');

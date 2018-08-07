@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL55 4EL"]={"code":"LL55 4EL","region":"Wales","city":"Llanberis","latitude":53.11922,"longitude":-4.13017}}(window,'GeoPostal','GB');

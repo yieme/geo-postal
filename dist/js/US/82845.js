@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82845"]={"code":"82845","region":"WY","city":"Wyarno","latitude":44.7534,"longitude":-106.6949}}(window,'GeoPostal','US');

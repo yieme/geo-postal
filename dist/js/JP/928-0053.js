@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["928-0053"]={"code":"928-0053","region":"Ishikawa","city":"Wajima","latitude":37.383,"longitude":136.9}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39735"]={"code":"39735","region":"MS","city":"Ackerman","latitude":33.3517,"longitude":-89.2014}}(window,'GeoPostal','US');

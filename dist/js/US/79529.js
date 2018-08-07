@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79529"]={"code":"79529","region":"Texas","city":"Knox City","latitude":33.41815,"longitude":-99.81898}}(window,'GeoPostal','US');

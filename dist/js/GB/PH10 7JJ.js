@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH10 7JJ"]={"code":"PH10 7JJ","region":"Scotland","city":"Bridge of Cally","latitude":56.64656,"longitude":-3.40502}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51260"]={"code":"51260","region":"Punjab","city":"Sialkot","latitude":32.5101,"longitude":74.54313}}(window,'GeoPostal','PK');

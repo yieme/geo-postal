@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71665"]={"code":"71665","region":"Baden-Wurttemberg","city":"Vaihingen","latitude":48.72984,"longitude":9.10882}}(window,'GeoPostal','DE');

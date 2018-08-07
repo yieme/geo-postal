@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL12 5DY"]={"code":"PL12 5DY","region":"England","city":"Landrake","latitude":50.42265,"longitude":-4.29023}}(window,'GeoPostal','GB');

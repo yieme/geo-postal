@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307350"]={"code":"307350","region":"Timis","city":"Remetea Mare","latitude":45.77944,"longitude":21.37611}}(window,'GeoPostal','RO');

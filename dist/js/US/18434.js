@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18434"]={"code":"18434","region":"Pennsylvania","city":"Jessup","latitude":41.472962,"longitude":-75.570915}}(window,'GeoPostal','US');

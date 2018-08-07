@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48183"]={"code":"48183","region":"Michigan","city":"Trenton","latitude":42.13949,"longitude":-83.17826}}(window,'GeoPostal','US');

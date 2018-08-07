@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23314"]={"code":"23314","region":"Severnobanatski okrug","city":"Rusko Selo","latitude":45.76278,"longitude":20.57194}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2392"]={"code":"2392","region":"Destrnik","city":"Crna na Koroskem","latitude":46.47045,"longitude":14.85009}}(window,'GeoPostal','SI');

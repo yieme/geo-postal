@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74939"]={"code":"74939","region":"OK","city":"Hodgen","latitude":34.7538,"longitude":-94.6391}}(window,'GeoPostal','US');

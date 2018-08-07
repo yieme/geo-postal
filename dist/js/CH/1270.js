@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1270"]={"code":"1270","region":"Vaud","city":"Chavannes","latitude":46.53005,"longitude":6.57068}}(window,'GeoPostal','CH');

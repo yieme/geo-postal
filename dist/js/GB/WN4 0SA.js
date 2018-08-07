@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WN4 0SA"]={"code":"WN4 0SA","region":"England","city":"Garswood","latitude":53.48878,"longitude":-2.67224}}(window,'GeoPostal','GB');

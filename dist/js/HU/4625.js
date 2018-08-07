@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4625"]={"code":"4625","region":"Szabolcs-Szatmar-Bereg","city":"Zahony","latitude":48.40906,"longitude":22.17614}}(window,'GeoPostal','HU');

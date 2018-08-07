@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80755"]={"code":"80755","region":"Colorado","city":"Vernon","latitude":39.928428,"longitude":-102.358483}}(window,'GeoPostal','US');

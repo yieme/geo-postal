@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36280"]={"code":"36280","region":"Alabama","city":"Woodland","latitude":33.357842,"longitude":-85.346642}}(window,'GeoPostal','US');

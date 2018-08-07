@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16678"]={"code":"16678","region":"Pennsylvania","city":"Saxton","latitude":40.21444,"longitude":-78.247848}}(window,'GeoPostal','US');

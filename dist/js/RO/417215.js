@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417215"]={"code":"417215","region":"Arad","city":"Cristioru de Jos","latitude":46.43333,"longitude":22.53333}}(window,'GeoPostal','RO');

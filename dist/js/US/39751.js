@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39751"]={"code":"39751","region":"MS","city":"Mantee","latitude":33.7052,"longitude":-89.1051}}(window,'GeoPostal','US');

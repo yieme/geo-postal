@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188320"]={"code":"188320","region":"Leningradskaya oblast'","city":"Kommunar","latitude":59.62056,"longitude":30.39}}(window,'GeoPostal','RU');

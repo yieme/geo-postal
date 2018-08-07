@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39118"]={"code":"39118","region":"Bengkulu","city":"Curup","latitude":-3.46667,"longitude":102.53333}}(window,'GeoPostal','ID');

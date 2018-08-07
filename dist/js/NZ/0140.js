@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0140"]={"code":"0140","region":"Northland","city":"Whangarei","latitude":-35.73167,"longitude":174.32391}}(window,'GeoPostal','NZ');

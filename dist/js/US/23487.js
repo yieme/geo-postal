@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23487"]={"code":"23487","region":"VA","city":"Windsor","latitude":36.8369,"longitude":-76.7324}}(window,'GeoPostal','US');

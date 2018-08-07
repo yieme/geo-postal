@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140160"]={"code":"140160","region":"Teleorman","city":"Alexandria","latitude":43.98333,"longitude":25.33333}}(window,'GeoPostal','RO');

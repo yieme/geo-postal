@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22473"]={"code":"22473","region":"Virginia","city":"Heathsville","latitude":37.903997,"longitude":-76.43445}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM6 1QL"]={"code":"CM6 1QL","region":"England","city":"Margaret Roding","latitude":51.78471,"longitude":0.31577}}(window,'GeoPostal','GB');

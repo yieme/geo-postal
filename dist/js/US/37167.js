@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37167"]={"code":"37167","region":"Tennessee","city":"Smyrna","latitude":35.96507,"longitude":-86.514712}}(window,'GeoPostal','US');

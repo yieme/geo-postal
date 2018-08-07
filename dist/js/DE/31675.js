@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31675"]={"code":"31675","region":"Niedersachsen","city":"Nordholz","latitude":52.28736,"longitude":9.0026}}(window,'GeoPostal','DE');

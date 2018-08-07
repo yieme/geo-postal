@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97903"]={"code":"97903","region":"Oregon","city":"Brogan","latitude":44.2464,"longitude":-117.516}}(window,'GeoPostal','US');

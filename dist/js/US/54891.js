@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54891"]={"code":"54891","region":"Wisconsin","city":"Washburn","latitude":46.67327,"longitude":-90.89491}}(window,'GeoPostal','US');

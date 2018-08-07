@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96136"]={"code":"96136","region":"CA","city":"Wendel","latitude":40.3406,"longitude":-120.2824}}(window,'GeoPostal','US');

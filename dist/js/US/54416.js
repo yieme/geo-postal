@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54416"]={"code":"54416","region":"Wisconsin","city":"Bowler","latitude":44.862852,"longitude":-88.98036}}(window,'GeoPostal','US');

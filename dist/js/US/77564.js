@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77564"]={"code":"77564","region":"Texas","city":"Hull","latitude":30.135008,"longitude":-94.654175}}(window,'GeoPostal','US');

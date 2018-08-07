@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46014"]={"code":"46014","region":"Lombardia","city":"Castellucchio","latitude":45.14728,"longitude":10.64848}}(window,'GeoPostal','IT');

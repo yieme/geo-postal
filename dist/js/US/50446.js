@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50446"]={"code":"50446","region":"IA","city":"Joice","latitude":43.3761,"longitude":-93.4454}}(window,'GeoPostal','US');

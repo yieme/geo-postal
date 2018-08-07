@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["100202"]={"code":"100202","region":"Imbabura","city":"Atuntaqui","latitude":0.33333,"longitude":-78.21667}}(window,'GeoPostal','EC');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97627"]={"code":"97627","region":"OR","city":"Keno","latitude":42.1265,"longitude":-121.93}}(window,'GeoPostal','US');

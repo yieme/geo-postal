@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47100"]={"code":"47100","region":"Castilla y Leon","city":"Tordesillas","latitude":41.50202,"longitude":-5.00146}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6336"]={"code":"6336","region":"Western Australia","city":"Ongerup","latitude":-33.96667,"longitude":118.48333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03589"]={"code":"03589","region":"NH","city":"Mount Washington","latitude":44.6956,"longitude":-71.3874}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL6 2DL"]={"code":"SL6 2DL","region":"England","city":"Bray Court","latitude":51.49891,"longitude":-0.69926}}(window,'GeoPostal','GB');

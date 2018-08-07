@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38871"]={"code":"38871","region":"MS","city":"Thaxton","latitude":34.3136,"longitude":-89.1515}}(window,'GeoPostal','US');

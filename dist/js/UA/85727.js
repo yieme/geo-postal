@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85727"]={"code":"85727","region":"Donetska oblast","city":"Blagodatnoye","latitude":47.70013,"longitude":37.41898}}(window,'GeoPostal','UA');

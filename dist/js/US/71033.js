@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71033"]={"code":"71033","region":"LA","city":"Greenwood","latitude":32.4429,"longitude":-93.973}}(window,'GeoPostal','US');

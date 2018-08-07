@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA9 4RL"]={"code":"TA9 4RL","region":"England","city":"Bason Bridge","latitude":51.20825,"longitude":-2.93724}}(window,'GeoPostal','GB');

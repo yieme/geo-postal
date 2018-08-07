@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M9C 1A8"]={"code":"M9C 1A8","region":"Ontario","city":"Etobicoke","latitude":43.619166,"longitude":-79.555636}}(window,'GeoPostal','CA');

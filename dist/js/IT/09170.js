@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09170"]={"code":"09170","region":"Sardegna","city":"Oristano","latitude":39.90306,"longitude":8.59194}}(window,'GeoPostal','IT');

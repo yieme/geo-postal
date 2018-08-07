@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12061"]={"code":"12061","region":"New York","city":"East Greenbush","latitude":42.595296,"longitude":-73.692384}}(window,'GeoPostal','US');

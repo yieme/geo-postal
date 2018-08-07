@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-660"]={"code":"32-660","region":"Malopolskie","city":"Chelmek","latitude":50.10163,"longitude":19.24801}}(window,'GeoPostal','PL');

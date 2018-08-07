@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60959"]={"code":"60959","region":"Illinois","city":"Piper City","latitude":40.75667,"longitude":-88.18944}}(window,'GeoPostal','US');

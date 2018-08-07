@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55334"]={"code":"55334","region":"Minnesota","city":"Gaylord","latitude":44.555641,"longitude":-94.215858}}(window,'GeoPostal','US');

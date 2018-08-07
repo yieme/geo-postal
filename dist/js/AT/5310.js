@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5310"]={"code":"5310","region":"Oberosterreich","city":"Tiefgraben","latitude":47.88333,"longitude":13.35}}(window,'GeoPostal','AT');

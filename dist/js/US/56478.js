@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56478"]={"code":"56478","region":"Minnesota","city":"Nimrod","latitude":46.63778,"longitude":-94.880994}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52720"]={"code":"52720","region":"IA","city":"Atalissa","latitude":41.5614,"longitude":-91.1748}}(window,'GeoPostal','US');

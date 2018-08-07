@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238010"]={"code":"238010","region":"Kaliningradskaya oblast'","city":"Nesterov","latitude":54.63056,"longitude":22.57139}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24539"]={"code":"24539","region":"VA","city":"Crystal Hill","latitude":36.8513,"longitude":-78.9179}}(window,'GeoPostal','US');

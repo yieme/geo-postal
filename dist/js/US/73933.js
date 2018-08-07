@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73933"]={"code":"73933","region":"Oklahoma","city":"Boise City","latitude":36.72947,"longitude":-102.51324}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73503"]={"code":"73503","region":"OK","city":"Fort Sill","latitude":34.6595,"longitude":-98.4004}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98366"]={"code":"98366","region":"Washington","city":"Port Orchard","latitude":47.501139,"longitude":-122.620921}}(window,'GeoPostal','US');

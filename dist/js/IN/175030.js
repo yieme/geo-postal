@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["175030"]={"code":"175030","region":"Himachal Pradesh","city":"Bilaspur","latitude":31.33333,"longitude":76.75}}(window,'GeoPostal','IN');

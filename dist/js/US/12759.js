@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12759"]={"code":"12759","region":"NY","city":"Loch Sheldrake","latitude":41.7789,"longitude":-74.6614}}(window,'GeoPostal','US');

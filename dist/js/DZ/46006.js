@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46006"]={"code":"46006","region":"Ain Temouchent","city":"El Amria","latitude":35.52439,"longitude":-1.01577}}(window,'GeoPostal','DZ');

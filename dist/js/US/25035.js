@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25035"]={"code":"25035","region":"WV","city":"Cabin Creek","latitude":38.193,"longitude":-81.4984}}(window,'GeoPostal','US');

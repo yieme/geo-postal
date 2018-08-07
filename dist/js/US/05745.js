@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05745"]={"code":"05745","region":"VT","city":"Forest Dale","latitude":43.8278,"longitude":-73.0537}}(window,'GeoPostal','US');

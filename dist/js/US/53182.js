@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53182"]={"code":"53182","region":"Wisconsin","city":"Union Grove","latitude":42.70463,"longitude":-88.04166}}(window,'GeoPostal','US');

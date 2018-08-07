@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66782"]={"code":"66782","region":"KS","city":"West Mineral","latitude":37.2851,"longitude":-94.9261}}(window,'GeoPostal','US');

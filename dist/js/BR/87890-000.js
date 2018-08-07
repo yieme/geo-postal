@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87890-000"]={"code":"87890-000","region":"Parana","city":"Terra Rica","latitude":-22.70944,"longitude":-52.61694}}(window,'GeoPostal','BR');

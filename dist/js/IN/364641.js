@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364641"]={"code":"364641","region":"Gujarat","city":"Dhari","latitude":21.33333,"longitude":71.01667}}(window,'GeoPostal','IN');

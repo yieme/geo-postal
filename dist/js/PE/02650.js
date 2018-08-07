@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02650"]={"code":"02650","region":"Ancash","city":"Huarmey","latitude":-10.06806,"longitude":-78.15222}}(window,'GeoPostal','PE');

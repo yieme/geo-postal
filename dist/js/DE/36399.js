@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36399"]={"code":"36399","region":"Hessen","city":"Wettges","latitude":50.41278,"longitude":9.33914}}(window,'GeoPostal','DE');

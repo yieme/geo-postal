@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04915"]={"code":"04915","region":"Maine","city":"Belfast","latitude":44.42591,"longitude":-69.00642}}(window,'GeoPostal','US');

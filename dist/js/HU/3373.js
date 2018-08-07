@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3373"]={"code":"3373","region":"Heves","city":"Besenyotelek","latitude":47.7,"longitude":20.43333}}(window,'GeoPostal','HU');

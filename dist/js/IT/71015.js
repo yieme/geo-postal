@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71015"]={"code":"71015","region":"Puglia","city":"Sannicandro Garganico","latitude":41.83844,"longitude":15.56535}}(window,'GeoPostal','IT');

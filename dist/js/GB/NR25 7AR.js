@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR25 7AR"]={"code":"NR25 7AR","region":"England","city":"Letheringsett","latitude":52.90726,"longitude":1.06517}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61047"]={"code":"61047","region":"Marche","city":"San Lorenzo in Campo","latitude":43.60386,"longitude":12.94576}}(window,'GeoPostal','IT');

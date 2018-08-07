@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-162"]={"code":"87-162","region":"Kujawsko-pomorskie","city":"Lubicz Dolny","latitude":53.03151,"longitude":18.74559}}(window,'GeoPostal','PL');

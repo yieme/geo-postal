@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45686"]={"code":"45686","region":"Castilla-La Mancha","city":"Calera y Chozas","latitude":39.88278,"longitude":-4.98213}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54971"]={"code":"54971","region":"Wisconsin","city":"Ripon","latitude":43.8422,"longitude":-88.83594}}(window,'GeoPostal','US');

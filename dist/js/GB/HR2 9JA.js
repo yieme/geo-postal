@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR2 9JA"]={"code":"HR2 9JA","region":"England","city":"Moccas","latitude":52.07698,"longitude":-2.94264}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2850"]={"code":"2850","region":"Hovedstaden","city":"Trorod","latitude":55.83946,"longitude":12.54432}}(window,'GeoPostal','DK');

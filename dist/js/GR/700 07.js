@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["700 07"]={"code":"700 07","region":"Kriti","city":"Malia","latitude":35.28333,"longitude":25.46667}}(window,'GeoPostal','GR');

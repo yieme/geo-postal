@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54740"]={"code":"54740","region":"Wisconsin","city":"Elmwood","latitude":44.77889,"longitude":-92.14917}}(window,'GeoPostal','US');

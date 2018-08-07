@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62327"]={"code":"62327","region":"Hauts-de-France","city":"Boulogne-sur-Mer","latitude":50.71667,"longitude":1.61667}}(window,'GeoPostal','FR');

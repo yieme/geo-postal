@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4821"]={"code":"4821","region":"Queensland","city":"Stamford","latitude":-21.26667,"longitude":143.81667}}(window,'GeoPostal','AU');

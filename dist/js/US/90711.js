@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90711"]={"code":"90711","region":"California","city":"Lakewood","latitude":33.85363,"longitude":-118.13396}}(window,'GeoPostal','US');

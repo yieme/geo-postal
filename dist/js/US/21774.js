@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21774"]={"code":"21774","region":"Maryland","city":"New Market","latitude":39.38361,"longitude":-77.27333}}(window,'GeoPostal','US');

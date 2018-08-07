@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4885"]={"code":"4885","region":"Queensland","city":"Hillcrest","latitude":-17.36667,"longitude":145.6}}(window,'GeoPostal','AU');

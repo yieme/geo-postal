@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34179"]={"code":"34179","region":"Occitanie","city":"Castelnau-le-Lez","latitude":43.63333,"longitude":3.9}}(window,'GeoPostal','FR');

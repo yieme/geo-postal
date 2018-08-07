@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57126"]={"code":"57126","region":"Jawa Tengah","city":"Surakarta","latitude":-7.55611,"longitude":110.83167}}(window,'GeoPostal','ID');

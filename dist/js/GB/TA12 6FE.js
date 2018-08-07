@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA12 6FE"]={"code":"TA12 6FE","region":"England","city":"Kingsbury Episcopi","latitude":50.98853,"longitude":-2.80662}}(window,'GeoPostal','GB');

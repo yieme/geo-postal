@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45683"]={"code":"45683","region":"OH","city":"Stockdale","latitude":38.9555,"longitude":-82.8584}}(window,'GeoPostal','US');

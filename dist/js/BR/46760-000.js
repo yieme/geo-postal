@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46760-000"]={"code":"46760-000","region":"Bahia","city":"Barra da Estiva","latitude":-13.62611,"longitude":-41.32694}}(window,'GeoPostal','BR');

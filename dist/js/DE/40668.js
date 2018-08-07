@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40668"]={"code":"40668","region":"Nordrhein-Westfalen","city":"Meerbusch","latitude":51.26118,"longitude":6.6717}}(window,'GeoPostal','DE');

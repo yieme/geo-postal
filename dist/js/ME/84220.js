@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84220"]={"code":"84220","region":"Zabljak","city":"Zabljak","latitude":43.15423,"longitude":19.12325}}(window,'GeoPostal','ME');

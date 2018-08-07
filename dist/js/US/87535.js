@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87535"]={"code":"87535","region":"NM","city":"Glorieta","latitude":35.5288,"longitude":-105.7477}}(window,'GeoPostal','US');

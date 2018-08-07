@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 3J0"]={"code":"V0N 3J0","region":"British Columbia","city":"Beaver Cove","latitude":50.53292,"longitude":-126.86978}}(window,'GeoPostal','CA');

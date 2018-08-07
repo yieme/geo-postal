@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77615"]={"code":"77615","region":"TX","city":"Evadale","latitude":30.3129,"longitude":-94.0731}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15200-000"]={"code":"15200-000","region":"Sao Paulo","city":"Jose Bonifacio","latitude":-21.05278,"longitude":-49.68833}}(window,'GeoPostal','BR');

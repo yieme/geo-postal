@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14813"]={"code":"14813","region":"New York","city":"Belmont","latitude":42.22312,"longitude":-78.03445}}(window,'GeoPostal','US');

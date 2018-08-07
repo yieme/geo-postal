@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16244"]={"code":"16244","region":"Brandenburg","city":"Hubertusstock","latitude":52.91853,"longitude":13.66734}}(window,'GeoPostal','DE');

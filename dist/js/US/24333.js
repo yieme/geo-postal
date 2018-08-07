@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24333"]={"code":"24333","region":"Virginia","city":"Galax","latitude":36.66124,"longitude":-80.92397}}(window,'GeoPostal','US');

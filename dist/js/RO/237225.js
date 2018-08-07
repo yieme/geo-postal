@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237225"]={"code":"237225","region":"Olt","city":"Icoana","latitude":44.41667,"longitude":24.71667}}(window,'GeoPostal','RO');

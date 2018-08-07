@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW5 8ED"]={"code":"CW5 8ED","region":"England","city":"Baddiley","latitude":53.03936,"longitude":-2.58866}}(window,'GeoPostal','GB');

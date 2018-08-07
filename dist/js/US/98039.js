@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98039"]={"code":"98039","region":"Washington","city":"Medina","latitude":47.616309,"longitude":-122.236524}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07027"]={"code":"07027","region":"Sardegna","city":"Oschiri","latitude":40.71977,"longitude":9.10102}}(window,'GeoPostal','IT');

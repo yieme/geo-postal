@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66779"]={"code":"66779","region":"Kansas","city":"Uniontown","latitude":37.768123,"longitude":-94.994045}}(window,'GeoPostal','US');

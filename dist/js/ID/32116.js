@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32116"]={"code":"32116","region":"Sumatera Selatan","city":"Baturaja","latitude":-4.13333,"longitude":104.16667}}(window,'GeoPostal','ID');

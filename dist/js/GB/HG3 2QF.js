@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 2QF"]={"code":"HG3 2QF","region":"England","city":"Darley","latitude":54.03333,"longitude":-1.7}}(window,'GeoPostal','GB');

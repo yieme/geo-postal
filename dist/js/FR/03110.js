@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03110"]={"code":"03110","region":"Auvergne-Rhone-Alpes","city":"Saint-Remy-en-Rollat","latitude":46.18555,"longitude":3.39613}}(window,'GeoPostal','FR');

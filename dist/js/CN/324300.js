@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["324300"]={"code":"324300","region":"Zhejiang","city":"Kaihua","latitude":29.14306,"longitude":118.40333}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27780"]={"code":"27780","region":"Normandie","city":"Garennes-sur-Eure","latitude":48.91116,"longitude":1.43836}}(window,'GeoPostal','FR');

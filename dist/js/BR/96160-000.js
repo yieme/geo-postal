@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96160-000"]={"code":"96160-000","region":"Rio Grande do Sul","city":"Pelotas","latitude":-31.77194,"longitude":-52.3425}}(window,'GeoPostal','BR');

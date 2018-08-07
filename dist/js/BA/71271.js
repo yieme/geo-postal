@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71271"]={"code":"71271","region":"Federacija Bosne i Hercegovine","city":"Tomislavgrad","latitude":43.71806,"longitude":17.22667}}(window,'GeoPostal','BA');

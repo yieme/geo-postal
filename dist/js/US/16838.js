@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16838"]={"code":"16838","region":"Pennsylvania","city":"Grampian","latitude":40.999546,"longitude":-78.604258}}(window,'GeoPostal','US');

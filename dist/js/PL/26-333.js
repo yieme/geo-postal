@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-333"]={"code":"26-333","region":"Lodzkie","city":"Paradyz","latitude":51.30604,"longitude":20.11374}}(window,'GeoPostal','PL');

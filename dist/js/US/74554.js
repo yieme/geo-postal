@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74554"]={"code":"74554","region":"Oklahoma","city":"Krebs","latitude":34.93314,"longitude":-95.720534}}(window,'GeoPostal','US');

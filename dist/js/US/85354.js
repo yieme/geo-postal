@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85354"]={"code":"85354","region":"Arizona","city":"Tonopah","latitude":33.475656,"longitude":-112.875482}}(window,'GeoPostal','US');

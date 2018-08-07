@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99591"]={"code":"99591","region":"Alaska","city":"Saint George Island","latitude":56.59437,"longitude":-169.61864}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98572"]={"code":"98572","region":"Washington","city":"Pe Ell","latitude":46.566106,"longitude":-123.303959}}(window,'GeoPostal','US');

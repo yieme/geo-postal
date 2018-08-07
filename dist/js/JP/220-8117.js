@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["220-8117"]={"code":"220-8117","region":"Kanagawa","city":"Yokohama","latitude":35.44417,"longitude":139.63806}}(window,'GeoPostal','JP');

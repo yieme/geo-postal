@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38660"]={"code":"38660","region":"Kayseri","city":"Sariz","latitude":38.47917,"longitude":36.49898}}(window,'GeoPostal','TR');

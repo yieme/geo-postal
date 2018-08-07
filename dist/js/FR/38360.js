@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38360"]={"code":"38360","region":"Auvergne-Rhone-Alpes","city":"Noyarey","latitude":45.2476,"longitude":5.62837}}(window,'GeoPostal','FR');

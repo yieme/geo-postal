@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3960"]={"code":"3960","region":"Kwazulu-Natal","city":"Hluhluwe","latitude":-28.01895,"longitude":32.26762}}(window,'GeoPostal','ZA');

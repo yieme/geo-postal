@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827130"]={"code":"827130","region":"Tulcea","city":"Mahmudia","latitude":45.08333,"longitude":29.08333}}(window,'GeoPostal','RO');

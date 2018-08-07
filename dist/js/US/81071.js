@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81071"]={"code":"81071","region":"CO","city":"Sheridan Lake","latitude":38.4667,"longitude":-102.2921}}(window,'GeoPostal','US');

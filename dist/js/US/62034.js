@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62034"]={"code":"62034","region":"Illinois","city":"Glen Carbon","latitude":38.76054,"longitude":-89.96766}}(window,'GeoPostal','US');

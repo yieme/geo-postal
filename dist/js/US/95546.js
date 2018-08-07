@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95546"]={"code":"95546","region":"California","city":"Hoopa","latitude":41.166577,"longitude":-123.72647}}(window,'GeoPostal','US');

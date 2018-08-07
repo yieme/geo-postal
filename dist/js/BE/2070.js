@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2070"]={"code":"2070","region":"Antwerpen","city":"Zwijndrecht","latitude":51.21979,"longitude":4.32664}}(window,'GeoPostal','BE');

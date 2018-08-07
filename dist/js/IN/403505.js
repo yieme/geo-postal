@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403505"]={"code":"403505","region":"Goa","city":"Navelim","latitude":15.53333,"longitude":73.98333}}(window,'GeoPostal','IN');

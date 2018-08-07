@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34550"]={"code":"34550","region":"Occitanie","city":"Bessan","latitude":43.36196,"longitude":3.42288}}(window,'GeoPostal','FR');

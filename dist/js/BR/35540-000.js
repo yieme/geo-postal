@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35540-000"]={"code":"35540-000","region":"Minas Gerais","city":"Oliveira","latitude":-20.69639,"longitude":-44.82722}}(window,'GeoPostal','BR');

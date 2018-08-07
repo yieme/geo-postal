@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55368"]={"code":"55368","region":"MN","city":"Norwood Young America","latitude":44.7736,"longitude":-93.9216}}(window,'GeoPostal','US');

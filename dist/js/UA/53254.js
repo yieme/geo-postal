@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53254"]={"code":"53254","region":"Dnipropetrovska oblast","city":"Sholokhove","latitude":47.69453,"longitude":34.03119}}(window,'GeoPostal','UA');

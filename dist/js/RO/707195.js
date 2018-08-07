@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707195"]={"code":"707195","region":"Iasi","city":"Focuri","latitude":47.35,"longitude":27.21667}}(window,'GeoPostal','RO');

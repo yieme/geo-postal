@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-229"]={"code":"43-229","region":"Slaskie","city":"Wola","latitude":50.01745,"longitude":19.12333}}(window,'GeoPostal','PL');

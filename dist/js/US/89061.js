@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89061"]={"code":"89061","region":"NV","city":"Pahrump","latitude":36.1184,"longitude":-115.9407}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71606"]={"code":"71606","region":"Oaxaca","city":"Santiago Pinotepa Nacional","latitude":16.31667,"longitude":-98.01667}}(window,'GeoPostal','MX');

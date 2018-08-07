@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19550"]={"code":"19550","region":"PA","city":"Rehrersburg","latitude":40.4553,"longitude":-76.2453}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5650"]={"code":"5650","region":"Namur","city":"Walcourt","latitude":50.25401,"longitude":4.43796}}(window,'GeoPostal','BE');

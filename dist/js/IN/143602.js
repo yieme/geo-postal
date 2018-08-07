@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143602"]={"code":"143602","region":"Punjab","city":"Fatehgarh Churian","latitude":31.86207,"longitude":74.95534}}(window,'GeoPostal','IN');

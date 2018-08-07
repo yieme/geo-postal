@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6320"]={"code":"6320","region":"Western Australia","city":"Wansbrough","latitude":-34.13333,"longitude":117.66667}}(window,'GeoPostal','AU');

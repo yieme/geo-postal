@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24458"]={"code":"24458","region":"Virginia","city":"McDowell","latitude":38.303812,"longitude":-79.523051}}(window,'GeoPostal','US');

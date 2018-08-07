@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36163"]={"code":"36163","region":"Hessen","city":"Rabennest","latitude":50.47176,"longitude":9.8574}}(window,'GeoPostal','DE');

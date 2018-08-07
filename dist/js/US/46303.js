@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46303"]={"code":"46303","region":"IN","city":"Cedar Lake","latitude":41.3713,"longitude":-87.4764}}(window,'GeoPostal','US');

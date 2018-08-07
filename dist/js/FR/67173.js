@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67173"]={"code":"67173","region":"Grand-Est","city":"Brumath","latitude":48.73014,"longitude":7.7121}}(window,'GeoPostal','FR');

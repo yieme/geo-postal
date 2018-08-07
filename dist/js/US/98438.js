@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98438"]={"code":"98438","region":"WA","city":"Mcchord Afb","latitude":47.2258,"longitude":-122.469}}(window,'GeoPostal','US');

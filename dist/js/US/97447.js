@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97447"]={"code":"97447","region":"OR","city":"Idleyld Park","latitude":43.3237,"longitude":-123.024}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01550"]={"code":"01550","region":"Massachusetts","city":"Southbridge","latitude":42.0751,"longitude":-72.03341}}(window,'GeoPostal','US');

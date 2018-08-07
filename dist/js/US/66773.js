@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66773"]={"code":"66773","region":"KS","city":"Scammon","latitude":37.2809,"longitude":-94.8092}}(window,'GeoPostal','US');

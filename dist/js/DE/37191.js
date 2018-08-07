@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37191"]={"code":"37191","region":"Niedersachsen","city":"Wachenhausen","latitude":51.66658,"longitude":10.09503}}(window,'GeoPostal','DE');

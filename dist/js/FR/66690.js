@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66690"]={"code":"66690","region":"Occitanie","city":"Sorede","latitude":42.53069,"longitude":2.95708}}(window,'GeoPostal','FR');

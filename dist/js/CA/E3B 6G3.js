@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E3B 6G3"]={"code":"E3B 6G3","region":"New Brunswick","city":"Fredericton","latitude":45.961007,"longitude":-66.641769}}(window,'GeoPostal','CA');

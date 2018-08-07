@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61877"]={"code":"61877","region":"IL","city":"Sidney","latitude":40.0232,"longitude":-88.069}}(window,'GeoPostal','US');

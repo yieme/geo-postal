@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 7DB"]={"code":"EX22 7DB","region":"England","city":"Thornbury","latitude":50.85,"longitude":-4.26667}}(window,'GeoPostal','GB');

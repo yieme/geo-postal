@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0T 2Y0"]={"code":"P0T 2Y0","region":"Ontario","city":"Upsala","latitude":49.05012,"longitude":-90.46688}}(window,'GeoPostal','CA');

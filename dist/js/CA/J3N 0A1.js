@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J3N 0A1"]={"code":"J3N 0A1","region":"Quebec","city":"Saint-Basile-le-Grand","latitude":45.53338,"longitude":-73.28246}}(window,'GeoPostal','CA');

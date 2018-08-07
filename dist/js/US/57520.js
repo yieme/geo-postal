@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57520"]={"code":"57520","region":"South Dakota","city":"Agar","latitude":44.845359,"longitude":-100.060714}}(window,'GeoPostal','US');

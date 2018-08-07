@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18130"]={"code":"18130","region":"Centre-Val de Loire","city":"Dun-sur-Auron","latitude":46.8849,"longitude":2.57345}}(window,'GeoPostal','FR');

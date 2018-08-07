@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84775"]={"code":"84775","region":"Utah","city":"Torrey","latitude":38.30167,"longitude":-111.42}}(window,'GeoPostal','US');

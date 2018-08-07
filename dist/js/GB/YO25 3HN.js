@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 3HN"]={"code":"YO25 3HN","region":"England","city":"Fordon","latitude":54.15,"longitude":-0.38333}}(window,'GeoPostal','GB');

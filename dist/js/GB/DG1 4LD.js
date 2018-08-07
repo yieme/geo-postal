@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG1 4LD"]={"code":"DG1 4LD","region":"Scotland","city":"Carrutherstown","latitude":55.0334,"longitude":-3.40558}}(window,'GeoPostal','GB');

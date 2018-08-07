@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46763"]={"code":"46763","region":"IN","city":"Laotto","latitude":41.2991,"longitude":-85.1901}}(window,'GeoPostal','US');

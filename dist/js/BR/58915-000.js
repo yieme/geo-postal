@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58915-000"]={"code":"58915-000","region":"Paraiba","city":"Uirauna","latitude":-6.51833,"longitude":-38.41222}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7840"]={"code":"7840","region":"Canindeyu","city":"Colonia Catuete","latitude":-24.13333,"longitude":-54.61667}}(window,'GeoPostal','PY');

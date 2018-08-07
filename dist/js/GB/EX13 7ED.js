@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX13 7ED"]={"code":"EX13 7ED","region":"England","city":"Dalwood","latitude":50.79661,"longitude":-3.07129}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50480"]={"code":"50480","region":"Normandie","city":"Sainte-Mere-Eglise","latitude":49.41,"longitude":-1.31726}}(window,'GeoPostal','FR');

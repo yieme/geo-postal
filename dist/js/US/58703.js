@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58703"]={"code":"58703","region":"ND","city":"Minot","latitude":48.3306,"longitude":-101.3156}}(window,'GeoPostal','US');

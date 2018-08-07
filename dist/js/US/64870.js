@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64870"]={"code":"64870","region":"Missouri","city":"Webb City","latitude":37.143244,"longitude":-94.470795}}(window,'GeoPostal','US');

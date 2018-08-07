@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML6 7RS"]={"code":"ML6 7RS","region":"Scotland","city":"Longriggend","latitude":55.90954,"longitude":-3.88602}}(window,'GeoPostal','GB');

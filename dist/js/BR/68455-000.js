@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68455-000"]={"code":"68455-000","region":"Para","city":"Tucurui","latitude":-3.76611,"longitude":-49.6725}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41433"]={"code":"41433","region":"KY","city":"Gapville","latitude":37.63,"longitude":-82.95}}(window,'GeoPostal','US');

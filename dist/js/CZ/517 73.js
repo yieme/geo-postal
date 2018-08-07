@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517 73"]={"code":"517 73","region":"Kralovehradecky kraj","city":"Opocno","latitude":50.26742,"longitude":16.1148}}(window,'GeoPostal','CZ');

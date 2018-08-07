@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23740"]={"code":"23740","region":"Andalucia","city":"Andujar","latitude":38.03922,"longitude":-4.05078}}(window,'GeoPostal','ES');

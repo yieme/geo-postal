@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652718"]={"code":"652718","region":"Kemerovskaya oblast'","city":"Kiselevsk","latitude":53.99,"longitude":86.6621}}(window,'GeoPostal','RU');

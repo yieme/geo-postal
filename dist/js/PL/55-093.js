@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55-093"]={"code":"55-093","region":"Dolnoslaskie","city":"Kielczow","latitude":51.13999,"longitude":17.17798}}(window,'GeoPostal','PL');

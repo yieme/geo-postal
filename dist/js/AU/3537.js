@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3537"]={"code":"3537","region":"Victoria","city":"Boort","latitude":-36.11571,"longitude":143.71991}}(window,'GeoPostal','AU');

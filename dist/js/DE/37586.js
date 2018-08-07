@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37586"]={"code":"37586","region":"Niedersachsen","city":"Dassel","latitude":51.80325,"longitude":9.6884}}(window,'GeoPostal','DE');

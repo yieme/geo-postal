@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY12 0LH"]={"code":"SY12 0LH","region":"England","city":"Cockshutt","latitude":52.85681,"longitude":-2.84091}}(window,'GeoPostal','GB');

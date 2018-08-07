@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98255"]={"code":"98255","region":"WA","city":"Hamilton","latitude":48.5255,"longitude":-121.9887}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1114"]={"code":"1114","region":"Aragacotn","city":"Aygeshat","latitude":40.23571,"longitude":44.28692}}(window,'GeoPostal','AM');

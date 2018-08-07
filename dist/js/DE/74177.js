@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74177"]={"code":"74177","region":"Baden-Wurttemberg","city":"Kochendorf","latitude":49.22329,"longitude":9.22022}}(window,'GeoPostal','DE');

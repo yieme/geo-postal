@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45742"]={"code":"45742","region":"OH","city":"Little Hocking","latitude":39.28,"longitude":-81.7071}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3135"]={"code":"3135","region":"Victoria","city":"Heathmont","latitude":-37.83333,"longitude":145.25}}(window,'GeoPostal','AU');

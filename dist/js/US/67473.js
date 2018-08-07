@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67473"]={"code":"67473","region":"Kansas","city":"Osborne","latitude":39.4389,"longitude":-98.69479}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65084"]={"code":"65084","region":"Missouri","city":"Versailles","latitude":38.43141,"longitude":-92.84103}}(window,'GeoPostal','US');

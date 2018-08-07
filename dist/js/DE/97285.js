@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97285"]={"code":"97285","region":"Baden-Wurttemberg","city":"Wasen","latitude":47.85454,"longitude":7.77973}}(window,'GeoPostal','DE');

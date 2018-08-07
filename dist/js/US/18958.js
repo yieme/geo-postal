@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18958"]={"code":"18958","region":"PA","city":"Salfordville","latitude":40.2904,"longitude":-75.4355}}(window,'GeoPostal','US');

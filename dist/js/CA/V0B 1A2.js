@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 1A2"]={"code":"V0B 1A2","region":"British Columbia","city":"Sanca","latitude":49.38317,"longitude":-116.73546}}(window,'GeoPostal','CA');

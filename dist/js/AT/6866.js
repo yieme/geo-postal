@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6866"]={"code":"6866","region":"Vorarlberg","city":"Andelsbuch","latitude":47.41357,"longitude":9.89559}}(window,'GeoPostal','AT');

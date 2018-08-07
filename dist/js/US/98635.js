@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98635"]={"code":"98635","region":"Washington","city":"Lyle","latitude":45.69583,"longitude":-121.28222}}(window,'GeoPostal','US');

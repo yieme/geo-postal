@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["325000"]={"code":"325000","region":"Zhejiang","city":"Yueqing","latitude":28.12,"longitude":120.96}}(window,'GeoPostal','CN');

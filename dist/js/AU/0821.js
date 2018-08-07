@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0821"]={"code":"0821","region":"Northern Territory","city":"Winnellie","latitude":-12.42924,"longitude":130.88595}}(window,'GeoPostal','AU');

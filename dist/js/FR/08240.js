@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08240"]={"code":"08240","region":"Grand-Est","city":"Tailly","latitude":49.4361,"longitude":5.0833}}(window,'GeoPostal','FR');

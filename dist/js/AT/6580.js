@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6580"]={"code":"6580","region":"Tirol","city":"Sankt Anton am Arlberg","latitude":47.1275,"longitude":10.26372}}(window,'GeoPostal','AT');

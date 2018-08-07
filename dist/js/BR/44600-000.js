@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44600-000"]={"code":"44600-000","region":"Bahia","city":"Ipira","latitude":-12.15833,"longitude":-39.73722}}(window,'GeoPostal','BR');

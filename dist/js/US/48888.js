@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48888"]={"code":"48888","region":"MI","city":"Stanton","latitude":43.3058,"longitude":-85.0995}}(window,'GeoPostal','US');

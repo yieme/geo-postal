@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64676"]={"code":"64676","region":"MO","city":"Rothville","latitude":39.6627,"longitude":-93.0467}}(window,'GeoPostal','US');

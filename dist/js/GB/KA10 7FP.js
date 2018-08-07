@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA10 7FP"]={"code":"KA10 7FP","region":"Scotland","city":"Loans","latitude":55.5504,"longitude":-4.6241}}(window,'GeoPostal','GB');

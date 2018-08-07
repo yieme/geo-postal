@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J3R 1A2"]={"code":"J3R 1A2","region":"Quebec","city":"Saint-Joseph-de-Sorel","latitude":46.03336,"longitude":-73.11585}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60693"]={"code":"60693","region":"Michoacan de Ocampo","city":"Tangancicuaro de Arista","latitude":19.9,"longitude":-102.13333}}(window,'GeoPostal','MX');

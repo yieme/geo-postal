@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45336"]={"code":"45336","region":"OH","city":"Kettlersville","latitude":40.4413,"longitude":-84.2626}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["740102"]={"code":"740102","region":"Bauchi","city":"Bauchi","latitude":10.31344,"longitude":9.84327}}(window,'GeoPostal','NG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41763"]={"code":"41763","region":"Guerrero","city":"San Luis Acatlan","latitude":16.81667,"longitude":-98.73333}}(window,'GeoPostal','MX');

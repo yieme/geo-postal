@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8005"]={"code":"8005","region":"Zurich","city":"Zuerich (Kreis 5)","latitude":47.38767,"longitude":8.52152}}(window,'GeoPostal','CH');

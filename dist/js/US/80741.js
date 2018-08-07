@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80741"]={"code":"80741","region":"Colorado","city":"Merino","latitude":40.48444,"longitude":-103.35361}}(window,'GeoPostal','US');

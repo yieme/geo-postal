@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW1W 0AU"]={"code":"SW1W 0AU","region":"England","city":"Belgravia","latitude":51.4911,"longitude":-0.14934}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29143"]={"code":"29143","region":"SC","city":"Sardinia","latitude":33.8343,"longitude":-80.0829}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93644"]={"code":"93644","region":"California","city":"Oakhurst","latitude":37.328,"longitude":-119.64932}}(window,'GeoPostal','US');

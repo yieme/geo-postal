@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59233"]={"code":"59233","region":"Hauts-de-France","city":"Maing","latitude":50.30791,"longitude":3.48446}}(window,'GeoPostal','FR');

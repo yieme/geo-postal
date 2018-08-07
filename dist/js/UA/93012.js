@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93012"]={"code":"93012","region":"Luhanska oblast","city":"Rubizhne","latitude":49.01229,"longitude":38.37967}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4062"]={"code":"4062","region":"Gauteng","city":"Cullinan","latitude":-25.67088,"longitude":28.52364}}(window,'GeoPostal','ZA');

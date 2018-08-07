@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132402"]={"code":"132402","region":"Jilin","city":"Gongji","latitude":42.99505,"longitude":126.88679}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515600"]={"code":"515600","region":"Alba","city":"Cugir","latitude":45.83333,"longitude":23.36667}}(window,'GeoPostal','RO');

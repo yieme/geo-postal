@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0N 1W0"]={"code":"A0N 1W0","region":"Newfoundland and Labrador","city":"St. Andrew's","latitude":47.77758,"longitude":-59.27304}}(window,'GeoPostal','CA');

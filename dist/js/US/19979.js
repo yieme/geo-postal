@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19979"]={"code":"19979","region":"DE","city":"Viola","latitude":39.0419,"longitude":-75.5726}}(window,'GeoPostal','US');

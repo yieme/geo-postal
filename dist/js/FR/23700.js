@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23700"]={"code":"23700","region":"Nouvelle-Aquitaine","city":"Auzances","latitude":46.02849,"longitude":2.50042}}(window,'GeoPostal','FR');

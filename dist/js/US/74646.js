@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74646"]={"code":"74646","region":"OK","city":"Nardin","latitude":36.8155,"longitude":-97.4325}}(window,'GeoPostal','US');

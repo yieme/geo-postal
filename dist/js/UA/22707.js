@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22707"]={"code":"22707","region":"Vinnytska oblast","city":"Illintsi","latitude":49.10479,"longitude":29.21773}}(window,'GeoPostal','UA');

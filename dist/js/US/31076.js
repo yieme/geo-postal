@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31076"]={"code":"31076","region":"Georgia","city":"Reynolds","latitude":32.55987,"longitude":-84.0963}}(window,'GeoPostal','US');

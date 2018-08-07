@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24392"]={"code":"24392","region":"Schleswig-Holstein","city":"Dollrottholz","latitude":54.64678,"longitude":9.8064}}(window,'GeoPostal','DE');

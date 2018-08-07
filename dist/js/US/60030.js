@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60030"]={"code":"60030","region":"Illinois","city":"Grayslake","latitude":42.33594,"longitude":-88.02876}}(window,'GeoPostal','US');

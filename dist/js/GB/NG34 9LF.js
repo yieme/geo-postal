@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 9LF"]={"code":"NG34 9LF","region":"England","city":"Great Hale","latitude":52.97149,"longitude":-0.29011}}(window,'GeoPostal','GB');

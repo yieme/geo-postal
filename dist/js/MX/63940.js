@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63940"]={"code":"63940","region":"Nayarit","city":"Ixtlan del Rio","latitude":21.03333,"longitude":-104.36667}}(window,'GeoPostal','MX');

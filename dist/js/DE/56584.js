@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56584"]={"code":"56584","region":"Rheinland-Pfalz","city":"Anhausen","latitude":50.5,"longitude":7.55}}(window,'GeoPostal','DE');

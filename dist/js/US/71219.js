@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71219"]={"code":"71219","region":"Louisiana","city":"Baskin","latitude":32.31734,"longitude":-91.68929}}(window,'GeoPostal','US');

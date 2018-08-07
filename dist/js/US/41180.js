@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41180"]={"code":"41180","region":"KY","city":"Webbville","latitude":38.1634,"longitude":-82.7897}}(window,'GeoPostal','US');

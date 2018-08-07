@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2271"]={"code":"2271","region":"Hedmark","city":"Flisa","latitude":60.60922,"longitude":12.01543}}(window,'GeoPostal','NO');

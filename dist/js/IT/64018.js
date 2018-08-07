@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64018"]={"code":"64018","region":"Abruzzo","city":"Tortoreto","latitude":42.80905,"longitude":13.9116}}(window,'GeoPostal','IT');

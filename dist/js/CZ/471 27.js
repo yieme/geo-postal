@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471 27"]={"code":"471 27","region":"Liberecky kraj","city":"Straz pod Ralskem","latitude":50.7028,"longitude":14.80102}}(window,'GeoPostal','CZ');

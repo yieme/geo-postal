@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5101"]={"code":"5101","region":"Merida","city":"Merida","latitude":8.59524,"longitude":-71.1434}}(window,'GeoPostal','VE');

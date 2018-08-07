@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627090"]={"code":"627090","region":"Vrancea","city":"Corbita","latitude":46.15,"longitude":27.3}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50261"]={"code":"50261","region":"IA","city":"Van Meter","latitude":41.4699,"longitude":-93.9207}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69690"]={"code":"69690","region":"Auvergne-Rhone-Alpes","city":"Bessenay","latitude":45.77721,"longitude":4.55376}}(window,'GeoPostal','FR');

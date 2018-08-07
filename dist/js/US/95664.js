@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95664"]={"code":"95664","region":"CA","city":"Pilot Hill","latitude":38.8135,"longitude":-121.0308}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26814"]={"code":"26814","region":"West Virginia","city":"Riverton","latitude":38.699101,"longitude":-79.495566}}(window,'GeoPostal','US');

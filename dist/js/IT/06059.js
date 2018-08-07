@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06059"]={"code":"06059","region":"Umbria","city":"Todi","latitude":42.77994,"longitude":12.40456}}(window,'GeoPostal','IT');

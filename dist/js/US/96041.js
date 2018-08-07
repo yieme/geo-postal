@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96041"]={"code":"96041","region":"California","city":"Hayfork","latitude":40.51188,"longitude":-123.2358}}(window,'GeoPostal','US');

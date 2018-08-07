@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65000"]={"code":"65000","region":"Phitsanulok","city":"Phitsanulok","latitude":16.82481,"longitude":100.25858}}(window,'GeoPostal','TH');

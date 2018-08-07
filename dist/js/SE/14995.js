@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14995"]={"code":"14995","region":"Stockholms lan","city":"Nynashamn","latitude":58.90337,"longitude":17.94793}}(window,'GeoPostal','SE');

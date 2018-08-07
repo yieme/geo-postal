@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71276"]={"code":"71276","region":"LA","city":"Sondheimer","latitude":32.5756,"longitude":-91.1496}}(window,'GeoPostal','US');

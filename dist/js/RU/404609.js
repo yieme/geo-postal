@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404609"]={"code":"404609","region":"Volgogradskaya oblast'","city":"Zaplavnoye","latitude":48.7048,"longitude":45.0229}}(window,'GeoPostal','RU');

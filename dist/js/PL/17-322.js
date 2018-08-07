@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-322"]={"code":"17-322","region":"Podlaskie","city":"Perlejewo","latitude":52.56676,"longitude":22.56457}}(window,'GeoPostal','PL');

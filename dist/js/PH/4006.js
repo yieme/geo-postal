@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4006"]={"code":"4006","region":"Rizal","city":"Teresa","latitude":14.5612,"longitude":121.2195}}(window,'GeoPostal','PH');

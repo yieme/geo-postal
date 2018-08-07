@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07-140"]={"code":"07-140","region":"Mazowieckie","city":"Sadowne","latitude":52.64124,"longitude":21.84563}}(window,'GeoPostal','PL');

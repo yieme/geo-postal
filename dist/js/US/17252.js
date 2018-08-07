@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17252"]={"code":"17252","region":"PA","city":"Saint Thomas","latitude":39.9241,"longitude":-77.7908}}(window,'GeoPostal','US');

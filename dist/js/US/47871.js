@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47871"]={"code":"47871","region":"IN","city":"Riley","latitude":39.39,"longitude":-87.3}}(window,'GeoPostal','US');

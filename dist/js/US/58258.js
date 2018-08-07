@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58258"]={"code":"58258","region":"North Dakota","city":"Mekinock","latitude":47.979373,"longitude":-97.505303}}(window,'GeoPostal','US');

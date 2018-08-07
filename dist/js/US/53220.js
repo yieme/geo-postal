@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53220"]={"code":"53220","region":"Wisconsin","city":"Greenfield","latitude":42.961389,"longitude":-88.0125}}(window,'GeoPostal','US');

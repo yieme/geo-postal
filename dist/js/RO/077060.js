@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["077060"]={"code":"077060","region":"Ilfov","city":"Clinceni","latitude":44.37333,"longitude":25.95472}}(window,'GeoPostal','RO');

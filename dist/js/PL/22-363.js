@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-363"]={"code":"22-363","region":"Lubelskie","city":"Chelm","latitude":51.14312,"longitude":23.4716}}(window,'GeoPostal','PL');

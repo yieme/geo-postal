@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5321"]={"code":"5321","region":"Palawan","city":"Cagayancillo","latitude":9.57694,"longitude":121.20722}}(window,'GeoPostal','PH');

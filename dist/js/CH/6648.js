@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6648"]={"code":"6648","region":"Ticino","city":"Minusio","latitude":46.17769,"longitude":8.81473}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337557"]={"code":"337557","region":"Gorj","city":"Godinesti","latitude":45,"longitude":22.96667}}(window,'GeoPostal','RO');

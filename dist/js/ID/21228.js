@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21228"]={"code":"21228","region":"Sumatera Utara","city":"Belawan","latitude":3.7755,"longitude":98.6832}}(window,'GeoPostal','ID');

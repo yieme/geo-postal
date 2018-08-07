@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67063"]={"code":"67063","region":"KS","city":"Hillsboro","latitude":38.3449,"longitude":-97.2122}}(window,'GeoPostal','US');

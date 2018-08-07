@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25250"]={"code":"25250","region":"Bourgogne-Franche-Comte","city":"L'Isle-sur-le-Doubs","latitude":47.4486,"longitude":6.5869}}(window,'GeoPostal','FR');

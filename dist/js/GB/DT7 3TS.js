@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT7 3TS"]={"code":"DT7 3TS","region":"England","city":"Uplyme","latitude":50.73592,"longitude":-2.9571}}(window,'GeoPostal','GB');

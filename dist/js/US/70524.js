@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70524"]={"code":"70524","region":"LA","city":"Chataignier","latitude":30.5709,"longitude":-92.3202}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95645"]={"code":"95645","region":"CA","city":"Knights Landing","latitude":38.8517,"longitude":-121.7334}}(window,'GeoPostal','US');

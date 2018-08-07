@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67850"]={"code":"67850","region":"Nuevo Leon","city":"Galeana","latitude":24.83333,"longitude":-100.06667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15002"]={"code":"15002","region":"Baja Verapaz","city":"San Miguel Chicaj","latitude":15.1,"longitude":-90.4}}(window,'GeoPostal','GT');

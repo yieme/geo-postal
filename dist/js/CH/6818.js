@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6818"]={"code":"6818","region":"Ticino","city":"Melano","latitude":45.9221,"longitude":8.98544}}(window,'GeoPostal','CH');

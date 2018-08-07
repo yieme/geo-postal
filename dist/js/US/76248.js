@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76248"]={"code":"76248","region":"Texas","city":"Keller","latitude":32.92854,"longitude":-97.248588}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49872"]={"code":"49872","region":"MI","city":"Perkins","latitude":45.9925,"longitude":-87.0792}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41150"]={"code":"41150","region":"Centre-Val de Loire","city":"Onzain","latitude":47.49956,"longitude":1.17701}}(window,'GeoPostal','FR');

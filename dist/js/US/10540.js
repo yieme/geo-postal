@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10540"]={"code":"10540","region":"NY","city":"Lincolndale","latitude":41.3334,"longitude":-73.7243}}(window,'GeoPostal','US');

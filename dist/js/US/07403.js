@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07403"]={"code":"07403","region":"NJ","city":"Bloomingdale","latitude":41.0128,"longitude":-74.3338}}(window,'GeoPostal','US');

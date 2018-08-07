@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38320"]={"code":"38320","region":"Auvergne-Rhone-Alpes","city":"Herbeys","latitude":45.13735,"longitude":5.79592}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC2A 4LD"]={"code":"EC2A 4LD","region":"England","city":"Shoreditch","latitude":51.52509,"longitude":-0.07695}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21813"]={"code":"21813","region":"MD","city":"Bishopville","latitude":38.4296,"longitude":-75.1855}}(window,'GeoPostal','US');

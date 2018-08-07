@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2633"]={"code":"2633","region":"Victoria","city":"Bonang","latitude":-37.2,"longitude":148.75}}(window,'GeoPostal','AU');

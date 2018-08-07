@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58568"]={"code":"58568","region":"North Dakota","city":"Selfridge","latitude":46.039848,"longitude":-101.27629}}(window,'GeoPostal','US');

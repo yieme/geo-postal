@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86081"]={"code":"86081","region":"Molise","city":"Agnone","latitude":41.80943,"longitude":14.37762}}(window,'GeoPostal','IT');

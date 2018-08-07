@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76885"]={"code":"76885","region":"TX","city":"Valley Spring","latitude":30.866,"longitude":-98.8357}}(window,'GeoPostal','US');

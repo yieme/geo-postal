@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55389"]={"code":"55389","region":"MN","city":"Watkins","latitude":45.3087,"longitude":-94.4297}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65895-000"]={"code":"65895-000","region":"Maranhao","city":"Sao Raimundo das Mangabeiras","latitude":-7.02194,"longitude":-45.48111}}(window,'GeoPostal','BR');

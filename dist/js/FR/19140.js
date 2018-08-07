@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19140"]={"code":"19140","region":"Nouvelle-Aquitaine","city":"Uzerche","latitude":45.4212,"longitude":1.56395}}(window,'GeoPostal','FR');

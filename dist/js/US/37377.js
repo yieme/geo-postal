@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37377"]={"code":"37377","region":"Tennessee","city":"Signal Mountain","latitude":35.149669,"longitude":-85.330525}}(window,'GeoPostal','US');

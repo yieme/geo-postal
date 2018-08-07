@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81225"]={"code":"81225","region":"Colorado","city":"Crested Butte","latitude":38.901134,"longitude":-106.966119}}(window,'GeoPostal','US');

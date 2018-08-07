@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34052"]={"code":"34052","region":"Taza-Al Hoceima-Taounate","city":"Karia Ba Mohamed","latitude":34.37094,"longitude":-5.2138}}(window,'GeoPostal','MA');

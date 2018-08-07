@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18619"]={"code":"18619","region":"PA","city":"Hillsgrove","latitude":41.4482,"longitude":-76.6979}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694910"]={"code":"694910","region":"Sakhalinskaya oblast'","city":"Shakhtersk","latitude":49.16667,"longitude":142.13333}}(window,'GeoPostal','RU');

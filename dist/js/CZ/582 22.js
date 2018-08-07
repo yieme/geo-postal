@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["582 22"]={"code":"582 22","region":"Kraj Vysocina","city":"Pribyslav","latitude":49.57684,"longitude":15.73855}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64493"]={"code":"64493","region":"MO","city":"Turney","latitude":39.6318,"longitude":-94.2972}}(window,'GeoPostal','US');

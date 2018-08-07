@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41056"]={"code":"41056","region":"Kentucky","city":"Maysville","latitude":38.59602,"longitude":-83.78112}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98378"]={"code":"98378","region":"WA","city":"Retsil","latitude":47.5459,"longitude":-122.6112}}(window,'GeoPostal','US');

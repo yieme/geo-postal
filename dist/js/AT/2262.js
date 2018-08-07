@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2262"]={"code":"2262","region":"Niederosterreich","city":"Angern an der March","latitude":48.37778,"longitude":16.82806}}(window,'GeoPostal','AT');

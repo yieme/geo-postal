@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85046"]={"code":"85046","region":"Basilicata","city":"Maratea","latitude":39.9967,"longitude":15.72237}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56085"]={"code":"56085","region":"Minnesota","city":"Sleepy Eye","latitude":44.29718,"longitude":-94.72415}}(window,'GeoPostal','US');

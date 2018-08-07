@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02571"]={"code":"02571","region":"Massachusetts","city":"Wareham","latitude":41.75012,"longitude":-70.710076}}(window,'GeoPostal','US');

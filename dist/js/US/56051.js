@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56051"]={"code":"56051","region":"MN","city":"Kiester","latitude":43.5414,"longitude":-93.7102}}(window,'GeoPostal','US');

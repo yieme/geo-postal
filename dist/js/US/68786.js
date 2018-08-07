@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68786"]={"code":"68786","region":"Nebraska","city":"Wausa","latitude":42.49753,"longitude":-97.538984}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV8 8PN"]={"code":"IV8 8PN","region":"Scotland","city":"Munlochy","latitude":57.55124,"longitude":-4.26595}}(window,'GeoPostal','GB');

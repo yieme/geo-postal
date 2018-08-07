@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49806"]={"code":"49806","region":"Michigan","city":"Au Train","latitude":46.428246,"longitude":-86.837904}}(window,'GeoPostal','US');

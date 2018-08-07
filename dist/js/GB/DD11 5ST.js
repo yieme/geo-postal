@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD11 5ST"]={"code":"DD11 5ST","region":"Scotland","city":"Lunan","latitude":56.65595,"longitude":-2.51263}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46640-000"]={"code":"46640-000","region":"Bahia","city":"Ituacu","latitude":-13.81333,"longitude":-41.29667}}(window,'GeoPostal','BR');

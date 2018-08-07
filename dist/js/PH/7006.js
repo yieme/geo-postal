@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7006"]={"code":"7006","region":"Cebu","city":"Naga","latitude":7.77028,"longitude":122.75083}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44417"]={"code":"44417","region":"OH","city":"Farmdale","latitude":41.3923,"longitude":-80.6628}}(window,'GeoPostal','US');

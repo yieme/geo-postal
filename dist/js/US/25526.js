@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25526"]={"code":"25526","region":"West Virginia","city":"Hurricane","latitude":38.436265,"longitude":-82.00039}}(window,'GeoPostal','US');

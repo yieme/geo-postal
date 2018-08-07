@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64750"]={"code":"64750","region":"Nuevo Leon","city":"Allende","latitude":25.28333,"longitude":-100.01667}}(window,'GeoPostal','MX');

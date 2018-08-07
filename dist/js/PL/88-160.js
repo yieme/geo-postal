@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-160"]={"code":"88-160","region":"Kujawsko-pomorskie","city":"Janikowo","latitude":52.75328,"longitude":18.11328}}(window,'GeoPostal','PL');

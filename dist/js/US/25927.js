@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25927"]={"code":"25927","region":"WV","city":"Stanaford","latitude":37.8159,"longitude":-81.1523}}(window,'GeoPostal','US');

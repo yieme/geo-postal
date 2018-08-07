@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42051"]={"code":"42051","region":"KY","city":"Hickory","latitude":36.8478,"longitude":-88.6788}}(window,'GeoPostal','US');

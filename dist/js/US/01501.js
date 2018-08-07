@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01501"]={"code":"01501","region":"Massachusetts","city":"Auburn","latitude":42.206121,"longitude":-71.837194}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19506"]={"code":"19506","region":"PA","city":"Bernville","latitude":40.4551,"longitude":-76.1247}}(window,'GeoPostal','US');

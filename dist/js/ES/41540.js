@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41540"]={"code":"41540","region":"Andalucia","city":"La Puebla de Cazalla","latitude":37.22155,"longitude":-5.31153}}(window,'GeoPostal','ES');

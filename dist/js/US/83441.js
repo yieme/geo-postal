@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83441"]={"code":"83441","region":"ID","city":"Rexburg","latitude":43.7761,"longitude":-111.691}}(window,'GeoPostal','US');

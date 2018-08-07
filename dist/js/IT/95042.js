@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95042"]={"code":"95042","region":"Sicilia","city":"Grammichele","latitude":37.21234,"longitude":14.63968}}(window,'GeoPostal','IT');

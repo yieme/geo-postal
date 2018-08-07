@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346778"]={"code":"346778","region":"Rostovskaya oblast'","city":"Port-Katon","latitude":46.879,"longitude":38.756}}(window,'GeoPostal','RU');

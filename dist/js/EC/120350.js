@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["120350"]={"code":"120350","region":"Los Rios","city":"Montalvo","latitude":-1.8,"longitude":-79.33333}}(window,'GeoPostal','EC');

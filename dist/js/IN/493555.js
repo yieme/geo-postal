@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["493555"]={"code":"493555","region":"Chhattisgarh","city":"Basna","latitude":21.28333,"longitude":82.81667}}(window,'GeoPostal','IN');

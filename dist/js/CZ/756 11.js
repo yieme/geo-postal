@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756 11"]={"code":"756 11","region":"Zlinsky kraj","city":"Valasska Polanka","latitude":49.26215,"longitude":17.99667}}(window,'GeoPostal','CZ');

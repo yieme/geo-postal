@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03885"]={"code":"03885","region":"New Hampshire","city":"Stratham","latitude":43.015715,"longitude":-70.897116}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84170"]={"code":"84170","region":"Surat Thani","city":"Tha Chana","latitude":9.57203,"longitude":99.16586}}(window,'GeoPostal','TH');

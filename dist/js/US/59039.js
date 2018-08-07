@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59039"]={"code":"59039","region":"MT","city":"Ingomar","latitude":46.5767,"longitude":-107.3723}}(window,'GeoPostal','US');

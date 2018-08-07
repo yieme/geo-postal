@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11559"]={"code":"11559","region":"New York","city":"Island Park","latitude":40.613125,"longitude":-73.730635}}(window,'GeoPostal','US');

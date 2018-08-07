@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72333"]={"code":"72333","region":"Zaporizka oblast","city":"Terpinnya","latitude":46.96971,"longitude":35.41972}}(window,'GeoPostal','UA');

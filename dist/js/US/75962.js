@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75962"]={"code":"75962","region":"Texas","city":"Nacogdoches","latitude":31.614977,"longitude":-94.651909}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907285"]={"code":"907285","region":"Constanta","city":"Topraisar","latitude":44.01667,"longitude":28.45}}(window,'GeoPostal','RO');

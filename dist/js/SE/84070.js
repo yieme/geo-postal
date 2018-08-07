@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84070"]={"code":"84070","region":"Jamtlands lan","city":"Hammarstrand","latitude":63.11041,"longitude":16.35377}}(window,'GeoPostal','SE');

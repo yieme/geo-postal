@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28002"]={"code":"28002","region":"NC","city":"Albemarle","latitude":35.3501,"longitude":-80.2001}}(window,'GeoPostal','US');

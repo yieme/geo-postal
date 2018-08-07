@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR19 6BA"]={"code":"TR19 6BA","region":"England","city":"Saint Buryan","latitude":50.07441,"longitude":-5.6226}}(window,'GeoPostal','GB');

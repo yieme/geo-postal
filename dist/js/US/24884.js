@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24884"]={"code":"24884","region":"WV","city":"Squire","latitude":37.2384,"longitude":-81.6098}}(window,'GeoPostal','US');

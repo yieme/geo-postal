@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68621"]={"code":"68621","region":"NE","city":"Ames","latitude":41.4613,"longitude":-96.6463}}(window,'GeoPostal','US');

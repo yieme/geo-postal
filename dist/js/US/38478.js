@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38478"]={"code":"38478","region":"Tennessee","city":"Pulaski","latitude":35.194015,"longitude":-87.023758}}(window,'GeoPostal','US');

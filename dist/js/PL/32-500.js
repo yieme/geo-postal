@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-500"]={"code":"32-500","region":"Malopolskie","city":"Chrzanow","latitude":50.13546,"longitude":19.40203}}(window,'GeoPostal','PL');

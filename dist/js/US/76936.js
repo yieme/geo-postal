@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76936"]={"code":"76936","region":"TX","city":"Eldorado","latitude":30.8667,"longitude":-100.5889}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29401"]={"code":"29401","region":"Khyber Pakhtunkhwa","city":"Tank","latitude":32.22168,"longitude":70.37928}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG13 0JL"]={"code":"DG13 0JL","region":"Scotland","city":"Langholm","latitude":55.15101,"longitude":-2.99889}}(window,'GeoPostal','GB');

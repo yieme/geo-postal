@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87459"]={"code":"87459","region":"Bayern","city":"Pfronten","latitude":47.58197,"longitude":10.55932}}(window,'GeoPostal','DE');

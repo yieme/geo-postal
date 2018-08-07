@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425706"]={"code":"425706","region":"Hunan","city":"Jinling","latitude":26.00083,"longitude":112.28694}}(window,'GeoPostal','CN');

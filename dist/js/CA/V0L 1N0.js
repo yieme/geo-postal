@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0L 1N0"]={"code":"V0L 1N0","region":"British Columbia","city":"Keithley Creek","latitude":52.76659,"longitude":-121.41946}}(window,'GeoPostal','CA');

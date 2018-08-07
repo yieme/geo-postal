@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55385"]={"code":"55385","region":"Minnesota","city":"Stewart","latitude":44.722276,"longitude":-94.486847}}(window,'GeoPostal','US');

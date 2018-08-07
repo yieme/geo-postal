@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62929"]={"code":"62929","region":"Hauts-de-France","city":"Aire-sur-la-Lys","latitude":50.63871,"longitude":2.39876}}(window,'GeoPostal','FR');

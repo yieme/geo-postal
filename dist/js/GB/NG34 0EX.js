@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 0EX"]={"code":"NG34 0EX","region":"England","city":"Birthorpe","latitude":52.89078,"longitude":-0.36169}}(window,'GeoPostal','GB');

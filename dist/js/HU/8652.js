@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8652"]={"code":"8652","region":"Somogy","city":"Balatonszabadi","latitude":46.89398,"longitude":18.13738}}(window,'GeoPostal','HU');

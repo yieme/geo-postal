@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80208"]={"code":"80208","region":"Federacija Bosne i Hercegovine","city":"Livno","latitude":43.82694,"longitude":17.00778}}(window,'GeoPostal','BA');

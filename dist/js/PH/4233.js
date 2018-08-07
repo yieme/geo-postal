@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4233"]={"code":"4233","region":"Batangas","city":"Malvar","latitude":14.04472,"longitude":121.15861}}(window,'GeoPostal','PH');

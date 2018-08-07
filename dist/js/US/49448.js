@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49448"]={"code":"49448","region":"MI","city":"Nunica","latitude":43.0883,"longitude":-86.1028}}(window,'GeoPostal','US');

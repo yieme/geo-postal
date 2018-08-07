@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38371"]={"code":"38371","region":"Tennessee","city":"Sardis","latitude":35.44278,"longitude":-88.29139}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04967"]={"code":"04967","region":"Maine","city":"Pittsfield","latitude":44.78256,"longitude":-69.38338}}(window,'GeoPostal','US');

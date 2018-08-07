@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39427"]={"code":"39427","region":"Mississippi","city":"Carson","latitude":31.558842,"longitude":-89.781872}}(window,'GeoPostal','US');

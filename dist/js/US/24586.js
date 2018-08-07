@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24586"]={"code":"24586","region":"VA","city":"Ringgold","latitude":36.6035,"longitude":-79.2988}}(window,'GeoPostal','US');

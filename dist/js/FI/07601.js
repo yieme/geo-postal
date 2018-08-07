@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07601"]={"code":"07601","region":"Uusimaa","city":"Myrskyla","latitude":60.66965,"longitude":25.8475}}(window,'GeoPostal','FI');

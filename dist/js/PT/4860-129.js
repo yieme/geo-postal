@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4860-129"]={"code":"4860-129","region":"Braga","city":"Real","latitude":41.63882,"longitude":-8.18098}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58251"]={"code":"58251","region":"Punjab","city":"Kabirwala","latitude":30.40677,"longitude":71.8667}}(window,'GeoPostal','PK');

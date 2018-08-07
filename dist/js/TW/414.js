@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["414"]={"code":"414","region":"Taichung","city":"Taichung","latitude":24.1469,"longitude":120.6839}}(window,'GeoPostal','TW');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07400-000"]={"code":"07400-000","region":"Sao Paulo","city":"Aruja","latitude":-23.39611,"longitude":-46.32083}}(window,'GeoPostal','BR');

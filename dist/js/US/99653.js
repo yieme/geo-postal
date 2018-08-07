@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99653"]={"code":"99653","region":"Alaska","city":"Port Alsworth","latitude":60.361527,"longitude":-154.537057}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78579"]={"code":"78579","region":"TX","city":"Progreso","latitude":26.0922,"longitude":-97.9533}}(window,'GeoPostal','US');

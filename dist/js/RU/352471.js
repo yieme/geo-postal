@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352471"]={"code":"352471","region":"Stavropol'skiy kray","city":"Zavetnoye","latitude":44.7492,"longitude":41.5995}}(window,'GeoPostal','RU');

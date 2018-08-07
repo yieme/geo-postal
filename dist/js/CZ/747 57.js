@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["747 57"]={"code":"747 57","region":"Moravskoslezsky kraj","city":"Slavkov","latitude":49.9218,"longitude":17.83641}}(window,'GeoPostal','CZ');

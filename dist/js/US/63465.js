@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63465"]={"code":"63465","region":"MO","city":"Revere","latitude":40.5172,"longitude":-91.6753}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89424"]={"code":"89424","region":"Nevada","city":"Nixon","latitude":39.83083,"longitude":-119.36111}}(window,'GeoPostal','US');

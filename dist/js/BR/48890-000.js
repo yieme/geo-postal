@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48890-000"]={"code":"48890-000","region":"Bahia","city":"Valente","latitude":-11.41222,"longitude":-39.46194}}(window,'GeoPostal','BR');

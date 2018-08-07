@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356"]={"code":"356","region":"Vesturland","city":"Stykkisholmur","latitude":65.07573,"longitude":-22.72967}}(window,'GeoPostal','IS');

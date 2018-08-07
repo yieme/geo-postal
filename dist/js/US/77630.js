@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77630"]={"code":"77630","region":"Texas","city":"Orange","latitude":30.09299,"longitude":-93.73655}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65270"]={"code":"65270","region":"Occitanie","city":"Saint-Pe-de-Bigorre","latitude":43.11667,"longitude":-0.15}}(window,'GeoPostal','FR');

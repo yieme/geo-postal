@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28531"]={"code":"28531","region":"NC","city":"Harkers Island","latitude":34.6966,"longitude":-76.5583}}(window,'GeoPostal','US');

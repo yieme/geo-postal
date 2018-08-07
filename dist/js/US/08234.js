@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08234"]={"code":"08234","region":"New Jersey","city":"Egg Harbor","latitude":39.415799,"longitude":-74.575229}}(window,'GeoPostal','US');

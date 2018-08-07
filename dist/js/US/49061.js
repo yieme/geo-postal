@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49061"]={"code":"49061","region":"MI","city":"Jones","latitude":41.9129,"longitude":-85.8341}}(window,'GeoPostal','US');

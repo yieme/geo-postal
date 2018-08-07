@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54111"]={"code":"54111","region":"Wisconsin","city":"Cecil","latitude":44.811143,"longitude":-88.451028}}(window,'GeoPostal','US');

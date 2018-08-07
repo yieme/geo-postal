@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44410"]={"code":"44410","region":"Narayani","city":"Gaur","latitude":26.76667,"longitude":85.26667}}(window,'GeoPostal','NP');

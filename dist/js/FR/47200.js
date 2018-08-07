@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47200"]={"code":"47200","region":"Nouvelle-Aquitaine","city":"Beaupuy","latitude":44.53549,"longitude":0.149}}(window,'GeoPostal','FR');

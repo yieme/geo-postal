@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN36 4HW"]={"code":"DN36 4HW","region":"England","city":"Humberston","latitude":53.53036,"longitude":-0.02465}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 41"]={"code":"696 41","region":"Jihomoravsky kraj","city":"Vlkos","latitude":48.9896,"longitude":17.16356}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1261"]={"code":"1261","region":"Noord-Holland","city":"Blaricum","latitude":52.2725,"longitude":5.24167}}(window,'GeoPostal','NL');

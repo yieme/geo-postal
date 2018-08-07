@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75778"]={"code":"75778","region":"Texas","city":"Murchison","latitude":32.27833,"longitude":-95.75528}}(window,'GeoPostal','US');

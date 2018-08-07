@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["753 62"]={"code":"753 62","region":"Olomoucky kraj","city":"Potstat","latitude":49.63693,"longitude":17.65174}}(window,'GeoPostal','CZ');

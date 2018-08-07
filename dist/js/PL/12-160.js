@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12-160"]={"code":"12-160","region":"Warminsko-mazurskie","city":"Wielbark","latitude":53.39858,"longitude":20.94629}}(window,'GeoPostal','PL');

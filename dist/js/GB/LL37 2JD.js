@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL37 2JD"]={"code":"LL37 2JD","region":"Wales","city":"Llwyngwril","latitude":52.66765,"longitude":-4.08417}}(window,'GeoPostal','GB');

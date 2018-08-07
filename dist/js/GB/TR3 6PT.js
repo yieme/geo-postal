@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR3 6PT"]={"code":"TR3 6PT","region":"England","city":"Devoran","latitude":50.21142,"longitude":-5.09271}}(window,'GeoPostal','GB');

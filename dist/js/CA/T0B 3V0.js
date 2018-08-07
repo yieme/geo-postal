@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 3V0"]={"code":"T0B 3V0","region":"Alberta","city":"Cordel","latitude":52.45014,"longitude":-112.15181}}(window,'GeoPostal','CA');

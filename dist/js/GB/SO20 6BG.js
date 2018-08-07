@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO20 6BG"]={"code":"SO20 6BG","region":"England","city":"Chilbolton","latitude":51.15932,"longitude":-1.43642}}(window,'GeoPostal','GB');

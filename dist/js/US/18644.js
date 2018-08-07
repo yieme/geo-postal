@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18644"]={"code":"18644","region":"Pennsylvania","city":"West Wyoming","latitude":41.3301,"longitude":-75.85368}}(window,'GeoPostal','US');

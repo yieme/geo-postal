@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75860"]={"code":"75860","region":"Texas","city":"Teague","latitude":31.62711,"longitude":-96.28386}}(window,'GeoPostal','US');

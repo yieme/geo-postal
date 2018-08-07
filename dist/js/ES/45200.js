@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45200"]={"code":"45200","region":"Castilla-La Mancha","city":"Illescas","latitude":40.12213,"longitude":-3.84704}}(window,'GeoPostal','ES');

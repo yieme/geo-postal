@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38077"]={"code":"38077","region":"TN","city":"Wynnburg","latitude":36.3281,"longitude":-89.4744}}(window,'GeoPostal','US');

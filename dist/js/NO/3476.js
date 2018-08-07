@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3476"]={"code":"3476","region":"Buskerud","city":"Saetre","latitude":59.68167,"longitude":10.52472}}(window,'GeoPostal','NO');

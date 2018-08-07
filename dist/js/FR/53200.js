@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53200"]={"code":"53200","region":"Pays-de-la-Loire","city":"Saint-Fort","latitude":47.79928,"longitude":-0.72095}}(window,'GeoPostal','FR');

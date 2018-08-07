@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15225"]={"code":"15225","region":"Macvanski okrug","city":"Vladimirci","latitude":44.61472,"longitude":19.78528}}(window,'GeoPostal','RS');

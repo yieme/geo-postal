@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56223"]={"code":"56223","region":"Minnesota","city":"Clarkfield","latitude":44.79111,"longitude":-95.80333}}(window,'GeoPostal','US');

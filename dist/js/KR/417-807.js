@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417-807"]={"code":"417-807","region":"Incheon-gwangyeoksi","city":"Kanghwa","latitude":37.74722,"longitude":126.48556}}(window,'GeoPostal','KR');

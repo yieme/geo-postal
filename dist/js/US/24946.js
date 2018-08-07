@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24946"]={"code":"24946","region":"West Virginia","city":"Hillsboro","latitude":38.13282,"longitude":-80.24382}}(window,'GeoPostal','US');

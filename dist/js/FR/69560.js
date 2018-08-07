@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69560"]={"code":"69560","region":"Auvergne-Rhone-Alpes","city":"Saint-Romain-en-Gal","latitude":45.53159,"longitude":4.86074}}(window,'GeoPostal','FR');

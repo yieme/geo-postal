@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["820330"]={"code":"820330","region":"Tulcea","city":"Tulcea","latitude":45.16667,"longitude":28.8}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97001"]={"code":"97001","region":"Oregon","city":"Antelope","latitude":44.8767,"longitude":-120.70932}}(window,'GeoPostal','US');

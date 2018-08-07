@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37102"]={"code":"37102","region":"Poltavska oblast","city":"Chornukhy","latitude":50.26732,"longitude":32.94196}}(window,'GeoPostal','UA');

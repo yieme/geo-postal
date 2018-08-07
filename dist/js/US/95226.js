@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95226"]={"code":"95226","region":"California","city":"Toyon","latitude":38.204816,"longitude":-120.765405}}(window,'GeoPostal','US');

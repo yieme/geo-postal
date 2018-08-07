@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24619"]={"code":"24619","region":"VA","city":"Horsepen","latitude":37.1355,"longitude":-81.5634}}(window,'GeoPostal','US');

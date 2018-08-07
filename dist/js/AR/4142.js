@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4142"]={"code":"4142","region":"Tucuman","city":"Monteros","latitude":-27.16742,"longitude":-65.49832}}(window,'GeoPostal','AR');

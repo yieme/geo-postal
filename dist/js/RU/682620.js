@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682620"]={"code":"682620","region":"Khabarovskiy kray","city":"Litovko","latitude":49.23611,"longitude":135.17417}}(window,'GeoPostal','RU');

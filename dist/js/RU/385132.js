@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385132"]={"code":"385132","region":"Adygeya, Respublika","city":"Enem","latitude":44.9271,"longitude":38.90852}}(window,'GeoPostal','RU');

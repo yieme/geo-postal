@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA7 1DR"]={"code":"KA7 1DR","region":"England","city":"Wellington","latitude":50.98005,"longitude":-3.23067}}(window,'GeoPostal','GB');

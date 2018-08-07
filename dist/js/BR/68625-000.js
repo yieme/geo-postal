@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68625-000"]={"code":"68625-000","region":"Para","city":"Paragominas","latitude":-2.96667,"longitude":-47.48333}}(window,'GeoPostal','BR');

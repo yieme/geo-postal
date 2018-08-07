@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89449"]={"code":"89449","region":"Nevada","city":"Stateline","latitude":38.9625,"longitude":-119.9388}}(window,'GeoPostal','US');

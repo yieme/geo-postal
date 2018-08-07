@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98612"]={"code":"98612","region":"Washington","city":"Cathlamet","latitude":46.21092,"longitude":-123.33504}}(window,'GeoPostal','US');

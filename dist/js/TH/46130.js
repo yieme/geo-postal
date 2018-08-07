@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46130"]={"code":"46130","region":"Kalasin","city":"Khong Chai","latitude":16.26025,"longitude":103.45828}}(window,'GeoPostal','TH');

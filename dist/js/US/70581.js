@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70581"]={"code":"70581","region":"Louisiana","city":"Roanoke","latitude":30.343104,"longitude":-92.735936}}(window,'GeoPostal','US');

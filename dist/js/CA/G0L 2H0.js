@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0L 2H0"]={"code":"G0L 2H0","region":"Quebec","city":"Saint-Andre","latitude":47.67833,"longitude":-69.72229}}(window,'GeoPostal','CA');

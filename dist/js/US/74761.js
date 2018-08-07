@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74761"]={"code":"74761","region":"OK","city":"Swink","latitude":34.0179,"longitude":-95.2022}}(window,'GeoPostal','US');

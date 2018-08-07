@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46700"]={"code":"46700","region":"Occitanie","city":"Duravel","latitude":44.5172,"longitude":1.0806}}(window,'GeoPostal','FR');

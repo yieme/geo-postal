@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33052"]={"code":"33052","region":"Friuli-Venezia Giulia","city":"Cervignano del Friuli","latitude":45.82111,"longitude":13.33806}}(window,'GeoPostal','IT');

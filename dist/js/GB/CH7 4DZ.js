@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH7 4DZ"]={"code":"CH7 4DZ","region":"Wales","city":"Nerquis","latitude":53.13333,"longitude":-3.15}}(window,'GeoPostal','GB');

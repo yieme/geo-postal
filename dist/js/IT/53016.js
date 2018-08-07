@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53016"]={"code":"53016","region":"Toscana","city":"Murlo","latitude":43.16114,"longitude":11.38794}}(window,'GeoPostal','IT');

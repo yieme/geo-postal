@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88518"]={"code":"88518","region":"Baden-Wurttemberg","city":"Herbertingen","latitude":48.06667,"longitude":9.43333}}(window,'GeoPostal','DE');

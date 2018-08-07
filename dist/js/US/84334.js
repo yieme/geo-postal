@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84334"]={"code":"84334","region":"UT","city":"Riverside","latitude":41.7868,"longitude":-112.1467}}(window,'GeoPostal','US');

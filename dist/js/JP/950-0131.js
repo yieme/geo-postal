@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["950-0131"]={"code":"950-0131","region":"Niigata","city":"Kameda","latitude":37.86667,"longitude":139.11667}}(window,'GeoPostal','JP');

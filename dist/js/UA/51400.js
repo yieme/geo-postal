@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51400"]={"code":"51400","region":"Dnipropetrovska oblast","city":"Pavlohrad","latitude":48.53341,"longitude":35.8705}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74039"]={"code":"74039","region":"Oklahoma","city":"Kellyville","latitude":35.9437,"longitude":-96.21361}}(window,'GeoPostal','US');

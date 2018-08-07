@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25997"]={"code":"25997","region":"Schleswig-Holstein","city":"Hornum","latitude":54.75732,"longitude":8.28833}}(window,'GeoPostal','DE');

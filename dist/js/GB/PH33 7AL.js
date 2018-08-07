@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH33 7AL"]={"code":"PH33 7AL","region":"Scotland","city":"Achaphubuil","latitude":56.8346,"longitude":-5.13439}}(window,'GeoPostal','GB');

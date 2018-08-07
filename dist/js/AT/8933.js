@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8933"]={"code":"8933","region":"Steiermark","city":"Sankt Gallen","latitude":47.68333,"longitude":14.6}}(window,'GeoPostal','AT');

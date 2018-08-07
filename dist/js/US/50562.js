@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50562"]={"code":"50562","region":"IA","city":"Mallard","latitude":42.9417,"longitude":-94.6746}}(window,'GeoPostal','US');

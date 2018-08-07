@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49916"]={"code":"49916","region":"Michigan","city":"Chassell","latitude":47.02833,"longitude":-88.525}}(window,'GeoPostal','US');

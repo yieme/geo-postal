@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["566-805"]={"code":"566-805","region":"Jeollabuk-do","city":"Imsil","latitude":35.61306,"longitude":127.27944}}(window,'GeoPostal','KR');

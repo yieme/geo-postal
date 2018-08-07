@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26032"]={"code":"26032","region":"WV","city":"Bethany","latitude":40.2107,"longitude":-80.5503}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["751 31"]={"code":"751 31","region":"Olomoucky kraj","city":"Lipnik nad Becvou","latitude":49.52721,"longitude":17.58594}}(window,'GeoPostal','CZ');

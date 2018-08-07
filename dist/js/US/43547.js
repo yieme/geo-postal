@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43547"]={"code":"43547","region":"OH","city":"Neapolis","latitude":41.492,"longitude":-83.8706}}(window,'GeoPostal','US');

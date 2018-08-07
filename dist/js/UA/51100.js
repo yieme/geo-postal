@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51100"]={"code":"51100","region":"Dnipropetrovska oblast","city":"Mahdalynivka","latitude":48.92102,"longitude":34.91558}}(window,'GeoPostal','UA');

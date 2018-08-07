@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59322"]={"code":"59322","region":"MT","city":"Cohagen","latitude":47.1263,"longitude":-106.4981}}(window,'GeoPostal','US');

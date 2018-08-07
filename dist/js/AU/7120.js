@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7120"]={"code":"7120","region":"Tasmania","city":"Pawtella","latitude":-42.28333,"longitude":147.5}}(window,'GeoPostal','AU');

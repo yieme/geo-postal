@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67052"]={"code":"67052","region":"KS","city":"Goddard","latitude":37.6597,"longitude":-97.5753}}(window,'GeoPostal','US');

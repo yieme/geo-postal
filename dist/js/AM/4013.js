@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4013"]={"code":"4013","region":"Tavus","city":"Sarigyugh","latitude":41.03531,"longitude":45.14486}}(window,'GeoPostal','AM');

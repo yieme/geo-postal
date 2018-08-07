@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35850"]={"code":"35850","region":"Bretagne","city":"Geveze","latitude":48.21933,"longitude":-1.78952}}(window,'GeoPostal','FR');

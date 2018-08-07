@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07430"]={"code":"07430","region":"New Jersey","city":"Mahwah","latitude":41.075278,"longitude":-74.157296}}(window,'GeoPostal','US');

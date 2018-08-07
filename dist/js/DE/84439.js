@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84439"]={"code":"84439","region":"Bayern","city":"Hofstarring","latitude":48.37723,"longitude":12.0974}}(window,'GeoPostal','DE');

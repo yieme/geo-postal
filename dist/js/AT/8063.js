@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8063"]={"code":"8063","region":"Steiermark","city":"Eggersdorf bei Graz","latitude":47.11667,"longitude":15.58333}}(window,'GeoPostal','AT');

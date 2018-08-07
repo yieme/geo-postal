@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY4 5RE"]={"code":"SY4 5RE","region":"England","city":"Loppington","latitude":52.85888,"longitude":-2.78748}}(window,'GeoPostal','GB');

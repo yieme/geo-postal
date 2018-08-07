@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52032"]={"code":"52032","region":"Toscana","city":"Badia Tedalda","latitude":43.70726,"longitude":12.18644}}(window,'GeoPostal','IT');

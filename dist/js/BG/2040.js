@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2040"]={"code":"2040","region":"Sofia","city":"Dolna Banya","latitude":42.3,"longitude":23.76667}}(window,'GeoPostal','BG');

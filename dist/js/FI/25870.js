@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25870"]={"code":"25870","region":"Varsinais-Suomi","city":"Dragsfjard","latitude":60.06667,"longitude":22.48333}}(window,'GeoPostal','FI');

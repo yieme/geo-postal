@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93235"]={"code":"93235","region":"CA","city":"Ivanhoe","latitude":36.3856,"longitude":-119.2189}}(window,'GeoPostal','US');

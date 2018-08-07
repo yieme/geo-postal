@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80612"]={"code":"80612","region":"CO","city":"Carr","latitude":40.8666,"longitude":-104.8859}}(window,'GeoPostal','US');

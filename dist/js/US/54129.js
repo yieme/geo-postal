@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54129"]={"code":"54129","region":"WI","city":"Hilbert","latitude":44.1271,"longitude":-88.207}}(window,'GeoPostal','US');

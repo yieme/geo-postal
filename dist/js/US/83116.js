@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83116"]={"code":"83116","region":"Wyoming","city":"Diamondville","latitude":41.77528,"longitude":-110.53806}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU11 5QE"]={"code":"HU11 5QE","region":"England","city":"Sigglesthorne","latitude":53.89833,"longitude":-0.24378}}(window,'GeoPostal','GB');

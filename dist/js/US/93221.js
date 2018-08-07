@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93221"]={"code":"93221","region":"CA","city":"Exeter","latitude":36.3041,"longitude":-119.1293}}(window,'GeoPostal','US');

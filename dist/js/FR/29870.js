@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29870"]={"code":"29870","region":"Bretagne","city":"Landeda","latitude":48.58733,"longitude":-4.571}}(window,'GeoPostal','FR');

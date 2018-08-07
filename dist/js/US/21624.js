@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21624"]={"code":"21624","region":"Maryland","city":"Saint Michaels","latitude":38.78512,"longitude":-76.22439}}(window,'GeoPostal','US');

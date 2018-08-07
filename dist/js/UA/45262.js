@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45262"]={"code":"45262","region":"Volynska oblast","city":"Olyka","latitude":50.71855,"longitude":25.81251}}(window,'GeoPostal','UA');

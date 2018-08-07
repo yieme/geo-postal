@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15500-000"]={"code":"15500-000","region":"Sao Paulo","city":"Votuporanga","latitude":-20.42278,"longitude":-49.97278}}(window,'GeoPostal','BR');

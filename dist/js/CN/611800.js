@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["611800"]={"code":"611800","region":"Sichuan","city":"Dujiangyan","latitude":31.001,"longitude":103.618}}(window,'GeoPostal','CN');

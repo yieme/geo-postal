@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53151"]={"code":"53151","region":"Wisconsin","city":"New Berlin","latitude":42.97356,"longitude":-88.0995}}(window,'GeoPostal','US');

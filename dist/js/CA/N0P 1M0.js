@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0P 1M0"]={"code":"N0P 1M0","region":"Ontario","city":"Dresden","latitude":42.58338,"longitude":-82.1831}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74902"]={"code":"74902","region":"Oklahoma","city":"Pocola","latitude":35.23121,"longitude":-94.478}}(window,'GeoPostal','US');

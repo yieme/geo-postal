@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12086"]={"code":"12086","region":"NY","city":"Hagaman","latitude":42.9695,"longitude":-74.1556}}(window,'GeoPostal','US');

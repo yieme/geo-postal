@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["959-1324"]={"code":"959-1324","region":"Niigata","city":"Kamo","latitude":37.667,"longitude":139.033}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["160022"]={"code":"160022","region":"Chandigarh","city":"Chandigarh","latitude":30.7343,"longitude":76.7933}}(window,'GeoPostal','IN');

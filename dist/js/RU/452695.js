@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452695"]={"code":"452695","region":"Bashkortostan, Respublika","city":"Amzya","latitude":56.23542,"longitude":54.38685}}(window,'GeoPostal','RU');

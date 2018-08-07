@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11530"]={"code":"11530","region":"New York","city":"Garden City","latitude":40.72677,"longitude":-73.6343}}(window,'GeoPostal','US');

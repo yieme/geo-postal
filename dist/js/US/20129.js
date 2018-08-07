@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20129"]={"code":"20129","region":"VA","city":"Paeonian Springs","latitude":39.1603,"longitude":-77.6097}}(window,'GeoPostal','US');

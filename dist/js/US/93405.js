@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93405"]={"code":"93405","region":"California","city":"San Luis Obispo","latitude":35.275193,"longitude":-120.690487}}(window,'GeoPostal','US');

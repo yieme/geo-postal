@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94474"]={"code":"94474","region":"Luhanska oblast","city":"Semeykino","latitude":48.32643,"longitude":39.53366}}(window,'GeoPostal','UA');

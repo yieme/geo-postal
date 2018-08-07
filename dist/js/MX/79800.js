@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79800"]={"code":"79800","region":"San Luis Potosi","city":"General Pedro Antonio Santos","latitude":21.6,"longitude":-98.96667}}(window,'GeoPostal','MX');

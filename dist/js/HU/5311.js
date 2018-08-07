@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5311"]={"code":"5311","region":"Jasz-Nagykun-Szolnok","city":"Kisujszallas","latitude":47.21667,"longitude":20.76667}}(window,'GeoPostal','HU');

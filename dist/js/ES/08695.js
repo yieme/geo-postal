@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08695"]={"code":"08695","region":"Catalunya","city":"Baga","latitude":42.25289,"longitude":1.86098}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42776"]={"code":"42776","region":"KY","city":"Sonora","latitude":37.5221,"longitude":-85.923}}(window,'GeoPostal','US');

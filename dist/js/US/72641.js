@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72641"]={"code":"72641","region":"Arkansas","city":"Jasper","latitude":36.00813,"longitude":-93.18657}}(window,'GeoPostal','US');

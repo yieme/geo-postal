@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87028"]={"code":"87028","region":"Calabria","city":"Praia a Mare","latitude":39.9009,"longitude":15.77928}}(window,'GeoPostal','IT');

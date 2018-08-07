@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1358"]={"code":"1358","region":"Log-Dragomer","city":"Dragomer","latitude":46.01667,"longitude":14.38333}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5650"]={"code":"5650","region":"South Australia","city":"Kopi","latitude":-33.36667,"longitude":135.65}}(window,'GeoPostal','AU');

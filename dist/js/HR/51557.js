@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51557"]={"code":"51557","region":"Primorsko-goranska zupanija","city":"Cres","latitude":44.96092,"longitude":14.41246}}(window,'GeoPostal','HR');

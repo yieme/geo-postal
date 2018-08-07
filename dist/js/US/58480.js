@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58480"]={"code":"58480","region":"North Dakota","city":"Sanborn","latitude":46.892527,"longitude":-98.248183}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68020"]={"code":"68020","region":"Nebraska","city":"Decatur","latitude":42.006326,"longitude":-96.249395}}(window,'GeoPostal','US');

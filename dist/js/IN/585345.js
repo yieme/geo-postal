@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["585345"]={"code":"585345","region":"Telangana","city":"Sirsilla","latitude":18.38333,"longitude":78.83333}}(window,'GeoPostal','IN');

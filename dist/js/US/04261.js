@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04261"]={"code":"04261","region":"Maine","city":"Newry","latitude":44.50306,"longitude":-70.83528}}(window,'GeoPostal','US');

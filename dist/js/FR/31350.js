@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31350"]={"code":"31350","region":"Occitanie","city":"Boulogne-sur-Gesse","latitude":43.3,"longitude":0.65}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34218"]={"code":"34218","region":"FL","city":"Holmes Beach","latitude":27.4995,"longitude":-82.7099}}(window,'GeoPostal','US');

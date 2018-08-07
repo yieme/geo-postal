@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27534"]={"code":"27534","region":"North Carolina","city":"Goldsboro","latitude":35.371806,"longitude":-77.928231}}(window,'GeoPostal','US');

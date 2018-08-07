@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE28 2QR"]={"code":"PE28 2QR","region":"England","city":"Wistow","latitude":52.412,"longitude":-0.12197}}(window,'GeoPostal','GB');

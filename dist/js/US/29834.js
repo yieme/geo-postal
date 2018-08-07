@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29834"]={"code":"29834","region":"SC","city":"Langley","latitude":33.5179,"longitude":-81.844}}(window,'GeoPostal','US');

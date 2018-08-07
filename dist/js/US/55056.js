@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55056"]={"code":"55056","region":"Minnesota","city":"North Branch","latitude":45.50448,"longitude":-92.8779}}(window,'GeoPostal','US');

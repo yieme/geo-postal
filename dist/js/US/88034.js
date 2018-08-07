@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88034"]={"code":"88034","region":"NM","city":"Faywood","latitude":32.5642,"longitude":-108.0242}}(window,'GeoPostal','US');

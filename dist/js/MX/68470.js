@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68470"]={"code":"68470","region":"Oaxaca","city":"San Lucas Ojitlan","latitude":18.06667,"longitude":-96.38333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE30 1HJ"]={"code":"PE30 1HJ","region":"England","city":"King's Lynn","latitude":52.75172,"longitude":0.39516}}(window,'GeoPostal','GB');

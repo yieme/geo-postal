@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91011"]={"code":"91011","region":"California","city":"La Canada Flintridge","latitude":34.20978,"longitude":-118.20186}}(window,'GeoPostal','US');

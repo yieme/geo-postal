@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32250"]={"code":"32250","region":"Occitanie","city":"Montreal","latitude":43.95016,"longitude":0.20358}}(window,'GeoPostal','FR');

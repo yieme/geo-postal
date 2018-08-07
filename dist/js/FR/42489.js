@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42489"]={"code":"42489","region":"Auvergne-Rhone-Alpes","city":"La Fouillouse","latitude":45.502,"longitude":4.31213}}(window,'GeoPostal','FR');

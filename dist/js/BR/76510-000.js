@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76510-000"]={"code":"76510-000","region":"Goias","city":"Crixas","latitude":-14.54889,"longitude":-49.96917}}(window,'GeoPostal','BR');

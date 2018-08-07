@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54486"]={"code":"54486","region":"Rheinland-Pfalz","city":"Andel","latitude":49.90824,"longitude":7.04161}}(window,'GeoPostal','DE');

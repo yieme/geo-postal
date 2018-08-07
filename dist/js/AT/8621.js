@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8621"]={"code":"8621","region":"Steiermark","city":"Sankt Ilgen","latitude":47.55,"longitude":15.16667}}(window,'GeoPostal','AT');

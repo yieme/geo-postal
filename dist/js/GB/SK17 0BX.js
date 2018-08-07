@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK17 0BX"]={"code":"SK17 0BX","region":"England","city":"Earl Sterndale","latitude":53.2,"longitude":-1.86667}}(window,'GeoPostal','GB');

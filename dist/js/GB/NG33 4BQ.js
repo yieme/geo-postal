@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG33 4BQ"]={"code":"NG33 4BQ","region":"England","city":"Ropsley","latitude":52.89699,"longitude":-0.52563}}(window,'GeoPostal','GB');

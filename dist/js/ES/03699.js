@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03699"]={"code":"03699","region":"Valenciana, Comunidad","city":"San Vicent del Raspeig","latitude":38.3964,"longitude":-0.5255}}(window,'GeoPostal','ES');

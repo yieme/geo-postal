@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82370"]={"code":"82370","region":"Occitanie","city":"Nohic","latitude":43.8897,"longitude":1.43741}}(window,'GeoPostal','FR');

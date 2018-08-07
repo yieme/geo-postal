@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["712502"]={"code":"712502","region":"West Bengal","city":"Madanpur","latitude":23.01667,"longitude":88.48333}}(window,'GeoPostal','IN');

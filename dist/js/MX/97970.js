@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97970"]={"code":"97970","region":"Yucatan","city":"Tekax de Alvaro Obregon","latitude":20.2,"longitude":-89.28333}}(window,'GeoPostal','MX');

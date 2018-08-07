@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35160"]={"code":"35160","region":"Yasothon","city":"Kho Wang","latitude":15.36998,"longitude":104.35231}}(window,'GeoPostal','TH');

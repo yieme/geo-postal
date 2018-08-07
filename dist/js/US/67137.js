@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67137"]={"code":"67137","region":"Kansas","city":"Severy","latitude":37.6225,"longitude":-96.2275}}(window,'GeoPostal','US');

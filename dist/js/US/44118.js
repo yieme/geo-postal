@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44118"]={"code":"44118","region":"Ohio","city":"Shaker Heights","latitude":41.47394,"longitude":-81.53707}}(window,'GeoPostal','US');

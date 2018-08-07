@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60413"]={"code":"60413","region":"Chernivetska oblast","city":"Voloka","latitude":48.19225,"longitude":25.93074}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678670"]={"code":"678670","region":"Saha, Respublika","city":"Churapcha","latitude":62.0025,"longitude":132.4325}}(window,'GeoPostal','RU');

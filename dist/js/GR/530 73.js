@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["530 73"]={"code":"530 73","region":"Dytiki Makedonia","city":"Iroikon","latitude":40.58333,"longitude":21.48333}}(window,'GeoPostal','GR');

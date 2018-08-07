@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["135301"]={"code":"135301","region":"Jilin","city":"Liuhe","latitude":42.24007,"longitude":125.71717}}(window,'GeoPostal','CN');

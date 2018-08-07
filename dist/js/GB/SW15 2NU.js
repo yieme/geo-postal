@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW15 2NU"]={"code":"SW15 2NU","region":"England","city":"Putney","latitude":51.46176,"longitude":-0.21681}}(window,'GeoPostal','GB');

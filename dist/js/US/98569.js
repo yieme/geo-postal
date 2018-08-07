@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98569"]={"code":"98569","region":"Washington","city":"Ocean Shores","latitude":46.9737,"longitude":-124.15629}}(window,'GeoPostal','US');

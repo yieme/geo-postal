@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67665"]={"code":"67665","region":"Kansas","city":"Russell","latitude":38.89529,"longitude":-98.85981}}(window,'GeoPostal','US');

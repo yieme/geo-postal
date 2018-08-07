@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-280"]={"code":"44-280","region":"Slaskie","city":"Rydultowy","latitude":50.05857,"longitude":18.41703}}(window,'GeoPostal','PL');

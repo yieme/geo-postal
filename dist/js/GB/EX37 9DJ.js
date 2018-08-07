@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX37 9DJ"]={"code":"EX37 9DJ","region":"England","city":"Satterleigh","latitude":50.98333,"longitude":-3.9}}(window,'GeoPostal','GB');

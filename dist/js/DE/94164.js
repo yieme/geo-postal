@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94164"]={"code":"94164","region":"Bayern","city":"Schauberg","latitude":48.66785,"longitude":13.70984}}(window,'GeoPostal','DE');

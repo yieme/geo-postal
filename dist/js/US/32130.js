@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32130"]={"code":"32130","region":"FL","city":"De Leon Springs","latitude":29.1166,"longitude":-81.3488}}(window,'GeoPostal','US');

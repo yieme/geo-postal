@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04093"]={"code":"04093","region":"Maine","city":"Buxton","latitude":43.63786,"longitude":-70.51894}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12158"]={"code":"12158","region":"New York","city":"Selkirk","latitude":42.53361,"longitude":-73.80611}}(window,'GeoPostal','US');

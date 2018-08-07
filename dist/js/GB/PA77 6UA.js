@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA77 6UA"]={"code":"PA77 6UA","region":"Scotland","city":"Balemartine","latitude":56.46818,"longitude":-6.89615}}(window,'GeoPostal','GB');

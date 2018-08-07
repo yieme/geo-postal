@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99767"]={"code":"99767","region":"Alaska","city":"Rampart","latitude":65.491537,"longitude":-149.856563}}(window,'GeoPostal','US');

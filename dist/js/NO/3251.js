@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3251"]={"code":"3251","region":"Vestfold","city":"Larvik","latitude":59.05328,"longitude":10.03517}}(window,'GeoPostal','NO');

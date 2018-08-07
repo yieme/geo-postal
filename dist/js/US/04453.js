@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04453"]={"code":"04453","region":"ME","city":"Lagrange","latitude":45.1789,"longitude":-68.8345}}(window,'GeoPostal','US');

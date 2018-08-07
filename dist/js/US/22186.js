@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22186"]={"code":"22186","region":"Virginia","city":"Warrenton","latitude":38.7259,"longitude":-77.7689}}(window,'GeoPostal','US');

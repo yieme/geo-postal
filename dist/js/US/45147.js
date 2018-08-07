@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45147"]={"code":"45147","region":"Ohio","city":"Miamiville","latitude":39.214153,"longitude":-84.300025}}(window,'GeoPostal','US');

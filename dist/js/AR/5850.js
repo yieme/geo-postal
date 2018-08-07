@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5850"]={"code":"5850","region":"Cordoba","city":"Rio Tercero","latitude":-32.17301,"longitude":-64.11406}}(window,'GeoPostal','AR');

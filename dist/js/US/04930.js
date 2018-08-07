@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04930"]={"code":"04930","region":"Maine","city":"Dexter","latitude":45.02395,"longitude":-69.28977}}(window,'GeoPostal','US');

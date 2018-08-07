@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10400"]={"code":"10400","region":"Western Province","city":"Moratuwa","latitude":6.773,"longitude":79.8816}}(window,'GeoPostal','LK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54664"]={"code":"54664","region":"Wisconsin","city":"Viola","latitude":43.445542,"longitude":-90.675451}}(window,'GeoPostal','US');

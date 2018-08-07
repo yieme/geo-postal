@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73008"]={"code":"73008","region":"Oklahoma","city":"Bethany","latitude":35.505492,"longitude":-97.641665}}(window,'GeoPostal','US');

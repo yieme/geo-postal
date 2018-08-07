@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16673"]={"code":"16673","region":"Pennsylvania","city":"Roaring Spring","latitude":40.334586,"longitude":-78.397127}}(window,'GeoPostal','US');

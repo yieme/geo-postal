@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64474"]={"code":"64474","region":"Missouri","city":"Osborn","latitude":39.74889,"longitude":-94.35639}}(window,'GeoPostal','US');

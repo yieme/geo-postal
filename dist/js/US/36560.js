@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36560"]={"code":"36560","region":"Alabama","city":"Mount Vernon","latitude":31.06938,"longitude":-88.05312}}(window,'GeoPostal','US');

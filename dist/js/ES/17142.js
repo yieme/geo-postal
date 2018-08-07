@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17142"]={"code":"17142","region":"Catalunya","city":"Verges","latitude":42.06283,"longitude":3.04579}}(window,'GeoPostal','ES');

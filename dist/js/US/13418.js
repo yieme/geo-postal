@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13418"]={"code":"13418","region":"NY","city":"North Brookfield","latitude":42.8501,"longitude":-75.3815}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44080"]={"code":"44080","region":"OH","city":"Parkman","latitude":41.3706,"longitude":-81.0651}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68620"]={"code":"68620","region":"Nebraska","city":"Albion","latitude":41.69084,"longitude":-98.00367}}(window,'GeoPostal','US');

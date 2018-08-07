@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44318"]={"code":"44318","region":"Sisacko-moslavacka zupanija","city":"Voloder","latitude":45.54806,"longitude":16.67889}}(window,'GeoPostal','HR');

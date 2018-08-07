@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73047"]={"code":"73047","region":"Oklahoma","city":"Hinton","latitude":35.473092,"longitude":-98.355686}}(window,'GeoPostal','US');

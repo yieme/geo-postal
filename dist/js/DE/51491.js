@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51491"]={"code":"51491","region":"Nordrhein-Westfalen","city":"Wasser","latitude":50.93041,"longitude":7.29748}}(window,'GeoPostal','DE');

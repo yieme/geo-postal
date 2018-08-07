@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58552"]={"code":"58552","region":"North Dakota","city":"Linton","latitude":46.26666,"longitude":-100.23289}}(window,'GeoPostal','US');

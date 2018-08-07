@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38771"]={"code":"38771","region":"Mississippi","city":"Ruleville","latitude":33.72595,"longitude":-90.55148}}(window,'GeoPostal','US');

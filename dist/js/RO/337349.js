@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337349"]={"code":"337349","region":"Brasov","city":"Fogarasch","latitude":45.85,"longitude":24.96667}}(window,'GeoPostal','RO');

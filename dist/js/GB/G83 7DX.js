@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G83 7DX"]={"code":"G83 7DX","region":"Scotland","city":"Inverarnan","latitude":56.32847,"longitude":-4.72209}}(window,'GeoPostal','GB');

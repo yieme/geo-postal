@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62618"]={"code":"62618","region":"IL","city":"Beardstown","latitude":40.0044,"longitude":-90.4229}}(window,'GeoPostal','US');

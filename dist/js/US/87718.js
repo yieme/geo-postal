@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87718"]={"code":"87718","region":"NM","city":"Eagle Nest","latitude":36.5326,"longitude":-105.2756}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75977"]={"code":"75977","region":"TX","city":"Wiergate","latitude":31.0414,"longitude":-93.8039}}(window,'GeoPostal','US');

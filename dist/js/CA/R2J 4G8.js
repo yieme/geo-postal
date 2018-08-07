@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R2J 4G8"]={"code":"R2J 4G8","region":"Manitoba","city":"Pine Ridge","latitude":50.0044,"longitude":-96.84142}}(window,'GeoPostal','CA');

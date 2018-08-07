@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24251"]={"code":"24251","region":"Aceh","city":"Bireun","latitude":5.203,"longitude":96.7009}}(window,'GeoPostal','ID');

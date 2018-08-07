@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81413"]={"code":"81413","region":"CO","city":"Cedaredge","latitude":38.9119,"longitude":-107.9268}}(window,'GeoPostal','US');

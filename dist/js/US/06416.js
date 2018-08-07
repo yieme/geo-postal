@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06416"]={"code":"06416","region":"Connecticut","city":"Cromwell","latitude":41.610496,"longitude":-72.665395}}(window,'GeoPostal','US');

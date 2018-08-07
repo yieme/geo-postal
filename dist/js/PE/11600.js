@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11600"]={"code":"11600","region":"Ica","city":"Pisco","latitude":-13.7,"longitude":-76.21667}}(window,'GeoPostal','PE');

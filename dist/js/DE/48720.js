@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48720"]={"code":"48720","region":"Nordrhein-Westfalen","city":"Bleck","latitude":52.00936,"longitude":7.15425}}(window,'GeoPostal','DE');

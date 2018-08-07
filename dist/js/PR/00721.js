@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00721"]={"code":"00721","region":"Luquillo","city":"Playa Fortuna","latitude":18.37967,"longitude":-65.74516}}(window,'GeoPostal','PR');

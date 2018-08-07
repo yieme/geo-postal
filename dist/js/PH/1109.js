@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1109"]={"code":"1109","region":"Bataan","city":"San Benito","latitude":14.85083,"longitude":120.4275}}(window,'GeoPostal','PH');

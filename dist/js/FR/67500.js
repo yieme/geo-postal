@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67500"]={"code":"67500","region":"Grand-Est","city":"Weitbruch","latitude":48.75455,"longitude":7.77935}}(window,'GeoPostal','FR');

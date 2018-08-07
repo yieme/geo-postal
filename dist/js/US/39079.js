@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39079"]={"code":"39079","region":"MS","city":"Goodman","latitude":32.9892,"longitude":-89.9433}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71800"]={"code":"71800","region":"Negeri Sembilan","city":"Nilai","latitude":2.8033,"longitude":101.7972}}(window,'GeoPostal','MY');

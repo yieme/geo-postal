@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 1Z0"]={"code":"T0C 1Z0","region":"Alberta","city":"Millet","latitude":53.10013,"longitude":-113.4687}}(window,'GeoPostal','CA');

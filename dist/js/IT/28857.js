@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28857"]={"code":"28857","region":"Piemonte","city":"Santa Maria Maggiore","latitude":46.13508,"longitude":8.46232}}(window,'GeoPostal','IT');

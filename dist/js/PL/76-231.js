@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76-231"]={"code":"76-231","region":"Pomorskie","city":"Damnica","latitude":54.50025,"longitude":17.27154}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612737"]={"code":"612737","region":"Kirovskaya oblast'","city":"Chernaya Kholunitsa","latitude":58.85114,"longitude":51.71545}}(window,'GeoPostal','RU');

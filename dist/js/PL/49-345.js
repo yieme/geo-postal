@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49-345"]={"code":"49-345","region":"Opolskie","city":"Skorogoszcz","latitude":50.75916,"longitude":17.68198}}(window,'GeoPostal','PL');

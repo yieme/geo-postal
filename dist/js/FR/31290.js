@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31290"]={"code":"31290","region":"Occitanie","city":"Gardouch","latitude":43.39096,"longitude":1.68313}}(window,'GeoPostal','FR');

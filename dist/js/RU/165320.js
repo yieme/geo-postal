@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["165320"]={"code":"165320","region":"Arkhangel'skaya oblast'","city":"Shipitsyno","latitude":61.28056,"longitude":46.52083}}(window,'GeoPostal','RU');

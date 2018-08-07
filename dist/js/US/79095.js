@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79095"]={"code":"79095","region":"Texas","city":"Wellington","latitude":34.85617,"longitude":-100.21373}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP9 4UR"]={"code":"NP9 4UR","region":"Wales","city":"Newport","latitude":51.58774,"longitude":-2.99835}}(window,'GeoPostal','GB');

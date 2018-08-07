@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04043"]={"code":"04043","region":"Maine","city":"Kennebunk","latitude":43.375413,"longitude":-70.527884}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59920"]={"code":"59920","region":"MT","city":"Kila","latitude":48.0744,"longitude":-114.5104}}(window,'GeoPostal','US');

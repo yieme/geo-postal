@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77990"]={"code":"77990","region":"TX","city":"Tivoli","latitude":28.4587,"longitude":-96.8928}}(window,'GeoPostal','US');

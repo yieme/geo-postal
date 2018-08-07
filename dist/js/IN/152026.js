@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152026"]={"code":"152026","region":"Punjab","city":"Guru Har Sahai","latitude":30.71667,"longitude":74.41667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0P 1C0"]={"code":"T0P 1C0","region":"Alberta","city":"Bitumount","latitude":57.38352,"longitude":-111.63515}}(window,'GeoPostal','CA');

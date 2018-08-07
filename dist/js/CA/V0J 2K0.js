@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 2K0"]={"code":"V0J 2K0","region":"British Columbia","city":"Penny","latitude":53.84994,"longitude":-121.28614}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07747"]={"code":"07747","region":"New Jersey","city":"Matawan","latitude":40.4127,"longitude":-74.25252}}(window,'GeoPostal','US');

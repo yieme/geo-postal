@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08289"]={"code":"08289","region":"Sachsen","city":"Schneeberg","latitude":50.59465,"longitude":12.64139}}(window,'GeoPostal','DE');

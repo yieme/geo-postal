@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61468"]={"code":"61468","region":"IL","city":"Ophiem","latitude":41.2525,"longitude":-90.3876}}(window,'GeoPostal','US');

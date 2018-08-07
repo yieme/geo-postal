@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442300"]={"code":"442300","region":"Penzenskaya oblast'","city":"Sursk","latitude":53.07542,"longitude":45.68461}}(window,'GeoPostal','RU');

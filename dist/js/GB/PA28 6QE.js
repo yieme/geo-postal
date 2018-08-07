@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA28 6QE"]={"code":"PA28 6QE","region":"Scotland","city":"Bellochantuy","latitude":55.53127,"longitude":-5.70212}}(window,'GeoPostal','GB');

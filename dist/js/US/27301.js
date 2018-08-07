@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27301"]={"code":"27301","region":"North Carolina","city":"McLeansville","latitude":36.113363,"longitude":-79.670729}}(window,'GeoPostal','US');

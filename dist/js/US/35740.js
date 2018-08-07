@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35740"]={"code":"35740","region":"Alabama","city":"Bridgeport","latitude":34.94758,"longitude":-85.71442}}(window,'GeoPostal','US');

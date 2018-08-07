@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28690"]={"code":"28690","region":"NC","city":"Valdese","latitude":35.7447,"longitude":-81.567}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94028"]={"code":"94028","region":"California","city":"Portola Valley","latitude":37.380392,"longitude":-122.211196}}(window,'GeoPostal','US');

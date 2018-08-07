@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46100"]={"code":"46100","region":"Occitanie","city":"Figeac","latitude":44.6,"longitude":2.03333}}(window,'GeoPostal','FR');

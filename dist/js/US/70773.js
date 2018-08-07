@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70773"]={"code":"70773","region":"LA","city":"Rougon","latitude":30.6035,"longitude":-91.3813}}(window,'GeoPostal','US');

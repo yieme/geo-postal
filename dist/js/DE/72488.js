@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72488"]={"code":"72488","region":"Baden-Wurttemberg","city":"Sigmaringen","latitude":48.08829,"longitude":9.23033}}(window,'GeoPostal','DE');

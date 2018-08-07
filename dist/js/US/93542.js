@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93542"]={"code":"93542","region":"CA","city":"Little Lake","latitude":35.9366,"longitude":-117.9067}}(window,'GeoPostal','US');

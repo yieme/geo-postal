@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19054"]={"code":"19054","region":"Pennsylvania","city":"Levittown","latitude":40.15511,"longitude":-74.82877}}(window,'GeoPostal','US');

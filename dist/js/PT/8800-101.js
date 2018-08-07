@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8800-101"]={"code":"8800-101","region":"Faro","city":"Luz","latitude":37.09216,"longitude":-7.70433}}(window,'GeoPostal','PT');

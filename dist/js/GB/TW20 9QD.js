@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TW20 9QD"]={"code":"TW20 9QD","region":"England","city":"Egham","latitude":51.43158,"longitude":-0.55239}}(window,'GeoPostal','GB');

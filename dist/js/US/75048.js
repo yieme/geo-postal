@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75048"]={"code":"75048","region":"Texas","city":"Sachse","latitude":32.97623,"longitude":-96.59527}}(window,'GeoPostal','US');

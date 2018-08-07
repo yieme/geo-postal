@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13745"]={"code":"13745","region":"NY","city":"Chenango Bridge","latitude":42.1738,"longitude":-75.8728}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247667"]={"code":"247667","region":"Valcea","city":"Stroesti","latitude":45.08333,"longitude":23.9}}(window,'GeoPostal','RO');

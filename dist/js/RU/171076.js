@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171076"]={"code":"171076","region":"Tverskaya oblast'","city":"Bologoye","latitude":57.8799,"longitude":34.1068}}(window,'GeoPostal','RU');

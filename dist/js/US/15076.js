@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15076"]={"code":"15076","region":"PA","city":"Russellton","latitude":40.6073,"longitude":-79.8347}}(window,'GeoPostal','US');

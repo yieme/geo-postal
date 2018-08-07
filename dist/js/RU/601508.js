@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601508"]={"code":"601508","region":"Vladimirskaya oblast'","city":"Gus'-Khrustal'nyy","latitude":55.61113,"longitude":40.65186}}(window,'GeoPostal','RU');

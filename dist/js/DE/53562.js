@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53562"]={"code":"53562","region":"Rheinland-Pfalz","city":"Heeg","latitude":50.56578,"longitude":7.38195}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37829"]={"code":"37829","region":"TN","city":"Oakdale","latitude":36.01,"longitude":-84.5753}}(window,'GeoPostal','US');

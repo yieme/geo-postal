@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 1B0"]={"code":"R0J 1B0","region":"Manitoba","city":"McCreary","latitude":50.77312,"longitude":-99.493}}(window,'GeoPostal','CA');

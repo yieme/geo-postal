@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["194044"]={"code":"194044","region":"Sankt-Peterburg","city":"Levashovo","latitude":60.10369,"longitude":30.20683}}(window,'GeoPostal','RU');

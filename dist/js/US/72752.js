@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72752"]={"code":"72752","region":"AR","city":"Pettigrew","latitude":35.8346,"longitude":-93.6181}}(window,'GeoPostal','US');

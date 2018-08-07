@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0220"]={"code":"0220","region":"Aragacotn","city":"Voskevaz","latitude":40.27678,"longitude":44.29509}}(window,'GeoPostal','AM');

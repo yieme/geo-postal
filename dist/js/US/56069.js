@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56069"]={"code":"56069","region":"MN","city":"Montgomery","latitude":44.4356,"longitude":-93.581}}(window,'GeoPostal','US');

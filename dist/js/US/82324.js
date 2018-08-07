@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82324"]={"code":"82324","region":"Wyoming","city":"Elk Mountain","latitude":41.688276,"longitude":-106.413315}}(window,'GeoPostal','US');

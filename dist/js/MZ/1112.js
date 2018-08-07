@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1112"]={"code":"1112","region":"Maputo","city":"Matola","latitude":-25.96222,"longitude":32.45889}}(window,'GeoPostal','MZ');

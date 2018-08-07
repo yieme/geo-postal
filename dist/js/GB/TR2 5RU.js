@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR2 5RU"]={"code":"TR2 5RU","region":"England","city":"Tregoney","latitude":50.26667,"longitude":-4.91667}}(window,'GeoPostal','GB');

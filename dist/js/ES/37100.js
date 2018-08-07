@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37100"]={"code":"37100","region":"Castilla y Leon","city":"Ledesma","latitude":41.08829,"longitude":-6.00178}}(window,'GeoPostal','ES');

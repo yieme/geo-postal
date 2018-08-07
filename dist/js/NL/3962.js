@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3962"]={"code":"3962","region":"Utrecht","city":"Wijk bij Duurstede","latitude":51.97417,"longitude":5.34167}}(window,'GeoPostal','NL');

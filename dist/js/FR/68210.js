@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68210"]={"code":"68210","region":"Grand-Est","city":"Balschwiller","latitude":47.6694,"longitude":7.1692}}(window,'GeoPostal','FR');

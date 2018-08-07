@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA4 8DZ"]={"code":"CA4 8DZ","region":"England","city":"Cumwhinton","latitude":54.86878,"longitude":-2.85259}}(window,'GeoPostal','GB');

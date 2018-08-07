@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92270"]={"code":"92270","region":"California","city":"Rancho Mirage","latitude":33.73974,"longitude":-116.41279}}(window,'GeoPostal','US');

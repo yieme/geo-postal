@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628609"]={"code":"628609","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Nizhnevartovsk","latitude":60.9344,"longitude":76.5531}}(window,'GeoPostal','RU');

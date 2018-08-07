@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04475"]={"code":"04475","region":"ME","city":"Passadumkeag","latitude":45.1815,"longitude":-68.5871}}(window,'GeoPostal','US');

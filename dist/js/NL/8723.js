@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8723"]={"code":"8723","region":"Fryslan","city":"Koudum","latitude":52.91551,"longitude":5.44834}}(window,'GeoPostal','NL');

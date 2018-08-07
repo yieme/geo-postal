@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20160"]={"code":"20160","region":"Pais Vasco","city":"Lasarte","latitude":43.26774,"longitude":-2.02169}}(window,'GeoPostal','ES');

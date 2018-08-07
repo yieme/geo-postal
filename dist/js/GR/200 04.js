@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["200 04"]={"code":"200 04","region":"Anatoliki Makedonia kai Thraki","city":"Didymoteichon","latitude":41.34806,"longitude":26.49611}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32255"]={"code":"32255","region":"Vukovarsko-srijemska zupanija","city":"Soljani","latitude":44.95028,"longitude":18.97028}}(window,'GeoPostal','HR');

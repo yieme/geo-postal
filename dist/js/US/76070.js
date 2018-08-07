@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76070"]={"code":"76070","region":"TX","city":"Nemo","latitude":32.2713,"longitude":-97.6567}}(window,'GeoPostal','US');

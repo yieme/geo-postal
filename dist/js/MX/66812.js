@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66812"]={"code":"66812","region":"Nuevo Leon","city":"Hidalgo","latitude":25.8425,"longitude":-99.61611}}(window,'GeoPostal','MX');

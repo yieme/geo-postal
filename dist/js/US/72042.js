@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72042"]={"code":"72042","region":"Arkansas","city":"De Witt","latitude":34.29288,"longitude":-91.3379}}(window,'GeoPostal','US');

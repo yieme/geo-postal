@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76680-000"]={"code":"76680-000","region":"Goias","city":"Itapuranga","latitude":-15.56222,"longitude":-49.94861}}(window,'GeoPostal','BR');

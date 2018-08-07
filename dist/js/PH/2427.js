@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2427"]={"code":"2427","region":"Pangasinan","city":"Villasis","latitude":15.90167,"longitude":120.58833}}(window,'GeoPostal','PH');

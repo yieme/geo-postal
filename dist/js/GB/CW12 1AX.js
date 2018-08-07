@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW12 1AX"]={"code":"CW12 1AX","region":"England","city":"Congleton","latitude":53.16314,"longitude":-2.21253}}(window,'GeoPostal','GB');

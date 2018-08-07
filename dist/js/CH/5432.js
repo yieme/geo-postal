@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5432"]={"code":"5432","region":"Aargau","city":"Neuenhof","latitude":47.45,"longitude":8.31667}}(window,'GeoPostal','CH');

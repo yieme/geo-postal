@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188670"]={"code":"188670","region":"Leningradskaya oblast'","city":"Romanovka","latitude":60.0443,"longitude":30.714}}(window,'GeoPostal','RU');

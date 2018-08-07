@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0L 1R0"]={"code":"T0L 1R0","region":"Alberta","city":"Nanton","latitude":50.35008,"longitude":-113.76866}}(window,'GeoPostal','CA');

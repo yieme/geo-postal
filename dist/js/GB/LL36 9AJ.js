@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL36 9AJ"]={"code":"LL36 9AJ","region":"Wales","city":"Tal-y-llyn","latitude":52.68028,"longitude":-3.8865}}(window,'GeoPostal','GB');

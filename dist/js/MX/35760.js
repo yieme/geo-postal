@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35760"]={"code":"35760","region":"Durango","city":"Rodeo","latitude":25.18333,"longitude":-104.55}}(window,'GeoPostal','MX');

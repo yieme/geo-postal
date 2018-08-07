@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["569 44"]={"code":"569 44","region":"Pardubicky kraj","city":"Jaromerice","latitude":49.62556,"longitude":16.75185}}(window,'GeoPostal','CZ');

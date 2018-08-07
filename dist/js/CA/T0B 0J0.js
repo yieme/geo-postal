@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 0J0"]={"code":"T0B 0J0","region":"Alberta","city":"Bawlf","latitude":52.91684,"longitude":-112.46858}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58322-000"]={"code":"58322-000","region":"Paraiba","city":"Conde","latitude":-7.25972,"longitude":-34.9075}}(window,'GeoPostal','BR');

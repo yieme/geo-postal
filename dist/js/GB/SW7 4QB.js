@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW7 4QB"]={"code":"SW7 4QB","region":"England","city":"Kensington","latitude":51.50094,"longitude":-0.19175}}(window,'GeoPostal','GB');

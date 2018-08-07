@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06403"]={"code":"06403","region":"Connecticut","city":"Beacon Falls","latitude":41.434779,"longitude":-73.062932}}(window,'GeoPostal','US');

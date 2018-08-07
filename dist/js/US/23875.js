@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23875"]={"code":"23875","region":"Virginia","city":"Prince George","latitude":37.2167,"longitude":-77.2433}}(window,'GeoPostal','US');

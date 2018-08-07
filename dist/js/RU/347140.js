@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347140"]={"code":"347140","region":"Rostovskaya oblast'","city":"Oblivskaya","latitude":48.53616,"longitude":42.50138}}(window,'GeoPostal','RU');

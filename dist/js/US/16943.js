@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16943"]={"code":"16943","region":"PA","city":"Sabinsville","latitude":41.8408,"longitude":-77.6155}}(window,'GeoPostal','US');

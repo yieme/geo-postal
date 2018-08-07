@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15758"]={"code":"15758","region":"PA","city":"Marchand","latitude":40.8576,"longitude":-79.0228}}(window,'GeoPostal','US');

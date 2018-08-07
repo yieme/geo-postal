@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["741600"]={"code":"741600","region":"Gansu","city":"Xingguo","latitude":34.85861,"longitude":105.66861}}(window,'GeoPostal','CN');

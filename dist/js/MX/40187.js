@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40187"]={"code":"40187","region":"Guerrero","city":"Iguala de la Independencia","latitude":18.35,"longitude":-99.53333}}(window,'GeoPostal','MX');

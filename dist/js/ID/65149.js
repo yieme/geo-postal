@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65149"]={"code":"65149","region":"Jawa Timur","city":"Gadang","latitude":-8.0123,"longitude":112.6283}}(window,'GeoPostal','ID');

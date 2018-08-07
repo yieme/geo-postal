@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6018"]={"code":"6018","region":"Western Australia","city":"Innaloo","latitude":-31.89272,"longitude":115.79508}}(window,'GeoPostal','AU');

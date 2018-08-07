@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18446"]={"code":"18446","region":"PA","city":"Nicholson","latitude":41.6412,"longitude":-75.7641}}(window,'GeoPostal','US');

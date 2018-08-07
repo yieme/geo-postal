@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60922"]={"code":"60922","region":"IL","city":"Chebanse","latitude":41.0254,"longitude":-87.8959}}(window,'GeoPostal','US');

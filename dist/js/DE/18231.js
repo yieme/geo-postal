@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18231"]={"code":"18231","region":"Mecklenburg-Vorpommern","city":"Neubukow","latitude":54.03177,"longitude":11.67391}}(window,'GeoPostal','DE');

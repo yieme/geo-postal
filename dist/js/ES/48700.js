@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48700"]={"code":"48700","region":"Pais Vasco","city":"Ondarroa","latitude":43.31667,"longitude":-2.41667}}(window,'GeoPostal','ES');

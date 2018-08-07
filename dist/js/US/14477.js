@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14477"]={"code":"14477","region":"NY","city":"Kent","latitude":43.3341,"longitude":-78.1355}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33020"]={"code":"33020","region":"Friuli-Venezia Giulia","city":"Socchieve","latitude":46.39639,"longitude":12.84278}}(window,'GeoPostal','IT');

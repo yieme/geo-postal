@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33846"]={"code":"33846","region":"FL","city":"Highland City","latitude":27.9647,"longitude":-81.8672}}(window,'GeoPostal','US');

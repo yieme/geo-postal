@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61203"]={"code":"61203","region":"L'Oriental","city":"Bouarfa","latitude":32.53,"longitude":-1.95}}(window,'GeoPostal','MA');

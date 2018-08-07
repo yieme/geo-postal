@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4479-003"]={"code":"4479-003","region":"Porto","city":"Pedroucos","latitude":41.19315,"longitude":-8.58167}}(window,'GeoPostal','PT');

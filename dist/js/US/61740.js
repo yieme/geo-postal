@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61740"]={"code":"61740","region":"IL","city":"Flanagan","latitude":40.879,"longitude":-88.862}}(window,'GeoPostal','US');

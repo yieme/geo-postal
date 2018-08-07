@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69037"]={"code":"69037","region":"Marijampoles apskritis","city":"Kalvarija","latitude":54.4,"longitude":23.23333}}(window,'GeoPostal','LT');

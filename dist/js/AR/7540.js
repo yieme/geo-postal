@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7540"]={"code":"7540","region":"Buenos Aires","city":"Coronel Suarez","latitude":-37.45467,"longitude":-61.93343}}(window,'GeoPostal','AR');

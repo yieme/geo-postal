@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6026"]={"code":"6026","region":"Cebu","city":"Santander","latitude":9.4156,"longitude":123.3291}}(window,'GeoPostal','PH');

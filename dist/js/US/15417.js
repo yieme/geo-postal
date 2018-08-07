@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15417"]={"code":"15417","region":"Pennsylvania","city":"Brownsville","latitude":40.03104,"longitude":-79.9299}}(window,'GeoPostal','US');

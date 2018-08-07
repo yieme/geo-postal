@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15613"]={"code":"15613","region":"Pennsylvania","city":"Apollo","latitude":40.541048,"longitude":-79.605432}}(window,'GeoPostal','US');

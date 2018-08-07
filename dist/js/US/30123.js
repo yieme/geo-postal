@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30123"]={"code":"30123","region":"GA","city":"Cassville","latitude":34.2442,"longitude":-84.8457}}(window,'GeoPostal','US');

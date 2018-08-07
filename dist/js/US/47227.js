@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47227"]={"code":"47227","region":"IN","city":"Commiskey","latitude":38.8526,"longitude":-85.6434}}(window,'GeoPostal','US');

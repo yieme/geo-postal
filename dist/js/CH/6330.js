@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6330"]={"code":"6330","region":"Zug","city":"Steinhausen","latitude":47.1951,"longitude":8.48581}}(window,'GeoPostal','CH');

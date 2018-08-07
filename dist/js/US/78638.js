@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78638"]={"code":"78638","region":"TX","city":"Kingsbury","latitude":29.6726,"longitude":-97.8306}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47574"]={"code":"47574","region":"Nordrhein-Westfalen","city":"Goch","latitude":51.67873,"longitude":6.15895}}(window,'GeoPostal','DE');

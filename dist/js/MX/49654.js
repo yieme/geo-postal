@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49654"]={"code":"49654","region":"Jalisco","city":"Tamazula de Gordiano","latitude":19.63333,"longitude":-103.25}}(window,'GeoPostal','MX');

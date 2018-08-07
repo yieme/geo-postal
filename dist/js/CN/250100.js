@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250100"]={"code":"250100","region":"Shandong","city":"Weihai","latitude":37.50167,"longitude":122.11361}}(window,'GeoPostal','CN');

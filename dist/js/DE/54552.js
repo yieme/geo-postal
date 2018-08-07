@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54552"]={"code":"54552","region":"Rheinland-Pfalz","city":"Nerdlen","latitude":50.23333,"longitude":6.86667}}(window,'GeoPostal','DE');

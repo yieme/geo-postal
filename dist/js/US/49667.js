@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49667"]={"code":"49667","region":"Michigan","city":"Merritt","latitude":44.341841,"longitude":-84.930748}}(window,'GeoPostal','US');

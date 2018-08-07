@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22514"]={"code":"22514","region":"VA","city":"Milford","latitude":38.0058,"longitude":-77.3185}}(window,'GeoPostal','US');

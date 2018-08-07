@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42150"]={"code":"42150","region":"Udon Thani","city":"Na Yung","latitude":17.89747,"longitude":102.14981}}(window,'GeoPostal','TH');

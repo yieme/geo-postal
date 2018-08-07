@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35560-000"]={"code":"35560-000","region":"Minas Gerais","city":"Santo Antonio do Monte","latitude":-20.08722,"longitude":-45.29361}}(window,'GeoPostal','BR');

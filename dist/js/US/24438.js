@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24438"]={"code":"24438","region":"VA","city":"Glen Wilton","latitude":37.7529,"longitude":-79.8189}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN7 6TR"]={"code":"LN7 6TR","region":"England","city":"Caistor","latitude":53.49673,"longitude":-0.31538}}(window,'GeoPostal','GB');

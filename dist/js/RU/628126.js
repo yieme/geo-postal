@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628126"]={"code":"628126","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Priob'ye","latitude":62.52056,"longitude":65.59639}}(window,'GeoPostal','RU');

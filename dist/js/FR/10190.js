@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10190"]={"code":"10190","region":"Grand-Est","city":"Estissac","latitude":48.2692,"longitude":3.80515}}(window,'GeoPostal','FR');

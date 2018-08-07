@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66048"]={"code":"66048","region":"Kansas","city":"Leavenworth","latitude":39.306883,"longitude":-94.926829}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3281"]={"code":"3281","region":"Victoria","city":"Woolsthorpe","latitude":-38.2,"longitude":142.43333}}(window,'GeoPostal','AU');

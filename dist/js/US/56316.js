@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56316"]={"code":"56316","region":"MN","city":"Brooten","latitude":45.5011,"longitude":-95.1245}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238184"]={"code":"238184","region":"Anhui","city":"Xiexiang","latitude":31.82469,"longitude":118.04537}}(window,'GeoPostal','CN');

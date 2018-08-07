@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA5 5QE"]={"code":"KA5 5QE","region":"Scotland","city":"Tarbolton","latitude":55.51292,"longitude":-4.48648}}(window,'GeoPostal','GB');

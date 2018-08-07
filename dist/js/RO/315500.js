@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["315500"]={"code":"315500","region":"Arad","city":"Nadlac","latitude":46.16667,"longitude":20.75}}(window,'GeoPostal','RO');

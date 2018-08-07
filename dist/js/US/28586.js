@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28586"]={"code":"28586","region":"North Carolina","city":"Vanceboro","latitude":35.303147,"longitude":-77.148202}}(window,'GeoPostal','US');

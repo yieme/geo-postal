@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05009"]={"code":"05009","region":"Batna","city":"Ras el Aioun","latitude":35.67384,"longitude":5.6453}}(window,'GeoPostal','DZ');

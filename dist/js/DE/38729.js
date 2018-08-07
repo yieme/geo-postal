@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38729"]={"code":"38729","region":"Niedersachsen","city":"Jerze","latitude":51.97073,"longitude":10.16385}}(window,'GeoPostal','DE');

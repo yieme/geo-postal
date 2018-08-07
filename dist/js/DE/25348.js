@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25348"]={"code":"25348","region":"Schleswig-Holstein","city":"Blomesche Wildnis","latitude":53.8,"longitude":9.41667}}(window,'GeoPostal','DE');

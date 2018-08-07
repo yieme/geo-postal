@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92283"]={"code":"92283","region":"California","city":"Winterhaven","latitude":32.73944,"longitude":-114.63472}}(window,'GeoPostal','US');

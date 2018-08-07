@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29923"]={"code":"29923","region":"SC","city":"Gifford","latitude":32.8596,"longitude":-81.239}}(window,'GeoPostal','US');

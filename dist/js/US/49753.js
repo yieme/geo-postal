@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49753"]={"code":"49753","region":"Michigan","city":"Lachine","latitude":45.13417,"longitude":-83.70944}}(window,'GeoPostal','US');

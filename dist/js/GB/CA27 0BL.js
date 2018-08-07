@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA27 0BL"]={"code":"CA27 0BL","region":"England","city":"Saint Bees","latitude":54.49183,"longitude":-3.58987}}(window,'GeoPostal','GB');

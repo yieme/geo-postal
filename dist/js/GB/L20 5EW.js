@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L20 5EW"]={"code":"L20 5EW","region":"England","city":"Bootle","latitude":53.46667,"longitude":-3.01667}}(window,'GeoPostal','GB');

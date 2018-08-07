@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23000"]={"code":"23000","region":"Nouvelle-Aquitaine","city":"Sainte-Feyre","latitude":46.139,"longitude":1.91517}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS6 4AZ"]={"code":"LS6 4AZ","region":"England","city":"Meanwood","latitude":53.82811,"longitude":-1.56647}}(window,'GeoPostal','GB');

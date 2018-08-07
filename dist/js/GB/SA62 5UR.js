@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 5UR"]={"code":"SA62 5UR","region":"Wales","city":"Granston","latitude":51.96667,"longitude":-5.06278}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77460"]={"code":"77460","region":"TX","city":"Nada","latitude":29.405,"longitude":-96.3864}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4013"]={"code":"4013","region":"Queensland","city":"Nundah","latitude":-27.40252,"longitude":153.06165}}(window,'GeoPostal','AU');

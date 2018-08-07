@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6211"]={"code":"6211","region":"More og Romsdal","city":"Valldal","latitude":62.29782,"longitude":7.26374}}(window,'GeoPostal','NO');

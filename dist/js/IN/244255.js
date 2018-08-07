@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["244255"]={"code":"244255","region":"Uttar Pradesh","city":"Gajraula","latitude":28.85,"longitude":78.23333}}(window,'GeoPostal','IN');

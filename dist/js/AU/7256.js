@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7256"]={"code":"7256","region":"Tasmania","city":"Currie","latitude":-39.93125,"longitude":143.85098}}(window,'GeoPostal','AU');

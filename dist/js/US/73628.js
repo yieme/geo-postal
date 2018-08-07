@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73628"]={"code":"73628","region":"Oklahoma","city":"Cheyenne","latitude":35.61394,"longitude":-99.67149}}(window,'GeoPostal','US');

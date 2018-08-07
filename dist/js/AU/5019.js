@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5019"]={"code":"5019","region":"South Australia","city":"Semaphore","latitude":-34.83333,"longitude":138.48333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97812"]={"code":"97812","region":"Oregon","city":"Arlington","latitude":45.715,"longitude":-120.19972}}(window,'GeoPostal','US');

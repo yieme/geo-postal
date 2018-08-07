@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["370 08"]={"code":"370 08","region":"Thessalia","city":"Pteleos","latitude":39.05,"longitude":22.95}}(window,'GeoPostal','GR');

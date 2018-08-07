@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425559"]={"code":"425559","region":"Mariy El, Respublika","city":"Kuzhener","latitude":56.81111,"longitude":48.91278}}(window,'GeoPostal','RU');

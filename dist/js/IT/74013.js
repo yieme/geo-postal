@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74013"]={"code":"74013","region":"Puglia","city":"Ginosa","latitude":40.58012,"longitude":16.75609}}(window,'GeoPostal','IT');

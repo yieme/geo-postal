@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77620"]={"code":"77620","region":"Ile-de-France","city":"Egreville","latitude":48.17606,"longitude":2.87278}}(window,'GeoPostal','FR');

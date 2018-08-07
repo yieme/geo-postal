@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78361"]={"code":"78361","region":"Texas","city":"Hebbronville","latitude":27.30671,"longitude":-98.67835}}(window,'GeoPostal','US');

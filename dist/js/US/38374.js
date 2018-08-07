@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38374"]={"code":"38374","region":"Tennessee","city":"Scotts Hill","latitude":35.502557,"longitude":-88.23679}}(window,'GeoPostal','US');

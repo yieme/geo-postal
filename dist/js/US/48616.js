@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48616"]={"code":"48616","region":"MI","city":"Chesaning","latitude":43.1824,"longitude":-84.1122}}(window,'GeoPostal','US');

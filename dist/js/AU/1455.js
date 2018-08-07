@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1455"]={"code":"1455","region":"New South Wales","city":"Botany","latitude":-33.96667,"longitude":151.2}}(window,'GeoPostal','AU');

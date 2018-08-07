@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67310"]={"code":"67310","region":"Grand-Est","city":"Scharrachbergheim-Irmstett","latitude":48.5942,"longitude":7.4947}}(window,'GeoPostal','FR');

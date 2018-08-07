@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23843"]={"code":"23843","region":"Virginia","city":"Dolphin","latitude":36.837853,"longitude":-77.794812}}(window,'GeoPostal','US');

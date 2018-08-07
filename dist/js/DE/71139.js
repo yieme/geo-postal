@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71139"]={"code":"71139","region":"Baden-Wurttemberg","city":"Ehningen","latitude":48.65882,"longitude":8.94124}}(window,'GeoPostal','DE');

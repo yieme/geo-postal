@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49270"]={"code":"49270","region":"Kymenlaakso","city":"Pyhtaa","latitude":60.49349,"longitude":26.54346}}(window,'GeoPostal','FI');

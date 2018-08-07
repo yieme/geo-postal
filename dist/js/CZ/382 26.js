@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["382 26"]={"code":"382 26","region":"Jihocesky kraj","city":"Horni Plana","latitude":48.76736,"longitude":14.03257}}(window,'GeoPostal','CZ');

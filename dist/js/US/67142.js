@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67142"]={"code":"67142","region":"Kansas","city":"Spivey","latitude":37.427921,"longitude":-98.190066}}(window,'GeoPostal','US');

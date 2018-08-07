@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3230"]={"code":"3230","region":"Victoria","city":"Anglesea","latitude":-38.4073,"longitude":144.18587}}(window,'GeoPostal','AU');

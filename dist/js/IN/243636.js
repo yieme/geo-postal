@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243636"]={"code":"243636","region":"Uttar Pradesh","city":"Budaun","latitude":28.05,"longitude":79.11667}}(window,'GeoPostal','IN');

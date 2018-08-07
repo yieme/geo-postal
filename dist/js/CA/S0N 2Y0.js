@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0N 2Y0"]={"code":"S0N 2Y0","region":"Saskatchewan","city":"Wymark","latitude":50.11677,"longitude":-107.73464}}(window,'GeoPostal','CA');

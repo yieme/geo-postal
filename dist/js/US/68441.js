@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68441"]={"code":"68441","region":"NE","city":"Steinauer","latitude":40.2169,"longitude":-96.2302}}(window,'GeoPostal','US');

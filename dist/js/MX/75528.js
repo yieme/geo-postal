@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75528"]={"code":"75528","region":"Puebla","city":"Ciudad Serdan","latitude":18.98333,"longitude":-97.45}}(window,'GeoPostal','MX');

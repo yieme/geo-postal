@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61353"]={"code":"61353","region":"IL","city":"Paw Paw","latitude":41.6852,"longitude":-88.9674}}(window,'GeoPostal','US');

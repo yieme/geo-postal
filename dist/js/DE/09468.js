@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09468"]={"code":"09468","region":"Sachsen","city":"Geyer","latitude":50.62632,"longitude":12.92074}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["683 33"]={"code":"683 33","region":"Jihomoravsky kraj","city":"Nesovice","latitude":49.15111,"longitude":17.08095}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 7BD"]={"code":"PE22 7BD","region":"England","city":"Frith Bank","latitude":53.00506,"longitude":-0.04633}}(window,'GeoPostal','GB');

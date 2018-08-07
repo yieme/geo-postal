@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97114"]={"code":"97114","region":"Guadeloupe","city":"Trois-Rivieres","latitude":15.97567,"longitude":-61.64509}}(window,'GeoPostal','GP');

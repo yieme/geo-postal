@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H1J 1N7"]={"code":"H1J 1N7","region":"Quebec","city":"Saint-Vincent-de-Paul","latitude":45.615527,"longitude":-73.568403}}(window,'GeoPostal','CA');

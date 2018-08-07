@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40270"]={"code":"40270","region":"Castilla y Leon","city":"Carbonero el Mayor","latitude":41.12257,"longitude":-4.26478}}(window,'GeoPostal','ES');

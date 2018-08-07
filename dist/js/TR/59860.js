@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59860"]={"code":"59860","region":"Malatya","city":"Malatya","latitude":38.35018,"longitude":38.31667}}(window,'GeoPostal','TR');

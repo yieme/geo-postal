@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["643209"]={"code":"643209","region":"Kerala","city":"Kalpetta","latitude":11.61056,"longitude":76.08222}}(window,'GeoPostal','IN');

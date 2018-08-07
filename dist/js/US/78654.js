@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78654"]={"code":"78654","region":"Texas","city":"Marble Falls","latitude":30.581636,"longitude":-98.338637}}(window,'GeoPostal','US');

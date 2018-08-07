@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70100"]={"code":"70100","region":"Bourgogne-Franche-Comte","city":"Gray-la-Ville","latitude":47.43932,"longitude":5.57252}}(window,'GeoPostal','FR');

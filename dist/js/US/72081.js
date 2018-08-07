@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72081"]={"code":"72081","region":"AR","city":"Judsonia","latitude":35.325,"longitude":-91.6491}}(window,'GeoPostal','US');

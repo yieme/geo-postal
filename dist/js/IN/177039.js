@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["177039"]={"code":"177039","region":"Himachal Pradesh","city":"Hamirpur","latitude":31.68333,"longitude":76.51667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74027"]={"code":"74027","region":"Puglia","city":"San Giorgio Ionico","latitude":40.45662,"longitude":17.3787}}(window,'GeoPostal','IT');

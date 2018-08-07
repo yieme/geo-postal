@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS39 5SE"]={"code":"BS39 5SE","region":"England","city":"Clutton","latitude":51.32944,"longitude":-2.54306}}(window,'GeoPostal','GB');

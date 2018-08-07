@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0C 2H0"]={"code":"K0C 2H0","region":"Ontario","city":"Williamsburg","latitude":44.917,"longitude":-75.267}}(window,'GeoPostal','CA');

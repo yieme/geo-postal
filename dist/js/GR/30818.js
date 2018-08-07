@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30818"]={"code":"30818","region":"Kentriki Makedonia","city":"Katerini","latitude":40.27194,"longitude":22.5025}}(window,'GeoPostal','GR');

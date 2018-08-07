@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17008"]={"code":"17008","region":"Peten","city":"Ciudad Melchor de Mencos","latitude":17.06861,"longitude":-89.15222}}(window,'GeoPostal','GT');

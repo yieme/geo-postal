@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61250"]={"code":"61250","region":"Hessen","city":"Usingen","latitude":50.33554,"longitude":8.53688}}(window,'GeoPostal','DE');

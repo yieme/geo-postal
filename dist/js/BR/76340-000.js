@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76340-000"]={"code":"76340-000","region":"Goias","city":"Carmo do Rio Verde","latitude":-15.35361,"longitude":-49.7075}}(window,'GeoPostal','BR');

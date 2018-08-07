@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85003"]={"code":"85003","region":"Souss-Massa-Draa","city":"Ouijjane","latitude":29.62778,"longitude":-9.53959}}(window,'GeoPostal','MA');

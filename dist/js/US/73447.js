@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73447"]={"code":"73447","region":"Oklahoma","city":"Mannsville","latitude":34.197099,"longitude":-96.79189}}(window,'GeoPostal','US');

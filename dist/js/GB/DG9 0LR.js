@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 0LR"]={"code":"DG9 0LR","region":"Scotland","city":"Leswalt","latitude":54.93039,"longitude":-5.09187}}(window,'GeoPostal','GB');

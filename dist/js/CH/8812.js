@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8812"]={"code":"8812","region":"Zurich","city":"Horgen","latitude":47.25579,"longitude":8.60027}}(window,'GeoPostal','CH');

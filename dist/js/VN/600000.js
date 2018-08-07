@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["600000"]={"code":"600000","region":"Gia Lai","city":"Pleiku","latitude":13.98333,"longitude":108}}(window,'GeoPostal','VN');

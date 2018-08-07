@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92881"]={"code":"92881","region":"California","city":"Corona","latitude":33.8424,"longitude":-117.5159}}(window,'GeoPostal','US');

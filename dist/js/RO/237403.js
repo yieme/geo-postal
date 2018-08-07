@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237403"]={"code":"237403","region":"Brasov","city":"Lisa","latitude":45.71667,"longitude":24.85}}(window,'GeoPostal','RO');

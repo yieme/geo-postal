@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74890"]={"code":"74890","region":"Auvergne-Rhone-Alpes","city":"Bons-en-Chablais","latitude":46.26667,"longitude":6.38333}}(window,'GeoPostal','FR');

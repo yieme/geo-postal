@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY14 7BP"]={"code":"SY14 7BP","region":"England","city":"Shocklach","latitude":53.03694,"longitude":-2.83853}}(window,'GeoPostal','GB');

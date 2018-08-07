@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14559"]={"code":"14559","region":"New York","city":"Spencerport","latitude":43.18645,"longitude":-77.8039}}(window,'GeoPostal','US');

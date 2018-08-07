@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65835"]={"code":"65835","region":"Hessen","city":"Liederbach","latitude":50.12221,"longitude":8.49397}}(window,'GeoPostal','DE');

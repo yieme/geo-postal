@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662500"]={"code":"662500","region":"Krasnoyarskiy kray","city":"Sosnovoborsk","latitude":56.1325,"longitude":93.35889}}(window,'GeoPostal','RU');

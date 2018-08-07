@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["094-0003"]={"code":"094-0003","region":"Hokkaido","city":"Mombetsu","latitude":44.35,"longitude":143.35}}(window,'GeoPostal','JP');

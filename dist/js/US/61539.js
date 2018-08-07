@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61539"]={"code":"61539","region":"IL","city":"Kingston Mines","latitude":40.5571,"longitude":-89.7685}}(window,'GeoPostal','US');

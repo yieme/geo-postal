@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31066"]={"code":"31066","region":"GA","city":"Musella","latitude":32.8202,"longitude":-84.0456}}(window,'GeoPostal','US');

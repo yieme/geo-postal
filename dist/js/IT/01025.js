@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01025"]={"code":"01025","region":"Lazio","city":"Grotte di Castro","latitude":42.67453,"longitude":11.87225}}(window,'GeoPostal','IT');

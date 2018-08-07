@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5792"]={"code":"5792","region":"Syddanmark","city":"Arslev","latitude":55.30353,"longitude":10.46428}}(window,'GeoPostal','DK');

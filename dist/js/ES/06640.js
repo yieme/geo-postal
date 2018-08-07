@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06640"]={"code":"06640","region":"Extremadura","city":"Talarrubias","latitude":39.03697,"longitude":-5.23422}}(window,'GeoPostal','ES');

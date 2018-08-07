@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0W 1E0"]={"code":"J0W 1E0","region":"Quebec","city":"Grand-Remous","latitude":46.61681,"longitude":-75.89933}}(window,'GeoPostal','CA');

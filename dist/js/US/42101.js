@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42101"]={"code":"42101","region":"Kentucky","city":"Bowling Green","latitude":36.99032,"longitude":-86.4436}}(window,'GeoPostal','US');

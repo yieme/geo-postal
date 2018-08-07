@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3142"]={"code":"3142","region":"Entre Rios","city":"Bovril","latitude":-31.34311,"longitude":-59.44512}}(window,'GeoPostal','AR');

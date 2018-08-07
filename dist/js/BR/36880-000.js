@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36880-000"]={"code":"36880-000","region":"Minas Gerais","city":"Muriae","latitude":-21.13056,"longitude":-42.36639}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81115"]={"code":"81115","region":"Lvivska oblast","city":"Obroshyne","latitude":49.78333,"longitude":23.86667}}(window,'GeoPostal','UA');

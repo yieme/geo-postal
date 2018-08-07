@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26350"]={"code":"26350","region":"La Rioja","city":"Cenicero","latitude":42.4813,"longitude":-2.64412}}(window,'GeoPostal','ES');

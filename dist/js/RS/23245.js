@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23245"]={"code":"23245","region":"Srednjebanatski okrug","city":"Neuzina","latitude":45.34417,"longitude":20.71222}}(window,'GeoPostal','RS');

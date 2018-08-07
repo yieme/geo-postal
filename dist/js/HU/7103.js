@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7103"]={"code":"7103","region":"Tolna","city":"Szekszard","latitude":46.35014,"longitude":18.70905}}(window,'GeoPostal','HU');

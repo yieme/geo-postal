@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30543"]={"code":"30543","region":"GA","city":"Gillsville","latitude":34.3001,"longitude":-83.6757}}(window,'GeoPostal','US');

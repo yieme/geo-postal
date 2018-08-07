@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38230"]={"code":"38230","region":"Tennessee","city":"Greenfield","latitude":36.154765,"longitude":-88.800186}}(window,'GeoPostal','US');

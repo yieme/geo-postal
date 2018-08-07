@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54651"]={"code":"54651","region":"Wisconsin","city":"Ontario","latitude":43.72333,"longitude":-90.59194}}(window,'GeoPostal','US');

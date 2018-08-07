@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25168"]={"code":"25168","region":"WV","city":"Red House","latitude":38.5463,"longitude":-81.9045}}(window,'GeoPostal','US');

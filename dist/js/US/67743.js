@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67743"]={"code":"67743","region":"Kansas","city":"Levant","latitude":39.37289,"longitude":-101.22352}}(window,'GeoPostal','US');

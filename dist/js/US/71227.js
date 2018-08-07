@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71227"]={"code":"71227","region":"LA","city":"Choudrant","latitude":32.5556,"longitude":-92.5224}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6460"]={"code":"6460","region":"Uri","city":"Altdorf","latitude":46.88042,"longitude":8.64441}}(window,'GeoPostal','CH');

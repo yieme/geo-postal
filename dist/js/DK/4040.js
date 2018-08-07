@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4040"]={"code":"4040","region":"Sjelland","city":"Jyllinge","latitude":55.75843,"longitude":12.11227}}(window,'GeoPostal','DK');

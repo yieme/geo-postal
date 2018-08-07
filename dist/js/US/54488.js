@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54488"]={"code":"54488","region":"WI","city":"Unity","latitude":44.8227,"longitude":-90.3221}}(window,'GeoPostal','US');

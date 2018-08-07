@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD8 6XH"]={"code":"TD8 6XH","region":"Scotland","city":"Ancrum","latitude":55.51356,"longitude":-2.5892}}(window,'GeoPostal','GB');

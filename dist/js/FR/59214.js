@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59214"]={"code":"59214","region":"Hauts-de-France","city":"Quievy","latitude":50.16804,"longitude":3.42834}}(window,'GeoPostal','FR');

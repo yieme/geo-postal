@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13008"]={"code":"13008","region":"Tlemcen","city":"Bensekrane","latitude":35.07465,"longitude":-1.22431}}(window,'GeoPostal','DZ');

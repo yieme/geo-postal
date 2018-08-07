@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29021"]={"code":"29021","region":"SC","city":"Camden","latitude":34.2974,"longitude":-80.6089}}(window,'GeoPostal','US');

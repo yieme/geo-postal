@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60075"]={"code":"60075","region":"IL","city":"Russell","latitude":42.4906,"longitude":-87.9126}}(window,'GeoPostal','US');

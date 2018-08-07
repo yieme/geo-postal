@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37074"]={"code":"37074","region":"Tennessee","city":"Hartsville","latitude":36.389553,"longitude":-86.1583}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94510"]={"code":"94510","region":"California","city":"Benicia","latitude":38.04936,"longitude":-122.15858}}(window,'GeoPostal','US');

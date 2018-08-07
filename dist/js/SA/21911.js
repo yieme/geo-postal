@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21911"]={"code":"21911","region":"Makkah al Mukarramah","city":"Rabigh","latitude":22.79856,"longitude":39.03493}}(window,'GeoPostal','SA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38772"]={"code":"38772","region":"MS","city":"Scott","latitude":33.5629,"longitude":-91.0391}}(window,'GeoPostal','US');

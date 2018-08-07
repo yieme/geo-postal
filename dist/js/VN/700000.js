@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["700000"]={"code":"700000","region":"Ho Chi Minh","city":"Ho Chi Minh City","latitude":10.75,"longitude":106.66667}}(window,'GeoPostal','VN');

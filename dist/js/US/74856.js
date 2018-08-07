@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74856"]={"code":"74856","region":"OK","city":"Mill Creek","latitude":34.3098,"longitude":-96.7884}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56630"]={"code":"56630","region":"Minnesota","city":"Blackduck","latitude":47.815068,"longitude":-94.538289}}(window,'GeoPostal','US');

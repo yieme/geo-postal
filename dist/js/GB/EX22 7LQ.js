@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 7LQ"]={"code":"EX22 7LQ","region":"England","city":"Abbots Bickington","latitude":50.89697,"longitude":-4.29877}}(window,'GeoPostal','GB');

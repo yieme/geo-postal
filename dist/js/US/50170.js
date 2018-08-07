@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50170"]={"code":"50170","region":"Iowa","city":"Monroe","latitude":41.52221,"longitude":-93.10187}}(window,'GeoPostal','US');

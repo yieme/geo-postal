@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN29 0JP"]={"code":"TN29 0JP","region":"England","city":"Burmarsh","latitude":51.04857,"longitude":0.99692}}(window,'GeoPostal','GB');

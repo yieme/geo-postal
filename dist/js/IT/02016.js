@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02016"]={"code":"02016","region":"Lazio","city":"Leonessa","latitude":42.56554,"longitude":12.96138}}(window,'GeoPostal','IT');

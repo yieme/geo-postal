@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59281"]={"code":"59281","region":"Hauts-de-France","city":"Rumilly-en-Cambresis","latitude":50.12691,"longitude":3.21874}}(window,'GeoPostal','FR');

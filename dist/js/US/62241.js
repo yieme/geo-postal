@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62241"]={"code":"62241","region":"Illinois","city":"Ellis Grove","latitude":38.003438,"longitude":-89.897723}}(window,'GeoPostal','US');

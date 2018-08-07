@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5601"]={"code":"5601","region":"South Australia","city":"Iron Knob","latitude":-32.73299,"longitude":137.15096}}(window,'GeoPostal','AU');

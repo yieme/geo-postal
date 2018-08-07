@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54221"]={"code":"54221","region":"Jawa Tengah","city":"Kutoarjo","latitude":-7.71694,"longitude":109.91278}}(window,'GeoPostal','ID');

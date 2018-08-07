@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62864"]={"code":"62864","region":"Illinois","city":"Mount Vernon","latitude":38.31727,"longitude":-88.90312}}(window,'GeoPostal','US');

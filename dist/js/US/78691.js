@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78691"]={"code":"78691","region":"Texas","city":"Pflugerville","latitude":30.4383,"longitude":-97.6206}}(window,'GeoPostal','US');

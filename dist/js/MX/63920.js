@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63920"]={"code":"63920","region":"Nayarit","city":"Ahuacatlan","latitude":21.05,"longitude":-104.48333}}(window,'GeoPostal','MX');

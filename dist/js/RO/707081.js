@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707081"]={"code":"707081","region":"Iasi","city":"Mogosesti","latitude":47.03333,"longitude":27.53333}}(window,'GeoPostal','RO');

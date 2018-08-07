@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28640-000"]={"code":"28640-000","region":"Rio de Janeiro","city":"Carmo","latitude":-21.93361,"longitude":-42.60861}}(window,'GeoPostal','BR');

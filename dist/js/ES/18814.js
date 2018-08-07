@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18814"]={"code":"18814","region":"Andalucia","city":"Cortes de Baza","latitude":37.65514,"longitude":-2.77166}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08002"]={"code":"08002","region":"New Jersey","city":"Cherry Hill","latitude":39.9276,"longitude":-75.02346}}(window,'GeoPostal','US');

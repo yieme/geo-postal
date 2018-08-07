@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["018-4621"]={"code":"018-4621","region":"Akita","city":"Kitaakita","latitude":40.226028,"longitude":140.370806}}(window,'GeoPostal','JP');

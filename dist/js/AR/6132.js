@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6132"]={"code":"6132","region":"Cordoba","city":"General Levalle","latitude":-34.01472,"longitude":-63.92413}}(window,'GeoPostal','AR');

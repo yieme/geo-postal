@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3350"]={"code":"3350","region":"Niederosterreich","city":"Sankt Valentin","latitude":48.16667,"longitude":14.51667}}(window,'GeoPostal','AT');

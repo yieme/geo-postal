@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14253"]={"code":"14253","region":"Kolubarski okrug","city":"Osecina","latitude":44.37306,"longitude":19.60139}}(window,'GeoPostal','RS');

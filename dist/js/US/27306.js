@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27306"]={"code":"27306","region":"North Carolina","city":"Mount Gilead","latitude":35.21487,"longitude":-80.00228}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78062"]={"code":"78062","region":"Ivano-Frankivska oblast","city":"Obertyn","latitude":48.70032,"longitude":25.17012}}(window,'GeoPostal','UA');

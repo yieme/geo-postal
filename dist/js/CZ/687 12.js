@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687 12"]={"code":"687 12","region":"Zlinsky kraj","city":"Bilovice","latitude":49.09965,"longitude":17.54961}}(window,'GeoPostal','CZ');

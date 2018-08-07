@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4620-403"]={"code":"4620-403","region":"Porto","city":"Vila Nova da Telha","latitude":41.0717,"longitude":-8.64146}}(window,'GeoPostal','PT');

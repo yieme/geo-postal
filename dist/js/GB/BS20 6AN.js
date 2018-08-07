@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS20 6AN"]={"code":"BS20 6AN","region":"England","city":"Portishead","latitude":51.48199,"longitude":-2.76973}}(window,'GeoPostal','GB');

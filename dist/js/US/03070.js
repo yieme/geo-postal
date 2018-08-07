@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03070"]={"code":"03070","region":"NH","city":"New Boston","latitude":42.9722,"longitude":-71.6864}}(window,'GeoPostal','US');

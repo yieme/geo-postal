@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39566"]={"code":"39566","region":"MS","city":"Ocean Springs","latitude":30.4113,"longitude":-88.8278}}(window,'GeoPostal','US');

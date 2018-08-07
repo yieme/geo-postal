@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517338"]={"code":"517338","region":"Guangdong","city":"Mabugang","latitude":24.5891,"longitude":115.4117}}(window,'GeoPostal','CN');

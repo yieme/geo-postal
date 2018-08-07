@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90456"]={"code":"90456","region":"Zakarpatska oblast","city":"Vyshkove","latitude":48.04911,"longitude":23.42113}}(window,'GeoPostal','UA');

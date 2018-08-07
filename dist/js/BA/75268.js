@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75268"]={"code":"75268","region":"Federacija Bosne i Hercegovine","city":"Svojat","latitude":44.39472,"longitude":18.73917}}(window,'GeoPostal','BA');

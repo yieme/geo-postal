@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0J 1J0"]={"code":"K0J 1J0","region":"Ontario","city":"Chalk River","latitude":46.01682,"longitude":-77.44948}}(window,'GeoPostal','CA');

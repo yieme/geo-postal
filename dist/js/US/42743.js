@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42743"]={"code":"42743","region":"Kentucky","city":"Greensburg","latitude":37.26089,"longitude":-85.49885}}(window,'GeoPostal','US');

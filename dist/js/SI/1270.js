@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1270"]={"code":"1270","region":"Litija","city":"Litija","latitude":46.05861,"longitude":14.8225}}(window,'GeoPostal','SI');

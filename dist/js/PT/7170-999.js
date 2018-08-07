@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7170-999"]={"code":"7170-999","region":"Evora","city":"Vila Vicosa","latitude":38.7777,"longitude":-7.41793}}(window,'GeoPostal','PT');

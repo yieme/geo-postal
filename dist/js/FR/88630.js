@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88630"]={"code":"88630","region":"Grand-Est","city":"Soulosse-sous-Saint-Elophe","latitude":48.4042,"longitude":5.7342}}(window,'GeoPostal','FR');

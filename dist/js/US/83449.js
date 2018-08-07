@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83449"]={"code":"83449","region":"Idaho","city":"Swan Valley","latitude":43.435782,"longitude":-111.292991}}(window,'GeoPostal','US');

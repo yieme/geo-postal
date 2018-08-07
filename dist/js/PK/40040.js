@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40040"]={"code":"40040","region":"Punjab","city":"Faruka","latitude":31.88722,"longitude":72.4144}}(window,'GeoPostal','PK');

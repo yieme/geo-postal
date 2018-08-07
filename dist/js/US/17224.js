@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17224"]={"code":"17224","region":"Pennsylvania","city":"Fort Loudon","latitude":39.98052,"longitude":-77.89872}}(window,'GeoPostal','US');

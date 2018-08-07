@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6253"]={"code":"6253","region":"Skopje","city":"Zajas","latitude":41.60722,"longitude":20.93833}}(window,'GeoPostal','MK');

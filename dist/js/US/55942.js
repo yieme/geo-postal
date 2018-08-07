@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55942"]={"code":"55942","region":"MN","city":"Homer","latitude":44.02,"longitude":-91.6819}}(window,'GeoPostal','US');

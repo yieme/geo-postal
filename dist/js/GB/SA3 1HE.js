@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 1HE"]={"code":"SA3 1HE","region":"Wales","city":"Landimore","latitude":51.61492,"longitude":-4.22144}}(window,'GeoPostal','GB');

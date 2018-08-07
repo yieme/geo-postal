@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36045"]={"code":"36045","region":"AL","city":"Kent","latitude":32.619,"longitude":-85.9486}}(window,'GeoPostal','US');

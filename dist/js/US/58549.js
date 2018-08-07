@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58549"]={"code":"58549","region":"ND","city":"Kintyre","latitude":46.5736,"longitude":-99.9705}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47884"]={"code":"47884","region":"IN","city":"Universal","latitude":39.6221,"longitude":-87.4548}}(window,'GeoPostal','US');

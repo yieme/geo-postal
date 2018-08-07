@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16616"]={"code":"16616","region":"PA","city":"Beccaria","latitude":40.7683,"longitude":-78.4455}}(window,'GeoPostal','US');

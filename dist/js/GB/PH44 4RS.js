@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH44 4RS"]={"code":"PH44 4RS","region":"Scotland","city":"Isle of Canna","latitude":57.06253,"longitude":-6.55601}}(window,'GeoPostal','GB');

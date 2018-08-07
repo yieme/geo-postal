@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37742"]={"code":"37742","region":"Tennessee","city":"Greenback","latitude":35.66119,"longitude":-84.17214}}(window,'GeoPostal','US');

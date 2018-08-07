@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28890-000"]={"code":"28890-000","region":"Rio de Janeiro","city":"Rio das Ostras","latitude":-22.52694,"longitude":-41.945}}(window,'GeoPostal','BR');

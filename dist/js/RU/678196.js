@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678196"]={"code":"678196","region":"Saha, Respublika","city":"Aykhal","latitude":66,"longitude":111.5}}(window,'GeoPostal','RU');

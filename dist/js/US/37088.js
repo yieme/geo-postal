@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37088"]={"code":"37088","region":"Tennessee","city":"Lebanon","latitude":36.20802,"longitude":-86.2911}}(window,'GeoPostal','US');

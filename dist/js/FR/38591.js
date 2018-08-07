@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38591"]={"code":"38591","region":"Auvergne-Rhone-Alpes","city":"La Cote-Saint-Andre","latitude":45.39357,"longitude":5.26055}}(window,'GeoPostal','FR');

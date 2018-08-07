@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37353"]={"code":"37353","region":"Tennessee","city":"McDonald","latitude":35.075127,"longitude":-85.009892}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66039"]={"code":"66039","region":"Kansas","city":"Kincaid","latitude":38.102964,"longitude":-95.131783}}(window,'GeoPostal','US');

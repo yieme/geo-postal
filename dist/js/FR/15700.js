@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15700"]={"code":"15700","region":"Auvergne-Rhone-Alpes","city":"Pleaux","latitude":45.13333,"longitude":2.23333}}(window,'GeoPostal','FR');

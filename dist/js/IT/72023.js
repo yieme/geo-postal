@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72023"]={"code":"72023","region":"Puglia","city":"Mesagne","latitude":40.55883,"longitude":17.80831}}(window,'GeoPostal','IT');

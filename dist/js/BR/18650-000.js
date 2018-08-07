@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18650-000"]={"code":"18650-000","region":"Sao Paulo","city":"Sao Manuel","latitude":-22.73111,"longitude":-48.57056}}(window,'GeoPostal','BR');

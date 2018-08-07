@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36551"]={"code":"36551","region":"AL","city":"Loxley","latitude":30.618,"longitude":-87.7562}}(window,'GeoPostal','US');

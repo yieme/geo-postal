@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["700"]={"code":"700","region":"Austurland","city":"Egilsstadir","latitude":65.26533,"longitude":-14.39484}}(window,'GeoPostal','IS');

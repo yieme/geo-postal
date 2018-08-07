@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92560"]={"code":"92560","region":"Veracruz de Ignacio de la Llave","city":"Tamiahua","latitude":21.26667,"longitude":-97.45}}(window,'GeoPostal','MX');

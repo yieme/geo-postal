@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40481"]={"code":"40481","region":"KY","city":"Sandgap","latitude":37.4862,"longitude":-84.0905}}(window,'GeoPostal','US');

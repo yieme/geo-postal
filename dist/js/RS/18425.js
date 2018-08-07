@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18425"]={"code":"18425","region":"Beograd","city":"Lazarevac","latitude":44.38534,"longitude":20.2557}}(window,'GeoPostal','RS');

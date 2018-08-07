@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06008"]={"code":"06008","region":"Santa Rosa","city":"Chiquimulilla","latitude":14.08583,"longitude":-90.37667}}(window,'GeoPostal','GT');

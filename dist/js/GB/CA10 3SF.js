@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 3SF"]={"code":"CA10 3SF","region":"England","city":"Tebay","latitude":54.43421,"longitude":-2.59363}}(window,'GeoPostal','GB');

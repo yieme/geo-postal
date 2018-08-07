@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12189"]={"code":"12189","region":"New York","city":"Watervliet","latitude":42.73008,"longitude":-73.70123}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663094"]={"code":"663094","region":"Krasnoyarskiy kray","city":"Divnogorsk","latitude":55.95944,"longitude":92.36194}}(window,'GeoPostal','RU');

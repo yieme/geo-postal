@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98055"]={"code":"98055","region":"Sicilia","city":"Lipari","latitude":38.46743,"longitude":14.95398}}(window,'GeoPostal','IT');

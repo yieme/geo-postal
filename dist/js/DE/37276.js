@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37276"]={"code":"37276","region":"Hessen","city":"Schwebda","latitude":51.19646,"longitude":10.10427}}(window,'GeoPostal','DE');

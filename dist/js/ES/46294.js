@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46294"]={"code":"46294","region":"Valenciana, Comunidad","city":"Carcer","latitude":39.06667,"longitude":-0.56667}}(window,'GeoPostal','ES');

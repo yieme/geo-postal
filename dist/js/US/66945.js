@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66945"]={"code":"66945","region":"Kansas","city":"Hanover","latitude":39.890227,"longitude":-96.890353}}(window,'GeoPostal','US');

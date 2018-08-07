@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3723"]={"code":"3723","region":"Chittagong","city":"Lakshmipur","latitude":22.95,"longitude":90.83333}}(window,'GeoPostal','BD');

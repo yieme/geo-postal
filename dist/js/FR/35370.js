@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35370"]={"code":"35370","region":"Bretagne","city":"Torce","latitude":48.0612,"longitude":-1.26708}}(window,'GeoPostal','FR');

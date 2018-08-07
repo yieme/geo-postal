@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23934"]={"code":"23934","region":"VA","city":"Cullen","latitude":37.1552,"longitude":-78.6459}}(window,'GeoPostal','US');

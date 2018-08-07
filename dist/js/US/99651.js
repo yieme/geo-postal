@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99651"]={"code":"99651","region":"Alaska","city":"Platinum","latitude":58.791177,"longitude":-161.480244}}(window,'GeoPostal','US');

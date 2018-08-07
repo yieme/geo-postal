@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29670"]={"code":"29670","region":"Bretagne","city":"Henvic","latitude":48.63256,"longitude":-3.92623}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95041"]={"code":"95041","region":"CA","city":"Mount Hermon","latitude":37.0511,"longitude":-122.0575}}(window,'GeoPostal','US');

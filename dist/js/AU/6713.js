@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6713"]={"code":"6713","region":"Western Australia","city":"Dampier","latitude":-20.66275,"longitude":116.71256}}(window,'GeoPostal','AU');

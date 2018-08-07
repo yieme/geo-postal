@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52161"]={"code":"52161","region":"Iowa","city":"Ossian","latitude":43.14639,"longitude":-91.76389}}(window,'GeoPostal','US');

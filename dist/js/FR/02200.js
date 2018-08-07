@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02200"]={"code":"02200","region":"Hauts-de-France","city":"Pasly","latitude":49.40167,"longitude":3.29631}}(window,'GeoPostal','FR');

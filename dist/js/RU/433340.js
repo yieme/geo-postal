@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433340"]={"code":"433340","region":"Ul'yanovskaya oblast'","city":"Undory","latitude":54.60849,"longitude":48.39276}}(window,'GeoPostal','RU');

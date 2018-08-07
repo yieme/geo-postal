@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81081"]={"code":"81081","region":"CO","city":"Trinchera","latitude":37.0757,"longitude":-104.1184}}(window,'GeoPostal','US');

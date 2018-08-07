@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08825"]={"code":"08825","region":"New Jersey","city":"Frenchtown","latitude":40.523507,"longitude":-75.047593}}(window,'GeoPostal','US');

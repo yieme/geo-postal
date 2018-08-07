@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 0R0"]={"code":"T0G 0R0","region":"Alberta","city":"Meanook","latitude":54.56687,"longitude":-113.33537}}(window,'GeoPostal','CA');

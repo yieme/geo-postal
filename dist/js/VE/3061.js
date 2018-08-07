@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3061"]={"code":"3061","region":"Lara","city":"Quibor","latitude":9.92866,"longitude":-69.6201}}(window,'GeoPostal','VE');

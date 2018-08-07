@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69149"]={"code":"69149","region":"NE","city":"Lodgepole","latitude":41.1697,"longitude":-102.657}}(window,'GeoPostal','US');

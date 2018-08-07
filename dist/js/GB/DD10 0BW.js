@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD10 0BW"]={"code":"DD10 0BW","region":"Scotland","city":"Saint Cyrus","latitude":56.76667,"longitude":-2.4}}(window,'GeoPostal','GB');

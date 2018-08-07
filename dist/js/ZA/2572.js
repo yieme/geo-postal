@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2572"]={"code":"2572","region":"North-West","city":"Klerksdorp","latitude":-26.85213,"longitude":26.66672}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18269"]={"code":"18269","region":"Stockholms lan","city":"Djursholm","latitude":59.39926,"longitude":18.05619}}(window,'GeoPostal','SE');

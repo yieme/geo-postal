@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46267"]={"code":"46267","region":"Jawa Barat","city":"Sukaasih","latitude":-7.0115,"longitude":107.1148}}(window,'GeoPostal','ID');

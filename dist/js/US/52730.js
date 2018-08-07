@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52730"]={"code":"52730","region":"IA","city":"Camanche","latitude":41.7886,"longitude":-90.2709}}(window,'GeoPostal','US');

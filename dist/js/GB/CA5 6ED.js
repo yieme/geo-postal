@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA5 6ED"]={"code":"CA5 6ED","region":"England","city":"Beaumont","latitude":54.92231,"longitude":-3.0209}}(window,'GeoPostal','GB');

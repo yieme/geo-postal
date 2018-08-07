@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96774"]={"code":"96774","region":"HI","city":"Ookala","latitude":20.0119,"longitude":-155.2747}}(window,'GeoPostal','US');

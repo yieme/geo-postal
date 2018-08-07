@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1840"]={"code":"1840","region":"Vlaams-Brabant","city":"Londerzeel","latitude":51.00468,"longitude":4.30304}}(window,'GeoPostal','BE');

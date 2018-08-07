@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95703"]={"code":"95703","region":"CA","city":"Applegate","latitude":39.0007,"longitude":-120.9924}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88020"]={"code":"88020","region":"New Mexico","city":"Animas","latitude":32.088333,"longitude":-108.878611}}(window,'GeoPostal','US');

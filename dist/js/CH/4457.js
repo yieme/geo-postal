@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4457"]={"code":"4457","region":"Basel-Landschaft","city":"Diegten","latitude":47.4138,"longitude":7.81085}}(window,'GeoPostal','CH');

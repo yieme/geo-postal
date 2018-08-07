@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352942"]={"code":"352942","region":"Krasnodarskiy kray","city":"Zavetnyy","latitude":44.9316,"longitude":41.1373}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64260"]={"code":"64260","region":"Nouvelle-Aquitaine","city":"Arudy","latitude":43.11667,"longitude":-0.43333}}(window,'GeoPostal','FR');

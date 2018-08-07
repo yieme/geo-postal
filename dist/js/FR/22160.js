@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22160"]={"code":"22160","region":"Bretagne","city":"Callac","latitude":48.40292,"longitude":-3.428}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70341"]={"code":"70341","region":"LA","city":"Belle Rose","latitude":30.026,"longitude":-91.0444}}(window,'GeoPostal','US');

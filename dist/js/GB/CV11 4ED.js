@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV11 4ED"]={"code":"CV11 4ED","region":"England","city":"Nuneaton","latitude":52.52323,"longitude":-1.46523}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61432"]={"code":"61432","region":"Illinois","city":"Fairview","latitude":40.632359,"longitude":-90.165985}}(window,'GeoPostal','US');

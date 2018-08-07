@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58324-000"]={"code":"58324-000","region":"Paraiba","city":"Pitimbu","latitude":-7.47056,"longitude":-34.80861}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3913"]={"code":"3913","region":"Victoria","city":"Tyabb","latitude":-38.25,"longitude":145.18333}}(window,'GeoPostal','AU');

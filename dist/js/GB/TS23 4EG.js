@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS23 4EG"]={"code":"TS23 4EG","region":"England","city":"Billingham","latitude":54.60828,"longitude":-1.29214}}(window,'GeoPostal','GB');

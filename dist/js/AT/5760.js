@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5760"]={"code":"5760","region":"Salzburg","city":"Saalfelden am Steinernen Meer","latitude":47.42681,"longitude":12.848}}(window,'GeoPostal','AT');

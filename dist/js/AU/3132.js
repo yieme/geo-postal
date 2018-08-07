@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3132"]={"code":"3132","region":"Victoria","city":"Mitcham","latitude":-37.81818,"longitude":145.19901}}(window,'GeoPostal','AU');

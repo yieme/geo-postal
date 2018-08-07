@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45351"]={"code":"45351","region":"Ohio","city":"Osgood","latitude":40.340142,"longitude":-84.495262}}(window,'GeoPostal','US');

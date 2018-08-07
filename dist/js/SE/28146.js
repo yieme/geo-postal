@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28146"]={"code":"28146","region":"Skane lan","city":"Tormestorp","latitude":56.11667,"longitude":13.73333}}(window,'GeoPostal','SE');

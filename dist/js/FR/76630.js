@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76630"]={"code":"76630","region":"Normandie","city":"Saint-Quentin-au-Bosc","latitude":49.9397,"longitude":1.3228}}(window,'GeoPostal','FR');

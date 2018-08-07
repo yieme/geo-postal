@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57737"]={"code":"57737","region":"SD","city":"Enning","latitude":44.5755,"longitude":-102.5632}}(window,'GeoPostal','US');

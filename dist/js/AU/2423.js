@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2423"]={"code":"2423","region":"New South Wales","city":"Coolongolook","latitude":-32.21667,"longitude":152.31667}}(window,'GeoPostal','AU');

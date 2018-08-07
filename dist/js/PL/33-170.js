@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-170"]={"code":"33-170","region":"Malopolskie","city":"Tuchow","latitude":49.89485,"longitude":21.05407}}(window,'GeoPostal','PL');

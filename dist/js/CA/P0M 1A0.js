@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0M 1A0"]={"code":"P0M 1A0","region":"Ontario","city":"Bigwood","latitude":46.03338,"longitude":-80.5997}}(window,'GeoPostal','CA');

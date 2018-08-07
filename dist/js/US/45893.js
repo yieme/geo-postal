@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45893"]={"code":"45893","region":"OH","city":"Vaughnsville","latitude":40.8821,"longitude":-84.148}}(window,'GeoPostal','US');

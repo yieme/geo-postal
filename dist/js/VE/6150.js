@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6150"]={"code":"6150","region":"Sucre","city":"Carupano","latitude":10.66781,"longitude":-63.25849}}(window,'GeoPostal','VE');

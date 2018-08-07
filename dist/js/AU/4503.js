@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4503"]={"code":"4503","region":"Queensland","city":"Murrumba Downs","latitude":-27.26733,"longitude":153.01053}}(window,'GeoPostal','AU');

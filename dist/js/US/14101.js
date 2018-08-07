@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14101"]={"code":"14101","region":"New York","city":"Machias","latitude":42.406602,"longitude":-78.516633}}(window,'GeoPostal','US');

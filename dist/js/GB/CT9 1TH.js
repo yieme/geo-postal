@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT9 1TH"]={"code":"CT9 1TH","region":"England","city":"Margate","latitude":51.38132,"longitude":1.38617}}(window,'GeoPostal','GB');

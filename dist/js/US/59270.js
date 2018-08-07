@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59270"]={"code":"59270","region":"Montana","city":"Sidney","latitude":47.71668,"longitude":-104.15633}}(window,'GeoPostal','US');

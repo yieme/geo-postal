@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G5R 0A1"]={"code":"G5R 0A1","region":"Quebec","city":"Riviere-du-Loup","latitude":47.83044,"longitude":-69.53419}}(window,'GeoPostal','CA');

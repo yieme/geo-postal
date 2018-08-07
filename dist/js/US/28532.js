@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28532"]={"code":"28532","region":"North Carolina","city":"Havelock","latitude":34.87905,"longitude":-76.90133}}(window,'GeoPostal','US');

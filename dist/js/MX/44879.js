@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44879"]={"code":"44879","region":"Jalisco","city":"Arandas","latitude":20.7,"longitude":-102.35}}(window,'GeoPostal','MX');

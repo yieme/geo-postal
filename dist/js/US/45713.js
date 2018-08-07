@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45713"]={"code":"45713","region":"OH","city":"Bartlett","latitude":39.4195,"longitude":-81.8157}}(window,'GeoPostal','US');

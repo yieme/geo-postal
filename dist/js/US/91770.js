@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91770"]={"code":"91770","region":"California","city":"Rosemead","latitude":34.08057,"longitude":-118.07285}}(window,'GeoPostal','US');

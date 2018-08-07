@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12422"]={"code":"12422","region":"Zhytomyrska oblast","city":"Denyshi","latitude":50.21415,"longitude":28.40395}}(window,'GeoPostal','UA');

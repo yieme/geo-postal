@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12783"]={"code":"12783","region":"New York","city":"Swan Lake","latitude":41.740918,"longitude":-74.791269}}(window,'GeoPostal','US');

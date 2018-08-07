@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11952"]={"code":"11952","region":"NY","city":"Mattituck","latitude":40.9943,"longitude":-72.5363}}(window,'GeoPostal','US');

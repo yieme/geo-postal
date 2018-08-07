@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46737"]={"code":"46737","region":"Indiana","city":"Fremont","latitude":41.73088,"longitude":-84.93274}}(window,'GeoPostal','US');

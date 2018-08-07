@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3137"]={"code":"3137","region":"Victoria","city":"Kilsyth","latitude":-37.8,"longitude":145.31667}}(window,'GeoPostal','AU');

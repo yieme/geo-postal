@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["UB7 0EB"]={"code":"UB7 0EB","region":"England","city":"Drayton","latitude":50.84492,"longitude":-1.0425}}(window,'GeoPostal','GB');

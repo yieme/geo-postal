@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46113"]={"code":"46113","region":"Valenciana, Comunidad","city":"Moncada","latitude":39.54555,"longitude":-0.39551}}(window,'GeoPostal','ES');

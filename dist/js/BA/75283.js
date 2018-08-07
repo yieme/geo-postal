@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75283"]={"code":"75283","region":"Federacija Bosne i Hercegovine","city":"Stupari","latitude":44.31472,"longitude":18.68417}}(window,'GeoPostal','BA');

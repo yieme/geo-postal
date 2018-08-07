@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37334"]={"code":"37334","region":"Tennessee","city":"Fayetteville","latitude":35.15203,"longitude":-86.57055}}(window,'GeoPostal','US');

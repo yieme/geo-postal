@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169420"]={"code":"169420","region":"Komi, Respublika","city":"Troitsko-Pechorsk","latitude":62.70836,"longitude":56.19643}}(window,'GeoPostal','RU');

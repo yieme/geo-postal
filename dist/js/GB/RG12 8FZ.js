@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG12 8FZ"]={"code":"RG12 8FZ","region":"England","city":"Bracknell","latitude":51.41363,"longitude":-0.75054}}(window,'GeoPostal','GB');

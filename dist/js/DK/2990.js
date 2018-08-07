@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2990"]={"code":"2990","region":"Hovedstaden","city":"Niva","latitude":55.93405,"longitude":12.50485}}(window,'GeoPostal','DK');

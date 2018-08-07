@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59192"]={"code":"59192","region":"Nordrhein-Westfalen","city":"Bergkamen","latitude":51.61633,"longitude":7.64451}}(window,'GeoPostal','DE');

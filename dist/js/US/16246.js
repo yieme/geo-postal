@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16246"]={"code":"16246","region":"PA","city":"Plumville","latitude":40.7931,"longitude":-79.1806}}(window,'GeoPostal','US');

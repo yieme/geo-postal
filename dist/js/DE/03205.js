@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03205"]={"code":"03205","region":"Brandenburg","city":"Briesen","latitude":51.73387,"longitude":14.1131}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503101"]={"code":"503101","region":"Rivers","city":"Bonny","latitude":4.4522,"longitude":7.16808}}(window,'GeoPostal','NG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309964"]={"code":"309964","region":"Belgorodskaya oblast'","city":"Livenka","latitude":50.4491,"longitude":38.2959}}(window,'GeoPostal','RU');

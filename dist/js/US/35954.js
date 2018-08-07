@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35954"]={"code":"35954","region":"Alabama","city":"Attalla","latitude":34.08306,"longitude":-86.06028}}(window,'GeoPostal','US');

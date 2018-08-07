@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87565"]={"code":"87565","region":"New Mexico","city":"San Jose","latitude":35.415556,"longitude":-105.493611}}(window,'GeoPostal','US');

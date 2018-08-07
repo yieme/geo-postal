@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA15 1AJ"]={"code":"KA15 1AJ","region":"Scotland","city":"Beith","latitude":55.74923,"longitude":-4.6368}}(window,'GeoPostal','GB');

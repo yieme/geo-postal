@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["164530"]={"code":"164530","region":"Arkhangel'skaya oblast'","city":"Kholmogory","latitude":64.2229,"longitude":41.656}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ME14 5BX"]={"code":"ME14 5BX","region":"England","city":"Weavering","latitude":51.27236,"longitude":0.5479}}(window,'GeoPostal','GB');

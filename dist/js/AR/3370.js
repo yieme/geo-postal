@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3370"]={"code":"3370","region":"Misiones","city":"Puerto Iguazu","latitude":-25.59912,"longitude":-54.57355}}(window,'GeoPostal','AR');

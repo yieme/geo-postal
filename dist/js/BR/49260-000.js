@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49260-000"]={"code":"49260-000","region":"Sergipe","city":"Umbauba","latitude":-11.38333,"longitude":-37.65778}}(window,'GeoPostal','BR');

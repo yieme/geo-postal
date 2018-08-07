@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301090"]={"code":"301090","region":"Tul'skaya oblast'","city":"Chern'","latitude":53.45232,"longitude":36.9145}}(window,'GeoPostal','RU');

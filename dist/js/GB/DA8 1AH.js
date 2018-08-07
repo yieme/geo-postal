@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DA8 1AH"]={"code":"DA8 1AH","region":"England","city":"Erith","latitude":51.48315,"longitude":0.17484}}(window,'GeoPostal','GB');

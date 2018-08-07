@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR4 3HJ"]={"code":"PR4 3HJ","region":"England","city":"Esprick","latitude":53.8196,"longitude":-2.8992}}(window,'GeoPostal','GB');

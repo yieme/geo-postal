@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-550"]={"code":"08-550","region":"Lubelskie","city":"Kloczew","latitude":51.72134,"longitude":21.96493}}(window,'GeoPostal','PL');

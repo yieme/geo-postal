@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9R 5J6"]={"code":"V9R 5J6","region":"British Columbia","city":"Nanaimo","latitude":49.164553,"longitude":-123.938276}}(window,'GeoPostal','CA');

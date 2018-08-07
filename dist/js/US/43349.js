@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43349"]={"code":"43349","region":"OH","city":"Shauck","latitude":40.6142,"longitude":-82.6619}}(window,'GeoPostal','US');

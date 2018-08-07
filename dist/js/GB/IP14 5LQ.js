@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP14 5LQ"]={"code":"IP14 5LQ","region":"England","city":"Mickfield","latitude":52.21289,"longitude":1.12528}}(window,'GeoPostal','GB');

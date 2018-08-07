@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02715"]={"code":"02715","region":"MA","city":"Dighton","latitude":41.8125,"longitude":-71.1427}}(window,'GeoPostal','US');

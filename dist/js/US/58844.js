@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58844"]={"code":"58844","region":"ND","city":"Fortuna","latitude":48.8813,"longitude":-103.7415}}(window,'GeoPostal','US');

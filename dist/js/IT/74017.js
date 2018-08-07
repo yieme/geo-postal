@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74017"]={"code":"74017","region":"Puglia","city":"Mottola","latitude":40.63528,"longitude":17.03528}}(window,'GeoPostal','IT');

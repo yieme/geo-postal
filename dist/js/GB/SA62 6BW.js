@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 6BW"]={"code":"SA62 6BW","region":"Wales","city":"Saint David's","latitude":51.88094,"longitude":-5.26554}}(window,'GeoPostal','GB');

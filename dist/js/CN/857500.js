@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["857500"]={"code":"857500","region":"Xizang","city":"Kangmar","latitude":28.5,"longitude":89.75}}(window,'GeoPostal','CN');

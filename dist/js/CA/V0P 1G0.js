@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0P 1G0"]={"code":"V0P 1G0","region":"British Columbia","city":"Gold River","latitude":49.788008,"longitude":-126.049201}}(window,'GeoPostal','CA');

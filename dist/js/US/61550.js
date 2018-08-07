@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61550"]={"code":"61550","region":"Illinois","city":"Morton","latitude":40.61415,"longitude":-89.462774}}(window,'GeoPostal','US');

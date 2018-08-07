@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98920"]={"code":"98920","region":"WA","city":"Brownstown","latitude":46.4043,"longitude":-120.607}}(window,'GeoPostal','US');

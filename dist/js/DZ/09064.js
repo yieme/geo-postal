@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09064"]={"code":"09064","region":"Blida","city":"Meftah","latitude":36.6204,"longitude":3.22248}}(window,'GeoPostal','DZ');

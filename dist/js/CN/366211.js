@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366211"]={"code":"366211","region":"Fujian","city":"Pengkou","latitude":25.53093,"longitude":116.68445}}(window,'GeoPostal','CN');

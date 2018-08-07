@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20090"]={"code":"20090","region":"Lombardia","city":"Segrate","latitude":45.49624,"longitude":9.29323}}(window,'GeoPostal','IT');

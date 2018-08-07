@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71711"]={"code":"71711","region":"AR","city":"Camden","latitude":33.589,"longitude":-92.8426}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21661"]={"code":"21661","region":"MD","city":"Rock Hall","latitude":39.1344,"longitude":-76.2305}}(window,'GeoPostal','US');

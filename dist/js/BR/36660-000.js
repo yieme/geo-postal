@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36660-000"]={"code":"36660-000","region":"Minas Gerais","city":"Alem Paraiba","latitude":-21.88778,"longitude":-42.70444}}(window,'GeoPostal','BR');

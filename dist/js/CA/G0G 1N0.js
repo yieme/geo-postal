@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0G 1N0"]={"code":"G0G 1N0","region":"Quebec","city":"Harrington Harbour","latitude":50.5,"longitude":-59.483333}}(window,'GeoPostal','CA');

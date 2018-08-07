@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD6 9JD"]={"code":"TD6 9JD","region":"Scotland","city":"Lilliesleaf","latitude":55.51824,"longitude":-2.73719}}(window,'GeoPostal','GB');

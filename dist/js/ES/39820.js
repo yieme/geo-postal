@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39820"]={"code":"39820","region":"Cantabria","city":"Limpias","latitude":43.36402,"longitude":-3.41778}}(window,'GeoPostal','ES');

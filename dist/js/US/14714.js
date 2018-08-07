@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14714"]={"code":"14714","region":"NY","city":"Black Creek","latitude":42.2855,"longitude":-78.2312}}(window,'GeoPostal','US');

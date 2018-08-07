@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30525"]={"code":"30525","region":"Georgia","city":"Clayton","latitude":34.87815,"longitude":-83.40099}}(window,'GeoPostal','US');

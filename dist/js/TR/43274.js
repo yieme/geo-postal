@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43274"]={"code":"43274","region":"Burdur","city":"Bucak","latitude":37.45917,"longitude":30.595}}(window,'GeoPostal','TR');

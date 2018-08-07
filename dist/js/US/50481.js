@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50481"]={"code":"50481","region":"IA","city":"Toeterville","latitude":43.3564,"longitude":-92.789}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09500-000"]={"code":"09500-000","region":"Sao Paulo","city":"Santo Andre","latitude":-23.66389,"longitude":-46.53833}}(window,'GeoPostal','BR');

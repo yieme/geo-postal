@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636804"]={"code":"636804","region":"Tamil Nadu","city":"Dharmapuri","latitude":12.13333,"longitude":78.16667}}(window,'GeoPostal','IN');

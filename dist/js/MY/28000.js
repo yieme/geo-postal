@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28000"]={"code":"28000","region":"Pahang","city":"Temerloh","latitude":3.4506,"longitude":102.4176}}(window,'GeoPostal','MY');

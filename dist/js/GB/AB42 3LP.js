@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 3LP"]={"code":"AB42 3LP","region":"Scotland","city":"Dens","latitude":57.48333,"longitude":-1.86667}}(window,'GeoPostal','GB');

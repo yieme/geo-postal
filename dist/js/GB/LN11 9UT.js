@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 9UT"]={"code":"LN11 9UT","region":"England","city":"Goulsby","latitude":53.29467,"longitude":-0.11836}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71266"]={"code":"71266","region":"Louisiana","city":"Pioneer","latitude":32.712454,"longitude":-91.482361}}(window,'GeoPostal','US');

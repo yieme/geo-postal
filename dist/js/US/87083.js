@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87083"]={"code":"87083","region":"NM","city":"Cochiti Lake","latitude":35.6485,"longitude":-106.3428}}(window,'GeoPostal','US');

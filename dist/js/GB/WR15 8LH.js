@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR15 8LH"]={"code":"WR15 8LH","region":"England","city":"Boraston","latitude":52.3263,"longitude":-2.56735}}(window,'GeoPostal','GB');

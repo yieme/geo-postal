@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73330"]={"code":"73330","region":"Auvergne-Rhone-Alpes","city":"Le Pont-de-Beauvoisin","latitude":45.53694,"longitude":5.67333}}(window,'GeoPostal','FR');

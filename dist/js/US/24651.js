@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24651"]={"code":"24651","region":"Virginia","city":"Tazewell","latitude":37.11444,"longitude":-81.52248}}(window,'GeoPostal','US');

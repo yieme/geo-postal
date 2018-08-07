@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02639"]={"code":"02639","region":"Castilla-La Mancha","city":"Barrax","latitude":39.04607,"longitude":-2.20152}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA11 7LL"]={"code":"CA11 7LL","region":"England","city":"Penrith","latitude":54.66579,"longitude":-2.75757}}(window,'GeoPostal','GB');

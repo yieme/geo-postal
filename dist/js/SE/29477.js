@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29477"]={"code":"29477","region":"Blekinge lan","city":"Soelvesborg","latitude":56.05205,"longitude":14.57525}}(window,'GeoPostal','SE');

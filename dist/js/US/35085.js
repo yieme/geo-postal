@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35085"]={"code":"35085","region":"AL","city":"Jemison","latitude":32.9805,"longitude":-86.7181}}(window,'GeoPostal','US');

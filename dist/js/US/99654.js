@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99654"]={"code":"99654","region":"Alaska","city":"Palmer","latitude":61.595184,"longitude":-149.408332}}(window,'GeoPostal','US');

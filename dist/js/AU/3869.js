@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3869"]={"code":"3869","region":"Victoria","city":"Hazelwood","latitude":-38.28333,"longitude":146.35}}(window,'GeoPostal','AU');

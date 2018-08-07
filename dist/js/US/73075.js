@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73075"]={"code":"73075","region":"Oklahoma","city":"Pauls Valley","latitude":34.74008,"longitude":-97.22225}}(window,'GeoPostal','US');

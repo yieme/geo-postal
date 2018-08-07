@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14806"]={"code":"14806","region":"New York","city":"Andover","latitude":42.15646,"longitude":-77.79555}}(window,'GeoPostal','US');

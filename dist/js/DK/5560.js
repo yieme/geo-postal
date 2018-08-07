@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5560"]={"code":"5560","region":"Syddanmark","city":"Arup","latitude":55.37315,"longitude":10.04131}}(window,'GeoPostal','DK');

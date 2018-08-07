@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95618"]={"code":"95618","region":"California","city":"Davis","latitude":38.545,"longitude":-121.739444}}(window,'GeoPostal','US');

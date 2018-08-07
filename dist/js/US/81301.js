@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81301"]={"code":"81301","region":"Colorado","city":"Durango","latitude":37.27528,"longitude":-107.88007}}(window,'GeoPostal','US');

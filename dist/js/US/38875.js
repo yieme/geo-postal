@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38875"]={"code":"38875","region":"MS","city":"Trebloc","latitude":33.9068,"longitude":-88.9554}}(window,'GeoPostal','US');

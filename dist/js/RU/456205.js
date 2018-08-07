@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456205"]={"code":"456205","region":"Chelyabinskaya oblast'","city":"Zlatoust","latitude":55.17111,"longitude":59.65083}}(window,'GeoPostal','RU');

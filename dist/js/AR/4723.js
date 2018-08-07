@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4723"]={"code":"4723","region":"Catamarca","city":"Los Altos","latitude":-28.04845,"longitude":-65.49946}}(window,'GeoPostal','AR');

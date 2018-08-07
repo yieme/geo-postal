@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45620"]={"code":"45620","region":"Centre-Val de Loire","city":"Cerdon","latitude":47.63571,"longitude":2.36276}}(window,'GeoPostal','FR');

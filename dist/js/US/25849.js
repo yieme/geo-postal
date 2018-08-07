@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25849"]={"code":"25849","region":"WV","city":"Glen White","latitude":37.7306,"longitude":-81.2799}}(window,'GeoPostal','US');

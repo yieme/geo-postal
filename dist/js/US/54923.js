@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54923"]={"code":"54923","region":"WI","city":"Berlin","latitude":43.9769,"longitude":-88.949}}(window,'GeoPostal','US');

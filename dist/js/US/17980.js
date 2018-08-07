@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17980"]={"code":"17980","region":"PA","city":"Tower City","latitude":40.5845,"longitude":-76.55}}(window,'GeoPostal','US');

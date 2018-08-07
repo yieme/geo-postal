@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25678"]={"code":"25678","region":"West Virginia","city":"Matewan","latitude":37.62306,"longitude":-82.16639}}(window,'GeoPostal','US');

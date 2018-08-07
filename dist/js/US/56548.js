@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56548"]={"code":"56548","region":"Minnesota","city":"Halstad","latitude":47.351998,"longitude":-96.825192}}(window,'GeoPostal','US');

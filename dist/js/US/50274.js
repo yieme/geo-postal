@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50274"]={"code":"50274","region":"IA","city":"Wiota","latitude":41.3846,"longitude":-94.8405}}(window,'GeoPostal','US');

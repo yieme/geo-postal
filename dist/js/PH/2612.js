@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2612"]={"code":"2612","region":"Benguet","city":"Loacan","latitude":16.55,"longitude":120.66667}}(window,'GeoPostal','PH');

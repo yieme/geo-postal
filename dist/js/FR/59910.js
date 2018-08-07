@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59910"]={"code":"59910","region":"Hauts-de-France","city":"Bondues","latitude":50.70196,"longitude":3.09497}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393020"]={"code":"393020","region":"Gujarat","city":"Ankleshwar","latitude":21.6,"longitude":73}}(window,'GeoPostal','IN');

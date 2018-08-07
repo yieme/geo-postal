@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97458"]={"code":"97458","region":"Oregon","city":"Myrtle Point","latitude":43.06483,"longitude":-124.13899}}(window,'GeoPostal','US');

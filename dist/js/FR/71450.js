@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71450"]={"code":"71450","region":"Bourgogne-Franche-Comte","city":"Blanzy","latitude":46.70012,"longitude":4.38833}}(window,'GeoPostal','FR');

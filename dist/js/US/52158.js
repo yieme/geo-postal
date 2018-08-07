@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52158"]={"code":"52158","region":"Iowa","city":"Marquette","latitude":43.059664,"longitude":-91.215434}}(window,'GeoPostal','US');

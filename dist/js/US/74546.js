@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74546"]={"code":"74546","region":"Oklahoma","city":"Haileyville","latitude":34.847394,"longitude":-95.565858}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN5 6QN"]={"code":"TN5 6QN","region":"England","city":"Wadhurst","latitude":51.0623,"longitude":0.33929}}(window,'GeoPostal','GB');

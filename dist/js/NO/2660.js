@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2660"]={"code":"2660","region":"Oppland","city":"Dombas","latitude":62.06965,"longitude":9.12346}}(window,'GeoPostal','NO');

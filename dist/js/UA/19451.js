@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19451"]={"code":"19451","region":"Cherkaska oblast","city":"Steblev","latitude":49.40186,"longitude":31.09764}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-610"]={"code":"42-610","region":"Slaskie","city":"Miasteczko Slaskie","latitude":50.50262,"longitude":18.93949}}(window,'GeoPostal','PL');

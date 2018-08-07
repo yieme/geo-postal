@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81-855"]={"code":"81-855","region":"Pomorskie","city":"Sopot","latitude":54.4418,"longitude":18.56003}}(window,'GeoPostal','PL');

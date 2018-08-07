@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08280"]={"code":"08280","region":"Catalunya","city":"Calaf","latitude":41.73289,"longitude":1.51375}}(window,'GeoPostal','ES');

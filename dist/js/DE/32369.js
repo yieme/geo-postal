@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32369"]={"code":"32369","region":"Nordrhein-Westfalen","city":"Wehe","latitude":52.45611,"longitude":8.65585}}(window,'GeoPostal','DE');

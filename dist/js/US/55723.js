@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55723"]={"code":"55723","region":"Minnesota","city":"Cook","latitude":47.85306,"longitude":-92.68667}}(window,'GeoPostal','US');

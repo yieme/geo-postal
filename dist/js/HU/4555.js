@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4555"]={"code":"4555","region":"Szabolcs-Szatmar-Bereg","city":"Levelek","latitude":47.96282,"longitude":21.98537}}(window,'GeoPostal','HU');

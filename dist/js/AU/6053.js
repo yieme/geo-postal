@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6053"]={"code":"6053","region":"Western Australia","city":"Bayswater","latitude":-31.91686,"longitude":115.91776}}(window,'GeoPostal','AU');

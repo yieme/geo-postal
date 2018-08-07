@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3430"]={"code":"3430","region":"Montana","city":"Boychinovtsi","latitude":43.47222,"longitude":23.33583}}(window,'GeoPostal','BG');

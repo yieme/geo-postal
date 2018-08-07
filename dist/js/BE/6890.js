@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6890"]={"code":"6890","region":"Luxembourg","city":"Libin","latitude":49.98107,"longitude":5.25612}}(window,'GeoPostal','BE');

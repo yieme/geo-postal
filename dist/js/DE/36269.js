@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36269"]={"code":"36269","region":"Hessen","city":"Heimboldshausen","latitude":50.8537,"longitude":9.95518}}(window,'GeoPostal','DE');

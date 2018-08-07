@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 2H0"]={"code":"S0M 2H0","region":"Saskatchewan","city":"Patuanak","latitude":55.91688,"longitude":-107.71806}}(window,'GeoPostal','CA');

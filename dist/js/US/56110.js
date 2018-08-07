@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56110"]={"code":"56110","region":"Minnesota","city":"Adrian","latitude":43.63497,"longitude":-95.9328}}(window,'GeoPostal','US');

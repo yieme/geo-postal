@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39700"]={"code":"39700","region":"Cantabria","city":"Castro-Urdiales","latitude":43.38286,"longitude":-3.22043}}(window,'GeoPostal','ES');

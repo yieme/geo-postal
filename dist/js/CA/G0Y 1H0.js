@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0Y 1H0"]={"code":"G0Y 1H0","region":"Quebec","city":"Piopolis","latitude":45.48339,"longitude":-70.89903}}(window,'GeoPostal','CA');

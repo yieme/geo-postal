@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN16 8UZ"]={"code":"NN16 8UZ","region":"England","city":"Kettering","latitude":52.39836,"longitude":-0.72571}}(window,'GeoPostal','GB');

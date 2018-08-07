@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00769"]={"code":"00769","region":"PR","city":"Coamo","latitude":18.08,"longitude":-66.36}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38257"]={"code":"38257","region":"Tennessee","city":"South Fulton","latitude":36.50089,"longitude":-88.87534}}(window,'GeoPostal','US');

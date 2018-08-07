@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6108"]={"code":"6108","region":"Western Australia","city":"Thornlie","latitude":-32.06003,"longitude":115.955}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49919"]={"code":"49919","region":"MI","city":"Covington","latitude":46.5413,"longitude":-88.5371}}(window,'GeoPostal','US');

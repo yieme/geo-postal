@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74560"]={"code":"74560","region":"OK","city":"Pittsburg","latitude":34.6975,"longitude":-95.8439}}(window,'GeoPostal','US');

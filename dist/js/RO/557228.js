@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["557228"]={"code":"557228","region":"Sibiu","city":"Saliste","latitude":45.79633,"longitude":23.88677}}(window,'GeoPostal','RO');

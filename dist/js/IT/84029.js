@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84029"]={"code":"84029","region":"Campania","city":"Sicignano degli Alburni","latitude":40.56031,"longitude":15.30396}}(window,'GeoPostal','IT');

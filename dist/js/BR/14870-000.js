@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14870-000"]={"code":"14870-000","region":"Sao Paulo","city":"Jaboticabal","latitude":-21.25472,"longitude":-48.32222}}(window,'GeoPostal','BR');

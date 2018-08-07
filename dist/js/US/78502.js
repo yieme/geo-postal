@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78502"]={"code":"78502","region":"Texas","city":"McAllen","latitude":26.194911,"longitude":-98.247199}}(window,'GeoPostal','US');

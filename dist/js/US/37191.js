@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37191"]={"code":"37191","region":"TN","city":"Woodlawn","latitude":36.5147,"longitude":-87.5393}}(window,'GeoPostal','US');

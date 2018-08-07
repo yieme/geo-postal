@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12460"]={"code":"12460","region":"NY","city":"Oak Hill","latitude":42.4098,"longitude":-74.1524}}(window,'GeoPostal','US');

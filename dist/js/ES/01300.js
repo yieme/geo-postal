@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01300"]={"code":"01300","region":"Pais Vasco","city":"Laguardia","latitude":42.5546,"longitude":-2.58528}}(window,'GeoPostal','ES');

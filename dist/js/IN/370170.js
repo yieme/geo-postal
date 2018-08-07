@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["370170"]={"code":"370170","region":"Gujarat","city":"Rapar","latitude":23.56667,"longitude":70.63333}}(window,'GeoPostal','IN');

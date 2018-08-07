@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78101"]={"code":"78101","region":"TX","city":"Adkins","latitude":29.3805,"longitude":-98.265}}(window,'GeoPostal','US');

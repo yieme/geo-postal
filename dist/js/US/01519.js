@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01519"]={"code":"01519","region":"Massachusetts","city":"Grafton","latitude":42.20704,"longitude":-71.68562}}(window,'GeoPostal','US');

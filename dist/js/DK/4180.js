@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4180"]={"code":"4180","region":"Sjelland","city":"Frederiksberg","latitude":55.41618,"longitude":11.56934}}(window,'GeoPostal','DK');

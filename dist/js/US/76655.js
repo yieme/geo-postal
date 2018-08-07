@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76655"]={"code":"76655","region":"TX","city":"Lorena","latitude":31.4093,"longitude":-97.2302}}(window,'GeoPostal','US');

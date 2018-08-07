@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 9BS"]={"code":"NG13 9BS","region":"England","city":"Scarrington","latitude":52.96748,"longitude":-0.90697}}(window,'GeoPostal','GB');

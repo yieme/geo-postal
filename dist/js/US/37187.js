@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37187"]={"code":"37187","region":"TN","city":"White Bluff","latitude":36.1253,"longitude":-87.219}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23440"]={"code":"23440","region":"VA","city":"Tangier","latitude":37.8245,"longitude":-75.993}}(window,'GeoPostal','US');

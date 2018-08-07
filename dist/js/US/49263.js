@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49263"]={"code":"49263","region":"MI","city":"Norvell","latitude":42.1582,"longitude":-84.1838}}(window,'GeoPostal','US');

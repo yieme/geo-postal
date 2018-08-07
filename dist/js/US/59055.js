@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59055"]={"code":"59055","region":"Montana","city":"Melville","latitude":46.074272,"longitude":-109.876511}}(window,'GeoPostal','US');

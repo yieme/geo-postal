@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L4V 1S8"]={"code":"L4V 1S8","region":"Ontario","city":"Mississauga","latitude":43.695418,"longitude":-79.629803}}(window,'GeoPostal','CA');

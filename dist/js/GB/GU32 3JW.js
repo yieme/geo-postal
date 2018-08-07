@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU32 3JW"]={"code":"GU32 3JW","region":"England","city":"Petersfield","latitude":51.00495,"longitude":-0.93375}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO7 7UW"]={"code":"PO7 7UW","region":"England","city":"Waterlooville","latitude":50.88067,"longitude":-1.0304}}(window,'GeoPostal','GB');

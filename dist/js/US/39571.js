@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39571"]={"code":"39571","region":"Mississippi","city":"Pass Christian","latitude":30.366222,"longitude":-89.264825}}(window,'GeoPostal','US');

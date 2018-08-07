@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77115"]={"code":"77115","region":"Ile-de-France","city":"Blandy","latitude":48.5669,"longitude":2.7828}}(window,'GeoPostal','FR');

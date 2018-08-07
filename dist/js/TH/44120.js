@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44120"]={"code":"44120","region":"Maha Sarakham","city":"Wapi Pathum","latitude":15.84523,"longitude":103.37678}}(window,'GeoPostal','TH');

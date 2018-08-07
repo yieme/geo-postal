@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81120"]={"code":"81120","region":"Colorado","city":"Antonito","latitude":37.0731,"longitude":-106.2468}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82600"]={"code":"82600","region":"Pohjois-Karjala","city":"Tohmajarvi","latitude":62.18333,"longitude":30.38333}}(window,'GeoPostal','FI');

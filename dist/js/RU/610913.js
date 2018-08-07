@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["610913"]={"code":"610913","region":"Kirovskaya oblast'","city":"Kostino","latitude":58.90966,"longitude":53.26907}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98037"]={"code":"98037","region":"Sicilia","city":"Letoianni","latitude":37.89266,"longitude":15.31919}}(window,'GeoPostal','IT');

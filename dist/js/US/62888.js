@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62888"]={"code":"62888","region":"IL","city":"Tamaroa","latitude":38.138,"longitude":-89.2231}}(window,'GeoPostal','US');

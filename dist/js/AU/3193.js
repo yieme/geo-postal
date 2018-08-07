@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3193"]={"code":"3193","region":"Victoria","city":"Beaumaris","latitude":-37.9822,"longitude":145.03894}}(window,'GeoPostal','AU');

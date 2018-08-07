@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP11 0SU"]={"code":"IP11 0SU","region":"England","city":"Trimley St Mary","latitude":51.50853,"longitude":-0.12574}}(window,'GeoPostal','GB');

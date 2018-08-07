@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67058"]={"code":"67058","region":"Abruzzo","city":"San Benedetto de' Marsi","latitude":42.00823,"longitude":13.6227}}(window,'GeoPostal','IT');

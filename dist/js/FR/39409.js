@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39409"]={"code":"39409","region":"Bourgogne-Franche-Comte","city":"Morez","latitude":46.5254,"longitude":6.02589}}(window,'GeoPostal','FR');

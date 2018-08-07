@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0987"]={"code":"0987","region":"Limpopo","city":"Giyani","latitude":-23.30246,"longitude":30.71868}}(window,'GeoPostal','ZA');

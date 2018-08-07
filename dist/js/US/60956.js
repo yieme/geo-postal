@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60956"]={"code":"60956","region":"IL","city":"Papineau","latitude":40.967,"longitude":-87.7161}}(window,'GeoPostal','US');

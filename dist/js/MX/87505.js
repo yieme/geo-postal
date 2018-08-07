@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87505"]={"code":"87505","region":"Tamaulipas","city":"Valle Hermoso","latitude":25.66667,"longitude":-97.83333}}(window,'GeoPostal','MX');

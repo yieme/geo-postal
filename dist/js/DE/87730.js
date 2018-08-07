@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87730"]={"code":"87730","region":"Bayern","city":"Gronenbach","latitude":47.87714,"longitude":10.22207}}(window,'GeoPostal','DE');

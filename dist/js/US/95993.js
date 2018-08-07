@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95993"]={"code":"95993","region":"California","city":"Yucaipa","latitude":39.123852,"longitude":-121.665124}}(window,'GeoPostal','US');

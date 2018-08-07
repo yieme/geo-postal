@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21020"]={"code":"21020","region":"Lombardia","city":"Daverio","latitude":45.77798,"longitude":8.77343}}(window,'GeoPostal','IT');

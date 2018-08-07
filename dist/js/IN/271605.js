@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["271605"]={"code":"271605","region":"Uttar Pradesh","city":"Utraula","latitude":27.31667,"longitude":82.41667}}(window,'GeoPostal','IN');

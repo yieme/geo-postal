@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["521182"]={"code":"521182","region":"Andhra Pradesh","city":"Avanigadda","latitude":16.02148,"longitude":80.91808}}(window,'GeoPostal','IN');

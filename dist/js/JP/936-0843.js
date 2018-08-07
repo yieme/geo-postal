@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["936-0843"]={"code":"936-0843","region":"Toyama","city":"Namerikawa","latitude":36.767,"longitude":137.333}}(window,'GeoPostal','JP');

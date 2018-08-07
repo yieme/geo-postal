@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40730"]={"code":"40730","region":"Guerrero","city":"La Union","latitude":17.96667,"longitude":-101.81667}}(window,'GeoPostal','MX');

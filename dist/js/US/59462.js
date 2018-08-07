@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59462"]={"code":"59462","region":"Montana","city":"Moccasin","latitude":47.05333,"longitude":-109.91056}}(window,'GeoPostal','US');

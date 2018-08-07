@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61150"]={"code":"61150","region":"Normandie","city":"Ecouche","latitude":48.71752,"longitude":-0.12409}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09032"]={"code":"09032","region":"Sardegna","city":"Assemini","latitude":39.29056,"longitude":8.99694}}(window,'GeoPostal','IT');

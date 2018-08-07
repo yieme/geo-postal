@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368034"]={"code":"368034","region":"Krasnodarskiy kray","city":"Glubokiy","latitude":44.94673,"longitude":41.01845}}(window,'GeoPostal','RU');

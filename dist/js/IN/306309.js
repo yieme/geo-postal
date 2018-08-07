@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["306309"]={"code":"306309","region":"Rajasthan","city":"Bilara","latitude":26.17917,"longitude":73.70556}}(window,'GeoPostal','IN');

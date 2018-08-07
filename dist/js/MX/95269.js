@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95269"]={"code":"95269","region":"Veracruz de Ignacio de la Llave","city":"Anton Lizardo","latitude":19.05,"longitude":-95.98333}}(window,'GeoPostal','MX');

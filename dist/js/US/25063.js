@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25063"]={"code":"25063","region":"West Virginia","city":"Duck","latitude":38.569298,"longitude":-80.973097}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63648"]={"code":"63648","region":"Missouri","city":"Irondale","latitude":37.83528,"longitude":-90.6725}}(window,'GeoPostal','US');

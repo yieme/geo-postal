@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0V 1G0"]={"code":"B0V 1G0","region":"Nova Scotia","city":"Tiverton","latitude":44.38345,"longitude":-66.21558}}(window,'GeoPostal','CA');

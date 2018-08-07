@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28439"]={"code":"28439","region":"NC","city":"Fair Bluff","latitude":34.3023,"longitude":-79.0175}}(window,'GeoPostal','US');

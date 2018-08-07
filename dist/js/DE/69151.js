@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69151"]={"code":"69151","region":"Baden-Wurttemberg","city":"Neckargemund","latitude":49.38899,"longitude":8.7959}}(window,'GeoPostal','DE');

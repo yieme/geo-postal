@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78543"]={"code":"78543","region":"Texas","city":"Elsa","latitude":26.297908,"longitude":-97.992486}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ME8 8AA"]={"code":"ME8 8AA","region":"England","city":"Rainham","latitude":51.36323,"longitude":0.60893}}(window,'GeoPostal','GB');

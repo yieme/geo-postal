@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32073"]={"code":"32073","region":"Florida","city":"Orange Park","latitude":30.1728,"longitude":-81.7558}}(window,'GeoPostal','US');

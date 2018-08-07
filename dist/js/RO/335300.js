@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["335300"]={"code":"335300","region":"Hunedoara","city":"Calan","latitude":45.73333,"longitude":22.98333}}(window,'GeoPostal','RO');

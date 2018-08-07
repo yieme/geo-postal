@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95490"]={"code":"95490","region":"Bayern","city":"Busbach","latitude":49.94189,"longitude":11.40269}}(window,'GeoPostal','DE');

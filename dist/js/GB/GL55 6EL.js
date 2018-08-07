@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL55 6EL"]={"code":"GL55 6EL","region":"England","city":"Chipping Campden","latitude":52.04964,"longitude":-1.7767}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79066"]={"code":"79066","region":"Texas","city":"Pampa","latitude":35.533023,"longitude":-100.97639}}(window,'GeoPostal','US');

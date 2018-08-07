@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31098"]={"code":"31098","region":"Georgia","city":"Warner Robins","latitude":32.609773,"longitude":-83.595066}}(window,'GeoPostal','US');

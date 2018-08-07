@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69870"]={"code":"69870","region":"Auvergne-Rhone-Alpes","city":"Poule-les-Echarmeaux","latitude":46.1497,"longitude":4.4581}}(window,'GeoPostal','FR');

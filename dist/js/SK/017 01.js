@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["017 01"]={"code":"017 01","region":"Nitriansky kraj","city":"Povazska Bystrica","latitude":49.12153,"longitude":18.42169}}(window,'GeoPostal','SK');

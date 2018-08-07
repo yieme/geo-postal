@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52777"]={"code":"52777","region":"Iowa","city":"Wheatland","latitude":41.833763,"longitude":-90.839031}}(window,'GeoPostal','US');

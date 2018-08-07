@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 9HG"]={"code":"DG9 9HG","region":"Northern Ireland","city":"Portaferry","latitude":54.38333,"longitude":-5.55}}(window,'GeoPostal','GB');

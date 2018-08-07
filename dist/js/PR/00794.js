@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00794"]={"code":"00794","region":"Barranquitas","city":"Barranquitas","latitude":18.18662,"longitude":-66.30628}}(window,'GeoPostal','PR');

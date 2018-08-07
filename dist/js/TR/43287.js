@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43287"]={"code":"43287","region":"Kirikkale","city":"Celebi","latitude":39.46418,"longitude":33.5241}}(window,'GeoPostal','TR');

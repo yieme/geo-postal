@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64642"]={"code":"64642","region":"Missouri","city":"Gilman City","latitude":40.14708,"longitude":-93.84612}}(window,'GeoPostal','US');

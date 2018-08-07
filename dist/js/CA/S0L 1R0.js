@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 1R0"]={"code":"S0L 1R0","region":"Saskatchewan","city":"Kerrobert","latitude":51.91682,"longitude":-109.13479}}(window,'GeoPostal','CA');

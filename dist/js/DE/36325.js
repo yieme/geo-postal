@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36325"]={"code":"36325","region":"Hessen","city":"Gross Felda","latitude":50.65071,"longitude":9.17041}}(window,'GeoPostal','DE');

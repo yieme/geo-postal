@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-380"]={"code":"86-380","region":"Kujawsko-pomorskie","city":"Grudziadz","latitude":53.48411,"longitude":18.75366}}(window,'GeoPostal','PL');

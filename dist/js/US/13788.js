@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13788"]={"code":"13788","region":"New York","city":"Hobart","latitude":42.38209,"longitude":-74.680392}}(window,'GeoPostal','US');

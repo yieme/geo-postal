@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6902"]={"code":"6902","region":"Ticino","city":"Lugano","latitude":46.01008,"longitude":8.96004}}(window,'GeoPostal','CH');

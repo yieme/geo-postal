@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0J 1C0"]={"code":"K0J 1C0","region":"Ontario","city":"Beachburg","latitude":45.73486,"longitude":-76.864388}}(window,'GeoPostal','CA');

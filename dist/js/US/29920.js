@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29920"]={"code":"29920","region":"SC","city":"Saint Helena Island","latitude":32.3716,"longitude":-80.5383}}(window,'GeoPostal','US');

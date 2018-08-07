@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50836"]={"code":"50836","region":"IA","city":"Blockton","latitude":40.6242,"longitude":-94.5049}}(window,'GeoPostal','US');

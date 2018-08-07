@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32127"]={"code":"32127","region":"FL","city":"Port Orange","latitude":29.1383,"longitude":-80.9956}}(window,'GeoPostal','US');

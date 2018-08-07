@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641-600"]={"code":"641-600","region":"Gyeongsangnam-do","city":"Sangwon","latitude":35.22806,"longitude":128.68111}}(window,'GeoPostal','KR');

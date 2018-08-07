@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38829"]={"code":"38829","region":"Sachsen-Anhalt","city":"Munchenhof","latitude":51.82948,"longitude":11.11796}}(window,'GeoPostal','DE');

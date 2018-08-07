@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6884"]={"code":"6884","region":"Sogn og Fjordane","city":"Ovre Ardal","latitude":61.31667,"longitude":7.8}}(window,'GeoPostal','NO');

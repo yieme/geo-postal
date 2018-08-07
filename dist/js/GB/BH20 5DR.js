@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH20 5DR"]={"code":"BH20 5DR","region":"England","city":"Corfe Castle","latitude":50.64021,"longitude":-2.05951}}(window,'GeoPostal','GB');

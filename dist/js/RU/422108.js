@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422108"]={"code":"422108","region":"Tatarstan, Respublika","city":"Lubyany","latitude":56.0378,"longitude":51.40001}}(window,'GeoPostal','RU');

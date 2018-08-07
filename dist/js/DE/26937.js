@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26937"]={"code":"26937","region":"Niedersachsen","city":"Rodenkirchen","latitude":53.40201,"longitude":8.45321}}(window,'GeoPostal','DE');

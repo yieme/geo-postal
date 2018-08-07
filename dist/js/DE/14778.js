@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14778"]={"code":"14778","region":"Brandenburg","city":"Grubo","latitude":52.07718,"longitude":12.52345}}(window,'GeoPostal','DE');

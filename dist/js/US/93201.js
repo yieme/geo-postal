@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93201"]={"code":"93201","region":"CA","city":"Alpaugh","latitude":35.8877,"longitude":-119.4873}}(window,'GeoPostal','US');

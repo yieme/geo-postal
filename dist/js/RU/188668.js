@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188668"]={"code":"188668","region":"Leningradskaya oblast'","city":"Leskolovo","latitude":60.26341,"longitude":30.45462}}(window,'GeoPostal','RU');

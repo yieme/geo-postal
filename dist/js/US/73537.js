@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73537"]={"code":"73537","region":"OK","city":"Eldorado","latitude":34.4727,"longitude":-99.646}}(window,'GeoPostal','US');

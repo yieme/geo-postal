@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26409"]={"code":"26409","region":"Auvergne-Rhone-Alpes","city":"Crest","latitude":44.72836,"longitude":5.02722}}(window,'GeoPostal','FR');

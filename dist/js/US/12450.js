@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12450"]={"code":"12450","region":"NY","city":"Lanesville","latitude":42.1332,"longitude":-74.2443}}(window,'GeoPostal','US');

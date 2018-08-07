@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11620"]={"code":"11620","region":"Occitanie","city":"Villemoustaussou","latitude":43.25186,"longitude":2.36552}}(window,'GeoPostal','FR');

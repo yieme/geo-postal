@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64084"]={"code":"64084","region":"MO","city":"Rayville","latitude":39.3853,"longitude":-94.0284}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30817"]={"code":"30817","region":"Georgia","city":"Lincolnton","latitude":33.79235,"longitude":-82.47902}}(window,'GeoPostal','US');

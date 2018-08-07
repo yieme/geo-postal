@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02831"]={"code":"02831","region":"RI","city":"Hope","latitude":41.7516,"longitude":-71.5612}}(window,'GeoPostal','US');

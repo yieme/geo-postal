@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO30 5TA"]={"code":"PO30 5TA","region":"England","city":"Newport","latitude":50.70146,"longitude":-1.29124}}(window,'GeoPostal','GB');

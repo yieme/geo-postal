@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU17 7PH"]={"code":"HU17 7PH","region":"England","city":"Etton","latitude":53.86667,"longitude":-0.51667}}(window,'GeoPostal','GB');

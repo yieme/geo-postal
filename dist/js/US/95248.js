@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95248"]={"code":"95248","region":"California","city":"Rail Road Flat","latitude":38.315302,"longitude":-120.518584}}(window,'GeoPostal','US');

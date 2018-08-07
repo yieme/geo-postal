@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54624"]={"code":"54624","region":"WI","city":"De Soto","latitude":43.4807,"longitude":-91.1333}}(window,'GeoPostal','US');

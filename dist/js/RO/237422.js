@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237422"]={"code":"237422","region":"Arad","city":"Spineni","latitude":44.7,"longitude":24.56667}}(window,'GeoPostal','RO');

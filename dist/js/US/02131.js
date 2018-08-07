@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02131"]={"code":"02131","region":"Massachusetts","city":"Roslindale","latitude":42.28493,"longitude":-71.127769}}(window,'GeoPostal','US');

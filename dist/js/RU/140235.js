@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140235"]={"code":"140235","region":"Moskovskaya oblast'","city":"Fosforitnyy","latitude":55.32892,"longitude":38.89509}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["525300"]={"code":"525300","region":"Guangdong","city":"Xinyi","latitude":22.37303,"longitude":110.94746}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658450"]={"code":"658450","region":"Altayskiy kray","city":"Staroaleyskoye","latitude":51.00611,"longitude":82}}(window,'GeoPostal','RU');

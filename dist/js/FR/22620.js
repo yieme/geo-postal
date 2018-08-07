@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22620"]={"code":"22620","region":"Bretagne","city":"Ploubazlanec","latitude":48.8,"longitude":-3.03333}}(window,'GeoPostal','FR');

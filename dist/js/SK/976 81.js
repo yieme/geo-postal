@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["976 81"]={"code":"976 81","region":"Trnavsky kraj","city":"Skalica","latitude":48.8449,"longitude":17.22635}}(window,'GeoPostal','SK');

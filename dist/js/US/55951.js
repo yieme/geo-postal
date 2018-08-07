@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55951"]={"code":"55951","region":"Minnesota","city":"Le Roy","latitude":43.51056,"longitude":-92.50472}}(window,'GeoPostal','US');

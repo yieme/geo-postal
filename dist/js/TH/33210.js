@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33210"]={"code":"33210","region":"Si Sa Ket","city":"Huai Thap Than","latitude":15.05333,"longitude":104.02754}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SS15 6TG"]={"code":"SS15 6TG","region":"England","city":"Laindon","latitude":51.5763,"longitude":0.42169}}(window,'GeoPostal','GB');

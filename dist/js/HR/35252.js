@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35252"]={"code":"35252","region":"Brodsko-posavska zupanija","city":"Sibinj","latitude":45.19167,"longitude":17.90806}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["530 71"]={"code":"530 71","region":"Dytiki Makedonia","city":"Meliti","latitude":40.83333,"longitude":21.58333}}(window,'GeoPostal','GR');

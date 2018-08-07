@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63179"]={"code":"63179","region":"Hessen","city":"Obertshausen","latitude":50.07139,"longitude":8.85123}}(window,'GeoPostal','DE');

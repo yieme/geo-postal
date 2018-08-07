@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40162"]={"code":"40162","region":"Castilla y Leon","city":"Gallegos","latitude":41.07508,"longitude":-3.78591}}(window,'GeoPostal','ES');

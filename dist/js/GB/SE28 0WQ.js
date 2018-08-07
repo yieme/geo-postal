@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE28 0WQ"]={"code":"SE28 0WQ","region":"England","city":"London","latitude":51.50853,"longitude":-0.12574}}(window,'GeoPostal','GB');

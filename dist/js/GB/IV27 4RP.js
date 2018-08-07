@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV27 4RP"]={"code":"IV27 4RP","region":"Scotland","city":"Kinlochbervie","latitude":58.45869,"longitude":-5.04332}}(window,'GeoPostal','GB');

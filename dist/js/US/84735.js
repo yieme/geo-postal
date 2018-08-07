@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84735"]={"code":"84735","region":"Utah","city":"Hatch","latitude":37.65083,"longitude":-112.43556}}(window,'GeoPostal','US');

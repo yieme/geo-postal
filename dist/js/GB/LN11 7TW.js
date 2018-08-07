@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 7TW"]={"code":"LN11 7TW","region":"England","city":"Saltfleetby All Saints","latitude":53.3943,"longitude":0.18342}}(window,'GeoPostal','GB');

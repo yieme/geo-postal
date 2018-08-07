@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3343"]={"code":"3343","region":"Niederosterreich","city":"Hollenstein an der Ybbs","latitude":47.8,"longitude":14.76667}}(window,'GeoPostal','AT');

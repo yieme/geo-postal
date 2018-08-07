@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64024"]={"code":"64024","region":"Abruzzo","city":"Notaresco","latitude":42.65414,"longitude":13.8947}}(window,'GeoPostal','IT');

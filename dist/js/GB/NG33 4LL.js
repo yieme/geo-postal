@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG33 4LL"]={"code":"NG33 4LL","region":"England","city":"Swayfield","latitude":52.79373,"longitude":-0.53129}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22120"]={"code":"22120","region":"Punjab","city":"Basirpur","latitude":30.58318,"longitude":73.829}}(window,'GeoPostal','PK');

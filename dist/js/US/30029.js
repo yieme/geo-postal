@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30029"]={"code":"30029","region":"GA","city":"North Metro","latitude":33.9792,"longitude":-84.1263}}(window,'GeoPostal','US');

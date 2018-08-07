@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332221"]={"code":"332221","region":"Hubei","city":"Yanggang","latitude":29.57818,"longitude":115.13741}}(window,'GeoPostal','CN');

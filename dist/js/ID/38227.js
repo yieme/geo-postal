@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38227"]={"code":"38227","region":"Bengkulu","city":"Bengkulu","latitude":-3.80044,"longitude":102.26554}}(window,'GeoPostal','ID');

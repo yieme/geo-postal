@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SVR 9010"]={"code":"SVR 9010","region":"Hamrun","city":"Hamrun","latitude":35.88472,"longitude":14.48444}}(window,'GeoPostal','MT');

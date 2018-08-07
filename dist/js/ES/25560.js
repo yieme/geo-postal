@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25560"]={"code":"25560","region":"Catalunya","city":"Sort","latitude":42.41319,"longitude":1.13045}}(window,'GeoPostal','ES');

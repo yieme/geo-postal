@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5873"]={"code":"5873","region":"Pleven","city":"Dolna Mitropoliya","latitude":43.46667,"longitude":24.53333}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97231"]={"code":"97231","region":"Martinique","city":"Le Robert","latitude":14.67751,"longitude":-60.94228}}(window,'GeoPostal','MQ');

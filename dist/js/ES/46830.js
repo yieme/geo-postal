@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46830"]={"code":"46830","region":"Valenciana, Comunidad","city":"Beniganim","latitude":38.95,"longitude":-0.43333}}(window,'GeoPostal','ES');

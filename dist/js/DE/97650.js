@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97650"]={"code":"97650","region":"Bayern","city":"Oberfladungen","latitude":50.52866,"longitude":10.13798}}(window,'GeoPostal','DE');

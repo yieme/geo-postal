@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["053 42"]={"code":"053 42","region":"Kosicky kraj","city":"Krompachy","latitude":48.91447,"longitude":20.87514}}(window,'GeoPostal','SK');

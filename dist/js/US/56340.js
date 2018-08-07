@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56340"]={"code":"56340","region":"MN","city":"Holdingford","latitude":45.7249,"longitude":-94.4581}}(window,'GeoPostal','US');

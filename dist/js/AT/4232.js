@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4232"]={"code":"4232","region":"Oberosterreich","city":"Hagenberg","latitude":48.367457,"longitude":14.516012}}(window,'GeoPostal','AT');

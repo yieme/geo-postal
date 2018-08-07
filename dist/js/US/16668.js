@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16668"]={"code":"16668","region":"Pennsylvania","city":"Patton","latitude":40.632786,"longitude":-78.65093}}(window,'GeoPostal','US');

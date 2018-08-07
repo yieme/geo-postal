@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50434"]={"code":"50434","region":"IA","city":"Fertile","latitude":43.2644,"longitude":-93.4183}}(window,'GeoPostal','US');

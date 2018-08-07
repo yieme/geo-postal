@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89427"]={"code":"89427","region":"Zakarpatska oblast","city":"Minay","latitude":48.5888,"longitude":22.27502}}(window,'GeoPostal','UA');

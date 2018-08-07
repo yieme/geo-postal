@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75949"]={"code":"75949","region":"Puebla","city":"Libres","latitude":19.46667,"longitude":-97.68333}}(window,'GeoPostal','MX');

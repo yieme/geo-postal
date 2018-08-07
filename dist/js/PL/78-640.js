@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-640"]={"code":"78-640","region":"Zachodniopomorskie","city":"Tuczno","latitude":53.19374,"longitude":16.15368}}(window,'GeoPostal','PL');

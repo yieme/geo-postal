@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75690-000"]={"code":"75690-000","region":"Goias","city":"Caldas Novas","latitude":-17.74167,"longitude":-48.625}}(window,'GeoPostal','BR');

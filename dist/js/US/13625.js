@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13625"]={"code":"13625","region":"New York","city":"Colton","latitude":44.321733,"longitude":-74.824655}}(window,'GeoPostal','US');

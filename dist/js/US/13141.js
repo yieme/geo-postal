@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13141"]={"code":"13141","region":"NY","city":"Preble","latitude":42.795,"longitude":-76.2141}}(window,'GeoPostal','US');

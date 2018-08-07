@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2875"]={"code":"2875","region":"New South Wales","city":"Trundle","latitude":-32.92482,"longitude":147.71054}}(window,'GeoPostal','AU');

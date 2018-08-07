@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32615"]={"code":"32615","region":"Florida","city":"Alachua","latitude":29.787244,"longitude":-82.47907}}(window,'GeoPostal','US');

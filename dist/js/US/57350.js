@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57350"]={"code":"57350","region":"South Dakota","city":"Huron","latitude":44.36332,"longitude":-98.21426}}(window,'GeoPostal','US');

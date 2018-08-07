@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 0K0"]={"code":"S0M 0K0","region":"Saskatchewan","city":"Canoe Narrows","latitude":55.16687,"longitude":-108.15142}}(window,'GeoPostal','CA');

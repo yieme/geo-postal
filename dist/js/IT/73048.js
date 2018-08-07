@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73048"]={"code":"73048","region":"Puglia","city":"Nardo","latitude":40.17512,"longitude":18.02972}}(window,'GeoPostal','IT');

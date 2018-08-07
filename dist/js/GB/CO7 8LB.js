@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO7 8LB"]={"code":"CO7 8LB","region":"England","city":"Great Bentley","latitude":51.85333,"longitude":1.06379}}(window,'GeoPostal','GB');

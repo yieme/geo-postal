@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53260"]={"code":"53260","region":"Licko-senjska zupanija","city":"Brinje","latitude":45.0025,"longitude":15.13389}}(window,'GeoPostal','HR');

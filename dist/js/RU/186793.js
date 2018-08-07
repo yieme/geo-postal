@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186793"]={"code":"186793","region":"Kareliya, Respublika","city":"Sortavala","latitude":61.70532,"longitude":30.69178}}(window,'GeoPostal','RU');

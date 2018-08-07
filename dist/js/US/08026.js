@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08026"]={"code":"08026","region":"NJ","city":"Gibbsboro","latitude":39.8365,"longitude":-74.971}}(window,'GeoPostal','US');

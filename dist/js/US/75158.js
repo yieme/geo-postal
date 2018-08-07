@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75158"]={"code":"75158","region":"Texas","city":"Scurry","latitude":32.4646,"longitude":-96.4056}}(window,'GeoPostal','US');

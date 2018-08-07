@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS23 4UR"]={"code":"BS23 4UR","region":"England","city":"Uphill","latitude":51.32365,"longitude":-2.9807}}(window,'GeoPostal','GB');

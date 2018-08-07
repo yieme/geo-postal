@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36861"]={"code":"36861","region":"AL","city":"Jacksons Gap","latitude":32.8797,"longitude":-85.8487}}(window,'GeoPostal','US');

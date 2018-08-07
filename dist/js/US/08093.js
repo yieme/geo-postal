@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08093"]={"code":"08093","region":"New Jersey","city":"Westville","latitude":39.85974,"longitude":-75.14382}}(window,'GeoPostal','US');

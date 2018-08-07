@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11327"]={"code":"11327","region":"Stockholms lan","city":"Nacka","latitude":59.31053,"longitude":18.16372}}(window,'GeoPostal','SE');

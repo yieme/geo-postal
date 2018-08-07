@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30047"]={"code":"30047","region":"Georgia","city":"Lilburn","latitude":33.87297,"longitude":-84.11199}}(window,'GeoPostal','US');

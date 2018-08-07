@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL33 0LG"]={"code":"LL33 0LG","region":"Wales","city":"Aber","latitude":53.23333,"longitude":-4.01667}}(window,'GeoPostal','GB');

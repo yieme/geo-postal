@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP12 1RJ"]={"code":"IP12 1RJ","region":"England","city":"Melton","latitude":52.105,"longitude":1.32984}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68490-000"]={"code":"68490-000","region":"Para","city":"Portel","latitude":-1.93556,"longitude":-50.82111}}(window,'GeoPostal','BR');

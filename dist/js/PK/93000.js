@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93000"]={"code":"93000","region":"Balochistan","city":"Panjgur","latitude":26.96446,"longitude":64.09028}}(window,'GeoPostal','PK');

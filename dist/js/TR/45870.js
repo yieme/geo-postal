@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45870"]={"code":"45870","region":"Ordu","city":"Unieh","latitude":41.13139,"longitude":37.2825}}(window,'GeoPostal','TR');

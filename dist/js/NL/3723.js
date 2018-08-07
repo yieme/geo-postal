@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3723"]={"code":"3723","region":"Utrecht","city":"Bilthoven","latitude":52.128333,"longitude":5.198611}}(window,'GeoPostal','NL');

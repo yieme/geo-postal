@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54529"]={"code":"54529","region":"Rheinland-Pfalz","city":"Spang","latitude":49.98287,"longitude":6.68092}}(window,'GeoPostal','DE');

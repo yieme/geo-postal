@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83652"]={"code":"83652","region":"ID","city":"Nampa","latitude":43.7071,"longitude":-116.6208}}(window,'GeoPostal','US');

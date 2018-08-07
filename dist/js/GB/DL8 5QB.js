@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 5QB"]={"code":"DL8 5QB","region":"England","city":"Spennithorne","latitude":54.29716,"longitude":-1.79193}}(window,'GeoPostal','GB');

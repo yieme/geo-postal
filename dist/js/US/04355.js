@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04355"]={"code":"04355","region":"ME","city":"Readfield","latitude":44.4032,"longitude":-69.9506}}(window,'GeoPostal','US');

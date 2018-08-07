@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA2 8RH"]={"code":"TA2 8RH","region":"England","city":"Thurloxton","latitude":51.06913,"longitude":-3.03811}}(window,'GeoPostal','GB');

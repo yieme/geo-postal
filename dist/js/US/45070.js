@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45070"]={"code":"45070","region":"OH","city":"West Elkton","latitude":39.5897,"longitude":-84.5581}}(window,'GeoPostal','US');

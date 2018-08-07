@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2483"]={"code":"2483","region":"New South Wales","city":"Ocean Shores","latitude":-28.52383,"longitude":153.53223}}(window,'GeoPostal','AU');

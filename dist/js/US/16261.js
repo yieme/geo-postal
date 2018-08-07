@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16261"]={"code":"16261","region":"PA","city":"Widnoon","latitude":40.9612,"longitude":-79.4673}}(window,'GeoPostal','US');

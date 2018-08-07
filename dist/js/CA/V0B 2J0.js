@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 2J0"]={"code":"V0B 2J0","region":"British Columbia","city":"Wardner","latitude":49.41663,"longitude":-115.41875}}(window,'GeoPostal','CA');

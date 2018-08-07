@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169336"]={"code":"169336","region":"Komi, Respublika","city":"Vodnyy","latitude":63.50464,"longitude":53.40947}}(window,'GeoPostal','RU');

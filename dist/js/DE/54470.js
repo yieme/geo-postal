@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54470"]={"code":"54470","region":"Rheinland-Pfalz","city":"Lieser","latitude":49.91667,"longitude":7.01667}}(window,'GeoPostal','DE');

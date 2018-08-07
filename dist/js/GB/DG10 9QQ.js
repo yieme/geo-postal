@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG10 9QQ"]={"code":"DG10 9QQ","region":"Scotland","city":"Beattock","latitude":55.30704,"longitude":-3.45227}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-840"]={"code":"87-840","region":"Kujawsko-pomorskie","city":"Lubien Kujawski","latitude":52.40574,"longitude":19.1644}}(window,'GeoPostal','PL');

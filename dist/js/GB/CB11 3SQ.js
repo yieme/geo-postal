@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB11 3SQ"]={"code":"CB11 3SQ","region":"England","city":"Widdington","latitude":51.96103,"longitude":0.23749}}(window,'GeoPostal','GB');

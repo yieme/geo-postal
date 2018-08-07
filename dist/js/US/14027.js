@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14027"]={"code":"14027","region":"NY","city":"Brant","latitude":42.5707,"longitude":-79.0308}}(window,'GeoPostal','US');

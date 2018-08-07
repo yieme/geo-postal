@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42320"]={"code":"42320","region":"Auvergne-Rhone-Alpes","city":"La Grand-Croix","latitude":45.5,"longitude":4.55}}(window,'GeoPostal','FR');

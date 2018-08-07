@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85521"]={"code":"85521","region":"Bayern","city":"Riemerling","latitude":48.06024,"longitude":11.68242}}(window,'GeoPostal','DE');

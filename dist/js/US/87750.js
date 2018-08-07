@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87750"]={"code":"87750","region":"NM","city":"Valmora","latitude":35.8164,"longitude":-104.9231}}(window,'GeoPostal','US');

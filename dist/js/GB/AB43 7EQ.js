@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB43 7EQ"]={"code":"AB43 7EQ","region":"Scotland","city":"Sandhaven","latitude":57.69722,"longitude":-2.0634}}(window,'GeoPostal','GB');

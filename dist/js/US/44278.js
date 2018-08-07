@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44278"]={"code":"44278","region":"Ohio","city":"Tallmadge","latitude":41.097895,"longitude":-81.427579}}(window,'GeoPostal','US');

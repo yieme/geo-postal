@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TW8 8BZ"]={"code":"TW8 8BZ","region":"England","city":"Brentford","latitude":51.48619,"longitude":-0.3083}}(window,'GeoPostal','GB');

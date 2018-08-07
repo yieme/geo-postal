@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57069"]={"code":"57069","region":"South Dakota","city":"Vermillion","latitude":42.77944,"longitude":-96.92921}}(window,'GeoPostal','US');

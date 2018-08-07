@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78604"]={"code":"78604","region":"TX","city":"Belmont","latitude":29.5233,"longitude":-97.6839}}(window,'GeoPostal','US');

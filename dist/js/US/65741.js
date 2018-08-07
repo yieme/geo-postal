@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65741"]={"code":"65741","region":"MO","city":"Rockbridge","latitude":36.7895,"longitude":-92.4091}}(window,'GeoPostal','US');

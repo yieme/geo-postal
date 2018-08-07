@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD7 1SW"]={"code":"LD7 1SW","region":"Wales","city":"Llangunllo","latitude":52.33446,"longitude":-3.15833}}(window,'GeoPostal','GB');

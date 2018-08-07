@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35149"]={"code":"35149","region":"AL","city":"Sycamore","latitude":33.2512,"longitude":-86.2025}}(window,'GeoPostal','US');

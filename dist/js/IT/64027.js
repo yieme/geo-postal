@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64027"]={"code":"64027","region":"Abruzzo","city":"Sant'Omero","latitude":42.79125,"longitude":13.78669}}(window,'GeoPostal','IT');

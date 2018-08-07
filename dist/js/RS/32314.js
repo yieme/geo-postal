@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32314"]={"code":"32314","region":"Beograd","city":"Ugrinovci","latitude":44.87833,"longitude":20.18694}}(window,'GeoPostal','RS');

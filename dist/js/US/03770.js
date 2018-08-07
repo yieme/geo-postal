@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03770"]={"code":"03770","region":"New Hampshire","city":"Meriden","latitude":43.518035,"longitude":-72.27936}}(window,'GeoPostal','US');

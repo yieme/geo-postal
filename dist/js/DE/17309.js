@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17309"]={"code":"17309","region":"Mecklenburg-Vorpommern","city":"Pasewalk","latitude":53.50627,"longitude":13.98997}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655103"]={"code":"655103","region":"Khakasiya, Respublika","city":"Ust'-Abakan","latitude":53.8525,"longitude":91.37417}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04694"]={"code":"04694","region":"Andalucia","city":"Pulpi","latitude":37.41154,"longitude":-1.74496}}(window,'GeoPostal','ES');

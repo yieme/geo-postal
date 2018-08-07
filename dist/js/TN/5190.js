@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5190"]={"code":"5190","region":"Mahdia","city":"Sidi 'Ulwan","latitude":35.37505,"longitude":10.93899}}(window,'GeoPostal','TN');

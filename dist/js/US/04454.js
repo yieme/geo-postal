@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04454"]={"code":"04454","region":"ME","city":"Lambert Lake","latitude":45.5459,"longitude":-67.5269}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28814"]={"code":"28814","region":"Piemonte","city":"Cambiasca","latitude":45.96238,"longitude":8.54462}}(window,'GeoPostal','IT');

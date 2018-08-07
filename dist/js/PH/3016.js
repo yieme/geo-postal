@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3016"]={"code":"3016","region":"Bulacan","city":"Balagtas","latitude":14.81667,"longitude":120.86667}}(window,'GeoPostal','PH');

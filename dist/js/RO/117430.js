@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117430"]={"code":"117430","region":"Arges","city":"Leresti","latitude":45.33333,"longitude":25.06667}}(window,'GeoPostal','RO');

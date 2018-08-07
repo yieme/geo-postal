@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64370"]={"code":"64370","region":"Nouvelle-Aquitaine","city":"Arthez-de-Bearn","latitude":43.46667,"longitude":-0.6}}(window,'GeoPostal','FR');

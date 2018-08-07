@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65320"]={"code":"65320","region":"MO","city":"Arrow Rock","latitude":39.0694,"longitude":-92.9487}}(window,'GeoPostal','US');

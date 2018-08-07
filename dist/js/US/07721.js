@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07721"]={"code":"07721","region":"NJ","city":"Cliffwood","latitude":40.4353,"longitude":-74.2358}}(window,'GeoPostal','US');

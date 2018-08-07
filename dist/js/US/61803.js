@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61803"]={"code":"61803","region":"Illinois","city":"Urbana","latitude":40.10669,"longitude":-88.21381}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38347"]={"code":"38347","region":"TN","city":"Jacks Creek","latitude":35.4782,"longitude":-88.5019}}(window,'GeoPostal','US');

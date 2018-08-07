@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17220"]={"code":"17220","region":"Nouvelle-Aquitaine","city":"La Jarrie","latitude":46.12879,"longitude":-1.00896}}(window,'GeoPostal','FR');

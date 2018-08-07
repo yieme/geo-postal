@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73090"]={"code":"73090","region":"OK","city":"Union City","latitude":35.3913,"longitude":-97.9398}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14782"]={"code":"14782","region":"NY","city":"Sinclairville","latitude":42.2455,"longitude":-79.2673}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75978"]={"code":"75978","region":"TX","city":"Woden","latitude":31.5037,"longitude":-94.525}}(window,'GeoPostal','US');

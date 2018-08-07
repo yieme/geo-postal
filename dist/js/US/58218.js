@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58218"]={"code":"58218","region":"ND","city":"Buxton","latitude":47.6163,"longitude":-97.0893}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49610"]={"code":"49610","region":"Michigan","city":"Acme","latitude":44.78056,"longitude":-85.47944}}(window,'GeoPostal','US');

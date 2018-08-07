@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52704"]={"code":"52704","region":"Dnipropetrovska oblast","city":"Petropavlivka","latitude":48.45643,"longitude":36.4367}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 1H0"]={"code":"V0K 1H0","region":"British Columbia","city":"Cache Creek","latitude":50.81011,"longitude":-121.3246}}(window,'GeoPostal','CA');

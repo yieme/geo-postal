@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06353"]={"code":"06353","region":"CT","city":"Montville","latitude":41.479,"longitude":-72.1512}}(window,'GeoPostal','US');

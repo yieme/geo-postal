@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26865"]={"code":"26865","region":"WV","city":"Yellow Spring","latitude":39.1823,"longitude":-78.5095}}(window,'GeoPostal','US');

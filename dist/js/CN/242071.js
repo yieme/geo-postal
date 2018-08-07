@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242071"]={"code":"242071","region":"Anhui","city":"Wenchang","latitude":30.90403,"longitude":118.48869}}(window,'GeoPostal','CN');

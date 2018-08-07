@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["091904"]={"code":"091904","region":"Guayas","city":"El Triunfo","latitude":-1.93333,"longitude":-79.96667}}(window,'GeoPostal','EC');

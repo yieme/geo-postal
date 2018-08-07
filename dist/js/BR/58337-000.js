@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58337-000"]={"code":"58337-000","region":"Paraiba","city":"Cruz do Espirito Santo","latitude":-7.14,"longitude":-35.08639}}(window,'GeoPostal','BR');

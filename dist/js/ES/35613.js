@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35613"]={"code":"35613","region":"Canarias","city":"Puerto del Rosario","latitude":28.50038,"longitude":-13.86272}}(window,'GeoPostal','ES');

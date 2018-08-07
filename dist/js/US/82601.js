@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82601"]={"code":"82601","region":"Wyoming","city":"Casper","latitude":42.86663,"longitude":-106.31308}}(window,'GeoPostal','US');

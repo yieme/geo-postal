@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3915"]={"code":"3915","region":"Telemark","city":"Porsgrunn","latitude":59.14054,"longitude":9.6561}}(window,'GeoPostal','NO');

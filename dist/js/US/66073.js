@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66073"]={"code":"66073","region":"KS","city":"Perry","latitude":39.0875,"longitude":-95.3731}}(window,'GeoPostal','US');

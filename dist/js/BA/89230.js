@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89230"]={"code":"89230","region":"Republika Srpska","city":"Bileca","latitude":42.87194,"longitude":18.42972}}(window,'GeoPostal','BA');

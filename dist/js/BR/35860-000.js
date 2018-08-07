@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35860-000"]={"code":"35860-000","region":"Minas Gerais","city":"Conceicao do Mato Dentro","latitude":-19.03722,"longitude":-43.425}}(window,'GeoPostal','BR');

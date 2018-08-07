@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26263"]={"code":"26263","region":"West Virginia","city":"Dryfork","latitude":38.96861,"longitude":-79.50278}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50360"]={"code":"50360","region":"Normandie","city":"Picauville","latitude":49.3781,"longitude":-1.40048}}(window,'GeoPostal','FR');

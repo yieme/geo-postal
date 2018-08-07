@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV36 4LA"]={"code":"CV36 4LA","region":"England","city":"Ilmington","latitude":52.08921,"longitude":-1.69138}}(window,'GeoPostal','GB');

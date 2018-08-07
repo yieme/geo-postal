@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54149"]={"code":"54149","region":"Wisconsin","city":"Mountain","latitude":45.207309,"longitude":-88.502637}}(window,'GeoPostal','US');

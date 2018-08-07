@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18461"]={"code":"18461","region":"Mecklenburg-Vorpommern","city":"Franzburg","latitude":54.18501,"longitude":12.8821}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83823"]={"code":"83823","region":"ID","city":"Deary","latitude":46.8061,"longitude":-116.5238}}(window,'GeoPostal','US');

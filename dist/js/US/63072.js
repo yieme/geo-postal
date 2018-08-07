@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63072"]={"code":"63072","region":"MO","city":"Robertsville","latitude":38.3816,"longitude":-90.8016}}(window,'GeoPostal','US');

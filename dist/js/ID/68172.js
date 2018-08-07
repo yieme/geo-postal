@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68172"]={"code":"68172","region":"Jawa Timur","city":"Andongsari","latitude":-8.3661,"longitude":113.634}}(window,'GeoPostal','ID');

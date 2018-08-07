@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97636"]={"code":"97636","region":"Oregon","city":"Paisley","latitude":42.69333,"longitude":-120.54528}}(window,'GeoPostal','US');

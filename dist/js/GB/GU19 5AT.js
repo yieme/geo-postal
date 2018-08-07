@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU19 5AT"]={"code":"GU19 5AT","region":"England","city":"Bagshot","latitude":51.36069,"longitude":-0.68802}}(window,'GeoPostal','GB');

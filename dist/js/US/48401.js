@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48401"]={"code":"48401","region":"MI","city":"Applegate","latitude":43.3619,"longitude":-82.6479}}(window,'GeoPostal','US');

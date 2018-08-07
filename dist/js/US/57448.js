@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57448"]={"code":"57448","region":"SD","city":"Hosmer","latitude":45.569,"longitude":-99.4857}}(window,'GeoPostal','US');

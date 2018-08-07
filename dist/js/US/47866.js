@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47866"]={"code":"47866","region":"IN","city":"Pimento","latitude":39.2929,"longitude":-87.3355}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5302"]={"code":"5302","region":"Palawan","city":"Narra","latitude":9.26877,"longitude":118.4043}}(window,'GeoPostal','PH');

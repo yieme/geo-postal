@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["NA"]={id:'NA',country:'Namibia', postal:{'':{code:'',region:'Khomas',city:'Windhoek',latitude:-22.55941,longitude:17.08323}}};

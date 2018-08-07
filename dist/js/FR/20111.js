@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20111"]={"code":"20111","region":"Corse","city":"Calcatoggio","latitude":42.0292,"longitude":8.7681}}(window,'GeoPostal','FR');

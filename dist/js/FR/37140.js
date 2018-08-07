@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37140"]={"code":"37140","region":"Centre-Val de Loire","city":"Restigne","latitude":47.28224,"longitude":0.22788}}(window,'GeoPostal','FR');

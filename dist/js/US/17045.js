@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17045"]={"code":"17045","region":"PA","city":"Liverpool","latitude":40.5753,"longitude":-77.0083}}(window,'GeoPostal','US');

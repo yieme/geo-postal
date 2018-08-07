@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07978"]={"code":"07978","region":"NJ","city":"Pluckemin","latitude":40.6425,"longitude":-74.6396}}(window,'GeoPostal','US');

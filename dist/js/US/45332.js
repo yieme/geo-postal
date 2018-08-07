@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45332"]={"code":"45332","region":"Ohio","city":"Hollansburg","latitude":39.995151,"longitude":-84.789526}}(window,'GeoPostal','US');

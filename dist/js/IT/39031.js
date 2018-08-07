@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39031"]={"code":"39031","region":"Trentino-Alto Adige","city":"Brunico","latitude":46.79583,"longitude":11.93638}}(window,'GeoPostal','IT');

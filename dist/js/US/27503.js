@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27503"]={"code":"27503","region":"NC","city":"Bahama","latitude":36.1566,"longitude":-78.8903}}(window,'GeoPostal','US');

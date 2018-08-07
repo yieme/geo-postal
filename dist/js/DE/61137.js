@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61137"]={"code":"61137","region":"Hessen","city":"Budesheim","latitude":50.21745,"longitude":8.83364}}(window,'GeoPostal','DE');

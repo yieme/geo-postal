@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82412"]={"code":"82412","region":"WY","city":"Byron","latitude":44.7844,"longitude":-108.544}}(window,'GeoPostal','US');

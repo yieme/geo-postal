@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97454"]={"code":"97454","region":"OR","city":"Marcola","latitude":44.2064,"longitude":-122.8246}}(window,'GeoPostal','US');

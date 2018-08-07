@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["263689"]={"code":"263689","region":"Uttarakhand","city":"Ramnagar","latitude":29.4,"longitude":79.11667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42216"]={"code":"42216","region":"KY","city":"Clifty","latitude":37.0045,"longitude":-87.1521}}(window,'GeoPostal','US');

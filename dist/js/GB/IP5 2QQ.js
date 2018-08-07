@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP5 2QQ"]={"code":"IP5 2QQ","region":"England","city":"Kesgrave","latitude":52.06241,"longitude":1.2365}}(window,'GeoPostal','GB');

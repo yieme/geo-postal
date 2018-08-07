@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35365"]={"code":"35365","region":"Banten","city":"Jati","latitude":-6.5153,"longitude":106.1958}}(window,'GeoPostal','ID');

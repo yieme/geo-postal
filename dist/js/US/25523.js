@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25523"]={"code":"25523","region":"West Virginia","city":"Hamlin","latitude":38.2787,"longitude":-82.10292}}(window,'GeoPostal','US');

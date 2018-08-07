@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA5 1LN"]={"code":"TA5 1LN","region":"England","city":"Nether Stowey","latitude":51.15101,"longitude":-3.15676}}(window,'GeoPostal','GB');

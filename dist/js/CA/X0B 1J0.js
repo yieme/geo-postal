@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0B 1J0"]={"code":"X0B 1J0","region":"Nunavut","city":"Gjoa Haven","latitude":68.62602,"longitude":-95.87836}}(window,'GeoPostal','CA');

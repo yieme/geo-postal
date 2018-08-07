@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02760"]={"code":"02760","region":"Hauts-de-France","city":"Holnon","latitude":49.86086,"longitude":3.21509}}(window,'GeoPostal','FR');

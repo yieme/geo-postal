@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67193"]={"code":"67193","region":"Varmlands lan","city":"Arvika","latitude":59.65528,"longitude":12.58518}}(window,'GeoPostal','SE');

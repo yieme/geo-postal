@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84310"]={"code":"84310","region":"Utah","city":"Eden","latitude":41.3385,"longitude":-111.8676}}(window,'GeoPostal','US');

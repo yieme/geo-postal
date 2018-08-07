@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1748"]={"code":"1748","region":"Dhaka","city":"Gafargaon","latitude":24.43333,"longitude":90.56667}}(window,'GeoPostal','BD');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2504"]={"code":"2504","region":"Bern","city":"Biel","latitude":47.1324,"longitude":7.24411}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5540"]={"code":"5540","region":"Bekes","city":"Szarvas","latitude":46.86667,"longitude":20.55}}(window,'GeoPostal','HU');

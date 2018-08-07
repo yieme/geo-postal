@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2053"]={"code":"2053","region":"Fejer","city":"Etyek","latitude":47.44794,"longitude":18.75328}}(window,'GeoPostal','HU');

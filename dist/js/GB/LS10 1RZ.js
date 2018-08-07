@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS10 1RZ"]={"code":"LS10 1RZ","region":"England","city":"Batley","latitude":53.70291,"longitude":-1.6337}}(window,'GeoPostal','GB');

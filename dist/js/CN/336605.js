@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336605"]={"code":"336605","region":"Jiangxi","city":"Songshan","latitude":27.63234,"longitude":114.65938}}(window,'GeoPostal','CN');

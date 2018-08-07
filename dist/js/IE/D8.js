@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["D8"]={"code":"D8","region":"Dublin","city":"Dublin","latitude":53.34399,"longitude":-6.26719}}(window,'GeoPostal','IE');

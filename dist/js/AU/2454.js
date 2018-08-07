@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2454"]={"code":"2454","region":"New South Wales","city":"Thora","latitude":-30.43333,"longitude":152.78333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2481"]={"code":"2481","region":"New South Wales","city":"Byron Bay","latitude":-28.64201,"longitude":153.61194}}(window,'GeoPostal','AU');

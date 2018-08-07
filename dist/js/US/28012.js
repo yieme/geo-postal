@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28012"]={"code":"28012","region":"North Carolina","city":"Belmont","latitude":35.241809,"longitude":-81.040099}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1218"]={"code":"1218","region":"Geneve","city":"Le Grand-Saconnex","latitude":46.23333,"longitude":6.13333}}(window,'GeoPostal','CH');

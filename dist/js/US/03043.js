@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03043"]={"code":"03043","region":"NH","city":"Francestown","latitude":42.992,"longitude":-71.8113}}(window,'GeoPostal','US');

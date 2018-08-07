@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04473"]={"code":"04473","region":"Maine","city":"Orono","latitude":44.890231,"longitude":-68.67641}}(window,'GeoPostal','US');

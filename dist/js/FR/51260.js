@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51260"]={"code":"51260","region":"Grand-Est","city":"Saint-Just-Sauvage","latitude":48.55478,"longitude":3.78449}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN4 8QQ"]={"code":"SN4 8QQ","region":"England","city":"Bassett","latitude":50.94633,"longitude":-1.40552}}(window,'GeoPostal','GB');

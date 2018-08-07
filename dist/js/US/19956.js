@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19956"]={"code":"19956","region":"Delaware","city":"Laurel","latitude":38.5565,"longitude":-75.57131}}(window,'GeoPostal','US');

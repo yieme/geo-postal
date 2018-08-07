@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 1G0"]={"code":"J0B 1G0","region":"Quebec","city":"Lime Ridge","latitude":45.62118,"longitude":-71.60578}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77050"]={"code":"77050","region":"Balikesir","city":"Kepsut","latitude":39.68889,"longitude":28.15222}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP12 1WP"]={"code":"NP12 1WP","region":"Wales","city":"Blackwood","latitude":51.66778,"longitude":-3.2075}}(window,'GeoPostal','GB');

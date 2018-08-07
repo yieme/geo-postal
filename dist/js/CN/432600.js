@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["432600"]={"code":"432600","region":"Hubei","city":"Anlu","latitude":31.2575,"longitude":113.67833}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST14 7JX"]={"code":"ST14 7JX","region":"Northern Ireland","city":"Windsor","latitude":54.56667,"longitude":-5.95}}(window,'GeoPostal','GB');

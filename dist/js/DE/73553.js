@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73553"]={"code":"73553","region":"Baden-Wurttemberg","city":"Alfdorf","latitude":48.84385,"longitude":9.71857}}(window,'GeoPostal','DE');

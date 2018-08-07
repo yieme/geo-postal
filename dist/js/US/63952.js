@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63952"]={"code":"63952","region":"MO","city":"Mill Spring","latitude":37.0675,"longitude":-90.6746}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35951"]={"code":"35951","region":"AL","city":"Albertville","latitude":34.3223,"longitude":-86.1935}}(window,'GeoPostal','US');

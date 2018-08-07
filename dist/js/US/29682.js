@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29682"]={"code":"29682","region":"SC","city":"Six Mile","latitude":34.8283,"longitude":-82.8278}}(window,'GeoPostal','US');

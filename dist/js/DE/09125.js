@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09125"]={"code":"09125","region":"Sachsen","city":"Markersdorf","latitude":50.78748,"longitude":12.91019}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307445"]={"code":"307445","region":"Timis","city":"Uivar","latitude":45.65806,"longitude":20.90583}}(window,'GeoPostal','RO');

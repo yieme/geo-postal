@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83001"]={"code":"83001","region":"Siauliu apskritis","city":"Pakruojis","latitude":55.96667,"longitude":23.86667}}(window,'GeoPostal','LT');

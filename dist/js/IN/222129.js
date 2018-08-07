@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["222129"]={"code":"222129","region":"Uttar Pradesh","city":"Kirakat","latitude":25.63333,"longitude":82.91667}}(window,'GeoPostal','IN');

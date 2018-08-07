@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 8BJ"]={"code":"NG13 8BJ","region":"England","city":"Bingham","latitude":52.94978,"longitude":-0.95907}}(window,'GeoPostal','GB');

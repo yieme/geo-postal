@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09110"]={"code":"09110","region":"Occitanie","city":"Ax-les-Thermes","latitude":42.71968,"longitude":1.83845}}(window,'GeoPostal','FR');

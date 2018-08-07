@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55325"]={"code":"55325","region":"Minnesota","city":"Dassel","latitude":45.08163,"longitude":-94.30693}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15033"]={"code":"15033","region":"Piemonte","city":"Casale Monferrato","latitude":45.13336,"longitude":8.45714}}(window,'GeoPostal','IT');

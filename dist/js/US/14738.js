@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14738"]={"code":"14738","region":"NY","city":"Frewsburg","latitude":42.0528,"longitude":-79.1318}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87659"]={"code":"87659","region":"Bayern","city":"Vilsen","latitude":47.6,"longitude":10.66667}}(window,'GeoPostal','DE');

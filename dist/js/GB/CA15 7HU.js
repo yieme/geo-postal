@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA15 7HU"]={"code":"CA15 7HU","region":"England","city":"Dearham","latitude":54.71175,"longitude":-3.44364}}(window,'GeoPostal','GB');

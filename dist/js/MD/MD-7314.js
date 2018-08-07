@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-7314"]={"code":"MD-7314","region":"Cantemir","city":"Cantemir","latitude":46.27806,"longitude":28.20083}}(window,'GeoPostal','MD');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84620"]={"code":"84620","region":"Utah","city":"Aurora","latitude":38.92219,"longitude":-111.93409}}(window,'GeoPostal','US');

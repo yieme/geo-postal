@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97712"]={"code":"97712","region":"Oregon","city":"Brothers","latitude":43.71823,"longitude":-120.471998}}(window,'GeoPostal','US');

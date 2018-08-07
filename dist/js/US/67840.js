@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67840"]={"code":"67840","region":"Kansas","city":"Englewood","latitude":37.03859,"longitude":-99.98207}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88045"]={"code":"88045","region":"Baden-Wurttemberg","city":"Friedrichshafen","latitude":47.65689,"longitude":9.47554}}(window,'GeoPostal','DE');

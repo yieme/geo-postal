@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13469"]={"code":"13469","region":"NY","city":"Stittville","latitude":43.2229,"longitude":-75.2899}}(window,'GeoPostal','US');

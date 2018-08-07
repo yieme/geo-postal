@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["365502"]={"code":"365502","region":"Fujian","city":"Lishu","latitude":26.59332,"longitude":117.71623}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04918"]={"code":"04918","region":"ME","city":"Belgrade Lakes","latitude":44.5265,"longitude":-69.887}}(window,'GeoPostal','US');

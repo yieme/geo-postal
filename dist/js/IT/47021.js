@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47021"]={"code":"47021","region":"Emilia-Romagna","city":"Bagno di Romagna","latitude":43.83546,"longitude":11.96016}}(window,'GeoPostal','IT');

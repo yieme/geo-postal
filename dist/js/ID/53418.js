@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53418"]={"code":"53418","region":"Jawa Tengah","city":"Pati","latitude":-6.7559,"longitude":111.038}}(window,'GeoPostal','ID');

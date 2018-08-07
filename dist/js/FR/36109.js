@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36109"]={"code":"36109","region":"Centre-Val de Loire","city":"Issoudun","latitude":46.95,"longitude":2}}(window,'GeoPostal','FR');

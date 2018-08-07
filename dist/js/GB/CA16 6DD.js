@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA16 6DD"]={"code":"CA16 6DD","region":"England","city":"Dufton","latitude":54.61935,"longitude":-2.48219}}(window,'GeoPostal','GB');

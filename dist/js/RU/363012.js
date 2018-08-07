@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363012"]={"code":"363012","region":"Severnaya Osetiya, Respublika","city":"Khumalag","latitude":43.24031,"longitude":44.47521}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66833"]={"code":"66833","region":"Kansas","city":"Allen","latitude":38.6415,"longitude":-96.25362}}(window,'GeoPostal','US');

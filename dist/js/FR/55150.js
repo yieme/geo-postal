@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55150"]={"code":"55150","region":"Grand-Est","city":"Mangiennes","latitude":49.3578,"longitude":5.5269}}(window,'GeoPostal','FR');

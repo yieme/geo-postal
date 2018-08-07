@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66060"]={"code":"66060","region":"Varmlands lan","city":"Molkom","latitude":59.6,"longitude":13.7}}(window,'GeoPostal','SE');

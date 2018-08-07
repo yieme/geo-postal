@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27050"]={"code":"27050","region":"North Carolina","city":"Tobaccoville","latitude":36.23819,"longitude":-80.37144}}(window,'GeoPostal','US');

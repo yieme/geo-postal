@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31049"]={"code":"31049","region":"Veneto","city":"Valdobbiadene","latitude":45.89931,"longitude":11.9946}}(window,'GeoPostal','IT');

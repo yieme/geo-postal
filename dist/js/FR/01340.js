@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01340"]={"code":"01340","region":"Auvergne-Rhone-Alpes","city":"Attignat","latitude":46.28815,"longitude":5.16126}}(window,'GeoPostal','FR');

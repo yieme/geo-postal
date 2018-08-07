@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91814"]={"code":"91814","region":"Ile-de-France","city":"Corbeil-Essonnes","latitude":48.60603,"longitude":2.48757}}(window,'GeoPostal','FR');

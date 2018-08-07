@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-532"]={"code":"21-532","region":"Lubelskie","city":"Lomazy","latitude":51.90435,"longitude":23.17656}}(window,'GeoPostal','PL');

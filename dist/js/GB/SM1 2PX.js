@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SM1 2PX"]={"code":"SM1 2PX","region":"England","city":"Sutton","latitude":51.35,"longitude":-0.2}}(window,'GeoPostal','GB');

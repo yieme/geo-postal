@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87320"]={"code":"87320","region":"NM","city":"Mexican Springs","latitude":35.7837,"longitude":-108.819}}(window,'GeoPostal','US');

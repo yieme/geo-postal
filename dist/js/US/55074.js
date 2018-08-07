@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55074"]={"code":"55074","region":"MN","city":"Shafer","latitude":45.3576,"longitude":-92.7609}}(window,'GeoPostal','US');

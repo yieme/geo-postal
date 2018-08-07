@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16999"]={"code":"16999","region":"Nouvelle-Aquitaine","city":"Angouleme","latitude":45.65,"longitude":0.15}}(window,'GeoPostal','FR');

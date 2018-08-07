@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29658"]={"code":"29658","region":"SC","city":"Long Creek","latitude":34.7634,"longitude":-83.2776}}(window,'GeoPostal','US');

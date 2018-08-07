@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97121"]={"code":"97121","region":"Oregon","city":"Hammond","latitude":46.165,"longitude":-123.92417}}(window,'GeoPostal','US');

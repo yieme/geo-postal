@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63549"]={"code":"63549","region":"Missouri","city":"La Plata","latitude":40.02337,"longitude":-92.49158}}(window,'GeoPostal','US');

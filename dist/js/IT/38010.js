@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38010"]={"code":"38010","region":"Trentino-Alto Adige","city":"Campodenno","latitude":46.25791,"longitude":11.03317}}(window,'GeoPostal','IT');

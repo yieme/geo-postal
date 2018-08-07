@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24176"]={"code":"24176","region":"VA","city":"Union Hall","latitude":37.0131,"longitude":-79.6864}}(window,'GeoPostal','US');

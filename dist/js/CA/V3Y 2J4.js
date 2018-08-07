@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V3Y 2J4"]={"code":"V3Y 2J4","region":"British Columbia","city":"Pitt Meadows","latitude":49.23159,"longitude":-122.6893}}(window,'GeoPostal','CA');

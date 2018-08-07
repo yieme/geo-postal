@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73199"]={"code":"73199","region":"Auvergne-Rhone-Alpes","city":"Challes-les-Eaux","latitude":45.55195,"longitude":5.98171}}(window,'GeoPostal','FR');

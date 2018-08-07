@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["174103"]={"code":"174103","region":"Himachal Pradesh","city":"Baddi","latitude":30.95783,"longitude":76.79136}}(window,'GeoPostal','IN');

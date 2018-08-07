@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44400"]={"code":"44400","region":"Narayani","city":"Gadhimai","latitude":27.155378,"longitude":85.002553}}(window,'GeoPostal','NP');

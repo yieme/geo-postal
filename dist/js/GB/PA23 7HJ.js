@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA23 7HJ"]={"code":"PA23 7HJ","region":"Scotland","city":"Dunoon","latitude":55.94698,"longitude":-4.92303}}(window,'GeoPostal','GB');

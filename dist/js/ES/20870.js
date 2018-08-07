@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20870"]={"code":"20870","region":"Pais Vasco","city":"Elgoibar","latitude":43.21601,"longitude":-2.41334}}(window,'GeoPostal','ES');

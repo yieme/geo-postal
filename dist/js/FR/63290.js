@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63290"]={"code":"63290","region":"Auvergne-Rhone-Alpes","city":"Puy-Guillaume","latitude":45.95985,"longitude":3.47143}}(window,'GeoPostal','FR');

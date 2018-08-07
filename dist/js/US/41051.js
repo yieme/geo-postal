@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41051"]={"code":"41051","region":"Kentucky","city":"Independence","latitude":38.94312,"longitude":-84.54411}}(window,'GeoPostal','US');

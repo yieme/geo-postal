@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE17 6NR"]={"code":"LE17 6NR","region":"England","city":"Mowsley","latitude":52.49321,"longitude":-1.05009}}(window,'GeoPostal','GB');

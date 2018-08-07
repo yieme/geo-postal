@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO31 7AW"]={"code":"PO31 7AW","region":"England","city":"Cowes","latitude":50.76306,"longitude":-1.29772}}(window,'GeoPostal','GB');

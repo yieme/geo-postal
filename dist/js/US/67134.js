@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67134"]={"code":"67134","region":"Kansas","city":"Sawyer","latitude":37.514383,"longitude":-98.629046}}(window,'GeoPostal','US');

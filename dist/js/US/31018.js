@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31018"]={"code":"31018","region":"GA","city":"Davisboro","latitude":32.9443,"longitude":-82.6227}}(window,'GeoPostal','US');

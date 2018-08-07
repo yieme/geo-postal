@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89023"]={"code":"89023","region":"NV","city":"Mercury","latitude":36.6605,"longitude":-115.9945}}(window,'GeoPostal','US');

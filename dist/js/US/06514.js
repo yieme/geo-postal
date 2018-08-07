@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06514"]={"code":"06514","region":"Connecticut","city":"Hamden","latitude":41.3724,"longitude":-72.93972}}(window,'GeoPostal','US');

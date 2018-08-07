@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47387"]={"code":"47387","region":"IN","city":"Straughn","latitude":39.8319,"longitude":-85.2724}}(window,'GeoPostal','US');

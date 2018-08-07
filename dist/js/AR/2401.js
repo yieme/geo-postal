@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2401"]={"code":"2401","region":"Cordoba","city":"San Francisco","latitude":-31.42797,"longitude":-62.08266}}(window,'GeoPostal','AR');

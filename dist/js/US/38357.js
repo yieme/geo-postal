@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38357"]={"code":"38357","region":"Tennessee","city":"Michie","latitude":35.069144,"longitude":-88.445335}}(window,'GeoPostal','US');

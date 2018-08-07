@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58377"]={"code":"58377","region":"ND","city":"Starkweather","latitude":48.4488,"longitude":-98.8539}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140113"]={"code":"140113","region":"Punjab","city":"Rupnagar","latitude":30.96639,"longitude":76.53306}}(window,'GeoPostal','IN');

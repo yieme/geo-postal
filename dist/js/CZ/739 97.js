@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["739 97"]={"code":"739 97","region":"Moravskoslezsky kraj","city":"Hradek","latitude":49.61661,"longitude":18.7372}}(window,'GeoPostal','CZ');

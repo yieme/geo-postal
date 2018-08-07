@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83890"]={"code":"83890","region":"Provence-Alpes-Cote d'Azur","city":"Besse-sur-Issole","latitude":43.34957,"longitude":6.17759}}(window,'GeoPostal','FR');

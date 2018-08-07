@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18428"]={"code":"18428","region":"Pennsylvania","city":"Hawley","latitude":41.47592,"longitude":-75.18212}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83071"]={"code":"83071","region":"Bayern","city":"Stephanskirchen","latitude":47.85389,"longitude":12.1856}}(window,'GeoPostal','DE');

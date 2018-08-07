@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25644"]={"code":"25644","region":"WV","city":"Sarah Ann","latitude":37.7112,"longitude":-81.9873}}(window,'GeoPostal','US');

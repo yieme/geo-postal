@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["541300"]={"code":"541300","region":"Guangxi","city":"Xing'an","latitude":25.61964,"longitude":110.64248}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63930"]={"code":"63930","region":"Baden-Wurttemberg","city":"Steingasse","latitude":49.73554,"longitude":9.43395}}(window,'GeoPostal','DE');

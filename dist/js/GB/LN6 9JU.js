@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN6 9JU"]={"code":"LN6 9JU","region":"England","city":"Norton Disney","latitude":53.12155,"longitude":-0.67294}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN1 2LQ"]={"code":"NN1 2LQ","region":"England","city":"Feltham","latitude":50.96667,"longitude":-3.1}}(window,'GeoPostal','GB');

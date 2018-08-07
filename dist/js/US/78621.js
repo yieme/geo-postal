@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78621"]={"code":"78621","region":"Texas","city":"Elgin","latitude":30.34965,"longitude":-97.37027}}(window,'GeoPostal','US');

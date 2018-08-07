@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30148"]={"code":"30148","region":"GA","city":"Marble Hill","latitude":34.4398,"longitude":-84.303}}(window,'GeoPostal','US');

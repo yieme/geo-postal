@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45640"]={"code":"45640","region":"Centre-Val de Loire","city":"Sandillon","latitude":47.8451,"longitude":2.03155}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61008"]={"code":"61008","region":"North Western Province","city":"Chilaw","latitude":7.57583,"longitude":79.79528}}(window,'GeoPostal','LK');

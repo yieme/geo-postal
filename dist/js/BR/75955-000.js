@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75955-000"]={"code":"75955-000","region":"Goias","city":"Edeia","latitude":-17.33833,"longitude":-49.93139}}(window,'GeoPostal','BR');

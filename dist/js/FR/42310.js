@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42310"]={"code":"42310","region":"Auvergne-Rhone-Alpes","city":"La Pacaudiere","latitude":46.17544,"longitude":3.87196}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9631"]={"code":"9631","region":"Sankt Gallen","city":"Ebnat-Kappel","latitude":47.26195,"longitude":9.12473}}(window,'GeoPostal','CH');

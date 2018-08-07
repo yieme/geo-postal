@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38281"]={"code":"38281","region":"TN","city":"Union City","latitude":36.4242,"longitude":-89.057}}(window,'GeoPostal','US');

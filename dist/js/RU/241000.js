@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["241000"]={"code":"241000","region":"Bryanskaya oblast'","city":"Bryansk","latitude":53.25209,"longitude":34.37167}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127645"]={"code":"127645","region":"Maramures","city":"Ulmeni","latitude":44.15,"longitude":26.71667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49623"]={"code":"49623","region":"Michigan","city":"Chase","latitude":43.896236,"longitude":-85.634748}}(window,'GeoPostal','US');

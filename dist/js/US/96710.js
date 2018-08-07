@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96710"]={"code":"96710","region":"Hawaii","city":"Hakalau","latitude":19.8804,"longitude":-155.14992}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16822"]={"code":"16822","region":"PA","city":"Beech Creek","latitude":41.0845,"longitude":-77.5851}}(window,'GeoPostal','US');

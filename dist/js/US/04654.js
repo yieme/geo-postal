@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04654"]={"code":"04654","region":"Maine","city":"Machias","latitude":44.722527,"longitude":-67.464099}}(window,'GeoPostal','US');

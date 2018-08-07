@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58072"]={"code":"58072","region":"North Dakota","city":"Valley City","latitude":46.92331,"longitude":-98.00315}}(window,'GeoPostal','US');

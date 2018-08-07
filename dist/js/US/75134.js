@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75134"]={"code":"75134","region":"Texas","city":"Lancaster","latitude":32.618718,"longitude":-96.783263}}(window,'GeoPostal','US');

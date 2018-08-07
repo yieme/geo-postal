@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40313"]={"code":"40313","region":"Kentucky","city":"Clearfield","latitude":38.141769,"longitude":-83.541105}}(window,'GeoPostal','US');

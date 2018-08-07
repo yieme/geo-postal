@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00020"]={"code":"00020","region":"Lazio","city":"Arcinazzo Romano","latitude":41.87972,"longitude":13.11439}}(window,'GeoPostal','IT');

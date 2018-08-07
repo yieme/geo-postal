@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157020"]={"code":"157020","region":"Kostromskaya oblast'","city":"Chistyye Bory","latitude":58.36472,"longitude":41.62778}}(window,'GeoPostal','RU');

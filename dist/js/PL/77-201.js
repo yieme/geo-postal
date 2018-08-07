@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-201"]={"code":"77-201","region":"Pomorskie","city":"Miastko","latitude":54.00283,"longitude":16.98263}}(window,'GeoPostal','PL');

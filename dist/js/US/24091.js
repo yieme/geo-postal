@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24091"]={"code":"24091","region":"Virginia","city":"Floyd","latitude":36.9129,"longitude":-80.31642}}(window,'GeoPostal','US');

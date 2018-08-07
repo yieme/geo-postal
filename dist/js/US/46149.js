@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46149"]={"code":"46149","region":"IN","city":"Lizton","latitude":39.8843,"longitude":-86.5429}}(window,'GeoPostal','US');

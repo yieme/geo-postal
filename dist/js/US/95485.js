@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95485"]={"code":"95485","region":"California","city":"Upper Lake","latitude":39.156866,"longitude":-122.90564}}(window,'GeoPostal','US');

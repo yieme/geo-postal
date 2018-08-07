@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA40 9UU"]={"code":"SA40 9UU","region":"Wales","city":"Llanwenog","latitude":52.08659,"longitude":-4.19915}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29700-000"]={"code":"29700-000","region":"Espirito Santo","city":"Colatina","latitude":-19.53944,"longitude":-40.63056}}(window,'GeoPostal','BR');

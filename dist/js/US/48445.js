@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48445"]={"code":"48445","region":"Michigan","city":"Kinde","latitude":43.950357,"longitude":-83.00325}}(window,'GeoPostal','US');

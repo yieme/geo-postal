@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64793"]={"code":"64793","region":"Sodermanlands lan","city":"Mariefred","latitude":59.26667,"longitude":17.21667}}(window,'GeoPostal','SE');

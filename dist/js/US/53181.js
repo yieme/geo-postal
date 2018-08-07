@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53181"]={"code":"53181","region":"Wisconsin","city":"Twin Lakes","latitude":42.521331,"longitude":-88.253431}}(window,'GeoPostal','US');

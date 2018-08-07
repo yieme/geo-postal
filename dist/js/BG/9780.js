@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9780"]={"code":"9780","region":"Shumen","city":"Gara Khitrino","latitude":43.43333,"longitude":26.91667}}(window,'GeoPostal','BG');

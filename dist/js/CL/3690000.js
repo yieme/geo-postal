@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3690000"]={"code":"3690000","region":"Maule","city":"Cauquenes","latitude":-35.96667,"longitude":-72.35}}(window,'GeoPostal','CL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71666"]={"code":"71666","region":"AR","city":"Rohwer","latitude":33.7609,"longitude":-91.2757}}(window,'GeoPostal','US');

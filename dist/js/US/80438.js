@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80438"]={"code":"80438","region":"Colorado","city":"Empire","latitude":39.76028,"longitude":-105.68306}}(window,'GeoPostal','US');

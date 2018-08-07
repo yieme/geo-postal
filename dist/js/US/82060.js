@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82060"]={"code":"82060","region":"WY","city":"Hillsdale","latitude":41.2136,"longitude":-104.4933}}(window,'GeoPostal','US');

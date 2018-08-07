@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663924"]={"code":"663924","region":"Krasnoyarskiy kray","city":"Uyar","latitude":55.81,"longitude":94.31528}}(window,'GeoPostal','RU');

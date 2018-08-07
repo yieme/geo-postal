@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12883"]={"code":"12883","region":"NY","city":"Ticonderoga","latitude":43.8463,"longitude":-73.4426}}(window,'GeoPostal','US');

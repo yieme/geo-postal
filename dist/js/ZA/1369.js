@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1369"]={"code":"1369","region":"Limpopo","city":"Thulamahashi","latitude":-24.72459,"longitude":31.19939}}(window,'GeoPostal','ZA');

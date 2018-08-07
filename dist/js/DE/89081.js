@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89081"]={"code":"89081","region":"Baden-Wurttemberg","city":"Lehr","latitude":48.43239,"longitude":9.96906}}(window,'GeoPostal','DE');

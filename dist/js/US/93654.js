@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93654"]={"code":"93654","region":"California","city":"Reedley","latitude":36.59634,"longitude":-119.4504}}(window,'GeoPostal','US');

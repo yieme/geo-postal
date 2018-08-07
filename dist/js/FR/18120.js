@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18120"]={"code":"18120","region":"Centre-Val de Loire","city":"Massay","latitude":47.15324,"longitude":1.99334}}(window,'GeoPostal','FR');

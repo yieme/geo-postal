@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79001"]={"code":"79001","region":"TX","city":"Adrian","latitude":35.2748,"longitude":-102.6652}}(window,'GeoPostal','US');

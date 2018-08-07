@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17844"]={"code":"17844","region":"PA","city":"Mifflinburg","latitude":40.9218,"longitude":-77.0505}}(window,'GeoPostal','US');

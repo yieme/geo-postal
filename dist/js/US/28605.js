@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28605"]={"code":"28605","region":"NC","city":"Blowing Rock","latitude":36.1355,"longitude":-81.6996}}(window,'GeoPostal','US');

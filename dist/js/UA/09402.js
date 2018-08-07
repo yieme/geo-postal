@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09402"]={"code":"09402","region":"Kyivska oblast","city":"Roskoshnyy","latitude":49.37087,"longitude":30.18471}}(window,'GeoPostal','UA');

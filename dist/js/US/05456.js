@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05456"]={"code":"05456","region":"VT","city":"Ferrisburgh","latitude":44.2056,"longitude":-73.2462}}(window,'GeoPostal','US');

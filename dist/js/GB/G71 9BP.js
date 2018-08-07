@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G71 9BP"]={"code":"G71 9BP","region":"Scotland","city":"Uddingston","latitude":55.81971,"longitude":-4.08362}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32357"]={"code":"32357","region":"FL","city":"Shady Grove","latitude":30.288,"longitude":-83.6318}}(window,'GeoPostal','US');

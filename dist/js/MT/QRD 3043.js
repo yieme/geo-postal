@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["QRD 3043"]={"code":"QRD 3043","region":"Qrendi","city":"Qrendi","latitude":35.83472,"longitude":14.45833}}(window,'GeoPostal','MT');

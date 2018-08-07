@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55017"]={"code":"55017","region":"MN","city":"Dalbo","latitude":45.6787,"longitude":-93.4419}}(window,'GeoPostal','US');

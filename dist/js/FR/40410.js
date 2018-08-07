@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40410"]={"code":"40410","region":"Nouvelle-Aquitaine","city":"Pissos","latitude":44.30833,"longitude":-0.77964}}(window,'GeoPostal','FR');

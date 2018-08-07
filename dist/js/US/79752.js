@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79752"]={"code":"79752","region":"Texas","city":"McCamey","latitude":31.130291,"longitude":-102.22002}}(window,'GeoPostal','US');

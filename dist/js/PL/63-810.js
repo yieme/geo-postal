@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-810"]={"code":"63-810","region":"Wielkopolskie","city":"Borek Wielkopolski","latitude":51.91674,"longitude":17.24133}}(window,'GeoPostal','PL');

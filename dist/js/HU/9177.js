@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9177"]={"code":"9177","region":"Gyor-Moson-Sopron","city":"Asvanyraro","latitude":47.82733,"longitude":17.49418}}(window,'GeoPostal','HU');

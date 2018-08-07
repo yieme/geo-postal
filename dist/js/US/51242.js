@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51242"]={"code":"51242","region":"IA","city":"Lester","latitude":43.4443,"longitude":-96.3361}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61056"]={"code":"61056","region":"Sodermanlands lan","city":"Olstorp","latitude":58.81667,"longitude":16.63333}}(window,'GeoPostal','SE');

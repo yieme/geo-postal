@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-100"]={"code":"47-100","region":"Opolskie","city":"Strzelce Opolskie","latitude":50.5107,"longitude":18.30056}}(window,'GeoPostal','PL');

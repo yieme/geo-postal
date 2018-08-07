@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18210"]={"code":"18210","region":"Saraburi","city":"Don Phut","latitude":14.59175,"longitude":100.62828}}(window,'GeoPostal','TH');

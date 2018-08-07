@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62446"]={"code":"62446","region":"IL","city":"Mount Erie","latitude":38.5222,"longitude":-88.2185}}(window,'GeoPostal','US');

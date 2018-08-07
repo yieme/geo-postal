@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36874"]={"code":"36874","region":"AL","city":"Salem","latitude":32.6212,"longitude":-85.184}}(window,'GeoPostal','US');

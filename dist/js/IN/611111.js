@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["611111"]={"code":"611111","region":"Tamil Nadu","city":"Nagappattinam","latitude":10.76667,"longitude":79.83333}}(window,'GeoPostal','IN');

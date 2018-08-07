@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99621"]={"code":"99621","region":"AK","city":"Kwethluk","latitude":60.8122,"longitude":-161.4358}}(window,'GeoPostal','US');

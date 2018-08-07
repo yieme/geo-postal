@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA32 7NJ"]={"code":"SA32 7NJ","region":"Wales","city":"Llanegwad","latitude":51.87248,"longitude":-4.15077}}(window,'GeoPostal','GB');

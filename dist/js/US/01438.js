@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01438"]={"code":"01438","region":"MA","city":"East Templeton","latitude":42.5631,"longitude":-72.037}}(window,'GeoPostal','US');

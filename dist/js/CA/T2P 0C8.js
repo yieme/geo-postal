@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T2P 0C8"]={"code":"T2P 0C8","region":"Alberta","city":"Norfolk","latitude":51.03341,"longitude":-113.71866}}(window,'GeoPostal','CA');

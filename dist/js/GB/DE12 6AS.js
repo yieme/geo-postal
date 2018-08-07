@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE12 6AS"]={"code":"DE12 6AS","region":"England","city":"Moira","latitude":52.73698,"longitude":-1.53496}}(window,'GeoPostal','GB');

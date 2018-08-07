@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13208"]={"code":"13208","region":"New York","city":"Galeville","latitude":43.074671,"longitude":-76.149212}}(window,'GeoPostal','US');

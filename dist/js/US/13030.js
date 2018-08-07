@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13030"]={"code":"13030","region":"NY","city":"Bridgeport","latitude":43.159,"longitude":-75.97}}(window,'GeoPostal','US');

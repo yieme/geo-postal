@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5721"]={"code":"5721","region":"Salzburg","city":"Piesendorf","latitude":47.28333,"longitude":12.71667}}(window,'GeoPostal','AT');

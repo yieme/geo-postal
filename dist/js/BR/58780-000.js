@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58780-000"]={"code":"58780-000","region":"Paraiba","city":"Itaporanga","latitude":-7.30444,"longitude":-38.15028}}(window,'GeoPostal','BR');

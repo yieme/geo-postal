@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60147"]={"code":"60147","region":"Illinois","city":"Lafox","latitude":41.882068,"longitude":-88.430999}}(window,'GeoPostal','US');

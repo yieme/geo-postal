@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67643"]={"code":"67643","region":"KS","city":"Jennings","latitude":39.6762,"longitude":-100.2834}}(window,'GeoPostal','US');

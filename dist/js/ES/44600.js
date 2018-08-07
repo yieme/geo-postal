@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44600"]={"code":"44600","region":"Aragon","city":"Alcaniz","latitude":41.05,"longitude":-0.13333}}(window,'GeoPostal','ES');

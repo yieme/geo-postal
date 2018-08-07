@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT19 4QP"]={"code":"KT19 4QP","region":"England","city":"Epsom","latitude":51.3305,"longitude":-0.27011}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49530"]={"code":"49530","region":"Pays-de-la-Loire","city":"Lire","latitude":47.34322,"longitude":-1.16536}}(window,'GeoPostal','FR');

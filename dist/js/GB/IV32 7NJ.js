@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV32 7NJ"]={"code":"IV32 7NJ","region":"Scotland","city":"Kingston","latitude":57.66667,"longitude":-3.1}}(window,'GeoPostal','GB');

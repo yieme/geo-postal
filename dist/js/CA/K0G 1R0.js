@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0G 1R0"]={"code":"K0G 1R0","region":"Ontario","city":"McLeanville","latitude":44.78761,"longitude":-75.64104}}(window,'GeoPostal','CA');

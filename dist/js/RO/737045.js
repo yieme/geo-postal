@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737045"]={"code":"737045","region":"Vaslui","city":"Bacani","latitude":46.33333,"longitude":27.66667}}(window,'GeoPostal','RO');

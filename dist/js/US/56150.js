@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56150"]={"code":"56150","region":"Minnesota","city":"Lakefield","latitude":43.67746,"longitude":-95.17166}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50839"]={"code":"50839","region":"IA","city":"Carbon","latitude":41.0487,"longitude":-94.8231}}(window,'GeoPostal','US');

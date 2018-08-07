@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["313034"]={"code":"313034","region":"Rajasthan","city":"Udaipur","latitude":24.57117,"longitude":73.69183}}(window,'GeoPostal','IN');

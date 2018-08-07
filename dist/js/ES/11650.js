@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11650"]={"code":"11650","region":"Andalucia","city":"Villamartin","latitude":36.85979,"longitude":-5.64485}}(window,'GeoPostal','ES');

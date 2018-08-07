@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW14 7XW"]={"code":"KW14 7XW","region":"Scotland","city":"Thurso","latitude":58.59271,"longitude":-3.52594}}(window,'GeoPostal','GB');

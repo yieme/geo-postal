@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78644"]={"code":"78644","region":"Texas","city":"Lockhart","latitude":29.88494,"longitude":-97.67}}(window,'GeoPostal','US');

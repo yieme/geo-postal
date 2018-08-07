@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72000"]={"code":"72000","region":"Negeri Sembilan","city":"Kuala Pilah","latitude":2.7389,"longitude":102.2487}}(window,'GeoPostal','MY');

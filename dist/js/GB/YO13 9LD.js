@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO13 9LD"]={"code":"YO13 9LD","region":"England","city":"Ayton","latitude":54.23333,"longitude":-0.48333}}(window,'GeoPostal','GB');

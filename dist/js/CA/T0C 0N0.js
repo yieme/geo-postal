@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 0N0"]={"code":"T0C 0N0","region":"Alberta","city":"Botha","latitude":52.30013,"longitude":-112.53519}}(window,'GeoPostal','CA');

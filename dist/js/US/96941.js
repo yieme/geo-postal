@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96941"]={"code":"96941","region":"FM","city":"Pohnpei","latitude":6.85,"longitude":158.26}}(window,'GeoPostal','US');

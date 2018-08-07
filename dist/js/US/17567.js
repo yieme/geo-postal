@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17567"]={"code":"17567","region":"PA","city":"Reamstown","latitude":40.2099,"longitude":-76.1164}}(window,'GeoPostal','US');

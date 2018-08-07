@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692777"]={"code":"692777","region":"Primorskiy kray","city":"Knevichi","latitude":43.405,"longitude":132.18889}}(window,'GeoPostal','RU');

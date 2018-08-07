@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40602"]={"code":"40602","region":"Nouvelle-Aquitaine","city":"Biscarrosse","latitude":44.39454,"longitude":-1.16721}}(window,'GeoPostal','FR');

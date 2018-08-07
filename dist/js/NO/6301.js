@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6301"]={"code":"6301","region":"More og Romsdal","city":"Andalsnes","latitude":62.56749,"longitude":7.68709}}(window,'GeoPostal','NO');

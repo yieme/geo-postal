@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0E 1A0"]={"code":"J0E 1A0","region":"Quebec","city":"Saint-Paul-d'Abbotsford","latitude":45.43338,"longitude":-72.88243}}(window,'GeoPostal','CA');

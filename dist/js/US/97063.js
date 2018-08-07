@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97063"]={"code":"97063","region":"Oregon","city":"Tygh Valley","latitude":45.24667,"longitude":-121.17028}}(window,'GeoPostal','US');

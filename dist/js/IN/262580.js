@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262580"]={"code":"262580","region":"Uttarakhand","city":"Pithoragarh","latitude":29.58333,"longitude":80.21667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317015"]={"code":"317015","region":"Arad","city":"Archis","latitude":46.48333,"longitude":22.05}}(window,'GeoPostal','RO');

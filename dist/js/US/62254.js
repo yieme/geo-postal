@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62254"]={"code":"62254","region":"IL","city":"Lebanon","latitude":38.6053,"longitude":-89.7992}}(window,'GeoPostal','US');

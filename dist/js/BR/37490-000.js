@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37490-000"]={"code":"37490-000","region":"Minas Gerais","city":"Sao Goncalo do Sapucai","latitude":-21.89222,"longitude":-45.59528}}(window,'GeoPostal','BR');

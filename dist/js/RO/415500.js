@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415500"]={"code":"415500","region":"Bihor","city":"Salonta","latitude":46.8,"longitude":21.65}}(window,'GeoPostal','RO');

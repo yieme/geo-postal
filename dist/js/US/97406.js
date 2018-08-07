@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97406"]={"code":"97406","region":"OR","city":"Agness","latitude":42.5748,"longitude":-124.0648}}(window,'GeoPostal','US');

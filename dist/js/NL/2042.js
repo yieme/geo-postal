@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2042"]={"code":"2042","region":"Noord-Holland","city":"Zandvoort","latitude":52.37487,"longitude":4.53409}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63458"]={"code":"63458","region":"MO","city":"Newark","latitude":39.9931,"longitude":-91.973}}(window,'GeoPostal','US');

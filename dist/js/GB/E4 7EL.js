@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4 7EL"]={"code":"E4 7EL","region":"England","city":"Chingford","latitude":51.63033,"longitude":0.00051}}(window,'GeoPostal','GB');

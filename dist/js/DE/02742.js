@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02742"]={"code":"02742","region":"Thuringen","city":"Friedersdorf","latitude":50.60492,"longitude":11.03577}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617520"]={"code":"617520","region":"Permskiy kray","city":"Uinskoye","latitude":56.88174,"longitude":56.58135}}(window,'GeoPostal','RU');

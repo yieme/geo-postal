@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28340"]={"code":"28340","region":"Madrid, Comunidad de","city":"Valdemoro","latitude":40.19081,"longitude":-3.67887}}(window,'GeoPostal','ES');

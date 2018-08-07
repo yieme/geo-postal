@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17568"]={"code":"17568","region":"PA","city":"Refton","latitude":39.9469,"longitude":-76.2322}}(window,'GeoPostal','US');

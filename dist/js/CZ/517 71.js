@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517 71"]={"code":"517 71","region":"Kralovehradecky kraj","city":"Ceske Mezirici","latitude":50.2868,"longitude":16.04428}}(window,'GeoPostal','CZ');

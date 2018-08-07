@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9P 2G5"]={"code":"V9P 2G5","region":"British Columbia","city":"Parksville","latitude":49.319626,"longitude":-124.304453}}(window,'GeoPostal','CA');

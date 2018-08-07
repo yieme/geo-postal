@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35110"]={"code":"35110","region":"Canarias","city":"Cruce de Arinaga","latitude":27.87656,"longitude":-15.42798}}(window,'GeoPostal','ES');

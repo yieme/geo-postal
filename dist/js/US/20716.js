@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20716"]={"code":"20716","region":"Maryland","city":"Bowie","latitude":38.9253,"longitude":-76.71546}}(window,'GeoPostal','US');

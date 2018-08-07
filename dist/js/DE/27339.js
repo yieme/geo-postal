@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27339"]={"code":"27339","region":"Niedersachsen","city":"Riede","latitude":52.96667,"longitude":8.95}}(window,'GeoPostal','DE');

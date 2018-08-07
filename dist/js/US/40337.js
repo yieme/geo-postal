@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40337"]={"code":"40337","region":"KY","city":"Jeffersonville","latitude":37.964,"longitude":-83.8558}}(window,'GeoPostal','US');

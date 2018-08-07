@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34990"]={"code":"34990","region":"Occitanie","city":"Juvignac","latitude":43.61389,"longitude":3.81056}}(window,'GeoPostal','FR');

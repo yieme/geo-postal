@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44844"]={"code":"44844","region":"OH","city":"Mc Cutchenville","latitude":40.9752,"longitude":-83.2637}}(window,'GeoPostal','US');

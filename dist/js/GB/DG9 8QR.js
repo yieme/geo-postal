@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 8QR"]={"code":"DG9 8QR","region":"Scotland","city":"Innermessan","latitude":54.92765,"longitude":-4.98717}}(window,'GeoPostal','GB');

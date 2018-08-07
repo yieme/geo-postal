@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63000"]={"code":"63000","region":"Tak","city":"Tak","latitude":16.86968,"longitude":99.12898}}(window,'GeoPostal','TH');

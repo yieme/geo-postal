@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64238"]={"code":"64238","region":"Nouvelle-Aquitaine","city":"Lescar","latitude":43.33333,"longitude":-0.41667}}(window,'GeoPostal','FR');

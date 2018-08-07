@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58063"]={"code":"58063","region":"North Dakota","city":"Oriska","latitude":46.93139,"longitude":-97.78917}}(window,'GeoPostal','US');

@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["KI"]={id:'KI',country:'Kiribati', postal:{'':{code:'',region:'Gilbert Islands',city:'Tarawa',latitude:1.3278,longitude:172.97696}}};

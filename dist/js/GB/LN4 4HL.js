@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN4 4HL"]={"code":"LN4 4HL","region":"England","city":"Billinghay","latitude":53.07959,"longitude":-0.27689}}(window,'GeoPostal','GB');

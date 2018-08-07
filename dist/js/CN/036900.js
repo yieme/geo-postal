@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["036900"]={"code":"036900","region":"Shanxi","city":"Daiyue","latitude":39.52038,"longitude":112.81684}}(window,'GeoPostal','CN');

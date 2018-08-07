@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19000"]={"code":"19000","region":"Adana","city":"Adana","latitude":37.00167,"longitude":35.32889}}(window,'GeoPostal','TR');

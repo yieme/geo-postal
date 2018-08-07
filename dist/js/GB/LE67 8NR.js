@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE67 8NR"]={"code":"LE67 8NR","region":"England","city":"Thringstone","latitude":52.75001,"longitude":-1.3678}}(window,'GeoPostal','GB');

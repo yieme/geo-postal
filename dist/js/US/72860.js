@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72860"]={"code":"72860","region":"AR","city":"Rover","latitude":34.9475,"longitude":-93.4017}}(window,'GeoPostal','US');

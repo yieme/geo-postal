@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["397909"]={"code":"397909","region":"Voronezhskaya oblast'","city":"Liski","latitude":50.98405,"longitude":39.51545}}(window,'GeoPostal','RU');

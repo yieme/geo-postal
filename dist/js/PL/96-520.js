@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96-520"]={"code":"96-520","region":"Mazowieckie","city":"Ilow","latitude":52.33953,"longitude":20.0273}}(window,'GeoPostal','PL');

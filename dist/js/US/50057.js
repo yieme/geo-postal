@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50057"]={"code":"50057","region":"IA","city":"Columbia","latitude":41.1838,"longitude":-93.1582}}(window,'GeoPostal','US');

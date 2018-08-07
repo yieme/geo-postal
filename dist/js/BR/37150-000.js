@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37150-000"]={"code":"37150-000","region":"Minas Gerais","city":"Carmo do Rio Claro","latitude":-20.97194,"longitude":-46.11889}}(window,'GeoPostal','BR');

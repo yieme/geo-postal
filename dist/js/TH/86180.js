@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86180"]={"code":"86180","region":"Chumphon","city":"Ban Nam Yuen","latitude":9.87686,"longitude":98.86592}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5331"]={"code":"5331","region":"Jasz-Nagykun-Szolnok","city":"Kenderes","latitude":47.25,"longitude":20.68333}}(window,'GeoPostal','HU');

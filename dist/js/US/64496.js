@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64496"]={"code":"64496","region":"MO","city":"Watson","latitude":40.478,"longitude":-95.6193}}(window,'GeoPostal','US');

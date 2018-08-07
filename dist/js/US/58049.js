@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58049"]={"code":"58049","region":"North Dakota","city":"Kathryn","latitude":46.7019,"longitude":-97.9854}}(window,'GeoPostal','US');

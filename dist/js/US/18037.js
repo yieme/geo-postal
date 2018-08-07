@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18037"]={"code":"18037","region":"Pennsylvania","city":"Coplay","latitude":40.68312,"longitude":-75.51222}}(window,'GeoPostal','US');

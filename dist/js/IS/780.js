@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["780"]={"code":"780","region":"Austurland","city":"Hofn","latitude":64.25387,"longitude":-15.2082}}(window,'GeoPostal','IS');

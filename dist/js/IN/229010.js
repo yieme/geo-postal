@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["229010"]={"code":"229010","region":"Uttar Pradesh","city":"Rae Bareli","latitude":26.21667,"longitude":81.23333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80161"]={"code":"80161","region":"CO","city":"Littleton","latitude":39.6133,"longitude":-105.0166}}(window,'GeoPostal','US');

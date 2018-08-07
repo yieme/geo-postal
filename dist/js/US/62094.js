@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62094"]={"code":"62094","region":"Illinois","city":"Witt","latitude":39.25444,"longitude":-89.35111}}(window,'GeoPostal','US');

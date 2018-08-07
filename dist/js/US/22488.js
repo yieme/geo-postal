@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22488"]={"code":"22488","region":"Virginia","city":"Kinsale","latitude":38.02944,"longitude":-76.58083}}(window,'GeoPostal','US');

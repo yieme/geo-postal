@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537140"]={"code":"537140","region":"Harghita","city":"Lueta","latitude":46.26667,"longitude":25.48333}}(window,'GeoPostal','RO');

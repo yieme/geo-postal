@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59241"]={"code":"59241","region":"MT","city":"Hinsdale","latitude":48.4007,"longitude":-107.0098}}(window,'GeoPostal','US');

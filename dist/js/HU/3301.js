@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3301"]={"code":"3301","region":"Heves","city":"Eger","latitude":47.90265,"longitude":20.37329}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45106"]={"code":"45106","region":"OH","city":"Bethel","latitude":38.9424,"longitude":-84.0919}}(window,'GeoPostal','US');

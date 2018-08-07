@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7543"]={"code":"7543","region":"Burgenland","city":"Kukmirn","latitude":47.07544,"longitude":16.21033}}(window,'GeoPostal','AT');

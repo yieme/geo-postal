@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45121"]={"code":"45121","region":"Ohio","city":"Georgetown","latitude":38.86451,"longitude":-83.90409}}(window,'GeoPostal','US');

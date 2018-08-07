@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57435-000"]={"code":"57435-000","region":"Sergipe","city":"Porto da Folha","latitude":-9.91722,"longitude":-37.27833}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52237"]={"code":"52237","region":"Iowa","city":"Hopkinton","latitude":42.322236,"longitude":-91.124162}}(window,'GeoPostal','US');

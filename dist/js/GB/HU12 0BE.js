@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU12 0BE"]={"code":"HU12 0BE","region":"England","city":"Ottringham","latitude":53.70092,"longitude":-0.07909}}(window,'GeoPostal','GB');

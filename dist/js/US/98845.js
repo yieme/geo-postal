@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98845"]={"code":"98845","region":"WA","city":"Palisades","latitude":47.419,"longitude":-119.9145}}(window,'GeoPostal','US');

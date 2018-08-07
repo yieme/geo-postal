@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-050"]={"code":"21-050","region":"Wielkopolskie","city":"Piaski","latitude":51.88497,"longitude":17.07293}}(window,'GeoPostal','PL');

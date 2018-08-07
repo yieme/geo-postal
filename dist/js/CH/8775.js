@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8775"]={"code":"8775","region":"Glarus","city":"Luchsingen","latitude":46.9664,"longitude":9.03715}}(window,'GeoPostal','CH');

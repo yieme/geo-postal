@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS16 8LT"]={"code":"LS16 8LT","region":"England","city":"Adel","latitude":53.85203,"longitude":-1.57978}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37412"]={"code":"37412","region":"Niedersachsen","city":"Pohlde","latitude":51.61294,"longitude":10.31434}}(window,'GeoPostal','DE');

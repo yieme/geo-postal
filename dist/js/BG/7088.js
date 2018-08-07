@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7088"]={"code":"7088","region":"Ruse","city":"Ivanovo","latitude":43.7,"longitude":25.98333}}(window,'GeoPostal','BG');

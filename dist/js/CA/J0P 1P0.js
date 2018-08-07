@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0P 1P0"]={"code":"J0P 1P0","region":"Quebec","city":"Rigaud","latitude":45.47927,"longitude":-74.30238}}(window,'GeoPostal','CA');

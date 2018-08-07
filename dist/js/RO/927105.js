@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["927105"]={"code":"927105","region":"Ialomita","city":"Dridu","latitude":44.7,"longitude":26.45}}(window,'GeoPostal','RO');

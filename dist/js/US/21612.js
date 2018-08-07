@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21612"]={"code":"21612","region":"MD","city":"Bozman","latitude":38.7515,"longitude":-76.2764}}(window,'GeoPostal','US');

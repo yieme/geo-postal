@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95940-000"]={"code":"95940-000","region":"Rio Grande do Sul","city":"Arroio do Meio","latitude":-29.40111,"longitude":-51.945}}(window,'GeoPostal','BR');

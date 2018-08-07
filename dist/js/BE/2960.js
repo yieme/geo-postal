@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2960"]={"code":"2960","region":"Antwerpen","city":"Brecht","latitude":51.35024,"longitude":4.63829}}(window,'GeoPostal','BE');

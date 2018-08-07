@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4699"]={"code":"4699","region":"Vest-Agder","city":"Tveit","latitude":58.23366,"longitude":8.12199}}(window,'GeoPostal','NO');

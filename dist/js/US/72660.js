@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72660"]={"code":"72660","region":"AR","city":"Oak Grove","latitude":36.4613,"longitude":-93.4321}}(window,'GeoPostal','US');

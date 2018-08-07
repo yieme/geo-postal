@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90261"]={"code":"90261","region":"Zakarpatska oblast","city":"Vynohradiv","latitude":48.15,"longitude":22.76667}}(window,'GeoPostal','UA');

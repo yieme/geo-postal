@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95975"]={"code":"95975","region":"CA","city":"Rough And Ready","latitude":39.2286,"longitude":-121.1509}}(window,'GeoPostal','US');

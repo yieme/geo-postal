@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HA5 2JQ"]={"code":"HA5 2JQ","region":"England","city":"Pinner","latitude":51.59384,"longitude":-0.38216}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6973"]={"code":"6973","region":"Western Cape","city":"Beaufort West","latitude":-32.35671,"longitude":22.58295}}(window,'GeoPostal','ZA');

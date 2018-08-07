@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["930000"]={"code":"930000","region":"Ben Tre","city":"Ben Tre","latitude":10.23333,"longitude":106.38333}}(window,'GeoPostal','VN');

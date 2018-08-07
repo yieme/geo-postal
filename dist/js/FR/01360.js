@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01360"]={"code":"01360","region":"Auvergne-Rhone-Alpes","city":"Balan","latitude":45.8343,"longitude":5.09834}}(window,'GeoPostal','FR');

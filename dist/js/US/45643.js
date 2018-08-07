@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45643"]={"code":"45643","region":"Ohio","city":"Kerr","latitude":38.872778,"longitude":-82.260833}}(window,'GeoPostal','US');

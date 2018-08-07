@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50519"]={"code":"50519","region":"Jawa Tengah","city":"Ungaran","latitude":-7.13972,"longitude":110.405}}(window,'GeoPostal','ID');

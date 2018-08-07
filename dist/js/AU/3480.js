@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3480"]={"code":"3480","region":"Victoria","city":"Laen East","latitude":-36.38333,"longitude":142.88333}}(window,'GeoPostal','AU');

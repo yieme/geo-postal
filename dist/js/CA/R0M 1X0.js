@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0M 1X0"]={"code":"R0M 1X0","region":"Manitoba","city":"Reston","latitude":49.5575,"longitude":-101.09422}}(window,'GeoPostal','CA');

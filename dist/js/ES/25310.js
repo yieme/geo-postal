@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25310"]={"code":"25310","region":"Catalunya","city":"Agramunt","latitude":41.78686,"longitude":1.09683}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31600"]={"code":"31600","region":"Occitanie","city":"Lherm","latitude":43.43127,"longitude":1.22239}}(window,'GeoPostal','FR');

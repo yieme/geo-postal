@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16792"]={"code":"16792","region":"Brandenburg","city":"Zehdenick","latitude":52.97852,"longitude":13.33165}}(window,'GeoPostal','DE');

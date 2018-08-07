@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63630"]={"code":"63630","region":"Nayarit","city":"Rosamorada","latitude":22.12222,"longitude":-105.20583}}(window,'GeoPostal','MX');

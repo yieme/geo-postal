@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76853"]={"code":"76853","region":"Texas","city":"Lometa","latitude":31.21806,"longitude":-98.39278}}(window,'GeoPostal','US');

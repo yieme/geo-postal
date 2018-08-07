@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95179"]={"code":"95179","region":"Bayern","city":"Geroldsreuth","latitude":50.33301,"longitude":11.6103}}(window,'GeoPostal','DE');

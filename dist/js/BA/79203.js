@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79203"]={"code":"79203","region":"Republika Srpska","city":"Maricka","latitude":44.86861,"longitude":16.84056}}(window,'GeoPostal','BA');

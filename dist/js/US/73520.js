@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73520"]={"code":"73520","region":"OK","city":"Addington","latitude":34.2445,"longitude":-97.967}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2301"]={"code":"2301","region":"Mpumalanga","city":"Secunda","latitude":-26.55,"longitude":29.16667}}(window,'GeoPostal','ZA');

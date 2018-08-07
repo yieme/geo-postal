@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62276"]={"code":"62276","region":"Gotlands lan","city":"Visby","latitude":57.64089,"longitude":18.29602}}(window,'GeoPostal','SE');

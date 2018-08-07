@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43773"]={"code":"43773","region":"OH","city":"Quaker City","latitude":39.9866,"longitude":-81.2899}}(window,'GeoPostal','US');

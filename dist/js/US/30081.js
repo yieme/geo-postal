@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30081"]={"code":"30081","region":"GA","city":"Smyrna","latitude":33.8588,"longitude":-84.7106}}(window,'GeoPostal','US');

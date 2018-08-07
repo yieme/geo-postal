@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77453"]={"code":"77453","region":"TX","city":"Lane City","latitude":29.2161,"longitude":-96.0263}}(window,'GeoPostal','US');

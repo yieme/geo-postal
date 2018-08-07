@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX16 6SH"]={"code":"EX16 6SH","region":"England","city":"Tiverton","latitude":50.9,"longitude":-3.48333}}(window,'GeoPostal','GB');

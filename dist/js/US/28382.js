@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28382"]={"code":"28382","region":"NC","city":"Roseboro","latitude":34.9639,"longitude":-78.5133}}(window,'GeoPostal','US');

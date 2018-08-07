@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61059"]={"code":"61059","region":"IL","city":"Nora","latitude":42.4558,"longitude":-89.9454}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03850"]={"code":"03850","region":"Valenciana, Comunidad","city":"Beniarres","latitude":38.82019,"longitude":-0.37741}}(window,'GeoPostal','ES');

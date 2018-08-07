@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35110"]={"code":"35110","region":"Yasothon","city":"Kham Khuean Kaeo","latitude":15.65233,"longitude":104.30861}}(window,'GeoPostal','TH');

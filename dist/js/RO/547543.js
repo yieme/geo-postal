@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547543"]={"code":"547543","region":"Dolj","city":"Birza","latitude":46.55,"longitude":24.13333}}(window,'GeoPostal','RO');

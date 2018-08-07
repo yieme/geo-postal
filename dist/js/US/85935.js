@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85935"]={"code":"85935","region":"Arizona","city":"Pinetop","latitude":34.120928,"longitude":-109.926044}}(window,'GeoPostal','US');

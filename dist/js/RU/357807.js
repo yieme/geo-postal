@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357807"]={"code":"357807","region":"Stavropol'skiy kray","city":"Nezlobnaya","latitude":44.11806,"longitude":43.40278}}(window,'GeoPostal','RU');

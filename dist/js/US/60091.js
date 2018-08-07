@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60091"]={"code":"60091","region":"Illinois","city":"Wilmette","latitude":42.07225,"longitude":-87.72284}}(window,'GeoPostal','US');

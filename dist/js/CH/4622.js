@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4622"]={"code":"4622","region":"Solothurn","city":"Egerkingen","latitude":47.31957,"longitude":7.78424}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71865"]={"code":"71865","region":"AR","city":"Wilton","latitude":33.7475,"longitude":-94.1518}}(window,'GeoPostal','US');

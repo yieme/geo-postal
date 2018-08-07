@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB52 6RY"]={"code":"AB52 6RY","region":"Scotland","city":"Old Rayne","latitude":57.34395,"longitude":-2.54229}}(window,'GeoPostal','GB');

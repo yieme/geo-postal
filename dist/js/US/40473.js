@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40473"]={"code":"40473","region":"KY","city":"Renfro Valley","latitude":37.3879,"longitude":-84.3316}}(window,'GeoPostal','US');

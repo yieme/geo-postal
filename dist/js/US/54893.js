@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54893"]={"code":"54893","region":"Wisconsin","city":"Webster","latitude":45.878932,"longitude":-92.297614}}(window,'GeoPostal','US');

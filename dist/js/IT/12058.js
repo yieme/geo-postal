@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12058"]={"code":"12058","region":"Piemonte","city":"Santo Stefano Belbo","latitude":44.70654,"longitude":8.22604}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62530"]={"code":"62530","region":"Hauts-de-France","city":"Hersin-Coupigny","latitude":50.44796,"longitude":2.6494}}(window,'GeoPostal','FR');

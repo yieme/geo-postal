@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG11 3EL"]={"code":"DG11 3EL","region":"Scotland","city":"Ecclefechan","latitude":55.05928,"longitude":-3.26652}}(window,'GeoPostal','GB');

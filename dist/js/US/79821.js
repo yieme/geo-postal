@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79821"]={"code":"79821","region":"Texas","city":"Vinton","latitude":31.974575,"longitude":-106.595846}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36049"]={"code":"36049","region":"Alabama","city":"Luverne","latitude":31.71655,"longitude":-86.26385}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5422"]={"code":"5422","region":"South Australia","city":"Oodla Wirra","latitude":-32.88333,"longitude":139.06667}}(window,'GeoPostal','AU');

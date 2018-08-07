@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05031"]={"code":"05031","region":"VT","city":"Barnard","latitude":43.7287,"longitude":-72.619}}(window,'GeoPostal','US');

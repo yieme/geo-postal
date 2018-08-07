@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41341"]={"code":"41341","region":"Keski-Suomi","city":"Laukaa","latitude":62.41407,"longitude":25.95194}}(window,'GeoPostal','FI');

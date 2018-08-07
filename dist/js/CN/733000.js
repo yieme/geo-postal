@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["733000"]={"code":"733000","region":"Gansu","city":"Wuwei","latitude":37.928056,"longitude":102.641389}}(window,'GeoPostal','CN');

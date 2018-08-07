@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65220"]={"code":"65220","region":"Occitanie","city":"Trie-sur-Baise","latitude":43.33333,"longitude":0.36667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49380"]={"code":"49380","region":"Pays-de-la-Loire","city":"Thouarce","latitude":47.26734,"longitude":-0.50186}}(window,'GeoPostal','FR');

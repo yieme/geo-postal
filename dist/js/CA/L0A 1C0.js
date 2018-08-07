@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0A 1C0"]={"code":"L0A 1C0","region":"Ontario","city":"Orange Corners","latitude":44.30652,"longitude":-78.47064}}(window,'GeoPostal','CA');

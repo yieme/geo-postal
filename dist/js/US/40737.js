@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40737"]={"code":"40737","region":"KY","city":"Keavy","latitude":37.0156,"longitude":-84.1436}}(window,'GeoPostal','US');

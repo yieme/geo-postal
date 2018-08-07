@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39970-000"]={"code":"39970-000","region":"Minas Gerais","city":"Pedra Azul","latitude":-16.00528,"longitude":-41.29722}}(window,'GeoPostal','BR');

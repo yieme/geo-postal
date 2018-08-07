@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247015"]={"code":"247015","region":"Valcea","city":"Amarasti","latitude":44.76667,"longitude":24.15}}(window,'GeoPostal','RO');

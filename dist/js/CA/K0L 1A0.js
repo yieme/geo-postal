@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 1A0"]={"code":"K0L 1A0","region":"Ontario","city":"Apsley","latitude":44.75012,"longitude":-78.09952}}(window,'GeoPostal','CA');

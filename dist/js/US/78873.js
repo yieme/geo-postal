@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78873"]={"code":"78873","region":"TX","city":"Leakey","latitude":29.769,"longitude":-99.7479}}(window,'GeoPostal','US');

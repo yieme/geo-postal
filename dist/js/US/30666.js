@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30666"]={"code":"30666","region":"Georgia","city":"Statham","latitude":33.96456,"longitude":-83.597344}}(window,'GeoPostal','US');

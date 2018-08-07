@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29487"]={"code":"29487","region":"Niedersachsen","city":"Kremlin","latitude":52.95065,"longitude":11.03886}}(window,'GeoPostal','DE');

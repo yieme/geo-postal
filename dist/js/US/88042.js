@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88042"]={"code":"88042","region":"New Mexico","city":"Hillsboro","latitude":32.916944,"longitude":-107.705556}}(window,'GeoPostal','US');

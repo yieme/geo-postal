@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28168"]={"code":"28168","region":"NC","city":"Vale","latitude":35.5188,"longitude":-81.4589}}(window,'GeoPostal','US');

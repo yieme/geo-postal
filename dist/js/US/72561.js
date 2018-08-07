@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72561"]={"code":"72561","region":"Arkansas","city":"Mount Pleasant","latitude":35.964412,"longitude":-91.807772}}(window,'GeoPostal','US');

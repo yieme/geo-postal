@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K8V 3A2"]={"code":"K8V 3A2","region":"Ontario","city":"Trenton","latitude":44.108649,"longitude":-77.566664}}(window,'GeoPostal','CA');

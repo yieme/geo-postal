@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74-505"]={"code":"74-505","region":"Zachodniopomorskie","city":"Mieszkowice","latitude":52.7873,"longitude":14.49346}}(window,'GeoPostal','PL');

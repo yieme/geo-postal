@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17406"]={"code":"17406","region":"Catalunya","city":"Viladrau","latitude":41.84746,"longitude":2.39019}}(window,'GeoPostal','ES');

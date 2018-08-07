@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55765"]={"code":"55765","region":"Rheinland-Pfalz","city":"Burgbirkenfeld","latitude":49.64031,"longitude":7.16814}}(window,'GeoPostal','DE');

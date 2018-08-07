@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02472"]={"code":"02472","region":"Massachusetts","city":"Watertown","latitude":42.37185,"longitude":-71.17848}}(window,'GeoPostal','US');

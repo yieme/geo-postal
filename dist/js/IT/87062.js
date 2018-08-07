@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87062"]={"code":"87062","region":"Calabria","city":"Cariati","latitude":39.4922,"longitude":16.95941}}(window,'GeoPostal','IT');

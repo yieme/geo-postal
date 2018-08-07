@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-210"]={"code":"83-210","region":"Pomorskie","city":"Zblewo","latitude":53.93366,"longitude":18.32262}}(window,'GeoPostal','PL');

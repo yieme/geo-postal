@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44622"]={"code":"44622","region":"Ohio","city":"Dover","latitude":40.52062,"longitude":-81.47401}}(window,'GeoPostal','US');

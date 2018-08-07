@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-540"]={"code":"66-540","region":"Lubuskie","city":"Stare Kurowo","latitude":52.85669,"longitude":15.67749}}(window,'GeoPostal','PL');

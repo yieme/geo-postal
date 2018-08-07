@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48322"]={"code":"48322","region":"Koprivnicko-krizevacka zupanija","city":"Drnje","latitude":46.20694,"longitude":16.91694}}(window,'GeoPostal','HR');

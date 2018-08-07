@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47800"]={"code":"47800","region":"Castilla y Leon","city":"Medina de Rioseco","latitude":41.88327,"longitude":-5.04405}}(window,'GeoPostal','ES');

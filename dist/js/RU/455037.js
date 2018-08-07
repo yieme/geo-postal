@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["455037"]={"code":"455037","region":"Chelyabinskaya oblast'","city":"Magnitogorsk","latitude":53.41861,"longitude":59.04722}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6442"]={"code":"6442","region":"Schwyz","city":"Gersau","latitude":46.99419,"longitude":8.525}}(window,'GeoPostal','CH');

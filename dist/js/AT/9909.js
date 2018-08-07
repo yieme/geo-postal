@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9909"]={"code":"9909","region":"Tirol","city":"Leisach","latitude":46.8125,"longitude":12.74861}}(window,'GeoPostal','AT');

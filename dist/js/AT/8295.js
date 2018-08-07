@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8295"]={"code":"8295","region":"Steiermark","city":"Hartberg","latitude":47.28333,"longitude":15.96667}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72107"]={"code":"72107","region":"AR","city":"Menifee","latitude":35.1356,"longitude":-92.5498}}(window,'GeoPostal','US');

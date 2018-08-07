@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX9 4BW"]={"code":"OX9 4BW","region":"England","city":"Chinnor","latitude":51.70177,"longitude":-0.91161}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["164251"]={"code":"164251","region":"Arkhangel'skaya oblast'","city":"Puksoozero","latitude":62.5903,"longitude":40.6066}}(window,'GeoPostal','RU');

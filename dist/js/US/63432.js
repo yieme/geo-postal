@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63432"]={"code":"63432","region":"Missouri","city":"Arbela","latitude":40.503364,"longitude":-92.001735}}(window,'GeoPostal','US');

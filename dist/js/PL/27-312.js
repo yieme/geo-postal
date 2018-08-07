@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-312"]={"code":"27-312","region":"Mazowieckie","city":"Ciepielow","latitude":51.24838,"longitude":21.57475}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4361"]={"code":"4361","region":"Queensland","city":"Clifton","latitude":-27.93374,"longitude":151.9066}}(window,'GeoPostal','AU');

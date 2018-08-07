@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25751"]={"code":"25751","region":"Catalunya","city":"Tora de Riubregos","latitude":41.81667,"longitude":1.4}}(window,'GeoPostal','ES');

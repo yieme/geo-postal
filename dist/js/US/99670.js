@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99670"]={"code":"99670","region":"AK","city":"South Naknek","latitude":58.6639,"longitude":-156.9756}}(window,'GeoPostal','US');

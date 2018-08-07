@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83502"]={"code":"83502","region":"Souss-Massa-Draa","city":"Taliouine","latitude":30.52917,"longitude":-7.91262}}(window,'GeoPostal','MA');

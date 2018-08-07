@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["206002"]={"code":"206002","region":"Uttar Pradesh","city":"Etawah","latitude":26.7769,"longitude":79.0239}}(window,'GeoPostal','IN');

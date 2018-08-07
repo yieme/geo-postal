@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34516"]={"code":"34516","region":"Hessen","city":"Immighausen","latitude":51.20791,"longitude":8.85095}}(window,'GeoPostal','DE');

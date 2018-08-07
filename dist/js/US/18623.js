@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18623"]={"code":"18623","region":"Pennsylvania","city":"Laceyville","latitude":41.64528,"longitude":-76.16056}}(window,'GeoPostal','US');

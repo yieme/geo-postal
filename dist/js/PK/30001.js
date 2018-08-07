@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30001"]={"code":"30001","region":"Punjab","city":"Bhalwal","latitude":32.27204,"longitude":72.90425}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628801"]={"code":"628801","region":"Tamil Nadu","city":"Korampallam","latitude":8.76667,"longitude":78.1}}(window,'GeoPostal','IN');

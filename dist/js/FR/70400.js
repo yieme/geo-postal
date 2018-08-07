@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70400"]={"code":"70400","region":"Bourgogne-Franche-Comte","city":"Saulnot","latitude":47.5633,"longitude":6.6342}}(window,'GeoPostal','FR');

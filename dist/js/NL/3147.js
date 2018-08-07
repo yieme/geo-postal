@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3147"]={"code":"3147","region":"Zuid-Holland","city":"Maassluis","latitude":51.92333,"longitude":4.25}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA8 0JF"]={"code":"LA8 0JF","region":"England","city":"Gatebeck","latitude":54.26541,"longitude":-2.69402}}(window,'GeoPostal','GB');

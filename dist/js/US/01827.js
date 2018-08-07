@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01827"]={"code":"01827","region":"Massachusetts","city":"Dunstable","latitude":42.67509,"longitude":-71.48284}}(window,'GeoPostal','US');

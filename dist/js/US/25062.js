@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25062"]={"code":"25062","region":"WV","city":"Dry Creek","latitude":37.8749,"longitude":-81.4412}}(window,'GeoPostal','US');

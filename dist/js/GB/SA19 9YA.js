@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA19 9YA"]={"code":"SA19 9YA","region":"Wales","city":"Twyn Llanan","latitude":51.90453,"longitude":-3.81198}}(window,'GeoPostal','GB');

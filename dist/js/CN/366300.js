@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366300"]={"code":"366300","region":"Fujian","city":"Datong","latitude":25.84231,"longitude":116.35886}}(window,'GeoPostal','CN');

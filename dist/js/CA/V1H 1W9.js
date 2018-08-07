@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1H 1W9"]={"code":"V1H 1W9","region":"British Columbia","city":"Okanagan","latitude":50.36386,"longitude":-119.34997}}(window,'GeoPostal','CA');

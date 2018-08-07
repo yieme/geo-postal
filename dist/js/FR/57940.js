@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57940"]={"code":"57940","region":"Grand-Est","city":"Metzervisse","latitude":49.31501,"longitude":6.28552}}(window,'GeoPostal','FR');

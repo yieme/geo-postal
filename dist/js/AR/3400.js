@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3400"]={"code":"3400","region":"Corrientes","city":"Corrientes","latitude":-27.4806,"longitude":-58.8341}}(window,'GeoPostal','AR');

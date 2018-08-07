@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-732"]={"code":"37-732","region":"Podkarpackie","city":"Medyka","latitude":49.80526,"longitude":22.92229}}(window,'GeoPostal','PL');

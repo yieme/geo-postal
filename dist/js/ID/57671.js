@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57671"]={"code":"57671","region":"Jawa Timur","city":"Kedungrejo","latitude":-8.4399,"longitude":114.3205}}(window,'GeoPostal','ID');

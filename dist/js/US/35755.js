@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35755"]={"code":"35755","region":"AL","city":"Langston","latitude":34.5001,"longitude":-86.1353}}(window,'GeoPostal','US');

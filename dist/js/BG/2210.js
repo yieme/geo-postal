@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2210"]={"code":"2210","region":"Sofia","city":"Dragoman","latitude":42.91889,"longitude":22.93167}}(window,'GeoPostal','BG');

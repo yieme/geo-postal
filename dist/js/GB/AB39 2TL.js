@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB39 2TL"]={"code":"AB39 2TL","region":"Scotland","city":"Dunnottar","latitude":56.9421,"longitude":-2.2074}}(window,'GeoPostal','GB');

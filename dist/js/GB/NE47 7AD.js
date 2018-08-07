@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE47 7AD"]={"code":"NE47 7AD","region":"England","city":"Thorngrafton","latitude":54.98263,"longitude":-2.34014}}(window,'GeoPostal','GB');

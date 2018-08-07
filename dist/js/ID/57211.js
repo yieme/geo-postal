@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57211"]={"code":"57211","region":"Jawa Tengah","city":"Sragen","latitude":-7.42639,"longitude":111.02222}}(window,'GeoPostal','ID');

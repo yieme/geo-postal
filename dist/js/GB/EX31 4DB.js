@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX31 4DB"]={"code":"EX31 4DB","region":"England","city":"Ashford","latitude":51.1,"longitude":-4.1}}(window,'GeoPostal','GB');

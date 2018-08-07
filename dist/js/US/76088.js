@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76088"]={"code":"76088","region":"TX","city":"Weatherford","latitude":32.8478,"longitude":-97.8606}}(window,'GeoPostal','US');

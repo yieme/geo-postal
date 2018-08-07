@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM9 6HA"]={"code":"CM9 6HA","region":"England","city":"Maldon","latitude":51.7311,"longitude":0.67463}}(window,'GeoPostal','GB');

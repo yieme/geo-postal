@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21423"]={"code":"21423","region":"Niedersachsen","city":"Luhdorf","latitude":53.33172,"longitude":10.20125}}(window,'GeoPostal','DE');

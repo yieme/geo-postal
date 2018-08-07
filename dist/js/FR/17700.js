@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17700"]={"code":"17700","region":"Nouvelle-Aquitaine","city":"Surgeres","latitude":46.1082,"longitude":-0.75148}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85641"]={"code":"85641","region":"AZ","city":"Vail","latitude":32.0027,"longitude":-110.7053}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6406"]={"code":"6406","region":"Laguna","city":"Victoria","latitude":14.2277,"longitude":121.3292}}(window,'GeoPostal','PH');

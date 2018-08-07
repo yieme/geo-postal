@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33920"]={"code":"33920","region":"FL","city":"Alva","latitude":26.7147,"longitude":-81.6351}}(window,'GeoPostal','US');

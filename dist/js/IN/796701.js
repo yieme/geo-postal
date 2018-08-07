@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["796701"]={"code":"796701","region":"Mizoram","city":"Lunglei","latitude":22.88333,"longitude":92.73333}}(window,'GeoPostal','IN');

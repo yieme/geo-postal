@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43442"]={"code":"43442","region":"OH","city":"Lindsey","latitude":41.4147,"longitude":-83.2135}}(window,'GeoPostal','US');

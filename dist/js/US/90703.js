@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90703"]={"code":"90703","region":"California","city":"Cerritos","latitude":33.866635,"longitude":-118.048458}}(window,'GeoPostal','US');

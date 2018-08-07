@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42408"]={"code":"42408","region":"KY","city":"Dawson Springs","latitude":37.1964,"longitude":-87.6821}}(window,'GeoPostal','US');

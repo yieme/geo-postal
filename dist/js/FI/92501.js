@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92501"]={"code":"92501","region":"Pohjois-Pohjanmaa","city":"Rantsila","latitude":64.50613,"longitude":25.66449}}(window,'GeoPostal','FI');

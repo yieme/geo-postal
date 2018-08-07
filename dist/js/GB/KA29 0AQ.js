@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA29 0AQ"]={"code":"KA29 0AQ","region":"Scotland","city":"Fairlie","latitude":55.75602,"longitude":-4.85564}}(window,'GeoPostal','GB');

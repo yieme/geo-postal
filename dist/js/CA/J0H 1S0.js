@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0H 1S0"]={"code":"J0H 1S0","region":"Quebec","city":"Sainte-Madeleine","latitude":45.60008,"longitude":-73.09914}}(window,'GeoPostal','CA');

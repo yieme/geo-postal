@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39197"]={"code":"39197","region":"Cantabria","city":"Argonos","latitude":43.4574,"longitude":-3.49013}}(window,'GeoPostal','ES');

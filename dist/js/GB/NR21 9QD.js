@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR21 9QD"]={"code":"NR21 9QD","region":"England","city":"Sculthorpe","latitude":52.84196,"longitude":0.81371}}(window,'GeoPostal','GB');

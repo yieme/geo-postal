@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0T 1K0"]={"code":"P0T 1K0","region":"Ontario","city":"Loon","latitude":48.6334,"longitude":-88.76678}}(window,'GeoPostal','CA');

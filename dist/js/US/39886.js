@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39886"]={"code":"39886","region":"Georgia","city":"Shellman","latitude":31.75628,"longitude":-84.6152}}(window,'GeoPostal','US');

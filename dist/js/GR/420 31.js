@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["420 31"]={"code":"420 31","region":"Thessalia","city":"Grizanon","latitude":39.63333,"longitude":22.05}}(window,'GeoPostal','GR');

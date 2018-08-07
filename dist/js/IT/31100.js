@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31100"]={"code":"31100","region":"Veneto","city":"Treviso","latitude":45.66667,"longitude":12.245}}(window,'GeoPostal','IT');

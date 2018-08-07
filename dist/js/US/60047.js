@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60047"]={"code":"60047","region":"Illinois","city":"Lake Zurich","latitude":42.19697,"longitude":-88.09341}}(window,'GeoPostal','US');

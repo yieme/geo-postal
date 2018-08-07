@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37521"]={"code":"37521","region":"Centre-Val de Loire","city":"La Riche","latitude":47.38996,"longitude":0.67072}}(window,'GeoPostal','FR');

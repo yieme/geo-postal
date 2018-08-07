@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606657"]={"code":"606657","region":"Nizhegorodskaya oblast'","city":"Semenov","latitude":56.78749,"longitude":44.49297}}(window,'GeoPostal','RU');

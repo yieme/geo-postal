@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN17 4JU"]={"code":"DN17 4JU","region":"England","city":"Eastoft","latitude":53.63624,"longitude":-0.78492}}(window,'GeoPostal','GB');

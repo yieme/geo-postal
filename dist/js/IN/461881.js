@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461881"]={"code":"461881","region":"Madhya Pradesh","city":"Amla","latitude":21.93333,"longitude":78.11667}}(window,'GeoPostal','IN');

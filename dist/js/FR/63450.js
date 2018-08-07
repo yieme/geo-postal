@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63450"]={"code":"63450","region":"Auvergne-Rhone-Alpes","city":"Saint-Saturnin","latitude":45.65945,"longitude":3.09019}}(window,'GeoPostal','FR');

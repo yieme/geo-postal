@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78600"]={"code":"78600","region":"Ile-de-France","city":"Maisons-Laffitte","latitude":48.95264,"longitude":2.14521}}(window,'GeoPostal','FR');

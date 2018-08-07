@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5815"]={"code":"5815","region":"Cordoba","city":"Wenceslao Escalante","latitude":-33.17303,"longitude":-62.77078}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63800"]={"code":"63800","region":"Mardin","city":"Mardin","latitude":37.31309,"longitude":40.74357}}(window,'GeoPostal','TR');

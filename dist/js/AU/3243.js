@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3243"]={"code":"3243","region":"Victoria","city":"Barwon Downs","latitude":-38.46667,"longitude":143.75}}(window,'GeoPostal','AU');

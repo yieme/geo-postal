@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE36 6NU"]={"code":"PE36 6NU","region":"England","city":"Holme next the Sea","latitude":52.96131,"longitude":0.53563}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["281 00"]={"code":"281 00","region":"Ionia Nisia","city":"Valsamata","latitude":38.16667,"longitude":20.6}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-320"]={"code":"86-320","region":"Kujawsko-pomorskie","city":"Lasin","latitude":53.51794,"longitude":19.08832}}(window,'GeoPostal','PL');

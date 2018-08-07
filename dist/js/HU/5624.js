@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5624"]={"code":"5624","region":"Bekes","city":"Doboz","latitude":46.73333,"longitude":21.25}}(window,'GeoPostal','HU');

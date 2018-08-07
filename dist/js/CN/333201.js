@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333201"]={"code":"333201","region":"Jiangxi","city":"Sikou","latitude":29.35427,"longitude":117.81226}}(window,'GeoPostal','CN');

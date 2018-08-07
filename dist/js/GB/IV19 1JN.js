@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV19 1JN"]={"code":"IV19 1JN","region":"Scotland","city":"Tain","latitude":57.80903,"longitude":-4.05991}}(window,'GeoPostal','GB');

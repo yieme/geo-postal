@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 2T0"]={"code":"J0B 2T0","region":"Quebec","city":"Saint-Felix-de-Kingsey","latitude":45.794781,"longitude":-72.190629}}(window,'GeoPostal','CA');

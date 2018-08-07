@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 2N0"]={"code":"J0T 2N0","region":"Quebec","city":"Val-David","latitude":46.03338,"longitude":-74.21592}}(window,'GeoPostal','CA');

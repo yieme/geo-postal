@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["254-0034"]={"code":"254-0034","region":"Kanagawa","city":"Hiratsuka","latitude":35.317,"longitude":139.35}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30818"]={"code":"30818","region":"Georgia","city":"Wrens","latitude":33.20765,"longitude":-82.39179}}(window,'GeoPostal','US');

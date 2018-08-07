@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64032"]={"code":"64032","region":"Abruzzo","city":"Atri","latitude":42.57784,"longitude":13.9848}}(window,'GeoPostal','IT');

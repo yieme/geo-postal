@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3468"]={"code":"3468","region":"Victoria","city":"Waterloo","latitude":-37.36667,"longitude":143.41667}}(window,'GeoPostal','AU');

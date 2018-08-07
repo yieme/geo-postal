@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76631"]={"code":"76631","region":"TX","city":"Bynum","latitude":31.9907,"longitude":-96.9837}}(window,'GeoPostal','US');

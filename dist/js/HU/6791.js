@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6791"]={"code":"6791","region":"Csongrad","city":"Zakanyszek","latitude":46.27453,"longitude":19.88975}}(window,'GeoPostal','HU');

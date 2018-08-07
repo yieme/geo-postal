@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46115"]={"code":"46115","region":"Valenciana, Comunidad","city":"Alfara del Patriarca","latitude":39.55,"longitude":-0.38333}}(window,'GeoPostal','ES');

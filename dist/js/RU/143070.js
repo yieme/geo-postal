@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143070"]={"code":"143070","region":"Moskovskaya oblast'","city":"Kubinka","latitude":55.57957,"longitude":36.70392}}(window,'GeoPostal','RU');

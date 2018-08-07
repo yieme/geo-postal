@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0860"]={"code":"0860","region":"Northern Territory","city":"Tennant Creek","latitude":-19.6497,"longitude":134.19147}}(window,'GeoPostal','AU');

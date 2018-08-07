@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22026"]={"code":"22026","region":"Virginia","city":"Dumfries","latitude":38.58312,"longitude":-77.33382}}(window,'GeoPostal','US');

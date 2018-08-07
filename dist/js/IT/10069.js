@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10069"]={"code":"10069","region":"Piemonte","city":"Villar Perosa","latitude":44.91874,"longitude":7.24922}}(window,'GeoPostal','IT');

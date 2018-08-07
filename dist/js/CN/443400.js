@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["443400"]={"code":"443400","region":"Hubei","city":"Wufeng","latitude":30.2,"longitude":110.69081}}(window,'GeoPostal','CN');

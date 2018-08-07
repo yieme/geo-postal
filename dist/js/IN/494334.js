@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["494334"]={"code":"494334","region":"Chhattisgarh","city":"Kanker","latitude":20.27194,"longitude":81.49306}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427101"]={"code":"427101","region":"Bistrita-Nasaud","city":"Josenii Birgaului","latitude":47.21667,"longitude":24.68333}}(window,'GeoPostal','RO');

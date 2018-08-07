@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446320"]={"code":"446320","region":"Samarskaya oblast'","city":"Krotovka","latitude":53.2858,"longitude":51.1686}}(window,'GeoPostal','RU');

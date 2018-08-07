@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["224500"]={"code":"224500","region":"Jiangsu","city":"Dongkan","latitude":33.99972,"longitude":119.83083}}(window,'GeoPostal','CN');

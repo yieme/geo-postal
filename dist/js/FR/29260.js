@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29260"]={"code":"29260","region":"Bretagne","city":"Ploudaniel","latitude":48.53333,"longitude":-4.31667}}(window,'GeoPostal','FR');

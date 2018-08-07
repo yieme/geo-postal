@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9015"]={"code":"9015","region":"Appenzell Ausserrhoden","city":"Herisau","latitude":47.38615,"longitude":9.27916}}(window,'GeoPostal','CH');

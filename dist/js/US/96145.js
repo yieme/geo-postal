@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96145"]={"code":"96145","region":"California","city":"Tahoe City","latitude":39.17718,"longitude":-120.15372}}(window,'GeoPostal','US');

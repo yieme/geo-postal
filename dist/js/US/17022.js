@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17022"]={"code":"17022","region":"Pennsylvania","city":"Elizabethtown","latitude":40.150619,"longitude":-76.599074}}(window,'GeoPostal','US');

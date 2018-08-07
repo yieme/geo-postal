@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72137"]={"code":"72137","region":"AR","city":"Rose Bud","latitude":35.3214,"longitude":-92.062}}(window,'GeoPostal','US');

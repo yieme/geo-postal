@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76646"]={"code":"76646","region":"Baden-Wurttemberg","city":"Bruchsal","latitude":49.12426,"longitude":8.59804}}(window,'GeoPostal','DE');

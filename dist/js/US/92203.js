@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92203"]={"code":"92203","region":"CA","city":"Indio","latitude":33.7532,"longitude":-116.2676}}(window,'GeoPostal','US');

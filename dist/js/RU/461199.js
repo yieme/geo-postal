@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461199"]={"code":"461199","region":"Orenburgskaya oblast'","city":"Tashla","latitude":51.77157,"longitude":52.7427}}(window,'GeoPostal','RU');

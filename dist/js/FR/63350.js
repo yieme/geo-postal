@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63350"]={"code":"63350","region":"Auvergne-Rhone-Alpes","city":"Maringues","latitude":45.92118,"longitude":3.32969}}(window,'GeoPostal','FR');

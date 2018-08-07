@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678070"]={"code":"678070","region":"Saha, Respublika","city":"Mayya","latitude":61.73333,"longitude":130.28111}}(window,'GeoPostal','RU');

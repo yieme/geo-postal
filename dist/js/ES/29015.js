@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29015"]={"code":"29015","region":"Andalucia","city":"Malaga","latitude":36.72016,"longitude":-4.42034}}(window,'GeoPostal','ES');

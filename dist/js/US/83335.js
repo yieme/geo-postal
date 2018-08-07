@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83335"]={"code":"83335","region":"ID","city":"Hazelton","latitude":42.5955,"longitude":-114.135}}(window,'GeoPostal','US');

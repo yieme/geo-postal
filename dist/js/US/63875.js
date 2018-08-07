@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63875"]={"code":"63875","region":"MO","city":"Rives","latitude":36.0937,"longitude":-90.0134}}(window,'GeoPostal','US');

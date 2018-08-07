@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53152"]={"code":"53152","region":"WI","city":"New Munster","latitude":42.5746,"longitude":-88.2326}}(window,'GeoPostal','US');

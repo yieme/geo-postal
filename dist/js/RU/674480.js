@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674480"]={"code":"674480","region":"Zabaykal'skiy kray","city":"Nizhniy Tsasuchey","latitude":50.51667,"longitude":115.13333}}(window,'GeoPostal','RU');

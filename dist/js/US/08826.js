@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08826"]={"code":"08826","region":"NJ","city":"Glen Gardner","latitude":40.7134,"longitude":-74.9162}}(window,'GeoPostal','US');

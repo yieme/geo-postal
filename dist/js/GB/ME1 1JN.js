@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ME1 1JN"]={"code":"ME1 1JN","region":"England","city":"Rochester","latitude":51.38764,"longitude":0.50546}}(window,'GeoPostal','GB');

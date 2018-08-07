@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3701"]={"code":"3701","region":"Chaco","city":"San Bernardo","latitude":-27.28782,"longitude":-60.71252}}(window,'GeoPostal','AR');

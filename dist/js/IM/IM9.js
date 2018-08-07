@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IM9"]={"code":"IM9","region":"Isle of Man","city":"Port Erin","latitude":54.08487,"longitude":-4.75099}}(window,'GeoPostal','IM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4795-395"]={"code":"4795-395","region":"Braga","city":"Ferreiros","latitude":41.35,"longitude":-8.55}}(window,'GeoPostal','PT');

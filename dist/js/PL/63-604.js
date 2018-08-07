@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-604"]={"code":"63-604","region":"Wielkopolskie","city":"Slupia pod Kepnem","latitude":51.23924,"longitude":18.04255}}(window,'GeoPostal','PL');

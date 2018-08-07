@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29323"]={"code":"29323","region":"South Carolina","city":"Chesnee","latitude":35.123419,"longitude":-81.910554}}(window,'GeoPostal','US');

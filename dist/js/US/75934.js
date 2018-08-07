@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75934"]={"code":"75934","region":"TX","city":"Camden","latitude":30.9,"longitude":-94.7547}}(window,'GeoPostal','US');

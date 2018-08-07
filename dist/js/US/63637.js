@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63637"]={"code":"63637","region":"MO","city":"Doe Run","latitude":37.7348,"longitude":-90.4968}}(window,'GeoPostal','US');

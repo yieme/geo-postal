@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46133"]={"code":"46133","region":"IN","city":"Glenwood","latitude":39.6124,"longitude":-85.2735}}(window,'GeoPostal','US');

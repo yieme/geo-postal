@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28528"]={"code":"28528","region":"NC","city":"Gloucester","latitude":34.7344,"longitude":-76.5394}}(window,'GeoPostal','US');

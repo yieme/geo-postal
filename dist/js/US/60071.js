@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60071"]={"code":"60071","region":"Illinois","city":"Richmond","latitude":40.36087,"longitude":-89.36898}}(window,'GeoPostal','US');

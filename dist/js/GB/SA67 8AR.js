@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA67 8AR"]={"code":"SA67 8AR","region":"Wales","city":"Martletwy","latitude":51.76096,"longitude":-4.84779}}(window,'GeoPostal','GB');

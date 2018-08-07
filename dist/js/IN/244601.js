@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["244601"]={"code":"244601","region":"Uttar Pradesh","city":"Thakurdwara","latitude":29.2,"longitude":78.85}}(window,'GeoPostal','IN');

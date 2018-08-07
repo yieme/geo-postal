@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07054"]={"code":"07054","region":"New Jersey","city":"Parsippany","latitude":40.86204,"longitude":-74.40612}}(window,'GeoPostal','US');

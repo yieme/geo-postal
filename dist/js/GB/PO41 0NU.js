@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO41 0NU"]={"code":"PO41 0NU","region":"England","city":"Yarmouth","latitude":50.70529,"longitude":-1.49929}}(window,'GeoPostal','GB');

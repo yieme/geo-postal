@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1000"]={"code":"1000","region":"Ciudad Autonoma de Buenos Aires","city":"Buenos Aires","latitude":-34.61315,"longitude":-58.37723}}(window,'GeoPostal','AR');

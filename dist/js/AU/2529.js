@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2529"]={"code":"2529","region":"New South Wales","city":"Shellharbour","latitude":-34.58333,"longitude":150.86667}}(window,'GeoPostal','AU');

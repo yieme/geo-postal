@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14350"]={"code":"14350","region":"Normandie","city":"Campeaux","latitude":48.9514,"longitude":-0.93}}(window,'GeoPostal','FR');

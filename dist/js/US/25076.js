@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25076"]={"code":"25076","region":"WV","city":"Ethel","latitude":37.8665,"longitude":-81.9123}}(window,'GeoPostal','US');

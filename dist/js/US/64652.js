@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64652"]={"code":"64652","region":"MO","city":"Laredo","latitude":40.0144,"longitude":-93.4407}}(window,'GeoPostal','US');

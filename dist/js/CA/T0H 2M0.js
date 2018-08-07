@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 2M0"]={"code":"T0H 2M0","region":"Alberta","city":"Manning","latitude":56.91683,"longitude":-117.61945}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45813"]={"code":"45813","region":"Ohio","city":"Antwerp","latitude":41.18144,"longitude":-84.74051}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68190"]={"code":"68190","region":"Grand-Est","city":"Ungersheim","latitude":47.87848,"longitude":7.30797}}(window,'GeoPostal','FR');

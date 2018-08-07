@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06670"]={"code":"06670","region":"Extremadura","city":"Herrera del Duque","latitude":39.1684,"longitude":-5.05049}}(window,'GeoPostal','ES');

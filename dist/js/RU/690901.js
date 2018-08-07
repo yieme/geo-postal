@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["690901"]={"code":"690901","region":"Primorskiy kray","city":"Popova","latitude":42.96028,"longitude":131.72278}}(window,'GeoPostal','RU');

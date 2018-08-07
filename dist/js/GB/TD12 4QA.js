@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD12 4QA"]={"code":"TD12 4QA","region":"England","city":"Cornhill on Tweed","latitude":55.64524,"longitude":-2.22267}}(window,'GeoPostal','GB');

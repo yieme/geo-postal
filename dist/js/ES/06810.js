@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06810"]={"code":"06810","region":"Extremadura","city":"Calamonte","latitude":38.88861,"longitude":-6.38791}}(window,'GeoPostal','ES');

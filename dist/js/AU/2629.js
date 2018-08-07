@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2629"]={"code":"2629","region":"New South Wales","city":"Adaminaby","latitude":-35.99694,"longitude":148.7697}}(window,'GeoPostal','AU');

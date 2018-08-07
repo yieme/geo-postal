@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35513"]={"code":"35513","region":"Lampung","city":"Pasuruan","latitude":-5.7463,"longitude":105.67707}}(window,'GeoPostal','ID');

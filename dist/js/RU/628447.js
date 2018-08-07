@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628447"]={"code":"628447","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Nizhnesortymskiy","latitude":62.43965,"longitude":71.76029}}(window,'GeoPostal','RU');

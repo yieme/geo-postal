@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW10 6RZ"]={"code":"KW10 6RZ","region":"Scotland","city":"Backies","latitude":57.98333,"longitude":-3.96667}}(window,'GeoPostal','GB');

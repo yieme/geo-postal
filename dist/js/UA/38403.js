@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38403"]={"code":"38403","region":"Poltavska oblast","city":"Reshetylivka","latitude":49.56501,"longitude":34.07815}}(window,'GeoPostal','UA');

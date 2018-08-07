@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99025"]={"code":"99025","region":"WA","city":"Newman Lake","latitude":47.7274,"longitude":-117.064}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65640"]={"code":"65640","region":"MO","city":"Dunnegan","latitude":37.7031,"longitude":-93.5216}}(window,'GeoPostal','US');

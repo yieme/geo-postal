@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19230"]={"code":"19230","region":"Mecklenburg-Vorpommern","city":"Eichhof","latitude":53.38752,"longitude":11.2391}}(window,'GeoPostal','DE');

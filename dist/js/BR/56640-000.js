@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56640-000"]={"code":"56640-000","region":"Pernambuco","city":"Custodia","latitude":-8.0875,"longitude":-37.64306}}(window,'GeoPostal','BR');

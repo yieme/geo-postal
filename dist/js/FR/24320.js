@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24320"]={"code":"24320","region":"Nouvelle-Aquitaine","city":"Verteillac","latitude":45.3481,"longitude":0.3669}}(window,'GeoPostal','FR');

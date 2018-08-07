@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74200"]={"code":"74200","region":"Pohjois-Savo","city":"Vierema","latitude":63.75,"longitude":27.01667}}(window,'GeoPostal','FI');

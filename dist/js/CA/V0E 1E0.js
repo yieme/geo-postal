@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 1E0"]={"code":"V0E 1E0","region":"British Columbia","city":"Barriere","latitude":51.18308,"longitude":-120.1192}}(window,'GeoPostal','CA');

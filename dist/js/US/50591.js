@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50591"]={"code":"50591","region":"IA","city":"Thor","latitude":42.6889,"longitude":-94.039}}(window,'GeoPostal','US');

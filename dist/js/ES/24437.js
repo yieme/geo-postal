@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24437"]={"code":"24437","region":"Castilla y Leon","city":"Fabero","latitude":42.76803,"longitude":-6.62651}}(window,'GeoPostal','ES');

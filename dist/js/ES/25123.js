@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25123"]={"code":"25123","region":"Catalunya","city":"Lleida","latitude":41.61667,"longitude":0.61667}}(window,'GeoPostal','ES');

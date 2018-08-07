@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37154"]={"code":"37154","region":"Niedersachsen","city":"Northeim","latitude":51.70662,"longitude":9.99998}}(window,'GeoPostal','DE');

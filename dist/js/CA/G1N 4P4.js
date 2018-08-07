@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G1N 4P4"]={"code":"G1N 4P4","region":"Quebec","city":"Sainte-Foy","latitude":46.791309,"longitude":-71.288284}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07630"]={"code":"07630","region":"Nigde","city":"Nigde","latitude":37.96583,"longitude":34.67935}}(window,'GeoPostal','TR');

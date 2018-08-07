@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59213"]={"code":"59213","region":"MT","city":"Brockton","latitude":48.2101,"longitude":-104.8548}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 0S0"]={"code":"R0J 0S0","region":"Manitoba","city":"Springhill","latitude":50.28812,"longitude":-99.58392}}(window,'GeoPostal','CA');

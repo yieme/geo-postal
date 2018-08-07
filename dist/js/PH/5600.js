@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5600"]={"code":"5600","region":"Dinagat Islands","city":"Arellano","latitude":10.132,"longitude":125.497}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33210"]={"code":"33210","region":"Nouvelle-Aquitaine","city":"Castets-en-Dorthe","latitude":44.56146,"longitude":-0.15226}}(window,'GeoPostal','FR');

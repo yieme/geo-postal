@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46998"]={"code":"46998","region":"IN","city":"Young America","latitude":40.5686,"longitude":-86.3467}}(window,'GeoPostal','US');

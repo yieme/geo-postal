@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67132"]={"code":"67132","region":"KS","city":"Rosalia","latitude":37.796,"longitude":-96.6482}}(window,'GeoPostal','US');

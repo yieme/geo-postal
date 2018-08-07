@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41602"]={"code":"41602","region":"Kentucky","city":"Auxier","latitude":37.74472,"longitude":-82.76694}}(window,'GeoPostal','US');

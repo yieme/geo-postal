@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30438"]={"code":"30438","region":"GA","city":"Manassas","latitude":32.1605,"longitude":-82.0196}}(window,'GeoPostal','US');

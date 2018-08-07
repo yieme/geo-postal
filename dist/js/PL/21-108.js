@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-108"]={"code":"21-108","region":"Lubelskie","city":"Lubartow","latitude":51.46026,"longitude":22.60952}}(window,'GeoPostal','PL');

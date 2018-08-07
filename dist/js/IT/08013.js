@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08013"]={"code":"08013","region":"Sardegna","city":"Bosa","latitude":40.29927,"longitude":8.49827}}(window,'GeoPostal','IT');

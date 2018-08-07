@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29470"]={"code":"29470","region":"SC","city":"Ravenel","latitude":32.7881,"longitude":-80.2223}}(window,'GeoPostal','US');

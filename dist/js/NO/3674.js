@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3674"]={"code":"3674","region":"Telemark","city":"Notodden","latitude":59.55936,"longitude":9.25853}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28352"]={"code":"28352","region":"North Carolina","city":"Laurinburg","latitude":34.77405,"longitude":-79.46282}}(window,'GeoPostal','US');

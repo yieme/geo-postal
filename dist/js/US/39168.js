@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39168"]={"code":"39168","region":"MS","city":"Taylorsville","latitude":31.8394,"longitude":-89.4049}}(window,'GeoPostal','US');

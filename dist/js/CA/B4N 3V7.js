@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4N 3V7"]={"code":"B4N 3V7","region":"Nova Scotia","city":"Kentville","latitude":45.081522,"longitude":-64.497152}}(window,'GeoPostal','CA');

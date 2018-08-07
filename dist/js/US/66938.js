@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66938"]={"code":"66938","region":"Kansas","city":"Clyde","latitude":39.591137,"longitude":-97.399741}}(window,'GeoPostal','US');

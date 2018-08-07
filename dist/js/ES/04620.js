@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04620"]={"code":"04620","region":"Andalucia","city":"Vera","latitude":37.24345,"longitude":-1.85905}}(window,'GeoPostal','ES');

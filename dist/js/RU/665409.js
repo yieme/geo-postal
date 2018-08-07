@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665409"]={"code":"665409","region":"Irkutskaya oblast'","city":"Cheremkhovo","latitude":53.15611,"longitude":103.0675}}(window,'GeoPostal','RU');

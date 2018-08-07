@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14139"]={"code":"14139","region":"NY","city":"South Wales","latitude":42.7063,"longitude":-78.5452}}(window,'GeoPostal','US');

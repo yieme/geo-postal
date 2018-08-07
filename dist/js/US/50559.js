@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50559"]={"code":"50559","region":"Iowa","city":"Lone Rock","latitude":43.22129,"longitude":-94.324512}}(window,'GeoPostal','US');

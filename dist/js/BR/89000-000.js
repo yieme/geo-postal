@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89000-000"]={"code":"89000-000","region":"Santa Catarina","city":"Blumenau","latitude":-26.91944,"longitude":-49.06611}}(window,'GeoPostal','BR');

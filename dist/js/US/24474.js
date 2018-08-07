@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24474"]={"code":"24474","region":"Virginia","city":"Selma","latitude":37.803057,"longitude":-79.851677}}(window,'GeoPostal','US');

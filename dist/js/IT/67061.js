@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67061"]={"code":"67061","region":"Abruzzo","city":"Carsoli","latitude":42.09893,"longitude":13.08489}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW1A 1JF"]={"code":"SW1A 1JF","region":"England","city":"St James's","latitude":51.5073,"longitude":-0.13982}}(window,'GeoPostal','GB');

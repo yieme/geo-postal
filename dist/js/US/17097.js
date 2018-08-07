@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17097"]={"code":"17097","region":"PA","city":"Wiconisco","latitude":40.5734,"longitude":-76.6914}}(window,'GeoPostal','US');

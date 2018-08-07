@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56074"]={"code":"56074","region":"MN","city":"Nicollet","latitude":44.2724,"longitude":-94.1867}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0E 1K0"]={"code":"N0E 1K0","region":"Ontario","city":"Mount Pleasant","latitude":44.25012,"longitude":-77.03274}}(window,'GeoPostal','CA');

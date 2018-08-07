@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23915"]={"code":"23915","region":"Virginia","city":"Baskerville","latitude":36.685,"longitude":-78.27278}}(window,'GeoPostal','US');

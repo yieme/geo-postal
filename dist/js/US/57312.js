@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57312"]={"code":"57312","region":"SD","city":"Alpena","latitude":44.1709,"longitude":-98.3962}}(window,'GeoPostal','US');

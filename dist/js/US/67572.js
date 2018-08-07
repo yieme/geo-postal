@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67572"]={"code":"67572","region":"Kansas","city":"Ransom","latitude":38.635826,"longitude":-99.931429}}(window,'GeoPostal','US');

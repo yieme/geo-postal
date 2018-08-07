@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71373"]={"code":"71373","region":"Louisiana","city":"Vidalia","latitude":31.59012,"longitude":-91.48704}}(window,'GeoPostal','US');

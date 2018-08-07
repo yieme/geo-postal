@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3258"]={"code":"3258","region":"Heves","city":"Tarnalelesz","latitude":48.05,"longitude":20.18333}}(window,'GeoPostal','HU');

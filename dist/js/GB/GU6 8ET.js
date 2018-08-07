@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU6 8ET"]={"code":"GU6 8ET","region":"England","city":"Alfold","latitude":51.0949,"longitude":-0.51773}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3901"]={"code":"3901","region":"Borsod-Abauj-Zemplen","city":"Szerencs","latitude":48.16667,"longitude":21.2}}(window,'GeoPostal','HU');

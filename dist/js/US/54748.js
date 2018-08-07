@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54748"]={"code":"54748","region":"WI","city":"Jim Falls","latitude":45.0889,"longitude":-91.2568}}(window,'GeoPostal','US');

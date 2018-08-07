@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3107"]={"code":"3107","region":"Victoria","city":"Templestowe Lower","latitude":-37.76667,"longitude":145.11667}}(window,'GeoPostal','AU');

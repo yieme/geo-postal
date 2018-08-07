@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68325"]={"code":"68325","region":"NE","city":"Byron","latitude":40.0269,"longitude":-97.7612}}(window,'GeoPostal','US');

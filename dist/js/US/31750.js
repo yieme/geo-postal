@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31750"]={"code":"31750","region":"Georgia","city":"Fitzgerald","latitude":31.714993,"longitude":-83.256591}}(window,'GeoPostal','US');

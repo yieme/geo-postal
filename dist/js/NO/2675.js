@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2675"]={"code":"2675","region":"Oppland","city":"Otta","latitude":61.7712,"longitude":9.53529}}(window,'GeoPostal','NO');

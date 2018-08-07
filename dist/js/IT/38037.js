@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38037"]={"code":"38037","region":"Trentino-Alto Adige","city":"Predazzo","latitude":46.30881,"longitude":11.59969}}(window,'GeoPostal','IT');

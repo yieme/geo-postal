@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1360"]={"code":"1360","region":"Brabant wallon","city":"Perwez","latitude":50.62426,"longitude":4.81354}}(window,'GeoPostal','BE');

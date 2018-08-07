@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L1T 4H9"]={"code":"L1T 4H9","region":"Ontario","city":"Ajax","latitude":43.883717,"longitude":-79.041409}}(window,'GeoPostal','CA');

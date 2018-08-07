@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36289"]={"code":"36289","region":"Hessen","city":"Friedewald","latitude":50.88333,"longitude":9.86667}}(window,'GeoPostal','DE');

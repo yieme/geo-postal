@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2542"]={"code":"2542","region":"Komarom-Esztergom","city":"Labatlan","latitude":47.74735,"longitude":18.49623}}(window,'GeoPostal','HU');

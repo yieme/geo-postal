@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56355"]={"code":"56355","region":"Minnesota","city":"Nelson","latitude":45.88583,"longitude":-95.26472}}(window,'GeoPostal','US');

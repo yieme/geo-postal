@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207270"]={"code":"207270","region":"Dolj","city":"Galicea Mare","latitude":44.1,"longitude":23.3}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94170"]={"code":"94170","region":"Veracruz de Ignacio de la Llave","city":"Tomatlan","latitude":19.03333,"longitude":-97}}(window,'GeoPostal','MX');

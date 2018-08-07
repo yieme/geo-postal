@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29706"]={"code":"29706","region":"South Carolina","city":"Chester","latitude":34.70929,"longitude":-81.207125}}(window,'GeoPostal','US');

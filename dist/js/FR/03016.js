@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03016"]={"code":"03016","region":"Auvergne-Rhone-Alpes","city":"Moulins","latitude":46.56667,"longitude":3.33333}}(window,'GeoPostal','FR');

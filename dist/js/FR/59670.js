@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59670"]={"code":"59670","region":"Hauts-de-France","city":"Cassel","latitude":50.80109,"longitude":2.48527}}(window,'GeoPostal','FR');

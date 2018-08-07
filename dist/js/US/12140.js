@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12140"]={"code":"12140","region":"NY","city":"Poestenkill","latitude":42.6918,"longitude":-73.5627}}(window,'GeoPostal','US');

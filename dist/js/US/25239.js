@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25239"]={"code":"25239","region":"West Virginia","city":"Cottageville","latitude":38.857236,"longitude":-81.815657}}(window,'GeoPostal','US');

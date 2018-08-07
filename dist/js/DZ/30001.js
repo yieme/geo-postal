@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30001"]={"code":"30001","region":"Ouargla","city":"Hassi Messaoud","latitude":31.68041,"longitude":6.07286}}(window,'GeoPostal','DZ');

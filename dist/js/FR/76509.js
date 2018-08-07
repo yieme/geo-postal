@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76509"]={"code":"76509","region":"Normandie","city":"Elbeuf","latitude":49.28669,"longitude":1.00288}}(window,'GeoPostal','FR');

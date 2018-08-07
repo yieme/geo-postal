@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85622"]={"code":"85622","region":"AZ","city":"Green Valley","latitude":31.8269,"longitude":-111.0755}}(window,'GeoPostal','US');

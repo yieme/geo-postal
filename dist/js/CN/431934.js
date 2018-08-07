@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431934"]={"code":"431934","region":"Hubei","city":"Kedian","latitude":31.36053,"longitude":112.86747}}(window,'GeoPostal','CN');

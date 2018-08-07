@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99144"]={"code":"99144","region":"WA","city":"Lamona","latitude":47.3778,"longitude":-118.5043}}(window,'GeoPostal','US');

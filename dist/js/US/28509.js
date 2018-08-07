@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28509"]={"code":"28509","region":"North Carolina","city":"Alliance","latitude":35.146439,"longitude":-76.798889}}(window,'GeoPostal','US');

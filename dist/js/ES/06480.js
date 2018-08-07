@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06480"]={"code":"06480","region":"Extremadura","city":"Montijo","latitude":38.90839,"longitude":-6.61785}}(window,'GeoPostal','ES');

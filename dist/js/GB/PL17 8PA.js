@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL17 8PA"]={"code":"PL17 8PA","region":"England","city":"Stoke Climsland","latitude":50.54734,"longitude":-4.31678}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83088"]={"code":"83088","region":"Bayern","city":"Kiefersfelden","latitude":47.61409,"longitude":12.19096}}(window,'GeoPostal','DE');

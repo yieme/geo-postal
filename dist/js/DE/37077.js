@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37077"]={"code":"37077","region":"Niedersachsen","city":"Weende","latitude":51.56555,"longitude":9.93465}}(window,'GeoPostal','DE');

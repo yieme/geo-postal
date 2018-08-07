@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80646"]={"code":"80646","region":"CO","city":"Lucerne","latitude":40.4824,"longitude":-104.7054}}(window,'GeoPostal','US');

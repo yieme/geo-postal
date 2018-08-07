@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72104"]={"code":"72104","region":"Jarvamaa","city":"Sarevere","latitude":58.79,"longitude":25.42806}}(window,'GeoPostal','EE');

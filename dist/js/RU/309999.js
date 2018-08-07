@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309999"]={"code":"309999","region":"Belgorodskaya oblast'","city":"Valuyki","latitude":50.2035,"longitude":38.1067}}(window,'GeoPostal','RU');

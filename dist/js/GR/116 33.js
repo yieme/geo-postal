@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["116 33"]={"code":"116 33","region":"Attiki","city":"Viron","latitude":37.96667,"longitude":23.75}}(window,'GeoPostal','GR');

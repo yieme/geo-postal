@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19-330"]={"code":"19-330","region":"Warminsko-mazurskie","city":"Stare Juchy","latitude":53.92198,"longitude":22.17367}}(window,'GeoPostal','PL');

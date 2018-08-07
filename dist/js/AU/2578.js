@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2578"]={"code":"2578","region":"New South Wales","city":"Bundanoon","latitude":-34.65851,"longitude":150.29913}}(window,'GeoPostal','AU');

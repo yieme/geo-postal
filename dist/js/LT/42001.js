@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42001"]={"code":"42001","region":"Panevezio apskritis","city":"Rokiskis","latitude":55.96667,"longitude":25.58333}}(window,'GeoPostal','LT');

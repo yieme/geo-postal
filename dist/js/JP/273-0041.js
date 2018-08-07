@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273-0041"]={"code":"273-0041","region":"Chiba","city":"Funabashi","latitude":35.7,"longitude":139.983}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217005"]={"code":"217005","region":"Gorj","city":"Albeni","latitude":45.03333,"longitude":23.6}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29160"]={"code":"29160","region":"Bretagne","city":"Crozon","latitude":48.24643,"longitude":-4.48993}}(window,'GeoPostal','FR');

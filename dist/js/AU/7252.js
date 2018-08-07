@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7252"]={"code":"7252","region":"Tasmania","city":"Pipers River","latitude":-41.1,"longitude":147.08333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242 00"]={"code":"242 00","region":"Peloponnisos","city":"Messini","latitude":37.05111,"longitude":22.00778}}(window,'GeoPostal','GR');

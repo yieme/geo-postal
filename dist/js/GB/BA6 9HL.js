@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA6 9HL"]={"code":"BA6 9HL","region":"England","city":"Glastonbury","latitude":51.14729,"longitude":-2.71797}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81028"]={"code":"81028","region":"Campania","city":"Santa Maria a Vico","latitude":41.02552,"longitude":14.46543}}(window,'GeoPostal','IT');

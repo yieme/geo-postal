@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29111"]={"code":"29111","region":"SC","city":"New Zion","latitude":33.7957,"longitude":-80.0148}}(window,'GeoPostal','US');

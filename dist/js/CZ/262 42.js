@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262 42"]={"code":"262 42","region":"Stredocesky kraj","city":"Rozmital pod Tremsinem","latitude":49.60196,"longitude":13.8643}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL11 5LU"]={"code":"LL11 5LU","region":"Wales","city":"Brymbo","latitude":53.06667,"longitude":-3.06667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68714"]={"code":"68714","region":"Nebraska","city":"Bassett","latitude":42.58583,"longitude":-99.53789}}(window,'GeoPostal','US');

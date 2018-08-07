@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73736"]={"code":"73736","region":"OK","city":"Fairmont","latitude":36.34,"longitude":-97.6848}}(window,'GeoPostal','US');

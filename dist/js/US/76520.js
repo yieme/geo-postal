@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76520"]={"code":"76520","region":"Texas","city":"Cameron","latitude":30.854165,"longitude":-96.977295}}(window,'GeoPostal','US');

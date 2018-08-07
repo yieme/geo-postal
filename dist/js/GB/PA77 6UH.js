@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA77 6UH"]={"code":"PA77 6UH","region":"Scotland","city":"Scarinish","latitude":56.50098,"longitude":-6.80869}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1028"]={"code":"1028","region":"Vaud","city":"Preverenges","latitude":46.51854,"longitude":6.52682}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39095"]={"code":"39095","region":"Mississippi","city":"Lexington","latitude":33.11318,"longitude":-90.05314}}(window,'GeoPostal','US');

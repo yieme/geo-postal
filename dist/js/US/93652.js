@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93652"]={"code":"93652","region":"CA","city":"Raisin City","latitude":36.6024,"longitude":-119.904}}(window,'GeoPostal','US');

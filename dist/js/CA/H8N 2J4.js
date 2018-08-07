@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H8N 2J4"]={"code":"H8N 2J4","region":"Quebec","city":"Lasalle","latitude":45.435587,"longitude":-73.607199}}(window,'GeoPostal','CA');

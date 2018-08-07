@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["028-0503"]={"code":"028-0503","region":"Iwate","city":"Tono","latitude":39.317,"longitude":141.533}}(window,'GeoPostal','JP');

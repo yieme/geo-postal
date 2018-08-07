@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37068"]={"code":"37068","region":"Tennessee","city":"Franklin","latitude":35.92941,"longitude":-86.841982}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39565"]={"code":"39565","region":"Mississippi","city":"Vancleave","latitude":30.57002,"longitude":-88.74016}}(window,'GeoPostal','US');

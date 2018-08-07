@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30169"]={"code":"30169","region":"Niedersachsen","city":"Hanover","latitude":52.37052,"longitude":9.73322}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77423"]={"code":"77423","region":"Ivano-Frankivska oblast","city":"Uhryniv","latitude":48.9552,"longitude":24.69292}}(window,'GeoPostal','UA');

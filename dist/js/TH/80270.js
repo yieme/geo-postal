@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80270"]={"code":"80270","region":"Nakhon Si Thammarat","city":"Nopphitam","latitude":8.71928,"longitude":99.75272}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311116"]={"code":"311116","region":"Edo","city":"Uromi","latitude":6.7,"longitude":6.33333}}(window,'GeoPostal','NG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51241"]={"code":"51241","region":"Iowa","city":"Larchwood","latitude":43.454135,"longitude":-96.432834}}(window,'GeoPostal','US');

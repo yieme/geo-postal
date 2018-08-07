@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-635"]={"code":"66-635","region":"Lubuskie","city":"Gubin","latitude":51.94956,"longitude":14.72837}}(window,'GeoPostal','PL');

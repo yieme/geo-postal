@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4103"]={"code":"4103","region":"Queensland","city":"Annerley","latitude":-27.51228,"longitude":153.03248}}(window,'GeoPostal','AU');

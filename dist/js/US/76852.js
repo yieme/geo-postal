@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76852"]={"code":"76852","region":"TX","city":"Lohn","latitude":31.3173,"longitude":-99.3833}}(window,'GeoPostal','US');

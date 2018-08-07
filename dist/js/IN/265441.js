@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["265441"]={"code":"265441","region":"Uttarakhand","city":"Sitarganj","latitude":28.93333,"longitude":79.7}}(window,'GeoPostal','IN');

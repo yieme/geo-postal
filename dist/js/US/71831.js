@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71831"]={"code":"71831","region":"AR","city":"Columbus","latitude":33.7935,"longitude":-93.807}}(window,'GeoPostal','US');

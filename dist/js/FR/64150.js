@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64150"]={"code":"64150","region":"Nouvelle-Aquitaine","city":"Mourenx","latitude":43.38333,"longitude":-0.6}}(window,'GeoPostal','FR');

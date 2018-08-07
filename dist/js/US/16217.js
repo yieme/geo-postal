@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16217"]={"code":"16217","region":"PA","city":"Cooksburg","latitude":41.3384,"longitude":-79.1971}}(window,'GeoPostal','US');

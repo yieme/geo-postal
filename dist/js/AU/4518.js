@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4518"]={"code":"4518","region":"Queensland","city":"Glass House Mountains","latitude":-26.89758,"longitude":152.95319}}(window,'GeoPostal','AU');

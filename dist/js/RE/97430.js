@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97430"]={"code":"97430","region":"Reunion","city":"Le Tampon","latitude":-21.28309,"longitude":55.51802}}(window,'GeoPostal','RE');

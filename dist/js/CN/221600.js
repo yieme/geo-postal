@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["221600"]={"code":"221600","region":"Jiangsu","city":"Peicheng","latitude":34.73611,"longitude":116.92472}}(window,'GeoPostal','CN');

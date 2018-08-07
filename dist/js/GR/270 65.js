@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["270 65"]={"code":"270 65","region":"Dytiki Ellada","city":"Pelopion","latitude":37.68333,"longitude":21.58333}}(window,'GeoPostal','GR');

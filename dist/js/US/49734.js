@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49734"]={"code":"49734","region":"Michigan","city":"Gaylord","latitude":45.02751,"longitude":-84.67475}}(window,'GeoPostal','US');

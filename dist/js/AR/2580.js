@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2580"]={"code":"2580","region":"Cordoba","city":"Marcos Juarez","latitude":-32.6978,"longitude":-62.10672}}(window,'GeoPostal','AR');

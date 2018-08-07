@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242725"]={"code":"242725","region":"Bryanskaya oblast'","city":"Rzhanitsa","latitude":53.42844,"longitude":33.92297}}(window,'GeoPostal','RU');

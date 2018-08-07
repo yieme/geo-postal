@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P4N 2S3"]={"code":"P4N 2S3","region":"Ontario","city":"Timmins","latitude":48.475967,"longitude":-81.345841}}(window,'GeoPostal','CA');

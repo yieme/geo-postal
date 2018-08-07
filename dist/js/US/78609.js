@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78609"]={"code":"78609","region":"Texas","city":"Buchanan Dam","latitude":30.7399,"longitude":-98.43114}}(window,'GeoPostal','US');

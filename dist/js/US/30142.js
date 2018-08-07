@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30142"]={"code":"30142","region":"GA","city":"Holly Springs","latitude":34.174,"longitude":-84.5013}}(window,'GeoPostal','US');

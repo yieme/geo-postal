@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96011"]={"code":"96011","region":"California","city":"Big Bend","latitude":41.01972,"longitude":-121.90778}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67008"]={"code":"67008","region":"Kansas","city":"Atlanta","latitude":37.432443,"longitude":-96.768533}}(window,'GeoPostal','US');

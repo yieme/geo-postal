@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2253"]={"code":"2253","region":"Pest","city":"Tapiosag","latitude":47.402,"longitude":19.63047}}(window,'GeoPostal','HU');

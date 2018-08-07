@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5442"]={"code":"5442","region":"San Juan","city":"Caucete","latitude":-31.65179,"longitude":-68.28105}}(window,'GeoPostal','AR');

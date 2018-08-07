@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16879"]={"code":"16879","region":"PA","city":"Winburne","latitude":40.9696,"longitude":-78.1508}}(window,'GeoPostal','US');

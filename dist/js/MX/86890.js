@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86890"]={"code":"86890","region":"Chiapas","city":"Amatan","latitude":17.35,"longitude":-92.75}}(window,'GeoPostal','MX');

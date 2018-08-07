@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["720900"]={"code":"720900","region":"Jalal-Abad","city":"Jalal-Abad","latitude":40.93333,"longitude":73}}(window,'GeoPostal','KG');

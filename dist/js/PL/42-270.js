@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-270"]={"code":"42-270","region":"Slaskie","city":"Klomnice","latitude":50.92165,"longitude":19.35679}}(window,'GeoPostal','PL');

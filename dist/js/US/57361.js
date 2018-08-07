@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57361"]={"code":"57361","region":"South Dakota","city":"Wagner","latitude":43.07972,"longitude":-98.29313}}(window,'GeoPostal','US');

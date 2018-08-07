@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01773"]={"code":"01773","region":"Massachusetts","city":"Lincoln","latitude":42.424842,"longitude":-71.312427}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31031"]={"code":"31031","region":"Georgia","city":"Gordon","latitude":32.900557,"longitude":-83.317558}}(window,'GeoPostal','US');

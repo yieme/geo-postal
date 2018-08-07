@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31904"]={"code":"31904","region":"Georgia","city":"Columbus","latitude":32.517187,"longitude":-84.979418}}(window,'GeoPostal','US');

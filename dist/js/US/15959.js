@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15959"]={"code":"15959","region":"PA","city":"Tire Hill","latitude":40.268,"longitude":-78.9156}}(window,'GeoPostal','US');

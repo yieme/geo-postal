@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3237"]={"code":"3237","region":"Victoria","city":"Rivernook","latitude":-38.73333,"longitude":143.21667}}(window,'GeoPostal','AU');

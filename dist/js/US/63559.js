@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63559"]={"code":"63559","region":"MO","city":"Novinger","latitude":40.2685,"longitude":-92.7172}}(window,'GeoPostal','US');

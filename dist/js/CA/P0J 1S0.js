@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0J 1S0"]={"code":"P0J 1S0","region":"Ontario","city":"Thornloe","latitude":47.66686,"longitude":-79.74968}}(window,'GeoPostal','CA');

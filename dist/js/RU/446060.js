@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446060"]={"code":"446060","region":"Samarskaya oblast'","city":"Balasheyka","latitude":53.2841,"longitude":48.0851}}(window,'GeoPostal','RU');

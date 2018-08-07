@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99505"]={"code":"99505","region":"Alaska","city":"Jber","latitude":61.254882,"longitude":-149.690579}}(window,'GeoPostal','US');

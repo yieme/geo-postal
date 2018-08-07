@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72553"]={"code":"72553","region":"AR","city":"Magness","latitude":35.6941,"longitude":-91.4753}}(window,'GeoPostal','US');

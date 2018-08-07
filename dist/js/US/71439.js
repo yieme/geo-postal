@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71439"]={"code":"71439","region":"Louisiana","city":"Hornbeck","latitude":31.32583,"longitude":-93.39583}}(window,'GeoPostal','US');

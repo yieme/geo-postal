@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50142"]={"code":"50142","region":"IA","city":"Le Grand","latitude":42.0066,"longitude":-92.7756}}(window,'GeoPostal','US');

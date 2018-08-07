@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA8 9DD"]={"code":"CA8 9DD","region":"England","city":"Cumrew","latitude":54.84627,"longitude":-2.70101}}(window,'GeoPostal','GB');

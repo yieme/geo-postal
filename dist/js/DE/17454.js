@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17454"]={"code":"17454","region":"Mecklenburg-Vorpommern","city":"Ostseebad Zinnowitz","latitude":54.07668,"longitude":13.91127}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417415"]={"code":"417415","region":"Bihor","city":"Rieni","latitude":46.56667,"longitude":22.45}}(window,'GeoPostal','RO');

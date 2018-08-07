@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61335"]={"code":"61335","region":"Illinois","city":"McNabb","latitude":41.177124,"longitude":-89.209138}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33050"]={"code":"33050","region":"Florida","city":"Marathon","latitude":24.724335,"longitude":-81.047649}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385202"]={"code":"385202","region":"Adygeya, Respublika","city":"Adygeysk","latitude":44.88248,"longitude":39.19194}}(window,'GeoPostal','RU');

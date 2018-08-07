@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79081"]={"code":"79081","region":"Texas","city":"Spearman","latitude":36.19837,"longitude":-101.19238}}(window,'GeoPostal','US');

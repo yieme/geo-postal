@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27243"]={"code":"27243","region":"Niedersachsen","city":"Harpstedt","latitude":52.90942,"longitude":8.58962}}(window,'GeoPostal','DE');

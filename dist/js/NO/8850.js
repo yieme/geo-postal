@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8850"]={"code":"8850","region":"Nordland","city":"Silvalen","latitude":65.98427,"longitude":12.28916}}(window,'GeoPostal','NO');

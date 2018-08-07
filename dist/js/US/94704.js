@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94704"]={"code":"94704","region":"California","city":"Brooks","latitude":37.867417,"longitude":-122.259661}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06460"]={"code":"06460","region":"Extremadura","city":"Campanario","latitude":38.8644,"longitude":-5.61744}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59004"]={"code":"59004","region":"MT","city":"Ashland","latitude":45.5944,"longitude":-106.2708}}(window,'GeoPostal','US');

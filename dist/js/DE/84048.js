@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84048"]={"code":"84048","region":"Bayern","city":"Mainburg","latitude":48.64182,"longitude":11.78093}}(window,'GeoPostal','DE');

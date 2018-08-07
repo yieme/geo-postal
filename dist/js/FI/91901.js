@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91901"]={"code":"91901","region":"Pohjois-Pohjanmaa","city":"Liminka","latitude":64.80985,"longitude":25.41545}}(window,'GeoPostal','FI');

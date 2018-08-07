@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84043"]={"code":"84043","region":"Campania","city":"Agropoli","latitude":40.3469,"longitude":14.99655}}(window,'GeoPostal','IT');

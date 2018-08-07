@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72038"]={"code":"72038","region":"AR","city":"Crocketts Bluff","latitude":34.4528,"longitude":-91.2692}}(window,'GeoPostal','US');

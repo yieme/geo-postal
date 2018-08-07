@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73004"]={"code":"73004","region":"OK","city":"Amber","latitude":35.1526,"longitude":-97.8532}}(window,'GeoPostal','US');

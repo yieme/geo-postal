@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["524200"]={"code":"524200","region":"Guangdong","city":"Leicheng","latitude":20.93769,"longitude":110.07021}}(window,'GeoPostal','CN');

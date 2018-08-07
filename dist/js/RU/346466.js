@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346466"]={"code":"346466","region":"Rostovskaya oblast'","city":"Krivyanskaya","latitude":47.39625,"longitude":40.1662}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14433"]={"code":"14433","region":"NY","city":"Clyde","latitude":43.0855,"longitude":-76.8725}}(window,'GeoPostal','US');

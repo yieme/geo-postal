@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H3A 2R7"]={"code":"H3A 2R7","region":"Quebec","city":"Warwick","latitude":45.502389,"longitude":-73.575865}}(window,'GeoPostal','CA');

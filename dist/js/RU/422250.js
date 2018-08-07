@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422250"]={"code":"422250","region":"Tatarstan, Respublika","city":"Baltasi","latitude":56.3462,"longitude":50.2062}}(window,'GeoPostal','RU');

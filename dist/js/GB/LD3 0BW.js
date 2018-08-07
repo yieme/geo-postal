@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD3 0BW"]={"code":"LD3 0BW","region":"Wales","city":"Talgarth","latitude":51.99588,"longitude":-3.23205}}(window,'GeoPostal','GB');

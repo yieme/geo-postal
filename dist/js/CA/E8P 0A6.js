@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E8P 0A6"]={"code":"E8P 0A6","region":"New Brunswick","city":"Inkerman","latitude":47.66724,"longitude":-64.82483}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69152"]={"code":"69152","region":"Nebraska","city":"Mullen","latitude":42.04278,"longitude":-101.04266}}(window,'GeoPostal','US');

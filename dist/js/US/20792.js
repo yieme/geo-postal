@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20792"]={"code":"20792","region":"Maryland","city":"Upper Marlboro","latitude":38.815833,"longitude":-76.75}}(window,'GeoPostal','US');

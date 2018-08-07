@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38049"]={"code":"38049","region":"TN","city":"Mason","latitude":35.438,"longitude":-89.5518}}(window,'GeoPostal','US');

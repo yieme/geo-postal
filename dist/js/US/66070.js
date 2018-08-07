@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66070"]={"code":"66070","region":"Kansas","city":"Ozawkie","latitude":39.207613,"longitude":-95.450082}}(window,'GeoPostal','US');

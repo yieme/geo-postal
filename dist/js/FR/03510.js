@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03510"]={"code":"03510","region":"Auvergne-Rhone-Alpes","city":"Molinet","latitude":46.46836,"longitude":3.94161}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84706"]={"code":"84706","region":"Provence-Alpes-Cote d'Azur","city":"Sorgues","latitude":44.01023,"longitude":4.87381}}(window,'GeoPostal','FR');

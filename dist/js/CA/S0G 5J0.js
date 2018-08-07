@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 5J0"]={"code":"S0G 5J0","region":"Saskatchewan","city":"Yellow Grass","latitude":49.80006,"longitude":-104.16781}}(window,'GeoPostal','CA');

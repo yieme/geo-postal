@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36042"]={"code":"36042","region":"Kronobergs lan","city":"Braas","latitude":57.06667,"longitude":15.05}}(window,'GeoPostal','SE');

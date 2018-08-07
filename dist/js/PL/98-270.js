@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-270"]={"code":"98-270","region":"Lodzkie","city":"Zloczew","latitude":51.41719,"longitude":18.60363}}(window,'GeoPostal','PL');

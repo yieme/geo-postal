@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15436"]={"code":"15436","region":"Pennsylvania","city":"Fairchance","latitude":39.8248,"longitude":-79.75449}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66601"]={"code":"66601","region":"Pohjanmaa","city":"Vora","latitude":63.13607,"longitude":22.25223}}(window,'GeoPostal','FI');

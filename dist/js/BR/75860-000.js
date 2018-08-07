@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75860-000"]={"code":"75860-000","region":"Goias","city":"Quirinopolis","latitude":-18.44833,"longitude":-50.45167}}(window,'GeoPostal','BR');

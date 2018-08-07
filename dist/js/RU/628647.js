@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628647"]={"code":"628647","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Novoagansk","latitude":61.9449,"longitude":76.6625}}(window,'GeoPostal','RU');

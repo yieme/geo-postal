@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5543"]={"code":"5543","region":"Wellington","city":"Otaki","latitude":-40.75833,"longitude":175.15}}(window,'GeoPostal','NZ');

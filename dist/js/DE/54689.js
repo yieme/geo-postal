@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54689"]={"code":"54689","region":"Rheinland-Pfalz","city":"Reipeldingen","latitude":50.08333,"longitude":6.18333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72846"]={"code":"72846","region":"AR","city":"Lamar","latitude":35.4349,"longitude":-93.3552}}(window,'GeoPostal','US');

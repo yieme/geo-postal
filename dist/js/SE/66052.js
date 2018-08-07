@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66052"]={"code":"66052","region":"Varmlands lan","city":"Edsvalla","latitude":59.43333,"longitude":13.18333}}(window,'GeoPostal','SE');

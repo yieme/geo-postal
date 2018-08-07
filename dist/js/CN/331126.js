@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331126"]={"code":"331126","region":"Jiangxi","city":"Baitu","latitude":28.20788,"longitude":115.98369}}(window,'GeoPostal','CN');

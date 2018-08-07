@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86335"]={"code":"86335","region":"Arizona","city":"Rimrock","latitude":34.64028,"longitude":-111.783333}}(window,'GeoPostal','US');

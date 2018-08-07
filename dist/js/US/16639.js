@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16639"]={"code":"16639","region":"PA","city":"Fallentimber","latitude":40.6867,"longitude":-78.4992}}(window,'GeoPostal','US');

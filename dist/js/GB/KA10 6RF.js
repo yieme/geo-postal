@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA10 6RF"]={"code":"KA10 6RF","region":"Scotland","city":"Barassie","latitude":55.55296,"longitude":-4.65683}}(window,'GeoPostal','GB');

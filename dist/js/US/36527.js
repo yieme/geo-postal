@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36527"]={"code":"36527","region":"AL","city":"Spanish Fort","latitude":30.6959,"longitude":-87.8867}}(window,'GeoPostal','US');

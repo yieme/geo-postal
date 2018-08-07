@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97103"]={"code":"97103","region":"Oregon","city":"Astoria","latitude":46.18788,"longitude":-123.83125}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626210"]={"code":"626210","region":"Tamil Nadu","city":"Sattur","latitude":9.36667,"longitude":77.93333}}(window,'GeoPostal','IN');

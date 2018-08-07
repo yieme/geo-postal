@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97013"]={"code":"97013","region":"Sicilia","city":"Comiso","latitude":36.95134,"longitude":14.61018}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46795"]={"code":"46795","region":"Indiana","city":"Wolcottville","latitude":41.52556,"longitude":-85.36611}}(window,'GeoPostal','US');

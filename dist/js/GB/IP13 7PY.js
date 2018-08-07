@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 7PY"]={"code":"IP13 7PY","region":"England","city":"Charsfield","latitude":52.15956,"longitude":1.29707}}(window,'GeoPostal','GB');

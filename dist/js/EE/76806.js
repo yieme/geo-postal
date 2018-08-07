@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76806"]={"code":"76806","region":"Harjumaa","city":"Paldiski","latitude":59.35667,"longitude":24.05306}}(window,'GeoPostal','EE');

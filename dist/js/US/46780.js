@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46780"]={"code":"46780","region":"IN","city":"Pleasant Mills","latitude":40.7778,"longitude":-84.8422}}(window,'GeoPostal','US');

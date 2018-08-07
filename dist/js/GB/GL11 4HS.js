@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL11 4HS"]={"code":"GL11 4HS","region":"England","city":"Dursley","latitude":51.68139,"longitude":-2.35333}}(window,'GeoPostal','GB');

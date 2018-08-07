@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34756"]={"code":"34756","region":"Florida","city":"Montverde","latitude":28.595741,"longitude":-81.681011}}(window,'GeoPostal','US');

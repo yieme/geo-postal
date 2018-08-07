@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07822"]={"code":"07822","region":"New Jersey","city":"Augusta","latitude":41.1421,"longitude":-74.6964}}(window,'GeoPostal','US');

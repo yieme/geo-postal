@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42700-000"]={"code":"42700-000","region":"Bahia","city":"Lauro de Freitas","latitude":-12.89444,"longitude":-38.32722}}(window,'GeoPostal','BR');

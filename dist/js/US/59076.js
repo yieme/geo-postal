@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59076"]={"code":"59076","region":"MT","city":"Sanders","latitude":46.2914,"longitude":-107.0967}}(window,'GeoPostal','US');

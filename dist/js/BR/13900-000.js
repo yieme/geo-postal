@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13900-000"]={"code":"13900-000","region":"Sao Paulo","city":"Amparo","latitude":-22.70111,"longitude":-46.76444}}(window,'GeoPostal','BR');

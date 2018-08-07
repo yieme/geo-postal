@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV1 3XW"]={"code":"IV1 3XW","region":"Scotland","city":"Kessock","latitude":57.5,"longitude":-4.25}}(window,'GeoPostal','GB');

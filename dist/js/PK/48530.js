@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48530"]={"code":"48530","region":"Punjab","city":"Kallar Kahar","latitude":32.78333,"longitude":72.7}}(window,'GeoPostal','PK');

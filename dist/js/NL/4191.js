@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4191"]={"code":"4191","region":"Gelderland","city":"Geldermalsen","latitude":51.88083,"longitude":5.28889}}(window,'GeoPostal','NL');

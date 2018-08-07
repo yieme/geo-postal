@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457234"]={"code":"457234","region":"Bihor","city":"Balc","latitude":47.28333,"longitude":22.53333}}(window,'GeoPostal','RO');

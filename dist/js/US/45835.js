@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45835"]={"code":"45835","region":"OH","city":"Dola","latitude":40.7598,"longitude":-83.7001}}(window,'GeoPostal','US');

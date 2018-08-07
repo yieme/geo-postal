@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10065"]={"code":"10065","region":"Piemonte","city":"San Germano Chisone","latitude":44.90204,"longitude":7.23662}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73801"]={"code":"73801","region":"Oklahoma","city":"Woodward","latitude":36.42965,"longitude":-99.399241}}(window,'GeoPostal','US');

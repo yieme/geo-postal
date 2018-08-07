@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6700"]={"code":"6700","region":"Buenos Aires","city":"Lujan","latitude":-34.57028,"longitude":-59.105}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21213"]={"code":"21213","region":"Juznobacki okrug","city":"Zmajevo","latitude":45.45361,"longitude":19.68583}}(window,'GeoPostal','RS');

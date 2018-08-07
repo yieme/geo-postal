@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX35 6EX"]={"code":"EX35 6EX","region":"England","city":"Lynmouth","latitude":51.22973,"longitude":-3.82993}}(window,'GeoPostal','GB');

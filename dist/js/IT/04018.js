@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04018"]={"code":"04018","region":"Lazio","city":"Sezze","latitude":41.50331,"longitude":13.0641}}(window,'GeoPostal','IT');

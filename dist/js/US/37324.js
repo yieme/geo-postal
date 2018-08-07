@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37324"]={"code":"37324","region":"Tennessee","city":"Decherd","latitude":35.209309,"longitude":-86.082652}}(window,'GeoPostal','US');

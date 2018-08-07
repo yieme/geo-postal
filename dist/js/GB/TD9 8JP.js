@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD9 8JP"]={"code":"TD9 8JP","region":"Scotland","city":"Bonchester Bridge","latitude":55.4,"longitude":-2.65572}}(window,'GeoPostal','GB');

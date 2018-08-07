@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR3 6AA"]={"code":"PR3 6AA","region":"England","city":"Pilling","latitude":53.93161,"longitude":-2.90892}}(window,'GeoPostal','GB');

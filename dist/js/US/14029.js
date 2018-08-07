@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14029"]={"code":"14029","region":"NY","city":"Centerville","latitude":42.4743,"longitude":-78.2474}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 1T0"]={"code":"J0T 1T0","region":"Quebec","city":"Riviere-Rouge","latitude":46.41679,"longitude":-74.86596}}(window,'GeoPostal','CA');

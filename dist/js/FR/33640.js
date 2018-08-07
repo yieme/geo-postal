@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33640"]={"code":"33640","region":"Nouvelle-Aquitaine","city":"Portets","latitude":44.69679,"longitude":-0.42452}}(window,'GeoPostal','FR');

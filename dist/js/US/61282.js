@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61282"]={"code":"61282","region":"IL","city":"Silvis","latitude":41.5007,"longitude":-90.4126}}(window,'GeoPostal','US');

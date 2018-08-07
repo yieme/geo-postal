@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11375"]={"code":"11375","region":"New York","city":"Forest Hills","latitude":40.7232,"longitude":-73.84548}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR7 4PG"]={"code":"HR7 4PG","region":"England","city":"Edwin Loach","latitude":52.21667,"longitude":-2.5}}(window,'GeoPostal','GB');

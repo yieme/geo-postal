@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56553"]={"code":"56553","region":"MN","city":"Kent","latitude":46.4378,"longitude":-96.6852}}(window,'GeoPostal','US');

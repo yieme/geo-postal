@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12168"]={"code":"12168","region":"NY","city":"Stephentown","latitude":42.5487,"longitude":-73.374}}(window,'GeoPostal','US');

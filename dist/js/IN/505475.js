@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["505475"]={"code":"505475","region":"Telangana","city":"Jangaon","latitude":17.71667,"longitude":79.18333}}(window,'GeoPostal','IN');

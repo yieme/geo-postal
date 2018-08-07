@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0G 4E0"]={"code":"A0G 4E0","region":"Newfoundland and Labrador","city":"Summerford","latitude":49.48322,"longitude":-54.78144}}(window,'GeoPostal','CA');

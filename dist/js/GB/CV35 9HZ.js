@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV35 9HZ"]={"code":"CV35 9HZ","region":"England","city":"Compton Verney","latitude":52.17022,"longitude":-1.54341}}(window,'GeoPostal','GB');

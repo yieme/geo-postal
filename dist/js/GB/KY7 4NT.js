@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KY7 4NT"]={"code":"KY7 4NT","region":"Scotland","city":"Glenrothes","latitude":56.19514,"longitude":-3.17316}}(window,'GeoPostal','GB');

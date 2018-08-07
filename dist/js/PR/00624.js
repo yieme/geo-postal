@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00624"]={"code":"00624","region":"Penuelas","city":"Penuelas","latitude":18.05635,"longitude":-66.72156}}(window,'GeoPostal','PR');

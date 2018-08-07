@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87515"]={"code":"87515","region":"NM","city":"Canjilon","latitude":36.4795,"longitude":-106.4378}}(window,'GeoPostal','US');

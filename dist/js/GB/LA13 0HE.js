@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA13 0HE"]={"code":"LA13 0HE","region":"England","city":"Roose","latitude":54.1135,"longitude":-3.19054}}(window,'GeoPostal','GB');

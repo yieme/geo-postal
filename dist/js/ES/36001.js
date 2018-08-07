@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36001"]={"code":"36001","region":"Galicia","city":"Pontevedra","latitude":42.431,"longitude":-8.64435}}(window,'GeoPostal','ES');

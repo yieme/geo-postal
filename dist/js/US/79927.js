@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79927"]={"code":"79927","region":"Texas","city":"Socorro","latitude":31.65456,"longitude":-106.30331}}(window,'GeoPostal','US');

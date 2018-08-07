@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6503"]={"code":"6503","region":"Western Australia","city":"Gingin","latitude":-31.34722,"longitude":115.90432}}(window,'GeoPostal','AU');

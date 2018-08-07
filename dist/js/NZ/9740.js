@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9740"]={"code":"9740","region":"Southland","city":"Gore","latitude":-46.10282,"longitude":168.94357}}(window,'GeoPostal','NZ');

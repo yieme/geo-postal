@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62028"]={"code":"62028","region":"IL","city":"Elsah","latitude":38.9594,"longitude":-90.3541}}(window,'GeoPostal','US');

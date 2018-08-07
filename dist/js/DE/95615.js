@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95615"]={"code":"95615","region":"Bayern","city":"Marktredwitz","latitude":50.00443,"longitude":12.08593}}(window,'GeoPostal','DE');

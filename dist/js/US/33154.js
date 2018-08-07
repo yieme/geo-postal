@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33154"]={"code":"33154","region":"Florida","city":"Surfside","latitude":25.883726,"longitude":-80.130773}}(window,'GeoPostal','US');

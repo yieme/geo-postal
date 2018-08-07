@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25142"]={"code":"25142","region":"Catalunya","city":"Bellvis","latitude":41.67269,"longitude":0.81768}}(window,'GeoPostal','ES');

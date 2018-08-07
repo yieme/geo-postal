@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31901"]={"code":"31901","region":"Pirkanmaa","city":"Punkalaidun","latitude":61.11667,"longitude":23.1}}(window,'GeoPostal','FI');

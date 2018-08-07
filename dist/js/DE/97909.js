@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97909"]={"code":"97909","region":"Bayern","city":"Stadtprozelten","latitude":49.78466,"longitude":9.41184}}(window,'GeoPostal','DE');

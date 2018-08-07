@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17049"]={"code":"17049","region":"Pennsylvania","city":"McAlisterville","latitude":40.64682,"longitude":-77.26452}}(window,'GeoPostal','US');

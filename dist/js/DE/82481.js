@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82481"]={"code":"82481","region":"Bayern","city":"Mittenwald","latitude":47.4422,"longitude":11.26187}}(window,'GeoPostal','DE');

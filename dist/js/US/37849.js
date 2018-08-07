@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37849"]={"code":"37849","region":"Tennessee","city":"Powell","latitude":36.031667,"longitude":-84.028056}}(window,'GeoPostal','US');

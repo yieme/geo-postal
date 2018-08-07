@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86551"]={"code":"86551","region":"Bayern","city":"Aichach","latitude":48.45755,"longitude":11.13413}}(window,'GeoPostal','DE');

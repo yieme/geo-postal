@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH33 7EN"]={"code":"PH33 7EN","region":"Scotland","city":"Caol","latitude":56.83818,"longitude":-5.10152}}(window,'GeoPostal','GB');

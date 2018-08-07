@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0H 2V0"]={"code":"K0H 2V0","region":"Ontario","city":"Tichborne","latitude":44.66681,"longitude":-76.68271}}(window,'GeoPostal','CA');

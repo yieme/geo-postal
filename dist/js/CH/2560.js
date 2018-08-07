@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2560"]={"code":"2560","region":"Bern","city":"Nidau","latitude":47.12545,"longitude":7.24033}}(window,'GeoPostal','CH');

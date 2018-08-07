@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96015"]={"code":"96015","region":"California","city":"Canby","latitude":41.562735,"longitude":-121.022542}}(window,'GeoPostal','US');

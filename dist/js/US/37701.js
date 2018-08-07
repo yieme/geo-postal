@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37701"]={"code":"37701","region":"Tennessee","city":"Alcoa","latitude":35.784059,"longitude":-83.981071}}(window,'GeoPostal','US');

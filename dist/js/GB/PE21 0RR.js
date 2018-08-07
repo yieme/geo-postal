@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE21 0RR"]={"code":"PE21 0RR","region":"England","city":"Fishtoft","latitude":52.96095,"longitude":0.02702}}(window,'GeoPostal','GB');

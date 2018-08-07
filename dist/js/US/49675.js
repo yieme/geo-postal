@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49675"]={"code":"49675","region":"MI","city":"Onekama","latitude":44.3646,"longitude":-86.21}}(window,'GeoPostal','US');

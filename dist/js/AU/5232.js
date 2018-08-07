@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5232"]={"code":"5232","region":"South Australia","city":"Cudlee Creek","latitude":-34.85,"longitude":138.83333}}(window,'GeoPostal','AU');

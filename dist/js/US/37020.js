@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37020"]={"code":"37020","region":"TN","city":"Bell Buckle","latitude":35.6381,"longitude":-86.3949}}(window,'GeoPostal','US');

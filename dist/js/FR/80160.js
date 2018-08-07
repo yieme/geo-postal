@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80160"]={"code":"80160","region":"Hauts-de-France","city":"Conty","latitude":49.741,"longitude":2.1512}}(window,'GeoPostal','FR');

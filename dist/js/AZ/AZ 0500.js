@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0500"]={"code":"AZ 0500","region":"Agstafa","city":"Aghstafa","latitude":41.11889,"longitude":45.45389}}(window,'GeoPostal','AZ');

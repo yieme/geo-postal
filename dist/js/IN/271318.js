@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["271318"]={"code":"271318","region":"Uttar Pradesh","city":"Colonelganj","latitude":27.13333,"longitude":81.7}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["062550"]={"code":"062550","region":"Hebei","city":"Renqiu","latitude":38.69889,"longitude":116.09361}}(window,'GeoPostal','CN');

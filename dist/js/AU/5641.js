@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5641"]={"code":"5641","region":"South Australia","city":"Kimba","latitude":-33.14164,"longitude":136.41875}}(window,'GeoPostal','AU');

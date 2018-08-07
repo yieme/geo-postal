@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6538"]={"code":"6538","region":"Leyte","city":"Tagbubungang Diot","latitude":11.1257,"longitude":124.4028}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0G 1X0"]={"code":"K0G 1X0","region":"Ontario","city":"Westport","latitude":44.676679,"longitude":-76.395295}}(window,'GeoPostal','CA');

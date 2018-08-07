@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249300"]={"code":"249300","region":"Kaluzhskaya oblast'","city":"Duminichi","latitude":53.93446,"longitude":35.10993}}(window,'GeoPostal','RU');

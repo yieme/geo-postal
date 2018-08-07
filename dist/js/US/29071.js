@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29071"]={"code":"29071","region":"South Carolina","city":"Lexington","latitude":33.98154,"longitude":-81.23621}}(window,'GeoPostal','US');

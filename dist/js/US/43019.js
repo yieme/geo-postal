@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43019"]={"code":"43019","region":"Ohio","city":"Fredericktown","latitude":40.491199,"longitude":-82.531938}}(window,'GeoPostal','US');

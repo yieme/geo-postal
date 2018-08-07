@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446160"]={"code":"446160","region":"Samarskaya oblast'","city":"Pestravka","latitude":52.3982,"longitude":49.961}}(window,'GeoPostal','RU');

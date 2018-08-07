@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55353"]={"code":"55353","region":"MN","city":"Kimball","latitude":45.3436,"longitude":-94.3028}}(window,'GeoPostal','US');

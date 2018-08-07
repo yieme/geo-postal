@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82335"]={"code":"82335","region":"Wyoming","city":"Walcott","latitude":41.76031,"longitude":-106.84547}}(window,'GeoPostal','US');

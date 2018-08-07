@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-130"]={"code":"05-130","region":"Mazowieckie","city":"Nieporet","latitude":52.43152,"longitude":21.03212}}(window,'GeoPostal','PL');

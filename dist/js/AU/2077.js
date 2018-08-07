@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2077"]={"code":"2077","region":"New South Wales","city":"Hornsby","latitude":-33.70244,"longitude":151.09931}}(window,'GeoPostal','AU');

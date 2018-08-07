@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22847"]={"code":"22847","region":"VA","city":"Quicksburg","latitude":38.7201,"longitude":-78.7213}}(window,'GeoPostal','US');

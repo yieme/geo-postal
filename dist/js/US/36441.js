@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36441"]={"code":"36441","region":"Alabama","city":"Flomaton","latitude":31.00018,"longitude":-87.26081}}(window,'GeoPostal','US');

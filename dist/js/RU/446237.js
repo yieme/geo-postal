@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446237"]={"code":"446237","region":"Samarskaya oblast'","city":"Osinki","latitude":52.8432,"longitude":49.5132}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78590"]={"code":"78590","region":"TX","city":"San Perlita","latitude":26.5012,"longitude":-97.6397}}(window,'GeoPostal','US');

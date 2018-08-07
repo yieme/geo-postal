@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45021"]={"code":"45021","region":"Veneto","city":"Badia Polesine","latitude":45.09718,"longitude":11.4916}}(window,'GeoPostal','IT');

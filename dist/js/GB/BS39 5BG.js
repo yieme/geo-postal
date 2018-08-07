@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS39 5BG"]={"code":"BS39 5BG","region":"England","city":"Temple Cloud","latitude":51.32007,"longitude":-2.54197}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14086"]={"code":"14086","region":"New York","city":"Lancaster","latitude":42.9063,"longitude":-78.6285}}(window,'GeoPostal','US');

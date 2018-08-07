@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58444"]={"code":"58444","region":"North Dakota","city":"Goodrich","latitude":47.476983,"longitude":-100.123603}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-401"]={"code":"62-401","region":"Wielkopolskie","city":"Slupca","latitude":52.28733,"longitude":17.87192}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93616"]={"code":"93616","region":"California","city":"Del Rey","latitude":36.659257,"longitude":-119.584701}}(window,'GeoPostal','US');

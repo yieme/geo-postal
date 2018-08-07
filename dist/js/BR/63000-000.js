@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63000-000"]={"code":"63000-000","region":"Ceara","city":"Juazeiro do Norte","latitude":-7.21306,"longitude":-39.31528}}(window,'GeoPostal','BR');

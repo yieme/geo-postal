@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66834"]={"code":"66834","region":"KS","city":"Alta Vista","latitude":38.8636,"longitude":-96.48}}(window,'GeoPostal','US');

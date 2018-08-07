@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55018"]={"code":"55018","region":"MN","city":"Dennison","latitude":44.4265,"longitude":-92.9554}}(window,'GeoPostal','US');

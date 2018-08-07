@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6532"]={"code":"6532","region":"Western Australia","city":"Kojarena","latitude":-28.73333,"longitude":114.85}}(window,'GeoPostal','AU');

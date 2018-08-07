@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87050"]={"code":"87050","region":"Calabria","city":"Bianchi","latitude":39.10089,"longitude":16.4101}}(window,'GeoPostal','IT');

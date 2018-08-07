@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04654"]={"code":"04654","region":"Sachsen","city":"Frohburg","latitude":51.05719,"longitude":12.55746}}(window,'GeoPostal','DE');

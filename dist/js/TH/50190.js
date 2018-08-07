@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50190"]={"code":"50190","region":"Chiang Mai","city":"Phrao","latitude":19.36556,"longitude":99.20208}}(window,'GeoPostal','TH');

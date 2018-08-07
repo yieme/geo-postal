@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40007"]={"code":"40007","region":"KY","city":"Bethlehem","latitude":38.4529,"longitude":-85.0169}}(window,'GeoPostal','US');

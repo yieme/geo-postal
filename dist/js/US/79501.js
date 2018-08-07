@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79501"]={"code":"79501","region":"Texas","city":"Anson","latitude":32.757513,"longitude":-99.894033}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40165"]={"code":"40165","region":"Kentucky","city":"Shepherdsville","latitude":38.00382,"longitude":-85.69632}}(window,'GeoPostal','US');

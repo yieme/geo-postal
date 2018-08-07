@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2087"]={"code":"2087","region":"Pest","city":"Piliscsaba","latitude":47.63417,"longitude":18.82886}}(window,'GeoPostal','HU');

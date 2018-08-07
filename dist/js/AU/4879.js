@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4879"]={"code":"4879","region":"Queensland","city":"Palm Cove","latitude":-16.75,"longitude":145.66667}}(window,'GeoPostal','AU');

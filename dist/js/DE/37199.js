@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37199"]={"code":"37199","region":"Niedersachsen","city":"Lindau","latitude":51.65,"longitude":10.13333}}(window,'GeoPostal','DE');

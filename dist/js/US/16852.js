@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16852"]={"code":"16852","region":"PA","city":"Madisonburg","latitude":40.9334,"longitude":-77.495}}(window,'GeoPostal','US');

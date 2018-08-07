@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2672"]={"code":"2672","region":"New South Wales","city":"Euabalong West","latitude":-33.06667,"longitude":146.4}}(window,'GeoPostal','AU');

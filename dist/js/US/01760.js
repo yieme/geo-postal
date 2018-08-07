@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01760"]={"code":"01760","region":"Massachusetts","city":"Natick","latitude":42.28578,"longitude":-71.35506}}(window,'GeoPostal','US');

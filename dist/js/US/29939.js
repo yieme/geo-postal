@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29939"]={"code":"29939","region":"SC","city":"Scotia","latitude":32.6786,"longitude":-81.2455}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49814"]={"code":"49814","region":"Michigan","city":"Champion","latitude":46.6,"longitude":-87.8975}}(window,'GeoPostal','US');

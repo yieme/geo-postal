@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW6 1LX"]={"code":"SW6 1LX","region":"England","city":"Fulham","latitude":51.48026,"longitude":-0.1993}}(window,'GeoPostal','GB');

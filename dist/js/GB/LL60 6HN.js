@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL60 6HN"]={"code":"LL60 6HN","region":"Wales","city":"Gaerwen","latitude":53.22112,"longitude":-4.27362}}(window,'GeoPostal','GB');

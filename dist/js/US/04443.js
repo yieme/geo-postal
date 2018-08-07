@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04443"]={"code":"04443","region":"Maine","city":"Guilford","latitude":45.213605,"longitude":-69.4066}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64771"]={"code":"64771","region":"MO","city":"Moundville","latitude":37.7476,"longitude":-94.4496}}(window,'GeoPostal','US');

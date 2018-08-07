@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503 51"]={"code":"503 51","region":"Kralovehradecky kraj","city":"Chlumec nad Cidlinou","latitude":50.1544,"longitude":15.46026}}(window,'GeoPostal','CZ');

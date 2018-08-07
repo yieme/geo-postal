@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9450"]={"code":"9450","region":"Free State","city":"Ventersburg","latitude":-28.08561,"longitude":27.13814}}(window,'GeoPostal','ZA');

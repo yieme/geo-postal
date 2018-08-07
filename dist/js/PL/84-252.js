@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-252"]={"code":"84-252","region":"Pomorskie","city":"Gniewino","latitude":54.71709,"longitude":18.01663}}(window,'GeoPostal','PL');

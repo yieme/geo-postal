@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446970"]={"code":"446970","region":"Samarskaya oblast'","city":"Kamyshla","latitude":54.11693,"longitude":52.14262}}(window,'GeoPostal','RU');

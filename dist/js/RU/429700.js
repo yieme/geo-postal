@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429700"]={"code":"429700","region":"Chuvashskaya Respublika","city":"Ibresi","latitude":55.29611,"longitude":47.03944}}(window,'GeoPostal','RU');

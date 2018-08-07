@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70733"]={"code":"70733","region":"LA","city":"French Settlement","latitude":30.2952,"longitude":-90.7951}}(window,'GeoPostal','US');

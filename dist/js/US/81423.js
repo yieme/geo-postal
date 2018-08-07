@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81423"]={"code":"81423","region":"Colorado","city":"Norwood","latitude":38.13111,"longitude":-108.29139}}(window,'GeoPostal','US');

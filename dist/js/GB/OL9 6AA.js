@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OL9 6AA"]={"code":"OL9 6AA","region":"England","city":"Oldham","latitude":53.54051,"longitude":-2.1183}}(window,'GeoPostal','GB');

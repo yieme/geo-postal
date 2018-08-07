@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56756"]={"code":"56756","region":"MN","city":"Salol","latitude":48.8522,"longitude":-95.5356}}(window,'GeoPostal','US');

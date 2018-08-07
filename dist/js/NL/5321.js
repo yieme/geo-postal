@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5321"]={"code":"5321","region":"Gelderland","city":"Hedel","latitude":51.74802,"longitude":5.26134}}(window,'GeoPostal','NL');

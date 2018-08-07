@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396953"]={"code":"396953","region":"Voronezhskaya oblast'","city":"Losevo","latitude":50.67667,"longitude":40.045}}(window,'GeoPostal','RU');

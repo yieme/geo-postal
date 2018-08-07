@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14940"]={"code":"14940","region":"Andalucia","city":"Cabra","latitude":37.47249,"longitude":-4.44206}}(window,'GeoPostal','ES');

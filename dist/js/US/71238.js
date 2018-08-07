@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71238"]={"code":"71238","region":"LA","city":"Eros","latitude":32.3988,"longitude":-92.3479}}(window,'GeoPostal','US');

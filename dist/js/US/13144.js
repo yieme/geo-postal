@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13144"]={"code":"13144","region":"NY","city":"Richland","latitude":43.5776,"longitude":-76.0029}}(window,'GeoPostal','US');

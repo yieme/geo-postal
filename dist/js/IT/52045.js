@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52045"]={"code":"52045","region":"Toscana","city":"Foiano della Chiana","latitude":43.25564,"longitude":11.81534}}(window,'GeoPostal','IT');

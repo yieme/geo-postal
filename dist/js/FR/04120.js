@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04120"]={"code":"04120","region":"Provence-Alpes-Cote d'Azur","city":"Castellane","latitude":43.85,"longitude":6.51667}}(window,'GeoPostal','FR');

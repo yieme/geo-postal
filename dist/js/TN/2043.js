@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2043"]={"code":"2043","region":"Ben Arous","city":"Ben Arous","latitude":36.75306,"longitude":10.21889}}(window,'GeoPostal','TN');

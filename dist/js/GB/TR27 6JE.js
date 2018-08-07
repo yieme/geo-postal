@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR27 6JE"]={"code":"TR27 6JE","region":"England","city":"Uny Lelant","latitude":50.18333,"longitude":-5.43333}}(window,'GeoPostal','GB');

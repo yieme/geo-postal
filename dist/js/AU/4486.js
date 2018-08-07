@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4486"]={"code":"4486","region":"Queensland","city":"Dirranbandi","latitude":-28.58541,"longitude":148.22551}}(window,'GeoPostal','AU');

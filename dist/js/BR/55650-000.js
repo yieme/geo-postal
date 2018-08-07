@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55650-000"]={"code":"55650-000","region":"Pernambuco","city":"Passira","latitude":-7.995,"longitude":-35.58056}}(window,'GeoPostal','BR');

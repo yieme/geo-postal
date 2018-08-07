@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96472"]={"code":"96472","region":"Bayern","city":"Oeslau","latitude":50.29767,"longitude":11.03564}}(window,'GeoPostal','DE');

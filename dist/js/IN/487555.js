@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["487555"]={"code":"487555","region":"Madhya Pradesh","city":"Gadarwara","latitude":22.91667,"longitude":78.78333}}(window,'GeoPostal','IN');

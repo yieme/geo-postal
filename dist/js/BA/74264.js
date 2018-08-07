@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74264"]={"code":"74264","region":"Republika Srpska","city":"Teslic","latitude":44.60639,"longitude":17.85972}}(window,'GeoPostal','BA');

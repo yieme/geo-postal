@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51232"]={"code":"51232","region":"Iowa","city":"Ashton","latitude":43.312642,"longitude":-95.784824}}(window,'GeoPostal','US');

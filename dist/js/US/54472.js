@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54472"]={"code":"54472","region":"WI","city":"Marshfield","latitude":44.6689,"longitude":-90.1718}}(window,'GeoPostal','US');

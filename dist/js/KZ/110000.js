@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["110000"]={"code":"110000","region":"Qaraghandy oblysy","city":"Qaraghandy","latitude":49.79889,"longitude":73.09944}}(window,'GeoPostal','KZ');

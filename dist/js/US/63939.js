@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63939"]={"code":"63939","region":"MO","city":"Fairdealing","latitude":36.6704,"longitude":-90.6335}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62355"]={"code":"62355","region":"Illinois","city":"Nebo","latitude":39.395753,"longitude":-90.770584}}(window,'GeoPostal','US');

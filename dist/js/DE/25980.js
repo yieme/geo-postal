@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25980"]={"code":"25980","region":"Schleswig-Holstein","city":"Dikjendeel","latitude":54.88026,"longitude":8.29391}}(window,'GeoPostal','DE');

@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["CD"]={id:'CD',country:'Congo, The Democratic Republic of The', postal:{'':{code:'',region:'Haut-Katanga',city:'Lubumbashi',latitude:-11.66089,longitude:27.47938}}};

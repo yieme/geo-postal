@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0H 1N0"]={"code":"A0H 1N0","region":"Newfoundland and Labrador","city":"Gaultois","latitude":47.59995,"longitude":-55.89834}}(window,'GeoPostal','CA');

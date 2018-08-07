@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152116"]={"code":"152116","region":"Punjab","city":"Abohar","latitude":30.15,"longitude":74.18333}}(window,'GeoPostal','IN');

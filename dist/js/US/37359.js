@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37359"]={"code":"37359","region":"TN","city":"Mulberry","latitude":35.1941,"longitude":-86.4217}}(window,'GeoPostal','US');

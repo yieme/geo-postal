@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN5 0RD"]={"code":"LN5 0RD","region":"England","city":"Beckingham","latitude":53.06667,"longitude":-0.68333}}(window,'GeoPostal','GB');

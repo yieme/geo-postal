@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 1W0"]={"code":"J0K 1W0","region":"Quebec","city":"Saint-Alphonse-Rodriguez","latitude":46.18338,"longitude":-73.69917}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632402"]={"code":"632402","region":"Novosibirskaya oblast'","city":"Kargat","latitude":55.19556,"longitude":80.28111}}(window,'GeoPostal','RU');

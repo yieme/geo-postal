@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92305"]={"code":"92305","region":"CA","city":"Angelus Oaks","latitude":34.1531,"longitude":-116.9485}}(window,'GeoPostal','US');

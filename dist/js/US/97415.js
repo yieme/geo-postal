@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97415"]={"code":"97415","region":"Oregon","city":"Brookings","latitude":42.05261,"longitude":-124.28398}}(window,'GeoPostal','US');

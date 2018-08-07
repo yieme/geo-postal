@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81044"]={"code":"81044","region":"Colorado","city":"Hasty","latitude":38.061389,"longitude":-102.926667}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46513"]={"code":"46513","region":"IN","city":"Donaldson","latitude":41.3619,"longitude":-86.4443}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG1 1TA"]={"code":"DG1 1TA","region":"Scotland","city":"Duncow","latitude":55.13348,"longitude":-3.6251}}(window,'GeoPostal','GB');

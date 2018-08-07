@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83022"]={"code":"83022","region":"Bayern","city":"Rosenheim","latitude":47.85637,"longitude":12.12247}}(window,'GeoPostal','DE');

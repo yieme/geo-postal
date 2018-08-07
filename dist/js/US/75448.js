@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75448"]={"code":"75448","region":"TX","city":"Klondike","latitude":33.3034,"longitude":-95.8018}}(window,'GeoPostal','US');

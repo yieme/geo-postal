@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8520"]={"code":"8520","region":"Vlaams-Brabant","city":"Zaventem","latitude":50.88365,"longitude":4.47298}}(window,'GeoPostal','BE');

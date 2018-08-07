@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671410"]={"code":"671410","region":"Buryatiya, Respublika","city":"Khorinsk","latitude":52.1657,"longitude":109.7726}}(window,'GeoPostal','RU');

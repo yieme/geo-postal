@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 2S0"]={"code":"J0K 2S0","region":"Quebec","city":"Saint-Jean-de-Matha","latitude":46.23147,"longitude":-73.53416}}(window,'GeoPostal','CA');

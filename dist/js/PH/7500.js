@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7500"]={"code":"7500","region":"Tawi-Tawi","city":"Bongao","latitude":5.02917,"longitude":119.77306}}(window,'GeoPostal','PH');

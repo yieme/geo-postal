@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["335200"]={"code":"335200","region":"Jiangxi","city":"Maquanzhen","latitude":28.15831,"longitude":116.86401}}(window,'GeoPostal','CN');

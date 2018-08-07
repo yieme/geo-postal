@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW6 9TF"]={"code":"CW6 9TF","region":"England","city":"Spurstow","latitude":53.10798,"longitude":-2.6632}}(window,'GeoPostal','GB');

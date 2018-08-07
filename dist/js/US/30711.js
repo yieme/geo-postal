@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30711"]={"code":"30711","region":"GA","city":"Crandall","latitude":34.9412,"longitude":-84.7645}}(window,'GeoPostal','US');

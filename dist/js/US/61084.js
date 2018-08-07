@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61084"]={"code":"61084","region":"IL","city":"Stillman Valley","latitude":42.1183,"longitude":-89.1898}}(window,'GeoPostal','US');

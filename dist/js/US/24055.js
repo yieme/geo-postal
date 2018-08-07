@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24055"]={"code":"24055","region":"Virginia","city":"Bassett","latitude":36.7593,"longitude":-79.99032}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96800-000"]={"code":"96800-000","region":"Rio Grande do Sul","city":"Santa Cruz do Sul","latitude":-29.7175,"longitude":-52.42583}}(window,'GeoPostal','BR');

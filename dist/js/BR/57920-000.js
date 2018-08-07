@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57920-000"]={"code":"57920-000","region":"Alagoas","city":"Sao Luis do Quitunde","latitude":-9.31833,"longitude":-35.56111}}(window,'GeoPostal','BR');

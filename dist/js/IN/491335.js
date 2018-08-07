@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["491335"]={"code":"491335","region":"Chhattisgarh","city":"Bemetara","latitude":21.7,"longitude":81.53333}}(window,'GeoPostal','IN');

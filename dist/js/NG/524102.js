@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["524102"]={"code":"524102","region":"Akwa Ibom","city":"Eket","latitude":4.64122,"longitude":7.92092}}(window,'GeoPostal','NG');

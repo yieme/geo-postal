@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["053000"]={"code":"053000","region":"Hebei","city":"Hengshui","latitude":37.73222,"longitude":115.70111}}(window,'GeoPostal','CN');

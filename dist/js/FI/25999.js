@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25999"]={"code":"25999","region":"Kainuu","city":"Salo","latitude":65.2,"longitude":29.28333}}(window,'GeoPostal','FI');

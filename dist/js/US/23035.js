@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23035"]={"code":"23035","region":"Virginia","city":"Cobbs Creek","latitude":37.50556,"longitude":-76.39694}}(window,'GeoPostal','US');

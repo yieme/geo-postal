@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03042"]={"code":"03042","region":"NH","city":"Epping","latitude":43.0411,"longitude":-71.0764}}(window,'GeoPostal','US');

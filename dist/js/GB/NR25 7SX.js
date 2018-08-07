@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR25 7SX"]={"code":"NR25 7SX","region":"England","city":"Weybourne","latitude":52.94292,"longitude":1.14095}}(window,'GeoPostal','GB');

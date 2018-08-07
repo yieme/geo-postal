@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR7 3JF"]={"code":"TR7 3JF","region":"England","city":"Newquay","latitude":50.41317,"longitude":-5.08186}}(window,'GeoPostal','GB');

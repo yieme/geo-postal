@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["621109"]={"code":"621109","region":"Tamil Nadu","city":"Perambalur","latitude":11.23333,"longitude":78.88333}}(window,'GeoPostal','IN');

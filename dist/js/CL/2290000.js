@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2290000"]={"code":"2290000","region":"Valparaiso","city":"Hacienda La Calera","latitude":-32.78333,"longitude":-71.21667}}(window,'GeoPostal','CL');

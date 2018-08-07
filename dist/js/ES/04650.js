@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04650"]={"code":"04650","region":"Andalucia","city":"Zurgena","latitude":37.34218,"longitude":-2.03985}}(window,'GeoPostal','ES');

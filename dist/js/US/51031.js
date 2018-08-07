@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51031"]={"code":"51031","region":"Iowa","city":"Le Mars","latitude":42.79416,"longitude":-96.16558}}(window,'GeoPostal','US');

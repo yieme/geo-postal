@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87752"]={"code":"87752","region":"NM","city":"Wagon Mound","latitude":35.9814,"longitude":-104.691}}(window,'GeoPostal','US');

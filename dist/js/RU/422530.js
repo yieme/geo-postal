@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422530"]={"code":"422530","region":"Tatarstan, Respublika","city":"Vasil'yevo","latitude":55.83596,"longitude":48.6582}}(window,'GeoPostal','RU');

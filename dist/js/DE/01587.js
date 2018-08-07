@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01587"]={"code":"01587","region":"Sachsen","city":"Weida","latitude":51.30256,"longitude":13.25503}}(window,'GeoPostal','DE');

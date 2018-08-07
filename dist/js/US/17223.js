@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17223"]={"code":"17223","region":"PA","city":"Fort Littleton","latitude":40.078,"longitude":-77.9532}}(window,'GeoPostal','US');

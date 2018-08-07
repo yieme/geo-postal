@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70082"]={"code":"70082","region":"LA","city":"Pointe A La Hache","latitude":29.542,"longitude":-89.7512}}(window,'GeoPostal','US');

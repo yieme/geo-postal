@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR1 3PB"]={"code":"HR1 3PB","region":"England","city":"Preston Wynne","latitude":52.12072,"longitude":-2.6455}}(window,'GeoPostal','GB');

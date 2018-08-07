@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL34 0DB"]={"code":"PL34 0DB","region":"England","city":"Tintagel","latitude":50.66317,"longitude":-4.75047}}(window,'GeoPostal','GB');

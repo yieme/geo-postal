@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["679141"]={"code":"679141","region":"Yevreyskaya avtonomnaya oblast'","city":"Khingansk","latitude":49.11667,"longitude":131.18333}}(window,'GeoPostal','RU');

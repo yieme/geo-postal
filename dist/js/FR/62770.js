@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62770"]={"code":"62770","region":"Hauts-de-France","city":"Blangy-sur-Ternoise","latitude":50.4222,"longitude":2.1706}}(window,'GeoPostal','FR');

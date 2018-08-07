@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28396"]={"code":"28396","region":"NC","city":"Wagram","latitude":34.9044,"longitude":-79.3959}}(window,'GeoPostal','US');

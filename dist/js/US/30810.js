@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30810"]={"code":"30810","region":"Georgia","city":"Gibson","latitude":33.23348,"longitude":-82.59541}}(window,'GeoPostal','US');

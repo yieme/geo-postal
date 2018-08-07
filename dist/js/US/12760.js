@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12760"]={"code":"12760","region":"New York","city":"Long Eddy","latitude":41.86847,"longitude":-75.08051}}(window,'GeoPostal','US');

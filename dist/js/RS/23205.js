@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23205"]={"code":"23205","region":"Srednjebanatski okrug","city":"Belo Blato","latitude":45.27278,"longitude":20.375}}(window,'GeoPostal','RS');

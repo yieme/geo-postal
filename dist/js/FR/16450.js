@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16450"]={"code":"16450","region":"Nouvelle-Aquitaine","city":"Saint-Claud","latitude":45.89526,"longitude":0.46454}}(window,'GeoPostal','FR');

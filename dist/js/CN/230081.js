@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["230081"]={"code":"230081","region":"Zhejiang","city":"Sanlian","latitude":29.04183,"longitude":120.34546}}(window,'GeoPostal','CN');

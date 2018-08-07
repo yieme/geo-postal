@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62149"]={"code":"62149","region":"Hauts-de-France","city":"Cuinchy","latitude":50.5175,"longitude":2.7488}}(window,'GeoPostal','FR');

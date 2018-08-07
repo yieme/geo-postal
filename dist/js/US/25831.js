@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25831"]={"code":"25831","region":"WV","city":"Danese","latitude":37.9567,"longitude":-80.9379}}(window,'GeoPostal','US');

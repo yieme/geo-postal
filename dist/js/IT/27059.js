@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27059"]={"code":"27059","region":"Lombardia","city":"Zavattarello","latitude":44.86746,"longitude":9.26516}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23410"]={"code":"23410","region":"Andalucia","city":"Sabiote","latitude":38.06916,"longitude":-3.31448}}(window,'GeoPostal','ES');

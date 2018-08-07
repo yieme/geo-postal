@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04230"]={"code":"04230","region":"ME","city":"East Poland","latitude":44.0627,"longitude":-70.327}}(window,'GeoPostal','US');

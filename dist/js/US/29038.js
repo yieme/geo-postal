@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29038"]={"code":"29038","region":"SC","city":"Cope","latitude":33.3726,"longitude":-80.9631}}(window,'GeoPostal','US');

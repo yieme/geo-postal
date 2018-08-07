@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707153"]={"code":"707153","region":"Iasi","city":"Cucuteni","latitude":47.28333,"longitude":26.93333}}(window,'GeoPostal','RO');

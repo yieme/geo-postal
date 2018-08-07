@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17503"]={"code":"17503","region":"PA","city":"Bart","latitude":40.0185,"longitude":-76.2976}}(window,'GeoPostal','US');

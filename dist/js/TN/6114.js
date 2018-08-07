@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6114"]={"code":"6114","region":"Siliana","city":"Kesra","latitude":35.81364,"longitude":9.36434}}(window,'GeoPostal','TN');

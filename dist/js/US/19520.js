@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19520"]={"code":"19520","region":"Pennsylvania","city":"Elverson","latitude":40.157,"longitude":-75.7866}}(window,'GeoPostal','US');

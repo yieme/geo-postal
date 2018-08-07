@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40231"]={"code":"40231","region":"Punjab","city":"Jahanian Shah","latitude":31.80552,"longitude":72.27711}}(window,'GeoPostal','PK');

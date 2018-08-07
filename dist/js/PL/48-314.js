@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48-314"]={"code":"48-314","region":"Opolskie","city":"Pakoslawice","latitude":50.54474,"longitude":17.36578}}(window,'GeoPostal','PL');

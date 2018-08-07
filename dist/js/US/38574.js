@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38574"]={"code":"38574","region":"TN","city":"Monterey","latitude":36.1509,"longitude":-85.2542}}(window,'GeoPostal','US');

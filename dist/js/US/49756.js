@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49756"]={"code":"49756","region":"Michigan","city":"Lewiston","latitude":44.8839,"longitude":-84.30557}}(window,'GeoPostal','US');

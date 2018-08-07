@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["161300"]={"code":"161300","region":"Vologodskaya oblast'","city":"Tot'ma","latitude":59.97375,"longitude":42.76486}}(window,'GeoPostal','RU');

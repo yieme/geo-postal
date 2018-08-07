@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04565"]={"code":"04565","region":"ME","city":"Sebasco Estates","latitude":43.7733,"longitude":-69.8635}}(window,'GeoPostal','US');

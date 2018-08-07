@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV44 8RE"]={"code":"IV44 8RE","region":"Scotland","city":"Teangue","latitude":57.11322,"longitude":-5.85314}}(window,'GeoPostal','GB');

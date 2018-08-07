@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92335"]={"code":"92335","region":"California","city":"Felton","latitude":34.09402,"longitude":-117.46168}}(window,'GeoPostal','US');

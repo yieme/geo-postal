@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52601"]={"code":"52601","region":"Iowa","city":"Burlington","latitude":40.80754,"longitude":-91.11292}}(window,'GeoPostal','US');

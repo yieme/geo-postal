@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47639"]={"code":"47639","region":"IN","city":"Haubstadt","latitude":38.1895,"longitude":-87.5798}}(window,'GeoPostal','US');

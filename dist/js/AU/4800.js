@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4800"]={"code":"4800","region":"Queensland","city":"Red Hill","latitude":-20.31667,"longitude":148.5}}(window,'GeoPostal','AU');

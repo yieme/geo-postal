@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36009"]={"code":"36009","region":"Alabama","city":"Brantley","latitude":31.58417,"longitude":-86.25639}}(window,'GeoPostal','US');

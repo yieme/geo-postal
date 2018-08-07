@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18627"]={"code":"18627","region":"Pennsylvania","city":"Lehman","latitude":41.3169,"longitude":-76.0227}}(window,'GeoPostal','US');

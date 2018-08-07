@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32249"]={"code":"32249","region":"Vukovarsko-srijemska zupanija","city":"Tovarnik","latitude":45.165,"longitude":19.15194}}(window,'GeoPostal','HR');

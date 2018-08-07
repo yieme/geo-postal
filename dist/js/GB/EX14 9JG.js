@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX14 9JG"]={"code":"EX14 9JG","region":"England","city":"Wilmington","latitude":50.79367,"longitude":-3.12102}}(window,'GeoPostal','GB');

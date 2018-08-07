@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44881"]={"code":"44881","region":"OH","city":"Sulphur Springs","latitude":40.8709,"longitude":-82.8771}}(window,'GeoPostal','US');

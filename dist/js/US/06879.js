@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06879"]={"code":"06879","region":"CT","city":"Ridgefield","latitude":41.2815,"longitude":-73.4982}}(window,'GeoPostal','US');

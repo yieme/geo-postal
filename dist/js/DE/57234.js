@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57234"]={"code":"57234","region":"Nordrhein-Westfalen","city":"Wilnsdorf","latitude":50.81667,"longitude":8.1}}(window,'GeoPostal','DE');

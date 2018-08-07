@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26725"]={"code":"26725","region":"Niedersachsen","city":"Emden","latitude":53.36745,"longitude":7.20778}}(window,'GeoPostal','DE');

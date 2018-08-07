@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BZN 9019"]={"code":"BZN 9019","region":"Balzan","city":"Balzan","latitude":35.90028,"longitude":14.455}}(window,'GeoPostal','MT');

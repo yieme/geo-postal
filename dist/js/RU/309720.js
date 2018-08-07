@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309720"]={"code":"309720","region":"Belgorodskaya oblast'","city":"Veydelevka","latitude":50.1521,"longitude":38.4492}}(window,'GeoPostal','RU');

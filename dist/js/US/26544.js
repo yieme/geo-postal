@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26544"]={"code":"26544","region":"WV","city":"Pentress","latitude":39.5785,"longitude":-80.093}}(window,'GeoPostal','US');

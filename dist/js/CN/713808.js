@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713808"]={"code":"713808","region":"Shaanxi","city":"Zhenxing","latitude":34.66853,"longitude":109.19284}}(window,'GeoPostal','CN');

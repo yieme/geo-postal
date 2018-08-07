@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0N 2C0"]={"code":"B0N 2C0","region":"Nova Scotia","city":"Burntcoat","latitude":45.31685,"longitude":-63.78202}}(window,'GeoPostal','CA');

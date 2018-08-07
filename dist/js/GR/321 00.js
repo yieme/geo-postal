@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["321 00"]={"code":"321 00","region":"Sterea Ellada","city":"Levadeia","latitude":38.435,"longitude":22.87389}}(window,'GeoPostal','GR');

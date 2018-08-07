@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45360"]={"code":"45360","region":"Centre-Val de Loire","city":"Chatillon-sur-Loire","latitude":47.5925,"longitude":2.7539}}(window,'GeoPostal','FR');

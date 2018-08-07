@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14790-000"]={"code":"14790-000","region":"Sao Paulo","city":"Guaira","latitude":-20.31833,"longitude":-48.31056}}(window,'GeoPostal','BR');

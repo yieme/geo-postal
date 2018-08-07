@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5751"]={"code":"5751","region":"Hordaland","city":"Odda","latitude":60.06912,"longitude":6.54565}}(window,'GeoPostal','NO');

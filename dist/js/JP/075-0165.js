@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["075-0165"]={"code":"075-0165","region":"Hokkaido","city":"Ashibetsu","latitude":43.50972,"longitude":142.18556}}(window,'GeoPostal','JP');

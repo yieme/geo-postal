@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8377"]={"code":"8377","region":"Northern Cape","city":"Barkly West","latitude":-28.53537,"longitude":24.52151}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5237"]={"code":"5237","region":"Noord-Brabant","city":"'s-Hertogenbosch","latitude":51.69917,"longitude":5.30417}}(window,'GeoPostal','NL');

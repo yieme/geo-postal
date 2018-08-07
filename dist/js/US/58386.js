@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58386"]={"code":"58386","region":"North Dakota","city":"York","latitude":48.326373,"longitude":-99.523317}}(window,'GeoPostal','US');

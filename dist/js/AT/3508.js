@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3508"]={"code":"3508","region":"Niederosterreich","city":"Paudorf","latitude":48.35,"longitude":15.61667}}(window,'GeoPostal','AT');

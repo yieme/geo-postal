@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4521"]={"code":"4521","region":"Larnaka","city":"Ayios Tykhonas","latitude":34.725,"longitude":33.14167}}(window,'GeoPostal','CY');

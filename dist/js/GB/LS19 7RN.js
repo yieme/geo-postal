@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS19 7RN"]={"code":"LS19 7RN","region":"England","city":"Yeadon","latitude":53.86437,"longitude":-1.68743}}(window,'GeoPostal','GB');

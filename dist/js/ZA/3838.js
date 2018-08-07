@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3838"]={"code":"3838","region":"Kwazulu-Natal","city":"Ulundi","latitude":-28.33523,"longitude":31.41617}}(window,'GeoPostal','ZA');

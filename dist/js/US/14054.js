@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14054"]={"code":"14054","region":"NY","city":"East Bethany","latitude":42.9166,"longitude":-78.1342}}(window,'GeoPostal','US');

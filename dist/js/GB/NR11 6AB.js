@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR11 6AB"]={"code":"NR11 6AB","region":"England","city":"Burgh next Aylsham","latitude":52.77924,"longitude":1.2872}}(window,'GeoPostal','GB');

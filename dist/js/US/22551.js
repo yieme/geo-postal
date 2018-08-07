@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22551"]={"code":"22551","region":"VA","city":"Spotsylvania","latitude":38.162,"longitude":-77.6854}}(window,'GeoPostal','US');

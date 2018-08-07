@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4W 0E8"]={"code":"E4W 0E8","region":"New Brunswick","city":"Indian Island","latitude":44.91684,"longitude":-66.96559}}(window,'GeoPostal','CA');

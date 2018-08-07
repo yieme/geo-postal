@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06466"]={"code":"06466","region":"Sachsen-Anhalt","city":"Gatersleben","latitude":51.82215,"longitude":11.28661}}(window,'GeoPostal','DE');

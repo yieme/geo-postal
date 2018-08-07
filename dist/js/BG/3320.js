@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3320"]={"code":"3320","region":"Vratsa","city":"Kozloduy","latitude":43.78333,"longitude":23.73333}}(window,'GeoPostal','BG');

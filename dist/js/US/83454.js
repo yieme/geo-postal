@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83454"]={"code":"83454","region":"ID","city":"Ucon","latitude":43.5936,"longitude":-111.9573}}(window,'GeoPostal','US');

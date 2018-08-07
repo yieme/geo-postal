@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0R 3J0"]={"code":"G0R 3J0","region":"Quebec","city":"Saint-Lazare-de-Bellechasse","latitude":46.65306,"longitude":-70.80701}}(window,'GeoPostal','CA');

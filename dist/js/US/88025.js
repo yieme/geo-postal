@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88025"]={"code":"88025","region":"NM","city":"Buckhorn","latitude":33.0633,"longitude":-108.6956}}(window,'GeoPostal','US');

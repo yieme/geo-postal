@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4155"]={"code":"4155","region":"Hajdu-Bihar","city":"Puspokladany","latitude":47.31667,"longitude":21.11667}}(window,'GeoPostal','HU');

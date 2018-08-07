@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14420"]={"code":"14420","region":"New York","city":"Brockport","latitude":43.21367,"longitude":-77.93918}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99613"]={"code":"99613","region":"AK","city":"King Salmon","latitude":58.6883,"longitude":-156.6614}}(window,'GeoPostal','US');

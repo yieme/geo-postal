@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67055"]={"code":"67055","region":"KS","city":"Greenwich","latitude":37.7833,"longitude":-97.2054}}(window,'GeoPostal','US');

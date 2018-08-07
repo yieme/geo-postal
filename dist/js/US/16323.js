@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16323"]={"code":"16323","region":"Pennsylvania","city":"Franklin","latitude":41.39784,"longitude":-79.83144}}(window,'GeoPostal','US');

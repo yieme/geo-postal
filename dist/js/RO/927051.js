@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["927051"]={"code":"927051","region":"Ialomita","city":"Bordusani","latitude":44.48333,"longitude":27.9}}(window,'GeoPostal','RO');

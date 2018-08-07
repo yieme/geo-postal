@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9843"]={"code":"9843","region":"Karnten","city":"Grosskirchheim","latitude":46.97352,"longitude":12.90482}}(window,'GeoPostal','AT');

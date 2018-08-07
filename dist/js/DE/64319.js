@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64319"]={"code":"64319","region":"Hessen","city":"Darmstadt","latitude":49.87056,"longitude":8.64944}}(window,'GeoPostal','DE');

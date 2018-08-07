@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02700"]={"code":"02700","region":"Hauts-de-France","city":"Tergnier","latitude":49.65607,"longitude":3.30107}}(window,'GeoPostal','FR');

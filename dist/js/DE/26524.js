@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26524"]={"code":"26524","region":"Niedersachsen","city":"Wichte","latitude":53.6074,"longitude":7.31828}}(window,'GeoPostal','DE');

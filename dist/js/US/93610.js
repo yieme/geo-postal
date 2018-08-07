@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93610"]={"code":"93610","region":"California","city":"Chowchilla","latitude":37.123,"longitude":-120.26018}}(window,'GeoPostal','US');

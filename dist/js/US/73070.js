@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73070"]={"code":"73070","region":"Oklahoma","city":"Norman","latitude":35.222056,"longitude":-97.365934}}(window,'GeoPostal','US');

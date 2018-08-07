@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98350"]={"code":"98350","region":"Zacatecas","city":"Nieves","latitude":24,"longitude":-103.01667}}(window,'GeoPostal','MX');

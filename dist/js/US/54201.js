@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54201"]={"code":"54201","region":"Wisconsin","city":"Algoma","latitude":44.60783,"longitude":-87.448638}}(window,'GeoPostal','US');

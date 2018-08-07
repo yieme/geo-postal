@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57747"]={"code":"57747","region":"South Dakota","city":"Hot Springs","latitude":43.43165,"longitude":-103.47436}}(window,'GeoPostal','US');

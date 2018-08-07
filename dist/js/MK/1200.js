@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1200"]={"code":"1200","region":"Tetovo","city":"Tetovo","latitude":42.01056,"longitude":20.97139}}(window,'GeoPostal','MK');

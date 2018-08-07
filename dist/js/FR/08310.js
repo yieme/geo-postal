@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08310"]={"code":"08310","region":"Grand-Est","city":"Machault","latitude":49.3556,"longitude":4.5}}(window,'GeoPostal','FR');

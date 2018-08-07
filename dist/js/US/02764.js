@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02764"]={"code":"02764","region":"MA","city":"North Dighton","latitude":41.8529,"longitude":-71.1485}}(window,'GeoPostal','US');

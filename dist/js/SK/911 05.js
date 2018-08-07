@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["911 05"]={"code":"911 05","region":"Trenciansky kraj","city":"Trencin","latitude":48.89452,"longitude":18.04436}}(window,'GeoPostal','SK');

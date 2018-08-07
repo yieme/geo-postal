@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16432"]={"code":"16432","region":"Pennsylvania","city":"Riceville","latitude":41.7775,"longitude":-79.803056}}(window,'GeoPostal','US');

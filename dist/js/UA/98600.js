@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98600"]={"code":"98600","region":"Avtonomna Respublika Krym","city":"Livadiya","latitude":44.47481,"longitude":34.14437}}(window,'GeoPostal','UA');

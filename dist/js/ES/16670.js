@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16670"]={"code":"16670","region":"Castilla-La Mancha","city":"El Provencio","latitude":39.3774,"longitude":-2.57448}}(window,'GeoPostal','ES');

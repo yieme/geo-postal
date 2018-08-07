@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24246"]={"code":"24246","region":"Virginia","city":"East Stone Gap","latitude":36.847887,"longitude":-82.757461}}(window,'GeoPostal','US');

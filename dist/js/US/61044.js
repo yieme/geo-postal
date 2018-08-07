@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61044"]={"code":"61044","region":"IL","city":"Kent","latitude":42.3155,"longitude":-89.9195}}(window,'GeoPostal','US');

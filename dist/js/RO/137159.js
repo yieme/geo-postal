@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137159"]={"code":"137159","region":"Dambovita","city":"Cornesti","latitude":44.78333,"longitude":25.86667}}(window,'GeoPostal','RO');

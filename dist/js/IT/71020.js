@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71020"]={"code":"71020","region":"Puglia","city":"Anzano di Puglia","latitude":41.12252,"longitude":15.28445}}(window,'GeoPostal','IT');

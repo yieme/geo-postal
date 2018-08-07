@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10120"]={"code":"10120","region":"Extremadura","city":"Logrosan","latitude":39.33641,"longitude":-5.49281}}(window,'GeoPostal','ES');

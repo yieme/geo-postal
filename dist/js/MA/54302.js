@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54302"]={"code":"54302","region":"Meknes-Tafilalet","city":"Kerrouchen","latitude":32.79639,"longitude":-5.3188}}(window,'GeoPostal','MA');

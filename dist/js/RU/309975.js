@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309975"]={"code":"309975","region":"Belgorodskaya oblast'","city":"Urazovo","latitude":50.0836,"longitude":38.0395}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7900"]={"code":"7900","region":"Targovishte","city":"Omurtag","latitude":43.1,"longitude":26.41667}}(window,'GeoPostal','BG');

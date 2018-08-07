@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353485"]={"code":"353485","region":"Krasnodarskiy kray","city":"Arkhipo-Osipovka","latitude":44.37194,"longitude":38.52972}}(window,'GeoPostal','RU');

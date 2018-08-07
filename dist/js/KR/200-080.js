@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["200-080"]={"code":"200-080","region":"Gangwon-do","city":"Syunsen","latitude":37.87472,"longitude":127.73417}}(window,'GeoPostal','KR');

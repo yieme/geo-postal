@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF40 2NA"]={"code":"CF40 2NA","region":"Wales","city":"Llwynypia","latitude":51.63333,"longitude":-3.45}}(window,'GeoPostal','GB');

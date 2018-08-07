@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02187"]={"code":"02187","region":"MA","city":"Milton Village","latitude":42.2668,"longitude":-71.0717}}(window,'GeoPostal','US');

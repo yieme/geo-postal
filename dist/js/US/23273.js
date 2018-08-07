@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23273"]={"code":"23273","region":"Virginia","city":"Henrico","latitude":37.58398,"longitude":-77.49394}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43731"]={"code":"43731","region":"OH","city":"Crooksville","latitude":39.7623,"longitude":-82.084}}(window,'GeoPostal','US');

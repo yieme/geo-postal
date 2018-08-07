@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48540"]={"code":"48540","region":"Jalisco","city":"Tecolotlan","latitude":20.21667,"longitude":-104.05}}(window,'GeoPostal','MX');

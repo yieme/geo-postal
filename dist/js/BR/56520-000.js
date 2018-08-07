@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56520-000"]={"code":"56520-000","region":"Pernambuco","city":"Buique","latitude":-8.62306,"longitude":-37.15583}}(window,'GeoPostal','BR');

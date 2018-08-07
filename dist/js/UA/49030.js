@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49030"]={"code":"49030","region":"Dnipropetrovska oblast","city":"Dnipro","latitude":48.45,"longitude":34.98333}}(window,'GeoPostal','UA');

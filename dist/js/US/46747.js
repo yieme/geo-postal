@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46747"]={"code":"46747","region":"IN","city":"Hudson","latitude":41.5328,"longitude":-85.0811}}(window,'GeoPostal','US');

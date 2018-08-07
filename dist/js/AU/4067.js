@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4067"]={"code":"4067","region":"Queensland","city":"Saint Lucia","latitude":-27.5,"longitude":153}}(window,'GeoPostal','AU');

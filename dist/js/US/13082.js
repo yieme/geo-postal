@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13082"]={"code":"13082","region":"NY","city":"Kirkville","latitude":43.0981,"longitude":-75.955}}(window,'GeoPostal','US');

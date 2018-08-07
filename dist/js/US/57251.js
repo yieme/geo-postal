@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57251"]={"code":"57251","region":"SD","city":"Marvin","latitude":45.2727,"longitude":-96.91}}(window,'GeoPostal','US');

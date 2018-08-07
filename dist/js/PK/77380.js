@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77380"]={"code":"77380","region":"Sindh","city":"Ratodero","latitude":27.80296,"longitude":68.28708}}(window,'GeoPostal','PK');

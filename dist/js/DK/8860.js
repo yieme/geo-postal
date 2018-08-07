@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8860"]={"code":"8860","region":"Midtjylland","city":"Ulstrup","latitude":56.38994,"longitude":9.79354}}(window,'GeoPostal','DK');

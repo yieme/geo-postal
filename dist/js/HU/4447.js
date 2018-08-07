@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4447"]={"code":"4447","region":"Szabolcs-Szatmar-Bereg","city":"Nagycserkesz","latitude":47.96667,"longitude":21.53333}}(window,'GeoPostal','HU');

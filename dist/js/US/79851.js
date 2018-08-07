@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79851"]={"code":"79851","region":"Texas","city":"Sierra Blanca","latitude":31.228946,"longitude":-105.187438}}(window,'GeoPostal','US');

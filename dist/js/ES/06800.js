@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06800"]={"code":"06800","region":"Extremadura","city":"Merida","latitude":38.91611,"longitude":-6.34366}}(window,'GeoPostal','ES');

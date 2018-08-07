@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53573"]={"code":"53573","region":"Wisconsin","city":"Muscoda","latitude":43.18499,"longitude":-90.44318}}(window,'GeoPostal','US');

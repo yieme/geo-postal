@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40011"]={"code":"40011","region":"Punjab","city":"Rajanpur","latitude":29.10351,"longitude":70.32504}}(window,'GeoPostal','PK');

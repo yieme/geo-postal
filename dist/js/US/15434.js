@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15434"]={"code":"15434","region":"PA","city":"Elco","latitude":40.0797,"longitude":-79.8758}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27350"]={"code":"27350","region":"Normandie","city":"Hauville","latitude":49.39645,"longitude":0.77232}}(window,'GeoPostal','FR');

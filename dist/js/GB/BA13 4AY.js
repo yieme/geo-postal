@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA13 4AY"]={"code":"BA13 4AY","region":"England","city":"Chapmanslade","latitude":51.22917,"longitude":-2.24889}}(window,'GeoPostal','GB');

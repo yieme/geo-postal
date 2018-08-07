@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T3Z 1A1"]={"code":"T3Z 1A1","region":"Alberta","city":"Bragg Creek","latitude":50.982148,"longitude":-114.517765}}(window,'GeoPostal','CA');

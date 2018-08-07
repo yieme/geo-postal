@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74055"]={"code":"74055","region":"Oklahoma","city":"Owasso","latitude":36.26954,"longitude":-95.85471}}(window,'GeoPostal','US');

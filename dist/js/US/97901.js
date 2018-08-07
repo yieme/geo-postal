@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97901"]={"code":"97901","region":"OR","city":"Adrian","latitude":43.6537,"longitude":-117.0602}}(window,'GeoPostal','US');

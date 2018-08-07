@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2648"]={"code":"2648","region":"Oppland","city":"Hundorp","latitude":61.55523,"longitude":9.94069}}(window,'GeoPostal','NO');

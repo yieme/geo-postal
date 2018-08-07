@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57428"]={"code":"57428","region":"South Dakota","city":"Bowdle","latitude":45.45167,"longitude":-99.65778}}(window,'GeoPostal','US');

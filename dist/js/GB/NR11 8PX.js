@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR11 8PX"]={"code":"NR11 8PX","region":"England","city":"Aylmerton","latitude":52.91034,"longitude":1.24223}}(window,'GeoPostal','GB');

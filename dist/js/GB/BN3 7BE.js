@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN3 7BE"]={"code":"BN3 7BE","region":"England","city":"Shoreham","latitude":51.3334,"longitude":0.17801}}(window,'GeoPostal','GB');

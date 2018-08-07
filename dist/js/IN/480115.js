@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["480115"]={"code":"480115","region":"Madhya Pradesh","city":"Chhindwara","latitude":22.06667,"longitude":78.93333}}(window,'GeoPostal','IN');

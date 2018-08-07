@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20215"]={"code":"20215","region":"Corse","city":"Venzolasca","latitude":42.485,"longitude":9.4572}}(window,'GeoPostal','FR');

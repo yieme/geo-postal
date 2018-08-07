@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24178"]={"code":"24178","region":"VA","city":"Villamont","latitude":37.3105,"longitude":-79.7898}}(window,'GeoPostal','US');

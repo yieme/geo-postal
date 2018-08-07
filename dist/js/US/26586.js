@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26586"]={"code":"26586","region":"WV","city":"Montana Mines","latitude":39.5191,"longitude":-80.0897}}(window,'GeoPostal','US');

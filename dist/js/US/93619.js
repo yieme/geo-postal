@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93619"]={"code":"93619","region":"CA","city":"Clovis","latitude":36.8432,"longitude":-119.6518}}(window,'GeoPostal','US');

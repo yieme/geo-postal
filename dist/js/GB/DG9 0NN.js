@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 0NN"]={"code":"DG9 0NN","region":"Scotland","city":"Kirkcolm","latitude":54.97322,"longitude":-5.07969}}(window,'GeoPostal','GB');

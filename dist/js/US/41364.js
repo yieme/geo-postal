@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41364"]={"code":"41364","region":"Kentucky","city":"Ricetown","latitude":37.399157,"longitude":-83.606755}}(window,'GeoPostal','US');

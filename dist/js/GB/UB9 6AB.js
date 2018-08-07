@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["UB9 6AB"]={"code":"UB9 6AB","region":"England","city":"Harefield","latitude":51.6,"longitude":-0.48333}}(window,'GeoPostal','GB');

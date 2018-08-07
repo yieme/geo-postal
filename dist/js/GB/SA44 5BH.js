@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 5BH"]={"code":"SA44 5BH","region":"Wales","city":"Bangor Teifi","latitude":52.03901,"longitude":-4.36202}}(window,'GeoPostal','GB');

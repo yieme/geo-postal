@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04258"]={"code":"04258","region":"ME","city":"Minot","latitude":44.1461,"longitude":-70.3399}}(window,'GeoPostal','US');

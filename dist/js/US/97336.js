@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97336"]={"code":"97336","region":"OR","city":"Crawfordsville","latitude":44.3593,"longitude":-122.8508}}(window,'GeoPostal','US');

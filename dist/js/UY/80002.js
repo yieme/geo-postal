@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80002"]={"code":"80002","region":"San Jose","city":"Ecilda Paullier","latitude":-34.36667,"longitude":-57.06667}}(window,'GeoPostal','UY');

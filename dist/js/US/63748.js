@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63748"]={"code":"63748","region":"MO","city":"Frohna","latitude":37.6686,"longitude":-89.6619}}(window,'GeoPostal','US');

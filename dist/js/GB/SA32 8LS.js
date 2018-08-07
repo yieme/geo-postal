@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA32 8LS"]={"code":"SA32 8LS","region":"Wales","city":"Golden Grove","latitude":51.85877,"longitude":-4.04853}}(window,'GeoPostal','GB');

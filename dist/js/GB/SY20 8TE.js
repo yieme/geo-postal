@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY20 8TE"]={"code":"SY20 8TE","region":"Wales","city":"Eglwys-Fach","latitude":52.54298,"longitude":-3.936638}}(window,'GeoPostal','GB');

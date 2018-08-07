@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59230"]={"code":"59230","region":"Michoacan de Ocampo","city":"Tanhuato de Guerrero","latitude":20.28333,"longitude":-102.33333}}(window,'GeoPostal','MX');

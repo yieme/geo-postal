@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55030"]={"code":"55030","region":"Toscana","city":"Villa Collemandina","latitude":44.15855,"longitude":10.3976}}(window,'GeoPostal','IT');

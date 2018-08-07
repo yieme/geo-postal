@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["661 00"]={"code":"661 00","region":"Anatoliki Makedonia kai Thraki","city":"Drama","latitude":41.15444,"longitude":24.13944}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37278"]={"code":"37278","region":"Guanajuato","city":"Pueblo Nuevo","latitude":20.51667,"longitude":-101.36667}}(window,'GeoPostal','MX');

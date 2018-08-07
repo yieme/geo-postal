@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07004"]={"code":"07004","region":"Biskra","city":"Sidi Khaled","latitude":34.387,"longitude":4.98785}}(window,'GeoPostal','DZ');

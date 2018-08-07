@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70728"]={"code":"70728","region":"LA","city":"Duplessis","latitude":30.2954,"longitude":-90.9458}}(window,'GeoPostal','US');

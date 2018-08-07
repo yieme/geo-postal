@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62947"]={"code":"62947","region":"Illinois","city":"Herod","latitude":37.489436,"longitude":-88.47814}}(window,'GeoPostal','US');

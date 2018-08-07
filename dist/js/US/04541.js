@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04541"]={"code":"04541","region":"Maine","city":"Chamberlain","latitude":43.89122,"longitude":-69.49735}}(window,'GeoPostal','US');

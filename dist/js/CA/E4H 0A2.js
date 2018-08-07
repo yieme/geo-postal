@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4H 0A2"]={"code":"E4H 0A2","region":"New Brunswick","city":"Hillsborough","latitude":45.91985,"longitude":-64.65516}}(window,'GeoPostal','CA');

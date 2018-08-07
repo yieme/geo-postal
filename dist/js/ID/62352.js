@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62352"]={"code":"62352","region":"Jawa Timur","city":"Wadung","latitude":-6.8144,"longitude":111.9853}}(window,'GeoPostal','ID');

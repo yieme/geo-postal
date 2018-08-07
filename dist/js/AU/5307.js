@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5307"]={"code":"5307","region":"South Australia","city":"Yurgo","latitude":-35.18333,"longitude":140.05}}(window,'GeoPostal','AU');

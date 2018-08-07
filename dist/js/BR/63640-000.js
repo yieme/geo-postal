@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63640-000"]={"code":"63640-000","region":"Ceara","city":"Independencia","latitude":-5.39639,"longitude":-40.30861}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48005"]={"code":"48005","region":"Relizane","city":"Djidiouia","latitude":35.92989,"longitude":0.82871}}(window,'GeoPostal','DZ');

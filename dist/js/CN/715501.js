@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["715501"]={"code":"715501","region":"Shaanxi","city":"Dongchen","latitude":35.00086,"longitude":109.80682}}(window,'GeoPostal','CN');

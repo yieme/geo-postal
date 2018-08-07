@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85350"]={"code":"85350","region":"AZ","city":"Somerton","latitude":32.5634,"longitude":-114.7127}}(window,'GeoPostal','US');

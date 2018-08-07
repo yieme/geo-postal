@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3833"]={"code":"3833","region":"Telemark","city":"Bo","latitude":59.41299,"longitude":9.0693}}(window,'GeoPostal','NO');

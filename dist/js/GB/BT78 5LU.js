@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT78 5LU"]={"code":"BT78 5LU","region":"Northern Ireland","city":"Omagh","latitude":54.6,"longitude":-7.3}}(window,'GeoPostal','GB');

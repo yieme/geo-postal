@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72531"]={"code":"72531","region":"Baden-Wurttemberg","city":"Buttenhausen","latitude":48.3615,"longitude":9.47777}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A1Y 1A7"]={"code":"A1Y 1A7","region":"Newfoundland and Labrador","city":"Swansea","latitude":47.74989,"longitude":-53.26478}}(window,'GeoPostal','CA');

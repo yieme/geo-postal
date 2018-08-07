@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67487"]={"code":"67487","region":"KS","city":"Wakefield","latitude":39.2249,"longitude":-97.0229}}(window,'GeoPostal','US');

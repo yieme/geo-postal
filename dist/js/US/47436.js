@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47436"]={"code":"47436","region":"IN","city":"Heltonville","latitude":38.948,"longitude":-86.3703}}(window,'GeoPostal','US');

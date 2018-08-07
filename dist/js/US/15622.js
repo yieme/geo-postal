@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15622"]={"code":"15622","region":"Pennsylvania","city":"Champion","latitude":40.0425,"longitude":-79.3231}}(window,'GeoPostal','US');

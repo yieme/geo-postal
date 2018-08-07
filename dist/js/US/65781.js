@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65781"]={"code":"65781","region":"MO","city":"Willard","latitude":37.2962,"longitude":-93.4259}}(window,'GeoPostal','US');

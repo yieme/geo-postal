@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6405"]={"code":"6405","region":"Tirol","city":"Pfaffenhofen","latitude":47.3,"longitude":11.08333}}(window,'GeoPostal','AT');

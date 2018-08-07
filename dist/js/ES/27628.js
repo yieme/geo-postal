@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27628"]={"code":"27628","region":"Galicia","city":"Samos","latitude":42.731,"longitude":-7.32582}}(window,'GeoPostal','ES');

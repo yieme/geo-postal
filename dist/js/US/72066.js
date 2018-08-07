@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72066"]={"code":"72066","region":"AR","city":"Hickory Plains","latitude":34.9901,"longitude":-91.7368}}(window,'GeoPostal','US');

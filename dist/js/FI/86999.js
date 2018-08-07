@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86999"]={"code":"86999","region":"Pohjois-Pohjanmaa","city":"Oulainen","latitude":64.26667,"longitude":24.8}}(window,'GeoPostal','FI');

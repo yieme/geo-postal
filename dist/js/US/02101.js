@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02101"]={"code":"02101","region":"Massachusetts","city":"Fall River","latitude":42.3706,"longitude":-71.027}}(window,'GeoPostal','US');

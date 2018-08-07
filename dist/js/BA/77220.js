@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77220"]={"code":"77220","region":"Federacija Bosne i Hercegovine","city":"Cazin","latitude":44.96694,"longitude":15.94306}}(window,'GeoPostal','BA');

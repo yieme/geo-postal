@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03846"]={"code":"03846","region":"New Hampshire","city":"Jackson","latitude":44.184109,"longitude":-71.188739}}(window,'GeoPostal','US');

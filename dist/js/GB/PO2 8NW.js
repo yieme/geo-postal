@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO2 8NW"]={"code":"PO2 8NW","region":"England","city":"Stamshaw","latitude":50.8183,"longitude":-1.0855}}(window,'GeoPostal','GB');

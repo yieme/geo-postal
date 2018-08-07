@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56072"]={"code":"56072","region":"MN","city":"New Richland","latitude":43.8937,"longitude":-93.4995}}(window,'GeoPostal','US');

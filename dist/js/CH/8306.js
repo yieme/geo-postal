@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8306"]={"code":"8306","region":"Zurich","city":"Bruttisellen","latitude":47.42173,"longitude":8.63263}}(window,'GeoPostal','CH');

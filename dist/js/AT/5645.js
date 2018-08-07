@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5645"]={"code":"5645","region":"Salzburg","city":"Bad Gastein","latitude":47.11547,"longitude":13.13467}}(window,'GeoPostal','AT');

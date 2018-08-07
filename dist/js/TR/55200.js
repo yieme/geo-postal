@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55200"]={"code":"55200","region":"Samsun","city":"Samsun","latitude":41.28667,"longitude":36.33}}(window,'GeoPostal','TR');

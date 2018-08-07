@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["664 84"]={"code":"664 84","region":"Jihomoravsky kraj","city":"Zastavka","latitude":49.188,"longitude":16.3631}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV24 3DW"]={"code":"IV24 3DW","region":"Scotland","city":"Culrain","latitude":57.91851,"longitude":-4.40961}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48366"]={"code":"48366","region":"MI","city":"Lakeville","latitude":42.8214,"longitude":-83.1502}}(window,'GeoPostal','US');

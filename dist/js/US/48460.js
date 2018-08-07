@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48460"]={"code":"48460","region":"MI","city":"New Lothrop","latitude":43.1388,"longitude":-83.9851}}(window,'GeoPostal','US');

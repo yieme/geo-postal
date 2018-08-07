@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6517"]={"code":"6517","region":"More og Romsdal","city":"Kristiansund","latitude":63.11045,"longitude":7.72795}}(window,'GeoPostal','NO');

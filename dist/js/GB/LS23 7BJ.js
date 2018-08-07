@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS23 7BJ"]={"code":"LS23 7BJ","region":"England","city":"Wetherby","latitude":53.92836,"longitude":-1.38672}}(window,'GeoPostal','GB');

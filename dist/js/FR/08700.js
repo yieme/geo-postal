@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08700"]={"code":"08700","region":"Grand-Est","city":"Neufmanil","latitude":49.81096,"longitude":4.79673}}(window,'GeoPostal','FR');

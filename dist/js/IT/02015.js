@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02015"]={"code":"02015","region":"Lazio","city":"Cittaducale","latitude":42.38713,"longitude":12.95698}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59935"]={"code":"59935","region":"Montana","city":"Troy","latitude":48.46,"longitude":-115.89111}}(window,'GeoPostal','US');

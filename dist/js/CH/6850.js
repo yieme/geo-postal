@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6850"]={"code":"6850","region":"Ticino","city":"Mendrisio","latitude":45.86741,"longitude":8.9821}}(window,'GeoPostal','CH');

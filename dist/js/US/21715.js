@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21715"]={"code":"21715","region":"MD","city":"Brownsville","latitude":39.3869,"longitude":-77.658}}(window,'GeoPostal','US');

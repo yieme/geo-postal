@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4495"]={"code":"4495","region":"Szabolcs-Szatmar-Bereg","city":"Doge","latitude":48.26246,"longitude":22.06339}}(window,'GeoPostal','HU');

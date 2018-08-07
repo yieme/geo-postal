@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624013"]={"code":"624013","region":"Sverdlovskaya oblast'","city":"Dvurechensk","latitude":56.5982,"longitude":61.0953}}(window,'GeoPostal','RU');

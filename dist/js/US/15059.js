@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15059"]={"code":"15059","region":"PA","city":"Midland","latitude":40.6793,"longitude":-80.4908}}(window,'GeoPostal','US');

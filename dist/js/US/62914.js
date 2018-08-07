@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62914"]={"code":"62914","region":"Illinois","city":"Cairo","latitude":37.00533,"longitude":-89.17646}}(window,'GeoPostal','US');

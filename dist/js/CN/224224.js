@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["224224"]={"code":"224224","region":"Jiangsu","city":"Nanshenzao","latitude":32.78333,"longitude":120.53333}}(window,'GeoPostal','CN');

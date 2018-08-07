@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21397"]={"code":"21397","region":"Baja California","city":"Mexicali","latitude":32.65194,"longitude":-115.46833}}(window,'GeoPostal','MX');

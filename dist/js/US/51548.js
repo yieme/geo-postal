@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51548"]={"code":"51548","region":"Iowa","city":"Odebolt","latitude":41.302367,"longitude":-95.674082}}(window,'GeoPostal','US');

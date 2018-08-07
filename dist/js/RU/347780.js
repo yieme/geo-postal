@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347780"]={"code":"347780","region":"Rostovskaya oblast'","city":"Veselyy","latitude":47.09338,"longitude":40.7422}}(window,'GeoPostal','RU');

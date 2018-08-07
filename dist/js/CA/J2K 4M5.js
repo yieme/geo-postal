@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J2K 4M5"]={"code":"J2K 4M5","region":"Quebec","city":"East Farnham","latitude":45.235166,"longitude":-72.775775}}(window,'GeoPostal','CA');

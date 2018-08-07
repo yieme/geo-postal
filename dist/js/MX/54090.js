@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54090"]={"code":"54090","region":"Mexico","city":"San Pedro Techuchulco","latitude":19.11083,"longitude":-99.52778}}(window,'GeoPostal','MX');

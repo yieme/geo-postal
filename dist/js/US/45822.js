@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45822"]={"code":"45822","region":"Ohio","city":"Celina","latitude":40.54894,"longitude":-84.57023}}(window,'GeoPostal','US');

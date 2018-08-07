@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141832"]={"code":"141832","region":"Moskovskaya oblast'","city":"Kostrovo","latitude":55.89429,"longitude":36.69491}}(window,'GeoPostal','RU');

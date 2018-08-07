@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807055"]={"code":"807055","region":"Vaslui","city":"Brahasestii de Jos","latitude":46.03333,"longitude":27.36667}}(window,'GeoPostal','RO');

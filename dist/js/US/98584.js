@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98584"]={"code":"98584","region":"Washington","city":"Shelton","latitude":47.21509,"longitude":-123.10071}}(window,'GeoPostal','US');

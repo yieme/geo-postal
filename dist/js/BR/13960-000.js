@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13960-000"]={"code":"13960-000","region":"Sao Paulo","city":"Socorro","latitude":-22.59139,"longitude":-46.52889}}(window,'GeoPostal','BR');

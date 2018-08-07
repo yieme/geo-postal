@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 2AU"]={"code":"LN8 2AU","region":"England","city":"Spital in the Street","latitude":53.39826,"longitude":-0.54789}}(window,'GeoPostal','GB');

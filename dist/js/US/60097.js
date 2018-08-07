@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60097"]={"code":"60097","region":"Illinois","city":"Wonder Lake","latitude":42.3941,"longitude":-88.3563}}(window,'GeoPostal','US');

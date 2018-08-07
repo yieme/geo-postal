@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA3 9AY"]={"code":"CA3 9AY","region":"England","city":"Carlisle","latitude":54.8951,"longitude":-2.9382}}(window,'GeoPostal','GB');

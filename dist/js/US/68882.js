@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68882"]={"code":"68882","region":"Nebraska","city":"Wolbach","latitude":41.466317,"longitude":-98.386567}}(window,'GeoPostal','US');

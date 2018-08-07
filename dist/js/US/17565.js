@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17565"]={"code":"17565","region":"PA","city":"Pequea","latitude":39.9058,"longitude":-76.3209}}(window,'GeoPostal','US');

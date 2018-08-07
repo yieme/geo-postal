@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH25 5NY"]={"code":"BH25 5NY","region":"England","city":"New Milton","latitude":50.75601,"longitude":-1.6658}}(window,'GeoPostal','GB');

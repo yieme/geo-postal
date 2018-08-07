@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16750"]={"code":"16750","region":"Pennsylvania","city":"Turtlepoint","latitude":41.885066,"longitude":-78.328438}}(window,'GeoPostal','US');

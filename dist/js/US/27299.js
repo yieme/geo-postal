@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27299"]={"code":"27299","region":"NC","city":"Linwood","latitude":35.7562,"longitude":-80.3749}}(window,'GeoPostal','US');

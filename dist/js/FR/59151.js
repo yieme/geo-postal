@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59151"]={"code":"59151","region":"Hauts-de-France","city":"Arleux","latitude":50.28037,"longitude":3.10448}}(window,'GeoPostal','FR');

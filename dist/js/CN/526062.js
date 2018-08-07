@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["526062"]={"code":"526062","region":"Guangdong","city":"Zhaoqing","latitude":23.05116,"longitude":112.45972}}(window,'GeoPostal','CN');

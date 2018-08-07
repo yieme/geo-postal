@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7016"]={"code":"7016","region":"Bizerte","city":"Al 'Aliyah","latitude":37.1691,"longitude":10.03478}}(window,'GeoPostal','TN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM22 7RB"]={"code":"CM22 7RB","region":"England","city":"Little Hallingbury","latitude":51.83324,"longitude":0.18151}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6730"]={"code":"6730","region":"Luxembourg","city":"Tintigny","latitude":49.68326,"longitude":5.51349}}(window,'GeoPostal','BE');

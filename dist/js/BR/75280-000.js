@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75280-000"]={"code":"75280-000","region":"Goias","city":"Orizona","latitude":-17.03139,"longitude":-48.29583}}(window,'GeoPostal','BR');

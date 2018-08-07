@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98619"]={"code":"98619","region":"Washington","city":"Glenwood","latitude":46.010356,"longitude":-121.28709}}(window,'GeoPostal','US');

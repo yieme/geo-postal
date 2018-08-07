@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4600"]={"code":"4600","region":"Imereti","city":"Kutaisi","latitude":42.24961,"longitude":42.69974}}(window,'GeoPostal','GE');

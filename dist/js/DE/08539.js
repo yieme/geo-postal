@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08539"]={"code":"08539","region":"Sachsen","city":"Zeidelweide","latitude":50.55,"longitude":12.03333}}(window,'GeoPostal','DE');

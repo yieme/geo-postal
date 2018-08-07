@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25056"]={"code":"25056","region":"Lombardia","city":"Ponte di Legno","latitude":46.2586,"longitude":10.50866}}(window,'GeoPostal','IT');

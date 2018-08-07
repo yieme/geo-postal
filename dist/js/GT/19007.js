@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19007"]={"code":"19007","region":"Zacapa","city":"Cabanas","latitude":14.93333,"longitude":-89.8}}(window,'GeoPostal','GT');

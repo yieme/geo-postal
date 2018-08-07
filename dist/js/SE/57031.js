@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57031"]={"code":"57031","region":"Jonkopings lan","city":"Haljarp","latitude":57.63333,"longitude":15.45}}(window,'GeoPostal','SE');

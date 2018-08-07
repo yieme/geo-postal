@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4052"]={"code":"4052","region":"Oberosterreich","city":"Ansfelden","latitude":48.20969,"longitude":14.29004}}(window,'GeoPostal','AT');

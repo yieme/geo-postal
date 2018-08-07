@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58181"]={"code":"58181","region":"Punjab","city":"Jhang City","latitude":31.30677,"longitude":72.32814}}(window,'GeoPostal','PK');

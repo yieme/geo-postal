@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2034"]={"code":"2034","region":"Neuchatel","city":"Peseux","latitude":46.98704,"longitude":6.88903}}(window,'GeoPostal','CH');

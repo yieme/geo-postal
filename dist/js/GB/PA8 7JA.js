@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA8 7JA"]={"code":"PA8 7JA","region":"Scotland","city":"Erskine","latitude":55.9005,"longitude":-4.45028}}(window,'GeoPostal','GB');

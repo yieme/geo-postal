@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 3C0"]={"code":"J0K 3C0","region":"Quebec","city":"Saint-Norbert","latitude":46.16677,"longitude":-73.31585}}(window,'GeoPostal','CA');

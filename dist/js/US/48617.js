@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48617"]={"code":"48617","region":"Michigan","city":"Clare","latitude":43.81947,"longitude":-84.76863}}(window,'GeoPostal','US');

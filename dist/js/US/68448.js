@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68448"]={"code":"68448","region":"Nebraska","city":"Talmage","latitude":40.531244,"longitude":-96.023129}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72513"]={"code":"72513","region":"Arkansas","city":"Ash Flat","latitude":36.22396,"longitude":-91.60848}}(window,'GeoPostal','US');

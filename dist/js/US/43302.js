@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43302"]={"code":"43302","region":"Ohio","city":"Marion","latitude":40.585716,"longitude":-83.126331}}(window,'GeoPostal','US');

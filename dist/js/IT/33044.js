@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33044"]={"code":"33044","region":"Friuli-Venezia Giulia","city":"Manzano","latitude":45.99167,"longitude":13.38389}}(window,'GeoPostal','IT');

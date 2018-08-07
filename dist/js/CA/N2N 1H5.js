@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N2N 1H5"]={"code":"N2N 1H5","region":"Ontario","city":"Kitchener","latitude":43.42262,"longitude":-80.528051}}(window,'GeoPostal','CA');

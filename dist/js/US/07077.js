@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07077"]={"code":"07077","region":"NJ","city":"Sewaren","latitude":40.5542,"longitude":-74.2607}}(window,'GeoPostal','US');

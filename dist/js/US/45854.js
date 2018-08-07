@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45854"]={"code":"45854","region":"OH","city":"Lafayette","latitude":40.7582,"longitude":-83.9499}}(window,'GeoPostal','US');

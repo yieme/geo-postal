@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HA2 0YL"]={"code":"HA2 0YL","region":"England","city":"Northolt","latitude":51.54855,"longitude":-0.36778}}(window,'GeoPostal','GB');

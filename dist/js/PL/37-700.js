@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-700"]={"code":"37-700","region":"Podkarpackie","city":"Przemysl","latitude":49.78498,"longitude":22.76728}}(window,'GeoPostal','PL');

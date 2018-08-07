@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73090"]={"code":"73090","region":"Sindh","city":"Sanghar","latitude":26.04656,"longitude":68.9481}}(window,'GeoPostal','PK');

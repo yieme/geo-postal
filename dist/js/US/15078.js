@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15078"]={"code":"15078","region":"Pennsylvania","city":"Slovan","latitude":40.3607,"longitude":-80.4041}}(window,'GeoPostal','US');

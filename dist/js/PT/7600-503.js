@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7600-503"]={"code":"7600-503","region":"Beja","city":"Aljustrel","latitude":37.87759,"longitude":-8.16516}}(window,'GeoPostal','PT');

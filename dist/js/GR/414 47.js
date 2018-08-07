@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["414 47"]={"code":"414 47","region":"Thessalia","city":"Yiannouli","latitude":39.66667,"longitude":22.38333}}(window,'GeoPostal','GR');

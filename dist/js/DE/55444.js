@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55444"]={"code":"55444","region":"Rheinland-Pfalz","city":"Seibersbach","latitude":49.96667,"longitude":7.71667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU20 3XA"]={"code":"HU20 3XA","region":"England","city":"Little Weighton","latitude":53.79021,"longitude":-0.50679}}(window,'GeoPostal','GB');

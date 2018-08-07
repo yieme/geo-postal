@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78880"]={"code":"78880","region":"Texas","city":"Rocksprings","latitude":30.005018,"longitude":-100.311523}}(window,'GeoPostal','US');

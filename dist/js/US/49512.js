@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49512"]={"code":"49512","region":"Michigan","city":"Kentwood","latitude":42.88146,"longitude":-85.5354}}(window,'GeoPostal','US');

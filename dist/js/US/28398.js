@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28398"]={"code":"28398","region":"NC","city":"Warsaw","latitude":35.018,"longitude":-78.031}}(window,'GeoPostal','US');

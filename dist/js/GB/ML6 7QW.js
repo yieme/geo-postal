@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML6 7QW"]={"code":"ML6 7QW","region":"Scotland","city":"Caldercruix","latitude":55.88886,"longitude":-3.88664}}(window,'GeoPostal','GB');

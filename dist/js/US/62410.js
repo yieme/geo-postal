@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62410"]={"code":"62410","region":"Illinois","city":"Allendale","latitude":38.52861,"longitude":-87.70972}}(window,'GeoPostal','US');

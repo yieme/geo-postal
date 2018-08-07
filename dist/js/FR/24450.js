@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24450"]={"code":"24450","region":"Nouvelle-Aquitaine","city":"La Coquille","latitude":45.54202,"longitude":0.97675}}(window,'GeoPostal','FR');

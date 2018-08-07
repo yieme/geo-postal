@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91708"]={"code":"91708","region":"California","city":"Chino","latitude":34.01223,"longitude":-117.68894}}(window,'GeoPostal','US');

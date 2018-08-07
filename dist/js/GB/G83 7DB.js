@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G83 7DB"]={"code":"G83 7DB","region":"Scotland","city":"Tarbet","latitude":56.2,"longitude":-4.71667}}(window,'GeoPostal','GB');

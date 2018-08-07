@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9054-512"]={"code":"9054-512","region":"Regiao Autonoma dos Acores","city":"Angra do Heroismo","latitude":38.65,"longitude":-27.21667}}(window,'GeoPostal','PT');

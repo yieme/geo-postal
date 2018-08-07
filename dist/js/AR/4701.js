@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4701"]={"code":"4701","region":"Catamarca","city":"Ancasti","latitude":-28.81247,"longitude":-65.50145}}(window,'GeoPostal','AR');

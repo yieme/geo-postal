@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["943 54"]={"code":"943 54","region":"Nitriansky kraj","city":"Svodin","latitude":47.91054,"longitude":18.49967}}(window,'GeoPostal','SK');

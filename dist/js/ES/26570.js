@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26570"]={"code":"26570","region":"La Rioja","city":"Arnedo","latitude":42.21667,"longitude":-2.1}}(window,'GeoPostal','ES');

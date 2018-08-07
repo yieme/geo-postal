@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80580"]={"code":"80580","region":"Hauts-de-France","city":"Pont-Remy","latitude":50.05,"longitude":1.91667}}(window,'GeoPostal','FR');

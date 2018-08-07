@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65790-000"]={"code":"65790-000","region":"Maranhao","city":"Sao Domingos do Maranhao","latitude":-5.57583,"longitude":-44.38528}}(window,'GeoPostal','BR');

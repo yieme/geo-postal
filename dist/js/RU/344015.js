@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344015"]={"code":"344015","region":"Rostovskaya oblast'","city":"Rostov-na-Donu","latitude":47.23563,"longitude":39.71219}}(window,'GeoPostal','RU');

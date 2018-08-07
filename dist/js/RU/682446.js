@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682446"]={"code":"682446","region":"Khabarovskiy kray","city":"Lazarev","latitude":52.225,"longitude":141.51306}}(window,'GeoPostal','RU');

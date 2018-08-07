@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92164"]={"code":"92164","region":"Ile-de-France","city":"Antony","latitude":48.75,"longitude":2.3}}(window,'GeoPostal','FR');

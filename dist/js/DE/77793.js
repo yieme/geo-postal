@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77793"]={"code":"77793","region":"Baden-Wurttemberg","city":"Waldhauser","latitude":48.24828,"longitude":8.28386}}(window,'GeoPostal','DE');

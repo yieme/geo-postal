@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87830"]={"code":"87830","region":"New Mexico","city":"Reserve","latitude":33.71311,"longitude":-108.75784}}(window,'GeoPostal','US');

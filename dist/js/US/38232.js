@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38232"]={"code":"38232","region":"TN","city":"Hornbeak","latitude":36.3596,"longitude":-89.3056}}(window,'GeoPostal','US');

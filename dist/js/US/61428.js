@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61428"]={"code":"61428","region":"IL","city":"Dahinda","latitude":40.9551,"longitude":-90.1398}}(window,'GeoPostal','US');

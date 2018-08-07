@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02150"]={"code":"02150","region":"Massachusetts","city":"Chelsea","latitude":42.39176,"longitude":-71.03283}}(window,'GeoPostal','US');

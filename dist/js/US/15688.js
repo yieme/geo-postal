@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15688"]={"code":"15688","region":"PA","city":"Tarrs","latitude":40.1686,"longitude":-79.5848}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36322"]={"code":"36322","region":"Alabama","city":"Daleville","latitude":31.31017,"longitude":-85.71299}}(window,'GeoPostal','US');

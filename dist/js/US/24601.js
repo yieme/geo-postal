@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24601"]={"code":"24601","region":"VA","city":"Amonate","latitude":37.1909,"longitude":-81.6387}}(window,'GeoPostal','US');

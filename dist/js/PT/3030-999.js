@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3030-999"]={"code":"3030-999","region":"Coimbra","city":"Lousa","latitude":40.11673,"longitude":-8.24921}}(window,'GeoPostal','PT');

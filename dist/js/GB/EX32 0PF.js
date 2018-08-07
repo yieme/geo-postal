@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX32 0PF"]={"code":"EX32 0PF","region":"England","city":"Swimbridge","latitude":51.0528,"longitude":-3.97073}}(window,'GeoPostal','GB');

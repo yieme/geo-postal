@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54642"]={"code":"54642","region":"WI","city":"Melrose","latitude":44.1382,"longitude":-91.0445}}(window,'GeoPostal','US');

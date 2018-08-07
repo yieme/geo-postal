@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL25 0EX"]={"code":"LL25 0EX","region":"Wales","city":"Dolwyddelan","latitude":53.05393,"longitude":-3.88865}}(window,'GeoPostal','GB');

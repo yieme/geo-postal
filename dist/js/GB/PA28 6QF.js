@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA28 6QF"]={"code":"PA28 6QF","region":"Scotland","city":"Kilchenzie","latitude":55.46226,"longitude":-5.6795}}(window,'GeoPostal','GB');

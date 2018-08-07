@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73724"]={"code":"73724","region":"OK","city":"Canton","latitude":36.0372,"longitude":-98.5778}}(window,'GeoPostal','US');

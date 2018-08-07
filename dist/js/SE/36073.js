@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36073"]={"code":"36073","region":"Kronobergs lan","city":"Lenhovda","latitude":57,"longitude":15.28333}}(window,'GeoPostal','SE');

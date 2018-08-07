@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78619"]={"code":"78619","region":"Ile-de-France","city":"Le Perray-en-Yvelines","latitude":48.69441,"longitude":1.85643}}(window,'GeoPostal','FR');

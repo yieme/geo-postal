@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["241551"]={"code":"241551","region":"Bryanskaya oblast'","city":"Sel'tso","latitude":53.36831,"longitude":34.10328}}(window,'GeoPostal','RU');

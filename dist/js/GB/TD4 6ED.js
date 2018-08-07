@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD4 6ED"]={"code":"TD4 6ED","region":"Scotland","city":"Earlston","latitude":55.63856,"longitude":-2.67495}}(window,'GeoPostal','GB');

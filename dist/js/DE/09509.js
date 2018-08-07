@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09509"]={"code":"09509","region":"Sachsen","city":"Forchheim","latitude":50.72186,"longitude":13.27368}}(window,'GeoPostal','DE');

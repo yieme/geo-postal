@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02730"]={"code":"02730","region":"Sachsen","city":"Spreedorf","latitude":50.99372,"longitude":14.59125}}(window,'GeoPostal','DE');

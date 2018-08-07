@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51250"]={"code":"51250","region":"Iowa","city":"Sioux Center","latitude":43.07971,"longitude":-96.17558}}(window,'GeoPostal','US');

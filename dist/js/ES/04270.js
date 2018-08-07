@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04270"]={"code":"04270","region":"Andalucia","city":"Sorbas","latitude":37.09761,"longitude":-2.12349}}(window,'GeoPostal','ES');

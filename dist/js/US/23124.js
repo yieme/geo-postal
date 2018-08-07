@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23124"]={"code":"23124","region":"VA","city":"New Kent","latitude":37.553,"longitude":-77.0742}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11762"]={"code":"11762","region":"New York","city":"Massapequa Park","latitude":40.68038,"longitude":-73.45512}}(window,'GeoPostal','US');

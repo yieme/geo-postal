@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15320"]={"code":"15320","region":"Pennsylvania","city":"Carmichaels","latitude":39.87408,"longitude":-79.98288}}(window,'GeoPostal','US');

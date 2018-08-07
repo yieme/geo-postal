@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71100"]={"code":"71100","region":"Bourgogne-Franche-Comte","city":"Saint-Remy","latitude":46.76334,"longitude":4.83928}}(window,'GeoPostal','FR');

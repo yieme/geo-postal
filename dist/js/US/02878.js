@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02878"]={"code":"02878","region":"RI","city":"Tiverton","latitude":41.6338,"longitude":-71.1808}}(window,'GeoPostal','US');

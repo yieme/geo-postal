@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE28 5YN"]={"code":"PE28 5YN","region":"England","city":"Wood Walton","latitude":52.41226,"longitude":-0.21569}}(window,'GeoPostal','GB');

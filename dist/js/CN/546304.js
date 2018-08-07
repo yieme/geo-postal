@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["546304"]={"code":"546304","region":"Guangxi","city":"Yizhou","latitude":24.466667,"longitude":108.583333}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8398"]={"code":"8398","region":"Nordland","city":"Reine","latitude":67.93249,"longitude":13.08955}}(window,'GeoPostal','NO');

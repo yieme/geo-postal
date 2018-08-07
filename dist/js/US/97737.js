@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97737"]={"code":"97737","region":"OR","city":"Gilchrist","latitude":43.4771,"longitude":-121.6853}}(window,'GeoPostal','US');

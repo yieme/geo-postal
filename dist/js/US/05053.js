@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05053"]={"code":"05053","region":"Vermont","city":"North Pomfret","latitude":43.722778,"longitude":-72.480278}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16150"]={"code":"16150","region":"Nouvelle-Aquitaine","city":"Exideuil","latitude":45.88639,"longitude":0.67318}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16630"]={"code":"16630","region":"Pennsylvania","city":"Cresson","latitude":40.463522,"longitude":-78.586235}}(window,'GeoPostal','US');

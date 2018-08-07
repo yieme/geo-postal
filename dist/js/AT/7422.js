@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7422"]={"code":"7422","region":"Burgenland","city":"Riedlingsdorf","latitude":47.35,"longitude":16.13333}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28864"]={"code":"28864","region":"Chihuahua","city":"Creel","latitude":27.75,"longitude":-107.63333}}(window,'GeoPostal','MX');

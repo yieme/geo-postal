@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71711"]={"code":"71711","region":"Nordrhein-Westfalen","city":"Steinheim","latitude":51.87066,"longitude":9.09136}}(window,'GeoPostal','DE');

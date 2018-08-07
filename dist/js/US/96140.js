@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96140"]={"code":"96140","region":"CA","city":"Carnelian Bay","latitude":39.2319,"longitude":-120.0753}}(window,'GeoPostal','US');

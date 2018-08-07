@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29045"]={"code":"29045","region":"Coahuila de Zaragoza","city":"Nueva Rosita","latitude":27.95,"longitude":-101.21667}}(window,'GeoPostal','MX');

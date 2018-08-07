@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN25 6DH"]={"code":"TN25 6DH","region":"England","city":"Stanford","latitude":51.10228,"longitude":1.03984}}(window,'GeoPostal','GB');

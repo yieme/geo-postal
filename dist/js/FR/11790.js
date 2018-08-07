@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11790"]={"code":"11790","region":"Occitanie","city":"Narbonne","latitude":43.18333,"longitude":3}}(window,'GeoPostal','FR');

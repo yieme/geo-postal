@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77529"]={"code":"77529","region":"Ile-de-France","city":"Coulommiers","latitude":48.81451,"longitude":3.08498}}(window,'GeoPostal','FR');

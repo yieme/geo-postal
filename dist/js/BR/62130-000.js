@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62130-000"]={"code":"62130-000","region":"Ceara","city":"Sobral","latitude":-3.68611,"longitude":-40.34972}}(window,'GeoPostal','BR');

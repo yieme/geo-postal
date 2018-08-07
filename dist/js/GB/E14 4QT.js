@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E14 4QT"]={"code":"E14 4QT","region":"England","city":"Canary Wharf","latitude":51.50519,"longitude":-0.02085}}(window,'GeoPostal','GB');

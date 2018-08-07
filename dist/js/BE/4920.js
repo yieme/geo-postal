@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4920"]={"code":"4920","region":"Liege","city":"Aywaille","latitude":50.47411,"longitude":5.67684}}(window,'GeoPostal','BE');

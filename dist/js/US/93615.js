@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93615"]={"code":"93615","region":"CA","city":"Cutler","latitude":36.5243,"longitude":-119.287}}(window,'GeoPostal','US');

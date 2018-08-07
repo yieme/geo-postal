@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14913"]={"code":"14913","region":"Brandenburg","city":"Niederseefeld","latitude":51.88612,"longitude":13.30026}}(window,'GeoPostal','DE');

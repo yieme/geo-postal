@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37711"]={"code":"37711","region":"Tennessee","city":"Bulls Gap","latitude":36.25917,"longitude":-83.07944}}(window,'GeoPostal','US');

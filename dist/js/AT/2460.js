@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2460"]={"code":"2460","region":"Niederosterreich","city":"Bruck an der Leitha","latitude":48.01667,"longitude":16.76667}}(window,'GeoPostal','AT');

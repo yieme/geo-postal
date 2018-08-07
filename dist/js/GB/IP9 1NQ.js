@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP9 1NQ"]={"code":"IP9 1NQ","region":"England","city":"Shotley","latitude":51.9695,"longitude":1.25047}}(window,'GeoPostal','GB');

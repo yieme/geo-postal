@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250 88"]={"code":"250 88","region":"Stredocesky kraj","city":"Celakovice","latitude":50.16038,"longitude":14.75005}}(window,'GeoPostal','CZ');

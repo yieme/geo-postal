@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07006"]={"code":"07006","region":"New Jersey","city":"Caldwell","latitude":40.85502,"longitude":-74.27784}}(window,'GeoPostal','US');

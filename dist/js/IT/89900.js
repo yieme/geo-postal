@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89900"]={"code":"89900","region":"Calabria","city":"Vibo Valentia","latitude":38.67428,"longitude":16.0951}}(window,'GeoPostal','IT');

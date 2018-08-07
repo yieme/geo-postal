@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84600"]={"code":"84600","region":"Provence-Alpes-Cote d'Azur","city":"Grillon","latitude":44.39152,"longitude":4.9304}}(window,'GeoPostal','FR');

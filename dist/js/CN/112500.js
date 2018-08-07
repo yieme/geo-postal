@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["112500"]={"code":"112500","region":"Liaoning","city":"Changtu","latitude":42.77884,"longitude":124.09545}}(window,'GeoPostal','CN');

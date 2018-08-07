@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["320 04"]={"code":"320 04","region":"Sterea Ellada","city":"Arachova","latitude":38.48333,"longitude":22.58333}}(window,'GeoPostal','GR');

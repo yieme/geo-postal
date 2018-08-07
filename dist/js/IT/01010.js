@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01010"]={"code":"01010","region":"Lazio","city":"Oriolo Romano","latitude":42.15812,"longitude":12.13797}}(window,'GeoPostal','IT');

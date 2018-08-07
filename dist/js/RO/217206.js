@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217206"]={"code":"217206","region":"Harghita","city":"Danesti","latitude":44.96667,"longitude":23.33333}}(window,'GeoPostal','RO');

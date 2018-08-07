@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56153"]={"code":"56153","region":"MN","city":"Leota","latitude":43.8404,"longitude":-96.0128}}(window,'GeoPostal','US');

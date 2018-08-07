@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52644"]={"code":"52644","region":"IA","city":"Mount Union","latitude":41.0374,"longitude":-91.4138}}(window,'GeoPostal','US');

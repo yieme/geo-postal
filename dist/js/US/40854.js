@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40854"]={"code":"40854","region":"KY","city":"Loyall","latitude":36.8481,"longitude":-83.353}}(window,'GeoPostal','US');

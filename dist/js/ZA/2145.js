@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2145"]={"code":"2145","region":"Gauteng","city":"Johannesburg","latitude":-26.20227,"longitude":28.04363}}(window,'GeoPostal','ZA');

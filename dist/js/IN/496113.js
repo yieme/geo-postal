@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["496113"]={"code":"496113","region":"Chhattisgarh","city":"Pathalgaon","latitude":22.56667,"longitude":83.46667}}(window,'GeoPostal','IN');

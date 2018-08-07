@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57163"]={"code":"57163","region":"Jawa Tengah","city":"Kartasura","latitude":-7.55194,"longitude":110.73778}}(window,'GeoPostal','ID');

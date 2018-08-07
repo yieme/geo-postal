@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU13 0SF"]={"code":"HU13 0SF","region":"England","city":"Hessle","latitude":53.72454,"longitude":-0.43842}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45131"]={"code":"45131","region":"OH","city":"Higginsport","latitude":38.7903,"longitude":-83.9666}}(window,'GeoPostal','US');

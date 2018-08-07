@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22810"]={"code":"22810","region":"Bretagne","city":"Belle-Isle-en-Terre","latitude":48.54478,"longitude":-3.395}}(window,'GeoPostal','FR');

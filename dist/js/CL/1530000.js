@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1530000"]={"code":"1530000","region":"Atacama","city":"Copiapo","latitude":-27.36667,"longitude":-70.33333}}(window,'GeoPostal','CL');

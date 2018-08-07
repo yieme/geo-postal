@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH22 1EW"]={"code":"EH22 1EW","region":"Scotland","city":"Dalkeith","latitude":55.89341,"longitude":-3.06381}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55120"]={"code":"55120","region":"Grand-Est","city":"Clermont-en-Argonne","latitude":49.10711,"longitude":5.07002}}(window,'GeoPostal','FR');

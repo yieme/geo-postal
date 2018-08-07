@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR6 0JT"]={"code":"TR6 0JT","region":"England","city":"Perranporth","latitude":50.34377,"longitude":-5.15558}}(window,'GeoPostal','GB');

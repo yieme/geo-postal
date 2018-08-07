@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63670"]={"code":"63670","region":"Auvergne-Rhone-Alpes","city":"Orcet","latitude":45.70351,"longitude":3.16807}}(window,'GeoPostal','FR');

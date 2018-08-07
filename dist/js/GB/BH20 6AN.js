@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH20 6AN"]={"code":"BH20 6AN","region":"England","city":"East Stoke","latitude":50.68333,"longitude":-2.18333}}(window,'GeoPostal','GB');

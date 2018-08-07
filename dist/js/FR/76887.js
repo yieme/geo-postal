@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76887"]={"code":"76887","region":"Normandie","city":"Dieppe","latitude":49.93333,"longitude":1.08333}}(window,'GeoPostal','FR');

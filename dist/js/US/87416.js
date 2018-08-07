@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87416"]={"code":"87416","region":"NM","city":"Fruitland","latitude":36.6933,"longitude":-108.4218}}(window,'GeoPostal','US');

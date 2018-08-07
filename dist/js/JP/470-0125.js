@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["470-0125"]={"code":"470-0125","region":"Aichi","city":"Nisshin","latitude":35.12889,"longitude":137.0425}}(window,'GeoPostal','JP');

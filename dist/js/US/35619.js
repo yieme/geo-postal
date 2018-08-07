@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35619"]={"code":"35619","region":"AL","city":"Danville","latitude":34.3873,"longitude":-87.1454}}(window,'GeoPostal','US');

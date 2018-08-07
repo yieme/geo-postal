@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68211"]={"code":"68211","region":"Jawa Timur","city":"Bondowoso","latitude":-7.91346,"longitude":113.82145}}(window,'GeoPostal','ID');

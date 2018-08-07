@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV13 2JY"]={"code":"WV13 2JY","region":"England","city":"Willenhall","latitude":52.6,"longitude":-2.03333}}(window,'GeoPostal','GB');

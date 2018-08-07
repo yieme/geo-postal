@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207506"]={"code":"207506","region":"Dolj","city":"Sadova","latitude":43.9,"longitude":23.95}}(window,'GeoPostal','RO');

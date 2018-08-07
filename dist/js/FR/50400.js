@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50400"]={"code":"50400","region":"Normandie","city":"Saint-Planchers","latitude":48.82269,"longitude":-1.52598}}(window,'GeoPostal','FR');

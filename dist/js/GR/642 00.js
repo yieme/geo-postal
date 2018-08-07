@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["642 00"]={"code":"642 00","region":"Anatoliki Makedonia kai Thraki","city":"Chrysoupolis","latitude":40.98556,"longitude":24.69389}}(window,'GeoPostal','GR');

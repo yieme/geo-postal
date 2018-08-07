@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD6 9AH"]={"code":"TD6 9AH","region":"Scotland","city":"Darnick","latitude":55.60027,"longitude":-2.74444}}(window,'GeoPostal','GB');

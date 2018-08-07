@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94553"]={"code":"94553","region":"Bayern","city":"Loham","latitude":48.84193,"longitude":12.79996}}(window,'GeoPostal','DE');

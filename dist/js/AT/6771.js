@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6771"]={"code":"6771","region":"Vorarlberg","city":"Sankt Anton im Montafon","latitude":47.11667,"longitude":9.86667}}(window,'GeoPostal','AT');

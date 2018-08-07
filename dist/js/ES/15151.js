@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15151"]={"code":"15151","region":"Galicia","city":"Dumbria","latitude":43.00836,"longitude":-9.11328}}(window,'GeoPostal','ES');

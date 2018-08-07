@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42000"]={"code":"42000","region":"Varazdinska zupanija","city":"Varazdin","latitude":46.30444,"longitude":16.33778}}(window,'GeoPostal','HR');

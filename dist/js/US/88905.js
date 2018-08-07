@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88905"]={"code":"88905","region":"NV","city":"The Lakes","latitude":35.9279,"longitude":-114.9721}}(window,'GeoPostal','US');

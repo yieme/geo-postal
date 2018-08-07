@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141230"]={"code":"141230","region":"Moskovskaya oblast'","city":"Mamontovka","latitude":55.98083,"longitude":37.81972}}(window,'GeoPostal','RU');

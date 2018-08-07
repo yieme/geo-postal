@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99147"]={"code":"99147","region":"WA","city":"Lincoln","latitude":47.8396,"longitude":-118.4426}}(window,'GeoPostal','US');

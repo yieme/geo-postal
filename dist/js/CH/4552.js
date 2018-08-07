@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4552"]={"code":"4552","region":"Solothurn","city":"Derendingen","latitude":47.1985,"longitude":7.58844}}(window,'GeoPostal','CH');

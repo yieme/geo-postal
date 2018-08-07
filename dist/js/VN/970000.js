@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["970000"]={"code":"970000","region":"Ca Mau","city":"Ca Mau","latitude":9.17694,"longitude":105.15}}(window,'GeoPostal','VN');

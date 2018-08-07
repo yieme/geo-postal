@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47581"]={"code":"47581","region":"Indiana","city":"Shoals","latitude":38.66644,"longitude":-86.79111}}(window,'GeoPostal','US');

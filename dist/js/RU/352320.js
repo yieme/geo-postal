@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352320"]={"code":"352320","region":"Krasnodarskiy kray","city":"Ladozhskaya","latitude":45.30902,"longitude":39.93803}}(window,'GeoPostal','RU');

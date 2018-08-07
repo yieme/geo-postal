@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400-0858"]={"code":"400-0858","region":"Yamanashi","city":"Kofu","latitude":35.667,"longitude":138.567}}(window,'GeoPostal','JP');

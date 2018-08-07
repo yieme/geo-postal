@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY13 2JA"]={"code":"SY13 2JA","region":"England","city":"Higher heath","latitude":52.91946,"longitude":-2.64633}}(window,'GeoPostal','GB');

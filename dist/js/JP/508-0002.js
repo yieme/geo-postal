@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["508-0002"]={"code":"508-0002","region":"Gifu","city":"Nakatsugawa","latitude":35.483,"longitude":137.5}}(window,'GeoPostal','JP');

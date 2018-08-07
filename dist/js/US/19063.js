@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19063"]={"code":"19063","region":"Pennsylvania","city":"Media","latitude":39.91944,"longitude":-75.42048}}(window,'GeoPostal','US');

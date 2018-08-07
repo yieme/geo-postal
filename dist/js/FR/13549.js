@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13549"]={"code":"13549","region":"Provence-Alpes-Cote d'Azur","city":"Gardanne","latitude":43.45491,"longitude":5.46913}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35979"]={"code":"35979","region":"Alabama","city":"Higdon","latitude":34.84556,"longitude":-85.61639}}(window,'GeoPostal','US');

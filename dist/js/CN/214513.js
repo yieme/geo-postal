@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["214513"]={"code":"214513","region":"Jiangsu","city":"Xieqiao","latitude":32.06169,"longitude":120.38363}}(window,'GeoPostal','CN');

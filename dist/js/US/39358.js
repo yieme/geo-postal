@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39358"]={"code":"39358","region":"Mississippi","city":"Scooba","latitude":32.840501,"longitude":-88.516357}}(window,'GeoPostal','US');

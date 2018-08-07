@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67753"]={"code":"67753","region":"Kansas","city":"Rexford","latitude":39.47056,"longitude":-100.74389}}(window,'GeoPostal','US');

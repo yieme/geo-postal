@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32000-000"]={"code":"32000-000","region":"Minas Gerais","city":"Contagem","latitude":-19.93167,"longitude":-44.05361}}(window,'GeoPostal','BR');

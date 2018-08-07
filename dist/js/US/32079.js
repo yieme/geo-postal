@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32079"]={"code":"32079","region":"FL","city":"Penney Farms","latitude":29.9849,"longitude":-81.8022}}(window,'GeoPostal','US');

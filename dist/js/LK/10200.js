@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10200"]={"code":"10200","region":"Western Province","city":"Homagama","latitude":6.844,"longitude":80.0024}}(window,'GeoPostal','LK');

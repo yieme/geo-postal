@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54429"]={"code":"54429","region":"Rheinland-Pfalz","city":"Heddert","latitude":49.65,"longitude":6.75}}(window,'GeoPostal','DE');

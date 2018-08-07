@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62058"]={"code":"62058","region":"IL","city":"Livingston","latitude":38.969,"longitude":-89.7668}}(window,'GeoPostal','US');

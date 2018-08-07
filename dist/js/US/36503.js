@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36503"]={"code":"36503","region":"AL","city":"Atmore","latitude":31.0238,"longitude":-87.4939}}(window,'GeoPostal','US');

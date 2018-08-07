@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["535300"]={"code":"535300","region":"Harghita","city":"Borsec","latitude":46.95,"longitude":25.56667}}(window,'GeoPostal','RO');

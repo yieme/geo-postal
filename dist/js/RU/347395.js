@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347395"]={"code":"347395","region":"Rostovskaya oblast'","city":"Krasnoyarskaya","latitude":47.4955,"longitude":42.1856}}(window,'GeoPostal','RU');

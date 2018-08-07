@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66872"]={"code":"66872","region":"KS","city":"White City","latitude":38.789,"longitude":-96.7637}}(window,'GeoPostal','US');

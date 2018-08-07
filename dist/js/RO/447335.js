@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447335"]={"code":"447335","region":"Satu Mare","city":"Turulung","latitude":47.93333,"longitude":23.08333}}(window,'GeoPostal','RO');

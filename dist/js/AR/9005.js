@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9005"]={"code":"9005","region":"Chubut","city":"Comodoro Rivadavia","latitude":-45.86667,"longitude":-67.5}}(window,'GeoPostal','AR');

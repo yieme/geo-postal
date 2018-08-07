@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99766"]={"code":"99766","region":"Alaska","city":"Point Hope","latitude":68.34694,"longitude":-166.76306}}(window,'GeoPostal','US');

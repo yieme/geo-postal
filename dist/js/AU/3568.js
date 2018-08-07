@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3568"]={"code":"3568","region":"Victoria","city":"Cohuna","latitude":-35.80697,"longitude":144.21886}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333301"]={"code":"333301","region":"Jiangxi","city":"Taqian","latitude":29.0625,"longitude":117.08278}}(window,'GeoPostal','CN');

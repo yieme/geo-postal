@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12420"]={"code":"12420","region":"NY","city":"Cragsmoor","latitude":41.6698,"longitude":-74.3801}}(window,'GeoPostal','US');

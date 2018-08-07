@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22110"]={"code":"22110","region":"Chanthaburi","city":"Khlung","latitude":12.45467,"longitude":102.22142}}(window,'GeoPostal','TH');

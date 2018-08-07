@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15679"]={"code":"15679","region":"PA","city":"Ruffs Dale","latitude":40.1585,"longitude":-79.6277}}(window,'GeoPostal','US');

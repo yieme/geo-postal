@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1412"]={"code":"1412","region":"Noord-Holland","city":"Naarden","latitude":52.29583,"longitude":5.1625}}(window,'GeoPostal','NL');

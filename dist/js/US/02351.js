@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02351"]={"code":"02351","region":"MA","city":"Abington","latitude":42.1167,"longitude":-70.9543}}(window,'GeoPostal','US');

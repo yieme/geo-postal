@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5830"]={"code":"5830","region":"Bekes","city":"Battonya","latitude":46.28333,"longitude":21.01667}}(window,'GeoPostal','HU');

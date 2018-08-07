@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363731"]={"code":"363731","region":"Severnaya Osetiya, Respublika","city":"Pavlodol'skaya","latitude":43.71922,"longitude":44.47815}}(window,'GeoPostal','RU');

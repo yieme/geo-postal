@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188410"]={"code":"188410","region":"Leningradskaya oblast'","city":"Volosovo","latitude":59.43333,"longitude":29.48333}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22824"]={"code":"22824","region":"Virginia","city":"Edinburg","latitude":38.815585,"longitude":-78.572056}}(window,'GeoPostal','US');

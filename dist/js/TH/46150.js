@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46150"]={"code":"46150","region":"Kalasin","city":"Somdet","latitude":16.70462,"longitude":103.74934}}(window,'GeoPostal','TH');

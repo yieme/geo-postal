@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["192126"]={"code":"192126","region":"Jammu and Kashmir","city":"Pahalgam","latitude":34.03333,"longitude":75.33333}}(window,'GeoPostal','IN');

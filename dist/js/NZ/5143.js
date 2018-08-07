@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5143"]={"code":"5143","region":"Wellington","city":"Upper Hutt","latitude":-41.13827,"longitude":175.0502}}(window,'GeoPostal','NZ');

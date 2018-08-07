@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB33 8DX"]={"code":"AB33 8DX","region":"Scotland","city":"Tillyfour","latitude":57.16667,"longitude":-2.66667}}(window,'GeoPostal','GB');

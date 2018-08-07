@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["723900"]={"code":"723900","region":"Talas","city":"Kyzyl-Adyr","latitude":42.62087,"longitude":71.58882}}(window,'GeoPostal','KG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52571"]={"code":"52571","region":"Iowa","city":"Moravia","latitude":40.88562,"longitude":-92.86062}}(window,'GeoPostal','US');

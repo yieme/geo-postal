@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17349"]={"code":"17349","region":"Pennsylvania","city":"New Freedom","latitude":39.740692,"longitude":-76.683501}}(window,'GeoPostal','US');

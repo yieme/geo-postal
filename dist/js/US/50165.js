@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50165"]={"code":"50165","region":"IA","city":"Millerton","latitude":40.8494,"longitude":-93.3055}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA18 2AE"]={"code":"SA18 2AE","region":"Wales","city":"Glanamman","latitude":51.8,"longitude":-3.93333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53001"]={"code":"53001","region":"WI","city":"Adell","latitude":43.6151,"longitude":-88.0254}}(window,'GeoPostal','US');

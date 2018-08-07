@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["927150"]={"code":"927150","region":"Ialomita","city":"Ion Roata","latitude":44.66667,"longitude":26.76667}}(window,'GeoPostal','RO');

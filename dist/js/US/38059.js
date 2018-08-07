@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38059"]={"code":"38059","region":"TN","city":"Newbern","latitude":36.1009,"longitude":-89.2514}}(window,'GeoPostal','US');

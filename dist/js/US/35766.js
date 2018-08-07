@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35766"]={"code":"35766","region":"AL","city":"Princeton","latitude":34.8713,"longitude":-86.2513}}(window,'GeoPostal','US');

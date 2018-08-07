@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94474"]={"code":"94474","region":"Bayern","city":"Waizenbach","latitude":48.6264,"longitude":13.16624}}(window,'GeoPostal','DE');

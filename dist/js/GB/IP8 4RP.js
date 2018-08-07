@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP8 4RP"]={"code":"IP8 4RP","region":"England","city":"Offton","latitude":52.10629,"longitude":1.01473}}(window,'GeoPostal','GB');

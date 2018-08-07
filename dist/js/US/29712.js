@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29712"]={"code":"29712","region":"SC","city":"Edgemoor","latitude":34.797,"longitude":-80.9891}}(window,'GeoPostal','US');

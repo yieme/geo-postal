@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43141"]={"code":"43141","region":"Jawa Barat","city":"Sukabumi","latitude":-6.91806,"longitude":106.92667}}(window,'GeoPostal','ID');

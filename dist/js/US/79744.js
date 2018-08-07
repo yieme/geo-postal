@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79744"]={"code":"79744","region":"Texas","city":"Iraan","latitude":30.91405,"longitude":-101.89791}}(window,'GeoPostal','US');

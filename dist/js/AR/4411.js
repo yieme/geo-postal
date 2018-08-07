@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4411"]={"code":"4411","region":"Salta","city":"San Antonio de los Cobres","latitude":-24.21804,"longitude":-66.31877}}(window,'GeoPostal','AR');

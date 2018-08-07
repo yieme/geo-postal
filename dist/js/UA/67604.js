@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67604"]={"code":"67604","region":"Odeska oblast","city":"Bilyayivka","latitude":46.48319,"longitude":30.21678}}(window,'GeoPostal','UA');

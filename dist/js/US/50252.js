@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50252"]={"code":"50252","region":"IA","city":"Swan","latitude":41.4636,"longitude":-93.301}}(window,'GeoPostal','US');

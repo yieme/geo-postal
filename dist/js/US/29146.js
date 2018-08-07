@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29146"]={"code":"29146","region":"SC","city":"Springfield","latitude":33.5343,"longitude":-81.2499}}(window,'GeoPostal','US');

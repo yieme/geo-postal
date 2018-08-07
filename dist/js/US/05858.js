@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05858"]={"code":"05858","region":"VT","city":"North Concord","latitude":44.5501,"longitude":-71.7867}}(window,'GeoPostal','US');

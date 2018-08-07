@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53014"]={"code":"53014","region":"Wisconsin","city":"Chilton","latitude":44.030995,"longitude":-88.190951}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70190"]={"code":"70190","region":"Bourgogne-Franche-Comte","city":"Grandvelle-et-le-Perrenot","latitude":47.5097,"longitude":5.9961}}(window,'GeoPostal','FR');

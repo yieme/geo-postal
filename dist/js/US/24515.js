@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24515"]={"code":"24515","region":"VA","city":"Lynchburg","latitude":37.4009,"longitude":-79.1785}}(window,'GeoPostal','US');

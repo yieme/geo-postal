@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA27 8DD"]={"code":"PA27 8DD","region":"Scotland","city":"Strachur","latitude":56.16668,"longitude":-5.08165}}(window,'GeoPostal','GB');

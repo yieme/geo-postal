@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76311"]={"code":"76311","region":"TX","city":"Sheppard Afb","latitude":33.9824,"longitude":-98.5088}}(window,'GeoPostal','US');

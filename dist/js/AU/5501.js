@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5501"]={"code":"5501","region":"South Australia","city":"Dublin","latitude":-34.45,"longitude":138.35}}(window,'GeoPostal','AU');

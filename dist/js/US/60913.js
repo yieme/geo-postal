@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60913"]={"code":"60913","region":"IL","city":"Bonfield","latitude":41.1573,"longitude":-88.0619}}(window,'GeoPostal','US');

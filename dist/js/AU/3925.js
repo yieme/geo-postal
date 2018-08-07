@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3925"]={"code":"3925","region":"Victoria","city":"San Remo","latitude":-38.52118,"longitude":145.37344}}(window,'GeoPostal','AU');

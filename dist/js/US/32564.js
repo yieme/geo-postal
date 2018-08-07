@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32564"]={"code":"32564","region":"FL","city":"Holt","latitude":30.7416,"longitude":-86.7198}}(window,'GeoPostal','US');

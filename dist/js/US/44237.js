@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44237"]={"code":"44237","region":"OH","city":"Hudson","latitude":41.1287,"longitude":-81.54}}(window,'GeoPostal','US');

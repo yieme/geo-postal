@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10420"]={"code":"10420","region":"Keski-Suomi","city":"Pohja","latitude":63.39399,"longitude":26.02412}}(window,'GeoPostal','FI');

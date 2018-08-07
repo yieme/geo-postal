@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46894"]={"code":"46894","region":"Valenciana, Comunidad","city":"Genoves","latitude":38.98915,"longitude":-0.46992}}(window,'GeoPostal','ES');

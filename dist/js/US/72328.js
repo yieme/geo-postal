@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72328"]={"code":"72328","region":"AR","city":"Crumrod","latitude":34.1335,"longitude":-90.9751}}(window,'GeoPostal','US');

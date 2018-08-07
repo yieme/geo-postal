@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83727"]={"code":"83727","region":"Bayern","city":"Kalkgraben","latitude":47.74368,"longitude":11.85509}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2262"]={"code":"2262","region":"New South Wales","city":"Gosford","latitude":-33.4244,"longitude":151.34399}}(window,'GeoPostal','AU');

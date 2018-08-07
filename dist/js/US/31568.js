@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31568"]={"code":"31568","region":"GA","city":"White Oak","latitude":30.9952,"longitude":-81.7782}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["216537"]={"code":"216537","region":"Smolenskaya oblast'","city":"Oster","latitude":54.017,"longitude":32.8019}}(window,'GeoPostal','RU');

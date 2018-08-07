@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94436"]={"code":"94436","region":"Bayern","city":"Simbach","latitude":48.56606,"longitude":12.73888}}(window,'GeoPostal','DE');

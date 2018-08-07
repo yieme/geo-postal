@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-335"]={"code":"34-335","region":"Slaskie","city":"Pewel Wielka","latitude":49.67457,"longitude":19.37482}}(window,'GeoPostal','PL');

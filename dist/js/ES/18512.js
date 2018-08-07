@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18512"]={"code":"18512","region":"Andalucia","city":"Hueneja","latitude":37.1766,"longitude":-2.95024}}(window,'GeoPostal','ES');

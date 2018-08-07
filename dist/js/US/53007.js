@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53007"]={"code":"53007","region":"Wisconsin","city":"Butler","latitude":43.10584,"longitude":-88.06953}}(window,'GeoPostal','US');

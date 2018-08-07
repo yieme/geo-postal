@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12084"]={"code":"12084","region":"New York","city":"Guilderland","latitude":42.70139,"longitude":-73.92528}}(window,'GeoPostal','US');

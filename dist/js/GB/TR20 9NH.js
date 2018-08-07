@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR20 9NH"]={"code":"TR20 9NH","region":"England","city":"Perranuthnoe","latitude":50.11469,"longitude":-5.44493}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29048"]={"code":"29048","region":"SC","city":"Eutawville","latitude":33.3922,"longitude":-80.32}}(window,'GeoPostal','US');

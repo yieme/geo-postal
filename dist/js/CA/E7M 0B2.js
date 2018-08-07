@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E7M 0B2"]={"code":"E7M 0B2","region":"New Brunswick","city":"Woodstock","latitude":46.15796,"longitude":-67.58377}}(window,'GeoPostal','CA');

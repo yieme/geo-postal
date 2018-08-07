@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58638"]={"code":"58638","region":"Nordrhein-Westfalen","city":"Iserlohn","latitude":51.37547,"longitude":7.70281}}(window,'GeoPostal','DE');

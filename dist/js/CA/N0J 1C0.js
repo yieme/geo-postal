@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0J 1C0"]={"code":"N0J 1C0","region":"Ontario","city":"Norwich","latitude":43.023411,"longitude":-80.65338}}(window,'GeoPostal','CA');

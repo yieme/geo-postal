@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79517"]={"code":"79517","region":"Texas","city":"Fluvanna","latitude":32.88556,"longitude":-101.14861}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["856-0048"]={"code":"856-0048","region":"Nagasaki","city":"Omura","latitude":32.9,"longitude":129.95833}}(window,'GeoPostal','JP');

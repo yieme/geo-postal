@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["791113"]={"code":"791113","region":"Goa","city":"Itanagar","latitude":27.1,"longitude":93.61667}}(window,'GeoPostal','IN');

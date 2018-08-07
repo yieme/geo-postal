@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11750-000"]={"code":"11750-000","region":"Sao Paulo","city":"Peruibe","latitude":-24.32,"longitude":-46.99833}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90050"]={"code":"90050","region":"Tanger-Tetouan","city":"Asilah","latitude":35.46502,"longitude":-6.0348}}(window,'GeoPostal','MA');

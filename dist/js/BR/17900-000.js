@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17900-000"]={"code":"17900-000","region":"Sao Paulo","city":"Dracena","latitude":-21.4825,"longitude":-51.532778}}(window,'GeoPostal','BR');

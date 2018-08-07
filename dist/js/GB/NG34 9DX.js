@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 9DX"]={"code":"NG34 9DX","region":"England","city":"Ruskington","latitude":53.04544,"longitude":-0.38692}}(window,'GeoPostal','GB');

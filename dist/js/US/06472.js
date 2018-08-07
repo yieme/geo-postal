@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06472"]={"code":"06472","region":"Connecticut","city":"Northford","latitude":41.392276,"longitude":-72.784067}}(window,'GeoPostal','US');

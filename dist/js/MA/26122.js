@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26122"]={"code":"26122","region":"Chaouia-Ouardigha","city":"Riah","latitude":33.15122,"longitude":-7.37504}}(window,'GeoPostal','MA');

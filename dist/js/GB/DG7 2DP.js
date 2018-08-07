@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG7 2DP"]={"code":"DG7 2DP","region":"Scotland","city":"Girthon","latitude":54.85,"longitude":-4.18333}}(window,'GeoPostal','GB');

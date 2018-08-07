@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36370"]={"code":"36370","region":"Centre-Val de Loire","city":"Belabre","latitude":46.5512,"longitude":1.15791}}(window,'GeoPostal','FR');

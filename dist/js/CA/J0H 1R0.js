@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0H 1R0"]={"code":"J0H 1R0","region":"Quebec","city":"Saint-Liboire","latitude":45.65007,"longitude":-72.76583}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49232"]={"code":"49232","region":"Krapinsko-zagorska zupanija","city":"Radoboj","latitude":46.16639,"longitude":15.92361}}(window,'GeoPostal','HR');

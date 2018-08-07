@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12051"]={"code":"12051","region":"Piemonte","city":"Alba","latitude":44.6999,"longitude":8.0347}}(window,'GeoPostal','IT');

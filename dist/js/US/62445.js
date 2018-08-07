@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62445"]={"code":"62445","region":"IL","city":"Montrose","latitude":39.1573,"longitude":-88.335}}(window,'GeoPostal','US');

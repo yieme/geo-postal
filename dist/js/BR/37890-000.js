@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37890-000"]={"code":"37890-000","region":"Minas Gerais","city":"Muzambinho","latitude":-21.37583,"longitude":-46.52556}}(window,'GeoPostal','BR');

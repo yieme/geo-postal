@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6840"]={"code":"6840","region":"Vorarlberg","city":"Gotzis","latitude":47.33306,"longitude":9.63306}}(window,'GeoPostal','AT');

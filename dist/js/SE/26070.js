@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26070"]={"code":"26070","region":"Skane lan","city":"Ljungbyhed","latitude":56.06667,"longitude":13.21667}}(window,'GeoPostal','SE');

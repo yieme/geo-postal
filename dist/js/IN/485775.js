@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["485775"]={"code":"485775","region":"Madhya Pradesh","city":"Amarpatan","latitude":24.31667,"longitude":80.98333}}(window,'GeoPostal','IN');

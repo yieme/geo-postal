@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67420"]={"code":"67420","region":"Grand-Est","city":"Saint-Blaise-la-Roche","latitude":48.4047,"longitude":7.1625}}(window,'GeoPostal','FR');

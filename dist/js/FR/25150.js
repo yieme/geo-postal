@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25150"]={"code":"25150","region":"Bourgogne-Franche-Comte","city":"Pont-de-Roide","latitude":47.38738,"longitude":6.7684}}(window,'GeoPostal','FR');

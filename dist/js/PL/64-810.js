@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-810"]={"code":"64-810","region":"Wielkopolskie","city":"Smilowo","latitude":53.13647,"longitude":16.92075}}(window,'GeoPostal','PL');

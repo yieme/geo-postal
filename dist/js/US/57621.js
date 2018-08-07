@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57621"]={"code":"57621","region":"South Dakota","city":"Bullhead","latitude":45.7659,"longitude":-101.0803}}(window,'GeoPostal','US');

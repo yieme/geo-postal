@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18211"]={"code":"18211","region":"Mecklenburg-Vorpommern","city":"Retschow","latitude":54.05,"longitude":11.86667}}(window,'GeoPostal','DE');

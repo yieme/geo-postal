@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79011"]={"code":"79011","region":"TX","city":"Briscoe","latitude":35.5855,"longitude":-100.1679}}(window,'GeoPostal','US');

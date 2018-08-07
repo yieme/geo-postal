@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 1G0"]={"code":"K0K 1G0","region":"Ontario","city":"Bloomfield","latitude":43.9943,"longitude":-77.18582}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64029"]={"code":"64029","region":"Missouri","city":"Grain Valley","latitude":39.008774,"longitude":-94.212487}}(window,'GeoPostal','US');

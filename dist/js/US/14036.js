@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14036"]={"code":"14036","region":"NY","city":"Corfu","latitude":42.9777,"longitude":-78.3929}}(window,'GeoPostal','US');

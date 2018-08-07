@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150088"]={"code":"150088","region":"Heilongjiang","city":"Harbin","latitude":45.75,"longitude":126.65}}(window,'GeoPostal','CN');

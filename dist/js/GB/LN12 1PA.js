@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN12 1PA"]={"code":"LN12 1PA","region":"England","city":"Theddlethorpe All Saints","latitude":53.36056,"longitude":0.2099}}(window,'GeoPostal','GB');

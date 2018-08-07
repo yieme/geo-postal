@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1910"]={"code":"1910","region":"Lori","city":"Gyulagarak","latitude":40.96715,"longitude":44.47144}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171158"]={"code":"171158","region":"Tverskaya oblast'","city":"Vyshniy Volochek","latitude":57.59125,"longitude":34.56453}}(window,'GeoPostal','RU');

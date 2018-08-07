@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6036"]={"code":"6036","region":"Cebu","city":"Barili","latitude":10.115,"longitude":123.5103}}(window,'GeoPostal','PH');

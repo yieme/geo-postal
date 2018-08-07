@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-6155"]={"code":"L-6155","region":"Grevenmacher","city":"Junglinster","latitude":49.70722,"longitude":6.25306}}(window,'GeoPostal','LU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24460"]={"code":"24460","region":"Campeche","city":"Seybaplaya","latitude":19.65,"longitude":-90.66667}}(window,'GeoPostal','MX');

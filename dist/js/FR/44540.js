@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44540"]={"code":"44540","region":"Pays-de-la-Loire","city":"Saint-Mars-la-Jaille","latitude":47.52566,"longitude":-1.18483}}(window,'GeoPostal','FR');

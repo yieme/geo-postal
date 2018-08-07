@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5062"]={"code":"5062","region":"South Australia","city":"Springfield","latitude":-34.97819,"longitude":138.63249}}(window,'GeoPostal','AU');

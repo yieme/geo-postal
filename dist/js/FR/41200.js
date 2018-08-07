@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41200"]={"code":"41200","region":"Centre-Val de Loire","city":"Pruniers-en-Sologne","latitude":47.31667,"longitude":1.66667}}(window,'GeoPostal','FR');

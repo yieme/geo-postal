@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64120"]={"code":"64120","region":"Nouvelle-Aquitaine","city":"Saint-Palais","latitude":43.32867,"longitude":-1.03333}}(window,'GeoPostal','FR');

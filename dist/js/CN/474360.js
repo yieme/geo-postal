@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["474360"]={"code":"474360","region":"Henan","city":"Qutun","latitude":33.04041,"longitude":112.0254}}(window,'GeoPostal','CN');

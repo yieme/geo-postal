@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56221"]={"code":"56221","region":"Minnesota","city":"Chokio","latitude":45.571805,"longitude":-96.173415}}(window,'GeoPostal','US');

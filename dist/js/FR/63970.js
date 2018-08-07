@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63970"]={"code":"63970","region":"Auvergne-Rhone-Alpes","city":"Aydat","latitude":45.66136,"longitude":2.97391}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93528"]={"code":"93528","region":"Ile-de-France","city":"Saint-Denis","latitude":48.93333,"longitude":2.36667}}(window,'GeoPostal','FR');

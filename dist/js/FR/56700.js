@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56700"]={"code":"56700","region":"Bretagne","city":"Branderion","latitude":47.79412,"longitude":-3.19474}}(window,'GeoPostal','FR');

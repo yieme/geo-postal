@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363710"]={"code":"363710","region":"Krasnodarskiy kray","city":"Kiyevskoye","latitude":45.03829,"longitude":37.8883}}(window,'GeoPostal','RU');

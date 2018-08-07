@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70430"]={"code":"70430","region":"Oaxaca","city":"San Pablo Villa de Mitla","latitude":16.91667,"longitude":-96.4}}(window,'GeoPostal','MX');

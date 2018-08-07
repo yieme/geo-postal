@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623720"]={"code":"623720","region":"Sverdlovskaya oblast'","city":"Monetnyy","latitude":57.0472,"longitude":60.8794}}(window,'GeoPostal','RU');

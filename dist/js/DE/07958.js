@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07958"]={"code":"07958","region":"Thuringen","city":"Hohenleuben","latitude":50.71128,"longitude":12.05427}}(window,'GeoPostal','DE');

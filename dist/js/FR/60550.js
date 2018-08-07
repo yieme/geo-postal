@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60550"]={"code":"60550","region":"Hauts-de-France","city":"Verneuil-en-Halatte","latitude":49.27914,"longitude":2.5241}}(window,'GeoPostal','FR');

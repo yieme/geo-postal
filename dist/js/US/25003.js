@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25003"]={"code":"25003","region":"WV","city":"Alum Creek","latitude":38.2868,"longitude":-81.8051}}(window,'GeoPostal','US');

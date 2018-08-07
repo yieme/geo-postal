@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311201"]={"code":"311201","region":"Zhejiang","city":"Xiaoshan","latitude":30.16746,"longitude":120.25883}}(window,'GeoPostal','CN');

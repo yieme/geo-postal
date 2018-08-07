@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38700"]={"code":"38700","region":"Auvergne-Rhone-Alpes","city":"Corenc","latitude":45.21421,"longitude":5.77152}}(window,'GeoPostal','FR');

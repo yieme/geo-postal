@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80300"]={"code":"80300","region":"Hauts-de-France","city":"Baizieux","latitude":49.9936,"longitude":2.5197}}(window,'GeoPostal','FR');

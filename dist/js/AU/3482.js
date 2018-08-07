@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3482"]={"code":"3482","region":"Victoria","city":"Watchem","latitude":-36.15,"longitude":142.85}}(window,'GeoPostal','AU');

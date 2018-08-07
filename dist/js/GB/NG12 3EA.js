@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG12 3EA"]={"code":"NG12 3EA","region":"England","city":"Kinoulton","latitude":52.87141,"longitude":-0.99169}}(window,'GeoPostal','GB');

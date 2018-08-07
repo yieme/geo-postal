@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68345"]={"code":"68345","region":"Nebraska","city":"Du Bois","latitude":40.03389,"longitude":-96.04889}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62685-000"]={"code":"62685-000","region":"Ceara","city":"Paraipaba","latitude":-3.43944,"longitude":-39.14833}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65054"]={"code":"65054","region":"MO","city":"Loose Creek","latitude":38.4717,"longitude":-91.9591}}(window,'GeoPostal','US');

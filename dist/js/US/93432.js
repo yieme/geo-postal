@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93432"]={"code":"93432","region":"CA","city":"Creston","latitude":35.4779,"longitude":-120.4361}}(window,'GeoPostal','US');

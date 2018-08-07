@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80823"]={"code":"80823","region":"CO","city":"Karval","latitude":38.7119,"longitude":-103.5006}}(window,'GeoPostal','US');

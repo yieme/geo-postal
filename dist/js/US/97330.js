@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97330"]={"code":"97330","region":"Oregon","city":"Corvallis","latitude":44.56457,"longitude":-123.26204}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91614"]={"code":"91614","region":"Bayern","city":"Hasselbach","latitude":49.03542,"longitude":10.33278}}(window,'GeoPostal','DE');

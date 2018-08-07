@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78238"]={"code":"78238","region":"Texas","city":"Leon Valley","latitude":29.49523,"longitude":-98.61863}}(window,'GeoPostal','US');

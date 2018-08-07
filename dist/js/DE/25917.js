@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25917"]={"code":"25917","region":"Schleswig-Holstein","city":"Leck","latitude":54.76667,"longitude":8.98333}}(window,'GeoPostal','DE');

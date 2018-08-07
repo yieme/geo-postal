@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75025"]={"code":"75025","region":"Basilicata","city":"Policoro","latitude":40.21151,"longitude":16.67259}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 1W0"]={"code":"R0B 1W0","region":"Manitoba","city":"Leaf Rapids","latitude":56.46287,"longitude":-100.0058}}(window,'GeoPostal','CA');

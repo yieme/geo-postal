@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57739"]={"code":"57739","region":"Grand-Est","city":"Faulquemont","latitude":49.04711,"longitude":6.60314}}(window,'GeoPostal','FR');

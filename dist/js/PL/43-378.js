@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-378"]={"code":"43-378","region":"Slaskie","city":"Rybarzowice","latitude":49.72956,"longitude":19.10162}}(window,'GeoPostal','PL');

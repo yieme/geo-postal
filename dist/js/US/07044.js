@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07044"]={"code":"07044","region":"New Jersey","city":"Verona","latitude":40.82982,"longitude":-74.24015}}(window,'GeoPostal','US');

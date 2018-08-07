@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16724"]={"code":"16724","region":"PA","city":"Crosby","latitude":41.7451,"longitude":-78.3903}}(window,'GeoPostal','US');

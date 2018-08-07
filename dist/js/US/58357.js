@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58357"]={"code":"58357","region":"North Dakota","city":"Oberon","latitude":47.957972,"longitude":-99.161382}}(window,'GeoPostal','US');

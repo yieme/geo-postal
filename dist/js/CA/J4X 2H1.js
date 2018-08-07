@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J4X 2H1"]={"code":"J4X 2H1","region":"Quebec","city":"Brossard","latitude":45.444593,"longitude":-73.486915}}(window,'GeoPostal','CA');

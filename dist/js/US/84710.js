@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84710"]={"code":"84710","region":"UT","city":"Alton","latitude":37.4699,"longitude":-112.5484}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81222"]={"code":"81222","region":"CO","city":"Coaldale","latitude":38.3824,"longitude":-105.7843}}(window,'GeoPostal','US');

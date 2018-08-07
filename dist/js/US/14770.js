@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14770"]={"code":"14770","region":"New York","city":"Portville","latitude":42.03868,"longitude":-78.34085}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53595"]={"code":"53595","region":"Wisconsin","city":"Dodgeville","latitude":42.963811,"longitude":-90.130018}}(window,'GeoPostal','US');

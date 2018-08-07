@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77534"]={"code":"77534","region":"TX","city":"Danbury","latitude":29.2291,"longitude":-95.3435}}(window,'GeoPostal','US');

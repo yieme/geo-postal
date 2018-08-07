@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0C 0A0"]={"code":"X0C 0A0","region":"Nunavut","city":"Baker Lake","latitude":64.32009,"longitude":-96.02123}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67460"]={"code":"67460","region":"Kansas","city":"McPherson","latitude":38.38716,"longitude":-97.65654}}(window,'GeoPostal','US');

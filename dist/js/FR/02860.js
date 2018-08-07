@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02860"]={"code":"02860","region":"Hauts-de-France","city":"Bruyeres-et-Montberault","latitude":49.52535,"longitude":3.66369}}(window,'GeoPostal','FR');

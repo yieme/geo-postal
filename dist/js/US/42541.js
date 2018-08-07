@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42541"]={"code":"42541","region":"Kentucky","city":"Middleburg","latitude":37.373871,"longitude":-84.837152}}(window,'GeoPostal','US');

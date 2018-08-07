@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23952"]={"code":"23952","region":"VA","city":"Lunenburg","latitude":36.9291,"longitude":-78.2915}}(window,'GeoPostal','US');

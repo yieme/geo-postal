@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38631"]={"code":"38631","region":"MS","city":"Friars Point","latitude":34.3668,"longitude":-90.6376}}(window,'GeoPostal','US');

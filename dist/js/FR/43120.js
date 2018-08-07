@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43120"]={"code":"43120","region":"Auvergne-Rhone-Alpes","city":"Monistrol-sur-Loire","latitude":45.29334,"longitude":4.17161}}(window,'GeoPostal','FR');

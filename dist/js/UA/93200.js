@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93200"]={"code":"93200","region":"Mykolaivska oblast","city":"Pervomays'k","latitude":48.04433,"longitude":30.85073}}(window,'GeoPostal','UA');

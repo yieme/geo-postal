@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7552"]={"code":"7552","region":"Graubunden","city":"Scuol","latitude":46.79676,"longitude":10.30595}}(window,'GeoPostal','CH');

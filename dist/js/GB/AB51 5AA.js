@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 5AA"]={"code":"AB51 5AA","region":"Scotland","city":"Meikle Wartle","latitude":57.36798,"longitude":-2.46384}}(window,'GeoPostal','GB');

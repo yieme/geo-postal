@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3952"]={"code":"3952","region":"Avannaata Kommunia","city":"Ilulissat","latitude":69.21667,"longitude":-51.1}}(window,'GeoPostal','GL');

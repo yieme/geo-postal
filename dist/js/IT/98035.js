@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98035"]={"code":"98035","region":"Sicilia","city":"Giardini Naxos","latitude":37.82755,"longitude":15.26713}}(window,'GeoPostal','IT');

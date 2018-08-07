@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54931"]={"code":"54931","region":"WI","city":"Dale","latitude":44.273,"longitude":-88.6784}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99786"]={"code":"99786","region":"Alaska","city":"Ambler","latitude":67.08341,"longitude":-157.87026}}(window,'GeoPostal','US');

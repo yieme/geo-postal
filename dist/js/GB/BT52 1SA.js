@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT52 1SA"]={"code":"BT52 1SA","region":"Northern Ireland","city":"Coleraine","latitude":55.13333,"longitude":-6.66667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76453"]={"code":"76453","region":"TX","city":"Gordon","latitude":32.5478,"longitude":-98.3632}}(window,'GeoPostal','US');

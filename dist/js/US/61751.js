@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61751"]={"code":"61751","region":"IL","city":"Lawndale","latitude":40.2193,"longitude":-89.2852}}(window,'GeoPostal','US');

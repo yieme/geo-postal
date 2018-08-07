@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO38 2JX"]={"code":"PO38 2JX","region":"England","city":"Chalegreen","latitude":50.61903,"longitude":-1.32093}}(window,'GeoPostal','GB');

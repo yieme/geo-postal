@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71850"]={"code":"71850","region":"Bourgogne-Franche-Comte","city":"Charnay-les-Macon","latitude":46.30751,"longitude":4.78479}}(window,'GeoPostal','FR');

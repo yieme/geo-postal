@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92681"]={"code":"92681","region":"Bayern","city":"Hopfau","latitude":49.86066,"longitude":12.01735}}(window,'GeoPostal','DE');

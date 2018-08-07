@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36004"]={"code":"36004","region":"El Tarf","city":"Besbes","latitude":36.70222,"longitude":7.84722}}(window,'GeoPostal','DZ');

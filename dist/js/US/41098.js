@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41098"]={"code":"41098","region":"Kentucky","city":"Worthville","latitude":38.633896,"longitude":-85.060338}}(window,'GeoPostal','US');

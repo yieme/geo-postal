@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727040"]={"code":"727040","region":"Suceava","city":"Boroaia","latitude":47.35,"longitude":26.33333}}(window,'GeoPostal','RO');

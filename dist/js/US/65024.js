@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65024"]={"code":"65024","region":"MO","city":"Chamois","latitude":38.6527,"longitude":-91.7697}}(window,'GeoPostal','US');

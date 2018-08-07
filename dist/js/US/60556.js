@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60556"]={"code":"60556","region":"IL","city":"Waterman","latitude":41.7504,"longitude":-88.7754}}(window,'GeoPostal','US');

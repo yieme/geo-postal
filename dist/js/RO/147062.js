@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147062"]={"code":"147062","region":"Mehedinti","city":"Salcia","latitude":43.95,"longitude":24.91667}}(window,'GeoPostal','RO');

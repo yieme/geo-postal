@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39615"]={"code":"39615","region":"Sachsen-Anhalt","city":"Losse","latitude":52.8738,"longitude":11.67224}}(window,'GeoPostal','DE');

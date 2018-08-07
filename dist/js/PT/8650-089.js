@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8650-089"]={"code":"8650-089","region":"Faro","city":"Sagres","latitude":37.00864,"longitude":-8.94311}}(window,'GeoPostal','PT');

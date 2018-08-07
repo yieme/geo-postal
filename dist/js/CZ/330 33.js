@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330 33"]={"code":"330 33","region":"Plzensky kraj","city":"Mesto Touskov","latitude":49.77587,"longitude":13.25108}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37640"]={"code":"37640","region":"Niedersachsen","city":"Golmbach","latitude":51.9,"longitude":9.55}}(window,'GeoPostal','DE');

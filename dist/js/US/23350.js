@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23350"]={"code":"23350","region":"Virginia","city":"Exmore","latitude":37.5318,"longitude":-75.82299}}(window,'GeoPostal','US');

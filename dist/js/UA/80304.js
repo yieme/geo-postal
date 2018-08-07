@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80304"]={"code":"80304","region":"Lvivska oblast","city":"Zhovkva","latitude":50.05825,"longitude":23.9726}}(window,'GeoPostal','UA');

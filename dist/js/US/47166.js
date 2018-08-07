@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47166"]={"code":"47166","region":"IN","city":"Ramsey","latitude":38.3034,"longitude":-86.169}}(window,'GeoPostal','US');

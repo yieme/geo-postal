@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3362"]={"code":"3362","region":"Misiones","city":"Campo Grande","latitude":-27.2077,"longitude":-54.97977}}(window,'GeoPostal','AR');

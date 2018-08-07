@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60069"]={"code":"60069","region":"Illinois","city":"Lincolnshire","latitude":42.19446,"longitude":-87.91074}}(window,'GeoPostal','US');

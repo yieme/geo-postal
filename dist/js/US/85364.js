@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85364"]={"code":"85364","region":"Arizona","city":"Yuma","latitude":32.72532,"longitude":-114.6244}}(window,'GeoPostal','US');

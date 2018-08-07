@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79540-000"]={"code":"79540-000","region":"Mato Grosso do Sul","city":"Cassilandia","latitude":-19.11333,"longitude":-51.73417}}(window,'GeoPostal','BR');

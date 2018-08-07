@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96127"]={"code":"96127","region":"California","city":"Susanville","latitude":40.41628,"longitude":-120.65301}}(window,'GeoPostal','US');

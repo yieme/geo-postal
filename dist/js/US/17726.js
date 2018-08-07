@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17726"]={"code":"17726","region":"PA","city":"Castanea","latitude":41.1227,"longitude":-77.4317}}(window,'GeoPostal','US');

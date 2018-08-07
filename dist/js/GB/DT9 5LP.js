@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT9 5LP"]={"code":"DT9 5LP","region":"England","city":"Holwell","latitude":50.9,"longitude":-2.43333}}(window,'GeoPostal','GB');

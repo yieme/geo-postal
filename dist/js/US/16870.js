@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16870"]={"code":"16870","region":"PA","city":"Port Matilda","latitude":40.8018,"longitude":-78.0788}}(window,'GeoPostal','US');

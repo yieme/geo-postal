@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692338"]={"code":"692338","region":"Primorskiy kray","city":"Arsen'yev","latitude":44.16306,"longitude":133.27333}}(window,'GeoPostal','RU');

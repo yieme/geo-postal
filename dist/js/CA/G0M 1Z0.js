@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0M 1Z0"]={"code":"G0M 1Z0","region":"Quebec","city":"Saint-Rene","latitude":46.01677,"longitude":-70.61573}}(window,'GeoPostal','CA');

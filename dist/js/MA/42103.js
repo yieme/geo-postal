@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42103"]={"code":"42103","region":"Marrakech-Tensift-Al Haouz","city":"Amizmiz","latitude":31.21673,"longitude":-8.23184}}(window,'GeoPostal','MA');

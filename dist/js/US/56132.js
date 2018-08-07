@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56132"]={"code":"56132","region":"Minnesota","city":"Garvin","latitude":44.216828,"longitude":-95.75875}}(window,'GeoPostal','US');

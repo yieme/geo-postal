@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41049"]={"code":"41049","region":"Emilia-Romagna","city":"Sassuolo","latitude":44.55086,"longitude":10.7847}}(window,'GeoPostal','IT');

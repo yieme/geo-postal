@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60203"]={"code":"60203","region":"Puntarenas","city":"Esparza","latitude":9.99447,"longitude":-84.66466}}(window,'GeoPostal','CR');

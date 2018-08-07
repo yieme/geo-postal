@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6512"]={"code":"6512","region":"Western Australia","city":"Moora","latitude":-30.64003,"longitude":116.00365}}(window,'GeoPostal','AU');

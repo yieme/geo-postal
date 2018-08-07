@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["744107"]={"code":"744107","region":"Andaman and Nicobar Islands","city":"Port Blair","latitude":11.66667,"longitude":92.75}}(window,'GeoPostal','IN');

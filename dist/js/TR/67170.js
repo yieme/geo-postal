@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67170"]={"code":"67170","region":"Kastamonu","city":"Tosya","latitude":41.01545,"longitude":34.04013}}(window,'GeoPostal','TR');

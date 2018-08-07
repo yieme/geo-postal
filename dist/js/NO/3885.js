@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3885"]={"code":"3885","region":"Telemark","city":"Moland","latitude":59.1865,"longitude":8.0895}}(window,'GeoPostal','NO');

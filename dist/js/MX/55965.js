@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55965"]={"code":"55965","region":"Mexico","city":"Jaltepec","latitude":19.73333,"longitude":-98.63333}}(window,'GeoPostal','MX');

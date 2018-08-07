@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36017"]={"code":"36017","region":"AL","city":"Clio","latitude":31.6852,"longitude":-85.5904}}(window,'GeoPostal','US');

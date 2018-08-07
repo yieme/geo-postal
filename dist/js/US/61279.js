@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61279"]={"code":"61279","region":"IL","city":"Reynolds","latitude":41.3277,"longitude":-90.6384}}(window,'GeoPostal','US');

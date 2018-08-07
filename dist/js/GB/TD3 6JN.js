@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD3 6JN"]={"code":"TD3 6JN","region":"Scotland","city":"Gordon","latitude":55.67982,"longitude":-2.56466}}(window,'GeoPostal','GB');

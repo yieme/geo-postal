@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68305"]={"code":"68305","region":"Nebraska","city":"Auburn","latitude":40.387835,"longitude":-95.841623}}(window,'GeoPostal','US');

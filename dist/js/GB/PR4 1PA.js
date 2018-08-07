@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR4 1PA"]={"code":"PR4 1PA","region":"England","city":"Freckleton","latitude":53.75433,"longitude":-2.86489}}(window,'GeoPostal','GB');

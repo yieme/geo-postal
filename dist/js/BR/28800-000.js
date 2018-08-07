@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28800-000"]={"code":"28800-000","region":"Rio de Janeiro","city":"Rio Bonito","latitude":-22.70861,"longitude":-42.60972}}(window,'GeoPostal','BR');

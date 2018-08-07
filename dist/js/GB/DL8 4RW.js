@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 4RW"]={"code":"DL8 4RW","region":"England","city":"Caldbergh","latitude":54.26267,"longitude":-1.8592}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24312"]={"code":"24312","region":"Virginia","city":"Austinville","latitude":36.821004,"longitude":-80.868163}}(window,'GeoPostal','US');

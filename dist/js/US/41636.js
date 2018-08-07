@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41636"]={"code":"41636","region":"Kentucky","city":"Hi Hat","latitude":37.390847,"longitude":-82.728202}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53440"]={"code":"53440","region":"Pays-de-la-Loire","city":"Aron","latitude":48.298,"longitude":-0.5598}}(window,'GeoPostal','FR');

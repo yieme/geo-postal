@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37320"]={"code":"37320","region":"Centre-Val de Loire","city":"Cormery","latitude":47.26812,"longitude":0.83583}}(window,'GeoPostal','FR');

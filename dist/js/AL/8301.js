@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8301"]={"code":"8301","region":"Diber","city":"Peshkopi","latitude":41.685,"longitude":20.42889}}(window,'GeoPostal','AL');

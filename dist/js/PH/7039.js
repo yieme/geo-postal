@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7039"]={"code":"7039","region":"Zamboanga del Sur","city":"Del Monte","latitude":7.72583,"longitude":123.00806}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62943"]={"code":"62943","region":"IL","city":"Grantsburg","latitude":37.3794,"longitude":-88.7583}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5583"]={"code":"5583","region":"Noord-Brabant","city":"Waalre","latitude":51.38667,"longitude":5.44444}}(window,'GeoPostal','NL');

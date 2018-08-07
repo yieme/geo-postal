@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2345"]={"code":"2345","region":"Santa Fe","city":"Villa Trinidad","latitude":-30.21329,"longitude":-61.87597}}(window,'GeoPostal','AR');

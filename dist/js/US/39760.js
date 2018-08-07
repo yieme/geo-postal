@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39760"]={"code":"39760","region":"MS","city":"Starkville","latitude":33.4599,"longitude":-88.8322}}(window,'GeoPostal','US');

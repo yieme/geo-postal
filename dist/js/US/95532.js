@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95532"]={"code":"95532","region":"California","city":"Bertsch-Oceanview","latitude":41.7525,"longitude":-124.15875}}(window,'GeoPostal','US');

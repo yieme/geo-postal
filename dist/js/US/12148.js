@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12148"]={"code":"12148","region":"NY","city":"Rexford","latitude":42.8524,"longitude":-73.8701}}(window,'GeoPostal','US');

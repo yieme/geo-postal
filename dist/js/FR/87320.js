@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87320"]={"code":"87320","region":"Nouvelle-Aquitaine","city":"Bussiere-Poitevine","latitude":46.23543,"longitude":0.9053}}(window,'GeoPostal','FR');

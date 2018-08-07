@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26219"]={"code":"26219","region":"WV","city":"Frenchton","latitude":38.8993,"longitude":-80.2269}}(window,'GeoPostal','US');

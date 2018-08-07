@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70762"]={"code":"70762","region":"LA","city":"Oscar","latitude":30.5983,"longitude":-91.4577}}(window,'GeoPostal','US');

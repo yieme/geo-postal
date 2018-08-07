@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36522"]={"code":"36522","region":"AL","city":"Citronelle","latitude":31.0425,"longitude":-88.2549}}(window,'GeoPostal','US');

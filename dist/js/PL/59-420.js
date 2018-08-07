@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-420"]={"code":"59-420","region":"Dolnoslaskie","city":"Bolkow","latitude":50.92203,"longitude":16.10111}}(window,'GeoPostal','PL');

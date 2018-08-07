@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94599"]={"code":"94599","region":"California","city":"Yountville","latitude":38.40158,"longitude":-122.36081}}(window,'GeoPostal','US');

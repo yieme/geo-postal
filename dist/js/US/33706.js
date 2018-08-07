@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33706"]={"code":"33706","region":"Florida","city":"Saint Pete Beach","latitude":27.72531,"longitude":-82.74121}}(window,'GeoPostal','US');

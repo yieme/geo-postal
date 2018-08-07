@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-103"]={"code":"84-103","region":"Pomorskie","city":"Gniezdzewo","latitude":54.74741,"longitude":18.37944}}(window,'GeoPostal','PL');

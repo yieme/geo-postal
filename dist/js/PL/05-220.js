@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-220"]={"code":"05-220","region":"Mazowieckie","city":"Zielonka","latitude":52.30376,"longitude":21.16018}}(window,'GeoPostal','PL');

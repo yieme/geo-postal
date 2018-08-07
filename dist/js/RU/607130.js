@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607130"]={"code":"607130","region":"Nizhegorodskaya oblast'","city":"Ardatov","latitude":55.24205,"longitude":43.09699}}(window,'GeoPostal','RU');

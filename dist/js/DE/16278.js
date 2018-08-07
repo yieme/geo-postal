@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16278"]={"code":"16278","region":"Brandenburg","city":"Blumberger Muehle","latitude":53.03605,"longitude":13.96431}}(window,'GeoPostal','DE');

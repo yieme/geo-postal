@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56349"]={"code":"56349","region":"Bretagne","city":"Carnac","latitude":47.58351,"longitude":-3.07884}}(window,'GeoPostal','FR');

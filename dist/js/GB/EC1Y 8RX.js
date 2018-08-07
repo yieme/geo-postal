@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC1Y 8RX"]={"code":"EC1Y 8RX","region":"Northern Ireland","city":"Moorfields","latitude":54.81667,"longitude":-6.15}}(window,'GeoPostal','GB');

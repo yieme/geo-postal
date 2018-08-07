@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107245"]={"code":"107245","region":"Prahova","city":"Filipestii de Padure","latitude":45,"longitude":25.75}}(window,'GeoPostal','RO');

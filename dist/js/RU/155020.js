@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155020"]={"code":"155020","region":"Ivanovskaya oblast'","city":"Petrovskiy","latitude":56.6421,"longitude":40.32026}}(window,'GeoPostal','RU');

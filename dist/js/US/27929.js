@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27929"]={"code":"27929","region":"North Carolina","city":"Currituck","latitude":36.415825,"longitude":-76.013837}}(window,'GeoPostal','US');

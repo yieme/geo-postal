@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89150"]={"code":"89150","region":"Sabah","city":"Kota Belud","latitude":6.351,"longitude":116.4305}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28990-000"]={"code":"28990-000","region":"Rio de Janeiro","city":"Saquarema","latitude":-22.92,"longitude":-42.51028}}(window,'GeoPostal','BR');

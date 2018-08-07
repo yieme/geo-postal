@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09330"]={"code":"09330","region":"Aydin","city":"Ortaklar","latitude":37.889969,"longitude":27.504629}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS1 2XB"]={"code":"HS1 2XB","region":"Scotland","city":"Stornoway","latitude":58.20925,"longitude":-6.38649}}(window,'GeoPostal','GB');

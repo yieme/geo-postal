@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["791122"]={"code":"791122","region":"Arunachal Pradesh","city":"Ziro","latitude":27.63333,"longitude":93.83333}}(window,'GeoPostal','IN');

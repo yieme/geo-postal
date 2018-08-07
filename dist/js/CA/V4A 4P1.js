@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V4A 4P1"]={"code":"V4A 4P1","region":"British Columbia","city":"White Rock","latitude":49.042515,"longitude":-122.801342}}(window,'GeoPostal','CA');

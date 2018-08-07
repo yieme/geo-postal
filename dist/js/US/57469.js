@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57469"]={"code":"57469","region":"South Dakota","city":"Redfield","latitude":44.87581,"longitude":-98.51871}}(window,'GeoPostal','US');

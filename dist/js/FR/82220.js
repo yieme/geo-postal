@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82220"]={"code":"82220","region":"Occitanie","city":"Molieres","latitude":44.19305,"longitude":1.36318}}(window,'GeoPostal','FR');

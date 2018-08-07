@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51131"]={"code":"51131","region":"Jawa Tengah","city":"Pekalongan","latitude":-6.8886,"longitude":109.6753}}(window,'GeoPostal','ID');

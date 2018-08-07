@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB41 7LS"]={"code":"AB41 7LS","region":"Scotland","city":"Ythsie","latitude":57.36667,"longitude":-2.18333}}(window,'GeoPostal','GB');

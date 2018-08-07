@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40845"]={"code":"40845","region":"Kentucky","city":"Hulen","latitude":36.749861,"longitude":-83.533993}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72443"]={"code":"72443","region":"AR","city":"Marmaduke","latitude":36.1951,"longitude":-90.3837}}(window,'GeoPostal','US');

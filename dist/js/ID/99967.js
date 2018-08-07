@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99967"]={"code":"99967","region":"Papua","city":"Timika","latitude":-4.55,"longitude":136.89}}(window,'GeoPostal','ID');

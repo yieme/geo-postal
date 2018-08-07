@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["486111"]={"code":"486111","region":"Madhya Pradesh","city":"Mangawan","latitude":24.68333,"longitude":81.55}}(window,'GeoPostal','IN');

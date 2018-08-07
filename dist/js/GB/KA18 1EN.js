@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA18 1EN"]={"code":"KA18 1EN","region":"Scotland","city":"Kyle","latitude":55.45394,"longitude":-4.27643}}(window,'GeoPostal','GB');

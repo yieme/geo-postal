@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2360"]={"code":"2360","region":"New South Wales","city":"Inverell","latitude":-29.77403,"longitude":151.11166}}(window,'GeoPostal','AU');

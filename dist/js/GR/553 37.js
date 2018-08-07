@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["553 37"]={"code":"553 37","region":"Kentriki Makedonia","city":"Triandria","latitude":40.62278,"longitude":22.97111}}(window,'GeoPostal','GR');

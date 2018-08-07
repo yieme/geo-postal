@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0K 1W0"]={"code":"N0K 1W0","region":"Ontario","city":"Seaforth","latitude":43.55009,"longitude":-81.39976}}(window,'GeoPostal','CA');

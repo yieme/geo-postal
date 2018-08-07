@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39810-000"]={"code":"39810-000","region":"Minas Gerais","city":"Carai","latitude":-17.18889,"longitude":-41.69472}}(window,'GeoPostal','BR');

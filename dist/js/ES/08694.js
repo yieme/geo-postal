@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08694"]={"code":"08694","region":"Catalunya","city":"Sant Julia de Cerdanyola","latitude":42.2235,"longitude":1.89308}}(window,'GeoPostal','ES');

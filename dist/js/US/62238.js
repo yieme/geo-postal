@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62238"]={"code":"62238","region":"IL","city":"Cutler","latitude":38.0427,"longitude":-89.5661}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317135"]={"code":"317135","region":"Arad","city":"Ghioroc","latitude":46.15,"longitude":21.58333}}(window,'GeoPostal','RO');

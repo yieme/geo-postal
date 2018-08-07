@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83436"]={"code":"83436","region":"ID","city":"Newdale","latitude":43.8881,"longitude":-111.6042}}(window,'GeoPostal','US');

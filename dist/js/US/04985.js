@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04985"]={"code":"04985","region":"ME","city":"West Forks","latitude":45.3839,"longitude":-69.9841}}(window,'GeoPostal','US');

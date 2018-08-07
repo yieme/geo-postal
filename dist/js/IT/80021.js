@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80021"]={"code":"80021","region":"Campania","city":"Afragola","latitude":40.92601,"longitude":14.31083}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47129"]={"code":"47129","region":"Indiana","city":"Clarksville","latitude":38.29674,"longitude":-85.75996}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82225"]={"code":"82225","region":"Wyoming","city":"Lusk","latitude":42.76247,"longitude":-104.45217}}(window,'GeoPostal','US');

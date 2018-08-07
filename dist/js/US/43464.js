@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43464"]={"code":"43464","region":"OH","city":"Vickery","latitude":41.391,"longitude":-82.899}}(window,'GeoPostal','US');

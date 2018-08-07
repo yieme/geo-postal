@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13017"]={"code":"13017","region":"Piemonte","city":"Quarona","latitude":45.75787,"longitude":8.26572}}(window,'GeoPostal','IT');

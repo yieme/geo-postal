@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0N 1Y0"]={"code":"B0N 1Y0","region":"Nova Scotia","city":"Shubenacadie","latitude":45.066461,"longitude":-63.46871}}(window,'GeoPostal','CA');

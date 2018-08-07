@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["927120"]={"code":"927120","region":"Alba","city":"Girbovi","latitude":44.78333,"longitude":26.76667}}(window,'GeoPostal','RO');

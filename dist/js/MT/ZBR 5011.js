@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZBR 5011"]={"code":"ZBR 5011","region":"Zabbar","city":"Zabbar","latitude":35.87611,"longitude":14.535}}(window,'GeoPostal','MT');

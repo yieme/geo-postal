@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["251 63"]={"code":"251 63","region":"Stredocesky kraj","city":"Strancice","latitude":49.94811,"longitude":14.67745}}(window,'GeoPostal','CZ');

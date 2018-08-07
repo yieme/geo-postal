@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27807"]={"code":"27807","region":"NC","city":"Bailey","latitude":35.8072,"longitude":-78.0892}}(window,'GeoPostal','US');

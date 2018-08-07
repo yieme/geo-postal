@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20834"]={"code":"20834","region":"Lombardia","city":"Nova Milanese","latitude":45.59037,"longitude":9.19954}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74200"]={"code":"74200","region":"Auvergne-Rhone-Alpes","city":"Armoy","latitude":46.34893,"longitude":6.52}}(window,'GeoPostal','FR');

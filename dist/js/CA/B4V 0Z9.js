@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4V 0Z9"]={"code":"B4V 0Z9","region":"Nova Scotia","city":"Centre","latitude":44.38345,"longitude":-64.36545}}(window,'GeoPostal','CA');

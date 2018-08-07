@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 9JH"]={"code":"DG9 9JH","region":"Scotland","city":"Sandhead","latitude":54.8082,"longitude":-4.96187}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63735"]={"code":"63735","region":"MO","city":"Bell City","latitude":37.0116,"longitude":-89.7984}}(window,'GeoPostal','US');

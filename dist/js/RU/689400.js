@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["689400"]={"code":"689400","region":"Chukotskiy avtonomnyy okrug","city":"Pevek","latitude":69.70083,"longitude":170.31333}}(window,'GeoPostal','RU');

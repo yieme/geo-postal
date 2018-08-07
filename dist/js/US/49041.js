@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49041"]={"code":"49041","region":"MI","city":"Comstock","latitude":42.2867,"longitude":-85.5133}}(window,'GeoPostal','US');

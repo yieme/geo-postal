@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["731556"]={"code":"731556","region":"Gansu","city":"Kangduo","latitude":35.03431,"longitude":103.52451}}(window,'GeoPostal','CN');

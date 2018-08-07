@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61864"]={"code":"61864","region":"IL","city":"Philo","latitude":40.0052,"longitude":-88.1595}}(window,'GeoPostal','US');

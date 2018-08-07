@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26554"]={"code":"26554","region":"West Virginia","city":"Fairmont","latitude":39.48508,"longitude":-80.14258}}(window,'GeoPostal','US');

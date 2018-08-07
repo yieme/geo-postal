@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2520000"]={"code":"2520000","region":"Valparaiso","city":"Vina del Mar","latitude":-33.02457,"longitude":-71.55183}}(window,'GeoPostal','CL');

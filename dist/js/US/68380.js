@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68380"]={"code":"68380","region":"NE","city":"Lewiston","latitude":40.2309,"longitude":-96.4049}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38004"]={"code":"38004","region":"Poltavska oblast","city":"Shyshaky","latitude":49.88175,"longitude":34.01118}}(window,'GeoPostal','UA');

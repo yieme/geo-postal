@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24819"]={"code":"24819","region":"Schleswig-Holstein","city":"Wettersberg","latitude":54.15058,"longitude":9.55829}}(window,'GeoPostal','DE');

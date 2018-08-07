@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0E 0R0"]={"code":"R0E 0R0","region":"Manitoba","city":"Garson","latitude":50.0778,"longitude":-96.7073}}(window,'GeoPostal','CA');

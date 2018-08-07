@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV8 3EW"]={"code":"CV8 3EW","region":"England","city":"Ryton on Dunsmore","latitude":52.36667,"longitude":-1.43333}}(window,'GeoPostal','GB');

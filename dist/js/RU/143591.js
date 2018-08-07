@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143591"]={"code":"143591","region":"Moskovskaya oblast'","city":"Rozhdestveno","latitude":55.85444,"longitude":37.04935}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY5 0QF"]={"code":"SY5 0QF","region":"England","city":"Pontesbury","latitude":52.64826,"longitude":-2.89035}}(window,'GeoPostal','GB');

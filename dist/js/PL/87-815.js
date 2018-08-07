@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-815"]={"code":"87-815","region":"Kujawsko-pomorskie","city":"Dobrzyn nad Wisla","latitude":52.63814,"longitude":19.31875}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1416"]={"code":"1416","region":"Gegark'unik'","city":"Vaghashen","latitude":40.13578,"longitude":45.32879}}(window,'GeoPostal','AM');

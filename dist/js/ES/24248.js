@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24248"]={"code":"24248","region":"Castilla y Leon","city":"Santa Maria del Paramo","latitude":42.35512,"longitude":-5.75151}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA4 3AN"]={"code":"TA4 3AN","region":"England","city":"Bishops Lydeard","latitude":51.05917,"longitude":-3.18778}}(window,'GeoPostal','GB');

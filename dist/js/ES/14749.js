@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14749"]={"code":"14749","region":"Andalucia","city":"Palma del Rio","latitude":37.70024,"longitude":-5.28121}}(window,'GeoPostal','ES');

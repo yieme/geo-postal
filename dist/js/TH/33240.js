@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33240"]={"code":"33240","region":"Si Sa Ket","city":"Benchalak","latitude":14.79583,"longitude":104.67017}}(window,'GeoPostal','TH');

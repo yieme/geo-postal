@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE32 2PF"]={"code":"PE32 2PF","region":"England","city":"Tittleshall","latitude":52.75333,"longitude":0.80061}}(window,'GeoPostal','GB');

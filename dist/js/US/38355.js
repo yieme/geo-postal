@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38355"]={"code":"38355","region":"TN","city":"Medina","latitude":35.8081,"longitude":-88.7627}}(window,'GeoPostal','US');

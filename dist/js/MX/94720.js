@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94720"]={"code":"94720","region":"Tamaulipas","city":"Tampico","latitude":22.21667,"longitude":-97.85}}(window,'GeoPostal','MX');

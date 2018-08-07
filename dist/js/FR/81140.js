@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81140"]={"code":"81140","region":"Occitanie","city":"Cahuzac-sur-Vere","latitude":43.98268,"longitude":1.91052}}(window,'GeoPostal','FR');

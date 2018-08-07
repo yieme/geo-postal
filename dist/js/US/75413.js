@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75413"]={"code":"75413","region":"TX","city":"Bailey","latitude":33.43,"longitude":-96.1662}}(window,'GeoPostal','US');

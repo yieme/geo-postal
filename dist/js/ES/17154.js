@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17154"]={"code":"17154","region":"Catalunya","city":"Sant Aniol de Finestres","latitude":42.09023,"longitude":2.58688}}(window,'GeoPostal','ES');

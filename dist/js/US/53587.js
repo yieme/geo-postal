@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53587"]={"code":"53587","region":"Wisconsin","city":"South Wayne","latitude":42.587909,"longitude":-89.902411}}(window,'GeoPostal','US');

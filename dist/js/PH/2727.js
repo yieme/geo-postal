@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2727"]={"code":"2727","region":"Ilocos Sur","city":"Vigan","latitude":17.57472,"longitude":120.38694}}(window,'GeoPostal','PH');

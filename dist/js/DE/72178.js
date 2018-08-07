@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72178"]={"code":"72178","region":"Baden-Wurttemberg","city":"Vesperweiler","latitude":48.49603,"longitude":8.56792}}(window,'GeoPostal','DE');

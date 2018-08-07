@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62060"]={"code":"62060","region":"IL","city":"Madison","latitude":38.6811,"longitude":-90.1566}}(window,'GeoPostal','US');

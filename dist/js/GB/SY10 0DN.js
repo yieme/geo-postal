@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY10 0DN"]={"code":"SY10 0DN","region":"Wales","city":"Llanrhaiadr-ym-Mochnant","latitude":52.83333,"longitude":-3.3}}(window,'GeoPostal','GB');

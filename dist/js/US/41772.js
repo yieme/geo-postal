@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41772"]={"code":"41772","region":"Kentucky","city":"Vest","latitude":37.433312,"longitude":-83.069744}}(window,'GeoPostal','US');

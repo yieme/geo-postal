@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18520-000"]={"code":"18520-000","region":"Sao Paulo","city":"Cerquilho","latitude":-23.165,"longitude":-47.74361}}(window,'GeoPostal','BR');

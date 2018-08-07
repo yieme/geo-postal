@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96064"]={"code":"96064","region":"California","city":"Montague","latitude":41.7282,"longitude":-122.5278}}(window,'GeoPostal','US');

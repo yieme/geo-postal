@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35015"]={"code":"35015","region":"AL","city":"Alton","latitude":33.5793,"longitude":-86.6375}}(window,'GeoPostal','US');

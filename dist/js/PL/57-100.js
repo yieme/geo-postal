@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57-100"]={"code":"57-100","region":"Dolnoslaskie","city":"Strzelin","latitude":50.78157,"longitude":17.06477}}(window,'GeoPostal','PL');

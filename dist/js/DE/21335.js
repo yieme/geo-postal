@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21335"]={"code":"21335","region":"Niedersachsen","city":"Luneburg","latitude":53.2509,"longitude":10.41409}}(window,'GeoPostal','DE');

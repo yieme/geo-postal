@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307450"]={"code":"307450","region":"Kurskaya oblast'","city":"Glushkovo","latitude":51.33917,"longitude":34.63278}}(window,'GeoPostal','RU');

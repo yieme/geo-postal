@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["679 32"]={"code":"679 32","region":"Jihomoravsky kraj","city":"Svitavka","latitude":49.50178,"longitude":16.59793}}(window,'GeoPostal','CZ');

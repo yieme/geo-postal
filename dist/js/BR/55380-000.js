@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55380-000"]={"code":"55380-000","region":"Pernambuco","city":"Cachoeirinha","latitude":-8.48639,"longitude":-36.23306}}(window,'GeoPostal','BR');

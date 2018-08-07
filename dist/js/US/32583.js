@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32583"]={"code":"32583","region":"Florida","city":"Milton","latitude":30.587382,"longitude":-87.023472}}(window,'GeoPostal','US');

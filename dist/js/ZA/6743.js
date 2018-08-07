@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6743"]={"code":"6743","region":"Western Cape","city":"Swellendam","latitude":-34.02262,"longitude":20.44171}}(window,'GeoPostal','ZA');

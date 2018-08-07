@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA7 1BX"]={"code":"KA7 1BX","region":"Scotland","city":"Ayr","latitude":55.46273,"longitude":-4.63393}}(window,'GeoPostal','GB');

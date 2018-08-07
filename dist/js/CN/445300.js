@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445300"]={"code":"445300","region":"Guangdong","city":"Yunfu","latitude":22.93056,"longitude":112.0373}}(window,'GeoPostal','CN');

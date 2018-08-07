@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08555"]={"code":"08555","region":"NJ","city":"Roosevelt","latitude":40.2214,"longitude":-74.4747}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356537"]={"code":"356537","region":"Stavropol'skiy kray","city":"Svetlograd","latitude":45.33528,"longitude":42.85472}}(window,'GeoPostal','RU');

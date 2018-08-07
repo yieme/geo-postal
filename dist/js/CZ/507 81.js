@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507 81"]={"code":"507 81","region":"Kralovehradecky kraj","city":"Lazne Belohrad","latitude":50.42874,"longitude":15.58269}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42251"]={"code":"42251","region":"Banten","city":"Kadumantung","latitude":-6.2899,"longitude":106.11835}}(window,'GeoPostal','ID');

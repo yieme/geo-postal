@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV24 3EQ"]={"code":"IV24 3EQ","region":"Scotland","city":"Bonar Bridge","latitude":57.89214,"longitude":-4.34474}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47197"]={"code":"47197","region":"Vastra Gotalands lan","city":"Ronnang","latitude":57.93333,"longitude":11.58333}}(window,'GeoPostal','SE');

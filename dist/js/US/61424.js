@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61424"]={"code":"61424","region":"IL","city":"Camp Grove","latitude":41.078,"longitude":-89.6332}}(window,'GeoPostal','US');

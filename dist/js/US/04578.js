@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04578"]={"code":"04578","region":"Maine","city":"Wiscasset","latitude":43.997957,"longitude":-69.672305}}(window,'GeoPostal','US');

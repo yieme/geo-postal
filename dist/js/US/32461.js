@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32461"]={"code":"32461","region":"FL","city":"Rosemary Beach","latitude":30.2835,"longitude":-86.0305}}(window,'GeoPostal','US');

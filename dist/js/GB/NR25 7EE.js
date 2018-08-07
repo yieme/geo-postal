@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR25 7EE"]={"code":"NR25 7EE","region":"England","city":"Kelling","latitude":52.94251,"longitude":1.11468}}(window,'GeoPostal','GB');

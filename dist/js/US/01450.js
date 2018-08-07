@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01450"]={"code":"01450","region":"Massachusetts","city":"Groton","latitude":42.609453,"longitude":-71.556085}}(window,'GeoPostal','US');

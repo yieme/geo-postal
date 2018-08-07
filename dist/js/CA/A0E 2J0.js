@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0E 2J0"]={"code":"A0E 2J0","region":"Newfoundland and Labrador","city":"Little Bay East","latitude":47.54992,"longitude":-54.84825}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY5 0AA"]={"code":"SY5 0AA","region":"England","city":"Minsterley","latitude":52.63989,"longitude":-2.92807}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08314"]={"code":"08314","region":"NJ","city":"Delmont","latitude":39.2023,"longitude":-74.9705}}(window,'GeoPostal','US');

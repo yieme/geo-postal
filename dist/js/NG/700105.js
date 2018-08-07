@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["700105"]={"code":"700105","region":"Kano","city":"Kano","latitude":12.00012,"longitude":8.51672}}(window,'GeoPostal','NG');

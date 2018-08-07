@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37381"]={"code":"37381","region":"Tennessee","city":"Spring City","latitude":35.669967,"longitude":-84.852534}}(window,'GeoPostal','US');

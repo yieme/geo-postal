@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31014"]={"code":"31014","region":"Georgia","city":"Cochran","latitude":32.388009,"longitude":-83.348165}}(window,'GeoPostal','US');

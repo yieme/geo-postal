@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16424"]={"code":"16424","region":"Pennsylvania","city":"Linesville","latitude":41.65617,"longitude":-80.42396}}(window,'GeoPostal','US');

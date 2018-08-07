@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43041"]={"code":"43041","region":"Ohio","city":"Marysville","latitude":40.2363,"longitude":-83.36718}}(window,'GeoPostal','US');

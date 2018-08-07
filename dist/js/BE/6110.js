@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6110"]={"code":"6110","region":"Hainaut","city":"Courcelles","latitude":50.46379,"longitude":4.3747}}(window,'GeoPostal','BE');

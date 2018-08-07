@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32443"]={"code":"32443","region":"Khmelnytska oblast","city":"Dunaivtsi","latitude":48.88909,"longitude":26.85636}}(window,'GeoPostal','UA');

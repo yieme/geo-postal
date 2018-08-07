@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9545"]={"code":"9545","region":"Vas","city":"Janoshaza","latitude":47.11937,"longitude":17.16503}}(window,'GeoPostal','HU');

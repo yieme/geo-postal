@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572911"]={"code":"572911","region":"Hainan","city":"Limushan","latitude":19.26752,"longitude":109.78298}}(window,'GeoPostal','CN');

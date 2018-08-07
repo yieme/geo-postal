@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["635210"]={"code":"635210","region":"Tamil Nadu","city":"Kaverippattanam","latitude":12.41667,"longitude":78.23333}}(window,'GeoPostal','IN');

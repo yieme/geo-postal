@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0G 1T0"]={"code":"A0G 1T0","region":"Newfoundland and Labrador","city":"Gambo","latitude":48.7832,"longitude":-54.21482}}(window,'GeoPostal','CA');

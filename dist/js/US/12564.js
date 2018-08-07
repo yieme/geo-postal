@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12564"]={"code":"12564","region":"NY","city":"Pawling","latitude":41.5749,"longitude":-73.5948}}(window,'GeoPostal','US');

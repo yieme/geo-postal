@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10340"]={"code":"10340","region":"Grand-Est","city":"Les Riceys","latitude":47.9939,"longitude":4.36986}}(window,'GeoPostal','FR');

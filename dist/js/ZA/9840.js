@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9840"]={"code":"9840","region":"Free State","city":"Villiers","latitude":-27.03026,"longitude":28.60061}}(window,'GeoPostal','ZA');

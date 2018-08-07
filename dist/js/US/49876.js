@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49876"]={"code":"49876","region":"Michigan","city":"Quinnesec","latitude":45.80635,"longitude":-87.98846}}(window,'GeoPostal','US');

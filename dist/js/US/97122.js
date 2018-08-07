@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97122"]={"code":"97122","region":"OR","city":"Hebo","latitude":45.1768,"longitude":-123.846}}(window,'GeoPostal','US');

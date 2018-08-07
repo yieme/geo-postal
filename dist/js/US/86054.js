@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86054"]={"code":"86054","region":"Arizona","city":"Shonto","latitude":36.593082,"longitude":-110.65483}}(window,'GeoPostal','US');

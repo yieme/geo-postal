@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2873"]={"code":"2873","region":"New South Wales","city":"Albert","latitude":-32.35,"longitude":147.5}}(window,'GeoPostal','AU');

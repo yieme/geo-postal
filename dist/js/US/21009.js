@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21009"]={"code":"21009","region":"Maryland","city":"Abingdon","latitude":39.473279,"longitude":-76.299283}}(window,'GeoPostal','US');

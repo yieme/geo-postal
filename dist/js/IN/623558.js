@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623558"]={"code":"623558","region":"Tamil Nadu","city":"Arantangi","latitude":10.16667,"longitude":78.98333}}(window,'GeoPostal','IN');

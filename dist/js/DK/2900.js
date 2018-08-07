@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2900"]={"code":"2900","region":"Hovedstaden","city":"Charlottenlund","latitude":55.75367,"longitude":12.59181}}(window,'GeoPostal','DK');

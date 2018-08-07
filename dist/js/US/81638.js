@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81638"]={"code":"81638","region":"Colorado","city":"Hamilton","latitude":40.332133,"longitude":-107.55022}}(window,'GeoPostal','US');

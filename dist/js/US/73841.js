@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73841"]={"code":"73841","region":"OK","city":"Fort Supply","latitude":36.5722,"longitude":-99.5738}}(window,'GeoPostal','US');

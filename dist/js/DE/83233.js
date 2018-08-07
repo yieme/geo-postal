@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83233"]={"code":"83233","region":"Bayern","city":"Irschen","latitude":47.8179,"longitude":12.38183}}(window,'GeoPostal','DE');

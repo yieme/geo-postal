@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35160-000"]={"code":"35160-000","region":"Minas Gerais","city":"Ipatinga","latitude":-19.46833,"longitude":-42.53667}}(window,'GeoPostal','BR');

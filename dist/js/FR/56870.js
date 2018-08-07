@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56870"]={"code":"56870","region":"Bretagne","city":"Baden","latitude":47.61734,"longitude":-2.91987}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56138"]={"code":"56138","region":"Minnesota","city":"Hills","latitude":43.52639,"longitude":-96.35833}}(window,'GeoPostal','US');

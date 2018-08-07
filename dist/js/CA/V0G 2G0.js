@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 2G0"]={"code":"V0G 2G0","region":"British Columbia","city":"Beasley","latitude":49.536785,"longitude":-117.428314}}(window,'GeoPostal','CA');

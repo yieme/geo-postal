@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["224221"]={"code":"224221","region":"Jiangsu","city":"Anfeng","latitude":32.73281,"longitude":120.39844}}(window,'GeoPostal','CN');

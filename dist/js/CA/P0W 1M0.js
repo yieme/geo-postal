@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0W 1M0"]={"code":"P0W 1M0","region":"Ontario","city":"Cozy Corners","latitude":48.94306,"longitude":-94.2948}}(window,'GeoPostal','CA');

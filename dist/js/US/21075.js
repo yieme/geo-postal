@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21075"]={"code":"21075","region":"Maryland","city":"Elkridge","latitude":39.21261,"longitude":-76.71358}}(window,'GeoPostal','US');

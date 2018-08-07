@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623770"]={"code":"623770","region":"Sverdlovskaya oblast'","city":"Krasnogvardeyskiy","latitude":57.37928,"longitude":62.31952}}(window,'GeoPostal','RU');

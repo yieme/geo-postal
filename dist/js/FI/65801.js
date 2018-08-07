@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65801"]={"code":"65801","region":"Pohjanmaa","city":"Replot","latitude":63.22882,"longitude":21.41691}}(window,'GeoPostal','FI');

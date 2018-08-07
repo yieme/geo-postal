@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18953"]={"code":"18953","region":"PA","city":"Revere","latitude":40.5154,"longitude":-75.161}}(window,'GeoPostal','US');

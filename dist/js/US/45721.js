@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45721"]={"code":"45721","region":"OH","city":"Coal Run","latitude":39.5676,"longitude":-81.5812}}(window,'GeoPostal','US');

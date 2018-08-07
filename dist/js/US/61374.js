@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61374"]={"code":"61374","region":"Illinois","city":"Van Orin","latitude":41.55187,"longitude":-89.35412}}(window,'GeoPostal','US');

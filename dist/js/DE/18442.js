@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18442"]={"code":"18442","region":"Mecklenburg-Vorpommern","city":"Berthke","latitude":54.21833,"longitude":12.93271}}(window,'GeoPostal','DE');

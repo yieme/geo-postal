@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242700"]={"code":"242700","region":"Bryanskaya oblast'","city":"Zhukovka","latitude":53.53395,"longitude":33.72798}}(window,'GeoPostal','RU');

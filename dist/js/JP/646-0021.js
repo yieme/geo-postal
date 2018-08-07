@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646-0021"]={"code":"646-0021","region":"Wakayama","city":"Tanabe","latitude":33.733,"longitude":135.383}}(window,'GeoPostal','JP');

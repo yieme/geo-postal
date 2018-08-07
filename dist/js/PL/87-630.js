@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-630"]={"code":"87-630","region":"Kujawsko-pomorskie","city":"Skepe","latitude":52.86798,"longitude":19.35604}}(window,'GeoPostal','PL');

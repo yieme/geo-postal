@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69148"]={"code":"69148","region":"NE","city":"Lisco","latitude":41.5114,"longitude":-102.5498}}(window,'GeoPostal','US');

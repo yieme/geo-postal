@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30125"]={"code":"30125","region":"Georgia","city":"Cedartown","latitude":34.008953,"longitude":-85.255524}}(window,'GeoPostal','US');

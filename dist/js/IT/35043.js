@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35043"]={"code":"35043","region":"Veneto","city":"Monselice","latitude":45.24239,"longitude":11.74901}}(window,'GeoPostal','IT');

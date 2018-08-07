@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54723"]={"code":"54723","region":"Wisconsin","city":"Bay City","latitude":44.5873,"longitude":-92.4535}}(window,'GeoPostal','US');

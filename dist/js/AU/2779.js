@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2779"]={"code":"2779","region":"New South Wales","city":"Hazelbrook","latitude":-33.72446,"longitude":150.45839}}(window,'GeoPostal','AU');

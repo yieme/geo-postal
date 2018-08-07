@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K6V 4T9"]={"code":"K6V 4T9","region":"Ontario","city":"Brockville","latitude":44.589372,"longitude":-75.683851}}(window,'GeoPostal','CA');

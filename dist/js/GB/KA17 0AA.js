@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA17 0AA"]={"code":"KA17 0AA","region":"Scotland","city":"Darvel","latitude":55.60976,"longitude":-4.28142}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G42 9LB"]={"code":"G42 9LB","region":"Scotland","city":"Glasgow","latitude":55.86515,"longitude":-4.25763}}(window,'GeoPostal','GB');

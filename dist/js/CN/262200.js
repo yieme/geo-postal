@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262200"]={"code":"262200","region":"Shandong","city":"Zhu Cheng City","latitude":35.99502,"longitude":119.40259}}(window,'GeoPostal','CN');

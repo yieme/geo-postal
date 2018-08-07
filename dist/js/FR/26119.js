@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26119"]={"code":"26119","region":"Auvergne-Rhone-Alpes","city":"Nyons","latitude":44.36667,"longitude":5.13333}}(window,'GeoPostal','FR');

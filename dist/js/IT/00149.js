@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00149"]={"code":"00149","region":"Toscana","city":"San Godenzo","latitude":43.92556,"longitude":11.61843}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3714"]={"code":"3714","region":"Bern","city":"Frutigen","latitude":46.58782,"longitude":7.64751}}(window,'GeoPostal','CH');

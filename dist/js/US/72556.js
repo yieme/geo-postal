@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72556"]={"code":"72556","region":"Arkansas","city":"Melbourne","latitude":36.05951,"longitude":-91.90848}}(window,'GeoPostal','US');

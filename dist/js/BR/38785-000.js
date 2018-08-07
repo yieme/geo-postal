@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38785-000"]={"code":"38785-000","region":"Minas Gerais","city":"Vazante","latitude":-17.98694,"longitude":-46.90778}}(window,'GeoPostal','BR');

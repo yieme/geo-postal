@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5226"]={"code":"5226","region":"Rajshahi","city":"Dinajpur","latitude":25.62715,"longitude":88.63864}}(window,'GeoPostal','BD');

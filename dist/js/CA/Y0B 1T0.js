@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["Y0B 1T0"]={"code":"Y0B 1T0","region":"Yukon","city":"Tagish","latitude":60.31331,"longitude":-134.27173}}(window,'GeoPostal','CA');

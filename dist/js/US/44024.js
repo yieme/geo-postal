@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44024"]={"code":"44024","region":"Ohio","city":"Chardon","latitude":41.61422,"longitude":-81.14899}}(window,'GeoPostal','US');

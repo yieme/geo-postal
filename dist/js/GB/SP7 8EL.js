@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP7 8EL"]={"code":"SP7 8EL","region":"England","city":"Shaftesbury","latitude":51.00528,"longitude":-2.19333}}(window,'GeoPostal','GB');

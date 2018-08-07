@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19450"]={"code":"19450","region":"Castilla-La Mancha","city":"Trillo","latitude":40.70086,"longitude":-2.59265}}(window,'GeoPostal','ES');

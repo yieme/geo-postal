@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84090"]={"code":"84090","region":"Sonora","city":"Empalme","latitude":27.96667,"longitude":-110.81667}}(window,'GeoPostal','MX');

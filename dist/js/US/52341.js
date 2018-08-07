@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52341"]={"code":"52341","region":"IA","city":"Toddville","latitude":42.1039,"longitude":-91.729}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5690"]={"code":"5690","region":"Syddanmark","city":"Tommerup","latitude":55.31952,"longitude":10.20659}}(window,'GeoPostal','DK');

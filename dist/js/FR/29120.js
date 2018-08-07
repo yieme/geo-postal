@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29120"]={"code":"29120","region":"Bretagne","city":"Plomeur","latitude":47.83333,"longitude":-4.28333}}(window,'GeoPostal','FR');

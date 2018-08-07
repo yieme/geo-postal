@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26900-000"]={"code":"26900-000","region":"Rio de Janeiro","city":"Miguel Pereira","latitude":-22.45389,"longitude":-43.46889}}(window,'GeoPostal','BR');

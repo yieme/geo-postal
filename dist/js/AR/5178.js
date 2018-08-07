@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5178"]={"code":"5178","region":"Cordoba","city":"La Cumbre","latitude":-30.98201,"longitude":-64.49139}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE15 7SF"]={"code":"LE15 7SF","region":"England","city":"Clipsham","latitude":52.73608,"longitude":-0.56545}}(window,'GeoPostal','GB');

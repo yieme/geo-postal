@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547287"]={"code":"547287","region":"Bucuresti","city":"Peris","latitude":44.68472,"longitude":26.01389}}(window,'GeoPostal','RO');

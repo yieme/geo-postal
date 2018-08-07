@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65473"]={"code":"65473","region":"Missouri","city":"Fort Leonard Wood","latitude":37.70573,"longitude":-92.15717}}(window,'GeoPostal','US');

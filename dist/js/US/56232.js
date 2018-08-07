@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56232"]={"code":"56232","region":"Minnesota","city":"Dawson","latitude":44.93274,"longitude":-96.05448}}(window,'GeoPostal','US');

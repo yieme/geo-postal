@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41740"]={"code":"41740","region":"Kentucky","city":"Emmalena","latitude":37.325914,"longitude":-83.069837}}(window,'GeoPostal','US');

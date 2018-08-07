@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55909"]={"code":"55909","region":"MN","city":"Adams","latitude":43.5591,"longitude":-92.7305}}(window,'GeoPostal','US');

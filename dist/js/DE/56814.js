@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56814"]={"code":"56814","region":"Rheinland-Pfalz","city":"Ernst","latitude":50.15,"longitude":7.23333}}(window,'GeoPostal','DE');

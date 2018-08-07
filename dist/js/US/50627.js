@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50627"]={"code":"50627","region":"Iowa","city":"Eldora","latitude":42.364688,"longitude":-93.096119}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19540"]={"code":"19540","region":"PA","city":"Mohnton","latitude":40.2584,"longitude":-75.9833}}(window,'GeoPostal','US');

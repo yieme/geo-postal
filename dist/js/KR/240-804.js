@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["240-804"]={"code":"240-804","region":"Gangwon-do","city":"Tonghae","latitude":37.54389,"longitude":129.10694}}(window,'GeoPostal','KR');

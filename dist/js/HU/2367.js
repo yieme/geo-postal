@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2367"]={"code":"2367","region":"Pest","city":"Ujhartyan","latitude":47.21981,"longitude":19.38638}}(window,'GeoPostal','HU');

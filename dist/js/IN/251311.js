@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["251311"]={"code":"251311","region":"Uttar Pradesh","city":"Muzaffarnagar","latitude":29.46667,"longitude":77.68333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95000"]={"code":"95000","region":"Sarawak","city":"Sri Aman","latitude":1.25,"longitude":111.45}}(window,'GeoPostal','MY');

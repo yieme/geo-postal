@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HD3 3DG"]={"code":"HD3 3DG","region":"England","city":"Marsh","latitude":53.65268,"longitude":-1.81164}}(window,'GeoPostal','GB');

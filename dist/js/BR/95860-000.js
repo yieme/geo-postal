@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95860-000"]={"code":"95860-000","region":"Rio Grande do Sul","city":"Taquari","latitude":-29.79972,"longitude":-51.86444}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["462360"]={"code":"462360","region":"Orenburgskaya oblast'","city":"Novotroitsk","latitude":51.20301,"longitude":58.32665}}(window,'GeoPostal','RU');

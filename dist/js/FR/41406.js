@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41406"]={"code":"41406","region":"Centre-Val de Loire","city":"Montrichard","latitude":47.3431,"longitude":1.18653}}(window,'GeoPostal','FR');

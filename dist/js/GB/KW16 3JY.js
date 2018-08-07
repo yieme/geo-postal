@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW16 3JY"]={"code":"KW16 3JY","region":"Scotland","city":"Stenness","latitude":58.98679,"longitude":-3.2075}}(window,'GeoPostal','GB');

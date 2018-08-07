@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["822111"]={"code":"822111","region":"Jharkhand","city":"Barwadih","latitude":23.83333,"longitude":84.11667}}(window,'GeoPostal','IN');

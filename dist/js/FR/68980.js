@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68980"]={"code":"68980","region":"Grand-Est","city":"Beblenheim","latitude":48.1589,"longitude":7.3281}}(window,'GeoPostal','FR');

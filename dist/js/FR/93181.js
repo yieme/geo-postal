@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93181"]={"code":"93181","region":"Ile-de-France","city":"Montreuil","latitude":48.86415,"longitude":2.44322}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17202"]={"code":"17202","region":"Chernihivska oblast","city":"Talalayivka","latitude":50.95783,"longitude":31.92085}}(window,'GeoPostal','UA');

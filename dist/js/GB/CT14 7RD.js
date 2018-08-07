@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT14 7RD"]={"code":"CT14 7RD","region":"England","city":"Walmer","latitude":51.2029,"longitude":1.38685}}(window,'GeoPostal','GB');

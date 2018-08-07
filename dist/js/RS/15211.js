@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15211"]={"code":"15211","region":"Macvanski okrug","city":"Tabanovic","latitude":44.81361,"longitude":19.64139}}(window,'GeoPostal','RS');

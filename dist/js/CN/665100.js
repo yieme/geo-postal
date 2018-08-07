@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665100"]={"code":"665100","region":"Yunnan","city":"Ning'er","latitude":23.04053,"longitude":101.03683}}(window,'GeoPostal','CN');

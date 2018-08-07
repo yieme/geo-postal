@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99008"]={"code":"99008","region":"WA","city":"Edwall","latitude":47.5379,"longitude":-117.9071}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21850"]={"code":"21850","region":"MD","city":"Pittsville","latitude":38.3755,"longitude":-75.4076}}(window,'GeoPostal','US');

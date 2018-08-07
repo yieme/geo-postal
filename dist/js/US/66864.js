@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66864"]={"code":"66864","region":"KS","city":"Neosho Rapids","latitude":38.3948,"longitude":-96.0168}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26259"]={"code":"26259","region":"WV","city":"Dailey","latitude":38.7987,"longitude":-79.8962}}(window,'GeoPostal','US');

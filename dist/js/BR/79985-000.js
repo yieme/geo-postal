@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79985-000"]={"code":"79985-000","region":"Mato Grosso do Sul","city":"Iguatemi","latitude":-23.68028,"longitude":-54.56111}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL21 9UL"]={"code":"LL21 9UL","region":"Wales","city":"Llanfihangel-Glyn-Myfyr","latitude":53.01667,"longitude":-3.5}}(window,'GeoPostal','GB');

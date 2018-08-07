@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["799149"]={"code":"799149","region":"Tripura","city":"Sabrum","latitude":23,"longitude":91.73194}}(window,'GeoPostal','IN');

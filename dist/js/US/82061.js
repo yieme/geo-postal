@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82061"]={"code":"82061","region":"WY","city":"Horse Creek","latitude":41.4353,"longitude":-105.1417}}(window,'GeoPostal','US');

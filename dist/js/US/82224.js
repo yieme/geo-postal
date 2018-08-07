@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82224"]={"code":"82224","region":"WY","city":"Lost Springs","latitude":43.0421,"longitude":-104.7973}}(window,'GeoPostal','US');

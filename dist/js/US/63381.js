@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63381"]={"code":"63381","region":"MO","city":"Truxton","latitude":38.967,"longitude":-91.2126}}(window,'GeoPostal','US');

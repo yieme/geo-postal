@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16417"]={"code":"16417","region":"Castilla-La Mancha","city":"Los Hinojosos","latitude":39.60417,"longitude":-2.82572}}(window,'GeoPostal','ES');

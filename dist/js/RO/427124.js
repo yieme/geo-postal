@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427124"]={"code":"427124","region":"Giurgiu","city":"Provita de Sus","latitude":45.13333,"longitude":25.63333}}(window,'GeoPostal','RO');

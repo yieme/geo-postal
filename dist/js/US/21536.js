@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21536"]={"code":"21536","region":"MD","city":"Grantsville","latitude":39.6551,"longitude":-79.1241}}(window,'GeoPostal','US');

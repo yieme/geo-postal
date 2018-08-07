@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6767"]={"code":"6767","region":"Kardzhali","city":"Ardino","latitude":41.58333,"longitude":25.13333}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37850"]={"code":"37850","region":"Guanajuato","city":"San Diego de la Union","latitude":21.46667,"longitude":-100.86667}}(window,'GeoPostal','MX');

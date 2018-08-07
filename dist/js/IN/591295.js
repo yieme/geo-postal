@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["591295"]={"code":"591295","region":"Karnataka","city":"Raybag","latitude":16.48333,"longitude":74.78333}}(window,'GeoPostal','IN');

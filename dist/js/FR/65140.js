@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65140"]={"code":"65140","region":"Occitanie","city":"Rabastens-de-Bigorre","latitude":43.38769,"longitude":0.15122}}(window,'GeoPostal','FR');

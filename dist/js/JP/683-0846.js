@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["683-0846"]={"code":"683-0846","region":"Tottori","city":"Yonago","latitude":35.433,"longitude":133.333}}(window,'GeoPostal','JP');

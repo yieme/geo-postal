@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["585423"]={"code":"585423","region":"Karnataka","city":"Bidar","latitude":17.9,"longitude":77.55}}(window,'GeoPostal','IN');

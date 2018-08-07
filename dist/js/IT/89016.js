@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89016"]={"code":"89016","region":"Calabria","city":"Rizziconi","latitude":38.41078,"longitude":15.9582}}(window,'GeoPostal','IT');

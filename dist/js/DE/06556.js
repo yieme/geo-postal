@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06556"]={"code":"06556","region":"Thuringen","city":"Ichstedt","latitude":51.38333,"longitude":11.2}}(window,'GeoPostal','DE');

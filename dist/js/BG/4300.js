@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4300"]={"code":"4300","region":"Plovdiv","city":"Karlovo","latitude":42.63333,"longitude":24.8}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3109"]={"code":"3109","region":"Victoria","city":"Doncaster East","latitude":-37.78761,"longitude":145.14888}}(window,'GeoPostal','AU');

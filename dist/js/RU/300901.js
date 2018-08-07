@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300901"]={"code":"300901","region":"Tul'skaya oblast'","city":"Gorelki","latitude":54.25617,"longitude":37.6108}}(window,'GeoPostal','RU');

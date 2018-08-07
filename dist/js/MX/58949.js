@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58949"]={"code":"58949","region":"Michoacan de Ocampo","city":"Morelia","latitude":19.70078,"longitude":-101.18443}}(window,'GeoPostal','MX');

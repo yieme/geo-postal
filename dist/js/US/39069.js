@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39069"]={"code":"39069","region":"MS","city":"Fayette","latitude":31.7121,"longitude":-91.0582}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15655"]={"code":"15655","region":"PA","city":"Laughlintown","latitude":40.212,"longitude":-79.1978}}(window,'GeoPostal','US');

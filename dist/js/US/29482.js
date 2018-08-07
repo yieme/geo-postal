@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29482"]={"code":"29482","region":"South Carolina","city":"Sullivans Island","latitude":32.763255,"longitude":-79.839608}}(window,'GeoPostal','US');

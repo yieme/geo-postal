@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16738"]={"code":"16738","region":"Pennsylvania","city":"Lewis Run","latitude":41.87,"longitude":-78.66222}}(window,'GeoPostal','US');

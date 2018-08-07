@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR17 1DD"]={"code":"NR17 1DD","region":"England","city":"Caston","latitude":52.54358,"longitude":0.88251}}(window,'GeoPostal','GB');

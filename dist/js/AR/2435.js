@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2435"]={"code":"2435","region":"Cordoba","city":"Colonia La Tordilla","latitude":-31.23746,"longitude":-63.06134}}(window,'GeoPostal','AR');

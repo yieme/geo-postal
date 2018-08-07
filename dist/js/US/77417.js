@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77417"]={"code":"77417","region":"TX","city":"Beasley","latitude":29.479,"longitude":-95.9681}}(window,'GeoPostal','US');

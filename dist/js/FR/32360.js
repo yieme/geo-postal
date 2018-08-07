@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32360"]={"code":"32360","region":"Occitanie","city":"Jegun","latitude":43.76667,"longitude":0.46667}}(window,'GeoPostal','FR');

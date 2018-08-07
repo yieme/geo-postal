@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70583"]={"code":"70583","region":"Louisiana","city":"Scott","latitude":30.247357,"longitude":-92.102353}}(window,'GeoPostal','US');

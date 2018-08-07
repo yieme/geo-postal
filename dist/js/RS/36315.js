@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36315"]={"code":"36315","region":"Zlatiborski okrug","city":"Osjecenik","latitude":43.14528,"longitude":19.85889}}(window,'GeoPostal','RS');

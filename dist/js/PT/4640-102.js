@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4640-102"]={"code":"4640-102","region":"Porto","city":"Valadares","latitude":41.14737,"longitude":-7.9812}}(window,'GeoPostal','PT');

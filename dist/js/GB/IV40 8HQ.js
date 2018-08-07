@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV40 8HQ"]={"code":"IV40 8HQ","region":"Scotland","city":"Morvich","latitude":57.2345,"longitude":-5.385}}(window,'GeoPostal','GB');

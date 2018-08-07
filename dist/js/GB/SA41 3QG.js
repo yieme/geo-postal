@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA41 3QG"]={"code":"SA41 3QG","region":"Wales","city":"Crymych","latitude":51.97361,"longitude":-4.64722}}(window,'GeoPostal','GB');

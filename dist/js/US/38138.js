@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38138"]={"code":"38138","region":"Tennessee","city":"Germantown","latitude":35.0727,"longitude":-89.9025}}(window,'GeoPostal','US');

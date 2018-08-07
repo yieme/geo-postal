@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357834"]={"code":"357834","region":"Stavropol'skiy kray","city":"Krasnokumskoye","latitude":44.17806,"longitude":43.50194}}(window,'GeoPostal','RU');

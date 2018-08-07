@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16250"]={"code":"16250","region":"Nouvelle-Aquitaine","city":"Blanzac-Porcheresse","latitude":45.4772,"longitude":0.0325}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37806"]={"code":"37806","region":"Tennessee","city":"Mascot","latitude":36.0785,"longitude":-83.7375}}(window,'GeoPostal','US');

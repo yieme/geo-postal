@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40321"]={"code":"40321","region":"Medimurska zupanija","city":"Palovec","latitude":46.38889,"longitude":16.54778}}(window,'GeoPostal','HR');

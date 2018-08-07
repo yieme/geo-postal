@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["766028"]={"code":"766028","region":"Chhattisgarh","city":"Umarkot","latitude":19.66667,"longitude":82.21667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48659"]={"code":"48659","region":"Michigan","city":"Sterling","latitude":44.033333,"longitude":-84.022778}}(window,'GeoPostal','US');

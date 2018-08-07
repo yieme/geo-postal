@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13739"]={"code":"13739","region":"Castilla-La Mancha","city":"Santa Cruz de Mudela","latitude":38.64242,"longitude":-3.4665}}(window,'GeoPostal','ES');

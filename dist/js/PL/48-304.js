@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48-304"]={"code":"48-304","region":"Opolskie","city":"Nysa","latitude":50.47379,"longitude":17.33437}}(window,'GeoPostal','PL');

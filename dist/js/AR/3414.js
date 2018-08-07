@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3414"]={"code":"3414","region":"Corrientes","city":"Itati","latitude":-27.27043,"longitude":-58.24458}}(window,'GeoPostal','AR');

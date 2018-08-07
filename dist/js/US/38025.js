@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38025"]={"code":"38025","region":"Tennessee","city":"Dyersburg","latitude":36.03438,"longitude":-89.38548}}(window,'GeoPostal','US');

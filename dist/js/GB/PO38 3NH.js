@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO38 3NH"]={"code":"PO38 3NH","region":"England","city":"Rookley","latitude":50.65512,"longitude":-1.28334}}(window,'GeoPostal','GB');

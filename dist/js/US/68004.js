@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68004"]={"code":"68004","region":"NE","city":"Bancroft","latitude":42.0267,"longitude":-96.6171}}(window,'GeoPostal','US');

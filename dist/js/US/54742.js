@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54742"]={"code":"54742","region":"WI","city":"Fall Creek","latitude":44.7684,"longitude":-91.2856}}(window,'GeoPostal','US');

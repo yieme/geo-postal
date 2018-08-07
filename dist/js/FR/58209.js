@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58209"]={"code":"58209","region":"Bourgogne-Franche-Comte","city":"Cosne-Cours-sur-Loire","latitude":47.41101,"longitude":2.92528}}(window,'GeoPostal','FR');

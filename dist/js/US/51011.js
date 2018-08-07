@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51011"]={"code":"51011","region":"Iowa","city":"Hawarden","latitude":42.99582,"longitude":-96.48531}}(window,'GeoPostal','US');

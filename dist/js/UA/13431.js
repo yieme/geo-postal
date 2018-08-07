@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13431"]={"code":"13431","region":"Zhytomyrska oblast","city":"Chervone","latitude":49.95643,"longitude":28.86453}}(window,'GeoPostal','UA');

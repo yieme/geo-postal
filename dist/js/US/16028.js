@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16028"]={"code":"16028","region":"Pennsylvania","city":"East Brady","latitude":40.98444,"longitude":-79.61528}}(window,'GeoPostal','US');

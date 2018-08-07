@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62362"]={"code":"62362","region":"Illinois","city":"Perry","latitude":39.7825,"longitude":-90.745}}(window,'GeoPostal','US');

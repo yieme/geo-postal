@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10335"]={"code":"10335","region":"Extremadura","city":"Peraleda de la Mata","latitude":39.85288,"longitude":-5.46065}}(window,'GeoPostal','ES');

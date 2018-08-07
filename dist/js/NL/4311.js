@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4311"]={"code":"4311","region":"Zeeland","city":"Bruinisse","latitude":51.66167,"longitude":4.09444}}(window,'GeoPostal','NL');

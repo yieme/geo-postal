@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1A 0A1"]={"code":"B1A 0A1","region":"Nova Scotia","city":"Glace Bay","latitude":46.19695,"longitude":-59.95698}}(window,'GeoPostal','CA');

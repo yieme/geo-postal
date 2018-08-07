@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22729"]={"code":"22729","region":"Virginia","city":"Mitchells","latitude":38.3822,"longitude":-78.0134}}(window,'GeoPostal','US');

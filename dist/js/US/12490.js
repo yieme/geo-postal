@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12490"]={"code":"12490","region":"NY","city":"West Camp","latitude":42.1231,"longitude":-73.9349}}(window,'GeoPostal','US');

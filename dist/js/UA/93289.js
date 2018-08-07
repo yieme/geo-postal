@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93289"]={"code":"93289","region":"Luhanska oblast","city":"Toshkovka","latitude":48.77914,"longitude":38.57903}}(window,'GeoPostal','UA');

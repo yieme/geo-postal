@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05768"]={"code":"05768","region":"VT","city":"Rupert","latitude":43.2598,"longitude":-73.2229}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72568"]={"code":"72568","region":"AR","city":"Pleasant Plains","latitude":35.5893,"longitude":-91.632}}(window,'GeoPostal','US');

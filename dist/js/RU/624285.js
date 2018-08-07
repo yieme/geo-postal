@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624285"]={"code":"624285","region":"Sverdlovskaya oblast'","city":"Reftinskiy","latitude":57.09013,"longitude":61.67692}}(window,'GeoPostal','RU');

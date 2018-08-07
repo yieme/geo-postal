@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356055"]={"code":"356055","region":"Stavropol'skiy kray","city":"Ladovskaya Balka","latitude":45.62965,"longitude":41.40231}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41033"]={"code":"41033","region":"Panevezio apskritis","city":"Vabalninkas","latitude":55.96667,"longitude":24.75}}(window,'GeoPostal','LT');

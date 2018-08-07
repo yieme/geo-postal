@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["513 01"]={"code":"513 01","region":"Liberecky kraj","city":"Semily","latitude":50.60191,"longitude":15.33552}}(window,'GeoPostal','CZ');

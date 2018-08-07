@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23959"]={"code":"23959","region":"Virginia","city":"Phenix","latitude":37.08083,"longitude":-78.74722}}(window,'GeoPostal','US');

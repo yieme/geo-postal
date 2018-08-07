@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56230-000"]={"code":"56230-000","region":"Pernambuco","city":"Exu","latitude":-7.51194,"longitude":-39.72417}}(window,'GeoPostal','BR');

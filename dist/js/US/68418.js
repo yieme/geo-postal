@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68418"]={"code":"68418","region":"NE","city":"Palmyra","latitude":40.705,"longitude":-96.3999}}(window,'GeoPostal','US');

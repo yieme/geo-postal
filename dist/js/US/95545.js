@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95545"]={"code":"95545","region":"California","city":"Honeydew","latitude":40.244512,"longitude":-124.115952}}(window,'GeoPostal','US');

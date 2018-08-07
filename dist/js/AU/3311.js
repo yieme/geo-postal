@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3311"]={"code":"3311","region":"Victoria","city":"Sandford","latitude":-37.61667,"longitude":141.43333}}(window,'GeoPostal','AU');

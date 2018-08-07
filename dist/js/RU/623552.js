@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623552"]={"code":"623552","region":"Sverdlovskaya oblast'","city":"Pyshma","latitude":56.95226,"longitude":63.25129}}(window,'GeoPostal','RU');

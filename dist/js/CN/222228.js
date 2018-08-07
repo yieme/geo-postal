@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["222228"]={"code":"222228","region":"Jiangsu","city":"Yanweigang","latitude":34.46667,"longitude":119.76667}}(window,'GeoPostal','CN');

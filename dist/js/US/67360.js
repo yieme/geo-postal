@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67360"]={"code":"67360","region":"KS","city":"Peru","latitude":37.0568,"longitude":-96.1404}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43325"]={"code":"43325","region":"OH","city":"Iberia","latitude":40.6703,"longitude":-82.8435}}(window,'GeoPostal','US');

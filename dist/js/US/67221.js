@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67221"]={"code":"67221","region":"KS","city":"Mcconnell Afb","latitude":37.6066,"longitude":-97.2979}}(window,'GeoPostal','US');

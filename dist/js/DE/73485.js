@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73485"]={"code":"73485","region":"Baden-Wurttemberg","city":"Unterschneidheim","latitude":48.93333,"longitude":10.36667}}(window,'GeoPostal','DE');

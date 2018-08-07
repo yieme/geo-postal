@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 2C0"]={"code":"V0J 2C0","region":"British Columbia","city":"Mackenzie","latitude":55.33637,"longitude":-123.09374}}(window,'GeoPostal','CA');

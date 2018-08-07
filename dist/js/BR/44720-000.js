@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44720-000"]={"code":"44720-000","region":"Bahia","city":"Miguel Calmon","latitude":-11.42889,"longitude":-40.595}}(window,'GeoPostal','BR');

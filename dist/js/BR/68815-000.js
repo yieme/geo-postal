@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68815-000"]={"code":"68815-000","region":"Para","city":"Breves","latitude":-1.68222,"longitude":-50.48028}}(window,'GeoPostal','BR');

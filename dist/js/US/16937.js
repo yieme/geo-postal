@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16937"]={"code":"16937","region":"PA","city":"Mills","latitude":41.9656,"longitude":-77.7111}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74041"]={"code":"74041","region":"OK","city":"Kiefer","latitude":35.9528,"longitude":-96.061}}(window,'GeoPostal','US');

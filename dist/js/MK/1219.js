@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1219"]={"code":"1219","region":"Tetovo","city":"Golema Recica","latitude":41.99028,"longitude":20.94583}}(window,'GeoPostal','MK');

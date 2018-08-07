@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43524"]={"code":"43524","region":"OH","city":"Hamler","latitude":41.2292,"longitude":-84.0341}}(window,'GeoPostal','US');

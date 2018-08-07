@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674677"]={"code":"674677","region":"Zabaykal'skiy kray","city":"Krasnokamensk","latitude":50.0979,"longitude":118.0369}}(window,'GeoPostal','RU');

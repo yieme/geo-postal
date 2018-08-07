@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68128"]={"code":"68128","region":"Nebraska","city":"La Vista","latitude":41.183889,"longitude":-96.030833}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54817"]={"code":"54817","region":"Wisconsin","city":"Birchwood","latitude":45.72583,"longitude":-91.60889}}(window,'GeoPostal','US');

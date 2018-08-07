@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98329"]={"code":"98329","region":"Washington","city":"Gig Harbor","latitude":47.32926,"longitude":-122.58013}}(window,'GeoPostal','US');

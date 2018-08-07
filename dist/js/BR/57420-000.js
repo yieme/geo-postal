@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57420-000"]={"code":"57420-000","region":"Alagoas","city":"Batalha","latitude":-9.67778,"longitude":-37.12472}}(window,'GeoPostal','BR');

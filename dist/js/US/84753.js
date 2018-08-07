@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84753"]={"code":"84753","region":"UT","city":"Modena","latitude":37.7995,"longitude":-113.9193}}(window,'GeoPostal','US');

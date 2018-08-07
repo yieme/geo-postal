@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2209"]={"code":"2209","region":"Zambales","city":"Subic","latitude":14.87999,"longitude":120.23433}}(window,'GeoPostal','PH');

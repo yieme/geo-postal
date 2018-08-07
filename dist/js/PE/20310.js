@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20310"]={"code":"20310","region":"Piura","city":"Morropon","latitude":-5.18222,"longitude":-79.96889}}(window,'GeoPostal','PE');

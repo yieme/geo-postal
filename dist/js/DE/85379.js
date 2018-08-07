@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85379"]={"code":"85379","region":"Bayern","city":"Eching","latitude":48.07991,"longitude":11.11336}}(window,'GeoPostal','DE');

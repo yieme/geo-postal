@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572535"]={"code":"572535","region":"Hainan","city":"Leluo","latitude":18.44808,"longitude":108.88245}}(window,'GeoPostal','CN');

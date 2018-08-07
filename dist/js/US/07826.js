@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07826"]={"code":"07826","region":"New Jersey","city":"Branchville","latitude":41.1915,"longitude":-74.7496}}(window,'GeoPostal','US');

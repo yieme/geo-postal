@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81325"]={"code":"81325","region":"CO","city":"Egnar","latitude":37.9344,"longitude":-108.9299}}(window,'GeoPostal','US');

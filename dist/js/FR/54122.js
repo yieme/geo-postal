@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54122"]={"code":"54122","region":"Grand-Est","city":"Azerailles","latitude":48.4886,"longitude":6.6953}}(window,'GeoPostal','FR');

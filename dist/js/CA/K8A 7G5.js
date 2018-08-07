@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K8A 7G5"]={"code":"K8A 7G5","region":"Ontario","city":"Pembroke","latitude":45.848894,"longitude":-77.199344}}(window,'GeoPostal','CA');

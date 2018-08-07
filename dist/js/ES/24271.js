@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24271"]={"code":"24271","region":"Castilla y Leon","city":"Llamas de la Ribera","latitude":42.63504,"longitude":-5.82524}}(window,'GeoPostal','ES');

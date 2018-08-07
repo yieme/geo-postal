@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46785"]={"code":"46785","region":"Indiana","city":"Saint Joe","latitude":41.31472,"longitude":-84.90083}}(window,'GeoPostal','US');

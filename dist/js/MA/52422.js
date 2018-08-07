@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52422"]={"code":"52422","region":"Meknes-Tafilalet","city":"Amouguer","latitude":32.27491,"longitude":-4.93535}}(window,'GeoPostal','MA');

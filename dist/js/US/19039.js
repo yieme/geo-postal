@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19039"]={"code":"19039","region":"PA","city":"Gradyville","latitude":39.9432,"longitude":-75.4694}}(window,'GeoPostal','US');

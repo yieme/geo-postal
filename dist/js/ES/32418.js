@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32418"]={"code":"32418","region":"Galicia","city":"Ribadavia","latitude":42.28804,"longitude":-8.14362}}(window,'GeoPostal','ES');

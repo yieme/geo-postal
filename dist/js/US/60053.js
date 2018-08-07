@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60053"]={"code":"60053","region":"Illinois","city":"Morton Grove","latitude":42.04273,"longitude":-87.792786}}(window,'GeoPostal','US');

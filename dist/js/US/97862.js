@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97862"]={"code":"97862","region":"Oregon","city":"Milton-Freewater","latitude":45.93263,"longitude":-118.38774}}(window,'GeoPostal','US');

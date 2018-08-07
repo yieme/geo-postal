@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37091"]={"code":"37091","region":"Tennessee","city":"Lewisburg","latitude":35.44924,"longitude":-86.78889}}(window,'GeoPostal','US');

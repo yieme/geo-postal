@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33169"]={"code":"33169","region":"Nouvelle-Aquitaine","city":"Saint-Medard-en-Jalles","latitude":44.89692,"longitude":-0.72136}}(window,'GeoPostal','FR');

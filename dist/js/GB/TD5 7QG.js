@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD5 7QG"]={"code":"TD5 7QG","region":"Scotland","city":"Ednam","latitude":55.62811,"longitude":-2.41876}}(window,'GeoPostal','GB');

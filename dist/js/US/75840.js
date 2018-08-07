@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75840"]={"code":"75840","region":"Texas","city":"Fairfield","latitude":31.72461,"longitude":-96.16525}}(window,'GeoPostal','US');

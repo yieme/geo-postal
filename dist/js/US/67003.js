@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67003"]={"code":"67003","region":"Kansas","city":"Anthony","latitude":37.15336,"longitude":-98.03117}}(window,'GeoPostal','US');

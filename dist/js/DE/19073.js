@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19073"]={"code":"19073","region":"Mecklenburg-Vorpommern","city":"Zulow","latitude":53.57742,"longitude":11.27146}}(window,'GeoPostal','DE');

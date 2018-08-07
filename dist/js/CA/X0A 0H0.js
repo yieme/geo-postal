@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0A 0H0"]={"code":"X0A 0H0","region":"Nunavut","city":"Iqaluit","latitude":63.75059,"longitude":-68.51449}}(window,'GeoPostal','CA');

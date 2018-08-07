@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21857"]={"code":"21857","region":"MD","city":"Rehobeth","latitude":38.039,"longitude":-75.663}}(window,'GeoPostal','US');

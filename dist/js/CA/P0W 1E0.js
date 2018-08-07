@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0W 1E0"]={"code":"P0W 1E0","region":"Ontario","city":"Emo","latitude":48.63323,"longitude":-93.83363}}(window,'GeoPostal','CA');

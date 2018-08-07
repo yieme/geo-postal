@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0L 1K0"]={"code":"A0L 1K0","region":"Newfoundland and Labrador","city":"Pasadena","latitude":49.01671,"longitude":-57.59837}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0872"]={"code":"0872","region":"Northern Territory","city":"Mutitjulu","latitude":-25.3507,"longitude":131.06736}}(window,'GeoPostal','AU');

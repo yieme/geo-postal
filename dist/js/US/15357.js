@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15357"]={"code":"15357","region":"Pennsylvania","city":"Rices Landing","latitude":39.946283,"longitude":-79.995853}}(window,'GeoPostal','US');

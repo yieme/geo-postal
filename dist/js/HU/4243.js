@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4243"]={"code":"4243","region":"Hajdu-Bihar","city":"Teglas","latitude":47.71667,"longitude":21.68333}}(window,'GeoPostal','HU');

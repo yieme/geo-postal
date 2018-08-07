@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73542"]={"code":"73542","region":"OK","city":"Frederick","latitude":34.4012,"longitude":-99.0119}}(window,'GeoPostal','US');

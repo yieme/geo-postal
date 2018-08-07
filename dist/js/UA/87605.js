@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87605"]={"code":"87605","region":"Donetska oblast","city":"Novoazovs'k","latitude":47.11389,"longitude":38.08599}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD9 7QA"]={"code":"DD9 7QA","region":"Scotland","city":"Stracathro","latitude":56.77757,"longitude":-2.61525}}(window,'GeoPostal','GB');

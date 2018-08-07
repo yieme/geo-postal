@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01000"]={"code":"01000","region":"Perlis","city":"Kangar","latitude":6.4414,"longitude":100.19862}}(window,'GeoPostal','MY');

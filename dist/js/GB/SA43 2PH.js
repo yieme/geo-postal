@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA43 2PH"]={"code":"SA43 2PH","region":"Wales","city":"Llechryd","latitude":52.05,"longitude":-4.6}}(window,'GeoPostal','GB');

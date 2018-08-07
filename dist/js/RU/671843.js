@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671843"]={"code":"671843","region":"Buryatiya, Respublika","city":"Kyakhta","latitude":50.35083,"longitude":106.44944}}(window,'GeoPostal','RU');

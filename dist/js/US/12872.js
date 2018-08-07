@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12872"]={"code":"12872","region":"NY","city":"Severance","latitude":43.8759,"longitude":-73.7304}}(window,'GeoPostal','US');

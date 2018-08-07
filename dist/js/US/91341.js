@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91341"]={"code":"91341","region":"CA","city":"San Fernando","latitude":34.2819,"longitude":-118.439}}(window,'GeoPostal','US');

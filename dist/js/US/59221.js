@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59221"]={"code":"59221","region":"Montana","city":"Fairview","latitude":47.8549,"longitude":-104.04627}}(window,'GeoPostal','US');

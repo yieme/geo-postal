@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA4 8AL"]={"code":"CA4 8AL","region":"England","city":"Scotby","latitude":54.89004,"longitude":-2.87464}}(window,'GeoPostal','GB');

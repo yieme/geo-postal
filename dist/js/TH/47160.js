@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47160"]={"code":"47160","region":"Sakon Nakhon","city":"Phang Khon","latitude":17.3905,"longitude":103.71692}}(window,'GeoPostal','TH');

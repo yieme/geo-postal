@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22223"]={"code":"22223","region":"VA","city":"Marine Corps Institute","latitude":38.88,"longitude":-77.09}}(window,'GeoPostal','US');

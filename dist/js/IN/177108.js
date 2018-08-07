@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["177108"]={"code":"177108","region":"Himachal Pradesh","city":"Dera Gopipur","latitude":31.9,"longitude":76.21667}}(window,'GeoPostal','IN');

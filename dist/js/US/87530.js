@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87530"]={"code":"87530","region":"NM","city":"El Rito","latitude":36.3647,"longitude":-106.2192}}(window,'GeoPostal','US');

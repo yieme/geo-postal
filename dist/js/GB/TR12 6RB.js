@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR12 6RB"]={"code":"TR12 6RB","region":"England","city":"Saint Keverne","latitude":50.05,"longitude":-5.1}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61048"]={"code":"61048","region":"Marche","city":"Sant'Angelo in Vado","latitude":43.66546,"longitude":12.41575}}(window,'GeoPostal','IT');

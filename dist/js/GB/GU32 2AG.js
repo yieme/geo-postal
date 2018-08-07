@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU32 2AG"]={"code":"GU32 2AG","region":"England","city":"Sheet","latitude":51.01492,"longitude":-0.92058}}(window,'GeoPostal','GB');

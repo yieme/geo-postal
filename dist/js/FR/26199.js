@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26199"]={"code":"26199","region":"Auvergne-Rhone-Alpes","city":"Saint-Jean-en-Royans","latitude":45.01693,"longitude":5.29454}}(window,'GeoPostal','FR');

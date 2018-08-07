@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39402"]={"code":"39402","region":"Mississippi","city":"Hattiesburg","latitude":31.31228,"longitude":-89.34333}}(window,'GeoPostal','US');

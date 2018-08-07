@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36564"]={"code":"36564","region":"AL","city":"Point Clear","latitude":30.4741,"longitude":-87.9192}}(window,'GeoPostal','US');

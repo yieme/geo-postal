@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06458"]={"code":"06458","region":"Sachsen-Anhalt","city":"Wedderstedt","latitude":51.8395,"longitude":11.24411}}(window,'GeoPostal','DE');

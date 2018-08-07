@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671950"]={"code":"671950","region":"Buryatiya, Respublika","city":"Zakamensk","latitude":50.3741,"longitude":103.2863}}(window,'GeoPostal','RU');

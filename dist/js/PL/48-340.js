@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48-340"]={"code":"48-340","region":"Opolskie","city":"Glucholazy","latitude":50.31505,"longitude":17.38355}}(window,'GeoPostal','PL');

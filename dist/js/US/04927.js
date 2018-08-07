@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04927"]={"code":"04927","region":"ME","city":"Clinton","latitude":44.644,"longitude":-69.5284}}(window,'GeoPostal','US');

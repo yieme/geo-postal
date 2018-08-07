@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20122"]={"code":"20122","region":"VA","city":"Centreville","latitude":38.8318,"longitude":-77.2888}}(window,'GeoPostal','US');

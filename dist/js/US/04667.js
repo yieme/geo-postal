@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04667"]={"code":"04667","region":"ME","city":"Perry","latitude":44.9888,"longitude":-67.0929}}(window,'GeoPostal','US');

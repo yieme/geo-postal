@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52330"]={"code":"52330","region":"IA","city":"Ryan","latitude":42.3436,"longitude":-91.4848}}(window,'GeoPostal','US');

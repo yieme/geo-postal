@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47175"]={"code":"47175","region":"IN","city":"Taswell","latitude":38.3463,"longitude":-86.5387}}(window,'GeoPostal','US');

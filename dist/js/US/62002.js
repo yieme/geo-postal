@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62002"]={"code":"62002","region":"Illinois","city":"Alton","latitude":38.8906,"longitude":-90.18428}}(window,'GeoPostal','US');

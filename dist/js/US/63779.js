@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63779"]={"code":"63779","region":"MO","city":"Pocahontas","latitude":37.5007,"longitude":-89.6396}}(window,'GeoPostal','US');

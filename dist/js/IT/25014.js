@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25014"]={"code":"25014","region":"Lombardia","city":"Castenedolo","latitude":45.46948,"longitude":10.29567}}(window,'GeoPostal','IT');

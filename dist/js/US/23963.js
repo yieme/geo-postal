@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23963"]={"code":"23963","region":"VA","city":"Red House","latitude":37.1914,"longitude":-78.8145}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["798 02"]={"code":"798 02","region":"Olomoucky kraj","city":"Mostkovice","latitude":49.47215,"longitude":17.05212}}(window,'GeoPostal','CZ');

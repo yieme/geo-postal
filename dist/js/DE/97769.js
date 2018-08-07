@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97769"]={"code":"97769","region":"Bayern","city":"Bad Bruckenau","latitude":50.30853,"longitude":9.78985}}(window,'GeoPostal','DE');

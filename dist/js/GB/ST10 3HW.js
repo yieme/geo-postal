@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST10 3HW"]={"code":"ST10 3HW","region":"England","city":"Waterfall","latitude":53.05,"longitude":-1.88333}}(window,'GeoPostal','GB');

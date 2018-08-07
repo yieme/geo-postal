@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41005"]={"code":"41005","region":"KY","city":"Burlington","latitude":39.015,"longitude":-84.7736}}(window,'GeoPostal','US');

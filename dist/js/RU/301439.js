@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301439"]={"code":"301439","region":"Tul'skaya oblast'","city":"Suvorov","latitude":54.1223,"longitude":36.49657}}(window,'GeoPostal','RU');

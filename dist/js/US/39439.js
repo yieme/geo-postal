@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39439"]={"code":"39439","region":"MS","city":"Heidelberg","latitude":31.882,"longitude":-88.9981}}(window,'GeoPostal','US');

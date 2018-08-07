@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461430"]={"code":"461430","region":"Orenburgskaya oblast'","city":"Krasnyy Kommunar","latitude":51.96436,"longitude":55.3668}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18004"]={"code":"18004","region":"Izabal","city":"Morales","latitude":15.48333,"longitude":-88.81667}}(window,'GeoPostal','GT');

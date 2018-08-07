@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["496338"]={"code":"496338","region":"Chhattisgarh","city":"Jashpurnagar","latitude":22.9,"longitude":84.15}}(window,'GeoPostal','IN');

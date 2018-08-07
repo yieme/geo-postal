@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423190"]={"code":"423190","region":"Tatarstan, Respublika","city":"Novosheshminsk","latitude":55.06513,"longitude":51.23376}}(window,'GeoPostal','RU');

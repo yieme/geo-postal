@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72322"]={"code":"72322","region":"AR","city":"Caldwell","latitude":35.0562,"longitude":-90.8288}}(window,'GeoPostal','US');

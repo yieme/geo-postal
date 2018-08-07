@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4428"]={"code":"4428","region":"Queensland","city":"Wallumbilla","latitude":-26.58273,"longitude":149.1871}}(window,'GeoPostal','AU');

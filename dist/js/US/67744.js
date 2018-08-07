@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67744"]={"code":"67744","region":"Kansas","city":"Ludell","latitude":39.871865,"longitude":-100.944033}}(window,'GeoPostal','US');

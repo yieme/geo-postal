@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56230"]={"code":"56230","region":"Bretagne","city":"Berric","latitude":47.63326,"longitude":-2.5225}}(window,'GeoPostal','FR');

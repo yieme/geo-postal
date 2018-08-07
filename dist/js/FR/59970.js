@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59970"]={"code":"59970","region":"Hauts-de-France","city":"Vicq","latitude":50.40738,"longitude":3.60348}}(window,'GeoPostal','FR');

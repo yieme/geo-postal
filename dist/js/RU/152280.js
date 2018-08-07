@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152280"]={"code":"152280","region":"Yaroslavskaya oblast'","city":"Krasnyy Profintern","latitude":57.74459,"longitude":40.43502}}(window,'GeoPostal','RU');

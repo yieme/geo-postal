@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99870"]={"code":"99870","region":"Lappi","city":"Inari","latitude":68.90596,"longitude":27.02881}}(window,'GeoPostal','FI');

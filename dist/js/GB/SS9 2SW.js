@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SS9 2SW"]={"code":"SS9 2SW","region":"England","city":"Leigh-on-Sea","latitude":51.54297,"longitude":0.64905}}(window,'GeoPostal','GB');

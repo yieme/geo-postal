@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12720"]={"code":"12720","region":"New York","city":"Bethel","latitude":41.663923,"longitude":-74.905959}}(window,'GeoPostal','US');

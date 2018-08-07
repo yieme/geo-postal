@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8698"]={"code":"8698","region":"Somogy","city":"Somogyvar","latitude":46.5814,"longitude":17.66289}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T3Z 3P7"]={"code":"T3Z 3P7","region":"Alberta","city":"Ghost Lake","latitude":51.2001,"longitude":-114.76873}}(window,'GeoPostal','CA');

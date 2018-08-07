@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39160"]={"code":"39160","region":"MS","city":"Sallis","latitude":33.001,"longitude":-89.7552}}(window,'GeoPostal','US');

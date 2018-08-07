@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA71 4DF"]={"code":"SA71 4DF","region":"Wales","city":"Pembroke","latitude":51.67464,"longitude":-4.91286}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74450"]={"code":"74450","region":"OK","city":"Oktaha","latitude":35.625,"longitude":-95.4856}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907160"]={"code":"907160","region":"Constanta","city":"Limanu","latitude":43.8,"longitude":28.53333}}(window,'GeoPostal','RO');

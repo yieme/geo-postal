@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 0J0"]={"code":"S0M 0J0","region":"Saskatchewan","city":"Buffalo Narrows","latitude":55.85017,"longitude":-108.48475}}(window,'GeoPostal','CA');

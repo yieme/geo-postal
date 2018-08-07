@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4802"]={"code":"4802","region":"Queensland","city":"Cannonvale","latitude":-20.27681,"longitude":148.69759}}(window,'GeoPostal','AU');

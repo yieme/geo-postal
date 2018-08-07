@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21087"]={"code":"21087","region":"MD","city":"Kingsville","latitude":39.4558,"longitude":-76.4147}}(window,'GeoPostal','US');

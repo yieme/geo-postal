@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55953"]={"code":"55953","region":"MN","city":"Lyle","latitude":43.5309,"longitude":-92.9328}}(window,'GeoPostal','US');

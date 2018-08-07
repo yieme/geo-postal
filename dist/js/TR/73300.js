@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73300"]={"code":"73300","region":"Erzincan","city":"Ilic","latitude":39.45503,"longitude":38.564}}(window,'GeoPostal','TR');

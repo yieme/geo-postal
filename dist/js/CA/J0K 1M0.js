@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 1M0"]={"code":"J0K 1M0","region":"Quebec","city":"Manouane","latitude":47.21211,"longitude":-74.39392}}(window,'GeoPostal','CA');

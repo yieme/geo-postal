@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX17 5BL"]={"code":"EX17 5BL","region":"England","city":"Yeoford","latitude":50.77607,"longitude":-3.7273}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53816"]={"code":"53816","region":"WI","city":"Mount Hope","latitude":42.9689,"longitude":-90.8665}}(window,'GeoPostal','US');

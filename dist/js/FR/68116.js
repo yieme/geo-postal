@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68116"]={"code":"68116","region":"Grand-Est","city":"Guewenheim","latitude":47.75283,"longitude":7.09253}}(window,'GeoPostal','FR');

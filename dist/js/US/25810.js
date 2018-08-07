@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25810"]={"code":"25810","region":"WV","city":"Allen Junction","latitude":37.5893,"longitude":-81.3507}}(window,'GeoPostal','US');

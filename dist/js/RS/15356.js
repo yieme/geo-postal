@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15356"]={"code":"15356","region":"Macvanski okrug","city":"Glusci","latitude":44.89056,"longitude":19.54833}}(window,'GeoPostal','RS');

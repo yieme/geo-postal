@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12734"]={"code":"12734","region":"New York","city":"Ferndale","latitude":41.77389,"longitude":-74.73861}}(window,'GeoPostal','US');

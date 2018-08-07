@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54292"]={"code":"54292","region":"Rheinland-Pfalz","city":"Biewer","latitude":49.77894,"longitude":6.66278}}(window,'GeoPostal','DE');

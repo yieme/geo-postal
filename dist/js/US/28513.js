@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28513"]={"code":"28513","region":"North Carolina","city":"Ayden","latitude":35.468712,"longitude":-77.42089}}(window,'GeoPostal','US');

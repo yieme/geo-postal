@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05777"]={"code":"05777","region":"VT","city":"West Rutland","latitude":43.5781,"longitude":-73.0424}}(window,'GeoPostal','US');

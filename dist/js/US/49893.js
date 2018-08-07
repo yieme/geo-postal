@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49893"]={"code":"49893","region":"Michigan","city":"Wallace","latitude":45.333107,"longitude":-87.60984}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84364"]={"code":"84364","region":"Bayern","city":"Lengham","latitude":48.43364,"longitude":13.11603}}(window,'GeoPostal','DE');

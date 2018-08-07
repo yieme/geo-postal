@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517423"]={"code":"517423","region":"Guangdong","city":"Zhongba","latitude":23.70731,"longitude":115.34104}}(window,'GeoPostal','CN');

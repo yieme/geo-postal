@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17114"]={"code":"17114","region":"Jawa Barat","city":"Bekasi","latitude":-6.2349,"longitude":106.9896}}(window,'GeoPostal','ID');

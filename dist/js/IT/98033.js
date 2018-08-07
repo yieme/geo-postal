@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98033"]={"code":"98033","region":"Sicilia","city":"Cesaro","latitude":37.84476,"longitude":14.71308}}(window,'GeoPostal','IT');

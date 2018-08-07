@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247322"]={"code":"247322","region":"Bacau","city":"Livezi","latitude":44.85,"longitude":23.81667}}(window,'GeoPostal','RO');

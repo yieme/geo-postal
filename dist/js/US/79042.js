@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79042"]={"code":"79042","region":"Texas","city":"Happy","latitude":34.743704,"longitude":-101.858365}}(window,'GeoPostal','US');

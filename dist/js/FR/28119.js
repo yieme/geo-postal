@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28119"]={"code":"28119","region":"Centre-Val de Loire","city":"Luce","latitude":48.4369,"longitude":1.46359}}(window,'GeoPostal','FR');

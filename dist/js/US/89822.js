@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89822"]={"code":"89822","region":"NV","city":"Carlin","latitude":40.7172,"longitude":-116.1082}}(window,'GeoPostal','US');

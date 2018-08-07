@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["276208"]={"code":"276208","region":"Uttar Pradesh","city":"Jaunpur","latitude":25.73333,"longitude":82.68333}}(window,'GeoPostal','IN');

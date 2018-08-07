@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK18 1NL"]={"code":"MK18 1NL","region":"England","city":"Buckingham","latitude":51.99968,"longitude":-0.98779}}(window,'GeoPostal','GB');

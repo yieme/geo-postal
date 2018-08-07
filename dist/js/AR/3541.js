@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3541"]={"code":"3541","region":"Chaco","city":"Coronel Du Graty","latitude":-27.68038,"longitude":-60.91462}}(window,'GeoPostal','AR');

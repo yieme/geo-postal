@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["126009"]={"code":"126009","region":"Haryana","city":"Uklana","latitude":29.51667,"longitude":75.86667}}(window,'GeoPostal','IN');

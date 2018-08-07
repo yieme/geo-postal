@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 2H0"]={"code":"J0B 2H0","region":"Quebec","city":"Cleveland","latitude":45.66678,"longitude":-72.0824}}(window,'GeoPostal','CA');

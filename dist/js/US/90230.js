@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90230"]={"code":"90230","region":"California","city":"Culver City","latitude":34.001758,"longitude":-118.394799}}(window,'GeoPostal','US');

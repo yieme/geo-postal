@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28123"]={"code":"28123","region":"NC","city":"Mount Mourne","latitude":35.5432,"longitude":-80.8473}}(window,'GeoPostal','US');

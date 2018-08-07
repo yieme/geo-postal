@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391 56"]={"code":"391 56","region":"Jihocesky kraj","city":"Sezimovo Usti","latitude":49.38519,"longitude":14.6848}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 2AP"]={"code":"AB42 2AP","region":"Scotland","city":"Peterhead","latitude":57.50584,"longitude":-1.79806}}(window,'GeoPostal','GB');

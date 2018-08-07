@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57355"]={"code":"57355","region":"South Dakota","city":"Kimball","latitude":43.717504,"longitude":-98.932203}}(window,'GeoPostal','US');

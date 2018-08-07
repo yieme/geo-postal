@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22430"]={"code":"22430","region":"San Martin","city":"Picota","latitude":-6.91969,"longitude":-76.33037}}(window,'GeoPostal','PE');

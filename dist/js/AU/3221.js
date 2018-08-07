@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3221"]={"code":"3221","region":"Victoria","city":"Wye River","latitude":-38.63333,"longitude":143.88333}}(window,'GeoPostal','AU');

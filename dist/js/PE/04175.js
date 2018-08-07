@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04175"]={"code":"04175","region":"Arequipa","city":"Ccolo","latitude":-15.50583,"longitude":-71.49167}}(window,'GeoPostal','PE');

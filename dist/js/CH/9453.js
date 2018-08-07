@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9453"]={"code":"9453","region":"Sankt Gallen","city":"Eichberg","latitude":47.34304,"longitude":9.5299}}(window,'GeoPostal','CH');

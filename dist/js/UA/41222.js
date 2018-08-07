@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41222"]={"code":"41222","region":"Sumska oblast","city":"Druzhba","latitude":52.04545,"longitude":33.94517}}(window,'GeoPostal','UA');

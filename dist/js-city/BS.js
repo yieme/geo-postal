@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["BS"]={'':{r:'New Providence',c:'Nassau'}};

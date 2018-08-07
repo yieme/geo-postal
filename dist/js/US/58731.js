@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58731"]={"code":"58731","region":"ND","city":"Deering","latitude":48.4057,"longitude":-101.0337}}(window,'GeoPostal','US');

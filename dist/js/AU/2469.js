@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2469"]={"code":"2469","region":"New South Wales","city":"Bonalbo","latitude":-28.73709,"longitude":152.62392}}(window,'GeoPostal','AU');

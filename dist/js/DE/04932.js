@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04932"]={"code":"04932","region":"Brandenburg","city":"Seifertsmuhl","latitude":51.40441,"longitude":13.54607}}(window,'GeoPostal','DE');

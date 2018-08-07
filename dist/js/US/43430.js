@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43430"]={"code":"43430","region":"Ohio","city":"Genoa","latitude":41.527981,"longitude":-83.366305}}(window,'GeoPostal','US');

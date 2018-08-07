@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31028"]={"code":"31028","region":"GA","city":"Centerville","latitude":32.6344,"longitude":-83.6768}}(window,'GeoPostal','US');

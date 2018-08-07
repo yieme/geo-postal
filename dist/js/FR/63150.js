@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63150"]={"code":"63150","region":"Auvergne-Rhone-Alpes","city":"La Bourboule","latitude":45.58837,"longitude":2.73956}}(window,'GeoPostal','FR');

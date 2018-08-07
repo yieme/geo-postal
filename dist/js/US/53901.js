@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53901"]={"code":"53901","region":"Wisconsin","city":"Portage","latitude":43.542438,"longitude":-89.471345}}(window,'GeoPostal','US');

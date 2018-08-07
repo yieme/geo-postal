@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6023"]={"code":"6023","region":"Western Australia","city":"Duncraig","latitude":-31.83291,"longitude":115.7759}}(window,'GeoPostal','AU');

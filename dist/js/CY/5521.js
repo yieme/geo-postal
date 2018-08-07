@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5521"]={"code":"5521","region":"Ammochostos","city":"Akhyritou","latitude":35.1,"longitude":33.8625}}(window,'GeoPostal','CY');

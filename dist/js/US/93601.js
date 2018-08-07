@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93601"]={"code":"93601","region":"California","city":"Ahwahnee","latitude":37.3655,"longitude":-119.72627}}(window,'GeoPostal','US');

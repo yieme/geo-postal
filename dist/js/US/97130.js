@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97130"]={"code":"97130","region":"Oregon","city":"Manzanita","latitude":45.71917,"longitude":-123.93583}}(window,'GeoPostal','US');

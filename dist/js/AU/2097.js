@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2097"]={"code":"2097","region":"New South Wales","city":"Collaroy","latitude":-33.73205,"longitude":151.30118}}(window,'GeoPostal','AU');

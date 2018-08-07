@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21922"]={"code":"21922","region":"MD","city":"Elkton","latitude":39.6068,"longitude":-75.8333}}(window,'GeoPostal','US');

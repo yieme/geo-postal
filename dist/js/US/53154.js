@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53154"]={"code":"53154","region":"Wisconsin","city":"Oak Creek","latitude":42.887539,"longitude":-87.90152}}(window,'GeoPostal','US');

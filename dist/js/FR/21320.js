@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21320"]={"code":"21320","region":"Bourgogne-Franche-Comte","city":"Pouilly-en-Auxois","latitude":47.26238,"longitude":4.55583}}(window,'GeoPostal','FR');

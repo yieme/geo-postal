@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17329"]={"code":"17329","region":"PA","city":"Glenville","latitude":39.757,"longitude":-76.8153}}(window,'GeoPostal','US');

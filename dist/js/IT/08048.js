@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08048"]={"code":"08048","region":"Sardegna","city":"Tortoli","latitude":39.92556,"longitude":9.65722}}(window,'GeoPostal','IT');

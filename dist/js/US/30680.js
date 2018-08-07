@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30680"]={"code":"30680","region":"GA","city":"Winder","latitude":33.9985,"longitude":-83.7115}}(window,'GeoPostal','US');

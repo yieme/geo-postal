@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["418106"]={"code":"418106","region":"Hunan","city":"Tuokou","latitude":27.12472,"longitude":109.62472}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14300"]={"code":"14300","region":"Pulau Pinang","city":"Nibong Tebal","latitude":5.16586,"longitude":100.47793}}(window,'GeoPostal','MY');

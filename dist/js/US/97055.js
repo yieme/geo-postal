@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97055"]={"code":"97055","region":"Oregon","city":"Sandy","latitude":45.38987,"longitude":-122.230894}}(window,'GeoPostal','US');

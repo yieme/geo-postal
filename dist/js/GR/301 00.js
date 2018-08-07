@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301 00"]={"code":"301 00","region":"Dytiki Ellada","city":"Agrinion","latitude":38.62139,"longitude":21.40778}}(window,'GeoPostal','GR');

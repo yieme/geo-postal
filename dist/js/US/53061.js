@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53061"]={"code":"53061","region":"Wisconsin","city":"New Holstein","latitude":43.94999,"longitude":-88.08426}}(window,'GeoPostal','US');

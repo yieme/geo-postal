@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2685"]={"code":"2685","region":"Zuid-Holland","city":"Poeldijk","latitude":52.02417,"longitude":4.21944}}(window,'GeoPostal','NL');

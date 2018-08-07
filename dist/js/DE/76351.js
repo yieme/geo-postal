@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76351"]={"code":"76351","region":"Baden-Wurttemberg","city":"Hochstetten","latitude":48.01986,"longitude":7.6101}}(window,'GeoPostal','DE');

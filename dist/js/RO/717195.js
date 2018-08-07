@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717195"]={"code":"717195","region":"Botosani","city":"Hanesti","latitude":47.91667,"longitude":26.98333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97295"]={"code":"97295","region":"Yucatan","city":"Merida","latitude":20.96667,"longitude":-89.61667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2346"]={"code":"2346","region":"New South Wales","city":"Manilla","latitude":-30.74748,"longitude":150.71974}}(window,'GeoPostal','AU');

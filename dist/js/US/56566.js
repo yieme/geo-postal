@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56566"]={"code":"56566","region":"Minnesota","city":"Naytahwaush","latitude":47.237923,"longitude":-95.614753}}(window,'GeoPostal','US');

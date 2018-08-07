@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77538"]={"code":"77538","region":"TX","city":"Devers","latitude":29.9978,"longitude":-94.5746}}(window,'GeoPostal','US');

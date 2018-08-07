@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["790001"]={"code":"790001","region":"Arunachal Pradesh","city":"Bomdila","latitude":27.25,"longitude":92.4}}(window,'GeoPostal','IN');

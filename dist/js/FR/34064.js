@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34064"]={"code":"34064","region":"Auvergne-Rhone-Alpes","city":"Roussillon","latitude":45.37302,"longitude":4.80725}}(window,'GeoPostal','FR');

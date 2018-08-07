@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88348"]={"code":"88348","region":"NM","city":"San Patricio","latitude":33.3877,"longitude":-105.3498}}(window,'GeoPostal','US');

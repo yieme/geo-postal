@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73014"]={"code":"73014","region":"OK","city":"Calumet","latitude":35.5476,"longitude":-98.1512}}(window,'GeoPostal','US');

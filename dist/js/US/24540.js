@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24540"]={"code":"24540","region":"Virginia","city":"Danville","latitude":36.58597,"longitude":-79.39502}}(window,'GeoPostal','US');

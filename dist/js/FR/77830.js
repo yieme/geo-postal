@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77830"]={"code":"77830","region":"Ile-de-France","city":"Valence-en-Brie","latitude":48.4442,"longitude":2.8908}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84336"]={"code":"84336","region":"Utah","city":"Snowville","latitude":41.838811,"longitude":-112.592823}}(window,'GeoPostal','US');

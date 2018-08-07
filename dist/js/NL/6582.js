@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6582"]={"code":"6582","region":"Gelderland","city":"Heumen","latitude":51.764532,"longitude":5.84315}}(window,'GeoPostal','NL');

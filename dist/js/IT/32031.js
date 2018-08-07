@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32031"]={"code":"32031","region":"Veneto","city":"Alano di Piave","latitude":45.90681,"longitude":11.9084}}(window,'GeoPostal','IT');

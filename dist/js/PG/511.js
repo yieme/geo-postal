@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["511"]={"code":"511","region":"Madang","city":"Madang","latitude":-5.22465,"longitude":145.79656}}(window,'GeoPostal','PG');

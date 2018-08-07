@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33097"]={"code":"33097","region":"Friuli-Venezia Giulia","city":"Spilimbergo","latitude":46.1125,"longitude":12.89694}}(window,'GeoPostal','IT');

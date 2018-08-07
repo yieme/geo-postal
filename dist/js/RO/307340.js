@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307340"]={"code":"307340","region":"Timis","city":"Recas","latitude":45.79889,"longitude":21.50083}}(window,'GeoPostal','RO');

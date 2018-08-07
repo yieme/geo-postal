@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61534"]={"code":"61534","region":"IL","city":"Green Valley","latitude":40.4198,"longitude":-89.6549}}(window,'GeoPostal','US');

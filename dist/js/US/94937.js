@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94937"]={"code":"94937","region":"CA","city":"Inverness","latitude":38.1126,"longitude":-122.8877}}(window,'GeoPostal','US');

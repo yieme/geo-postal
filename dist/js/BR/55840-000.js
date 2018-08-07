@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55840-000"]={"code":"55840-000","region":"Pernambuco","city":"Carpina","latitude":-7.85083,"longitude":-35.25472}}(window,'GeoPostal','BR');

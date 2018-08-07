@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29745"]={"code":"29745","region":"SC","city":"York","latitude":34.9947,"longitude":-81.2245}}(window,'GeoPostal','US');

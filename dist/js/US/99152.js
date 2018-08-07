@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99152"]={"code":"99152","region":"WA","city":"Metaline","latitude":48.8496,"longitude":-117.3963}}(window,'GeoPostal','US');

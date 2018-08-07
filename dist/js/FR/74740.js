@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74740"]={"code":"74740","region":"Auvergne-Rhone-Alpes","city":"Sixt-Fer-a-Cheval","latitude":46.0558,"longitude":6.7764}}(window,'GeoPostal','FR');

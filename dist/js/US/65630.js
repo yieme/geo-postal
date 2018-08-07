@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65630"]={"code":"65630","region":"MO","city":"Chestnutridge","latitude":36.8359,"longitude":-93.2291}}(window,'GeoPostal','US');

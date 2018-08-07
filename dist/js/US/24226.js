@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24226"]={"code":"24226","region":"Virginia","city":"Clinchco","latitude":37.127507,"longitude":-82.337062}}(window,'GeoPostal','US');

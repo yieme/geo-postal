@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18247"]={"code":"18247","region":"PA","city":"Saint Johns","latitude":41.0281,"longitude":-76.006}}(window,'GeoPostal','US');

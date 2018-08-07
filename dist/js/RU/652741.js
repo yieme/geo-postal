@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652741"]={"code":"652741","region":"Kemerovskaya oblast'","city":"Kaltan","latitude":53.5347,"longitude":87.2457}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 9BH"]={"code":"NG13 9BH","region":"England","city":"Aslockton","latitude":52.95299,"longitude":-0.897}}(window,'GeoPostal','GB');

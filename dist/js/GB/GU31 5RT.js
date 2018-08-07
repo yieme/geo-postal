@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU31 5RT"]={"code":"GU31 5RT","region":"England","city":"Buriton","latitude":50.97505,"longitude":-0.94851}}(window,'GeoPostal','GB');

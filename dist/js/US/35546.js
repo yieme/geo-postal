@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35546"]={"code":"35546","region":"AL","city":"Berry","latitude":33.6945,"longitude":-87.6226}}(window,'GeoPostal','US');

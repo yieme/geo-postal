@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347664"]={"code":"347664","region":"Rostovskaya oblast'","city":"Yegorlykskaya","latitude":46.56564,"longitude":40.65621}}(window,'GeoPostal','RU');

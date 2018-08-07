@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0E 1Y0"]={"code":"A0E 1Y0","region":"Newfoundland and Labrador","city":"Grand Le Pierre","latitude":47.68321,"longitude":-54.78152}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22534"]={"code":"22534","region":"VA","city":"Partlow","latitude":38.0641,"longitude":-77.6586}}(window,'GeoPostal','US');

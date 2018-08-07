@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56-200"]={"code":"56-200","region":"Dolnoslaskie","city":"Gora","latitude":51.66638,"longitude":16.53494}}(window,'GeoPostal','PL');

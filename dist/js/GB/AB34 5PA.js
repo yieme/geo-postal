@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB34 5PA"]={"code":"AB34 5PA","region":"Scotland","city":"Ballaterich","latitude":57.05,"longitude":-2.96667}}(window,'GeoPostal','GB');

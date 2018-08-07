@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07159"]={"code":"07159","region":"Illes Balears","city":"Andratx","latitude":39.57553,"longitude":2.42017}}(window,'GeoPostal','ES');

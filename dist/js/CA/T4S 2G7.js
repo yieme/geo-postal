@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4S 2G7"]={"code":"T4S 2G7","region":"Alberta","city":"Briggs","latitude":52.35011,"longitude":-113.95201}}(window,'GeoPostal','CA');

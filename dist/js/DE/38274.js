@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38274"]={"code":"38274","region":"Niedersachsen","city":"Elbe","latitude":52.08333,"longitude":10.28333}}(window,'GeoPostal','DE');

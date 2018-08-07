@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07270"]={"code":"07270","region":"Auvergne-Rhone-Alpes","city":"Lamastre","latitude":44.98672,"longitude":4.57975}}(window,'GeoPostal','FR');

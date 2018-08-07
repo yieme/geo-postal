@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50052"]={"code":"50052","region":"Iowa","city":"Clio","latitude":40.681405,"longitude":-93.499293}}(window,'GeoPostal','US');

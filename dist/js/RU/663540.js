@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663540"]={"code":"663540","region":"Krasnoyarskiy kray","city":"Partizanskoye","latitude":55.50056,"longitude":94.39}}(window,'GeoPostal','RU');

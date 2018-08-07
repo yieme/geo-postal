@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA32 8YA"]={"code":"PA32 8YA","region":"Scotland","city":"Crarae","latitude":56.12635,"longitude":-5.23873}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48143"]={"code":"48143","region":"MI","city":"Lakeland","latitude":42.4573,"longitude":-83.8366}}(window,'GeoPostal','US');

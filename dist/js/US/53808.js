@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53808"]={"code":"53808","region":"Wisconsin","city":"Dickeyville","latitude":42.62722,"longitude":-90.59207}}(window,'GeoPostal','US');

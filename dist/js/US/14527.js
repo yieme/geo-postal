@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14527"]={"code":"14527","region":"New York","city":"Penn Yan","latitude":42.659102,"longitude":-77.061511}}(window,'GeoPostal','US');

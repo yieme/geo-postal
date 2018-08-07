@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 1A0"]={"code":"R0J 1A0","region":"Manitoba","city":"Kergwenan","latitude":50.94781,"longitude":-99.5297}}(window,'GeoPostal','CA');

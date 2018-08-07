@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14-220"]={"code":"14-220","region":"Warminsko-mazurskie","city":"Kisielice","latitude":53.60855,"longitude":19.2635}}(window,'GeoPostal','PL');

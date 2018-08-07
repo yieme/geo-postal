@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57190"]={"code":"57190","region":"Chiang Rai","city":"Pa Daet","latitude":19.5048,"longitude":99.99243}}(window,'GeoPostal','TH');

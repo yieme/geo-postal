@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55318"]={"code":"55318","region":"Minnesota","city":"Chaska","latitude":44.8119,"longitude":-93.6091}}(window,'GeoPostal','US');

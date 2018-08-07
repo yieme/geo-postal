@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55973"]={"code":"55973","region":"MN","city":"Sargeant","latitude":43.809,"longitude":-92.7595}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07630"]={"code":"07630","region":"NJ","city":"Emerson","latitude":40.9755,"longitude":-74.0285}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10315"]={"code":"10315","region":"Zagrebacka zupanija","city":"Novoselec","latitude":45.6525,"longitude":16.53639}}(window,'GeoPostal','HR');

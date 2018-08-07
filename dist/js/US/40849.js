@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40849"]={"code":"40849","region":"KY","city":"Lejunior","latitude":36.8899,"longitude":-83.1433}}(window,'GeoPostal','US');

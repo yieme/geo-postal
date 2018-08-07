@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34010"]={"code":"34010","region":"Friuli-Venezia Giulia","city":"Sgonico","latitude":45.73639,"longitude":13.74861}}(window,'GeoPostal','IT');

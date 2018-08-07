@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84200"]={"code":"84200","region":"Johor","city":"Bakri","latitude":2.0441,"longitude":102.6527}}(window,'GeoPostal','MY');

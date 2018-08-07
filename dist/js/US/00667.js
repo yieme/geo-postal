@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00667"]={"code":"00667","region":"PR","city":"Lajas","latitude":18.04,"longitude":-67.06}}(window,'GeoPostal','US');

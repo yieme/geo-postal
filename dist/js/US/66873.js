@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66873"]={"code":"66873","region":"KS","city":"Wilsey","latitude":38.6361,"longitude":-96.6753}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08046"]={"code":"08046","region":"New Jersey","city":"Willingboro","latitude":40.02753,"longitude":-74.883147}}(window,'GeoPostal','US');

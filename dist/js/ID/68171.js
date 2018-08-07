@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68171"]={"code":"68171","region":"Jawa Timur","city":"Gayasan Kulon","latitude":-8.2657,"longitude":113.6634}}(window,'GeoPostal','ID');

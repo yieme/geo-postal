@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["633522"]={"code":"633522","region":"Novosibirskaya oblast'","city":"Cherepanovo","latitude":54.2222,"longitude":83.381}}(window,'GeoPostal','RU');

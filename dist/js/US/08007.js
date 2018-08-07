@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08007"]={"code":"08007","region":"NJ","city":"Barrington","latitude":39.8651,"longitude":-75.0564}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56459"]={"code":"56459","region":"MN","city":"Lake Hubert","latitude":46.4987,"longitude":-94.2519}}(window,'GeoPostal','US');

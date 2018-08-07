@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87020"]={"code":"87020","region":"New Mexico","city":"Grants","latitude":35.14726,"longitude":-107.85145}}(window,'GeoPostal','US');

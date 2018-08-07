@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97014"]={"code":"97014","region":"Oregon","city":"Cascade Locks","latitude":45.66984,"longitude":-121.89064}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41-407"]={"code":"41-407","region":"Slaskie","city":"Imielin","latitude":50.14534,"longitude":19.18599}}(window,'GeoPostal','PL');

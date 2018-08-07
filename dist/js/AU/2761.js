@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2761"]={"code":"2761","region":"New South Wales","city":"Glendenning","latitude":-33.7483,"longitude":150.85411}}(window,'GeoPostal','AU');

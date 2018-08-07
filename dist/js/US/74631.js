@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74631"]={"code":"74631","region":"Oklahoma","city":"Blackwell","latitude":36.799638,"longitude":-97.288738}}(window,'GeoPostal','US');

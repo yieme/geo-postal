@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3403"]={"code":"3403","region":"Corrientes","city":"San Luis del Palmar","latitude":-27.5079,"longitude":-58.55454}}(window,'GeoPostal','AR');

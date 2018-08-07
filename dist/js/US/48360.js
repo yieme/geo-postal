@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48360"]={"code":"48360","region":"Michigan","city":"Lake Orion","latitude":42.76632,"longitude":-83.27802}}(window,'GeoPostal','US');

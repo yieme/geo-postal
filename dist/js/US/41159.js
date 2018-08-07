@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41159"]={"code":"41159","region":"KY","city":"Martha","latitude":38.0152,"longitude":-82.9558}}(window,'GeoPostal','US');

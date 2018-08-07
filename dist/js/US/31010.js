@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31010"]={"code":"31010","region":"Georgia","city":"Cordele","latitude":31.96351,"longitude":-83.78239}}(window,'GeoPostal','US');

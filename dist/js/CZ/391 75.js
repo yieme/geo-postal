@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391 75"]={"code":"391 75","region":"Jihocesky kraj","city":"Malsice","latitude":49.36391,"longitude":14.57868}}(window,'GeoPostal','CZ');

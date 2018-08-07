@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7021"]={"code":"7021","region":"Tolna","city":"Dunafoldvar","latitude":46.808,"longitude":18.92638}}(window,'GeoPostal','HU');

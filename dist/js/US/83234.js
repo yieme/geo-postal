@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83234"]={"code":"83234","region":"Idaho","city":"Downey","latitude":42.45192,"longitude":-112.157922}}(window,'GeoPostal','US');

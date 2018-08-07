@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17350"]={"code":"17350","region":"Pennsylvania","city":"New Oxford","latitude":39.88848,"longitude":-77.0772}}(window,'GeoPostal','US');

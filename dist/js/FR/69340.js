@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69340"]={"code":"69340","region":"Auvergne-Rhone-Alpes","city":"Francheville","latitude":45.73879,"longitude":4.77218}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46738"]={"code":"46738","region":"Indiana","city":"Garrett","latitude":41.346675,"longitude":-85.134353}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8127"]={"code":"8127","region":"Fejer","city":"Aba","latitude":47.02907,"longitude":18.52172}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["557030"]={"code":"557030","region":"Sibiu","city":"Bazna","latitude":46.2,"longitude":24.28333}}(window,'GeoPostal','RO');

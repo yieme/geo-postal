@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652449"]={"code":"652449","region":"Kemerovskaya oblast'","city":"Zelenogorskiy","latitude":55.03333,"longitude":87}}(window,'GeoPostal','RU');

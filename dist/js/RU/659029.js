@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659029"]={"code":"659029","region":"Altayskiy kray","city":"Cheremnoye","latitude":53.16972,"longitude":83.21333}}(window,'GeoPostal','RU');

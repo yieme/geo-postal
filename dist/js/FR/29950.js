@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29950"]={"code":"29950","region":"Bretagne","city":"Gouesnach","latitude":47.9104,"longitude":-4.1145}}(window,'GeoPostal','FR');

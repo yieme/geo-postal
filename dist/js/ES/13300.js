@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13300"]={"code":"13300","region":"Castilla-La Mancha","city":"Valdepenas","latitude":38.76211,"longitude":-3.38483}}(window,'GeoPostal','ES');

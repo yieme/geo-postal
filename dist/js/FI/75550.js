@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75550"]={"code":"75550","region":"Pohjois-Karjala","city":"Nurmes","latitude":63.54205,"longitude":29.13965}}(window,'GeoPostal','FI');

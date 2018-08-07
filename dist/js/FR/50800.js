@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50800"]={"code":"50800","region":"Normandie","city":"Villedieu-les-Poeles","latitude":48.83333,"longitude":-1.21667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN27 4NG"]={"code":"BN27 4NG","region":"England","city":"Herstmonceux","latitude":50.88958,"longitude":0.3229}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27090"]={"code":"27090","region":"Chiapas","city":"Huixtla","latitude":15.15,"longitude":-92.46667}}(window,'GeoPostal','MX');

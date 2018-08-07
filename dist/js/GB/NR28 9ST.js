@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR28 9ST"]={"code":"NR28 9ST","region":"England","city":"Edingthorpe","latitude":52.83517,"longitude":1.4315}}(window,'GeoPostal','GB');

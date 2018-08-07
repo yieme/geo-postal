@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04130"]={"code":"04130","region":"Provence-Alpes-Cote d'Azur","city":"Volx","latitude":43.87383,"longitude":5.8413}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03160"]={"code":"03160","region":"Auvergne-Rhone-Alpes","city":"Bourbon-l'Archambault","latitude":46.5842,"longitude":3.0572}}(window,'GeoPostal','FR');

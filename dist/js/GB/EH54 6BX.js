@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH54 6BX"]={"code":"EH54 6BX","region":"Scotland","city":"Lauder","latitude":55.71908,"longitude":-2.74755}}(window,'GeoPostal','GB');

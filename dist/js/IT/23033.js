@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23033"]={"code":"23033","region":"Lombardia","city":"Grosio","latitude":46.2979,"longitude":10.27426}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75770"]={"code":"75770","region":"TX","city":"Larue","latitude":32.1608,"longitude":-95.5927}}(window,'GeoPostal','US');

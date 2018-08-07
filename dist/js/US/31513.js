@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31513"]={"code":"31513","region":"Georgia","city":"Baxley","latitude":31.77825,"longitude":-82.34846}}(window,'GeoPostal','US');

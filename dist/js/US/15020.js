@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15020"]={"code":"15020","region":"PA","city":"Bunola","latitude":40.2373,"longitude":-79.9506}}(window,'GeoPostal','US');

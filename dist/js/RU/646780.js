@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646780"]={"code":"646780","region":"Omskaya oblast'","city":"Russkaya Polyana","latitude":53.77944,"longitude":73.88056}}(window,'GeoPostal','RU');

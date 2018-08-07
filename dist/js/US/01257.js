@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01257"]={"code":"01257","region":"Massachusetts","city":"Sheffield","latitude":42.0783,"longitude":-73.394559}}(window,'GeoPostal','US');

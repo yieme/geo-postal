@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL68 0SJ"]={"code":"LL68 0SJ","region":"Wales","city":"Llanfechell","latitude":53.39193,"longitude":-4.45605}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48460-000"]={"code":"48460-000","region":"Bahia","city":"Nova Soure","latitude":-11.23333,"longitude":-38.48333}}(window,'GeoPostal','BR');

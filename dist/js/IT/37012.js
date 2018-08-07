@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37012"]={"code":"37012","region":"Veneto","city":"Bussolengo","latitude":45.46919,"longitude":10.85058}}(window,'GeoPostal','IT');

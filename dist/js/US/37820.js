@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37820"]={"code":"37820","region":"TN","city":"New Market","latitude":36.081,"longitude":-83.5673}}(window,'GeoPostal','US');

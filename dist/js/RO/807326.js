@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807326"]={"code":"807326","region":"Vrancea","city":"Vinatori","latitude":45.53333,"longitude":28.01667}}(window,'GeoPostal','RO');

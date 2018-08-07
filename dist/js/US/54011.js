@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54011"]={"code":"54011","region":"WI","city":"Ellsworth","latitude":44.7302,"longitude":-92.489}}(window,'GeoPostal','US');

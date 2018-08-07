@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL15 2NW"]={"code":"LL15 2NW","region":"Wales","city":"Clawdd-newydd","latitude":53.06194,"longitude":-3.37011}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE47 9JB"]={"code":"NE47 9JB","region":"England","city":"Allenheads","latitude":54.80211,"longitude":-2.21962}}(window,'GeoPostal','GB');

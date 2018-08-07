@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90101"]={"code":"90101","region":"Bourgogne-Franche-Comte","city":"Delle","latitude":47.51048,"longitude":6.99963}}(window,'GeoPostal','FR');

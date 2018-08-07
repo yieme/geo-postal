@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65420-000"]={"code":"65420-000","region":"Maranhao","city":"Timbiras","latitude":-4.25528,"longitude":-43.94056}}(window,'GeoPostal','BR');

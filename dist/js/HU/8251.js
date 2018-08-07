@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8251"]={"code":"8251","region":"Veszprem","city":"Zanka","latitude":46.88061,"longitude":17.67426}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94574"]={"code":"94574","region":"California","city":"Saint Helena","latitude":38.50519,"longitude":-122.47026}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98851"]={"code":"98851","region":"WA","city":"Soap Lake","latitude":47.383,"longitude":-119.486}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3700"]={"code":"3700","region":"Borsod-Abauj-Zemplen","city":"Edeleny","latitude":48.3,"longitude":20.73333}}(window,'GeoPostal','HU');

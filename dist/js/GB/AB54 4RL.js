@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB54 4RL"]={"code":"AB54 4RL","region":"Scotland","city":"Slioch","latitude":57.41667,"longitude":-2.73333}}(window,'GeoPostal','GB');

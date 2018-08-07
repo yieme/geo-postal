@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63474"]={"code":"63474","region":"Missouri","city":"Wyaconda","latitude":40.33534,"longitude":-91.89273}}(window,'GeoPostal','US');

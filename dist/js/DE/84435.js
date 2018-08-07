@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84435"]={"code":"84435","region":"Bayern","city":"Landersdorf","latitude":48.29106,"longitude":12.08741}}(window,'GeoPostal','DE');

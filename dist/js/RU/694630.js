@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694630"]={"code":"694630","region":"Sakhalinskaya oblast'","city":"Yablochnyy","latitude":47.16611,"longitude":142.06611}}(window,'GeoPostal','RU');

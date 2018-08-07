@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["644905"]={"code":"644905","region":"Omskaya oblast'","city":"Beregovoy","latitude":55.17301,"longitude":73.21984}}(window,'GeoPostal','RU');

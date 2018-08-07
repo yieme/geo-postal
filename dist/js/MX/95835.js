@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95835"]={"code":"95835","region":"Veracruz de Ignacio de la Llave","city":"Paso del Toro","latitude":19.03333,"longitude":-96.11667}}(window,'GeoPostal','MX');

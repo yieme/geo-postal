@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66051"]={"code":"66051","region":"Abruzzo","city":"Cupello","latitude":42.06814,"longitude":14.66922}}(window,'GeoPostal','IT');

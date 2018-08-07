@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6372"]={"code":"6372","region":"Tirol","city":"Oberndorf in Tirol","latitude":47.5,"longitude":12.38333}}(window,'GeoPostal','AT');

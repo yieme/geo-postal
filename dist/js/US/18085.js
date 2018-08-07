@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18085"]={"code":"18085","region":"PA","city":"Tatamy","latitude":40.7406,"longitude":-75.2549}}(window,'GeoPostal','US');

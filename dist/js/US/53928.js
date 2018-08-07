@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53928"]={"code":"53928","region":"WI","city":"Doylestown","latitude":43.4266,"longitude":-89.1491}}(window,'GeoPostal','US');

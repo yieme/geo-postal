@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80750"]={"code":"80750","region":"CO","city":"Snyder","latitude":40.3307,"longitude":-103.5971}}(window,'GeoPostal','US');

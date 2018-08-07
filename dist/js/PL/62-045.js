@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-045"]={"code":"62-045","region":"Wielkopolskie","city":"Pniewy","latitude":52.50943,"longitude":16.25668}}(window,'GeoPostal','PL');

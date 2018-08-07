@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59425"]={"code":"59425","region":"Nordrhein-Westfalen","city":"Unna","latitude":51.53794,"longitude":7.68969}}(window,'GeoPostal','DE');

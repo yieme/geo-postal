@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["621-030"]={"code":"621-030","region":"Gyeongsangnam-do","city":"Kimhae","latitude":35.23417,"longitude":128.88111}}(window,'GeoPostal','KR');

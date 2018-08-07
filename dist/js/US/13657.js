@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13657"]={"code":"13657","region":"NY","city":"Limerick","latitude":44.0292,"longitude":-76.043}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX33 1JJ"]={"code":"EX33 1JJ","region":"England","city":"Georgeham","latitude":51.13647,"longitude":-4.196}}(window,'GeoPostal','GB');

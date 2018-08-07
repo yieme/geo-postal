@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2X 1P7"]={"code":"V2X 1P7","region":"British Columbia","city":"Maple Ridge","latitude":49.217844,"longitude":-122.603037}}(window,'GeoPostal','CA');

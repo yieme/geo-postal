@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24435"]={"code":"24435","region":"VA","city":"Fairfield","latitude":37.8778,"longitude":-79.2979}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2610"]={"code":"2610","region":"Hovedstaden","city":"Rodovre","latitude":55.68062,"longitude":12.45373}}(window,'GeoPostal','DK');

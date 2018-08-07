@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44629"]={"code":"44629","region":"OH","city":"Gnadenhutten","latitude":40.3584,"longitude":-81.4343}}(window,'GeoPostal','US');

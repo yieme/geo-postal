@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623640"]={"code":"623640","region":"Sverdlovskaya oblast'","city":"Talitsa","latitude":57.01095,"longitude":63.73254}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55900-000"]={"code":"55900-000","region":"Pernambuco","city":"Goiana","latitude":-7.56056,"longitude":-35.0025}}(window,'GeoPostal','BR');

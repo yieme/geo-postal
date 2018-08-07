@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34605"]={"code":"34605","region":"FL","city":"Brooksville","latitude":28.5059,"longitude":-82.4226}}(window,'GeoPostal','US');

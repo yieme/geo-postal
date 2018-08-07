@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK20 8RQ"]={"code":"FK20 8RQ","region":"Scotland","city":"Tyndrum","latitude":56.43678,"longitude":-4.70901}}(window,'GeoPostal','GB');

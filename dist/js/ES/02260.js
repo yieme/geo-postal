@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02260"]={"code":"02260","region":"Castilla-La Mancha","city":"Fuentealbilla","latitude":39.26667,"longitude":-1.55}}(window,'GeoPostal','ES');

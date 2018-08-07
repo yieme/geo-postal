@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50560"]={"code":"50560","region":"IA","city":"Lu Verne","latitude":42.9868,"longitude":-94.0959}}(window,'GeoPostal','US');

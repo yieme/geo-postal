@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3676"]={"code":"3676","region":"Victoria","city":"Wangaratta","latitude":-36.35846,"longitude":146.32056}}(window,'GeoPostal','AU');

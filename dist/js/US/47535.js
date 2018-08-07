@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47535"]={"code":"47535","region":"IN","city":"Freelandville","latitude":38.8627,"longitude":-87.3127}}(window,'GeoPostal','US');

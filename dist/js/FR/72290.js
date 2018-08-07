@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72290"]={"code":"72290","region":"Pays-de-la-Loire","city":"Ballon","latitude":48.17317,"longitude":0.23814}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28294"]={"code":"28294","region":"Madrid, Comunidad de","city":"Robledo de Chavela","latitude":40.50062,"longitude":-4.23635}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90100"]={"code":"90100","region":"Canelones","city":"Las Piedras","latitude":-34.72639,"longitude":-56.22}}(window,'GeoPostal','UY');

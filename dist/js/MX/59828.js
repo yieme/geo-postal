@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59828"]={"code":"59828","region":"Michoacan de Ocampo","city":"Jacona","latitude":19.955556,"longitude":-102.302778}}(window,'GeoPostal','MX');

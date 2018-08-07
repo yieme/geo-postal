@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79280"]={"code":"79280","region":"Federacija Bosne i Hercegovine","city":"Kljuc","latitude":44.535,"longitude":16.77222}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14816"]={"code":"14816","region":"NY","city":"Breesport","latitude":42.1939,"longitude":-76.7361}}(window,'GeoPostal','US');

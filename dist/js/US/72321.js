@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72321"]={"code":"72321","region":"AR","city":"Burdette","latitude":35.8173,"longitude":-89.9393}}(window,'GeoPostal','US');

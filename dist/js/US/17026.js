@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17026"]={"code":"17026","region":"PA","city":"Fredericksburg","latitude":40.4524,"longitude":-76.4267}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75840-000"]={"code":"75840-000","region":"Mato Grosso","city":"Alto Araguaia","latitude":-17.31472,"longitude":-53.21528}}(window,'GeoPostal','BR');

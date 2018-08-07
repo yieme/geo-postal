@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05361"]={"code":"05361","region":"Vermont","city":"Whitingham","latitude":42.78389,"longitude":-72.85278}}(window,'GeoPostal','US');

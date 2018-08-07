@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24782"]={"code":"24782","region":"Schleswig-Holstein","city":"Budelsdorf","latitude":54.31844,"longitude":9.67294}}(window,'GeoPostal','DE');

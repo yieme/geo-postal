@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69982-000"]={"code":"69982-000","region":"Acre","city":"Porto Walter","latitude":-8.26861,"longitude":-72.74389}}(window,'GeoPostal','BR');

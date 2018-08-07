@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8974"]={"code":"8974","region":"Salzburg","city":"Radstadt","latitude":47.38333,"longitude":13.45}}(window,'GeoPostal','AT');

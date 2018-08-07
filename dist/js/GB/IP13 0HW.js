@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 0HW"]={"code":"IP13 0HW","region":"England","city":"Pettistree","latitude":52.14281,"longitude":1.36191}}(window,'GeoPostal','GB');

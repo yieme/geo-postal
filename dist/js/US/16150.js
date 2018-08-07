@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16150"]={"code":"16150","region":"PA","city":"Sharpsville","latitude":41.2676,"longitude":-80.4656}}(window,'GeoPostal','US');

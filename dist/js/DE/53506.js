@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53506"]={"code":"53506","region":"Rheinland-Pfalz","city":"Putzfeld","latitude":50.49175,"longitude":6.98327}}(window,'GeoPostal','DE');

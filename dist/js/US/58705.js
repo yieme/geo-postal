@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58705"]={"code":"58705","region":"North Dakota","city":"Minot Air Force Base","latitude":48.4219,"longitude":-101.3137}}(window,'GeoPostal','US');

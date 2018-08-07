@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96170"]={"code":"96170","region":"Veracruz de Ignacio de la Llave","city":"Soconusco","latitude":17.96667,"longitude":-94.86667}}(window,'GeoPostal','MX');

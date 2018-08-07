@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26291"]={"code":"26291","region":"WV","city":"Slatyfork","latitude":38.388,"longitude":-79.9906}}(window,'GeoPostal','US');

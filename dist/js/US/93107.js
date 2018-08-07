@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93107"]={"code":"93107","region":"California","city":"Santa Barbara","latitude":34.420675,"longitude":-119.861}}(window,'GeoPostal','US');

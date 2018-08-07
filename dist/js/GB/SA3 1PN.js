@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 1PN"]={"code":"SA3 1PN","region":"Wales","city":"Rhossili","latitude":51.5695,"longitude":-4.28492}}(window,'GeoPostal','GB');

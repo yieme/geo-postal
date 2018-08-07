@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12020"]={"code":"12020","region":"New York","city":"Ballston Spa","latitude":43.00332,"longitude":-73.8624}}(window,'GeoPostal','US');

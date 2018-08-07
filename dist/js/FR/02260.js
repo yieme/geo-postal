@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02260"]={"code":"02260","region":"Hauts-de-France","city":"La Capelle","latitude":49.96667,"longitude":3.91667}}(window,'GeoPostal','FR');

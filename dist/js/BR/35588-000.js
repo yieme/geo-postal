@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35588-000"]={"code":"35588-000","region":"Minas Gerais","city":"Arcos","latitude":-20.28194,"longitude":-45.53944}}(window,'GeoPostal','BR');

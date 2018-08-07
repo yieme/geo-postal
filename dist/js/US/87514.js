@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87514"]={"code":"87514","region":"New Mexico","city":"Arroyo Seco","latitude":36.51669,"longitude":-105.56918}}(window,'GeoPostal','US');

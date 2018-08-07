@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-301"]={"code":"08-301","region":"Mazowieckie","city":"Sokolow Podlaski","latitude":52.40677,"longitude":22.25307}}(window,'GeoPostal','PL');

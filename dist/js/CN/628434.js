@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628434"]={"code":"628434","region":"Sichuan","city":"Heping","latitude":32.0462,"longitude":106.55702}}(window,'GeoPostal','CN');

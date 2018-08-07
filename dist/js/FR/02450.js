@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02450"]={"code":"02450","region":"Hauts-de-France","city":"Boue","latitude":50.01141,"longitude":3.69608}}(window,'GeoPostal','FR');

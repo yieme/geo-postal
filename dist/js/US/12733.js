@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12733"]={"code":"12733","region":"New York","city":"Fallsburg","latitude":41.736219,"longitude":-74.613389}}(window,'GeoPostal','US');

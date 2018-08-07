@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN21 5LY"]={"code":"DN21 5LY","region":"England","city":"Kexby","latitude":53.36667,"longitude":-0.68333}}(window,'GeoPostal','GB');

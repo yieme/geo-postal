@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70711"]={"code":"70711","region":"LA","city":"Albany","latitude":30.5149,"longitude":-90.5964}}(window,'GeoPostal','US');

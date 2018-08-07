@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["691 02"]={"code":"691 02","region":"Jihomoravsky kraj","city":"Velke Bilovice","latitude":48.84929,"longitude":16.89227}}(window,'GeoPostal','CZ');

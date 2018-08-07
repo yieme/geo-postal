@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-210"]={"code":"11-210","region":"Warminsko-mazurskie","city":"Sepopol","latitude":54.26903,"longitude":21.01453}}(window,'GeoPostal','PL');

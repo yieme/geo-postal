@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14448"]={"code":"14448","region":"Andalucia","city":"Conquista","latitude":38.4,"longitude":-4.5}}(window,'GeoPostal','ES');

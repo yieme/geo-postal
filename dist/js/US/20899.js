@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20899"]={"code":"20899","region":"Maryland","city":"Gaithersburg","latitude":39.14501,"longitude":-77.21659}}(window,'GeoPostal','US');

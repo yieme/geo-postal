@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47386"]={"code":"47386","region":"Jalisco","city":"Valle de Guadalupe","latitude":21,"longitude":-102.61667}}(window,'GeoPostal','MX');

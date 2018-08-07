@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36276"]={"code":"36276","region":"Alabama","city":"Wadley","latitude":33.12333,"longitude":-85.56639}}(window,'GeoPostal','US');

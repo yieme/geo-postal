@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN14 6LH"]={"code":"SN14 6LH","region":"England","city":"Chippenham","latitude":51.46,"longitude":-2.12472}}(window,'GeoPostal','GB');

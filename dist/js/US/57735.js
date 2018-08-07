@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57735"]={"code":"57735","region":"South Dakota","city":"Edgemont","latitude":43.299074,"longitude":-103.829167}}(window,'GeoPostal','US');

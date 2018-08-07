@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45819"]={"code":"45819","region":"Ohio","city":"Wapakoneta","latitude":40.56783,"longitude":-84.19356}}(window,'GeoPostal','US');

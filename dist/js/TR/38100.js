@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38100"]={"code":"38100","region":"Ankara","city":"Haymana","latitude":39.43212,"longitude":32.49732}}(window,'GeoPostal','TR');

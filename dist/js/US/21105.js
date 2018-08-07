@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21105"]={"code":"21105","region":"MD","city":"Maryland Line","latitude":39.7114,"longitude":-76.6595}}(window,'GeoPostal','US');

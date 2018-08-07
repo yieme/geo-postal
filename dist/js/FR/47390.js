@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47390"]={"code":"47390","region":"Nouvelle-Aquitaine","city":"Layrac","latitude":44.13449,"longitude":0.66176}}(window,'GeoPostal','FR');

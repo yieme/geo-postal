@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38120-000"]={"code":"38120-000","region":"Minas Gerais","city":"Conceicao das Alagoas","latitude":-19.91472,"longitude":-48.38833}}(window,'GeoPostal','BR');

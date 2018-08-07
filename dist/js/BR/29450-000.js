@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29450-000"]={"code":"29450-000","region":"Espirito Santo","city":"Apiaca","latitude":-21.153889,"longitude":-41.567778}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50223"]={"code":"50223","region":"IA","city":"Pilot Mound","latitude":42.1604,"longitude":-94.0102}}(window,'GeoPostal','US');

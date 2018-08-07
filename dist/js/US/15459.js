@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15459"]={"code":"15459","region":"Pennsylvania","city":"Markleysburg","latitude":39.73722,"longitude":-79.45306}}(window,'GeoPostal','US');

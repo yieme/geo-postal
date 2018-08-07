@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38350"]={"code":"38350","region":"Niedersachsen","city":"Helmstedt","latitude":52.2279,"longitude":11.00985}}(window,'GeoPostal','DE');

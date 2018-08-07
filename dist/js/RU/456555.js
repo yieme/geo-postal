@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456555"]={"code":"456555","region":"Chelyabinskaya oblast'","city":"Korkino","latitude":54.8913,"longitude":61.3969}}(window,'GeoPostal','RU');

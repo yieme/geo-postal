@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9470"]={"code":"9470","region":"Oost-Vlaanderen","city":"Denderleeuw","latitude":50.88506,"longitude":4.07601}}(window,'GeoPostal','BE');

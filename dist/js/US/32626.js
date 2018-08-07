@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32626"]={"code":"32626","region":"Florida","city":"Chiefland","latitude":29.483179,"longitude":-82.864062}}(window,'GeoPostal','US');

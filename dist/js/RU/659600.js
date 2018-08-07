@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659600"]={"code":"659600","region":"Altayskiy kray","city":"Smolenskoye","latitude":52.30444,"longitude":85.07806}}(window,'GeoPostal','RU');

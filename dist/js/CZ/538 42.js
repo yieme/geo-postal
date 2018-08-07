@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["538 42"]={"code":"538 42","region":"Pardubicky kraj","city":"Ronov nad Doubravou","latitude":49.88825,"longitude":15.53144}}(window,'GeoPostal','CZ');

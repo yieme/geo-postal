@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49120"]={"code":"49120","region":"Michigan","city":"Niles","latitude":41.82977,"longitude":-86.25418}}(window,'GeoPostal','US');

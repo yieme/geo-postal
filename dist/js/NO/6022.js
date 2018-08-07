@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6022"]={"code":"6022","region":"More og Romsdal","city":"Alesund","latitude":62.47225,"longitude":6.15492}}(window,'GeoPostal','NO');

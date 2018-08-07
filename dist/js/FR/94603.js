@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94603"]={"code":"94603","region":"Ile-de-France","city":"Choisy-le-Roi","latitude":48.76846,"longitude":2.41874}}(window,'GeoPostal','FR');

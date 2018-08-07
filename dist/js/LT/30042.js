@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30042"]={"code":"30042","region":"Utenos apskritis","city":"Dukstas","latitude":55.53333,"longitude":26.33333}}(window,'GeoPostal','LT');

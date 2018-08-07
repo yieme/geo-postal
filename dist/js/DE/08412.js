@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08412"]={"code":"08412","region":"Sachsen","city":"Werdau","latitude":50.73604,"longitude":12.37534}}(window,'GeoPostal','DE');

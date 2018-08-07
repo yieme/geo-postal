@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24887"]={"code":"24887","region":"WV","city":"Switchback","latitude":37.3712,"longitude":-81.3857}}(window,'GeoPostal','US');

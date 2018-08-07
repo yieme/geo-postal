@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8648"]={"code":"8648","region":"Nordland","city":"Korgen","latitude":66.07713,"longitude":13.81531}}(window,'GeoPostal','NO');

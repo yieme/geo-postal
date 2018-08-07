@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23108"]={"code":"23108","region":"VA","city":"Mascot","latitude":37.6271,"longitude":-76.7072}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24701"]={"code":"24701","region":"West Virginia","city":"Bluefield","latitude":37.26984,"longitude":-81.22232}}(window,'GeoPostal','US');

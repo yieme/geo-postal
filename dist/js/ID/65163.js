@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65163"]={"code":"65163","region":"Jawa Timur","city":"Penarukan","latitude":-8.1354,"longitude":112.5791}}(window,'GeoPostal','ID');

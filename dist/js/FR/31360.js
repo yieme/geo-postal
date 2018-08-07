@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31360"]={"code":"31360","region":"Occitanie","city":"Boussens","latitude":43.1767,"longitude":0.9736}}(window,'GeoPostal','FR');

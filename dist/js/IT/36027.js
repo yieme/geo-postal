@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36027"]={"code":"36027","region":"Veneto","city":"Rosa","latitude":45.7196,"longitude":11.7634}}(window,'GeoPostal','IT');

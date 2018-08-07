@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22940"]={"code":"22940","region":"VA","city":"Free Union","latitude":38.1944,"longitude":-78.5849}}(window,'GeoPostal','US');

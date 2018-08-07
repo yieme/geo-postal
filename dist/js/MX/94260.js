@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94260"]={"code":"94260","region":"Veracruz de Ignacio de la Llave","city":"Jamapa","latitude":19.03333,"longitude":-96.23333}}(window,'GeoPostal','MX');

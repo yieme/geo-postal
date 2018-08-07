@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87046"]={"code":"87046","region":"NM","city":"Regina","latitude":36.1842,"longitude":-106.9567}}(window,'GeoPostal','US');

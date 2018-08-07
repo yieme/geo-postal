@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38643"]={"code":"38643","region":"MS","city":"Lambert","latitude":34.1837,"longitude":-90.263}}(window,'GeoPostal','US');

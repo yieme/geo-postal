@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33092"]={"code":"33092","region":"Friuli-Venezia Giulia","city":"Fanna","latitude":46.18861,"longitude":12.74861}}(window,'GeoPostal','IT');

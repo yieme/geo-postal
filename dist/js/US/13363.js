@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13363"]={"code":"13363","region":"NY","city":"Lee Center","latitude":43.3148,"longitude":-75.5055}}(window,'GeoPostal','US');

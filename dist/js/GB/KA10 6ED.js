@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA10 6ED"]={"code":"KA10 6ED","region":"Scotland","city":"Troon","latitude":55.54359,"longitude":-4.66335}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33799"]={"code":"33799","region":"Asturias, Principado de","city":"Boal","latitude":43.432,"longitude":-6.81513}}(window,'GeoPostal','ES');

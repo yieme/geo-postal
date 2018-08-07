@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67269"]={"code":"67269","region":"Grand-Est","city":"Sarre-Union","latitude":48.93818,"longitude":7.09373}}(window,'GeoPostal','FR');

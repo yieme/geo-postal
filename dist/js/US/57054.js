@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57054"]={"code":"57054","region":"South Dakota","city":"Ramona","latitude":44.117667,"longitude":-97.215082}}(window,'GeoPostal','US');

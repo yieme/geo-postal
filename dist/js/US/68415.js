@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68415"]={"code":"68415","region":"Nebraska","city":"Odell","latitude":40.04442,"longitude":-96.80322}}(window,'GeoPostal','US');

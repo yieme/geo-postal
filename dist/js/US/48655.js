@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48655"]={"code":"48655","region":"MI","city":"Saint Charles","latitude":43.2863,"longitude":-84.1598}}(window,'GeoPostal','US');

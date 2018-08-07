@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352580"]={"code":"352580","region":"Krasnodarskiy kray","city":"Yaroslavskaya","latitude":44.61056,"longitude":40.46417}}(window,'GeoPostal','RU');

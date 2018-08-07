@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA12 9TF"]={"code":"SA12 9TF","region":"Wales","city":"Pontrhydyfen","latitude":51.63435,"longitude":-3.74469}}(window,'GeoPostal','GB');

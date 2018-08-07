@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56361"]={"code":"56361","region":"Minnesota","city":"Parkers Prairie","latitude":46.15302,"longitude":-95.32892}}(window,'GeoPostal','US');

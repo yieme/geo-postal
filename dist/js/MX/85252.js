@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85252"]={"code":"85252","region":"Sonora","city":"Yavaros","latitude":26.7,"longitude":-109.51667}}(window,'GeoPostal','MX');

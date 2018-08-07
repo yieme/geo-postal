@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44790-000"]={"code":"44790-000","region":"Bahia","city":"Laje","latitude":-10.18333,"longitude":-40.96667}}(window,'GeoPostal','BR');

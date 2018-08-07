@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62153"]={"code":"62153","region":"Jawa Timur","city":"Gotak","latitude":-7.1095,"longitude":111.7419}}(window,'GeoPostal','ID');

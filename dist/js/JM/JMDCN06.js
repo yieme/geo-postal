@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDCN06"]={"code":"JMDCN06","region":"Clarendon","city":"Kellits","latitude":18.15,"longitude":-77.23333}}(window,'GeoPostal','JM');

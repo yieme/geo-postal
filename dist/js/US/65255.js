@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65255"]={"code":"65255","region":"MO","city":"Hallsville","latitude":39.1054,"longitude":-92.2239}}(window,'GeoPostal','US');

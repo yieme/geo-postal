@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41714"]={"code":"41714","region":"KY","city":"Bear Branch","latitude":37.1939,"longitude":-83.5035}}(window,'GeoPostal','US');

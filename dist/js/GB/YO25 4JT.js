@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 4JT"]={"code":"YO25 4JT","region":"England","city":"Nafferton","latitude":54.01917,"longitude":-0.38976}}(window,'GeoPostal','GB');

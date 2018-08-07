@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44001"]={"code":"44001","region":"Ain Defla","city":"Khemis Miliana","latitude":36.26104,"longitude":2.22015}}(window,'GeoPostal','DZ');

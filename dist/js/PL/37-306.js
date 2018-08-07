@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-306"]={"code":"37-306","region":"Podkarpackie","city":"Grodzisko Gorne","latitude":50.1869,"longitude":22.43786}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40999"]={"code":"40999","region":"KY","city":"Woollum","latitude":37,"longitude":-83.8}}(window,'GeoPostal','US');

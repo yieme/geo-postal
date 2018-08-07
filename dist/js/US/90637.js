@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90637"]={"code":"90637","region":"California","city":"La Mirada","latitude":33.91724,"longitude":-118.01201}}(window,'GeoPostal','US');

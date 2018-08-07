@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89097"]={"code":"89097","region":"Siauliu apskritis","city":"Vieksniai","latitude":56.23333,"longitude":22.51667}}(window,'GeoPostal','LT');

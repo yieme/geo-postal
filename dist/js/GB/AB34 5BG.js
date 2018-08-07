@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB34 5BG"]={"code":"AB34 5BG","region":"Scotland","city":"Kincardine O'Neil","latitude":57.0859,"longitude":-2.67895}}(window,'GeoPostal','GB');

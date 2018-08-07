@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23000"]={"code":"23000","region":"Terengganu","city":"Kuala Dungun","latitude":4.783333,"longitude":103.433333}}(window,'GeoPostal','MY');

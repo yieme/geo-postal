@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52100"]={"code":"52100","region":"Grand-Est","city":"Bettancourt-la-Ferree","latitude":48.64898,"longitude":4.96971}}(window,'GeoPostal','FR');

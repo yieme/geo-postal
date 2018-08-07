@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48619"]={"code":"48619","region":"Michigan","city":"Comins","latitude":44.81917,"longitude":-84.0075}}(window,'GeoPostal','US');

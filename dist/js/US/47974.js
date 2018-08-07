@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47974"]={"code":"47974","region":"IN","city":"Perrysville","latitude":40.0737,"longitude":-87.4648}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57290"]={"code":"57290","region":"Grand-Est","city":"Seremange-Erzange","latitude":49.31887,"longitude":6.09025}}(window,'GeoPostal','FR');

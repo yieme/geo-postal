@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01375"]={"code":"01375","region":"MA","city":"Sunderland","latitude":42.4539,"longitude":-72.5676}}(window,'GeoPostal','US');

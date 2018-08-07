@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52621"]={"code":"52621","region":"IA","city":"Crawfordsville","latitude":41.2093,"longitude":-91.5414}}(window,'GeoPostal','US');

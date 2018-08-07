@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27254"]={"code":"27254","region":"Niedersachsen","city":"Siedenburg","latitude":52.69293,"longitude":8.93961}}(window,'GeoPostal','DE');

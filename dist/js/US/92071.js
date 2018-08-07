@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92071"]={"code":"92071","region":"California","city":"Santee","latitude":32.847908,"longitude":-116.988078}}(window,'GeoPostal','US');

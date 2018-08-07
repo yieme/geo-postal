@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46320"]={"code":"46320","region":"Occitanie","city":"Livernon","latitude":44.6481,"longitude":1.8433}}(window,'GeoPostal','FR');

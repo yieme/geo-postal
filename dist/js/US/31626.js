@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31626"]={"code":"31626","region":"GA","city":"Boston","latitude":30.7855,"longitude":-83.7971}}(window,'GeoPostal','US');

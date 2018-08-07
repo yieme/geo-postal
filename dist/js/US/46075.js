@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46075"]={"code":"46075","region":"Indiana","city":"Whitestown","latitude":39.980546,"longitude":-86.347311}}(window,'GeoPostal','US');

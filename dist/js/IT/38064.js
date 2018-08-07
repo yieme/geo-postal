@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38064"]={"code":"38064","region":"Trentino-Alto Adige","city":"Folgaria","latitude":45.9152,"longitude":11.17068}}(window,'GeoPostal','IT');

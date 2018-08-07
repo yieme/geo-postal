@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["889-4311"]={"code":"889-4311","region":"Miyazaki","city":"Ebino","latitude":32.033,"longitude":130.817}}(window,'GeoPostal','JP');

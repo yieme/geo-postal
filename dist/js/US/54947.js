@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54947"]={"code":"54947","region":"WI","city":"Larsen","latitude":44.1984,"longitude":-88.6963}}(window,'GeoPostal','US');

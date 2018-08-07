@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17255"]={"code":"17255","region":"PA","city":"Shade Gap","latitude":40.173,"longitude":-77.868}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71750"]={"code":"71750","region":"AR","city":"Lawson","latitude":33.1968,"longitude":-92.4829}}(window,'GeoPostal','US');

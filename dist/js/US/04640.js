@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04640"]={"code":"04640","region":"Maine","city":"Hancock","latitude":44.52924,"longitude":-68.25363}}(window,'GeoPostal','US');

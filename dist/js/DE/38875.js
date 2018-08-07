@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38875"]={"code":"38875","region":"Niedersachsen","city":"Hohegeiss","latitude":51.66414,"longitude":10.66833}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317405"]={"code":"317405","region":"Arad","city":"Vladimirescu","latitude":46.15,"longitude":21.4}}(window,'GeoPostal','RO');

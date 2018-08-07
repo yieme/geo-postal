@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60950"]={"code":"60950","region":"IL","city":"Manteno","latitude":41.2514,"longitude":-87.8468}}(window,'GeoPostal','US');

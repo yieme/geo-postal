@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["851 01"]={"code":"851 01","region":"Notio Aigaio","city":"Trianta","latitude":36.4,"longitude":28.16667}}(window,'GeoPostal','GR');

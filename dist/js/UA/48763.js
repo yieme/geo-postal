@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48763"]={"code":"48763","region":"Ternopilska oblast","city":"Borshchiv","latitude":48.80332,"longitude":26.04347}}(window,'GeoPostal','UA');

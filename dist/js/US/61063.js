@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61063"]={"code":"61063","region":"IL","city":"Pecatonica","latitude":42.3051,"longitude":-89.3472}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36320"]={"code":"36320","region":"AL","city":"Cottonwood","latitude":31.0507,"longitude":-85.3154}}(window,'GeoPostal','US');

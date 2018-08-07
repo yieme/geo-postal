@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4728"]={"code":"4728","region":"Queensland","city":"Jericho","latitude":-23.6,"longitude":146.13333}}(window,'GeoPostal','AU');

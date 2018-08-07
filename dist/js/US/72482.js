@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72482"]={"code":"72482","region":"AR","city":"Williford","latitude":36.2453,"longitude":-91.3792}}(window,'GeoPostal','US');

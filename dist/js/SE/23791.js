@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23791"]={"code":"23791","region":"Skane lan","city":"Bjarred","latitude":55.71667,"longitude":13.01667}}(window,'GeoPostal','SE');

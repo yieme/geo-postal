@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["411 41"]={"code":"411 41","region":"Ustecky kraj","city":"Zitenice","latitude":50.55528,"longitude":14.15665}}(window,'GeoPostal','CZ');

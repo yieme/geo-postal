@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66014"]={"code":"66014","region":"Kansas","city":"Centerville","latitude":38.212904,"longitude":-94.985903}}(window,'GeoPostal','US');

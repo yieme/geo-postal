@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30490"]={"code":"30490","region":"Occitanie","city":"Montfrin","latitude":43.87596,"longitude":4.5996}}(window,'GeoPostal','FR');

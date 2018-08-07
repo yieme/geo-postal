@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04931"]={"code":"04931","region":"Brandenburg","city":"Wendisch Borschutz","latitude":51.4368,"longitude":13.28119}}(window,'GeoPostal','DE');

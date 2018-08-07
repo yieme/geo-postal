@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28751"]={"code":"28751","region":"Madrid, Comunidad de","city":"La Cabrera","latitude":40.86386,"longitude":-3.61265}}(window,'GeoPostal','ES');

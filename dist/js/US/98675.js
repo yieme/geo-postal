@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98675"]={"code":"98675","region":"WA","city":"Yacolt","latitude":45.8622,"longitude":-122.4275}}(window,'GeoPostal','US');

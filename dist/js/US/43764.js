@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43764"]={"code":"43764","region":"OH","city":"New Lexington","latitude":39.7174,"longitude":-82.2019}}(window,'GeoPostal','US');

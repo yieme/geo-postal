@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2614-502"]={"code":"2614-502","region":"Lisboa","city":"Amadora","latitude":38.75382,"longitude":-9.23083}}(window,'GeoPostal','PT');

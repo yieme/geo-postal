@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92638"]={"code":"92638","region":"Ile-de-France","city":"Gennevilliers","latitude":48.93333,"longitude":2.3}}(window,'GeoPostal','FR');

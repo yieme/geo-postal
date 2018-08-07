@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98235"]={"code":"98235","region":"WA","city":"Clearlake","latitude":48.4701,"longitude":-122.2388}}(window,'GeoPostal','US');

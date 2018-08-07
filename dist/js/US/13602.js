@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13602"]={"code":"13602","region":"New York","city":"Fort Drum","latitude":44.016667,"longitude":-75.8}}(window,'GeoPostal','US');

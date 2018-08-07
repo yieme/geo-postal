@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62449"]={"code":"62449","region":"Illinois","city":"Oblong","latitude":39.00199,"longitude":-87.90892}}(window,'GeoPostal','US');

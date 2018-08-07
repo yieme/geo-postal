@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 0UG"]={"code":"LN11 0UG","region":"England","city":"Fotherby","latitude":53.40545,"longitude":-0.02202}}(window,'GeoPostal','GB');

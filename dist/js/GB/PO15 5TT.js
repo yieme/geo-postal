@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO15 5TT"]={"code":"PO15 5TT","region":"England","city":"Titchfield","latitude":50.85115,"longitude":-1.23716}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20624"]={"code":"20624","region":"Maryland","city":"Clements","latitude":38.32611,"longitude":-76.72722}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82930"]={"code":"82930","region":"Wyoming","city":"Evanston","latitude":41.26828,"longitude":-110.96324}}(window,'GeoPostal','US');

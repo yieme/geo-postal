@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23390"]={"code":"23390","region":"Varsinais-Suomi","city":"Inio","latitude":60.434395,"longitude":21.341487}}(window,'GeoPostal','FI');

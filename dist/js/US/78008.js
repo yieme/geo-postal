@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78008"]={"code":"78008","region":"Texas","city":"Campbellton","latitude":28.791363,"longitude":-98.245276}}(window,'GeoPostal','US');

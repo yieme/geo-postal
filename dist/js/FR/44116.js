@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44116"]={"code":"44116","region":"Pays-de-la-Loire","city":"Vieillevigne","latitude":46.97214,"longitude":-1.43405}}(window,'GeoPostal','FR');

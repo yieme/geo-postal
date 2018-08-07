@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51566"]={"code":"51566","region":"Iowa","city":"Red Oak","latitude":41.00972,"longitude":-95.22555}}(window,'GeoPostal','US');

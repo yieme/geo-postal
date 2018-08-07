@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51048"]={"code":"51048","region":"IA","city":"Pierson","latitude":42.5335,"longitude":-95.8922}}(window,'GeoPostal','US');

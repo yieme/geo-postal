@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43113"]={"code":"43113","region":"Ohio","city":"Circleville","latitude":39.60062,"longitude":-82.94601}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31040"]={"code":"31040","region":"Oran","city":"Ain el Bya","latitude":35.80389,"longitude":-0.30178}}(window,'GeoPostal','DZ');

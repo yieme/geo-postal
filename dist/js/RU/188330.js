@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188330"]={"code":"188330","region":"Leningradskaya oblast'","city":"Siverskiy","latitude":59.35444,"longitude":30.07833}}(window,'GeoPostal','RU');

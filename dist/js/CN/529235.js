@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["529235"]={"code":"529235","region":"Guangdong","city":"Wencun","latitude":21.86244,"longitude":112.49441}}(window,'GeoPostal','CN');

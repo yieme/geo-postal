@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0H 1G0"]={"code":"K0H 1G0","region":"Ontario","city":"Bath","latitude":44.186322,"longitude":-76.7827}}(window,'GeoPostal','CA');

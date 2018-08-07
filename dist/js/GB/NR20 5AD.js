@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR20 5AD"]={"code":"NR20 5AD","region":"England","city":"Foulsham","latitude":52.78182,"longitude":1.01049}}(window,'GeoPostal','GB');

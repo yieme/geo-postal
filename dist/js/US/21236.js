@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21236"]={"code":"21236","region":"Maryland","city":"Nottingham","latitude":39.38754,"longitude":-76.49538}}(window,'GeoPostal','US');

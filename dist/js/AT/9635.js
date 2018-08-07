@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9635"]={"code":"9635","region":"Karnten","city":"Dellach","latitude":46.66667,"longitude":13.08333}}(window,'GeoPostal','AT');

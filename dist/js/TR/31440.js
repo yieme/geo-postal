@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31440"]={"code":"31440","region":"Hatay","city":"Kirikhan","latitude":36.49939,"longitude":36.35755}}(window,'GeoPostal','TR');

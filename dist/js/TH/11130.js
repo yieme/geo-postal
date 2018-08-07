@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11130"]={"code":"11130","region":"Nonthaburi","city":"Bang Kruai","latitude":13.805,"longitude":100.47283}}(window,'GeoPostal','TH');

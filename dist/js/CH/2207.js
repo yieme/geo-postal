@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2207"]={"code":"2207","region":"Neuchatel","city":"Les Geneveys-sur-Coffrane","latitude":47.014,"longitude":6.85253}}(window,'GeoPostal','CH');

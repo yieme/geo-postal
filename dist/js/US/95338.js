@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95338"]={"code":"95338","region":"California","city":"Mariposa","latitude":37.48494,"longitude":-119.96628}}(window,'GeoPostal','US');

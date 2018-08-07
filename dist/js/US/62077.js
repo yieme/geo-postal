@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62077"]={"code":"62077","region":"IL","city":"Panama","latitude":39.0317,"longitude":-89.5237}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23901"]={"code":"23901","region":"Virginia","city":"Farmville","latitude":37.3021,"longitude":-78.39194}}(window,'GeoPostal','US');

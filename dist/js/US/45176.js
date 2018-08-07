@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45176"]={"code":"45176","region":"OH","city":"Williamsburg","latitude":39.0753,"longitude":-84.0432}}(window,'GeoPostal','US');

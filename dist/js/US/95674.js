@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95674"]={"code":"95674","region":"CA","city":"Rio Oso","latitude":38.967,"longitude":-121.4773}}(window,'GeoPostal','US');

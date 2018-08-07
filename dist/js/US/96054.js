@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96054"]={"code":"96054","region":"California","city":"Lookout","latitude":41.118661,"longitude":-121.138997}}(window,'GeoPostal','US');

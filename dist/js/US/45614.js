@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45614"]={"code":"45614","region":"Ohio","city":"Bidwell","latitude":38.930102,"longitude":-82.256938}}(window,'GeoPostal','US');

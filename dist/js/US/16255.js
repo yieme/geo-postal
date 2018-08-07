@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16255"]={"code":"16255","region":"Pennsylvania","city":"Sligo","latitude":41.10844,"longitude":-79.494463}}(window,'GeoPostal','US');

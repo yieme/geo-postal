@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83000"]={"code":"83000","region":"Phuket","city":"Phuket","latitude":7.89059,"longitude":98.3981}}(window,'GeoPostal','TH');

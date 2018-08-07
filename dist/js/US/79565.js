@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79565"]={"code":"79565","region":"Texas","city":"Westbrook","latitude":32.35694,"longitude":-101.0125}}(window,'GeoPostal','US');

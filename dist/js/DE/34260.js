@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34260"]={"code":"34260","region":"Hessen","city":"Oberkaufungen","latitude":51.28286,"longitude":9.63406}}(window,'GeoPostal','DE');

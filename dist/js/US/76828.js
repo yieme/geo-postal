@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76828"]={"code":"76828","region":"TX","city":"Burkett","latitude":31.9986,"longitude":-99.2553}}(window,'GeoPostal','US');

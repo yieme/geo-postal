@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17400"]={"code":"17400","region":"Catalunya","city":"Breda","latitude":41.74833,"longitude":2.55964}}(window,'GeoPostal','ES');

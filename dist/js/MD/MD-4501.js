@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-4501"]={"code":"MD-4501","region":"Stinga Nistrului, unitatea teritoriala din","city":"Dubasari","latitude":47.26306,"longitude":29.16083}}(window,'GeoPostal','MD');

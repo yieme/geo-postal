@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01710"]={"code":"01710","region":"Auvergne-Rhone-Alpes","city":"Thoiry","latitude":46.23762,"longitude":5.98111}}(window,'GeoPostal','FR');

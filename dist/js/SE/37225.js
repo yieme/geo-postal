@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37225"]={"code":"37225","region":"Blekinge lan","city":"Ronneby","latitude":56.20999,"longitude":15.27602}}(window,'GeoPostal','SE');

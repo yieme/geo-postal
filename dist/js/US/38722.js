@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38722"]={"code":"38722","region":"MS","city":"Arcola","latitude":33.2698,"longitude":-90.8798}}(window,'GeoPostal','US');

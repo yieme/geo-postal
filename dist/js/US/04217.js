@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04217"]={"code":"04217","region":"Maine","city":"Bethel","latitude":44.40423,"longitude":-70.79062}}(window,'GeoPostal','US');

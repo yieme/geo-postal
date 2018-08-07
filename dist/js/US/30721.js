@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30721"]={"code":"30721","region":"Georgia","city":"Dalton","latitude":34.784196,"longitude":-84.932534}}(window,'GeoPostal','US');

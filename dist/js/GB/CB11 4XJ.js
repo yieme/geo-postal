@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB11 4XJ"]={"code":"CB11 4XJ","region":"England","city":"Strethall","latitude":52.03333,"longitude":0.16667}}(window,'GeoPostal','GB');

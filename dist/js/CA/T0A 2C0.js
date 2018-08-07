@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 2C0"]={"code":"T0A 2C0","region":"Alberta","city":"Lac La Biche","latitude":54.7669,"longitude":-111.96861}}(window,'GeoPostal','CA');

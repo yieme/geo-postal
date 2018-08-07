@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243181"]={"code":"243181","region":"Anhui","city":"Longshanqiao","latitude":31.49622,"longitude":118.48122}}(window,'GeoPostal','CN');

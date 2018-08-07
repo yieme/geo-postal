@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571445"]={"code":"571445","region":"Karnataka","city":"Kollegal","latitude":12.15,"longitude":77.11667}}(window,'GeoPostal','IN');

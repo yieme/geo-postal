@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27000"]={"code":"27000","region":"Mostaganem","city":"Mostaganem","latitude":35.93115,"longitude":0.08918}}(window,'GeoPostal','DZ');

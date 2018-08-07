@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07737"]={"code":"07737","region":"NJ","city":"Leonardo","latitude":40.4177,"longitude":-74.0623}}(window,'GeoPostal','US');

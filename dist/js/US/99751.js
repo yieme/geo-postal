@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99751"]={"code":"99751","region":"AK","city":"Kobuk","latitude":66.9072,"longitude":-156.8811}}(window,'GeoPostal','US');

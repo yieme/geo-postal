@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68430"]={"code":"68430","region":"NE","city":"Roca","latitude":40.6702,"longitude":-96.6391}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88340"]={"code":"88340","region":"Federacija Bosne i Hercegovine","city":"Grude","latitude":43.36417,"longitude":17.42056}}(window,'GeoPostal','BA');

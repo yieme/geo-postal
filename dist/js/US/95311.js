@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95311"]={"code":"95311","region":"California","city":"Coulterville","latitude":37.72805,"longitude":-120.1978}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44103"]={"code":"44103","region":"Narayani","city":"Hitura","latitude":27.42839,"longitude":85.03219}}(window,'GeoPostal','NP');

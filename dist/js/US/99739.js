@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99739"]={"code":"99739","region":"AK","city":"Elim","latitude":64.6217,"longitude":-162.2604}}(window,'GeoPostal','US');

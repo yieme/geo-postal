@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41317"]={"code":"41317","region":"KY","city":"Clayhole","latitude":37.4476,"longitude":-83.1892}}(window,'GeoPostal','US');

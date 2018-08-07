@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31127"]={"code":"31127","region":"Sumatera Selatan","city":"Perabumulih","latitude":-3.45,"longitude":104.25}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["509-6133"]={"code":"509-6133","region":"Gifu","city":"Mizunami","latitude":35.367,"longitude":137.25}}(window,'GeoPostal','JP');

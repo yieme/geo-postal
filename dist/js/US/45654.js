@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45654"]={"code":"45654","region":"OH","city":"New Plymouth","latitude":39.3884,"longitude":-82.3892}}(window,'GeoPostal','US');

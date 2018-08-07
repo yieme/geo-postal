@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["325805"]={"code":"325805","region":"Zhejiang","city":"Jinxiangzhen","latitude":27.43265,"longitude":120.60625}}(window,'GeoPostal','CN');

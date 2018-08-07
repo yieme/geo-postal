@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658933"]={"code":"658933","region":"Altayskiy kray","city":"Volchikha","latitude":52.03333,"longitude":80.38333}}(window,'GeoPostal','RU');

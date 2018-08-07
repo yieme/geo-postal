@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74847"]={"code":"74847","region":"Baden-Wurttemberg","city":"Schreckhof","latitude":49.3622,"longitude":9.10671}}(window,'GeoPostal','DE');

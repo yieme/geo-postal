@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38086"]={"code":"38086","region":"Trentino-Alto Adige","city":"Pinzolo","latitude":46.158,"longitude":10.76307}}(window,'GeoPostal','IT');

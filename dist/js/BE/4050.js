@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4050"]={"code":"4050","region":"Liege","city":"Chaudfontaine","latitude":50.5828,"longitude":5.6341}}(window,'GeoPostal','BE');

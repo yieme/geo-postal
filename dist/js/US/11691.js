@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11691"]={"code":"11691","region":"NY","city":"Far Rockaway","latitude":40.6006,"longitude":-73.758}}(window,'GeoPostal','US');

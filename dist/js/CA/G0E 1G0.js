@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0E 1G0"]={"code":"G0E 1G0","region":"Quebec","city":"Petite-Anse","latitude":49.1834,"longitude":-64.86539}}(window,'GeoPostal','CA');

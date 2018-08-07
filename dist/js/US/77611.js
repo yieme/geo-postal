@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77611"]={"code":"77611","region":"Texas","city":"Bridge City","latitude":30.029359,"longitude":-93.835922}}(window,'GeoPostal','US');

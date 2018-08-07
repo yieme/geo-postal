@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71833"]={"code":"71833","region":"Arkansas","city":"Dierks","latitude":34.11928,"longitude":-94.01658}}(window,'GeoPostal','US');

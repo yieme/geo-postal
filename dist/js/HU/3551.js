@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3551"]={"code":"3551","region":"Borsod-Abauj-Zemplen","city":"Onod","latitude":48,"longitude":20.91667}}(window,'GeoPostal','HU');

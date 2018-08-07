@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40233"]={"code":"40233","region":"Niedersachsen","city":"Kirchhoff","latitude":52.48196,"longitude":7.24008}}(window,'GeoPostal','DE');

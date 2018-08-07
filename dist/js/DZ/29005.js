@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29005"]={"code":"29005","region":"Mascara","city":"Bou Hanifia el Hamamat","latitude":35.31473,"longitude":-0.05037}}(window,'GeoPostal','DZ');

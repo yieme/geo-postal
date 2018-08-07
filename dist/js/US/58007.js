@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58007"]={"code":"58007","region":"ND","city":"Ayr","latitude":47.0139,"longitude":-97.4629}}(window,'GeoPostal','US');

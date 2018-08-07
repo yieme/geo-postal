@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76340"]={"code":"76340","region":"Queretaro","city":"Jalpan","latitude":21.23333,"longitude":-99.48333}}(window,'GeoPostal','MX');

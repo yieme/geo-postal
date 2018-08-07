@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31400"]={"code":"31400","region":"Perak","city":"Ipoh","latitude":4.5841,"longitude":101.0829}}(window,'GeoPostal','MY');

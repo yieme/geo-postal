@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707142"]={"code":"707142","region":"Iasi","city":"Cozmesti","latitude":46.88333,"longitude":27.98333}}(window,'GeoPostal','RO');

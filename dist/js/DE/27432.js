@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27432"]={"code":"27432","region":"Niedersachsen","city":"Oerel","latitude":53.48333,"longitude":9.05}}(window,'GeoPostal','DE');

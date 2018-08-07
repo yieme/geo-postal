@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25038"]={"code":"25038","region":"Lombardia","city":"Rovato","latitude":45.56578,"longitude":10.00006}}(window,'GeoPostal','IT');

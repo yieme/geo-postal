@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35610"]={"code":"35610","region":"AL","city":"Anderson","latitude":34.9424,"longitude":-87.2734}}(window,'GeoPostal','US');

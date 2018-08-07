@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37520"]={"code":"37520","region":"Thuringen","city":"Osterode","latitude":51.56564,"longitude":10.81695}}(window,'GeoPostal','DE');

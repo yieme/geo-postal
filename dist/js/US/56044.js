@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56044"]={"code":"56044","region":"MN","city":"Henderson","latitude":44.5344,"longitude":-93.9345}}(window,'GeoPostal','US');

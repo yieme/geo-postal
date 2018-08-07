@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97058"]={"code":"97058","region":"Oregon","city":"The Dalles","latitude":45.59456,"longitude":-121.17868}}(window,'GeoPostal','US');

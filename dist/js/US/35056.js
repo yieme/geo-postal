@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35056"]={"code":"35056","region":"Alabama","city":"Cullman","latitude":34.180678,"longitude":-86.84866}}(window,'GeoPostal','US');

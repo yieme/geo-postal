@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO9 2RH"]={"code":"CO9 2RH","region":"England","city":"Great Maplestead","latitude":51.97885,"longitude":0.62983}}(window,'GeoPostal','GB');

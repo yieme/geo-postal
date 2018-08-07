@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01252"]={"code":"01252","region":"MA","city":"North Egremont","latitude":42.1986,"longitude":-73.4462}}(window,'GeoPostal','US');

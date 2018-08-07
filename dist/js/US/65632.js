@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65632"]={"code":"65632","region":"Missouri","city":"Conway","latitude":37.515441,"longitude":-92.748607}}(window,'GeoPostal','US');

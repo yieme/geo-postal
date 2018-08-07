@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX12 2LG"]={"code":"EX12 2LG","region":"England","city":"Seaton","latitude":50.70494,"longitude":-3.06999}}(window,'GeoPostal','GB');

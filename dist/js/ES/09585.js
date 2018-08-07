@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09585"]={"code":"09585","region":"Castilla y Leon","city":"Cerezo de Rio Tiron","latitude":42.4914,"longitude":-3.136}}(window,'GeoPostal','ES');

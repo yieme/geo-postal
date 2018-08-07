@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12763"]={"code":"12763","region":"NY","city":"Mountain Dale","latitude":41.6918,"longitude":-74.5358}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97329"]={"code":"97329","region":"OR","city":"Cascadia","latitude":44.3973,"longitude":-122.4817}}(window,'GeoPostal','US');

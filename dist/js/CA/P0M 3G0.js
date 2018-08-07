@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0M 3G0"]={"code":"P0M 3G0","region":"Ontario","city":"White River","latitude":48.59224,"longitude":-85.27201}}(window,'GeoPostal','CA');

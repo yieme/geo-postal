@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5521"]={"code":"5521","region":"Bekes","city":"Szeghalom","latitude":47.03333,"longitude":21.16667}}(window,'GeoPostal','HU');

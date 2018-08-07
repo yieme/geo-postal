@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47022"]={"code":"47022","region":"Indiana","city":"Guilford","latitude":39.206774,"longitude":-84.95198}}(window,'GeoPostal','US');

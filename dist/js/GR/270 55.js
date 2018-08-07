@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["270 55"]={"code":"270 55","region":"Dytiki Ellada","city":"Krestena","latitude":37.61667,"longitude":21.63333}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS40 6JB"]={"code":"BS40 6JB","region":"England","city":"Compton Martin","latitude":51.31056,"longitude":-2.65528}}(window,'GeoPostal','GB');

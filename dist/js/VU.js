@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["VU"]={id:'VU',country:'Vanuatu', postal:{'':{code:'',region:'Shefa',city:'Port-Vila',latitude:-17.73381,longitude:168.32188}}};

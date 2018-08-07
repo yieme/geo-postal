@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["747103"]={"code":"747103","region":"Gansu","city":"Sangke","latitude":35.12497,"longitude":102.44411}}(window,'GeoPostal','CN');

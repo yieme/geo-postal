@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87045"]={"code":"87045","region":"New Mexico","city":"Prewitt","latitude":35.342309,"longitude":-108.112354}}(window,'GeoPostal','US');

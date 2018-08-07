@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7780-999"]={"code":"7780-999","region":"Beja","city":"Castro Verde","latitude":37.69828,"longitude":-8.08581}}(window,'GeoPostal','PT');

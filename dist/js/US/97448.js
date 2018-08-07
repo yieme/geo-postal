@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97448"]={"code":"97448","region":"Oregon","city":"Junction City","latitude":44.21929,"longitude":-123.20565}}(window,'GeoPostal','US');

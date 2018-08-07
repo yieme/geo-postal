@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["225121"]={"code":"225121","region":"Uttar Pradesh","city":"Sisauli","latitude":29.41667,"longitude":77.46667}}(window,'GeoPostal','IN');

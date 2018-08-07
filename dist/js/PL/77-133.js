@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-133"]={"code":"77-133","region":"Pomorskie","city":"Tuchomie","latitude":54.11522,"longitude":17.33634}}(window,'GeoPostal','PL');

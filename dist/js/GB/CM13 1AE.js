@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM13 1AE"]={"code":"CM13 1AE","region":"England","city":"Shenfield","latitude":51.63171,"longitude":0.33199}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2135"]={"code":"2135","region":"New South Wales","city":"Strathfield","latitude":-33.88096,"longitude":151.07986}}(window,'GeoPostal','AU');

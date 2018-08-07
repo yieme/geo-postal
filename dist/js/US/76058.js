@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76058"]={"code":"76058","region":"Texas","city":"Joshua","latitude":32.462338,"longitude":-97.39786}}(window,'GeoPostal','US');

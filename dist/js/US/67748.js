@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67748"]={"code":"67748","region":"Kansas","city":"Oakley","latitude":39.13334,"longitude":-100.86376}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7609"]={"code":"7609","region":"Overijssel","city":"Almelo","latitude":52.35667,"longitude":6.6625}}(window,'GeoPostal','NL');

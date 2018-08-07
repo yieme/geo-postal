@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST5 7QQ"]={"code":"ST5 7QQ","region":"England","city":"Vigo","latitude":52.33333,"longitude":-2.01667}}(window,'GeoPostal','GB');

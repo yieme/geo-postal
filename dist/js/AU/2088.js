@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2088"]={"code":"2088","region":"New South Wales","city":"Mosman","latitude":-33.82778,"longitude":151.23333}}(window,'GeoPostal','AU');

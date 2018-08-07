@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB18 5DL"]={"code":"BB18 5DL","region":"England","city":"Barnoldswick","latitude":53.91711,"longitude":-2.18705}}(window,'GeoPostal','GB');

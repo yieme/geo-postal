@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666350"]={"code":"666350","region":"Irkutskaya oblast'","city":"Ust'-Uda","latitude":54.1742,"longitude":103.0304}}(window,'GeoPostal','RU');

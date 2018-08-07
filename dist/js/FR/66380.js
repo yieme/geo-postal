@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66380"]={"code":"66380","region":"Occitanie","city":"Pia","latitude":42.7449,"longitude":2.9193}}(window,'GeoPostal','FR');

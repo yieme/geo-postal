@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81138"]={"code":"81138","region":"Colorado","city":"Jaroso","latitude":37.002778,"longitude":-105.623611}}(window,'GeoPostal','US');

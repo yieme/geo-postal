@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15745"]={"code":"15745","region":"PA","city":"Heilwood","latitude":40.6207,"longitude":-78.9186}}(window,'GeoPostal','US');

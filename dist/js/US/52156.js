@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52156"]={"code":"52156","region":"Iowa","city":"Luana","latitude":43.055109,"longitude":-91.391677}}(window,'GeoPostal','US');

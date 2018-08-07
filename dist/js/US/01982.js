@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01982"]={"code":"01982","region":"Massachusetts","city":"Hamilton","latitude":42.619619,"longitude":-70.863622}}(window,'GeoPostal','US');

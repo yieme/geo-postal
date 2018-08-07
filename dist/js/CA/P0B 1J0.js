@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0B 1J0"]={"code":"P0B 1J0","region":"Ontario","city":"Bala","latitude":45.06589,"longitude":-79.581736}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88265"]={"code":"88265","region":"NM","city":"Monument","latitude":32.5874,"longitude":-103.2703}}(window,'GeoPostal','US');

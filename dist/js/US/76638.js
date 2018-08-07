@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76638"]={"code":"76638","region":"TX","city":"Crawford","latitude":31.5598,"longitude":-97.39}}(window,'GeoPostal','US');

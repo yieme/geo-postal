@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57240"]={"code":"57240","region":"Grand-Est","city":"Nilvange","latitude":49.33995,"longitude":6.05483}}(window,'GeoPostal','FR');

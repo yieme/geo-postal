@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE19 5TP"]={"code":"PE19 5TP","region":"England","city":"Buckden","latitude":52.29415,"longitude":-0.24912}}(window,'GeoPostal','GB');

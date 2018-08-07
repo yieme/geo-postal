@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56760"]={"code":"56760","region":"Bretagne","city":"Penestin","latitude":47.48226,"longitude":-2.47275}}(window,'GeoPostal','FR');

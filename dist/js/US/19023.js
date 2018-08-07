@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19023"]={"code":"19023","region":"PA","city":"Darby","latitude":39.9176,"longitude":-75.2696}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49915"]={"code":"49915","region":"Michigan","city":"Caspian","latitude":46.06361,"longitude":-88.62889}}(window,'GeoPostal','US');

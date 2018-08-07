@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47559"]={"code":"47559","region":"Nouvelle-Aquitaine","city":"Boe","latitude":44.16006,"longitude":0.62905}}(window,'GeoPostal','FR');

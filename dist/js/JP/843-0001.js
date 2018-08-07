@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["843-0001"]={"code":"843-0001","region":"Saga","city":"Takeo","latitude":33.2,"longitude":130.017}}(window,'GeoPostal','JP');

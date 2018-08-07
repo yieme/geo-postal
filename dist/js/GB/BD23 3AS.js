@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 3AS"]={"code":"BD23 3AS","region":"England","city":"Elslack","latitude":53.9395,"longitude":-2.10842}}(window,'GeoPostal','GB');

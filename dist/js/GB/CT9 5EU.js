@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT9 5EU"]={"code":"CT9 5EU","region":"England","city":"Garlinge","latitude":51.37521,"longitude":1.35501}}(window,'GeoPostal','GB');

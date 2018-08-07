@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["591702"]={"code":"591702","region":"Karnataka","city":"Gokak","latitude":16.16667,"longitude":74.83333}}(window,'GeoPostal','IN');

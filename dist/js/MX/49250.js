@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49250"]={"code":"49250","region":"Jalisco","city":"Teocuitatlan de Corona","latitude":20.11667,"longitude":-103.4}}(window,'GeoPostal','MX');

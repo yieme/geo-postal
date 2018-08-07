@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692 00"]={"code":"692 00","region":"Anatoliki Makedonia kai Thraki","city":"Iasmos","latitude":41.13333,"longitude":25.18333}}(window,'GeoPostal','GR');

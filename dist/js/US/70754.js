@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70754"]={"code":"70754","region":"Louisiana","city":"Livingston","latitude":30.44455,"longitude":-90.758035}}(window,'GeoPostal','US');

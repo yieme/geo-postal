@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79852"]={"code":"79852","region":"Texas","city":"Terlingua","latitude":29.330949,"longitude":-103.592499}}(window,'GeoPostal','US');

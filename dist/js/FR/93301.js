@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93301"]={"code":"93301","region":"Ile-de-France","city":"Aubervilliers","latitude":48.91667,"longitude":2.38333}}(window,'GeoPostal','FR');

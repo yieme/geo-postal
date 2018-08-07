@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04256"]={"code":"04256","region":"Maine","city":"Mechanic Falls","latitude":44.11174,"longitude":-70.39172}}(window,'GeoPostal','US');

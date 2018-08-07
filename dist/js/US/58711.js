@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58711"]={"code":"58711","region":"ND","city":"Antler","latitude":48.9585,"longitude":-101.3338}}(window,'GeoPostal','US');

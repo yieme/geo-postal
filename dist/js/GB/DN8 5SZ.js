@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN8 5SZ"]={"code":"DN8 5SZ","region":"England","city":"Sandtoft","latitude":53.56376,"longitude":-0.87886}}(window,'GeoPostal','GB');

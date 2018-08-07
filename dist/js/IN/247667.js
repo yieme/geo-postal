@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247667"]={"code":"247667","region":"Uttarakhand","city":"Roorkee","latitude":29.86667,"longitude":77.88333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32611"]={"code":"32611","region":"Florida","city":"Gainesville","latitude":29.645404,"longitude":-82.348669}}(window,'GeoPostal','US');

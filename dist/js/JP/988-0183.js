@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["988-0183"]={"code":"988-0183","region":"Miyagi","city":"Kesennuma","latitude":38.883,"longitude":141.583}}(window,'GeoPostal','JP');

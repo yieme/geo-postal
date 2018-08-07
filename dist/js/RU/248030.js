@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["248030"]={"code":"248030","region":"Kaluzhskaya oblast'","city":"Kaluga","latitude":54.5293,"longitude":36.27542}}(window,'GeoPostal','RU');

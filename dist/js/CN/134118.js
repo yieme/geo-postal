@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134118"]={"code":"134118","region":"Jilin","city":"Ying'ebu","latitude":41.73028,"longitude":125.55639}}(window,'GeoPostal','CN');

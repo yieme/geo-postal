@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-175"]={"code":"22-175","region":"Lubelskie","city":"Dorohusk","latitude":51.15475,"longitude":23.80325}}(window,'GeoPostal','PL');

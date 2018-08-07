@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62831"]={"code":"62831","region":"Illinois","city":"Du Bois","latitude":38.250337,"longitude":-89.201661}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601110"]={"code":"601110","region":"Vladimirskaya oblast'","city":"Kosterevo","latitude":55.9299,"longitude":39.61438}}(window,'GeoPostal','RU');

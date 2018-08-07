@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15270"]={"code":"15270","region":"Auvergne-Rhone-Alpes","city":"Champs-sur-Tarentaine-Marchal","latitude":45.4,"longitude":2.56667}}(window,'GeoPostal','FR');

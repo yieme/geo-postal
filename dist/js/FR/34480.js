@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34480"]={"code":"34480","region":"Occitanie","city":"Laurens","latitude":43.52238,"longitude":3.19714}}(window,'GeoPostal','FR');

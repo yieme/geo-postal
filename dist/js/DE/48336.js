@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48336"]={"code":"48336","region":"Nordrhein-Westfalen","city":"Rippelbaum","latitude":52.02613,"longitude":8.06772}}(window,'GeoPostal','DE');

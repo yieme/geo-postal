@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["UB6 0AD"]={"code":"UB6 0AD","region":"England","city":"Greenford","latitude":51.52866,"longitude":-0.35508}}(window,'GeoPostal','GB');

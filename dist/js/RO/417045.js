@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417045"]={"code":"417045","region":"Bihor","city":"Batar","latitude":46.7,"longitude":21.81667}}(window,'GeoPostal','RO');

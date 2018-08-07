@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45657"]={"code":"45657","region":"OH","city":"Otway","latitude":38.852,"longitude":-83.2222}}(window,'GeoPostal','US');

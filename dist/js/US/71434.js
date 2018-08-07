@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71434"]={"code":"71434","region":"LA","city":"Gorum","latitude":31.433,"longitude":-92.9435}}(window,'GeoPostal','US');

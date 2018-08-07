@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26293"]={"code":"26293","region":"WV","city":"Valley Bend","latitude":38.7718,"longitude":-79.9253}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59826"]={"code":"59826","region":"MT","city":"Condon","latitude":47.5097,"longitude":-113.7075}}(window,'GeoPostal','US');

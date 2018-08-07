@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-645"]={"code":"87-645","region":"Kujawsko-pomorskie","city":"Zbojno","latitude":53.00848,"longitude":19.1575}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15773"]={"code":"15773","region":"PA","city":"Saint Benedict","latitude":40.6298,"longitude":-78.7329}}(window,'GeoPostal','US');

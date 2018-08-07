@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8344"]={"code":"8344","region":"Steiermark","city":"Merkendorf","latitude":46.85722,"longitude":15.90389}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57438"]={"code":"57438","region":"South Dakota","city":"Faulkton","latitude":45.03497,"longitude":-99.124}}(window,'GeoPostal','US');

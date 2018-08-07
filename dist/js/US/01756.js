@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01756"]={"code":"01756","region":"MA","city":"Mendon","latitude":42.0967,"longitude":-71.5499}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84001"]={"code":"84001","region":"Utah","city":"Altamont","latitude":40.40148,"longitude":-110.46791}}(window,'GeoPostal','US');

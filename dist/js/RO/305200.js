@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["305200"]={"code":"305200","region":"Timis","city":"Deta","latitude":45.38889,"longitude":21.22444}}(window,'GeoPostal','RO');

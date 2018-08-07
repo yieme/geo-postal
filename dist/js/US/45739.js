@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45739"]={"code":"45739","region":"OH","city":"Hockingport","latitude":39.1979,"longitude":-81.7446}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22340"]={"code":"22340","region":"Bretagne","city":"Mael-Carhaix","latitude":48.28444,"longitude":-3.42322}}(window,'GeoPostal','FR');

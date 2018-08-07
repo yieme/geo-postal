@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12017"]={"code":"12017","region":"NY","city":"Austerlitz","latitude":42.3223,"longitude":-73.455}}(window,'GeoPostal','US');

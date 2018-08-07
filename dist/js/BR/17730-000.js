@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17730-000"]={"code":"17730-000","region":"Sao Paulo","city":"Osvaldo Cruz","latitude":-21.79667,"longitude":-50.87861}}(window,'GeoPostal','BR');

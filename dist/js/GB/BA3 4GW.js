@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA3 4GW"]={"code":"BA3 4GW","region":"England","city":"Litton","latitude":51.2875,"longitude":-2.58167}}(window,'GeoPostal','GB');

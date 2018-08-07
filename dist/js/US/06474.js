@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06474"]={"code":"06474","region":"CT","city":"North Westchester","latitude":41.5809,"longitude":-72.4012}}(window,'GeoPostal','US');

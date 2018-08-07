@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3240"]={"code":"3240","region":"Vratsa","city":"Borovan","latitude":43.43333,"longitude":23.75}}(window,'GeoPostal','BG');

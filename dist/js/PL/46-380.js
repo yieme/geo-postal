@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-380"]={"code":"46-380","region":"Opolskie","city":"Dobrodzien","latitude":50.72874,"longitude":18.44501}}(window,'GeoPostal','PL');

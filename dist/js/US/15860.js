@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15860"]={"code":"15860","region":"Pennsylvania","city":"Sigel","latitude":41.359731,"longitude":-78.989846}}(window,'GeoPostal','US');

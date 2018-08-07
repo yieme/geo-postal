@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W2 2TY"]={"code":"W2 2TY","region":"England","city":"Lancaster","latitude":54.06667,"longitude":-2.83333}}(window,'GeoPostal','GB');

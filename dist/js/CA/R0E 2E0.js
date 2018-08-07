@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0E 2E0"]={"code":"R0E 2E0","region":"Manitoba","city":"Gull Harbour","latitude":51.19922,"longitude":-96.62062}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["510900"]={"code":"510900","region":"Sichuan","city":"Suining","latitude":30.50802,"longitude":105.57332}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65000-000"]={"code":"65000-000","region":"Maranhao","city":"Sao Luis","latitude":-2.52972,"longitude":-44.30278}}(window,'GeoPostal','BR');

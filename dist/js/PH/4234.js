@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4234"]={"code":"4234","region":"Batangas","city":"Bilog-Bilog","latitude":14.11361,"longitude":121.08861}}(window,'GeoPostal','PH');

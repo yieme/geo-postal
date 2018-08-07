@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02430"]={"code":"02430","region":"Hauts-de-France","city":"Gauchy","latitude":49.82765,"longitude":3.27371}}(window,'GeoPostal','FR');

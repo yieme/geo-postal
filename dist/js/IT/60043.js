@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60043"]={"code":"60043","region":"Marche","city":"Cerreto d'Esi","latitude":43.31295,"longitude":12.98757}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-202"]={"code":"26-202","region":"Swietokrzyskie","city":"Konskie","latitude":51.19166,"longitude":20.40607}}(window,'GeoPostal','PL');

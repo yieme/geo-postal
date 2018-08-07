@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94151"]={"code":"94151","region":"Bayern","city":"Mauth","latitude":48.88972,"longitude":13.58459}}(window,'GeoPostal','DE');

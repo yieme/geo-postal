@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5H 1A1"]={"code":"E5H 1A1","region":"New Brunswick","city":"Blacks Harbour","latitude":45.06013,"longitude":-66.78469}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74436"]={"code":"74436","region":"OK","city":"Haskell","latitude":35.8108,"longitude":-95.684}}(window,'GeoPostal','US');

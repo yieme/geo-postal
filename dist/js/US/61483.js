@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61483"]={"code":"61483","region":"Illinois","city":"Toulon","latitude":41.09365,"longitude":-89.86483}}(window,'GeoPostal','US');

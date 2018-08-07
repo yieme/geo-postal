@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36404"]={"code":"36404","region":"Hessen","city":"Philippsthal","latitude":50.83948,"longitude":10.00906}}(window,'GeoPostal','DE');

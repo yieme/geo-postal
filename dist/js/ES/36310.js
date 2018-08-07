@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36310"]={"code":"36310","region":"Galicia","city":"Vigo","latitude":42.23282,"longitude":-8.72264}}(window,'GeoPostal','ES');

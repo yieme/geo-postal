@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47964"]={"code":"47964","region":"IN","city":"Mount Ayr","latitude":40.9521,"longitude":-87.2986}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA34 5XZ"]={"code":"PA34 5XZ","region":"Scotland","city":"Bonnavoulin","latitude":56.6,"longitude":-5.96667}}(window,'GeoPostal','GB');

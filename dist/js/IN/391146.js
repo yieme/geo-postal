@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391146"]={"code":"391146","region":"Gujarat","city":"Sankheda","latitude":22.16667,"longitude":73.58333}}(window,'GeoPostal','IN');

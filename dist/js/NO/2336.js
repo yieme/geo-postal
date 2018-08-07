@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2336"]={"code":"2336","region":"Hedmark","city":"Stange","latitude":60.71803,"longitude":11.19417}}(window,'GeoPostal','NO');

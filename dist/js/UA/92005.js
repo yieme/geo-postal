@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92005"]={"code":"92005","region":"Luhanska oblast","city":"Lutugino","latitude":48.40507,"longitude":39.22675}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86700-000"]={"code":"86700-000","region":"Parana","city":"Arapongas","latitude":-23.41944,"longitude":-51.42444}}(window,'GeoPostal','BR');

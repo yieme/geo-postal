@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83550"]={"code":"83550","region":"Provence-Alpes-Cote d'Azur","city":"Vidauban","latitude":43.4278,"longitude":6.4329}}(window,'GeoPostal','FR');

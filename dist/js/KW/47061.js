@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47061"]={"code":"47061","region":"Al 'Asimah","city":"Al Mahbulah","latitude":29.145,"longitude":48.13028}}(window,'GeoPostal','KW');

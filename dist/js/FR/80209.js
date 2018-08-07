@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80209"]={"code":"80209","region":"Hauts-de-France","city":"Peronne","latitude":49.93333,"longitude":2.93333}}(window,'GeoPostal','FR');

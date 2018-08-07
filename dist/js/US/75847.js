@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75847"]={"code":"75847","region":"TX","city":"Kennard","latitude":31.3384,"longitude":-95.1541}}(window,'GeoPostal','US');

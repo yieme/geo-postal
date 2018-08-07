@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12487"]={"code":"12487","region":"New York","city":"Ulster Park","latitude":41.864728,"longitude":-73.992291}}(window,'GeoPostal','US');

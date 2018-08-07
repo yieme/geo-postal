@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["199 00"]={"code":"199 00","region":"Praha, Hlavni mesto","city":"Letnany","latitude":50.13333,"longitude":14.51667}}(window,'GeoPostal','CZ');

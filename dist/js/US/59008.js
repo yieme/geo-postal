@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59008"]={"code":"59008","region":"MT","city":"Belfry","latitude":45.0498,"longitude":-109.0788}}(window,'GeoPostal','US');

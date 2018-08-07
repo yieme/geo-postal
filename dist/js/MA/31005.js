@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31005"]={"code":"31005","region":"Fes-Boulemane","city":"Sefrou","latitude":33.83186,"longitude":-4.828}}(window,'GeoPostal','MA');

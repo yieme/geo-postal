@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61570"]={"code":"61570","region":"Normandie","city":"Mortree","latitude":48.63899,"longitude":0.07909}}(window,'GeoPostal','FR');

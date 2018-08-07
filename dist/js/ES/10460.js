@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10460"]={"code":"10460","region":"Extremadura","city":"Losar de la Vera","latitude":40.12158,"longitude":-5.60454}}(window,'GeoPostal','ES');

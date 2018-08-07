@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17322"]={"code":"17322","region":"PA","city":"Felton","latitude":39.836,"longitude":-76.5937}}(window,'GeoPostal','US');

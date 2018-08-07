@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83805"]={"code":"83805","region":"Idaho","city":"Bonners Ferry","latitude":48.69133,"longitude":-116.31631}}(window,'GeoPostal','US');

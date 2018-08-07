@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2700-545"]={"code":"2700-545","region":"Lisboa","city":"Pontinha","latitude":38.76771,"longitude":-9.19935}}(window,'GeoPostal','PT');

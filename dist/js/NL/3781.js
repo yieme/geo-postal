@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3781"]={"code":"3781","region":"Gelderland","city":"Voorthuizen","latitude":52.18667,"longitude":5.60556}}(window,'GeoPostal','NL');

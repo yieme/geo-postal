@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62247"]={"code":"62247","region":"Illinois","city":"Hagarstown","latitude":38.943333,"longitude":-89.1694}}(window,'GeoPostal','US');

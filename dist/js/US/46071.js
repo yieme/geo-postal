@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46071"]={"code":"46071","region":"Indiana","city":"Thorntown","latitude":40.12948,"longitude":-86.60667}}(window,'GeoPostal','US');

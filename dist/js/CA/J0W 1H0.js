@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0W 1H0"]={"code":"J0W 1H0","region":"Quebec","city":"Beaux-Rivages--Lac-des-Ecorces--Val-Barrette","latitude":46.53341,"longitude":-75.29929}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347410"]={"code":"347410","region":"Rostovskaya oblast'","city":"Dubovskoye","latitude":47.4142,"longitude":42.7697}}(window,'GeoPostal','RU');

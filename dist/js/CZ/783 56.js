@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783 56"]={"code":"783 56","region":"Olomoucky kraj","city":"Doloplazy","latitude":49.56876,"longitude":17.41393}}(window,'GeoPostal','CZ');

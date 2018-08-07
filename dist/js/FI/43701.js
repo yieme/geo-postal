@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43701"]={"code":"43701","region":"Keski-Suomi","city":"Kyyjarvi","latitude":63.03333,"longitude":24.56667}}(window,'GeoPostal','FI');

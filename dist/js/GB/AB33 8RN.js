@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB33 8RN"]={"code":"AB33 8RN","region":"Scotland","city":"Towie","latitude":57.20343,"longitude":-2.92969}}(window,'GeoPostal','GB');

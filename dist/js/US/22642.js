@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22642"]={"code":"22642","region":"Virginia","city":"Linden","latitude":38.8852,"longitude":-78.0762}}(window,'GeoPostal','US');

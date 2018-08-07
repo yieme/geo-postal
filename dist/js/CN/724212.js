@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["724212"]={"code":"724212","region":"Shaanxi","city":"Wuhou","latitude":33.15029,"longitude":106.61463}}(window,'GeoPostal','CN');

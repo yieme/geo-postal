@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88409"]={"code":"88409","region":"Grand-Est","city":"Gerardmer","latitude":48.07346,"longitude":6.87787}}(window,'GeoPostal','FR');

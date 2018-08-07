@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A2V 0A1"]={"code":"A2V 0A1","region":"Newfoundland and Labrador","city":"Labrador City","latitude":52.94626,"longitude":-66.91137}}(window,'GeoPostal','CA');

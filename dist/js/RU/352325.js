@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352325"]={"code":"352325","region":"Adygeya, Respublika","city":"Krasnogvardeyskoye","latitude":45.1278,"longitude":39.57246}}(window,'GeoPostal','RU');

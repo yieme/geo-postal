@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51789"]={"code":"51789","region":"Nordrhein-Westfalen","city":"Hagen","latitude":51.0279,"longitude":7.4466}}(window,'GeoPostal','DE');

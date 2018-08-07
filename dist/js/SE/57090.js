@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57090"]={"code":"57090","region":"Kalmar lan","city":"Paskallavik","latitude":57.16667,"longitude":16.45}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29654"]={"code":"29654","region":"South Carolina","city":"Honea Path","latitude":34.447033,"longitude":-82.401901}}(window,'GeoPostal','US');

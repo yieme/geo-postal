@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96191"]={"code":"96191","region":"Bayern","city":"Trunstadt","latitude":49.9287,"longitude":10.75038}}(window,'GeoPostal','DE');

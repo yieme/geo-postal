@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80434"]={"code":"80434","region":"CO","city":"Cowdrey","latitude":40.8597,"longitude":-106.3131}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25021"]={"code":"25021","region":"WV","city":"Bim","latitude":37.9218,"longitude":-81.6893}}(window,'GeoPostal','US');

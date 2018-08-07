@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69363"]={"code":"69363","region":"Jawa Timur","city":"Pamekasan","latitude":-7.1568,"longitude":113.4746}}(window,'GeoPostal','ID');

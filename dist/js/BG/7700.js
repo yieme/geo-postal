@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7700"]={"code":"7700","region":"Targovishte","city":"Turgovishte","latitude":43.25917,"longitude":26.58917}}(window,'GeoPostal','BG');

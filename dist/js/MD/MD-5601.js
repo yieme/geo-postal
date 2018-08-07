@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-5601"]={"code":"MD-5601","region":"Riscani","city":"Riscani","latitude":47.95722,"longitude":27.55389}}(window,'GeoPostal','MD');

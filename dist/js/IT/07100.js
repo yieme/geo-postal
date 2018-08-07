@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07100"]={"code":"07100","region":"Sardegna","city":"Sassari","latitude":40.72722,"longitude":8.56028}}(window,'GeoPostal','IT');

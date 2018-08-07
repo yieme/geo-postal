@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37140-000"]={"code":"37140-000","region":"Minas Gerais","city":"Areado","latitude":-21.35861,"longitude":-46.14556}}(window,'GeoPostal','BR');

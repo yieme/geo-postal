@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78372"]={"code":"78372","region":"TX","city":"Orange Grove","latitude":27.9487,"longitude":-97.9838}}(window,'GeoPostal','US');

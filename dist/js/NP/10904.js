@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10904"]={"code":"10904","region":"Seti","city":"Tikapur","latitude":28.5,"longitude":81.13333}}(window,'GeoPostal','NP');

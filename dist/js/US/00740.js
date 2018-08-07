@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00740"]={"code":"00740","region":"PR","city":"Puerto Real","latitude":18.33,"longitude":-65.63}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69502"]={"code":"69502","region":"Bayern","city":"Hemsbach","latitude":50.06667,"longitude":9.11667}}(window,'GeoPostal','DE');

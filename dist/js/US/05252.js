@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05252"]={"code":"05252","region":"Vermont","city":"East Arlington","latitude":43.061408,"longitude":-73.137162}}(window,'GeoPostal','US');

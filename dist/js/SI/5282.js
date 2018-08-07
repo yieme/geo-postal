@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5282"]={"code":"5282","region":"Cerkno","city":"Cerkno","latitude":46.12556,"longitude":13.98167}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66999"]={"code":"66999","region":"Rheinland-Pfalz","city":"Kaltenbach","latitude":49.2,"longitude":7.75}}(window,'GeoPostal','DE');

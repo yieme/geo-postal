@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N1T 1Z6"]={"code":"N1T 1Z6","region":"Ontario","city":"Cambridge","latitude":43.41429,"longitude":-80.292904}}(window,'GeoPostal','CA');

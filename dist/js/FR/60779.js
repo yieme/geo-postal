@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60779"]={"code":"60779","region":"Hauts-de-France","city":"Thourotte","latitude":49.47591,"longitude":2.8821}}(window,'GeoPostal','FR');

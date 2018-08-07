@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86001"]={"code":"86001","region":"Siauliu apskritis","city":"Kelme","latitude":55.63389,"longitude":22.93417}}(window,'GeoPostal','LT');

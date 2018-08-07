@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26676"]={"code":"26676","region":"Niedersachsen","city":"Neuland","latitude":53.16232,"longitude":7.76257}}(window,'GeoPostal','DE');

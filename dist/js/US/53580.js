@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53580"]={"code":"53580","region":"Wisconsin","city":"Rewey","latitude":42.842902,"longitude":-90.395576}}(window,'GeoPostal','US');

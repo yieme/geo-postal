@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3830"]={"code":"3830","region":"Kwazulu-Natal","city":"Eshowe","latitude":-28.88648,"longitude":31.4699}}(window,'GeoPostal','ZA');

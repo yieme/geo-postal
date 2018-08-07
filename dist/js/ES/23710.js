@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23710"]={"code":"23710","region":"Andalucia","city":"Bailen","latitude":38.09639,"longitude":-3.77786}}(window,'GeoPostal','ES');

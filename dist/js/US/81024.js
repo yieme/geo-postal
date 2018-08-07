@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81024"]={"code":"81024","region":"Colorado","city":"Boncarbo","latitude":37.21665,"longitude":-104.69681}}(window,'GeoPostal','US');

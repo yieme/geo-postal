@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH10 4SD"]={"code":"RH10 4SD","region":"England","city":"Turners Hill","latitude":51.10341,"longitude":-0.08514}}(window,'GeoPostal','GB');

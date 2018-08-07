@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44215"]={"code":"44215","region":"Ohio","city":"Medina","latitude":41.13839,"longitude":-81.86375}}(window,'GeoPostal','US');

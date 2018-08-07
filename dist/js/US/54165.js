@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54165"]={"code":"54165","region":"WI","city":"Seymour","latitude":44.5091,"longitude":-88.3172}}(window,'GeoPostal','US');

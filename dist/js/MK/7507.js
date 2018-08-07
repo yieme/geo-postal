@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7507"]={"code":"7507","region":"Dolneni","city":"Lazani","latitude":41.44222,"longitude":21.31583}}(window,'GeoPostal','MK');

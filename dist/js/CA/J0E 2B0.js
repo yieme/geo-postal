@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0E 2B0"]={"code":"J0E 2B0","region":"Quebec","city":"Sainte-Anne-de-la-Rochelle","latitude":45.40008,"longitude":-72.39911}}(window,'GeoPostal','CA');

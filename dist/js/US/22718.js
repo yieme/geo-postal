@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22718"]={"code":"22718","region":"Virginia","city":"Elkwood","latitude":38.4589,"longitude":-77.8069}}(window,'GeoPostal','US');

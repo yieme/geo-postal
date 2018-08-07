@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71483"]={"code":"71483","region":"Louisiana","city":"Winnfield","latitude":31.92544,"longitude":-92.63959}}(window,'GeoPostal','US');

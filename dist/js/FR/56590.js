@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56590"]={"code":"56590","region":"Bretagne","city":"Groix","latitude":47.63887,"longitude":-3.4543}}(window,'GeoPostal','FR');

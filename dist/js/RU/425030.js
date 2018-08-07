@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425030"]={"code":"425030","region":"Mariy El, Respublika","city":"Privolzhskiy","latitude":55.96135,"longitude":48.41512}}(window,'GeoPostal','RU');

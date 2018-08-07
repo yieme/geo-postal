@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50592"]={"code":"50592","region":"Iowa","city":"Truesdale","latitude":42.729145,"longitude":-95.182649}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA18 8QP"]={"code":"TA18 8QP","region":"England","city":"Woolminstone","latitude":50.86822,"longitude":-2.83911}}(window,'GeoPostal','GB');

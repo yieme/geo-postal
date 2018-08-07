@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7034"]={"code":"7034","region":"Bizerte","city":"Al Matlin","latitude":37.24516,"longitude":10.05}}(window,'GeoPostal','TN');

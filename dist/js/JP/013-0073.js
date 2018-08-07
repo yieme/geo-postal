@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["013-0073"]={"code":"013-0073","region":"Akita","city":"Yokote","latitude":39.311333,"longitude":140.553278}}(window,'GeoPostal','JP');

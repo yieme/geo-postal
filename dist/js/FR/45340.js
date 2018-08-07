@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45340"]={"code":"45340","region":"Centre-Val de Loire","city":"Boiscommun","latitude":48.03576,"longitude":2.38333}}(window,'GeoPostal','FR');

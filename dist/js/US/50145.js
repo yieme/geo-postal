@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50145"]={"code":"50145","region":"IA","city":"Liberty Center","latitude":41.2071,"longitude":-93.4993}}(window,'GeoPostal','US');

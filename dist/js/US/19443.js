@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19443"]={"code":"19443","region":"Pennsylvania","city":"Kulpsville","latitude":40.247377,"longitude":-75.339993}}(window,'GeoPostal','US');

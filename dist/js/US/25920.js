@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25920"]={"code":"25920","region":"WV","city":"Slab Fork","latitude":37.6871,"longitude":-81.334}}(window,'GeoPostal','US');

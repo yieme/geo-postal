@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4574"]={"code":"4574","region":"Queensland","city":"Kenilworth","latitude":-26.59662,"longitude":152.72807}}(window,'GeoPostal','AU');

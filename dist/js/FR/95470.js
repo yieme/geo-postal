@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95470"]={"code":"95470","region":"Ile-de-France","city":"Saint-Witz","latitude":49.091,"longitude":2.57122}}(window,'GeoPostal','FR');

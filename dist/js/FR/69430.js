@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69430"]={"code":"69430","region":"Auvergne-Rhone-Alpes","city":"Beaujeu","latitude":46.15176,"longitude":4.59243}}(window,'GeoPostal','FR');

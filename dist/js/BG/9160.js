@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9160"]={"code":"9160","region":"Varna","city":"Devnya","latitude":43.22222,"longitude":27.56944}}(window,'GeoPostal','BG');

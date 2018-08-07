@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2620"]={"code":"2620","region":"Hovedstaden","city":"Albertslund","latitude":55.65691,"longitude":12.36381}}(window,'GeoPostal','DK');

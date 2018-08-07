@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30827"]={"code":"30827","region":"Niedersachsen","city":"Berenbostel","latitude":52.44116,"longitude":9.60798}}(window,'GeoPostal','DE');

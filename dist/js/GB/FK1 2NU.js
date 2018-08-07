@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK1 2NU"]={"code":"FK1 2NU","region":"Scotland","city":"Blackston","latitude":55.93333,"longitude":-3.73333}}(window,'GeoPostal','GB');

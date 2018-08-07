@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2101"]={"code":"2101","region":"Hedmark","city":"Skarnes","latitude":60.25284,"longitude":11.67974}}(window,'GeoPostal','NO');

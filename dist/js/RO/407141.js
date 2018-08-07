@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407141"]={"code":"407141","region":"Cluj","city":"Camarasu","latitude":46.78333,"longitude":24.13333}}(window,'GeoPostal','RO');

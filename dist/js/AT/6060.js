@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6060"]={"code":"6060","region":"Tirol","city":"Hall in Tirol","latitude":47.28333,"longitude":11.51667}}(window,'GeoPostal','AT');

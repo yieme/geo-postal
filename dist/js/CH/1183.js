@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1183"]={"code":"1183","region":"Vaud","city":"Gland","latitude":46.42082,"longitude":6.2701}}(window,'GeoPostal','CH');

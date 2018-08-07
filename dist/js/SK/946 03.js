@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["946 03"]={"code":"946 03","region":"Nitriansky kraj","city":"Kolarovo","latitude":47.92294,"longitude":17.98467}}(window,'GeoPostal','SK');

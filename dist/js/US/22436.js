@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22436"]={"code":"22436","region":"VA","city":"Caret","latitude":37.9826,"longitude":-76.9614}}(window,'GeoPostal','US');

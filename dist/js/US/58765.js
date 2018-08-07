@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58765"]={"code":"58765","region":"North Dakota","city":"Noonan","latitude":48.88833,"longitude":-103.00944}}(window,'GeoPostal','US');

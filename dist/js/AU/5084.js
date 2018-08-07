@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5084"]={"code":"5084","region":"South Australia","city":"Kilburn","latitude":-34.8597,"longitude":138.58559}}(window,'GeoPostal','AU');

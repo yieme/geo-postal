@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2671"]={"code":"2671","region":"New South Wales","city":"West Wyalong","latitude":-33.92373,"longitude":147.20473}}(window,'GeoPostal','AU');

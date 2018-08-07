@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70094"]={"code":"70094","region":"Louisiana","city":"Westwego","latitude":29.92698,"longitude":-90.20412}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37770"]={"code":"37770","region":"TN","city":"Lancing","latitude":36.1456,"longitude":-84.7135}}(window,'GeoPostal','US');

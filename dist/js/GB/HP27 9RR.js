@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP27 9RR"]={"code":"HP27 9RR","region":"England","city":"Princes Risborough","latitude":51.72549,"longitude":-0.83144}}(window,'GeoPostal','GB');

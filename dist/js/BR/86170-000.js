@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86170-000"]={"code":"86170-000","region":"Parana","city":"Sertanopolis","latitude":-23.05861,"longitude":-51.03639}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56355-000"]={"code":"56355-000","region":"Pernambuco","city":"Dormentes","latitude":-8.446944,"longitude":-40.770833}}(window,'GeoPostal','BR');

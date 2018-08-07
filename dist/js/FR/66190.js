@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66190"]={"code":"66190","region":"Occitanie","city":"Collioure","latitude":42.52462,"longitude":3.08235}}(window,'GeoPostal','FR');

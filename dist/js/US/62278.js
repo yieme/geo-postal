@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62278"]={"code":"62278","region":"Illinois","city":"Red Bud","latitude":38.1792,"longitude":-89.9796}}(window,'GeoPostal','US');

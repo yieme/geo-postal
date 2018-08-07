@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95922"]={"code":"95922","region":"California","city":"Camptonville","latitude":39.437305,"longitude":-121.07507}}(window,'GeoPostal','US');

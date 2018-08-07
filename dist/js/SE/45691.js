@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45691"]={"code":"45691","region":"Vastra Gotalands lan","city":"Kungshamn","latitude":58.36305,"longitude":11.25938}}(window,'GeoPostal','SE');

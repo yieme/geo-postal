@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["420000"]={"code":"420000","region":"Nam Dinh","city":"Nam Dinh","latitude":20.41667,"longitude":106.16667}}(window,'GeoPostal','VN');

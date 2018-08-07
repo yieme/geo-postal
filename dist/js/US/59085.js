@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59085"]={"code":"59085","region":"MT","city":"Two Dot","latitude":46.4242,"longitude":-110.0712}}(window,'GeoPostal','US');

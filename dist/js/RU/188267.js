@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188267"]={"code":"188267","region":"Leningradskaya oblast'","city":"Mshinskaya","latitude":59.015,"longitude":29.94333}}(window,'GeoPostal','RU');

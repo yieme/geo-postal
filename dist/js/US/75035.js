@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75035"]={"code":"75035","region":"Texas","city":"Frisco","latitude":33.1662,"longitude":-96.7758}}(window,'GeoPostal','US');

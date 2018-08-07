@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49404"]={"code":"49404","region":"MI","city":"Coopersville","latitude":43.0601,"longitude":-85.9517}}(window,'GeoPostal','US');

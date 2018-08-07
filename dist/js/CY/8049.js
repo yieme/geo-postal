@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8049"]={"code":"8049","region":"Pafos","city":"Paphos","latitude":34.76667,"longitude":32.41667}}(window,'GeoPostal','CY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92082"]={"code":"92082","region":"California","city":"Valley Center","latitude":33.254194,"longitude":-117.037133}}(window,'GeoPostal','US');

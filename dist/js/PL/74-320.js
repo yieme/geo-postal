@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74-320"]={"code":"74-320","region":"Zachodniopomorskie","city":"Barlinek","latitude":52.99464,"longitude":15.21864}}(window,'GeoPostal','PL');

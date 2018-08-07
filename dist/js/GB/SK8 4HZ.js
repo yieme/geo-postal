@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK8 4HZ"]={"code":"SK8 4HZ","region":"Scotland","city":"Dallas","latitude":57.55271,"longitude":-3.46798}}(window,'GeoPostal','GB');

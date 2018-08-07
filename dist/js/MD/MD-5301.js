@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-5301"]={"code":"MD-5301","region":"Gagauzia, Unitatea teritoriala autonoma","city":"Vulcanesti","latitude":45.68417,"longitude":28.40278}}(window,'GeoPostal','MD');

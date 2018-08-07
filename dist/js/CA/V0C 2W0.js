@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0C 2W0"]={"code":"V0C 2W0","region":"British Columbia","city":"Tumbler Ridge","latitude":55.12529,"longitude":-121.00141}}(window,'GeoPostal','CA');

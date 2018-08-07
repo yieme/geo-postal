@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29042"]={"code":"29042","region":"South Carolina","city":"Denmark","latitude":33.32265,"longitude":-81.14232}}(window,'GeoPostal','US');

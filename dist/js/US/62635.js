@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62635"]={"code":"62635","region":"IL","city":"Emden","latitude":40.2967,"longitude":-89.4714}}(window,'GeoPostal','US');

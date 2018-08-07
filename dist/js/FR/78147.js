@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78147"]={"code":"78147","region":"Ile-de-France","city":"Velizy-Villacoublay","latitude":48.78198,"longitude":2.19395}}(window,'GeoPostal','FR');

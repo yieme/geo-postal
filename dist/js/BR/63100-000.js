@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63100-000"]={"code":"63100-000","region":"Ceara","city":"Crato","latitude":-7.23417,"longitude":-39.40944}}(window,'GeoPostal','BR');

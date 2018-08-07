@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41824"]={"code":"41824","region":"Kentucky","city":"Isom","latitude":37.18778,"longitude":-82.89889}}(window,'GeoPostal','US');

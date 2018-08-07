@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27200"]={"code":"27200","region":"Rocha","city":"Castillos","latitude":-34.16667,"longitude":-53.83333}}(window,'GeoPostal','UY');

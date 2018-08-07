@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344016"]={"code":"344016","region":"Saha, Respublika","city":"Tiksi","latitude":71.68722,"longitude":128.86944}}(window,'GeoPostal','RU');

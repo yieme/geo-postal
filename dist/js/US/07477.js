@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07477"]={"code":"07477","region":"NJ","city":"State Farm Insurance","latitude":40.92,"longitude":-74.27}}(window,'GeoPostal','US');

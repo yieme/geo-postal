@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH23 6EA"]={"code":"BH23 6EA","region":"England","city":"Bournemouth","latitude":50.72048,"longitude":-1.8795}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24292"]={"code":"24292","region":"Virginia","city":"Whitetop","latitude":36.614845,"longitude":-81.576921}}(window,'GeoPostal','US');

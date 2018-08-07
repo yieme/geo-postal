@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 0G0"]={"code":"T0E 0G0","region":"Alberta","city":"Carrot Creek","latitude":53.61683,"longitude":-115.85221}}(window,'GeoPostal','CA');

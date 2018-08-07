@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24847"]={"code":"24847","region":"WV","city":"Itmann","latitude":37.5734,"longitude":-81.4182}}(window,'GeoPostal','US');

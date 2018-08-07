@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84187"]={"code":"84187","region":"Bayern","city":"Dornwang","latitude":48.66569,"longitude":12.43467}}(window,'GeoPostal','DE');

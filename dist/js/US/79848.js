@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79848"]={"code":"79848","region":"Texas","city":"Sanderson","latitude":30.14241,"longitude":-102.39403}}(window,'GeoPostal','US');

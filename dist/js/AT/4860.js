@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4860"]={"code":"4860","region":"Oberosterreich","city":"Lenzing","latitude":47.97326,"longitude":13.60846}}(window,'GeoPostal','AT');

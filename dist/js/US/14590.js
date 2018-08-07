@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14590"]={"code":"14590","region":"NY","city":"Wolcott","latitude":43.2341,"longitude":-76.8217}}(window,'GeoPostal','US');

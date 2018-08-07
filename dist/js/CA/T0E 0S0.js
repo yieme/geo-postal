@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 0S0"]={"code":"T0E 0S0","region":"Alberta","city":"Entwistle","latitude":53.60014,"longitude":-115.00213}}(window,'GeoPostal','CA');

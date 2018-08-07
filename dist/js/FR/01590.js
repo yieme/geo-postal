@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01590"]={"code":"01590","region":"Auvergne-Rhone-Alpes","city":"Dortan","latitude":46.31973,"longitude":5.66028}}(window,'GeoPostal','FR');

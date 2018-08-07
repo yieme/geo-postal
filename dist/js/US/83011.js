@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83011"]={"code":"83011","region":"Wyoming","city":"Kelly","latitude":43.6225,"longitude":-110.62611}}(window,'GeoPostal','US');

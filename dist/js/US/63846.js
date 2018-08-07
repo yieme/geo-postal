@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63846"]={"code":"63846","region":"MO","city":"Essex","latitude":36.8109,"longitude":-89.8366}}(window,'GeoPostal','US');

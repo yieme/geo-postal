@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44253"]={"code":"44253","region":"OH","city":"Litchfield","latitude":41.1668,"longitude":-82.0157}}(window,'GeoPostal','US');

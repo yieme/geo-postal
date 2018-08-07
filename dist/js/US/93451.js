@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93451"]={"code":"93451","region":"CA","city":"San Miguel","latitude":35.9004,"longitude":-120.5929}}(window,'GeoPostal','US');

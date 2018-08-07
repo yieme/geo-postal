@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08821"]={"code":"08821","region":"New Jersey","city":"Flagtown","latitude":40.518308,"longitude":-74.687978}}(window,'GeoPostal','US');

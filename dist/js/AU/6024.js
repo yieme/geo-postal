@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6024"]={"code":"6024","region":"Western Australia","city":"Greenwood","latitude":-31.82723,"longitude":115.80247}}(window,'GeoPostal','AU');

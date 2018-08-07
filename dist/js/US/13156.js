@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13156"]={"code":"13156","region":"NY","city":"Sterling","latitude":43.3296,"longitude":-76.6747}}(window,'GeoPostal','US');

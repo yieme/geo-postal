@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7400"]={"code":"7400","region":"Overijssel","city":"Deventer","latitude":52.255,"longitude":6.16389}}(window,'GeoPostal','NL');

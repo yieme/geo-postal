@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92601"]={"code":"92601","region":"Pohjois-Pohjanmaa","city":"Pulkkila","latitude":64.26667,"longitude":25.86667}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24140"]={"code":"24140","region":"Chachoengsao","city":"Chachoengsao","latitude":13.6882,"longitude":101.07156}}(window,'GeoPostal','TH');

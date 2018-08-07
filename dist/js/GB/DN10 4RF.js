@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN10 4RF"]={"code":"DN10 4RF","region":"England","city":"Gringley on the Hill","latitude":53.40813,"longitude":-0.89279}}(window,'GeoPostal','GB');

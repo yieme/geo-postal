@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11426"]={"code":"11426","region":"New York","city":"Bellerose","latitude":40.737176,"longitude":-73.722801}}(window,'GeoPostal','US');

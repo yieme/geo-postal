@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57278"]={"code":"57278","region":"South Dakota","city":"Willow Lake","latitude":44.631057,"longitude":-97.734835}}(window,'GeoPostal','US');

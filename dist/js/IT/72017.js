@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72017"]={"code":"72017","region":"Puglia","city":"Ostuni","latitude":40.72763,"longitude":17.57641}}(window,'GeoPostal','IT');

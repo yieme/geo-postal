@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27180"]={"code":"27180","region":"Sa Kaeo","city":"Ta Phraya","latitude":14.00308,"longitude":102.80541}}(window,'GeoPostal','TH');

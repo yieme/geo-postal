@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["200 10"]={"code":"200 10","region":"Peloponnisos","city":"Isthmia","latitude":37.91211,"longitude":22.99988}}(window,'GeoPostal','GR');

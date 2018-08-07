@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65018"]={"code":"65018","region":"MO","city":"California","latitude":38.6224,"longitude":-92.5456}}(window,'GeoPostal','US');

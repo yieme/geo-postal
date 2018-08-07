@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50105"]={"code":"50105","region":"IA","city":"Gilbert","latitude":42.1148,"longitude":-93.6399}}(window,'GeoPostal','US');

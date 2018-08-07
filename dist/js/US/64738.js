@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64738"]={"code":"64738","region":"Missouri","city":"Collins","latitude":37.872194,"longitude":-93.681569}}(window,'GeoPostal','US');

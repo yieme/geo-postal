@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF39 0BS"]={"code":"CF39 0BS","region":"Wales","city":"Porth","latitude":51.61306,"longitude":-3.40361}}(window,'GeoPostal','GB');

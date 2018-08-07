@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31628"]={"code":"31628","region":"Niedersachsen","city":"Landesbergen","latitude":52.56667,"longitude":9.13333}}(window,'GeoPostal','DE');

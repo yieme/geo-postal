@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59439"]={"code":"59439","region":"Nordrhein-Westfalen","city":"Freiberg","latitude":51.5,"longitude":7.61667}}(window,'GeoPostal','DE');

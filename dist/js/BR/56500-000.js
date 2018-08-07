@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56500-000"]={"code":"56500-000","region":"Pernambuco","city":"Arcoverde","latitude":-8.41889,"longitude":-37.05389}}(window,'GeoPostal','BR');

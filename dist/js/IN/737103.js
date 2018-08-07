@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737103"]={"code":"737103","region":"Sikkim","city":"Gangtok","latitude":27.33333,"longitude":88.61667}}(window,'GeoPostal','IN');

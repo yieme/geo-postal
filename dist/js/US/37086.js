@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37086"]={"code":"37086","region":"Tennessee","city":"La Vergne","latitude":36.01562,"longitude":-86.58194}}(window,'GeoPostal','US');

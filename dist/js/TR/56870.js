@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56870"]={"code":"56870","region":"Siirt","city":"Eruh","latitude":37.75167,"longitude":42.18111}}(window,'GeoPostal','TR');

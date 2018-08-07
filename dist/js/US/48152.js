@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48152"]={"code":"48152","region":"Michigan","city":"Livonia","latitude":42.425516,"longitude":-83.369483}}(window,'GeoPostal','US');

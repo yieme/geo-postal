@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627330"]={"code":"627330","region":"Vrancea","city":"Suraia","latitude":45.68333,"longitude":27.4}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6675"]={"code":"6675","region":"Tirol","city":"Tannheim","latitude":47.48333,"longitude":10.51667}}(window,'GeoPostal','AT');

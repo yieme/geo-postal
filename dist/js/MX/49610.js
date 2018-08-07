@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49610"]={"code":"49610","region":"Jalisco","city":"Zapotiltic","latitude":19.61667,"longitude":-103.43333}}(window,'GeoPostal','MX');

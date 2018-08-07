@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38001"]={"code":"38001","region":"Tennessee","city":"Alamo","latitude":35.78479,"longitude":-89.11729}}(window,'GeoPostal','US');

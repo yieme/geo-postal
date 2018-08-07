@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1639"]={"code":"1639","region":"Gauteng","city":"Kempton Park","latitude":-26.1,"longitude":28.233333}}(window,'GeoPostal','ZA');

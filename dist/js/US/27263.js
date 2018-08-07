@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27263"]={"code":"27263","region":"North Carolina","city":"Archdale","latitude":35.91458,"longitude":-79.97198}}(window,'GeoPostal','US');

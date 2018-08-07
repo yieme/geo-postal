@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9700"]={"code":"9700","region":"Nordjylland","city":"Bronderslev","latitude":57.27021,"longitude":9.94102}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-425"]={"code":"06-425","region":"Mazowieckie","city":"Karniewo","latitude":52.837,"longitude":20.98886}}(window,'GeoPostal','PL');

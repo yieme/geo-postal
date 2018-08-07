@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61950"]={"code":"61950","region":"Trabzon","city":"Caykara","latitude":40.75481,"longitude":40.23552}}(window,'GeoPostal','TR');

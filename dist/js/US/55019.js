@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55019"]={"code":"55019","region":"MN","city":"Dundas","latitude":44.3955,"longitude":-93.2037}}(window,'GeoPostal','US');

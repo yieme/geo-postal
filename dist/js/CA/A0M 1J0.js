@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0M 1J0"]={"code":"A0M 1J0","region":"Newfoundland and Labrador","city":"Isle aux Morts","latitude":47.58331,"longitude":-58.98187}}(window,'GeoPostal','CA');

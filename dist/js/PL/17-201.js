@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-201"]={"code":"17-201","region":"Podlaskie","city":"Hajnowka","latitude":52.74328,"longitude":23.58122}}(window,'GeoPostal','PL');

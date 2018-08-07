@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73027"]={"code":"73027","region":"Oklahoma","city":"Coyle","latitude":35.9059,"longitude":-97.2208}}(window,'GeoPostal','US');

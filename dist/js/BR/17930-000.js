@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17930-000"]={"code":"17930-000","region":"Sao Paulo","city":"Tupi Paulista","latitude":-21.38111,"longitude":-51.57056}}(window,'GeoPostal','BR');

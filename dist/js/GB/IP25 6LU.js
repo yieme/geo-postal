@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP25 6LU"]={"code":"IP25 6LU","region":"England","city":"Threxton","latitude":52.56667,"longitude":0.78333}}(window,'GeoPostal','GB');

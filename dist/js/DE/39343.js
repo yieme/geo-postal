@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39343"]={"code":"39343","region":"Sachsen-Anhalt","city":"Morsleben","latitude":52.21897,"longitude":11.10941}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8376"]={"code":"8376","region":"Thurgau","city":"Fischingen","latitude":47.41428,"longitude":8.96914}}(window,'GeoPostal','CH');

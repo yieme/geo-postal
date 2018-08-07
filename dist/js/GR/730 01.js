@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["730 01"]={"code":"730 01","region":"Kriti","city":"Palaiochora","latitude":35.23333,"longitude":23.68333}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4C 0A2"]={"code":"E4C 0A2","region":"New Brunswick","city":"Codys","latitude":45.88345,"longitude":-65.81555}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25921"]={"code":"25921","region":"WV","city":"Sophia","latitude":37.7076,"longitude":-81.2507}}(window,'GeoPostal','US');

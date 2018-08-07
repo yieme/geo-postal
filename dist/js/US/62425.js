@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62425"]={"code":"62425","region":"Illinois","city":"Dundas","latitude":38.826634,"longitude":-88.104332}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["221700"]={"code":"221700","region":"Jiangsu","city":"Fengxian","latitude":34.70388,"longitude":116.58717}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27371"]={"code":"27371","region":"North Carolina","city":"Troy","latitude":35.36766,"longitude":-79.85814}}(window,'GeoPostal','US');

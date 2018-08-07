@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63557"]={"code":"63557","region":"MO","city":"New Boston","latitude":39.9332,"longitude":-92.916}}(window,'GeoPostal','US');

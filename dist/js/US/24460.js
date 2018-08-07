@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24460"]={"code":"24460","region":"Virginia","city":"Millboro","latitude":38.02062,"longitude":-79.6509}}(window,'GeoPostal','US');

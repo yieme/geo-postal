@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40221"]={"code":"40221","region":"Nordrhein-Westfalen","city":"Dusseldorf","latitude":51.22172,"longitude":6.77616}}(window,'GeoPostal','DE');

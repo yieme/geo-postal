@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83368"]={"code":"83368","region":"Bayern","city":"Stein an der Traun","latitude":47.9835,"longitude":12.54734}}(window,'GeoPostal','DE');

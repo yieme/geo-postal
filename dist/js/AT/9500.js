@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9500"]={"code":"9500","region":"Karnten","city":"Villach","latitude":46.61028,"longitude":13.85583}}(window,'GeoPostal','AT');

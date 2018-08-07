@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11560"]={"code":"11560","region":"Andalucia","city":"Trebujena","latitude":36.87075,"longitude":-6.17586}}(window,'GeoPostal','ES');

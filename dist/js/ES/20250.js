@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20250"]={"code":"20250","region":"Pais Vasco","city":"Legorreta","latitude":43.08464,"longitude":-2.15017}}(window,'GeoPostal','ES');

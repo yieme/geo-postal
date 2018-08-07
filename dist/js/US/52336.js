@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52336"]={"code":"52336","region":"Iowa","city":"Springville","latitude":42.09468,"longitude":-91.46262}}(window,'GeoPostal','US');

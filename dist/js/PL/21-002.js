@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-002"]={"code":"21-002","region":"Lubelskie","city":"Jastkow","latitude":51.30411,"longitude":22.43546}}(window,'GeoPostal','PL');

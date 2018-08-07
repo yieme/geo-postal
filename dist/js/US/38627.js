@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38627"]={"code":"38627","region":"MS","city":"Etta","latitude":34.4352,"longitude":-89.1767}}(window,'GeoPostal','US');

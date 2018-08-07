@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79786"]={"code":"79786","region":"TX","city":"Toyahvale","latitude":30.9443,"longitude":-103.7893}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4955"]={"code":"4955","region":"Aust-Agder","city":"Risor","latitude":58.72057,"longitude":9.23422}}(window,'GeoPostal','NO');

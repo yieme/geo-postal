@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742-2107"]={"code":"742-2107","region":"Yamaguchi","city":"Suo-Oshima-cho","latitude":33.916667,"longitude":132.233333}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65755"]={"code":"65755","region":"Missouri","city":"Squires","latitude":36.85139,"longitude":-92.625}}(window,'GeoPostal','US');

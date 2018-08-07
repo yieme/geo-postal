@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347 01"]={"code":"347 01","region":"Plzensky kraj","city":"Tachov","latitude":49.79528,"longitude":12.63365}}(window,'GeoPostal','CZ');

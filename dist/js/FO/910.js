@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["910"]={"code":"910","region":"Suduroy","city":"Vagur","latitude":61.47324,"longitude":-6.81185}}(window,'GeoPostal','FO');

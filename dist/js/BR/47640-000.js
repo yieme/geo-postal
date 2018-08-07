@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47640-000"]={"code":"47640-000","region":"Bahia","city":"Correntina","latitude":-13.34333,"longitude":-44.63667}}(window,'GeoPostal','BR');

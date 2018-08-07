@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99171"]={"code":"99171","region":"Washington","city":"Saint John","latitude":47.09028,"longitude":-117.58222}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87782"]={"code":"87782","region":"Bayern","city":"Oberegg","latitude":47.94535,"longitude":10.45961}}(window,'GeoPostal','DE');

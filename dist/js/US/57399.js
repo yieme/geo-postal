@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57399"]={"code":"57399","region":"SD","city":"Huron","latitude":44.3633,"longitude":-98.2143}}(window,'GeoPostal','US');

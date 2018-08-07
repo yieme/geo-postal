@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67570"]={"code":"67570","region":"Grand-Est","city":"La Broque","latitude":48.47298,"longitude":7.21639}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5722"]={"code":"5722","region":"Bekes","city":"Sarkad","latitude":46.75,"longitude":21.38333}}(window,'GeoPostal','HU');

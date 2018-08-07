@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE17 5LT"]={"code":"LE17 5LT","region":"England","city":"Gilmorton","latitude":52.48682,"longitude":-1.16001}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3743"]={"code":"3743","region":"Niederosterreich","city":"Eggenburg","latitude":48.63892,"longitude":15.81903}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61333"]={"code":"61333","region":"IL","city":"Long Point","latitude":40.9896,"longitude":-88.8811}}(window,'GeoPostal','US');

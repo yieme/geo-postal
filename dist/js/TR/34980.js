@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34980"]={"code":"34980","region":"Istanbul","city":"Sile","latitude":41.1754,"longitude":29.61333}}(window,'GeoPostal','TR');

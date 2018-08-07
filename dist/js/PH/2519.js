@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2519"]={"code":"2519","region":"La Union","city":"Bangar","latitude":16.8936,"longitude":120.4243}}(window,'GeoPostal','PH');

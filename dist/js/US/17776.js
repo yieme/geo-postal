@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17776"]={"code":"17776","region":"PA","city":"Waterville","latitude":41.3114,"longitude":-77.3604}}(window,'GeoPostal','US');

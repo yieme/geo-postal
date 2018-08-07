@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02919"]={"code":"02919","region":"Rhode Island","city":"Johnston","latitude":41.8211,"longitude":-71.5061}}(window,'GeoPostal','US');

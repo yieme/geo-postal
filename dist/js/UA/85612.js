@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85612"]={"code":"85612","region":"Donetska oblast","city":"Kurakhovo","latitude":47.98522,"longitude":37.2821}}(window,'GeoPostal','UA');

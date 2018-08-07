@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL27 7JH"]={"code":"PL27 7JH","region":"England","city":"Whitecross","latitude":50.51206,"longitude":-4.87364}}(window,'GeoPostal','GB');

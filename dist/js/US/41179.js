@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41179"]={"code":"41179","region":"Kentucky","city":"Vanceburg","latitude":38.59924,"longitude":-83.3188}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["798 27"]={"code":"798 27","region":"Olomoucky kraj","city":"Nemcice nad Hanou","latitude":49.34181,"longitude":17.20596}}(window,'GeoPostal','CZ');

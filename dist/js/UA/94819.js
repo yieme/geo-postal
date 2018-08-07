@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94819"]={"code":"94819","region":"Luhanska oblast","city":"Sverdlovs'k","latitude":48.08964,"longitude":39.65243}}(window,'GeoPostal','UA');

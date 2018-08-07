@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86899"]={"code":"86899","region":"Bayern","city":"Landsberg am Lech","latitude":48.04819,"longitude":10.88282}}(window,'GeoPostal','DE');

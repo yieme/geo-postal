@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68765"]={"code":"68765","region":"NE","city":"Osmond","latitude":42.3539,"longitude":-97.582}}(window,'GeoPostal','US');

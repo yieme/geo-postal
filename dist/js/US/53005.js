@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53005"]={"code":"53005","region":"Wisconsin","city":"Brookfield","latitude":43.06057,"longitude":-88.10648}}(window,'GeoPostal','US');

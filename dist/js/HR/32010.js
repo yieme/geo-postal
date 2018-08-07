@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32010"]={"code":"32010","region":"Vukovarsko-srijemska zupanija","city":"Vukovar","latitude":45.34333,"longitude":18.99972}}(window,'GeoPostal','HR');

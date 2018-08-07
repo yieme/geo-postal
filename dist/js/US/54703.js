@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54703"]={"code":"54703","region":"Wisconsin","city":"Eau Claire","latitude":44.826058,"longitude":-91.499224}}(window,'GeoPostal','US');

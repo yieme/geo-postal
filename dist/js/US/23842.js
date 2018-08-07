@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23842"]={"code":"23842","region":"VA","city":"Disputanta","latitude":37.1483,"longitude":-77.2732}}(window,'GeoPostal','US');

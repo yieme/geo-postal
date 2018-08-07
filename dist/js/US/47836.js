@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47836"]={"code":"47836","region":"IN","city":"Bridgeton","latitude":39.645,"longitude":-87.1775}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03773"]={"code":"03773","region":"New Hampshire","city":"Newport","latitude":43.368948,"longitude":-72.16004}}(window,'GeoPostal','US');

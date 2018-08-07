@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24531"]={"code":"24531","region":"Virginia","city":"Chatham","latitude":36.826582,"longitude":-79.398136}}(window,'GeoPostal','US');

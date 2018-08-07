@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13632"]={"code":"13632","region":"NY","city":"Depauville","latitude":44.1395,"longitude":-76.0616}}(window,'GeoPostal','US');

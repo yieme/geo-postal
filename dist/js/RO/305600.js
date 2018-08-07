@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["305600"]={"code":"305600","region":"Timis","city":"Sannicolau Mare","latitude":46.08333,"longitude":20.63333}}(window,'GeoPostal','RO');

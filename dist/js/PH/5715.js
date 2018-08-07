@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5715"]={"code":"5715","region":"Antique","city":"Piape I","latitude":10.7288,"longitude":121.9724}}(window,'GeoPostal','PH');

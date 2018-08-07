@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23944"]={"code":"23944","region":"Virginia","city":"Kenbridge","latitude":36.961109,"longitude":-78.124269}}(window,'GeoPostal','US');

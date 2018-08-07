@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56001"]={"code":"56001","region":"Minnesota","city":"Mankato","latitude":44.16358,"longitude":-93.9994}}(window,'GeoPostal','US');

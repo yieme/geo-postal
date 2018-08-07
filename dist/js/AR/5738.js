@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5738"]={"code":"5738","region":"San Luis","city":"Justo Daract","latitude":-33.8594,"longitude":-65.18277}}(window,'GeoPostal','AR');

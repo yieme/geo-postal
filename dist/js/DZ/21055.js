@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21055"]={"code":"21055","region":"Skikda","city":"Skikda","latitude":36.87617,"longitude":6.90921}}(window,'GeoPostal','DZ');

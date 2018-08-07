@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59002"]={"code":"59002","region":"MT","city":"Acton","latitude":45.9291,"longitude":-108.6888}}(window,'GeoPostal','US');

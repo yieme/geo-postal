@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445051"]={"code":"445051","region":"Primorskiy kray","city":"Primorskiy","latitude":43.09833,"longitude":131.5875}}(window,'GeoPostal','RU');

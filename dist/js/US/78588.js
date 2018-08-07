@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78588"]={"code":"78588","region":"Texas","city":"San Isidro","latitude":26.737072,"longitude":-98.399585}}(window,'GeoPostal','US');

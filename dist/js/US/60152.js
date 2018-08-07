@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60152"]={"code":"60152","region":"Illinois","city":"Marengo","latitude":42.2329,"longitude":-88.6268}}(window,'GeoPostal','US');

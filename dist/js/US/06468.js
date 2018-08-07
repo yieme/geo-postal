@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06468"]={"code":"06468","region":"Connecticut","city":"Monroe","latitude":41.3409,"longitude":-73.23444}}(window,'GeoPostal','US');

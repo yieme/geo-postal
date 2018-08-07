@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58243"]={"code":"58243","region":"ND","city":"Hoople","latitude":48.5198,"longitude":-97.6183}}(window,'GeoPostal','US');

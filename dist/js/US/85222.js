@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85222"]={"code":"85222","region":"AZ","city":"Casa Grande","latitude":32.87,"longitude":-111.73}}(window,'GeoPostal','US');

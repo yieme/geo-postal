@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54411"]={"code":"54411","region":"Rheinland-Pfalz","city":"Hermeskeil","latitude":49.65528,"longitude":6.94406}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9804"]={"code":"9804","region":"Groningen","city":"Noordhorn","latitude":53.26167,"longitude":6.39583}}(window,'GeoPostal','NL');

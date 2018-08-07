@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1109"]={"code":"1109","region":"Armavir","city":"Ejmiatsin","latitude":40.16557,"longitude":44.29462}}(window,'GeoPostal','AM');

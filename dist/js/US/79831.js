@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79831"]={"code":"79831","region":"TX","city":"Alpine","latitude":30.3068,"longitude":-103.6704}}(window,'GeoPostal','US');

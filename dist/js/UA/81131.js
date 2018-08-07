@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81131"]={"code":"81131","region":"Lvivska oblast","city":"Solonka","latitude":49.75621,"longitude":24.01028}}(window,'GeoPostal','UA');

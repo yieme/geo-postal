@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237250"]={"code":"237250","region":"Olt","city":"Maruntei","latitude":44.2,"longitude":24.46667}}(window,'GeoPostal','RO');

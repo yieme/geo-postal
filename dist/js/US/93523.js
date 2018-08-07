@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93523"]={"code":"93523","region":"California","city":"Edwards Air Force Base","latitude":34.90449,"longitude":-117.92945}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56025"]={"code":"56025","region":"Toscana","city":"Pontedera","latitude":43.66164,"longitude":10.63171}}(window,'GeoPostal','IT');

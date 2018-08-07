@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54556"]={"code":"54556","region":"Wisconsin","city":"Prentice","latitude":45.52222,"longitude":-90.28167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11719"]={"code":"11719","region":"New York","city":"Brookhaven","latitude":40.77927,"longitude":-72.91538}}(window,'GeoPostal','US');

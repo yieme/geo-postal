@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV51 9PW"]={"code":"IV51 9PW","region":"Scotland","city":"Edinbane","latitude":57.47128,"longitude":-6.43001}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29920-000"]={"code":"29920-000","region":"Espirito Santo","city":"Rio Bananal","latitude":-19.265,"longitude":-40.33333}}(window,'GeoPostal','BR');

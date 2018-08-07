@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12407"]={"code":"12407","region":"NY","city":"Ashland","latitude":42.3037,"longitude":-74.3335}}(window,'GeoPostal','US');

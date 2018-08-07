@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP21 4SY"]={"code":"IP21 4SY","region":"England","city":"Pulham Market","latitude":52.4297,"longitude":1.23021}}(window,'GeoPostal','GB');

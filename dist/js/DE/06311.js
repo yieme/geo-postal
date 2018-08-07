@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06311"]={"code":"06311","region":"Sachsen-Anhalt","city":"Helbra","latitude":51.55,"longitude":11.5}}(window,'GeoPostal','DE');

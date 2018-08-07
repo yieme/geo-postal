@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13338"]={"code":"13338","region":"NY","city":"Forestport","latitude":43.4737,"longitude":-75.1787}}(window,'GeoPostal','US');

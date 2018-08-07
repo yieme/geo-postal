@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69670"]={"code":"69670","region":"Auvergne-Rhone-Alpes","city":"Vaugneray","latitude":45.73717,"longitude":4.65873}}(window,'GeoPostal','FR');

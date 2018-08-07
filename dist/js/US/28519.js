@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28519"]={"code":"28519","region":"NC","city":"Bridgeton","latitude":35.1215,"longitude":-77.0208}}(window,'GeoPostal','US');

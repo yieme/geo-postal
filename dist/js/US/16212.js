@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16212"]={"code":"16212","region":"PA","city":"Cadogan","latitude":40.7539,"longitude":-79.5798}}(window,'GeoPostal','US');

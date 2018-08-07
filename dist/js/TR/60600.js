@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60600"]={"code":"60600","region":"Tokat","city":"Basciftlik","latitude":40.54694,"longitude":37.16917}}(window,'GeoPostal','TR');

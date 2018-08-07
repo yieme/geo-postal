@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54662"]={"code":"54662","region":"Rheinland-Pfalz","city":"Beilingen","latitude":49.95,"longitude":6.66667}}(window,'GeoPostal','DE');

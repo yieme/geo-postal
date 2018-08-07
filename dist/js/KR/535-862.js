@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["535-862"]={"code":"535-862","region":"Jeollanam-do","city":"Sinan","latitude":34.8262,"longitude":126.10863}}(window,'GeoPostal','KR');

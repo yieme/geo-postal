@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["102413"]={"code":"102413","region":"Beijing","city":"Beijing","latitude":39.9075,"longitude":116.39723}}(window,'GeoPostal','CN');

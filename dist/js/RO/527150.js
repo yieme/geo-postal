@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["527150"]={"code":"527150","region":"Covasna","city":"Tirgu Secuiesc","latitude":46,"longitude":26.13333}}(window,'GeoPostal','RO');

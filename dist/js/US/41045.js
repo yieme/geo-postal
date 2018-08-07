@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41045"]={"code":"41045","region":"Kentucky","city":"Ghent","latitude":38.73611,"longitude":-85.06028}}(window,'GeoPostal','US');

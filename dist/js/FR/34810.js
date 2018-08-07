@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34810"]={"code":"34810","region":"Occitanie","city":"Pomerols","latitude":43.39139,"longitude":3.49944}}(window,'GeoPostal','FR');

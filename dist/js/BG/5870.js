@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5870"]={"code":"5870","region":"Pleven","city":"Dolni Dubnik","latitude":43.4,"longitude":24.43333}}(window,'GeoPostal','BG');

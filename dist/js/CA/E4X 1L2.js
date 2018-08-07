@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4X 1L2"]={"code":"E4X 1L2","region":"New Brunswick","city":"Middle Kouchibouguac","latitude":46.80012,"longitude":-64.98203}}(window,'GeoPostal','CA');

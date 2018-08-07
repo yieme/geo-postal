@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63645"]={"code":"63645","region":"Nayarit","city":"San Vicente","latitude":21.95,"longitude":-105.3}}(window,'GeoPostal','MX');

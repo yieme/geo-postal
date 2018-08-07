@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73041"]={"code":"73041","region":"OK","city":"Gotebo","latitude":35.0759,"longitude":-98.876}}(window,'GeoPostal','US');

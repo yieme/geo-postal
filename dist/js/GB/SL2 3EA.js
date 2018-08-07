@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL2 3EA"]={"code":"SL2 3EA","region":"England","city":"Farnham Royal","latitude":51.54208,"longitude":-0.61584}}(window,'GeoPostal','GB');

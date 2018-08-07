@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48450"]={"code":"48450","region":"Jalisco","city":"Tomatlan","latitude":19.93333,"longitude":-105.25}}(window,'GeoPostal','MX');

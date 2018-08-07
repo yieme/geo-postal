@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47542"]={"code":"47542","region":"Indiana","city":"Huntingburg","latitude":38.29894,"longitude":-86.955}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29251"]={"code":"29251","region":"Satakunta","city":"Nakkila","latitude":61.36667,"longitude":22}}(window,'GeoPostal','FI');

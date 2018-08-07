@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68160"]={"code":"68160","region":"Grand-Est","city":"Sainte-Marie-aux-Mines","latitude":48.2468,"longitude":7.18528}}(window,'GeoPostal','FR');

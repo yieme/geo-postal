@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB8 7RA"]={"code":"CB8 7RA","region":"England","city":"Kennett","latitude":52.28496,"longitude":0.48756}}(window,'GeoPostal','GB');

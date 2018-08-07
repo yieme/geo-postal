@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62022"]={"code":"62022","region":"IL","city":"Dow","latitude":39.0312,"longitude":-90.3011}}(window,'GeoPostal','US');

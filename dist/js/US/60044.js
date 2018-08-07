@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60044"]={"code":"60044","region":"Illinois","city":"Lake Bluff","latitude":42.283733,"longitude":-87.858376}}(window,'GeoPostal','US');

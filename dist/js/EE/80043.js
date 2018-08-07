@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80043"]={"code":"80043","region":"Parnumaa","city":"Sauga","latitude":58.4272,"longitude":24.49496}}(window,'GeoPostal','EE');

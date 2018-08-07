@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04343"]={"code":"04343","region":"ME","city":"East Winthrop","latitude":44.3217,"longitude":-69.8964}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2660"]={"code":"2660","region":"New South Wales","city":"Morven","latitude":-35.65,"longitude":147.1}}(window,'GeoPostal','AU');

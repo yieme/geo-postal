@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25030"]={"code":"25030","region":"WV","city":"Bomont","latitude":38.4498,"longitude":-81.2323}}(window,'GeoPostal','US');

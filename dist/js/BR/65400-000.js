@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65400-000"]={"code":"65400-000","region":"Maranhao","city":"Codo","latitude":-4.45528,"longitude":-43.88556}}(window,'GeoPostal','BR');

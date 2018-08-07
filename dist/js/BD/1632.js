@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1632"]={"code":"1632","region":"Barisal","city":"Barisal","latitude":22.70194,"longitude":90.37111}}(window,'GeoPostal','BD');

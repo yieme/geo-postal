@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20737"]={"code":"20737","region":"Maryland","city":"Riverdale","latitude":38.960598,"longitude":-76.918164}}(window,'GeoPostal','US');

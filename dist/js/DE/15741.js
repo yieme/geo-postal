@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15741"]={"code":"15741","region":"Brandenburg","city":"Motzen","latitude":52.20393,"longitude":13.58342}}(window,'GeoPostal','DE');

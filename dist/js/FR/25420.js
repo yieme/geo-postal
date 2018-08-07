@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25420"]={"code":"25420","region":"Bourgogne-Franche-Comte","city":"Courcelles-les-Montbeliard","latitude":47.50113,"longitude":6.78461}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86438"]={"code":"86438","region":"AZ","city":"Yucca","latitude":34.8722,"longitude":-114.1494}}(window,'GeoPostal','US');

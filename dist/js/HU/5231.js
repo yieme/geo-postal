@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5231"]={"code":"5231","region":"Jasz-Nagykun-Szolnok","city":"Fegyvernek","latitude":47.26667,"longitude":20.53333}}(window,'GeoPostal','HU');

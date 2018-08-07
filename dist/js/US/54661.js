@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54661"]={"code":"54661","region":"Wisconsin","city":"Trempealeau","latitude":44.006467,"longitude":-91.436437}}(window,'GeoPostal','US');

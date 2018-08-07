@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42406"]={"code":"42406","region":"Kentucky","city":"Corydon","latitude":37.731051,"longitude":-87.693821}}(window,'GeoPostal','US');

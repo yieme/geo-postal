@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM22 6LP"]={"code":"CM22 6LP","region":"England","city":"Elsenham","latitude":51.91431,"longitude":0.22934}}(window,'GeoPostal','GB');

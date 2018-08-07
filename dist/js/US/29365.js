@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29365"]={"code":"29365","region":"SC","city":"Lyman","latitude":34.9684,"longitude":-82.1435}}(window,'GeoPostal','US');

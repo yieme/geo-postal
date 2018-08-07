@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98340"]={"code":"98340","region":"WA","city":"Hansville","latitude":47.9061,"longitude":-122.5655}}(window,'GeoPostal','US');

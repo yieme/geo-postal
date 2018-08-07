@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37391"]={"code":"37391","region":"Tennessee","city":"Turtletown","latitude":35.12694,"longitude":-84.35361}}(window,'GeoPostal','US');

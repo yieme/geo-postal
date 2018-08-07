@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93043"]={"code":"93043","region":"CA","city":"Port Hueneme Cbc Base","latitude":34.1621,"longitude":-119.2074}}(window,'GeoPostal','US');

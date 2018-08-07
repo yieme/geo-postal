@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00784"]={"code":"00784","region":"Guayama","city":"Guayama","latitude":17.98413,"longitude":-66.11378}}(window,'GeoPostal','PR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-150"]={"code":"16-150","region":"Podlaskie","city":"Suchowola","latitude":53.57753,"longitude":23.10596}}(window,'GeoPostal','PL');

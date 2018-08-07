@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA9 1ER"]={"code":"KA9 1ER","region":"Scotland","city":"Monkton","latitude":55.5,"longitude":-4.6}}(window,'GeoPostal','GB');

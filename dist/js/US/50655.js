@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50655"]={"code":"50655","region":"Iowa","city":"Maynard","latitude":42.774099,"longitude":-91.881095}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38649"]={"code":"38649","region":"MS","city":"Mount Pleasant","latitude":34.9536,"longitude":-89.523}}(window,'GeoPostal','US');

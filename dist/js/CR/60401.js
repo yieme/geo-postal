@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60401"]={"code":"60401","region":"Puntarenas","city":"Miramar","latitude":10.0925,"longitude":-84.72978}}(window,'GeoPostal','CR');

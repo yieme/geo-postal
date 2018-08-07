@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72581"]={"code":"72581","region":"AR","city":"Tumbling Shoals","latitude":35.547,"longitude":-91.9704}}(window,'GeoPostal','US');

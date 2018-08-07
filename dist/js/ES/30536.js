@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30536"]={"code":"30536","region":"Murcia, Region de","city":"Cieza","latitude":38.23998,"longitude":-1.41987}}(window,'GeoPostal','ES');

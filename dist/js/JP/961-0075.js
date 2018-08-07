@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["961-0075"]={"code":"961-0075","region":"Fukushima","city":"Shirakawa","latitude":37.117,"longitude":140.2}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78023"]={"code":"78023","region":"Texas","city":"Helotes","latitude":29.593108,"longitude":-98.715383}}(window,'GeoPostal','US');

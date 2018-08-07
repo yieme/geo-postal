@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22450"]={"code":"22450","region":"Bretagne","city":"Pommerit-Jaudy","latitude":48.73058,"longitude":-3.24208}}(window,'GeoPostal','FR');

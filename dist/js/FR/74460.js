@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74460"]={"code":"74460","region":"Auvergne-Rhone-Alpes","city":"Marnaz","latitude":46.06201,"longitude":6.52692}}(window,'GeoPostal','FR');

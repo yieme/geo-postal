@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08109"]={"code":"08109","region":"Grand-Est","city":"Charleville-Mezieres","latitude":49.76667,"longitude":4.71667}}(window,'GeoPostal','FR');

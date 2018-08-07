@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW5 7LY"]={"code":"CW5 7LY","region":"England","city":"Wybunbury","latitude":53.04542,"longitude":-2.45207}}(window,'GeoPostal','GB');

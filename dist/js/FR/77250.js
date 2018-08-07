@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77250"]={"code":"77250","region":"Ile-de-France","city":"Veneux-les-Sablons","latitude":48.37872,"longitude":2.79499}}(window,'GeoPostal','FR');

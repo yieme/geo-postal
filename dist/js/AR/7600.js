@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7600"]={"code":"7600","region":"Buenos Aires","city":"Mar del Plata","latitude":-38.00228,"longitude":-57.55754}}(window,'GeoPostal','AR');

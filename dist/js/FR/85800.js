@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85800"]={"code":"85800","region":"Pays-de-la-Loire","city":"Givrand","latitude":46.67083,"longitude":-1.88612}}(window,'GeoPostal','FR');

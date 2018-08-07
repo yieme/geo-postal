@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92036"]={"code":"92036","region":"CA","city":"Julian","latitude":33.0534,"longitude":-116.5658}}(window,'GeoPostal','US');

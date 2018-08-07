@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76621"]={"code":"76621","region":"TX","city":"Abbott","latitude":31.8916,"longitude":-97.0671}}(window,'GeoPostal','US');

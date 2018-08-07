@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["792001"]={"code":"792001","region":"Arunachal Pradesh","city":"Tezu","latitude":27.91667,"longitude":96.16667}}(window,'GeoPostal','IN');

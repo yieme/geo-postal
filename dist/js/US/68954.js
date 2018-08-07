@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68954"]={"code":"68954","region":"NE","city":"Inland","latitude":40.5899,"longitude":-98.2234}}(window,'GeoPostal','US');

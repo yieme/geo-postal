@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50650"]={"code":"50650","region":"Aragon","city":"Gallur","latitude":41.8683,"longitude":-1.31577}}(window,'GeoPostal','ES');

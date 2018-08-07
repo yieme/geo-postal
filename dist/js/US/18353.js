@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18353"]={"code":"18353","region":"PA","city":"Saylorsburg","latitude":40.8965,"longitude":-75.367}}(window,'GeoPostal','US');

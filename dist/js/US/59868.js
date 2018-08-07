@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59868"]={"code":"59868","region":"Montana","city":"Seeley Lake","latitude":47.17938,"longitude":-113.48452}}(window,'GeoPostal','US');

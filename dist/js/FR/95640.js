@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95640"]={"code":"95640","region":"Ile-de-France","city":"Marines","latitude":49.14485,"longitude":1.98226}}(window,'GeoPostal','FR');

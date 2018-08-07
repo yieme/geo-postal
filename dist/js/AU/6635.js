@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6635"]={"code":"6635","region":"Western Australia","city":"Melville","latitude":-28.18333,"longitude":116.73333}}(window,'GeoPostal','AU');

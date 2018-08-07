@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47260"]={"code":"47260","region":"Nouvelle-Aquitaine","city":"Castelmoron-sur-Lot","latitude":44.3981,"longitude":0.49572}}(window,'GeoPostal','FR');

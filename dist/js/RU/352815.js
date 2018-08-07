@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352815"]={"code":"352815","region":"Krasnodarskiy kray","city":"Shepsi","latitude":44.0355,"longitude":39.1474}}(window,'GeoPostal','RU');

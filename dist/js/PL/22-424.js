@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-424"]={"code":"22-424","region":"Lubelskie","city":"Sitno","latitude":50.74944,"longitude":23.3626}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 9BD"]={"code":"NG34 9BD","region":"England","city":"Little Hale","latitude":52.96074,"longitude":-0.29539}}(window,'GeoPostal','GB');

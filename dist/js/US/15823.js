@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15823"]={"code":"15823","region":"Pennsylvania","city":"Brockport","latitude":41.296303,"longitude":-78.729515}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR9 8PB"]={"code":"PR9 8PB","region":"England","city":"Churchtown","latitude":53.66071,"longitude":-2.9821}}(window,'GeoPostal','GB');

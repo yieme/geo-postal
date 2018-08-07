@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44836"]={"code":"44836","region":"Ohio","city":"Green Springs","latitude":41.25616,"longitude":-83.05158}}(window,'GeoPostal','US');

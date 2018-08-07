@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23919"]={"code":"23919","region":"Virginia","city":"Bracey","latitude":36.59959,"longitude":-78.14305}}(window,'GeoPostal','US');

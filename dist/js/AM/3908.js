@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3908"]={"code":"3908","region":"Tavus","city":"Haghartsin","latitude":40.77614,"longitude":44.96847}}(window,'GeoPostal','AM');

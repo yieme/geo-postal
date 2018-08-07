@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25008"]={"code":"25008","region":"WV","city":"Artie","latitude":37.94,"longitude":-81.3545}}(window,'GeoPostal','US');

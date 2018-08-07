@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51532"]={"code":"51532","region":"IA","city":"Elliott","latitude":41.1306,"longitude":-95.1602}}(window,'GeoPostal','US');

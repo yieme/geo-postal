@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IM3 1DZ"]={"code":"IM3 1DZ","region":"Scotland","city":"Douglas","latitude":55.55,"longitude":-3.85}}(window,'GeoPostal','GB');

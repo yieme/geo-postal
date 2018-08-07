@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54155"]={"code":"54155","region":"Wisconsin","city":"Oneida","latitude":44.530126,"longitude":-88.160355}}(window,'GeoPostal','US');

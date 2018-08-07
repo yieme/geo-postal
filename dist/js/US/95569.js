@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95569"]={"code":"95569","region":"CA","city":"Redcrest","latitude":40.3437,"longitude":-123.9095}}(window,'GeoPostal','US');

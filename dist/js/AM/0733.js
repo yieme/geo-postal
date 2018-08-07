@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0733"]={"code":"0733","region":"Ararat","city":"Vostan","latitude":39.96515,"longitude":44.55937}}(window,'GeoPostal','AM');

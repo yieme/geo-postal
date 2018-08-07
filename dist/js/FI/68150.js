@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68150"]={"code":"68150","region":"Etela-Pohjanmaa","city":"Kauhajoki","latitude":62.43333,"longitude":22.18333}}(window,'GeoPostal','FI');

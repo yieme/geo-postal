@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["160555"]={"code":"160555","region":"Vologodskaya oblast'","city":"Molochnoye","latitude":59.29166,"longitude":39.67868}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39401-507"]={"code":"39401-507","region":"Minas Gerais","city":"Montes Claros","latitude":-16.735,"longitude":-43.86167}}(window,'GeoPostal','BR');

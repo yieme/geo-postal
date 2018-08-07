@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26271"]={"code":"26271","region":"WV","city":"Hendricks","latitude":39.0748,"longitude":-79.6303}}(window,'GeoPostal','US');

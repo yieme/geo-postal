@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80746"]={"code":"80746","region":"CO","city":"Paoli","latitude":40.6106,"longitude":-102.4722}}(window,'GeoPostal','US');

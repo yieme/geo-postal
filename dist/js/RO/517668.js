@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517668"]={"code":"517668","region":"Alba","city":"Sasciori","latitude":45.86667,"longitude":23.58333}}(window,'GeoPostal','RO');

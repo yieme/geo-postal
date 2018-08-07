@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652849"]={"code":"652849","region":"Kemerovskaya oblast'","city":"Myski","latitude":53.709,"longitude":87.8014}}(window,'GeoPostal','RU');

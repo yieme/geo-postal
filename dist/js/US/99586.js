@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99586"]={"code":"99586","region":"Alaska","city":"Gakona","latitude":62.30472,"longitude":-145.27333}}(window,'GeoPostal','US');

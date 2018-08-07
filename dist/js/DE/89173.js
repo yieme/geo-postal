@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89173"]={"code":"89173","region":"Sachsen","city":"Eselsberg","latitude":51.38412,"longitude":14.61657}}(window,'GeoPostal','DE');

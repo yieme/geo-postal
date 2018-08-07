@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31720"]={"code":"31720","region":"GA","city":"Barwick","latitude":30.8902,"longitude":-83.7407}}(window,'GeoPostal','US');

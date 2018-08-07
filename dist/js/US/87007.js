@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87007"]={"code":"87007","region":"NM","city":"Casa Blanca","latitude":35.0456,"longitude":-107.4714}}(window,'GeoPostal','US');

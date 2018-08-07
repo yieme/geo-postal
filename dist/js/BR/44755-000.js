@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44755-000"]={"code":"44755-000","region":"Bahia","city":"Ponto Novo","latitude":-10.86278,"longitude":-40.13361}}(window,'GeoPostal','BR');

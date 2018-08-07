@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81650"]={"code":"81650","region":"Kastamonu","city":"Seydiler","latitude":41.62005,"longitude":33.71815}}(window,'GeoPostal','TR');

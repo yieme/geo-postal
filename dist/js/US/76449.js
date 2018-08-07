@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76449"]={"code":"76449","region":"TX","city":"Graford","latitude":32.9242,"longitude":-98.337}}(window,'GeoPostal','US');

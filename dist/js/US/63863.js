@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63863"]={"code":"63863","region":"Missouri","city":"Malden","latitude":36.557,"longitude":-89.96648}}(window,'GeoPostal','US');

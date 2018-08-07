@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56347"]={"code":"56347","region":"Minnesota","city":"Long Prairie","latitude":45.97469,"longitude":-94.86558}}(window,'GeoPostal','US');

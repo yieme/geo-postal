@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62985"]={"code":"62985","region":"IL","city":"Simpson","latitude":37.4673,"longitude":-88.7551}}(window,'GeoPostal','US');

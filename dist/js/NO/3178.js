@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3178"]={"code":"3178","region":"Vestfold","city":"Revetal","latitude":59.3724,"longitude":10.26308}}(window,'GeoPostal','NO');

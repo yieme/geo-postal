@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36119"]={"code":"36119","region":"Thuringen","city":"Neuhof","latitude":50.28391,"longitude":10.72581}}(window,'GeoPostal','DE');

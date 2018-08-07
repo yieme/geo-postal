@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58260"]={"code":"58260","region":"Bourgogne-Franche-Comte","city":"La Machine","latitude":46.89226,"longitude":3.46426}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33954"]={"code":"33954","region":"Florida","city":"Port Charlotte","latitude":27.023295,"longitude":-82.107696}}(window,'GeoPostal','US');

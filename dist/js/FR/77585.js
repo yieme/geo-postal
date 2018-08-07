@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77585"]={"code":"77585","region":"Ile-de-France","city":"Savigny-le-Temple","latitude":48.57409,"longitude":2.58287}}(window,'GeoPostal','FR');

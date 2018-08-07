@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202412"]={"code":"202412","region":"Uttar Pradesh","city":"Chandausi","latitude":28.45,"longitude":78.76667}}(window,'GeoPostal','IN');

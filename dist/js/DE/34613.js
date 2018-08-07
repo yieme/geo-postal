@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34613"]={"code":"34613","region":"Hessen","city":"Schwalmstadt","latitude":50.93333,"longitude":9.21667}}(window,'GeoPostal','DE');

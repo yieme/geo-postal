@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0R 1S0"]={"code":"V0R 1S0","region":"British Columbia","city":"Cumberland","latitude":49.624049,"longitude":-125.0402}}(window,'GeoPostal','CA');

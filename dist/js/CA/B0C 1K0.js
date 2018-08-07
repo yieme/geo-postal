@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0C 1K0"]={"code":"B0C 1K0","region":"Nova Scotia","city":"Ingonish","latitude":46.70014,"longitude":-60.36516}}(window,'GeoPostal','CA');

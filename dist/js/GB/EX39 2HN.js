@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX39 2HN"]={"code":"EX39 2HN","region":"England","city":"Bideford","latitude":51.01787,"longitude":-4.20458}}(window,'GeoPostal','GB');

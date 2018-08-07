@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17170"]={"code":"17170","region":"Nouvelle-Aquitaine","city":"Courcon","latitude":46.24389,"longitude":-0.813}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43555"]={"code":"43555","region":"Ohio","city":"Ridgeville Corners","latitude":41.437607,"longitude":-84.261}}(window,'GeoPostal','US');

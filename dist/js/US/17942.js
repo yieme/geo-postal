@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17942"]={"code":"17942","region":"PA","city":"Landingville","latitude":40.62,"longitude":-76.12}}(window,'GeoPostal','US');

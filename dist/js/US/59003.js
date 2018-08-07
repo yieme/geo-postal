@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59003"]={"code":"59003","region":"Montana","city":"Ashland","latitude":45.6075,"longitude":-106.28639}}(window,'GeoPostal','US');

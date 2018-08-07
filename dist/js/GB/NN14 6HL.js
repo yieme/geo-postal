@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN14 6HL"]={"code":"NN14 6HL","region":"England","city":"Glaisdale","latitude":52.43333,"longitude":-0.8}}(window,'GeoPostal','GB');

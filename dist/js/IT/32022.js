@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32022"]={"code":"32022","region":"Veneto","city":"Alleghe","latitude":46.41028,"longitude":12.02139}}(window,'GeoPostal','IT');

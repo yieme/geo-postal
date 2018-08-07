@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54471"]={"code":"54471","region":"WI","city":"Ringle","latitude":44.9238,"longitude":-89.4328}}(window,'GeoPostal','US');

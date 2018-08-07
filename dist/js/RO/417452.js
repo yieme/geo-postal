@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417452"]={"code":"417452","region":"Bihor","city":"Salard","latitude":47.21667,"longitude":22.05}}(window,'GeoPostal','RO');

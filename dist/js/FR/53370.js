@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53370"]={"code":"53370","region":"Pays-de-la-Loire","city":"Saint-Pierre-des-Nids","latitude":48.39826,"longitude":-0.09984}}(window,'GeoPostal','FR');

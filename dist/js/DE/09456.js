@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09456"]={"code":"09456","region":"Sachsen","city":"Geyersdorf","latitude":50.58752,"longitude":13.04014}}(window,'GeoPostal','DE');

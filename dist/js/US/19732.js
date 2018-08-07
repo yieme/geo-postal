@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19732"]={"code":"19732","region":"DE","city":"Rockland","latitude":39.7939,"longitude":-75.5738}}(window,'GeoPostal','US');

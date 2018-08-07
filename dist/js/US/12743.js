@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12743"]={"code":"12743","region":"NY","city":"Highland Lake","latitude":41.5309,"longitude":-74.8516}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["124305"]={"code":"124305","region":"Haryana","city":"Indri","latitude":29.88,"longitude":77.07111}}(window,'GeoPostal','IN');

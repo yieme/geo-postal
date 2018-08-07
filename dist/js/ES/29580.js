@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29580"]={"code":"29580","region":"Andalucia","city":"Alora","latitude":36.82358,"longitude":-4.70575}}(window,'GeoPostal','ES');

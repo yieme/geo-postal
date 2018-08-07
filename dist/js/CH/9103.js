@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9103"]={"code":"9103","region":"Appenzell Ausserrhoden","city":"Schwellbrunn","latitude":47.35255,"longitude":9.24894}}(window,'GeoPostal','CH');

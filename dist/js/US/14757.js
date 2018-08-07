@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14757"]={"code":"14757","region":"New York","city":"Mayville","latitude":42.252853,"longitude":-79.498388}}(window,'GeoPostal','US');

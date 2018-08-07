@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29446"]={"code":"29446","region":"SC","city":"Green Pond","latitude":32.6628,"longitude":-80.528}}(window,'GeoPostal','US');

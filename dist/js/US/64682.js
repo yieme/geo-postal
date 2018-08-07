@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64682"]={"code":"64682","region":"MO","city":"Tina","latitude":39.5518,"longitude":-93.4647}}(window,'GeoPostal','US');

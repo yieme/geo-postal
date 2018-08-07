@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75142"]={"code":"75142","region":"Texas","city":"Kaufman","latitude":32.586776,"longitude":-96.300074}}(window,'GeoPostal','US');

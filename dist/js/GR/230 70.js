@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["230 70"]={"code":"230 70","region":"Peloponnisos","city":"Gefyra","latitude":36.6869,"longitude":23.03642}}(window,'GeoPostal','GR');

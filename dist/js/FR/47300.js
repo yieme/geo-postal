@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47300"]={"code":"47300","region":"Nouvelle-Aquitaine","city":"Bias","latitude":44.41655,"longitude":0.66977}}(window,'GeoPostal','FR');

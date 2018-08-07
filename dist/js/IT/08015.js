@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08015"]={"code":"08015","region":"Sardegna","city":"Macomer","latitude":40.26195,"longitude":8.76992}}(window,'GeoPostal','IT');

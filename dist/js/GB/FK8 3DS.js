@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK8 3DS"]={"code":"FK8 3DS","region":"Scotland","city":"Kippen","latitude":56.12673,"longitude":-4.17083}}(window,'GeoPostal','GB');

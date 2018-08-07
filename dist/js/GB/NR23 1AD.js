@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR23 1AD"]={"code":"NR23 1AD","region":"England","city":"Holkham","latitude":52.95997,"longitude":0.81616}}(window,'GeoPostal','GB');

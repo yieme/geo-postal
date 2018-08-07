@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92385"]={"code":"92385","region":"CA","city":"Skyforest","latitude":34.2353,"longitude":-117.1792}}(window,'GeoPostal','US');

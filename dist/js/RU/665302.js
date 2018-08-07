@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665302"]={"code":"665302","region":"Irkutskaya oblast'","city":"Kuytun","latitude":54.3423,"longitude":101.5094}}(window,'GeoPostal','RU');

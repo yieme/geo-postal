@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5240000"]={"code":"5240000","region":"Los Rios","city":"Rio Bueno","latitude":-40.31667,"longitude":-72.96667}}(window,'GeoPostal','CL');

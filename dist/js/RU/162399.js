@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162399"]={"code":"162399","region":"Vologodskaya oblast'","city":"Velikiy Ustyug","latitude":60.76186,"longitude":46.31352}}(window,'GeoPostal','RU');

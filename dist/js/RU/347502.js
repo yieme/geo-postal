@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347502"]={"code":"347502","region":"Belgorodskaya oblast'","city":"Bessonovka","latitude":50.52644,"longitude":36.30107}}(window,'GeoPostal','RU');

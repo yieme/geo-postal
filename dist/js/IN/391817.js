@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391817"]={"code":"391817","region":"Gujarat","city":"Jambusar","latitude":22.05,"longitude":72.8}}(window,'GeoPostal','IN');

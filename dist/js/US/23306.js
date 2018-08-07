@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23306"]={"code":"23306","region":"VA","city":"Belle Haven","latitude":37.5645,"longitude":-75.8694}}(window,'GeoPostal','US');

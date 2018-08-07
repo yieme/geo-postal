@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW5 5QU"]={"code":"CW5 5QU","region":"England","city":"Nantwich","latitude":53.06878,"longitude":-2.52051}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57870"]={"code":"57870","region":"Grand-Est","city":"Harreberg","latitude":48.6667,"longitude":7.1711}}(window,'GeoPostal','FR');

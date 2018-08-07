@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238450"]={"code":"238450","region":"Kaliningradskaya oblast'","city":"Mamonovo","latitude":54.46427,"longitude":19.93801}}(window,'GeoPostal','RU');

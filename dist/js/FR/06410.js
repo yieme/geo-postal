@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06410"]={"code":"06410","region":"Provence-Alpes-Cote d'Azur","city":"Biot","latitude":43.62723,"longitude":7.09645}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33157"]={"code":"33157","region":"Florida","city":"Palmetto Bay","latitude":25.606472,"longitude":-80.345796}}(window,'GeoPostal','US');

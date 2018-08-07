@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62547"]={"code":"62547","region":"IL","city":"Mount Auburn","latitude":39.769,"longitude":-89.2489}}(window,'GeoPostal','US');

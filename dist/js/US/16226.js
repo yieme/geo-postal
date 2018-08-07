@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16226"]={"code":"16226","region":"Pennsylvania","city":"Ford City","latitude":40.766489,"longitude":-79.527172}}(window,'GeoPostal','US');

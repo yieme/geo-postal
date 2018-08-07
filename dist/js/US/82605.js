@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82605"]={"code":"82605","region":"WY","city":"Casper","latitude":42.8666,"longitude":-106.3131}}(window,'GeoPostal','US');

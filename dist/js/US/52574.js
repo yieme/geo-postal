@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52574"]={"code":"52574","region":"Iowa","city":"Mystic","latitude":40.7964,"longitude":-92.92872}}(window,'GeoPostal','US');

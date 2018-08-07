@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["739 95"]={"code":"739 95","region":"Moravskoslezsky kraj","city":"Nydek","latitude":49.65609,"longitude":18.75687}}(window,'GeoPostal','CZ');

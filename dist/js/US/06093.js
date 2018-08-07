@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06093"]={"code":"06093","region":"CT","city":"West Suffield","latitude":42.0115,"longitude":-72.7362}}(window,'GeoPostal','US');

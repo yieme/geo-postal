@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97396"]={"code":"97396","region":"OR","city":"Willamina","latitude":45.0826,"longitude":-123.5047}}(window,'GeoPostal','US');

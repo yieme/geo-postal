@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64640"]={"code":"64640","region":"Missouri","city":"Gallatin","latitude":39.91445,"longitude":-93.96217}}(window,'GeoPostal','US');

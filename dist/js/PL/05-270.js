@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-270"]={"code":"05-270","region":"Mazowieckie","city":"Marki","latitude":52.32065,"longitude":21.10474}}(window,'GeoPostal','PL');

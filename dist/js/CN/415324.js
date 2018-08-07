@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415324"]={"code":"415324","region":"Hunan","city":"Tongjinpu","latitude":29.53845,"longitude":110.96685}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67638"]={"code":"67638","region":"KS","city":"Gaylord","latitude":39.6439,"longitude":-98.8476}}(window,'GeoPostal','US');

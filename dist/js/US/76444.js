@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76444"]={"code":"76444","region":"Texas","city":"De Leon","latitude":32.108004,"longitude":-98.537494}}(window,'GeoPostal','US');

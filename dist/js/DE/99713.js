@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99713"]={"code":"99713","region":"Thuringen","city":"Himmelsberg","latitude":51.33574,"longitude":10.72928}}(window,'GeoPostal','DE');

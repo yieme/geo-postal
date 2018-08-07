@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416548"]={"code":"416548","region":"Astrakhanskaya oblast'","city":"Znamensk","latitude":48.5842,"longitude":45.7338}}(window,'GeoPostal','RU');

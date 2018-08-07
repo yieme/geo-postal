@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13400-000"]={"code":"13400-000","region":"Sao Paulo","city":"Piracicaba","latitude":-22.72528,"longitude":-47.64917}}(window,'GeoPostal','BR');

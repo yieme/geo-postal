@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40027"]={"code":"40027","region":"KY","city":"Harrods Creek","latitude":38.3297,"longitude":-85.633}}(window,'GeoPostal','US');

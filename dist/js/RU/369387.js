@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369387"]={"code":"369387","region":"Karachayevo-Cherkesskaya Respublika","city":"Krasnyy Kurgan","latitude":43.94222,"longitude":42.61083}}(window,'GeoPostal','RU');

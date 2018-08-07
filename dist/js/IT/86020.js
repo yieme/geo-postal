@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86020"]={"code":"86020","region":"Molise","city":"Fossalto","latitude":41.67293,"longitude":14.54573}}(window,'GeoPostal','IT');

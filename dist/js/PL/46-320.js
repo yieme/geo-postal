@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-320"]={"code":"46-320","region":"Opolskie","city":"Praszka","latitude":51.05375,"longitude":18.45317}}(window,'GeoPostal','PL');

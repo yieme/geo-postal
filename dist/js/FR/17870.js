@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17870"]={"code":"17870","region":"Nouvelle-Aquitaine","city":"Breuil-Magne","latitude":45.98478,"longitude":-0.96}}(window,'GeoPostal','FR');

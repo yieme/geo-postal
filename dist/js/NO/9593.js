@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9593"]={"code":"9593","region":"Finnmark","city":"Breivikbotn","latitude":70.58871,"longitude":22.28486}}(window,'GeoPostal','NO');

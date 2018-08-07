@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6959"]={"code":"6959","region":"Western Australia","city":"Fremantle","latitude":-32.05,"longitude":115.76667}}(window,'GeoPostal','AU');

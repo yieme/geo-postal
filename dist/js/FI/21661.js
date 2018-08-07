@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21661"]={"code":"21661","region":"Varsinais-Suomi","city":"Nagu","latitude":60.19375,"longitude":21.90972}}(window,'GeoPostal','FI');

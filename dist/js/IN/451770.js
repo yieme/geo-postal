@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["451770"]={"code":"451770","region":"Madhya Pradesh","city":"Pansemal","latitude":21.65,"longitude":74.7}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81522"]={"code":"81522","region":"CO","city":"Gateway","latitude":38.6784,"longitude":-108.9719}}(window,'GeoPostal','US');

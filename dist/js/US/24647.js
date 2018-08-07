@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24647"]={"code":"24647","region":"VA","city":"Shortt Gap","latitude":37.1573,"longitude":-81.8729}}(window,'GeoPostal','US');

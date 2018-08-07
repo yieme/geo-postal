@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32145"]={"code":"32145","region":"FL","city":"Hastings","latitude":29.7051,"longitude":-81.4909}}(window,'GeoPostal','US');

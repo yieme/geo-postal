@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52755"]={"code":"52755","region":"Iowa","city":"Lone Tree","latitude":41.484482,"longitude":-91.425192}}(window,'GeoPostal','US');

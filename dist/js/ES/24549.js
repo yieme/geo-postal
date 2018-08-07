@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24549"]={"code":"24549","region":"Castilla y Leon","city":"Carracedelo","latitude":42.55602,"longitude":-6.73317}}(window,'GeoPostal','ES');

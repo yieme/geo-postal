@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28691"]={"code":"28691","region":"North Carolina","city":"Valle Crucis","latitude":36.207666,"longitude":-81.882828}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47984"]={"code":"47984","region":"IN","city":"Talbot","latitude":40.5053,"longitude":-87.4542}}(window,'GeoPostal','US');

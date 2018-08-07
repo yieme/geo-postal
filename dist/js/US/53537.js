@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53537"]={"code":"53537","region":"WI","city":"Footville","latitude":42.6726,"longitude":-89.2112}}(window,'GeoPostal','US');

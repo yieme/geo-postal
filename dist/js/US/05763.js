@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05763"]={"code":"05763","region":"VT","city":"Pittsford","latitude":43.7152,"longitude":-73.0135}}(window,'GeoPostal','US');

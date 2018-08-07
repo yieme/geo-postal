@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7650"]={"code":"7650","region":"Silistra","city":"Dulovo","latitude":43.81667,"longitude":27.15}}(window,'GeoPostal','BG');

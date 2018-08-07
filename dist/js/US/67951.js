@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67951"]={"code":"67951","region":"KS","city":"Hugoton","latitude":37.1682,"longitude":-101.3346}}(window,'GeoPostal','US');

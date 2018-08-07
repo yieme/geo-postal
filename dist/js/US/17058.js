@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17058"]={"code":"17058","region":"PA","city":"Mifflin","latitude":40.5695,"longitude":-77.4028}}(window,'GeoPostal','US');

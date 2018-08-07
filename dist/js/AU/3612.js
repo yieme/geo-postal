@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3612"]={"code":"3612","region":"Victoria","city":"Whroo","latitude":-36.65,"longitude":145.01667}}(window,'GeoPostal','AU');

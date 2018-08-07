@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67051"]={"code":"67051","region":"Abruzzo","city":"Avezzano","latitude":42.04023,"longitude":13.4388}}(window,'GeoPostal','IT');

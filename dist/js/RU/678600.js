@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678600"]={"code":"678600","region":"Saha, Respublika","city":"Amga","latitude":60.89528,"longitude":131.96083}}(window,'GeoPostal','RU');

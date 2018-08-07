@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13847"]={"code":"13847","region":"New York","city":"Trout Creek","latitude":42.20358,"longitude":-75.27972}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0E 0M0"]={"code":"R0E 0M0","region":"Manitoba","city":"Peguis","latitude":50.19209,"longitude":-96.817501}}(window,'GeoPostal','CA');

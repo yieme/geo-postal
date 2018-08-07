@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79236"]={"code":"79236","region":"TX","city":"Guthrie","latitude":33.6206,"longitude":-100.3229}}(window,'GeoPostal','US');

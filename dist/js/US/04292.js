@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04292"]={"code":"04292","region":"ME","city":"Sumner","latitude":44.374,"longitude":-70.4469}}(window,'GeoPostal','US');

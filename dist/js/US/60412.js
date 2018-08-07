@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60412"]={"code":"60412","region":"IL","city":"Chicago Heights","latitude":41.5061,"longitude":-87.6356}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79051"]={"code":"79051","region":"Sindh","city":"Garhi Khairo","latitude":28.06058,"longitude":67.98027}}(window,'GeoPostal','PK');

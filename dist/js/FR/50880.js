@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50880"]={"code":"50880","region":"Normandie","city":"Pont-Hebert","latitude":49.16714,"longitude":-1.13428}}(window,'GeoPostal','FR');

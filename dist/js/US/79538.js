@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79538"]={"code":"79538","region":"TX","city":"Novice","latitude":31.9781,"longitude":-99.6809}}(window,'GeoPostal','US');

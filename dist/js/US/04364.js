@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04364"]={"code":"04364","region":"Maine","city":"Winthrop","latitude":44.306677,"longitude":-69.97253}}(window,'GeoPostal','US');

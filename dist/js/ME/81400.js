@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81400"]={"code":"81400","region":"Niksic","city":"Niksic","latitude":42.7731,"longitude":18.94446}}(window,'GeoPostal','ME');

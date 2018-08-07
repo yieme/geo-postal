@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155555"]={"code":"155555","region":"Ivanovskaya oblast'","city":"Ples","latitude":57.45862,"longitude":41.51579}}(window,'GeoPostal','RU');

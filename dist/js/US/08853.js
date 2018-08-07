@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08853"]={"code":"08853","region":"New Jersey","city":"Bridgewater","latitude":40.509603,"longitude":-74.716414}}(window,'GeoPostal','US');

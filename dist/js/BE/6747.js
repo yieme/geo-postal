@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6747"]={"code":"6747","region":"Luxembourg","city":"Saint-Leger","latitude":49.61196,"longitude":5.65688}}(window,'GeoPostal','BE');

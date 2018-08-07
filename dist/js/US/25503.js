@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25503"]={"code":"25503","region":"WV","city":"Ashton","latitude":38.6032,"longitude":-82.1123}}(window,'GeoPostal','US');

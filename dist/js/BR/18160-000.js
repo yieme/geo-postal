@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18160-000"]={"code":"18160-000","region":"Sao Paulo","city":"Salto de Pirapora","latitude":-23.64889,"longitude":-47.57333}}(window,'GeoPostal','BR');

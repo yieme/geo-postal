@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36751"]={"code":"36751","region":"Alabama","city":"Lower Peach Tree","latitude":31.85146,"longitude":-87.570865}}(window,'GeoPostal','US');

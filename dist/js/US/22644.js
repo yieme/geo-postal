@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22644"]={"code":"22644","region":"VA","city":"Maurertown","latitude":38.9441,"longitude":-78.4658}}(window,'GeoPostal','US');

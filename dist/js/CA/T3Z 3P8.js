@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T3Z 3P8"]={"code":"T3Z 3P8","region":"Alberta","city":"Ozada","latitude":51.11678,"longitude":-114.96873}}(window,'GeoPostal','CA');

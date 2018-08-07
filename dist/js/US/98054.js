@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98054"]={"code":"98054","region":"WA","city":"Redondo","latitude":47.34,"longitude":-122.32}}(window,'GeoPostal','US');

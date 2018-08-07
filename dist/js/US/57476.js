@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57476"]={"code":"57476","region":"SD","city":"Tulare","latitude":44.7305,"longitude":-98.5539}}(window,'GeoPostal','US');

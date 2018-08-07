@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61450"]={"code":"61450","region":"Normandie","city":"La Ferriere-aux-Etangs","latitude":48.66227,"longitude":-0.51955}}(window,'GeoPostal','FR');

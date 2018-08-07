@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA8 3HL"]={"code":"SA8 3HL","region":"Wales","city":"Cilybebyll","latitude":51.72299,"longitude":-3.82904}}(window,'GeoPostal','GB');

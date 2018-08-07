@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96340"]={"code":"96340","region":"Veracruz de Ignacio de la Llave","city":"Cosoleacaque","latitude":18,"longitude":-94.61667}}(window,'GeoPostal','MX');

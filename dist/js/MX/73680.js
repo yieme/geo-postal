@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73680"]={"code":"73680","region":"Puebla","city":"Zacapoaxtla","latitude":19.88333,"longitude":-97.58333}}(window,'GeoPostal','MX');

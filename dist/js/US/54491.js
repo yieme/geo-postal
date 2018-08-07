@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54491"]={"code":"54491","region":"Wisconsin","city":"White Lake","latitude":45.15667,"longitude":-88.76556}}(window,'GeoPostal','US');

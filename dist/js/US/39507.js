@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39507"]={"code":"39507","region":"Mississippi","city":"Gulfport","latitude":30.395368,"longitude":-89.038966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09376"]={"code":"09376","region":"Sachsen","city":"Oelsnitz","latitude":50.4147,"longitude":12.1695}}(window,'GeoPostal','DE');

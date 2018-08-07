@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2541"]={"code":"2541","region":"New South Wales","city":"Nowra","latitude":-34.88422,"longitude":150.60036}}(window,'GeoPostal','AU');

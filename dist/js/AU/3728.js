@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3728"]={"code":"3728","region":"Victoria","city":"Wilby","latitude":-36.16667,"longitude":146.01667}}(window,'GeoPostal','AU');

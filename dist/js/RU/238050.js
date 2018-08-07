@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238050"]={"code":"238050","region":"Kaliningradskaya oblast'","city":"Gusev","latitude":54.59222,"longitude":22.19972}}(window,'GeoPostal','RU');

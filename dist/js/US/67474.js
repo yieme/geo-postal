@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67474"]={"code":"67474","region":"KS","city":"Portis","latitude":39.5455,"longitude":-98.6904}}(window,'GeoPostal','US');

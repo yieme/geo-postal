@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02184"]={"code":"02184","region":"Massachusetts","city":"Braintree","latitude":42.209432,"longitude":-70.999037}}(window,'GeoPostal','US');

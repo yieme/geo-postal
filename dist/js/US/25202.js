@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25202"]={"code":"25202","region":"WV","city":"Tornado","latitude":38.3357,"longitude":-81.8476}}(window,'GeoPostal','US');

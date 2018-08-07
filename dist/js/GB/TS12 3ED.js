@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS12 3ED"]={"code":"TS12 3ED","region":"England","city":"Lingdale","latitude":54.53787,"longitude":-0.95864}}(window,'GeoPostal','GB');

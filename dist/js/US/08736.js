@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08736"]={"code":"08736","region":"New Jersey","city":"Manasquan","latitude":40.121433,"longitude":-74.062203}}(window,'GeoPostal','US');

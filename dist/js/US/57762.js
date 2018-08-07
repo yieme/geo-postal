@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57762"]={"code":"57762","region":"SD","city":"Nisland","latitude":44.6665,"longitude":-103.5402}}(window,'GeoPostal','US');

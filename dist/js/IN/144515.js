@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144515"]={"code":"144515","region":"Punjab","city":"Balachor","latitude":31.06667,"longitude":76.31667}}(window,'GeoPostal','IN');

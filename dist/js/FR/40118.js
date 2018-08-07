@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40118"]={"code":"40118","region":"Nouvelle-Aquitaine","city":"Mont-de-Marsan","latitude":43.89022,"longitude":-0.49713}}(window,'GeoPostal','FR');

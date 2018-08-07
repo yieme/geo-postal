@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37708"]={"code":"37708","region":"TN","city":"Bean Station","latitude":36.3249,"longitude":-83.3142}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76266"]={"code":"76266","region":"Texas","city":"Sanger","latitude":33.36317,"longitude":-97.1739}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364100"]={"code":"364100","region":"Fujian","city":"Fengcheng","latitude":24.72365,"longitude":116.72429}}(window,'GeoPostal','CN');

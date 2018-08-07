@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13406"]={"code":"13406","region":"NY","city":"Middleville","latitude":43.1369,"longitude":-74.924}}(window,'GeoPostal','US');

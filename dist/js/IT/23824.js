@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23824"]={"code":"23824","region":"Lombardia","city":"Dervio","latitude":46.07599,"longitude":9.30464}}(window,'GeoPostal','IT');

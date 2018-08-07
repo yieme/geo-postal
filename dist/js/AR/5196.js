@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5196"]={"code":"5196","region":"Cordoba","city":"Santa Rosa de Calamuchita","latitude":-32.06905,"longitude":-64.53631}}(window,'GeoPostal','AR');

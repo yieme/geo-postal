@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20860"]={"code":"20860","region":"Maryland","city":"Sandy Spring","latitude":39.149253,"longitude":-77.028328}}(window,'GeoPostal','US');

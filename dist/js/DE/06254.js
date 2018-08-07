@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06254"]={"code":"06254","region":"Sachsen-Anhalt","city":"Gunthersdorf","latitude":51.3457,"longitude":12.17176}}(window,'GeoPostal','DE');

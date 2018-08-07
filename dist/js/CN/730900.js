@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["730900"]={"code":"730900","region":"Gansu","city":"Baiyin","latitude":36.55833,"longitude":104.20806}}(window,'GeoPostal','CN');

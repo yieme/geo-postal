@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11540"]={"code":"11540","region":"Occitanie","city":"Roquefort-des-Corbieres","latitude":42.9917,"longitude":2.9542}}(window,'GeoPostal','FR');

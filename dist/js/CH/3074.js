@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3074"]={"code":"3074","region":"Bern","city":"Muri","latitude":46.93122,"longitude":7.48658}}(window,'GeoPostal','CH');

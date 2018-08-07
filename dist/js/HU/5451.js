@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5451"]={"code":"5451","region":"Jasz-Nagykun-Szolnok","city":"Ocsod","latitude":46.9,"longitude":20.4}}(window,'GeoPostal','HU');

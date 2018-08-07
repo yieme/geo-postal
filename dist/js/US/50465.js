@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50465"]={"code":"50465","region":"IA","city":"Rake","latitude":43.4767,"longitude":-93.9171}}(window,'GeoPostal','US');

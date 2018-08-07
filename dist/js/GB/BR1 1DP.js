@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BR1 1DP"]={"code":"BR1 1DP","region":"England","city":"Bromley","latitude":51.40606,"longitude":0.01519}}(window,'GeoPostal','GB');

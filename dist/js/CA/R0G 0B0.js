@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0G 0B0"]={"code":"R0G 0B0","region":"Manitoba","city":"Altona","latitude":49.10469,"longitude":-97.55961}}(window,'GeoPostal','CA');

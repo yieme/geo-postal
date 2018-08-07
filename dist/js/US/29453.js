@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29453"]={"code":"29453","region":"SC","city":"Jamestown","latitude":33.2221,"longitude":-79.6282}}(window,'GeoPostal','US');

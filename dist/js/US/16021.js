@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16021"]={"code":"16021","region":"PA","city":"Branchton","latitude":41.0726,"longitude":-79.9856}}(window,'GeoPostal','US');

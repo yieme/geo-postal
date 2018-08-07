@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78626"]={"code":"78626","region":"Texas","city":"Georgetown","latitude":30.63269,"longitude":-97.67723}}(window,'GeoPostal','US');

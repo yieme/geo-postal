@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-8268"]={"code":"L-8268","region":"Luxembourg","city":"Bertrange","latitude":49.61111,"longitude":6.05}}(window,'GeoPostal','LU');

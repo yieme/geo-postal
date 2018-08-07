@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA2 8QY"]={"code":"LA2 8QY","region":"England","city":"Higher Thrushgill","latitude":54.05,"longitude":-2.53333}}(window,'GeoPostal','GB');

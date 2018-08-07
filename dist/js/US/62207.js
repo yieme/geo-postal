@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62207"]={"code":"62207","region":"Illinois","city":"Centreville","latitude":38.6103,"longitude":-90.15618}}(window,'GeoPostal','US');

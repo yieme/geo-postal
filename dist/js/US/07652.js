@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07652"]={"code":"07652","region":"New Jersey","city":"Paramus","latitude":40.946821,"longitude":-74.068773}}(window,'GeoPostal','US');

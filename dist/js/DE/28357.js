@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28357"]={"code":"28357","region":"Niedersachsen","city":"Lilienthal","latitude":53.13333,"longitude":8.91667}}(window,'GeoPostal','DE');

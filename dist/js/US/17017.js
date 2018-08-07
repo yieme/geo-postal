@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17017"]={"code":"17017","region":"PA","city":"Dalmatia","latitude":40.6483,"longitude":-76.8797}}(window,'GeoPostal','US');

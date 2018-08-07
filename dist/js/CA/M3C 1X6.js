@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M3C 1X6"]={"code":"M3C 1X6","region":"Ontario","city":"North York","latitude":43.736745,"longitude":-79.340532}}(window,'GeoPostal','CA');

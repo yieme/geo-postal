@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06394"]={"code":"06394","region":"Extremadura","city":"Bodonal de la Sierra","latitude":38.14751,"longitude":-6.5595}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56344"]={"code":"56344","region":"MN","city":"Lastrup","latitude":46.0394,"longitude":-94.0633}}(window,'GeoPostal','US');

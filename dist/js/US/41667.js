@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41667"]={"code":"41667","region":"KY","city":"Weeksbury","latitude":37.317,"longitude":-82.7041}}(window,'GeoPostal','US');

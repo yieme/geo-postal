@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71469"]={"code":"71469","region":"LA","city":"Robeline","latitude":31.7715,"longitude":-93.321}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AI-2640"]={"code":"AI-2640","region":"Anguilla","city":"The Valley","latitude":18.21704,"longitude":-63.05783}}(window,'GeoPostal','AI');

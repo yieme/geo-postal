@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171554"]={"code":"171554","region":"Tverskaya oblast'","city":"Kalyazin","latitude":57.24028,"longitude":37.84333}}(window,'GeoPostal','RU');

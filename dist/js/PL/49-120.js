@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49-120"]={"code":"49-120","region":"Opolskie","city":"Dabrowa","latitude":50.68352,"longitude":17.74957}}(window,'GeoPostal','PL');

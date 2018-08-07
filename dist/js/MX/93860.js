@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93860"]={"code":"93860","region":"Veracruz de Ignacio de la Llave","city":"La Poza","latitude":20.11667,"longitude":-96.96667}}(window,'GeoPostal','MX');

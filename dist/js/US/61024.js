@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61024"]={"code":"61024","region":"Illinois","city":"Durand","latitude":42.440124,"longitude":-89.311564}}(window,'GeoPostal','US');

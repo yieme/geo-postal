@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25879"]={"code":"25879","region":"WV","city":"Minden","latitude":37.9758,"longitude":-81.115}}(window,'GeoPostal','US');

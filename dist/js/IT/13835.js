@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13835"]={"code":"13835","region":"Piemonte","city":"Trivero","latitude":45.66047,"longitude":8.17402}}(window,'GeoPostal','IT');

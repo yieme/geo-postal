@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53531"]={"code":"53531","region":"WI","city":"Deerfield","latitude":43.0571,"longitude":-89.0862}}(window,'GeoPostal','US');

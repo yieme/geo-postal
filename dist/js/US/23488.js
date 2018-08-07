@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23488"]={"code":"23488","region":"VA","city":"Withams","latitude":37.9482,"longitude":-75.6019}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65620"]={"code":"65620","region":"Hessen","city":"Waldbrunn","latitude":50.51875,"longitude":8.10812}}(window,'GeoPostal','DE');

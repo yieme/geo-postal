@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT11 9EN"]={"code":"DT11 9EN","region":"England","city":"Almer","latitude":50.7896,"longitude":-2.12493}}(window,'GeoPostal','GB');

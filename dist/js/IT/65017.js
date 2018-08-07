@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65017"]={"code":"65017","region":"Abruzzo","city":"Penne","latitude":42.45384,"longitude":13.9299}}(window,'GeoPostal','IT');

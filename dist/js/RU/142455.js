@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142455"]={"code":"142455","region":"Moskovskaya oblast'","city":"Elektrougli","latitude":55.72445,"longitude":38.20908}}(window,'GeoPostal','RU');

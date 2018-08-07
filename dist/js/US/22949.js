@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22949"]={"code":"22949","region":"Virginia","city":"Lovingston","latitude":37.80202,"longitude":-78.878285}}(window,'GeoPostal','US');

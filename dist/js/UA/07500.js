@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07500"]={"code":"07500","region":"Kyivska oblast","city":"Baryshivka","latitude":50.36098,"longitude":31.32173}}(window,'GeoPostal','UA');

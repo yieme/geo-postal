@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72181"]={"code":"72181","region":"AR","city":"Wooster","latitude":35.1645,"longitude":-92.453}}(window,'GeoPostal','US');

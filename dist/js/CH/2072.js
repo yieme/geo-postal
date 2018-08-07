@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2072"]={"code":"2072","region":"Neuchatel","city":"Saint-Blaise","latitude":47.01323,"longitude":6.98472}}(window,'GeoPostal','CH');

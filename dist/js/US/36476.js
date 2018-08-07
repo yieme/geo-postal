@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36476"]={"code":"36476","region":"AL","city":"River Falls","latitude":31.3533,"longitude":-86.541}}(window,'GeoPostal','US');

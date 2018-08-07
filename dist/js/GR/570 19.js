@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570 19"]={"code":"570 19","region":"Kentriki Makedonia","city":"Peraia","latitude":40.50028,"longitude":22.925}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17540"]={"code":"17540","region":"Nouvelle-Aquitaine","city":"Saint-Sauveur-d'Aunis","latitude":46.2164,"longitude":-0.885}}(window,'GeoPostal','FR');

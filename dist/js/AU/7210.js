@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7210"]={"code":"7210","region":"Tasmania","city":"Campbell Town","latitude":-41.92561,"longitude":147.4939}}(window,'GeoPostal','AU');

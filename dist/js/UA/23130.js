@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23130"]={"code":"23130","region":"Vinnytska oblast","city":"Brailiv","latitude":49.10986,"longitude":28.17459}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433700"]={"code":"433700","region":"Ul'yanovskaya oblast'","city":"Bazarnyy Syzgan","latitude":53.75117,"longitude":46.75354}}(window,'GeoPostal','RU');

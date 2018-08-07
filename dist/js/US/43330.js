@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43330"]={"code":"43330","region":"OH","city":"Kirby","latitude":40.813,"longitude":-83.4196}}(window,'GeoPostal','US');

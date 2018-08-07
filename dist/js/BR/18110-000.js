@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18110-000"]={"code":"18110-000","region":"Sao Paulo","city":"Votorantim","latitude":-23.54667,"longitude":-47.43778}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15049"]={"code":"15049","region":"Tizi Ouzou","city":"Tirmitine","latitude":36.65393,"longitude":3.98143}}(window,'GeoPostal','DZ');

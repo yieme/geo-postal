@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74-200"]={"code":"74-200","region":"Zachodniopomorskie","city":"Pyrzyce","latitude":53.1462,"longitude":14.89257}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79170-000"]={"code":"79170-000","region":"Mato Grosso do Sul","city":"Sidrolandia","latitude":-20.93194,"longitude":-54.96139}}(window,'GeoPostal','BR');

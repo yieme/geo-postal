@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346170"]={"code":"346170","region":"Rostovskaya oblast'","city":"Kazanskaya","latitude":49.79333,"longitude":41.14667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98846"]={"code":"98846","region":"Washington","city":"Pateros","latitude":48.231982,"longitude":-119.812053}}(window,'GeoPostal','US');

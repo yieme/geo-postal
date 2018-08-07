@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2905"]={"code":"2905","region":"Australian Capital Territory","city":"Richardson","latitude":-35.42787,"longitude":149.11377}}(window,'GeoPostal','AU');

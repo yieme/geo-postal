@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["721403"]={"code":"721403","region":"Jalal-Abad","city":"Tash-Kumyr","latitude":41.34612,"longitude":72.21708}}(window,'GeoPostal','KG');

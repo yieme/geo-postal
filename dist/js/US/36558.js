@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36558"]={"code":"36558","region":"Alabama","city":"Millry","latitude":31.63139,"longitude":-88.31889}}(window,'GeoPostal','US');

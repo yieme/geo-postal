@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79733"]={"code":"79733","region":"TX","city":"Forsan","latitude":32.1105,"longitude":-101.3669}}(window,'GeoPostal','US');

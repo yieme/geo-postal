@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87114"]={"code":"87114","region":"Nusa Tenggara Timur","city":"Waingapu","latitude":-9.6567,"longitude":120.2641}}(window,'GeoPostal','ID');

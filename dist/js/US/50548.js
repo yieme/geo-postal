@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50548"]={"code":"50548","region":"Iowa","city":"Humboldt","latitude":42.721673,"longitude":-94.221514}}(window,'GeoPostal','US');

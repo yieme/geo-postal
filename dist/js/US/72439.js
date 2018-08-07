@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72439"]={"code":"72439","region":"AR","city":"Walnut Ridge","latitude":36.07,"longitude":-90.74}}(window,'GeoPostal','US');

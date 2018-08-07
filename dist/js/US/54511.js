@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54511"]={"code":"54511","region":"Wisconsin","city":"Argonne","latitude":45.723925,"longitude":-88.858699}}(window,'GeoPostal','US');

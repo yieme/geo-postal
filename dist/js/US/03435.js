@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03435"]={"code":"03435","region":"New Hampshire","city":"Keene","latitude":42.9285,"longitude":-72.27798}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62100"]={"code":"62100","region":"Sancti Spiritus","city":"Yaguajay","latitude":22.32722,"longitude":-79.23778}}(window,'GeoPostal','CU');

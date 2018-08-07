@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80728"]={"code":"80728","region":"Colorado","city":"Fleming","latitude":40.620971,"longitude":-102.854713}}(window,'GeoPostal','US');

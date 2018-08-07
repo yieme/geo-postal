@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66930"]={"code":"66930","region":"Kansas","city":"Agenda","latitude":39.70889,"longitude":-97.43222}}(window,'GeoPostal','US');

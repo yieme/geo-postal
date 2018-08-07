@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48879"]={"code":"48879","region":"Michigan","city":"Saint Johns","latitude":43.001419,"longitude":-84.574425}}(window,'GeoPostal','US');

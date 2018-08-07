@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9496"]={"code":"9496","region":"Balzers","city":"Balzers","latitude":47.06667,"longitude":9.5}}(window,'GeoPostal','LI');

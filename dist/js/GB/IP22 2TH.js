@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP22 2TH"]={"code":"IP22 2TH","region":"England","city":"Knettishall","latitude":52.38634,"longitude":0.89795}}(window,'GeoPostal','GB');

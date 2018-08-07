@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75402"]={"code":"75402","region":"Texas","city":"Greenville","latitude":33.0713,"longitude":-96.0882}}(window,'GeoPostal','US');

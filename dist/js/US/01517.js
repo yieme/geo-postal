@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01517"]={"code":"01517","region":"MA","city":"East Princeton","latitude":42.46,"longitude":-71.89}}(window,'GeoPostal','US');

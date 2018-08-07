@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V4V 1Z5"]={"code":"V4V 1Z5","region":"British Columbia","city":"Oyama","latitude":50.11331,"longitude":-119.37229}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62930-000"]={"code":"62930-000","region":"Ceara","city":"Limoeiro do Norte","latitude":-5.14556,"longitude":-38.09806}}(window,'GeoPostal','BR');

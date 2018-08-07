@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA35 1WZ"]={"code":"PA35 1WZ","region":"Scotland","city":"Taynuilt","latitude":56.42881,"longitude":-5.23928}}(window,'GeoPostal','GB');

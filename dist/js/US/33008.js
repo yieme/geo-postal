@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33008"]={"code":"33008","region":"Florida","city":"Hallandale","latitude":25.985455,"longitude":-80.15032}}(window,'GeoPostal','US');

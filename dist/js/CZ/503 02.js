@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503 02"]={"code":"503 02","region":"Kralovehradecky kraj","city":"Predmerice nad Labem","latitude":50.25633,"longitude":15.81556}}(window,'GeoPostal','CZ');

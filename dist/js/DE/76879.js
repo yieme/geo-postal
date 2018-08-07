@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76879"]={"code":"76879","region":"Rheinland-Pfalz","city":"Essingen","latitude":49.23583,"longitude":8.17472}}(window,'GeoPostal','DE');

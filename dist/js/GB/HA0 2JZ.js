@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HA0 2JZ"]={"code":"HA0 2JZ","region":"England","city":"Brent","latitude":51.55306,"longitude":-0.3023}}(window,'GeoPostal','GB');

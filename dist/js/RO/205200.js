@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["205200"]={"code":"205200","region":"Dolj","city":"Calafat","latitude":43.99111,"longitude":22.93278}}(window,'GeoPostal','RO');

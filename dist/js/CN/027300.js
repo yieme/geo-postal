@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["027300"]={"code":"027300","region":"Nei Mongol","city":"Duolun","latitude":42.18712,"longitude":116.48909}}(window,'GeoPostal','CN');

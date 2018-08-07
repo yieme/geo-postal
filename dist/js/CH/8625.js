@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8625"]={"code":"8625","region":"Zurich","city":"Gossau","latitude":47.3051,"longitude":8.75831}}(window,'GeoPostal','CH');

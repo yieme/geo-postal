@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69083"]={"code":"69083","region":"Marijampoles apskritis","city":"Kazlu Ruda","latitude":54.76667,"longitude":23.5}}(window,'GeoPostal','LT');

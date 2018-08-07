@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["031800"]={"code":"031800","region":"Shanxi","city":"Yushe","latitude":37.071667,"longitude":112.975278}}(window,'GeoPostal','CN');

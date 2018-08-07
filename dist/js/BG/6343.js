@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6343"]={"code":"6343","region":"Haskovo","city":"Mineralni Bani","latitude":41.91667,"longitude":25.35}}(window,'GeoPostal','BG');

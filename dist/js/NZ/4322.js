@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4322"]={"code":"4322","region":"Taranaki","city":"Eltham","latitude":-39.42917,"longitude":174.3}}(window,'GeoPostal','NZ');

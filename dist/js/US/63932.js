@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63932"]={"code":"63932","region":"MO","city":"Broseley","latitude":36.6899,"longitude":-90.2508}}(window,'GeoPostal','US');

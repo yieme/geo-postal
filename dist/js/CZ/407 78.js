@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407 78"]={"code":"407 78","region":"Ustecky kraj","city":"Velky Senov","latitude":50.99078,"longitude":14.37428}}(window,'GeoPostal','CZ');

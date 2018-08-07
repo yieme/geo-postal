@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85229"]={"code":"85229","region":"Nusa Tenggara Timur","city":"Kupang","latitude":-10.16667,"longitude":123.58333}}(window,'GeoPostal','ID');

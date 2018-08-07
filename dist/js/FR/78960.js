@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78960"]={"code":"78960","region":"Ile-de-France","city":"Voisins-le-Bretonneux","latitude":48.75793,"longitude":2.05137}}(window,'GeoPostal','FR');

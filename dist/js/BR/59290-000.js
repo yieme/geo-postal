@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59290-000"]={"code":"59290-000","region":"Rio Grande do Norte","city":"Macaiba","latitude":-5.85833,"longitude":-35.35389}}(window,'GeoPostal','BR');

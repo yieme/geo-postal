@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21726"]={"code":"21726","region":"Niedersachsen","city":"Kaken","latitude":53.57435,"longitude":9.24598}}(window,'GeoPostal','DE');

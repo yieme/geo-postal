@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["830037"]={"code":"830037","region":"Xinjiang","city":"Ewirgol","latitude":42.96444,"longitude":87.66111}}(window,'GeoPostal','CN');

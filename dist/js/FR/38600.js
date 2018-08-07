@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38600"]={"code":"38600","region":"Auvergne-Rhone-Alpes","city":"Fontaine","latitude":45.19839,"longitude":5.68265}}(window,'GeoPostal','FR');

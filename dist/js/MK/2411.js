@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2411"]={"code":"2411","region":"Vasilevo","city":"Vasilevo","latitude":41.47611,"longitude":22.64167}}(window,'GeoPostal','MK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06881"]={"code":"06881","region":"Connecticut","city":"Westport","latitude":41.1412,"longitude":-73.3617}}(window,'GeoPostal','US');

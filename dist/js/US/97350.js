@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97350"]={"code":"97350","region":"OR","city":"Idanha","latitude":44.7001,"longitude":-122.074}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW8 2HE"]={"code":"CW8 2HE","region":"England","city":"Oakmere","latitude":53.21996,"longitude":-2.64054}}(window,'GeoPostal','GB');

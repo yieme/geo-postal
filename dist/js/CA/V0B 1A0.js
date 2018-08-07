@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 1A0"]={"code":"V0B 1A0","region":"British Columbia","city":"Boswell","latitude":49.44988,"longitude":-116.76887}}(window,'GeoPostal','CA');

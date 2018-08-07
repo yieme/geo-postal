@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2880"]={"code":"2880","region":"Niederosterreich","city":"Sankt Corona am Wechsel","latitude":47.58333,"longitude":16}}(window,'GeoPostal','AT');

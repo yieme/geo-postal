@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7215"]={"code":"7215","region":"Misamis Occidental","city":"Bonifacio","latitude":8.0525,"longitude":123.6142}}(window,'GeoPostal','PH');

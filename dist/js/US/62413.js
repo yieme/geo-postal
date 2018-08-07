@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62413"]={"code":"62413","region":"IL","city":"Annapolis","latitude":39.1179,"longitude":-87.8029}}(window,'GeoPostal','US');

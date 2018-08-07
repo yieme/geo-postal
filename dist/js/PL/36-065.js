@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-065"]={"code":"36-065","region":"Podkarpackie","city":"Dynow","latitude":49.81506,"longitude":22.23388}}(window,'GeoPostal','PL');

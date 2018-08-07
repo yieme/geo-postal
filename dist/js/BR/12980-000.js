@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12980-000"]={"code":"12980-000","region":"Sao Paulo","city":"Joanopolis","latitude":-22.93028,"longitude":-46.27556}}(window,'GeoPostal','BR');

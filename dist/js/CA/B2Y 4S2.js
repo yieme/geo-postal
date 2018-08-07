@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B2Y 4S2"]={"code":"B2Y 4S2","region":"Nova Scotia","city":"Glenmore","latitude":45.06685,"longitude":-63.14867}}(window,'GeoPostal','CA');

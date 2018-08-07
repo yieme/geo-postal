@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4283"]={"code":"4283","region":"Hajdu-Bihar","city":"Letavertes","latitude":47.38333,"longitude":21.9}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28715"]={"code":"28715","region":"North Carolina","city":"Canton","latitude":35.540157,"longitude":-82.682729}}(window,'GeoPostal','US');

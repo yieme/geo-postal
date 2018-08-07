@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 1216"]={"code":"AZ 1216","region":"Beylaqan","city":"Orconikidze","latitude":39.63222,"longitude":47.69076}}(window,'GeoPostal','AZ');

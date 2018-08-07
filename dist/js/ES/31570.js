@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31570"]={"code":"31570","region":"Navarra, Comunidad Foral de","city":"San Adrian","latitude":42.33433,"longitude":-1.93509}}(window,'GeoPostal','ES');

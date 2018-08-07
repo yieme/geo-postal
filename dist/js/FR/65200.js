@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65200"]={"code":"65200","region":"Occitanie","city":"Gerde","latitude":43.05567,"longitude":0.16688}}(window,'GeoPostal','FR');

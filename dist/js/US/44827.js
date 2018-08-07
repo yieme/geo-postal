@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44827"]={"code":"44827","region":"OH","city":"Crestline","latitude":40.7927,"longitude":-82.7367}}(window,'GeoPostal','US');

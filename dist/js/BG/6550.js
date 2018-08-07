@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6550"]={"code":"6550","region":"Haskovo","city":"Lyubimets","latitude":41.83333,"longitude":26.08333}}(window,'GeoPostal','BG');

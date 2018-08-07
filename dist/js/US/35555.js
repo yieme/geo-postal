@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35555"]={"code":"35555","region":"Alabama","city":"Fayette","latitude":33.68455,"longitude":-87.83085}}(window,'GeoPostal','US');

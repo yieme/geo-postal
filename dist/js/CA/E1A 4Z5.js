@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E1A 4Z5"]={"code":"E1A 4Z5","region":"New Brunswick","city":"Dieppe","latitude":46.062453,"longitude":-64.711774}}(window,'GeoPostal','CA');

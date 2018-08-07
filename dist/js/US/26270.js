@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26270"]={"code":"26270","region":"West Virginia","city":"Harman","latitude":38.916574,"longitude":-79.533044}}(window,'GeoPostal','US');

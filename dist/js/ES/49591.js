@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49591"]={"code":"49591","region":"Castilla y Leon","city":"Riofrio de Aliste","latitude":41.81724,"longitude":-6.17742}}(window,'GeoPostal','ES');

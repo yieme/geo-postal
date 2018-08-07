@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60931"]={"code":"60931","region":"IL","city":"Donovan","latitude":40.8891,"longitude":-87.6046}}(window,'GeoPostal','US');

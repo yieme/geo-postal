@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7177"]={"code":"7177","region":"Tasmania","city":"Dunalley","latitude":-42.88647,"longitude":147.81078}}(window,'GeoPostal','AU');

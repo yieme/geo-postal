@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["173525"]={"code":"173525","region":"Novgorodskaya oblast'","city":"Krechevitsy","latitude":58.61703,"longitude":31.40101}}(window,'GeoPostal','RU');

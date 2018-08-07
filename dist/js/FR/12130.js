@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12130"]={"code":"12130","region":"Occitanie","city":"Saint-Geniez-d'Olt","latitude":44.4658,"longitude":2.9744}}(window,'GeoPostal','FR');

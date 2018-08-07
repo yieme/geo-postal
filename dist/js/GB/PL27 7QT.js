@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL27 7QT"]={"code":"PL27 7QT","region":"England","city":"Little Petherick","latitude":50.51228,"longitude":-4.94203}}(window,'GeoPostal','GB');

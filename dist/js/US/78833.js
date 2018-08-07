@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78833"]={"code":"78833","region":"Texas","city":"Camp Wood","latitude":29.668772,"longitude":-100.011824}}(window,'GeoPostal','US');

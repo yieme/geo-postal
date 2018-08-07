@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH20 6NY"]={"code":"BH20 6NY","region":"England","city":"Bovington Camp","latitude":50.69782,"longitude":-2.23506}}(window,'GeoPostal','GB');

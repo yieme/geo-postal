@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL21 9GB"]={"code":"PL21 9GB","region":"England","city":"Ivybridge","latitude":50.39039,"longitude":-3.91914}}(window,'GeoPostal','GB');

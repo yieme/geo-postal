@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06862"]={"code":"06862","region":"Sachsen-Anhalt","city":"Meinsdorf","latitude":51.91073,"longitude":12.2554}}(window,'GeoPostal','DE');

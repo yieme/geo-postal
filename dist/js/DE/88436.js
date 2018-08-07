@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88436"]={"code":"88436","region":"Baden-Wurttemberg","city":"Aspach","latitude":47.98061,"longitude":9.86022}}(window,'GeoPostal','DE');

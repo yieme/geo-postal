@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28009"]={"code":"28009","region":"NC","city":"Badin","latitude":35.406,"longitude":-80.1167}}(window,'GeoPostal','US');

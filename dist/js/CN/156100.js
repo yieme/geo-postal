@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["156100"]={"code":"156100","region":"Heilongjiang","city":"Fujin","latitude":47.26,"longitude":132.03222}}(window,'GeoPostal','CN');

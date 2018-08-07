@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16061"]={"code":"16061","region":"Pennsylvania","city":"West Sunbury","latitude":41.00611,"longitude":-79.89611}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34215"]={"code":"34215","region":"FL","city":"Cortez","latitude":27.4713,"longitude":-82.6823}}(window,'GeoPostal','US');

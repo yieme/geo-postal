@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24200"]={"code":"24200","region":"Nouvelle-Aquitaine","city":"Carsac-Aillac","latitude":44.83333,"longitude":1.25}}(window,'GeoPostal','FR');

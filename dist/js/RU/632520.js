@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632520"]={"code":"632520","region":"Novosibirskaya oblast'","city":"Ubinskoye","latitude":55.30675,"longitude":79.68016}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84012"]={"code":"84012","region":"Campania","city":"Angri","latitude":40.74271,"longitude":14.57144}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0A 1N0"]={"code":"N0A 1N0","region":"Ontario","city":"Port Dover","latitude":42.7834,"longitude":-80.19966}}(window,'GeoPostal','CA');

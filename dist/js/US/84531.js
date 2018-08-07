@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84531"]={"code":"84531","region":"Utah","city":"Mexican Hat","latitude":37.090416,"longitude":-109.963654}}(window,'GeoPostal','US');

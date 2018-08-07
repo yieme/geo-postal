@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["825300"]={"code":"825300","region":"Tulcea","city":"Macin","latitude":45.24371,"longitude":28.13564}}(window,'GeoPostal','RO');

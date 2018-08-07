@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63650"]={"code":"63650","region":"Auvergne-Rhone-Alpes","city":"La Monnerie-le-Montel","latitude":45.86667,"longitude":3.6}}(window,'GeoPostal','FR');

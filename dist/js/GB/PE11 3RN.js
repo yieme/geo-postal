@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE11 3RN"]={"code":"PE11 3RN","region":"England","city":"Pinchbeck","latitude":52.81303,"longitude":-0.16256}}(window,'GeoPostal','GB');

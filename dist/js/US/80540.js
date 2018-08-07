@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80540"]={"code":"80540","region":"Colorado","city":"Lyons","latitude":40.218324,"longitude":-105.300531}}(window,'GeoPostal','US');

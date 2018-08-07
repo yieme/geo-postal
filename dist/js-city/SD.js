@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["SD"]={'12217':{r:'Khartoum',c:'Khartoum'},'25514':{r:'Blue Nile',c:'Ed Damazin'},'32210':{r:'Gedaref',c:'Gedaref'},'':{r:'Kassala',c:'Kassala'}};

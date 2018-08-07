@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2145"]={"code":"2145","region":"New South Wales","city":"Westmead","latitude":-33.80383,"longitude":150.98768}}(window,'GeoPostal','AU');

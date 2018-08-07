@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08680"]={"code":"08680","region":"Catalunya","city":"Gironella","latitude":42.03433,"longitude":1.88019}}(window,'GeoPostal','ES');

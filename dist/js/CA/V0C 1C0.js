@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0C 1C0"]={"code":"V0C 1C0","region":"British Columbia","city":"Baldonnel","latitude":56.19988,"longitude":-120.6862}}(window,'GeoPostal','CA');

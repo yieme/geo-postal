@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81123"]={"code":"81123","region":"Colorado","city":"Blanca","latitude":37.4303,"longitude":-105.522589}}(window,'GeoPostal','US');

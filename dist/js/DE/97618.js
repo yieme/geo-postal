@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97618"]={"code":"97618","region":"Bayern","city":"Fridritt","latitude":50.26038,"longitude":10.25397}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64623"]={"code":"64623","region":"Missouri","city":"Bosworth","latitude":39.469098,"longitude":-93.339267}}(window,'GeoPostal','US');

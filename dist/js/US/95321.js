@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95321"]={"code":"95321","region":"California","city":"Groveland","latitude":37.83167,"longitude":-120.23972}}(window,'GeoPostal','US');

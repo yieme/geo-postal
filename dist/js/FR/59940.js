@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59940"]={"code":"59940","region":"Hauts-de-France","city":"Estaires","latitude":50.64574,"longitude":2.72782}}(window,'GeoPostal','FR');

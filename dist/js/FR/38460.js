@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38460"]={"code":"38460","region":"Auvergne-Rhone-Alpes","city":"Cremieu","latitude":45.72899,"longitude":5.24839}}(window,'GeoPostal','FR');

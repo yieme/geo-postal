@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48072"]={"code":"48072","region":"Michigan","city":"Berkley","latitude":42.50309,"longitude":-83.18354}}(window,'GeoPostal','US');

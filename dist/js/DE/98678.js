@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98678"]={"code":"98678","region":"Thuringen","city":"Schwarzenbrunn","latitude":50.44944,"longitude":10.95784}}(window,'GeoPostal','DE');

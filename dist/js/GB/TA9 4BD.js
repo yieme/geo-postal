@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA9 4BD"]={"code":"TA9 4BD","region":"England","city":"Brent Knoll","latitude":51.25219,"longitude":-2.95744}}(window,'GeoPostal','GB');

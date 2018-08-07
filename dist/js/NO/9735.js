@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9735"]={"code":"9735","region":"Finnmark","city":"Karasjok","latitude":69.47187,"longitude":25.51122}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49781"]={"code":"49781","region":"Michigan","city":"Saint Ignace","latitude":45.86862,"longitude":-84.72783}}(window,'GeoPostal','US');

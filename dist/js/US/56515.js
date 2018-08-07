@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56515"]={"code":"56515","region":"Minnesota","city":"Battle Lake","latitude":46.28361,"longitude":-95.71333}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["541-0041"]={"code":"541-0041","region":"Osaka","city":"Osaka","latitude":34.69389,"longitude":135.50222}}(window,'GeoPostal','JP');

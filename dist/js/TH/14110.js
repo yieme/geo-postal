@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14110"]={"code":"14110","region":"Ang Thong","city":"Wiset Chaichan","latitude":14.5945,"longitude":100.33825}}(window,'GeoPostal','TH');

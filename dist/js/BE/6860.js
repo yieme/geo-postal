@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6860"]={"code":"6860","region":"Luxembourg","city":"Leglise","latitude":49.79985,"longitude":5.53652}}(window,'GeoPostal','BE');

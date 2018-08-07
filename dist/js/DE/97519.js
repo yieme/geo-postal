@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97519"]={"code":"97519","region":"Bayern","city":"Humprechtshausen","latitude":50.12108,"longitude":10.45027}}(window,'GeoPostal','DE');

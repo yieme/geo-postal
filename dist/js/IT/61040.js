@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61040"]={"code":"61040","region":"Marche","city":"Mondavio","latitude":43.67296,"longitude":12.96866}}(window,'GeoPostal','IT');

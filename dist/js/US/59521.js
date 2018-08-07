@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59521"]={"code":"59521","region":"Montana","city":"Box Elder","latitude":48.321898,"longitude":-109.834651}}(window,'GeoPostal','US');

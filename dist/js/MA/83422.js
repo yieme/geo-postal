@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83422"]={"code":"83422","region":"Souss-Massa-Draa","city":"Tabia","latitude":30.03462,"longitude":-8.87688}}(window,'GeoPostal','MA');

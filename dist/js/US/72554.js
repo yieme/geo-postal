@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72554"]={"code":"72554","region":"Arkansas","city":"Mammoth Spring","latitude":36.49333,"longitude":-91.54361}}(window,'GeoPostal','US');

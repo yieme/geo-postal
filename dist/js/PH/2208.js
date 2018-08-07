@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2208"]={"code":"2208","region":"Zambales","city":"Castillejos","latitude":14.93039,"longitude":120.20143}}(window,'GeoPostal','PH');

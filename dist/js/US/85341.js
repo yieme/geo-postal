@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85341"]={"code":"85341","region":"AZ","city":"Lukeville","latitude":31.8826,"longitude":-112.8157}}(window,'GeoPostal','US');

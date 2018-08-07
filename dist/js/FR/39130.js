@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39130"]={"code":"39130","region":"Bourgogne-Franche-Comte","city":"Clairvaux-les-Lacs","latitude":46.57473,"longitude":5.74825}}(window,'GeoPostal','FR');

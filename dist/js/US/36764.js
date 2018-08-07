@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36764"]={"code":"36764","region":"Alabama","city":"Nanafalia","latitude":32.112778,"longitude":-87.988056}}(window,'GeoPostal','US');

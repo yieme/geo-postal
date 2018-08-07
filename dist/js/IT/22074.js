@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22074"]={"code":"22074","region":"Lombardia","city":"Como","latitude":45.80998,"longitude":9.08744}}(window,'GeoPostal','IT');

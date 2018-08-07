@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51503"]={"code":"51503","region":"Iowa","city":"Council Bluffs","latitude":41.263305,"longitude":-95.819764}}(window,'GeoPostal','US');

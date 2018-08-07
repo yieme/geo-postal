@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG7 1AQ"]={"code":"DG7 1AQ","region":"Scotland","city":"Castle Douglas","latitude":54.94095,"longitude":-3.92784}}(window,'GeoPostal','GB');

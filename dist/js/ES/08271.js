@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08271"]={"code":"08271","region":"Catalunya","city":"Artes","latitude":41.798,"longitude":1.95428}}(window,'GeoPostal','ES');

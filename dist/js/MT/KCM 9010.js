@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KCM 9010"]={"code":"KCM 9010","region":"Kercem","city":"Kercem","latitude":36.04194,"longitude":14.22667}}(window,'GeoPostal','MT');

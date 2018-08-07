@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8800"]={"code":"8800","region":"Nordland","city":"Sandnessjoen","latitude":66.02166,"longitude":12.63158}}(window,'GeoPostal','NO');

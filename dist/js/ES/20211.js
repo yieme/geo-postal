@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20211"]={"code":"20211","region":"Pais Vasco","city":"Ataun","latitude":43.00612,"longitude":-2.17663}}(window,'GeoPostal','ES');

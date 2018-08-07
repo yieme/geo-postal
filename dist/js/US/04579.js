@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04579"]={"code":"04579","region":"ME","city":"Woolwich","latitude":43.9503,"longitude":-69.7891}}(window,'GeoPostal','US');

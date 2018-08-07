@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67750"]={"code":"67750","region":"Grand-Est","city":"Scherwiller","latitude":48.28713,"longitude":7.42135}}(window,'GeoPostal','FR');

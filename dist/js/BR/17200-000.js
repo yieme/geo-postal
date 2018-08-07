@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17200-000"]={"code":"17200-000","region":"Sao Paulo","city":"Jau","latitude":-22.29639,"longitude":-48.55778}}(window,'GeoPostal','BR');

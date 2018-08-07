@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17321"]={"code":"17321","region":"Pennsylvania","city":"Fawn Grove","latitude":39.73,"longitude":-76.45083}}(window,'GeoPostal','US');

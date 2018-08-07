@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70180"]={"code":"70180","region":"Bourgogne-Franche-Comte","city":"Dampierre-sur-Salon","latitude":47.55719,"longitude":5.6797}}(window,'GeoPostal','FR');

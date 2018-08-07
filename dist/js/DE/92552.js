@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92552"]={"code":"92552","region":"Bayern","city":"Teunz","latitude":49.48333,"longitude":12.38333}}(window,'GeoPostal','DE');

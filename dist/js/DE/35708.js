@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35708"]={"code":"35708","region":"Hessen","city":"Haiger","latitude":50.74162,"longitude":8.20778}}(window,'GeoPostal','DE');

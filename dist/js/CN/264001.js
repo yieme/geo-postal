@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["264001"]={"code":"264001","region":"Shandong","city":"Yantai","latitude":37.53333,"longitude":121.4}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36726"]={"code":"36726","region":"Alabama","city":"Camden","latitude":31.99098,"longitude":-87.29055}}(window,'GeoPostal','US');

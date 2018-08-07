@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15955"]={"code":"15955","region":"Pennsylvania","city":"Sidman","latitude":40.330026,"longitude":-78.735236}}(window,'GeoPostal','US');

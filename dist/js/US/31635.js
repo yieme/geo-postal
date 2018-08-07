@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31635"]={"code":"31635","region":"GA","city":"Lakeland","latitude":31.0381,"longitude":-83.0889}}(window,'GeoPostal','US');

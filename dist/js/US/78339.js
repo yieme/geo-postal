@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78339"]={"code":"78339","region":"TX","city":"Banquete","latitude":27.8051,"longitude":-97.7922}}(window,'GeoPostal','US');

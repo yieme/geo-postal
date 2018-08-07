@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55323"]={"code":"55323","region":"MN","city":"Crystal Bay","latitude":44.953,"longitude":-93.5763}}(window,'GeoPostal','US');

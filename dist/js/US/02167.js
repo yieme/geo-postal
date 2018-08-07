@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02167"]={"code":"02167","region":"Massachusetts","city":"Chestnut Hill","latitude":42.3208,"longitude":-71.1698}}(window,'GeoPostal','US');

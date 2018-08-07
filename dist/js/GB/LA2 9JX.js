@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA2 9JX"]={"code":"LA2 9JX","region":"England","city":"Claughton","latitude":54.08333,"longitude":-2.66667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80544"]={"code":"80544","region":"CO","city":"Niwot","latitude":40.1039,"longitude":-105.1708}}(window,'GeoPostal','US');

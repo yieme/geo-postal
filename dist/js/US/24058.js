@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24058"]={"code":"24058","region":"VA","city":"Belspring","latitude":37.1982,"longitude":-80.6151}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62730"]={"code":"62730","region":"Hauts-de-France","city":"Marck","latitude":50.94896,"longitude":1.94328}}(window,'GeoPostal','FR');

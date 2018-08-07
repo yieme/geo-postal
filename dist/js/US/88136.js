@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88136"]={"code":"88136","region":"NM","city":"Yeso","latitude":34.455,"longitude":-104.7452}}(window,'GeoPostal','US');

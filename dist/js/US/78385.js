@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78385"]={"code":"78385","region":"TX","city":"Sarita","latitude":27.1496,"longitude":-97.8576}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56536"]={"code":"56536","region":"MN","city":"Felton","latitude":47.0705,"longitude":-96.5052}}(window,'GeoPostal','US');

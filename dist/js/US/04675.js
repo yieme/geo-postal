@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04675"]={"code":"04675","region":"ME","city":"Seal Harbor","latitude":44.299,"longitude":-68.2463}}(window,'GeoPostal','US');

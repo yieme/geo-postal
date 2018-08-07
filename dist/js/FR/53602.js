@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53602"]={"code":"53602","region":"Pays-de-la-Loire","city":"Evron","latitude":48.15642,"longitude":-0.3997}}(window,'GeoPostal','FR');

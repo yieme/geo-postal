@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20001"]={"code":"20001","region":"Saida","city":"'Ain el Hadjar","latitude":34.75846,"longitude":0.14528}}(window,'GeoPostal','DZ');

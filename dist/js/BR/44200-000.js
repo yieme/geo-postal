@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44200-000"]={"code":"44200-000","region":"Bahia","city":"Santo Amaro","latitude":-12.54667,"longitude":-38.71194}}(window,'GeoPostal','BR');

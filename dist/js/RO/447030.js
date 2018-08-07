@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447030"]={"code":"447030","region":"Satu Mare","city":"Batarci","latitude":48.03333,"longitude":23.16667}}(window,'GeoPostal','RO');

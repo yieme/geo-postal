@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV25 3SH"]={"code":"IV25 3SH","region":"Scotland","city":"Dornoch","latitude":57.8805,"longitude":-4.02879}}(window,'GeoPostal','GB');

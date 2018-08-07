@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04775"]={"code":"04775","region":"ME","city":"Sheridan","latitude":46.6573,"longitude":-68.405}}(window,'GeoPostal','US');

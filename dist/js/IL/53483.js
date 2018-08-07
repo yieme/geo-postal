@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53483"]={"code":"53483","region":"HaMerkaz","city":"Ramla","latitude":31.92528,"longitude":34.86694}}(window,'GeoPostal','IL');

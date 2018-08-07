@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J9L 3G3"]={"code":"J9L 3G3","region":"Quebec","city":"Mont-Laurier","latitude":46.542275,"longitude":-75.512934}}(window,'GeoPostal','CA');

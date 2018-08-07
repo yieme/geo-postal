@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31790"]={"code":"31790","region":"GA","city":"Sycamore","latitude":31.6553,"longitude":-83.6064}}(window,'GeoPostal','US');

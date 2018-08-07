@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68856"]={"code":"68856","region":"NE","city":"Merna","latitude":41.4435,"longitude":-99.8036}}(window,'GeoPostal','US');

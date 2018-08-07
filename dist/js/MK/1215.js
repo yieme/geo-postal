@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1215"]={"code":"1215","region":"Jegunovce","city":"Jegunovce","latitude":42.07361,"longitude":21.12361}}(window,'GeoPostal','MK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162483"]={"code":"162483","region":"Vologodskaya oblast'","city":"Babayevo","latitude":59.3936,"longitude":35.9371}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42252"]={"code":"42252","region":"KY","city":"Jetson","latitude":37.2483,"longitude":-86.5093}}(window,'GeoPostal','US');

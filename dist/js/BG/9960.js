@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9960"]={"code":"9960","region":"Shumen","city":"Kaolinovo","latitude":43.61667,"longitude":27.11667}}(window,'GeoPostal','BG');

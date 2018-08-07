@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08635"]={"code":"08635","region":"Kyivska oblast","city":"Glevakha","latitude":50.27423,"longitude":30.32706}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47902"]={"code":"47902","region":"Souss-Massa-Draa","city":"Zagora","latitude":30.33241,"longitude":-5.8384}}(window,'GeoPostal','MA');

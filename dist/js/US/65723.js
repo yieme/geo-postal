@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65723"]={"code":"65723","region":"Missouri","city":"Pierce City","latitude":36.9459,"longitude":-94.00021}}(window,'GeoPostal','US');

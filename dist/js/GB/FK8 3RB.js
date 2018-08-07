@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK8 3RB"]={"code":"FK8 3RB","region":"Scotland","city":"Port of Menteith","latitude":56.18501,"longitude":-4.28306}}(window,'GeoPostal','GB');

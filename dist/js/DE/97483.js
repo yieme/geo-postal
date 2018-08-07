@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97483"]={"code":"97483","region":"Bayern","city":"Ebelsbach","latitude":49.98572,"longitude":10.67442}}(window,'GeoPostal','DE');

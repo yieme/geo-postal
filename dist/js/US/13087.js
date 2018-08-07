@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13087"]={"code":"13087","region":"NY","city":"Little York","latitude":42.707,"longitude":-76.1561}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641040"]={"code":"641040","region":"Kurganskaya oblast'","city":"Mishkino","latitude":55.33889,"longitude":63.9175}}(window,'GeoPostal','RU');

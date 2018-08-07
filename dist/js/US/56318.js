@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56318"]={"code":"56318","region":"Minnesota","city":"Burtrum","latitude":45.86583,"longitude":-94.6875}}(window,'GeoPostal','US');

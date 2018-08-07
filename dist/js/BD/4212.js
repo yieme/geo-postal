@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4212"]={"code":"4212","region":"Dhaka","city":"Tungi","latitude":23.89,"longitude":90.40583}}(window,'GeoPostal','BD');

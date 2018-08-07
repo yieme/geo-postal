@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25335"]={"code":"25335","region":"Chiapas","city":"Pichucalco","latitude":17.51667,"longitude":-93.06667}}(window,'GeoPostal','MX');

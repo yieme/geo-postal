@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512241"]={"code":"512241","region":"Guangdong","city":"Dayuan","latitude":25.26531,"longitude":113.27889}}(window,'GeoPostal','CN');

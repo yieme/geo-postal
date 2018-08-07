@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["389157"]={"code":"389157","region":"Gujarat","city":"Dahod","latitude":22.83333,"longitude":74.26667}}(window,'GeoPostal','IN');

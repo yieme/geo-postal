@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1238"]={"code":"1238","region":"New South Wales","city":"Haymarket","latitude":-33.87868,"longitude":151.20526}}(window,'GeoPostal','AU');

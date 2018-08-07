@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45807-000"]={"code":"45807-000","region":"Bahia","city":"Porto Seguro","latitude":-16.44972,"longitude":-39.06472}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82329"]={"code":"82329","region":"Wyoming","city":"Medicine Bow","latitude":41.898739,"longitude":-106.201115}}(window,'GeoPostal','US');

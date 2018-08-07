@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97790"]={"code":"97790","region":"Yucatan","city":"Valladolid","latitude":20.68812,"longitude":-88.19936}}(window,'GeoPostal','MX');

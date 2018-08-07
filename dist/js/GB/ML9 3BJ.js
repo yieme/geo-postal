@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML9 3BJ"]={"code":"ML9 3BJ","region":"Scotland","city":"Lanark","latitude":55.67371,"longitude":-3.7817}}(window,'GeoPostal','GB');

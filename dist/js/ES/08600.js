@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08600"]={"code":"08600","region":"Catalunya","city":"Berga","latitude":42.10429,"longitude":1.84628}}(window,'GeoPostal','ES');

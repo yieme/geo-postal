@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3300"]={"code":"3300","region":"Niassa","city":"Lichinga","latitude":-13.31278,"longitude":35.24056}}(window,'GeoPostal','MZ');

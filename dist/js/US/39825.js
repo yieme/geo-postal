@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39825"]={"code":"39825","region":"Georgia","city":"Brinson","latitude":30.94477,"longitude":-84.677821}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD9 7NQ"]={"code":"TD9 7NQ","region":"Scotland","city":"Buccleuch","latitude":55.41667,"longitude":-3.06667}}(window,'GeoPostal','GB');

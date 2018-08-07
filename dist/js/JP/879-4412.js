@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["879-4412"]={"code":"879-4412","region":"Oita","city":"Tsukawaki","latitude":33.26667,"longitude":131.15}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56453"]={"code":"56453","region":"Minnesota","city":"Hewitt","latitude":46.325556,"longitude":-95.029331}}(window,'GeoPostal','US');

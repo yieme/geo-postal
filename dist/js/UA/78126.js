@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78126"]={"code":"78126","region":"Ivano-Frankivska oblast","city":"Chernyatyn","latitude":48.66034,"longitude":25.44832}}(window,'GeoPostal','UA');

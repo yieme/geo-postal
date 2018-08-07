@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75574"]={"code":"75574","region":"Texas","city":"Simms","latitude":33.487213,"longitude":-94.581561}}(window,'GeoPostal','US');

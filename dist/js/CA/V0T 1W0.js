@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0T 1W0"]={"code":"V0T 1W0","region":"British Columbia","city":"Meziadin Junction","latitude":56.101,"longitude":-129.30393}}(window,'GeoPostal','CA');

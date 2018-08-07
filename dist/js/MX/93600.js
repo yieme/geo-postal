@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93600"]={"code":"93600","region":"Veracruz de Ignacio de la Llave","city":"Martinez de La Torre","latitude":20.06667,"longitude":-97.05}}(window,'GeoPostal','MX');

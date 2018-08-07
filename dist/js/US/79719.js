@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79719"]={"code":"79719","region":"Texas","city":"Barstow","latitude":31.479398,"longitude":-103.329935}}(window,'GeoPostal','US');

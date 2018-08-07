@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4091"]={"code":"4091","region":"Kwazulu-Natal","city":"Berea","latitude":-29.85185,"longitude":30.99337}}(window,'GeoPostal','ZA');

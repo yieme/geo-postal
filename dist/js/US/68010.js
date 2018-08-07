@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68010"]={"code":"68010","region":"Nebraska","city":"Boys Town","latitude":41.259569,"longitude":-96.12939}}(window,'GeoPostal','US');

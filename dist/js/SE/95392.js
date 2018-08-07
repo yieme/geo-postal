@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95392"]={"code":"95392","region":"Norrbottens lan","city":"Haparanda","latitude":65.83549,"longitude":24.13676}}(window,'GeoPostal','SE');

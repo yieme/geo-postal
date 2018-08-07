@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27253"]={"code":"27253","region":"North Carolina","city":"Graham","latitude":36.021087,"longitude":-79.368292}}(window,'GeoPostal','US');

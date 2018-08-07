@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28700"]={"code":"28700","region":"Madrid, Comunidad de","city":"San Sebastian de los Reyes","latitude":40.54433,"longitude":-3.61588}}(window,'GeoPostal','ES');

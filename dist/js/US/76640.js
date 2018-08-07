@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76640"]={"code":"76640","region":"TX","city":"Elm Mott","latitude":31.6725,"longitude":-97.1138}}(window,'GeoPostal','US');

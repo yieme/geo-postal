@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53042"]={"code":"53042","region":"Toscana","city":"Chianciano Terme","latitude":43.04394,"longitude":11.81245}}(window,'GeoPostal','IT');

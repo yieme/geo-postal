@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15432"]={"code":"15432","region":"PA","city":"Dunlevy","latitude":40.1151,"longitude":-79.8627}}(window,'GeoPostal','US');

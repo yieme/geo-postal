@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70402"]={"code":"70402","region":"Zaporizka oblast","city":"Novovasylivka","latitude":46.8315,"longitude":35.75362}}(window,'GeoPostal','UA');

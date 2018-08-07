@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5030"]={"code":"5030","region":"Tachira","city":"Rubio","latitude":7.70131,"longitude":-72.35569}}(window,'GeoPostal','VE');

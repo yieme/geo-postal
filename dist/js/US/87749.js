@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87749"]={"code":"87749","region":"NM","city":"Ute Park","latitude":36.5581,"longitude":-105.115}}(window,'GeoPostal','US');

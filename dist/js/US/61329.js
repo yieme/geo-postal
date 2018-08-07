@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61329"]={"code":"61329","region":"IL","city":"Ladd","latitude":41.3825,"longitude":-89.219}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95671"]={"code":"95671","region":"CA","city":"Represa","latitude":38.7065,"longitude":-121.1694}}(window,'GeoPostal','US');

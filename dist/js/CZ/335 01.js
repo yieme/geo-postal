@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["335 01"]={"code":"335 01","region":"Plzensky kraj","city":"Nepomuk","latitude":49.48616,"longitude":13.58225}}(window,'GeoPostal','CZ');

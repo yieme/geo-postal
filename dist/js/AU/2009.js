@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2009"]={"code":"2009","region":"New South Wales","city":"Pyrmont","latitude":-33.86985,"longitude":151.19402}}(window,'GeoPostal','AU');

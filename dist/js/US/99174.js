@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99174"]={"code":"99174","region":"WA","city":"Steptoe","latitude":47.006,"longitude":-117.356}}(window,'GeoPostal','US');

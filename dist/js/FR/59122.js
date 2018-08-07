@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59122"]={"code":"59122","region":"Hauts-de-France","city":"Killem","latitude":50.95779,"longitude":2.56068}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43700"]={"code":"43700","region":"Punjab","city":"Darya Khan","latitude":31.79123,"longitude":71.10394}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6960"]={"code":"6960","region":"Itapua","city":"Carmen del Parana","latitude":-27.23333,"longitude":-56.21667}}(window,'GeoPostal','PY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2042"]={"code":"2042","region":"Niederosterreich","city":"Wullersdorf","latitude":48.61667,"longitude":16.1}}(window,'GeoPostal','AT');

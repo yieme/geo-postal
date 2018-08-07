@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21088"]={"code":"21088","region":"MD","city":"Lineboro","latitude":39.7187,"longitude":-76.8439}}(window,'GeoPostal','US');

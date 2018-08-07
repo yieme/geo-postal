@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["224622"]={"code":"224622","region":"Jiangsu","city":"Liutao","latitude":34.11278,"longitude":119.79417}}(window,'GeoPostal','CN');

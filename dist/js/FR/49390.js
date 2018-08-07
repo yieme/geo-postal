@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49390"]={"code":"49390","region":"Pays-de-la-Loire","city":"Vernoil-le-Fourrier","latitude":47.38333,"longitude":0.08333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH2 1DE"]={"code":"DH2 1DE","region":"England","city":"Pelton","latitude":54.87305,"longitude":-1.6095}}(window,'GeoPostal','GB');

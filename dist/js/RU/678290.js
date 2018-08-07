@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678290"]={"code":"678290","region":"Saha, Respublika","city":"Suntar","latitude":62.14444,"longitude":117.63194}}(window,'GeoPostal','RU');

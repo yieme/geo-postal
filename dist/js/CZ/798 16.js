@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["798 16"]={"code":"798 16","region":"Olomoucky kraj","city":"Celechovice na Hane","latitude":49.51626,"longitude":17.09379}}(window,'GeoPostal','CZ');

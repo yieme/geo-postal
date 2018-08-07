@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR3 6SA"]={"code":"TR3 6SA","region":"England","city":"Feock","latitude":50.20582,"longitude":-5.05035}}(window,'GeoPostal','GB');

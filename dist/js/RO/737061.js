@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737061"]={"code":"737061","region":"Gorj","city":"Balteni","latitude":46.66667,"longitude":27.61667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02033"]={"code":"02033","region":"Lazio","city":"Monteleone Sabino","latitude":42.23313,"longitude":12.85808}}(window,'GeoPostal','IT');

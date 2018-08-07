@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4865"]={"code":"4865","region":"Queensland","city":"Gordonvale","latitude":-17.09959,"longitude":145.78038}}(window,'GeoPostal','AU');

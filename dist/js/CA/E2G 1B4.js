@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E2G 1B4"]={"code":"E2G 1B4","region":"New Brunswick","city":"Meenans Corner","latitude":45.45096,"longitude":-65.94384}}(window,'GeoPostal','CA');

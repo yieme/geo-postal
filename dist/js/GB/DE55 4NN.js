@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE55 4NN"]={"code":"DE55 4NN","region":"England","city":"Alfreton","latitude":53.0961,"longitude":-1.38832}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23210"]={"code":"23210","region":"Andalucia","city":"Guarroman","latitude":38.18282,"longitude":-3.68697}}(window,'GeoPostal','ES');

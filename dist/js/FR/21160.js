@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21160"]={"code":"21160","region":"Bourgogne-Franche-Comte","city":"Corcelles-les-Monts","latitude":47.2953,"longitude":4.9392}}(window,'GeoPostal','FR');

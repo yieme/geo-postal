@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4660"]={"code":"4660","region":"Queensland","city":"Bootharh","latitude":-25.23333,"longitude":152.35}}(window,'GeoPostal','AU');

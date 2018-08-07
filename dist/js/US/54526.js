@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54526"]={"code":"54526","region":"WI","city":"Glen Flora","latitude":45.4862,"longitude":-90.8479}}(window,'GeoPostal','US');

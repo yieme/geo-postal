@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357748"]={"code":"357748","region":"Stavropol'skiy kray","city":"Kislovodsk","latitude":43.91333,"longitude":42.72083}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA12 5UG"]={"code":"CA12 5UG","region":"England","city":"Manesty","latitude":54.55972,"longitude":-3.15788}}(window,'GeoPostal','GB');

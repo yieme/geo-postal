@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61745"]={"code":"61745","region":"IL","city":"Heyworth","latitude":40.3307,"longitude":-88.9776}}(window,'GeoPostal','US');

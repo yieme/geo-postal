@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 6212"]={"code":"HT 6212","region":"Ouest","city":"Leogane","latitude":18.51083,"longitude":-72.63389}}(window,'GeoPostal','HT');

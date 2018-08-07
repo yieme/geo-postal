@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58792"]={"code":"58792","region":"ND","city":"Voltaire","latitude":47.986,"longitude":-100.7988}}(window,'GeoPostal','US');

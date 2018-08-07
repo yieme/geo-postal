@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["261 01"]={"code":"261 01","region":"Stredocesky kraj","city":"Pribram","latitude":49.68988,"longitude":14.01043}}(window,'GeoPostal','CZ');

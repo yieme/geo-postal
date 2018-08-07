@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE33 9SE"]={"code":"PE33 9SE","region":"England","city":"Stoke Ferry","latitude":52.57051,"longitude":0.5132}}(window,'GeoPostal','GB');

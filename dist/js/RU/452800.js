@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452800"]={"code":"452800","region":"Bashkortostan, Respublika","city":"Yanaul","latitude":56.2719,"longitude":54.93086}}(window,'GeoPostal','RU');

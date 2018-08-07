@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["362626"]={"code":"362626","region":"Gujarat","city":"Kutiyana","latitude":21.62333,"longitude":69.98167}}(window,'GeoPostal','IN');

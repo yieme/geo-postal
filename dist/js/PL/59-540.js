@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-540"]={"code":"59-540","region":"Dolnoslaskie","city":"Swierzawa","latitude":51.01375,"longitude":15.89516}}(window,'GeoPostal','PL');

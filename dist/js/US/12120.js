@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12120"]={"code":"12120","region":"NY","city":"Medusa","latitude":42.4515,"longitude":-74.1315}}(window,'GeoPostal','US');

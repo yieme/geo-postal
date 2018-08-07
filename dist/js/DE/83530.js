@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83530"]={"code":"83530","region":"Bayern","city":"Sinzing","latitude":48.08564,"longitude":12.41253}}(window,'GeoPostal','DE');

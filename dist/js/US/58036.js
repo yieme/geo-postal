@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58036"]={"code":"58036","region":"ND","city":"Gardner","latitude":47.1252,"longitude":-96.9901}}(window,'GeoPostal','US');

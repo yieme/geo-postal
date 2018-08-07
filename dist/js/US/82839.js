@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82839"]={"code":"82839","region":"Wyoming","city":"Ranchester","latitude":44.900562,"longitude":-107.143328}}(window,'GeoPostal','US');

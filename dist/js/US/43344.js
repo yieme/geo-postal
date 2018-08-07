@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43344"]={"code":"43344","region":"Ohio","city":"Richwood","latitude":40.453611,"longitude":-83.455556}}(window,'GeoPostal','US');

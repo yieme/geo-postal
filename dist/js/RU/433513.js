@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433513"]={"code":"433513","region":"Ul'yanovskaya oblast'","city":"Dimitrovgrad","latitude":54.21386,"longitude":49.61838}}(window,'GeoPostal','RU');

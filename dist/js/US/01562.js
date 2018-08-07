@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01562"]={"code":"01562","region":"Massachusetts","city":"Spencer","latitude":42.24646,"longitude":-71.992144}}(window,'GeoPostal','US');

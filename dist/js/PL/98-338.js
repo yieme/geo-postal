@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-338"]={"code":"98-338","region":"Lodzkie","city":"Sulmierzyce","latitude":51.18456,"longitude":19.19595}}(window,'GeoPostal','PL');

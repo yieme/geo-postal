@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99633"]={"code":"99633","region":"Alaska","city":"Naknek","latitude":58.73972,"longitude":-156.97167}}(window,'GeoPostal','US');

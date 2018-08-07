@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0L 2C0"]={"code":"T0L 2C0","region":"Alberta","city":"Exshaw","latitude":51.05904,"longitude":-115.16521}}(window,'GeoPostal','CA');

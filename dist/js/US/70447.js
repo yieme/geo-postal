@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70447"]={"code":"70447","region":"LA","city":"Madisonville","latitude":30.4287,"longitude":-90.1773}}(window,'GeoPostal','US');

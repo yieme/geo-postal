@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33220"]={"code":"33220","region":"Surin","city":"Rattanaburi","latitude":15.31788,"longitude":103.84859}}(window,'GeoPostal','TH');

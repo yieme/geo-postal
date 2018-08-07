@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15311"]={"code":"15311","region":"PA","city":"Amity","latitude":40.0498,"longitude":-80.1681}}(window,'GeoPostal','US');

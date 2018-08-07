@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50620"]={"code":"50620","region":"Iowa","city":"Colwell","latitude":43.070278,"longitude":-92.71338}}(window,'GeoPostal','US');

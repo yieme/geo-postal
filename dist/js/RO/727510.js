@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727510"]={"code":"727510","region":"Suceava","city":"Sucevita","latitude":47.78333,"longitude":25.71667}}(window,'GeoPostal','RO');

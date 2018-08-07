@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94631"]={"code":"94631","region":"Luhanska oblast","city":"Antratsit","latitude":48.11503,"longitude":39.09128}}(window,'GeoPostal','UA');

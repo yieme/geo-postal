@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06443"]={"code":"06443","region":"Connecticut","city":"Madison","latitude":41.302845,"longitude":-72.612401}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20168"]={"code":"20168","region":"VA","city":"Haymarket","latitude":38.8121,"longitude":-77.6364}}(window,'GeoPostal','US');

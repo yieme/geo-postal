@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57266"]={"code":"57266","region":"SD","city":"Summit","latitude":45.3521,"longitude":-97.0427}}(window,'GeoPostal','US');

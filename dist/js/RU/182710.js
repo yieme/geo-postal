@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182710"]={"code":"182710","region":"Pskovskaya oblast'","city":"Dedovichi","latitude":57.55166,"longitude":29.95018}}(window,'GeoPostal','RU');

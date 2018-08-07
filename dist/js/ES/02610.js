@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02610"]={"code":"02610","region":"Castilla-La Mancha","city":"El Bonillo","latitude":38.95048,"longitude":-2.54048}}(window,'GeoPostal','ES');

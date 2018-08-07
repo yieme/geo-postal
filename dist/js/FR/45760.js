@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45760"]={"code":"45760","region":"Centre-Val de Loire","city":"Boigny-sur-Bionne","latitude":47.93333,"longitude":2.01667}}(window,'GeoPostal','FR');

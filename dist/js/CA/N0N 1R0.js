@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0N 1R0"]={"code":"N0N 1R0","region":"Ontario","city":"Petrolia","latitude":42.86678,"longitude":-82.14981}}(window,'GeoPostal','CA');

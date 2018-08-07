@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29780"]={"code":"29780","region":"Andalucia","city":"Nerja","latitude":36.75855,"longitude":-3.88727}}(window,'GeoPostal','ES');

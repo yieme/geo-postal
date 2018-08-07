@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G69 9DW"]={"code":"G69 9DW","region":"Scotland","city":"Chryston","latitude":55.9028,"longitude":-4.10759}}(window,'GeoPostal','GB');

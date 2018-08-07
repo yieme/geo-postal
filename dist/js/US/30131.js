@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30131"]={"code":"30131","region":"Georgia","city":"Cumming","latitude":34.2041,"longitude":-84.0951}}(window,'GeoPostal','US');

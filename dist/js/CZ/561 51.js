@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["561 51"]={"code":"561 51","region":"Pardubicky kraj","city":"Letohrad","latitude":50.0358,"longitude":16.49879}}(window,'GeoPostal','CZ');

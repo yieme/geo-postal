@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79058"]={"code":"79058","region":"TX","city":"Masterson","latitude":35.6359,"longitude":-101.9602}}(window,'GeoPostal','US');

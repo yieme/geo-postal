@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64485"]={"code":"64485","region":"Missouri","city":"Savannah","latitude":39.939046,"longitude":-94.829505}}(window,'GeoPostal','US');

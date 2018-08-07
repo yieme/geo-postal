@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5008"]={"code":"5008","region":"Iloilo","city":"Abangay","latitude":10.96667,"longitude":122.65}}(window,'GeoPostal','PH');

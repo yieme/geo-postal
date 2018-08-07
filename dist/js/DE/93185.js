@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93185"]={"code":"93185","region":"Bayern","city":"Regelsmais","latitude":49.11095,"longitude":12.56356}}(window,'GeoPostal','DE');

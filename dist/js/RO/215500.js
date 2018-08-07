@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215500"]={"code":"215500","region":"Gorj","city":"Tirgu Carbunesti","latitude":44.95,"longitude":23.51667}}(window,'GeoPostal','RO');

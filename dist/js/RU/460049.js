@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["460049"]={"code":"460049","region":"Orenburgskaya oblast'","city":"Orenburg","latitude":51.7727,"longitude":55.0988}}(window,'GeoPostal','RU');

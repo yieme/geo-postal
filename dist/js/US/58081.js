@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58081"]={"code":"58081","region":"ND","city":"Wyndmere","latitude":46.2891,"longitude":-97.1289}}(window,'GeoPostal','US');

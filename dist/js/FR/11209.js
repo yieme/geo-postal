@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11209"]={"code":"11209","region":"Occitanie","city":"Lezignan-Corbieres","latitude":43.19764,"longitude":2.76142}}(window,'GeoPostal','FR');

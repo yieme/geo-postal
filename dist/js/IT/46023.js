@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46023"]={"code":"46023","region":"Lombardia","city":"Gonzaga","latitude":44.94977,"longitude":10.82089}}(window,'GeoPostal','IT');

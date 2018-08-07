@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81120"]={"code":"81120","region":"Krabi","city":"Khlong Thom","latitude":7.9375,"longitude":99.14457}}(window,'GeoPostal','TH');

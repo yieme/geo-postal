@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33831"]={"code":"33831","region":"Florida","city":"Bartow","latitude":27.89502,"longitude":-81.84228}}(window,'GeoPostal','US');

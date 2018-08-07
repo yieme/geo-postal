@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04886"]={"code":"04886","region":"Sachsen","city":"Beilrode","latitude":51.56667,"longitude":13.06667}}(window,'GeoPostal','DE');

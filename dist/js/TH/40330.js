@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40330"]={"code":"40330","region":"Khon Kaen","city":"Waeng Yai","latitude":15.95547,"longitude":102.5469}}(window,'GeoPostal','TH');

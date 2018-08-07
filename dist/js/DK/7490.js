@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7490"]={"code":"7490","region":"Midtjylland","city":"Avlum","latitude":56.26539,"longitude":8.79256}}(window,'GeoPostal','DK');

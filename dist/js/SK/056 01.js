@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["056 01"]={"code":"056 01","region":"Kosicky kraj","city":"Gelnica","latitude":48.85584,"longitude":20.93712}}(window,'GeoPostal','SK');

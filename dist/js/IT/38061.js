@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38061"]={"code":"38061","region":"Trentino-Alto Adige","city":"Ala","latitude":45.759,"longitude":11.00018}}(window,'GeoPostal','IT');

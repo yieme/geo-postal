@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694242"]={"code":"694242","region":"Sakhalinskaya oblast'","city":"Poronaysk","latitude":49.21667,"longitude":143.11667}}(window,'GeoPostal','RU');

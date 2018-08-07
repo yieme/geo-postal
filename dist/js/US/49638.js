@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49638"]={"code":"49638","region":"Michigan","city":"Harrietta","latitude":44.294348,"longitude":-85.725035}}(window,'GeoPostal','US');

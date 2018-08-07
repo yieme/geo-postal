@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53916"]={"code":"53916","region":"Wisconsin","city":"Beaver Dam","latitude":43.461431,"longitude":-88.84069}}(window,'GeoPostal','US');

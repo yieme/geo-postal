@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83040"]={"code":"83040","region":"Campania","city":"Flumeri","latitude":41.07782,"longitude":15.14775}}(window,'GeoPostal','IT');

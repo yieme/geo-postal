@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1929"]={"code":"1929","region":"Valais","city":"Evionnaz","latitude":46.01667,"longitude":7.01667}}(window,'GeoPostal','CH');

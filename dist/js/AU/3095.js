@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3095"]={"code":"3095","region":"Victoria","city":"Eltham","latitude":-37.73333,"longitude":145.15}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43130"]={"code":"43130","region":"Auvergne-Rhone-Alpes","city":"Retournac","latitude":45.20629,"longitude":4.03554}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618850"]={"code":"618850","region":"Permskiy kray","city":"Sarany","latitude":58.5,"longitude":58.88333}}(window,'GeoPostal','RU');

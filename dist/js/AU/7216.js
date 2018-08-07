@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7216"]={"code":"7216","region":"Tasmania","city":"Binalong Bay","latitude":-41.25114,"longitude":148.31165}}(window,'GeoPostal','AU');

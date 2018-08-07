@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81653"]={"code":"81653","region":"CO","city":"Slater","latitude":40.9979,"longitude":-107.3388}}(window,'GeoPostal','US');

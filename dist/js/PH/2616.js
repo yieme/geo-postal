@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2616"]={"code":"2616","region":"Mountain Province","city":"Betwagan","latitude":17.08333,"longitude":120.96667}}(window,'GeoPostal','PH');

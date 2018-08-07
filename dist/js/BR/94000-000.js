@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94000-000"]={"code":"94000-000","region":"Rio Grande do Sul","city":"Gravatai","latitude":-29.94444,"longitude":-50.99194}}(window,'GeoPostal','BR');

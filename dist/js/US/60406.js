@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60406"]={"code":"60406","region":"Illinois","city":"Blue Island","latitude":41.65062,"longitude":-87.68316}}(window,'GeoPostal','US');

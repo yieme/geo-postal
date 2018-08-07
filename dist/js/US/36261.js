@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36261"]={"code":"36261","region":"AL","city":"Edwardsville","latitude":33.7066,"longitude":-85.5099}}(window,'GeoPostal','US');

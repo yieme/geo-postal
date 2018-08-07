@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13530-000"]={"code":"13530-000","region":"Sao Paulo","city":"Itirapina","latitude":-22.25278,"longitude":-47.82278}}(window,'GeoPostal','BR');

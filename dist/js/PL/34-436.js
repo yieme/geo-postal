@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-436"]={"code":"34-436","region":"Malopolskie","city":"Maniowy","latitude":49.45976,"longitude":20.26454}}(window,'GeoPostal','PL');

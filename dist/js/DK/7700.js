@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7700"]={"code":"7700","region":"Nordjylland","city":"Thisted","latitude":56.95523,"longitude":8.69491}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW9 6PU"]={"code":"KW9 6PU","region":"Scotland","city":"Brora","latitude":58.00989,"longitude":-3.85182}}(window,'GeoPostal','GB');

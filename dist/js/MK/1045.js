@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1045"]={"code":"1045","region":"Aracinovo","city":"Arachinovo","latitude":42.02639,"longitude":21.56194}}(window,'GeoPostal','MK');

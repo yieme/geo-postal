@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21530"]={"code":"21530","region":"Varsinais-Suomi","city":"Paimio","latitude":60.45671,"longitude":22.68694}}(window,'GeoPostal','FI');

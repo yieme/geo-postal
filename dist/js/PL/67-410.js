@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67-410"]={"code":"67-410","region":"Lubuskie","city":"Slawa","latitude":51.87623,"longitude":16.07205}}(window,'GeoPostal','PL');

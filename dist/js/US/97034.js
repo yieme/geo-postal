@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97034"]={"code":"97034","region":"Oregon","city":"Lake Oswego","latitude":45.42067,"longitude":-122.67065}}(window,'GeoPostal','US');

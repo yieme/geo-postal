@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 1G0"]={"code":"T0M 1G0","region":"Alberta","city":"Keoma","latitude":51.21682,"longitude":-113.65195}}(window,'GeoPostal','CA');

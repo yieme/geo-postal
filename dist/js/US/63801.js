@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63801"]={"code":"63801","region":"Missouri","city":"Sikeston","latitude":36.887683,"longitude":-89.577583}}(window,'GeoPostal','US');

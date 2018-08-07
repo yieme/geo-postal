@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59255-000"]={"code":"59255-000","region":"Rio Grande do Norte","city":"Santo Antonio","latitude":-6.31056,"longitude":-35.47889}}(window,'GeoPostal','BR');

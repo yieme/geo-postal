@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44053"]={"code":"44053","region":"Marrakech-Tensift-Al Haouz","city":"Smimou","latitude":31.21014,"longitude":-9.70864}}(window,'GeoPostal','MA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["716-804"]={"code":"716-804","region":"Gyeongsangbuk-do","city":"Kunwi","latitude":36.23472,"longitude":128.57278}}(window,'GeoPostal','KR');

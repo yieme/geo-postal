@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60127"]={"code":"60127","region":"Hauts-de-France","city":"Morienval","latitude":49.2977,"longitude":2.92078}}(window,'GeoPostal','FR');

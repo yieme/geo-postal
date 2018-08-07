@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04449"]={"code":"04449","region":"ME","city":"Hudson","latitude":44.9914,"longitude":-68.8878}}(window,'GeoPostal','US');

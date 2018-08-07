@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["231-0021"]={"code":"231-0021","region":"Kanagawa","city":"Yokohama","latitude":35.44417,"longitude":139.63806}}(window,'GeoPostal','JP');

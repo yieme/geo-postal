@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM6 2JF"]={"code":"CM6 2JF","region":"England","city":"Little Easton","latitude":51.89278,"longitude":0.33465}}(window,'GeoPostal','GB');

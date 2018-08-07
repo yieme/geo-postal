@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19346"]={"code":"19346","region":"Pennsylvania","city":"Kelton","latitude":39.794502,"longitude":-75.886459}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68467"]={"code":"68467","region":"Jawa Timur","city":"Kalibaru Kulon","latitude":-8.2877,"longitude":113.9791}}(window,'GeoPostal','ID');

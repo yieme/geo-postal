@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68221"]={"code":"68221","region":"Grand-Est","city":"Hegenheim","latitude":47.56251,"longitude":7.52684}}(window,'GeoPostal','FR');

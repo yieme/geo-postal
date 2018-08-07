@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J6S 0A1"]={"code":"J6S 0A1","region":"Quebec","city":"Salaberry-de-Valleyfield","latitude":45.25008,"longitude":-74.13253}}(window,'GeoPostal','CA');

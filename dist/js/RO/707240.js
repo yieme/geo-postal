@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707240"]={"code":"707240","region":"Iasi","city":"Halaucesti","latitude":47.1,"longitude":26.8}}(window,'GeoPostal','RO');

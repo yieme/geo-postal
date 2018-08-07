@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35577"]={"code":"35577","region":"AL","city":"Natural Bridge","latitude":34.0934,"longitude":-87.6008}}(window,'GeoPostal','US');

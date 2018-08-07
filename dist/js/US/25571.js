@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25571"]={"code":"25571","region":"WV","city":"West Hamlin","latitude":38.2886,"longitude":-82.1843}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA13 2HL"]={"code":"SA13 2HL","region":"Wales","city":"Taibach","latitude":51.58333,"longitude":-3.76667}}(window,'GeoPostal','GB');

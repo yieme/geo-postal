@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53024"]={"code":"53024","region":"Wisconsin","city":"Grafton","latitude":43.3287,"longitude":-87.9313}}(window,'GeoPostal','US');

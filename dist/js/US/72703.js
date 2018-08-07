@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72703"]={"code":"72703","region":"Arkansas","city":"Fayetteville","latitude":36.098365,"longitude":-94.152435}}(window,'GeoPostal','US');

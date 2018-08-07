@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78410-000"]={"code":"78410-000","region":"Mato Grosso","city":"Nobres","latitude":-14.72028,"longitude":-56.3275}}(window,'GeoPostal','BR');

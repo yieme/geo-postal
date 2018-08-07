@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51650"]={"code":"51650","region":"Konya","city":"Ilgin","latitude":38.27917,"longitude":31.91389}}(window,'GeoPostal','TR');

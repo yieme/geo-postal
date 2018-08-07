@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3856"]={"code":"3856","region":"Victoria","city":"Toongabbie","latitude":-38.05,"longitude":146.61667}}(window,'GeoPostal','AU');

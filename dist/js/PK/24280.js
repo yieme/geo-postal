@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24280"]={"code":"24280","region":"Federally Administered Tribal Areas","city":"Cherat","latitude":33.82328,"longitude":71.89153}}(window,'GeoPostal','PK');

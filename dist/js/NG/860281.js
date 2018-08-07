@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["860281"]={"code":"860281","region":"Kebbi","city":"Birnin Kebbi","latitude":12.45389,"longitude":4.1975}}(window,'GeoPostal','NG');

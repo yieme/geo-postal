@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 0P0"]={"code":"T0K 0P0","region":"Alberta","city":"Cowley","latitude":49.5667,"longitude":-114.08525}}(window,'GeoPostal','CA');

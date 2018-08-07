@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-203"]={"code":"38-203","region":"Podkarpackie","city":"Tarnowiec","latitude":49.73108,"longitude":21.57663}}(window,'GeoPostal','PL');

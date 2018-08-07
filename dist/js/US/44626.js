@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44626"]={"code":"44626","region":"OH","city":"East Sparta","latitude":40.6971,"longitude":-81.3687}}(window,'GeoPostal','US');

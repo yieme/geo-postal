@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06412"]={"code":"06412","region":"Connecticut","city":"Chester","latitude":41.40411,"longitude":-72.467056}}(window,'GeoPostal','US');

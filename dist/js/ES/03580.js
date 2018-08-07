@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03580"]={"code":"03580","region":"Valenciana, Comunidad","city":"Benidorm","latitude":38.53816,"longitude":-0.13098}}(window,'GeoPostal','ES');

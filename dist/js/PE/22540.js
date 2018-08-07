@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22540"]={"code":"22540","region":"San Martin","city":"Tocache Nuevo","latitude":-8.18417,"longitude":-76.5125}}(window,'GeoPostal','PE');

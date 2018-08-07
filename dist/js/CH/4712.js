@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4712"]={"code":"4712","region":"Solothurn","city":"Laupersdorf","latitude":47.31426,"longitude":7.65053}}(window,'GeoPostal','CH');

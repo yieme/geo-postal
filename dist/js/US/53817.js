@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53817"]={"code":"53817","region":"WI","city":"Patch Grove","latitude":42.9422,"longitude":-90.9646}}(window,'GeoPostal','US');

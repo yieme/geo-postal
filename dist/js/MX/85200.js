@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85200"]={"code":"85200","region":"Sonora","city":"Pueblo Yaqui","latitude":27.35,"longitude":-110.03333}}(window,'GeoPostal','MX');

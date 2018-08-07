@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67651"]={"code":"67651","region":"KS","city":"Natoma","latitude":39.2013,"longitude":-98.9829}}(window,'GeoPostal','US');

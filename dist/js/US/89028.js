@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89028"]={"code":"89028","region":"Nevada","city":"Laughlin","latitude":35.16778,"longitude":-114.57302}}(window,'GeoPostal','US');

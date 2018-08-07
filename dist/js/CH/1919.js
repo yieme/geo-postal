@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1919"]={"code":"1919","region":"Valais","city":"Martigny-Ville","latitude":46.10276,"longitude":7.07245}}(window,'GeoPostal','CH');

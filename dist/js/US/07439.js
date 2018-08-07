@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07439"]={"code":"07439","region":"NJ","city":"Ogdensburg","latitude":41.0767,"longitude":-74.5982}}(window,'GeoPostal','US');

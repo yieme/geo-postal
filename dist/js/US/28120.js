@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28120"]={"code":"28120","region":"NC","city":"Mount Holly","latitude":35.3119,"longitude":-81.0306}}(window,'GeoPostal','US');

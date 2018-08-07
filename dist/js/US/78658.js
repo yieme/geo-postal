@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78658"]={"code":"78658","region":"TX","city":"Ottine","latitude":29.5952,"longitude":-97.5911}}(window,'GeoPostal','US');

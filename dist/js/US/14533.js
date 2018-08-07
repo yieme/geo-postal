@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14533"]={"code":"14533","region":"NY","city":"Piffard","latitude":42.8435,"longitude":-77.8962}}(window,'GeoPostal','US');

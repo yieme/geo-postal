@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03100"]={"code":"03100","region":"Auvergne-Rhone-Alpes","city":"Lavault-Sainte-Anne","latitude":46.31667,"longitude":2.6}}(window,'GeoPostal','FR');

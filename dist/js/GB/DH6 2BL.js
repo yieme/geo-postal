@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH6 2BL"]={"code":"DH6 2BL","region":"England","city":"Haswell","latitude":54.78333,"longitude":-1.41667}}(window,'GeoPostal','GB');

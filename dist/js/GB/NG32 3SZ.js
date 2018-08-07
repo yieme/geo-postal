@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG32 3SZ"]={"code":"NG32 3SZ","region":"England","city":"Ancaster","latitude":52.98276,"longitude":-0.53593}}(window,'GeoPostal','GB');

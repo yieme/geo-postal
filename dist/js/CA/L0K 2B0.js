@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0K 2B0"]={"code":"L0K 2B0","region":"Ontario","city":"Washago","latitude":44.75011,"longitude":-79.33292}}(window,'GeoPostal','CA');

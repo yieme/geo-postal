@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77415"]={"code":"77415","region":"TX","city":"Cedar Lane","latitude":28.9386,"longitude":-95.7366}}(window,'GeoPostal','US');

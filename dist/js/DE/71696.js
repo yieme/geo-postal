@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71696"]={"code":"71696","region":"Baden-Wurttemberg","city":"Moglingen","latitude":48.88741,"longitude":9.12694}}(window,'GeoPostal','DE');

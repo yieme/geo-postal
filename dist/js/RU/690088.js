@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["690088"]={"code":"690088","region":"Primorskiy kray","city":"Artem","latitude":43.3675,"longitude":132.19861}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624500"]={"code":"624500","region":"Sichuan","city":"Dazhasi","latitude":33.57795,"longitude":102.96412}}(window,'GeoPostal','CN');

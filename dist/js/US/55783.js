@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55783"]={"code":"55783","region":"Minnesota","city":"Sturgeon Lake","latitude":46.383333,"longitude":-92.82722}}(window,'GeoPostal','US');

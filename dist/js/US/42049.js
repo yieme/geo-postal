@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42049"]={"code":"42049","region":"KY","city":"Hazel","latitude":36.5422,"longitude":-88.3319}}(window,'GeoPostal','US');

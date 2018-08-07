@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E7G 0A2"]={"code":"E7G 0A2","region":"New Brunswick","city":"Plaster Rock","latitude":46.90654,"longitude":-67.38997}}(window,'GeoPostal','CA');

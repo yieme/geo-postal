@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19014"]={"code":"19014","region":"Pennsylvania","city":"Aston","latitude":39.86478,"longitude":-75.43506}}(window,'GeoPostal','US');

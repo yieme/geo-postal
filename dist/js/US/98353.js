@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98353"]={"code":"98353","region":"WA","city":"Manchester","latitude":47.5952,"longitude":-122.6225}}(window,'GeoPostal','US');

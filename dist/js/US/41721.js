@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41721"]={"code":"41721","region":"KY","city":"Buckhorn","latitude":37.301,"longitude":-83.4936}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38773"]={"code":"38773","region":"MS","city":"Shaw","latitude":33.6021,"longitude":-90.7746}}(window,'GeoPostal','US');

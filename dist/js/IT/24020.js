@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24020"]={"code":"24020","region":"Lombardia","city":"Colere","latitude":45.97429,"longitude":10.08276}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 5706"]={"code":"AZ 5706","region":"Samkir","city":"Shamkhor","latitude":40.82972,"longitude":46.01889}}(window,'GeoPostal','AZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54762"]={"code":"54762","region":"Wisconsin","city":"Prairie Farm","latitude":45.25194,"longitude":-91.9775}}(window,'GeoPostal','US');

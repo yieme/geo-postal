@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23954"]={"code":"23954","region":"Virginia","city":"Meherrin","latitude":37.096071,"longitude":-78.382387}}(window,'GeoPostal','US');

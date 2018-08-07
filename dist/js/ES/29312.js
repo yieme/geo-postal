@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29312"]={"code":"29312","region":"Andalucia","city":"Villanueva de Algaidas","latitude":37.1835,"longitude":-4.45032}}(window,'GeoPostal','ES');

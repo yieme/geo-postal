@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27522"]={"code":"27522","region":"North Carolina","city":"Creedmoor","latitude":36.12237,"longitude":-78.68611}}(window,'GeoPostal','US');

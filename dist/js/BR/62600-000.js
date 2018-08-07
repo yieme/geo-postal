@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62600-000"]={"code":"62600-000","region":"Ceara","city":"Itapage","latitude":-3.68667,"longitude":-39.58611}}(window,'GeoPostal','BR');

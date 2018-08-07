@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23196"]={"code":"23196","region":"Skane lan","city":"Trelleborg","latitude":55.37514,"longitude":13.15691}}(window,'GeoPostal','SE');

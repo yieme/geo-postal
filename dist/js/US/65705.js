@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65705"]={"code":"65705","region":"MO","city":"Marionville","latitude":37.0009,"longitude":-93.6413}}(window,'GeoPostal','US');

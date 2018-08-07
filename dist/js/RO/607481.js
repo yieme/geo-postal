@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607481"]={"code":"607481","region":"Mures","city":"Sinmartin","latitude":46.26667,"longitude":25.93333}}(window,'GeoPostal','RO');

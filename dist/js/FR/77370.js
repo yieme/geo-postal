@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77370"]={"code":"77370","region":"Ile-de-France","city":"Nangis","latitude":48.55535,"longitude":3.01306}}(window,'GeoPostal','FR');

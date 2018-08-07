@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88600"]={"code":"88600","region":"Kainuu","city":"Sotkamo","latitude":64.13333,"longitude":28.41667}}(window,'GeoPostal','FI');

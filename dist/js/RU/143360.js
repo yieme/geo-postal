@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143360"]={"code":"143360","region":"Moskovskaya oblast'","city":"Aprelevka","latitude":55.55194,"longitude":37.0801}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45052"]={"code":"45052","region":"OH","city":"North Bend","latitude":39.1536,"longitude":-84.7273}}(window,'GeoPostal','US');

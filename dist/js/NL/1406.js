@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1406"]={"code":"1406","region":"Noord-Holland","city":"Bussum","latitude":52.27333,"longitude":5.16111}}(window,'GeoPostal','NL');

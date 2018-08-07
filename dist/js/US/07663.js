@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07663"]={"code":"07663","region":"New Jersey","city":"Saddle Brook","latitude":40.90243,"longitude":-74.097264}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38039"]={"code":"38039","region":"Tennessee","city":"Grand Junction","latitude":35.274858,"longitude":-89.153812}}(window,'GeoPostal','US');

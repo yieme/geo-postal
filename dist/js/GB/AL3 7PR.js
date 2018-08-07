@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AL3 7PR"]={"code":"AL3 7PR","region":"England","city":"Redbourn","latitude":51.79896,"longitude":-0.39594}}(window,'GeoPostal','GB');

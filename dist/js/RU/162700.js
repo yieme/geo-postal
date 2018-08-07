@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162700"]={"code":"162700","region":"Vologodskaya oblast'","city":"Suda","latitude":59.15254,"longitude":37.5582}}(window,'GeoPostal','RU');

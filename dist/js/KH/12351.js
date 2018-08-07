@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12351"]={"code":"12351","region":"Phnom Penh","city":"Phnom Penh","latitude":11.56245,"longitude":104.91601}}(window,'GeoPostal','KH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66400"]={"code":"66400","region":"Occitanie","city":"Reiners","latitude":42.47702,"longitude":2.7068}}(window,'GeoPostal','FR');

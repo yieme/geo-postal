@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30034"]={"code":"30034","region":"Georgia","city":"Decatur","latitude":33.691167,"longitude":-84.246487}}(window,'GeoPostal','US');

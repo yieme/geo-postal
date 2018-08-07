@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72745"]={"code":"72745","region":"Arkansas","city":"Lowell","latitude":36.258946,"longitude":-94.130661}}(window,'GeoPostal','US');

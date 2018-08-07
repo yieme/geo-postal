@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["233100"]={"code":"233100","region":"Anhui","city":"Fengyang","latitude":32.87969,"longitude":117.54465}}(window,'GeoPostal','CN');

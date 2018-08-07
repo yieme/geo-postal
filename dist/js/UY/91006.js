@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91006"]={"code":"91006","region":"Canelones","city":"Soca","latitude":-34.68333,"longitude":-55.68333}}(window,'GeoPostal','UY');

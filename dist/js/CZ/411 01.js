@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["411 01"]={"code":"411 01","region":"Ustecky kraj","city":"Lovosice","latitude":50.51504,"longitude":14.05103}}(window,'GeoPostal','CZ');

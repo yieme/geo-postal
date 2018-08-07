@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65402"]={"code":"65402","region":"Occitanie","city":"Argeles-Gazost","latitude":43.01667,"longitude":-0.1}}(window,'GeoPostal','FR');

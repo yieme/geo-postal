@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70050"]={"code":"70050","region":"Louisiana","city":"Empire","latitude":29.370045,"longitude":-89.572492}}(window,'GeoPostal','US');

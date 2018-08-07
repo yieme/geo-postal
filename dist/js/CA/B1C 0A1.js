@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1C 0A1"]={"code":"B1C 0A1","region":"Nova Scotia","city":"Louisbourg","latitude":45.91684,"longitude":-59.96513}}(window,'GeoPostal','CA');

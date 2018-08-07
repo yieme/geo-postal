@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["272182"]={"code":"272182","region":"Uttar Pradesh","city":"Basti","latitude":26.8,"longitude":82.71667}}(window,'GeoPostal','IN');

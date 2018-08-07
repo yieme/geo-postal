@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35180"]={"code":"35180","region":"Alabama","city":"Warrior","latitude":33.802638,"longitude":-86.836653}}(window,'GeoPostal','US');

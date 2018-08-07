@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["470 41"]={"code":"470 41","region":"Ipeiros","city":"Neochorion","latitude":39.06944,"longitude":21.01889}}(window,'GeoPostal','GR');

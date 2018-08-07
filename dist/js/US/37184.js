@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37184"]={"code":"37184","region":"TN","city":"Watertown","latitude":36.0953,"longitude":-86.1434}}(window,'GeoPostal','US');

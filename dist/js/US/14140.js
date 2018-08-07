@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14140"]={"code":"14140","region":"NY","city":"Spring Brook","latitude":42.8072,"longitude":-78.6676}}(window,'GeoPostal','US');

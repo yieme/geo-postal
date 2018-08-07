@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17837"]={"code":"17837","region":"Pennsylvania","city":"Lewisburg","latitude":40.97274,"longitude":-76.91844}}(window,'GeoPostal','US');

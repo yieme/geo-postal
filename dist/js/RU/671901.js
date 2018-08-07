@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671901"]={"code":"671901","region":"Buryatiya, Respublika","city":"Dzhida","latitude":50.67722,"longitude":106.18056}}(window,'GeoPostal','RU');

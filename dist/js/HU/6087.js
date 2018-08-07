@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6087"]={"code":"6087","region":"Bacs-Kiskun","city":"Dunavecse","latitude":46.91407,"longitude":18.97433}}(window,'GeoPostal','HU');

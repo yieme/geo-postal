@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59037"]={"code":"59037","region":"MT","city":"Huntley","latitude":45.8905,"longitude":-108.285}}(window,'GeoPostal','US');

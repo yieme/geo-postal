@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5306"]={"code":"5306","region":"Berat","city":"Kucove","latitude":40.80028,"longitude":19.91667}}(window,'GeoPostal','AL');

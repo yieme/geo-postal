@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54437"]={"code":"54437","region":"WI","city":"Greenwood","latitude":44.7404,"longitude":-90.6229}}(window,'GeoPostal','US');

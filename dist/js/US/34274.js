@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34274"]={"code":"34274","region":"FL","city":"Nokomis","latitude":27.144,"longitude":-82.4645}}(window,'GeoPostal','US');

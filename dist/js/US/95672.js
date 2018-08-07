@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95672"]={"code":"95672","region":"California","city":"Rescue","latitude":38.719012,"longitude":-120.987999}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["650200"]={"code":"650200","region":"Xinjiang","city":"Baijiantan","latitude":45.63333,"longitude":85.18333}}(window,'GeoPostal','CN');

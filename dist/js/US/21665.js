@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21665"]={"code":"21665","region":"MD","city":"Sherwood","latitude":38.7374,"longitude":-76.3278}}(window,'GeoPostal','US');

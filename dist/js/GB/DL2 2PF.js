@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL2 2PF"]={"code":"DL2 2PF","region":"England","city":"Eryholme","latitude":54.47253,"longitude":-1.50865}}(window,'GeoPostal','GB');

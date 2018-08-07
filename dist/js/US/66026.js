@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66026"]={"code":"66026","region":"KS","city":"Fontana","latitude":38.4102,"longitude":-94.8718}}(window,'GeoPostal','US');

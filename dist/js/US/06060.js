@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06060"]={"code":"06060","region":"CT","city":"North Granby","latitude":42.0219,"longitude":-72.8409}}(window,'GeoPostal','US');

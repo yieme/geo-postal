@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44320"]={"code":"44320","region":"Pays-de-la-Loire","city":"Saint-Viaud","latitude":47.25619,"longitude":-2.01833}}(window,'GeoPostal','FR');

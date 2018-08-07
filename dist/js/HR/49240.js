@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49240"]={"code":"49240","region":"Krapinsko-zagorska zupanija","city":"Donja Stubica","latitude":45.979952,"longitude":15.97255}}(window,'GeoPostal','HR');

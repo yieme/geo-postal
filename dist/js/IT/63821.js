@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63821"]={"code":"63821","region":"Marche","city":"Porto Sant'Elpidio","latitude":43.25826,"longitude":13.75829}}(window,'GeoPostal','IT');

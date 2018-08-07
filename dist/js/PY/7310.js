@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7310"]={"code":"7310","region":"Alto Parana","city":"San Alberto","latitude":-24.96667,"longitude":-54.9}}(window,'GeoPostal','PY');

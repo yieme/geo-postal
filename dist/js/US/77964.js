@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77964"]={"code":"77964","region":"Texas","city":"Hallettsville","latitude":29.44385,"longitude":-96.94109}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08230"]={"code":"08230","region":"Grand-Est","city":"Rocroi","latitude":49.9261,"longitude":4.5222}}(window,'GeoPostal','FR');

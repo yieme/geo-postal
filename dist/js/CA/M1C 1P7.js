@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M1C 1P7"]={"code":"M1C 1P7","region":"Ontario","city":"West Hill","latitude":43.781887,"longitude":-79.165767}}(window,'GeoPostal','CA');

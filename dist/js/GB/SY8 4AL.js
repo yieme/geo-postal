@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY8 4AL"]={"code":"SY8 4AL","region":"England","city":"Woofferton","latitude":52.3126,"longitude":-2.70515}}(window,'GeoPostal','GB');

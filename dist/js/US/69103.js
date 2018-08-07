@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69103"]={"code":"69103","region":"NE","city":"North Platte","latitude":41.0464,"longitude":-100.7469}}(window,'GeoPostal','US');

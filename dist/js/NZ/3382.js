@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3382"]={"code":"3382","region":"Waikato","city":"Turangi","latitude":-39,"longitude":175.93333}}(window,'GeoPostal','NZ');

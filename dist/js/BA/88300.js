@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88300"]={"code":"88300","region":"Federacija Bosne i Hercegovine","city":"Capljina","latitude":43.12139,"longitude":17.68444}}(window,'GeoPostal','BA');

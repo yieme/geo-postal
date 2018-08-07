@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77194"]={"code":"77194","region":"Dalarnas lan","city":"Ludvika","latitude":60.14959,"longitude":15.18776}}(window,'GeoPostal','SE');

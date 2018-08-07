@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87075"]={"code":"87075","region":"Calabria","city":"Trebisacce","latitude":39.87081,"longitude":16.53119}}(window,'GeoPostal','IT');

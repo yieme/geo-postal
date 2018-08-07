@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1400"]={"code":"1400","region":"Veles","city":"Veles","latitude":41.71556,"longitude":21.77556}}(window,'GeoPostal','MK');

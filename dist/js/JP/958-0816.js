@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["958-0816"]={"code":"958-0816","region":"Niigata","city":"Murakami","latitude":38.217,"longitude":139.483}}(window,'GeoPostal','JP');

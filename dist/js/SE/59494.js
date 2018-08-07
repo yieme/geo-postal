@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59494"]={"code":"59494","region":"Kalmar lan","city":"Forserum","latitude":57.95,"longitude":16.46667}}(window,'GeoPostal','SE');

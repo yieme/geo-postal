@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15518"]={"code":"15518","region":"Brandenburg","city":"Furstenwalde-West","latitude":52.39158,"longitude":13.94524}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22000"]={"code":"22000","region":"Terengganu","city":"Jertih","latitude":5.7336,"longitude":102.4897}}(window,'GeoPostal','MY');

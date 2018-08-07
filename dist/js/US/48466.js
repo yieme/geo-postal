@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48466"]={"code":"48466","region":"Michigan","city":"Peck","latitude":43.25833,"longitude":-82.81639}}(window,'GeoPostal','US');

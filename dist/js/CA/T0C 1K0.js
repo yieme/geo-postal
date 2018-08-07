@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 1K0"]={"code":"T0C 1K0","region":"Alberta","city":"Gadsby","latitude":52.30013,"longitude":-112.35186}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-343"]={"code":"72-343","region":"Zachodniopomorskie","city":"Karnice","latitude":54.03001,"longitude":15.05496}}(window,'GeoPostal','PL');

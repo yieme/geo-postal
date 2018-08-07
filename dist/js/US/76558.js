@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76558"]={"code":"76558","region":"TX","city":"Mound","latitude":31.3514,"longitude":-97.6444}}(window,'GeoPostal','US');

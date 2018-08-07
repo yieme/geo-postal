@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35113"]={"code":"35113","region":"Taza-Al Hoceima-Taounate","city":"Guercif","latitude":34.22568,"longitude":-3.35361}}(window,'GeoPostal','MA');

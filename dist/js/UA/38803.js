@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38803"]={"code":"38803","region":"Poltavska oblast","city":"Chutove","latitude":49.71042,"longitude":35.16026}}(window,'GeoPostal','UA');

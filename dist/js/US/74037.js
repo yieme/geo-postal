@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74037"]={"code":"74037","region":"Oklahoma","city":"Jenks","latitude":36.011438,"longitude":-95.977935}}(window,'GeoPostal','US');

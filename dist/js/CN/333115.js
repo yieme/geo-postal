@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333115"]={"code":"333115","region":"Jiangxi","city":"Dagang","latitude":29.54661,"longitude":116.48235}}(window,'GeoPostal','CN');

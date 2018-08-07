@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43000"]={"code":"43000","region":"Marrakech-Tensift-Al Haouz","city":"Sidi Moussa","latitude":32.27209,"longitude":-7.20095}}(window,'GeoPostal','MA');

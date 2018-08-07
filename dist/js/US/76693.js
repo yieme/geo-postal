@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76693"]={"code":"76693","region":"TX","city":"Wortham","latitude":31.7865,"longitude":-96.4202}}(window,'GeoPostal','US');

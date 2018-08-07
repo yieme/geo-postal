@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36047"]={"code":"36047","region":"AL","city":"Letohatchee","latitude":32.0862,"longitude":-86.488}}(window,'GeoPostal','US');

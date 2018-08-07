@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59833"]={"code":"59833","region":"MT","city":"Florence","latitude":46.631,"longitude":-114.0945}}(window,'GeoPostal','US');

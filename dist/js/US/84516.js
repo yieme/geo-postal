@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84516"]={"code":"84516","region":"UT","city":"Clawson","latitude":39.1198,"longitude":-111.1008}}(window,'GeoPostal','US');

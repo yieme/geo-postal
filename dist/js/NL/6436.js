@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6436"]={"code":"6436","region":"Limburg","city":"Amstenrade","latitude":50.93917,"longitude":5.92361}}(window,'GeoPostal','NL');

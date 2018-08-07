@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66770"]={"code":"66770","region":"KS","city":"Riverton","latitude":37.081,"longitude":-94.7175}}(window,'GeoPostal','US');

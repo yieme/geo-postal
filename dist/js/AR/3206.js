@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3206"]={"code":"3206","region":"Entre Rios","city":"Federacion","latitude":-31.00621,"longitude":-57.89962}}(window,'GeoPostal','AR');

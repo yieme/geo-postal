@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471 29"]={"code":"471 29","region":"Liberecky kraj","city":"Brniste","latitude":50.72919,"longitude":14.70338}}(window,'GeoPostal','CZ');

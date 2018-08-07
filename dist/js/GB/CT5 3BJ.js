@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT5 3BJ"]={"code":"CT5 3BJ","region":"England","city":"Whitstable","latitude":51.3607,"longitude":1.0257}}(window,'GeoPostal','GB');

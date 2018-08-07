@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91010"]={"code":"91010","region":"California","city":"Duarte","latitude":34.138317,"longitude":-117.963453}}(window,'GeoPostal','US');

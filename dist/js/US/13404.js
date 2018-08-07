@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13404"]={"code":"13404","region":"New York","city":"Martinsburg","latitude":43.7375,"longitude":-75.47}}(window,'GeoPostal','US');

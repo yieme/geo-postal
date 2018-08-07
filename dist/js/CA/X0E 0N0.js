@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0E 0N0"]={"code":"X0E 0N0","region":"Northwest Territories","city":"Fort Simpson","latitude":61.86269,"longitude":-121.35159}}(window,'GeoPostal','CA');

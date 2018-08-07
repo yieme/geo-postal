@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3070"]={"code":"3070","region":"Hovedstaden","city":"Espergaerde","latitude":56,"longitude":12.56667}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V7P 1M7"]={"code":"V7P 1M7","region":"British Columbia","city":"North Vancouver","latitude":49.321956,"longitude":-123.106417}}(window,'GeoPostal','CA');

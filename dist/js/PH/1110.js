@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1110"]={"code":"1110","region":"Nueva Ecija","city":"Santo Tomas","latitude":15.75389,"longitude":120.95083}}(window,'GeoPostal','PH');

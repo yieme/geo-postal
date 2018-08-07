@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59013"]={"code":"59013","region":"MT","city":"Boyd","latitude":45.4577,"longitude":-109.0665}}(window,'GeoPostal','US');

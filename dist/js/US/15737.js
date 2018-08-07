@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15737"]={"code":"15737","region":"PA","city":"Elmora","latitude":40.6076,"longitude":-78.7524}}(window,'GeoPostal','US');

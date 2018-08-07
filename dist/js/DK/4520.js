@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4520"]={"code":"4520","region":"Sjelland","city":"Svinninge","latitude":55.72111,"longitude":11.46547}}(window,'GeoPostal','DK');

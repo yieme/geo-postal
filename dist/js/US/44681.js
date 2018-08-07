@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44681"]={"code":"44681","region":"Ohio","city":"Sugarcreek","latitude":40.50312,"longitude":-81.64096}}(window,'GeoPostal','US');

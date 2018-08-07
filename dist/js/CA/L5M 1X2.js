@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L5M 1X2"]={"code":"L5M 1X2","region":"Ontario","city":"Streetsville","latitude":43.580645,"longitude":-79.713786}}(window,'GeoPostal','CA');

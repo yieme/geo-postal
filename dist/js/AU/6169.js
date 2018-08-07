@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6169"]={"code":"6169","region":"Western Australia","city":"Waikiki","latitude":-32.31606,"longitude":115.7546}}(window,'GeoPostal','AU');

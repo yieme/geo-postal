@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19300"]={"code":"19300","region":"Attiki","city":"Aspropirgos","latitude":38.06667,"longitude":23.58333}}(window,'GeoPostal','GR');

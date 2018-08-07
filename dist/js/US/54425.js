@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54425"]={"code":"54425","region":"WI","city":"Dorchester","latitude":45.0042,"longitude":-90.3596}}(window,'GeoPostal','US');

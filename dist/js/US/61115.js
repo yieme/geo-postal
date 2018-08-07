@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61115"]={"code":"61115","region":"IL","city":"Machesney Park","latitude":42.3545,"longitude":-89.0397}}(window,'GeoPostal','US');

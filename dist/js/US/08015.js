@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08015"]={"code":"08015","region":"New Jersey","city":"Browns Mills","latitude":39.97261,"longitude":-74.58293}}(window,'GeoPostal','US');

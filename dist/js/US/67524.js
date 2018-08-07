@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67524"]={"code":"67524","region":"Kansas","city":"Chase","latitude":38.35556,"longitude":-98.34861}}(window,'GeoPostal','US');

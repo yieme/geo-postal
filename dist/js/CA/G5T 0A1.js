@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G5T 0A1"]={"code":"G5T 0A1","region":"Quebec","city":"Degelis","latitude":47.54734,"longitude":-68.64309}}(window,'GeoPostal','CA');

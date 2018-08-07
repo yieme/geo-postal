@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98617"]={"code":"98617","region":"Washington","city":"Dallesport","latitude":45.61734,"longitude":-121.17952}}(window,'GeoPostal','US');

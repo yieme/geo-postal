@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59315"]={"code":"59315","region":"Tekirdag","city":"Malkara","latitude":40.89,"longitude":26.90111}}(window,'GeoPostal','TR');

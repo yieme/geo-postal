@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 0Y0"]={"code":"T0C 0Y0","region":"Alberta","city":"Clive","latitude":52.46682,"longitude":-113.45198}}(window,'GeoPostal','CA');

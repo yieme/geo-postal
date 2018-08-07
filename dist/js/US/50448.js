@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50448"]={"code":"50448","region":"IA","city":"Kensett","latitude":43.3536,"longitude":-93.2105}}(window,'GeoPostal','US');

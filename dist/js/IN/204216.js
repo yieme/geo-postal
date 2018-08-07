@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["204216"]={"code":"204216","region":"Uttar Pradesh","city":"Sirsaganj","latitude":27.05,"longitude":78.7}}(window,'GeoPostal','IN');

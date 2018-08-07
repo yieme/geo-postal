@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24054"]={"code":"24054","region":"Lombardia","city":"Calcio","latitude":45.50948,"longitude":9.85126}}(window,'GeoPostal','IT');

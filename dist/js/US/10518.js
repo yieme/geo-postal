@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10518"]={"code":"10518","region":"NY","city":"Cross River","latitude":41.2722,"longitude":-73.602}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49102"]={"code":"49102","region":"Michigan","city":"Berrien Center","latitude":41.955312,"longitude":-86.275213}}(window,'GeoPostal','US');

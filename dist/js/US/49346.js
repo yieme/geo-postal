@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49346"]={"code":"49346","region":"Michigan","city":"Stanwood","latitude":43.57972,"longitude":-85.44917}}(window,'GeoPostal','US');

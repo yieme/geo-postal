@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95502"]={"code":"95502","region":"California","city":"Eureka","latitude":40.783315,"longitude":-124.191018}}(window,'GeoPostal','US');

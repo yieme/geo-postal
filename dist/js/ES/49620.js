@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49620"]={"code":"49620","region":"Castilla y Leon","city":"Santa Cristina de la Polvorosa","latitude":41.99985,"longitude":-5.71355}}(window,'GeoPostal','ES');

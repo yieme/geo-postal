@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45615-000"]={"code":"45615-000","region":"Bahia","city":"Buerarema","latitude":-14.95944,"longitude":-39.29972}}(window,'GeoPostal','BR');

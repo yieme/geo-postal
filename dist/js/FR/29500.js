@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29500"]={"code":"29500","region":"Bretagne","city":"Ergue-Gaberic","latitude":47.99562,"longitude":-4.02223}}(window,'GeoPostal','FR');

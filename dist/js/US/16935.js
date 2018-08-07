@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16935"]={"code":"16935","region":"Pennsylvania","city":"Middlebury Center","latitude":41.866667,"longitude":-77.28306}}(window,'GeoPostal','US');

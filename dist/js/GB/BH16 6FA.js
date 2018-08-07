@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH16 6FA"]={"code":"BH16 6FA","region":"England","city":"Lytchett Matravers","latitude":50.75826,"longitude":-2.07806}}(window,'GeoPostal','GB');

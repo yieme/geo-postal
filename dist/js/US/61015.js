@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61015"]={"code":"61015","region":"IL","city":"Chana","latitude":41.9933,"longitude":-89.2117}}(window,'GeoPostal','US');

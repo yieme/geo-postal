@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02650"]={"code":"02650","region":"Hauts-de-France","city":"Crezancy","latitude":49.04833,"longitude":3.51047}}(window,'GeoPostal','FR');

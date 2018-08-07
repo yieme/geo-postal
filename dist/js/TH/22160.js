@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22160"]={"code":"22160","region":"Chanthaburi","city":"Na Yai Am","latitude":12.78153,"longitude":101.82256}}(window,'GeoPostal','TH');

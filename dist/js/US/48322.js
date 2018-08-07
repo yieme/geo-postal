@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48322"]={"code":"48322","region":"Michigan","city":"West Bloomfield","latitude":42.59617,"longitude":-83.3875}}(window,'GeoPostal','US');

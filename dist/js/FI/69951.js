@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69951"]={"code":"69951","region":"Keski-Pohjanmaa","city":"Perho","latitude":63.21667,"longitude":24.41667}}(window,'GeoPostal','FI');

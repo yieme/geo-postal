@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59071"]={"code":"59071","region":"MT","city":"Roscoe","latitude":45.268,"longitude":-109.5658}}(window,'GeoPostal','US');

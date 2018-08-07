@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15172"]={"code":"15172","region":"Ulaanbaatar","city":"Ulaanbaatar","latitude":47.90771,"longitude":106.88324}}(window,'GeoPostal','MN');

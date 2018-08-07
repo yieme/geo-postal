@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37645"]={"code":"37645","region":"Poltavska oblast","city":"Velikiye Sorochintsy","latitude":50.02314,"longitude":33.94144}}(window,'GeoPostal','UA');

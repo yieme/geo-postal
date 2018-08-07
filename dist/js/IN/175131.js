@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["175131"]={"code":"175131","region":"Himachal Pradesh","city":"Manali","latitude":32.26667,"longitude":77.16667}}(window,'GeoPostal','IN');

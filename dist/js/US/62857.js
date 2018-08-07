@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62857"]={"code":"62857","region":"IL","city":"St James","latitude":38.91,"longitude":-88.87}}(window,'GeoPostal','US');

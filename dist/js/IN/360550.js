@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["360550"]={"code":"360550","region":"Gujarat","city":"Ranavav","latitude":21.68417,"longitude":69.74083}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3697"]={"code":"3697","region":"Victoria","city":"Tawonga","latitude":-36.68954,"longitude":147.14212}}(window,'GeoPostal','AU');

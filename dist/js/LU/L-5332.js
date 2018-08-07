@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-5332"]={"code":"L-5332","region":"Luxembourg","city":"Contern","latitude":49.58194,"longitude":6.22667}}(window,'GeoPostal','LU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12831"]={"code":"12831","region":"NY","city":"Gansevoort","latitude":43.1803,"longitude":-73.7053}}(window,'GeoPostal','US');

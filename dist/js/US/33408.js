@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33408"]={"code":"33408","region":"Florida","city":"Juno Beach","latitude":26.87978,"longitude":-80.05337}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77625"]={"code":"77625","region":"Texas","city":"Kountze","latitude":30.313655,"longitude":-94.282715}}(window,'GeoPostal','US');

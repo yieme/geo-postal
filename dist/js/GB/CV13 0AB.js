@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV13 0AB"]={"code":"CV13 0AB","region":"England","city":"Sutton Cheney","latitude":52.60075,"longitude":-1.38476}}(window,'GeoPostal','GB');

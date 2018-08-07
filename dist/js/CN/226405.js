@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226405"]={"code":"226405","region":"Jiangsu","city":"Hekou","latitude":32.49038,"longitude":120.8215}}(window,'GeoPostal','CN');

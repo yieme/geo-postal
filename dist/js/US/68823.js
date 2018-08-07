@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68823"]={"code":"68823","region":"Nebraska","city":"Burwell","latitude":41.78167,"longitude":-99.13315}}(window,'GeoPostal','US');

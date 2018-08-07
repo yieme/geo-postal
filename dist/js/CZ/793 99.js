@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["793 99"]={"code":"793 99","region":"Moravskoslezsky kraj","city":"Osoblaha","latitude":50.27517,"longitude":17.71523}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24854"]={"code":"24854","region":"WV","city":"Kopperston","latitude":37.744,"longitude":-81.575}}(window,'GeoPostal','US');

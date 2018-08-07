@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-3703"]={"code":"MD-3703","region":"Straseni","city":"Straseni","latitude":47.14139,"longitude":28.61028}}(window,'GeoPostal','MD');

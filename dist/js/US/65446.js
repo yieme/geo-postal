@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65446"]={"code":"65446","region":"Missouri","city":"Cherryville","latitude":37.783873,"longitude":-91.235158}}(window,'GeoPostal','US');

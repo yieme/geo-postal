@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["730721"]={"code":"730721","region":"Gansu","city":"Dagou","latitude":35.97986,"longitude":105.23253}}(window,'GeoPostal','CN');

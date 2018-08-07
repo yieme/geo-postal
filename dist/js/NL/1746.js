@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1746"]={"code":"1746","region":"Noord-Holland","city":"Harenkarspel","latitude":52.73416,"longitude":4.77682}}(window,'GeoPostal','NL');

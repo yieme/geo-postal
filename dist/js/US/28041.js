@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28041"]={"code":"28041","region":"NC","city":"Faith","latitude":35.5817,"longitude":-80.4581}}(window,'GeoPostal','US');

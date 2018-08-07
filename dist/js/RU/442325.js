@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442325"]={"code":"442325","region":"Penzenskaya oblast'","city":"Chaadayevka","latitude":53.1427,"longitude":45.9122}}(window,'GeoPostal','RU');

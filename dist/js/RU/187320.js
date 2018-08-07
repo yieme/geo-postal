@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187320"]={"code":"187320","region":"Leningradskaya oblast'","city":"Shlissel'burg","latitude":59.9473,"longitude":31.03845}}(window,'GeoPostal','RU');

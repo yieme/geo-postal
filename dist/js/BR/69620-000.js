@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69620-000"]={"code":"69620-000","region":"Amazonas","city":"Santo Antonio do Ica","latitude":-3.10222,"longitude":-67.93972}}(window,'GeoPostal','BR');

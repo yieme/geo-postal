@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07716"]={"code":"07716","region":"New Jersey","city":"Atlantic Highlands","latitude":40.405341,"longitude":-74.037745}}(window,'GeoPostal','US');

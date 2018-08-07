@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27740"]={"code":"27740","region":"Normandie","city":"Poses","latitude":49.30539,"longitude":1.24353}}(window,'GeoPostal','FR');

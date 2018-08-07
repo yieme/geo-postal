@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE33 9HZ"]={"code":"PE33 9HZ","region":"England","city":"Marham","latitude":52.65876,"longitude":0.52391}}(window,'GeoPostal','GB');

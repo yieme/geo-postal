@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44580"]={"code":"44580","region":"Aragon","city":"Valderrobres","latitude":40.87209,"longitude":0.15431}}(window,'GeoPostal','ES');

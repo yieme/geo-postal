@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83837"]={"code":"83837","region":"Idaho","city":"Kellogg","latitude":47.53826,"longitude":-116.11933}}(window,'GeoPostal','US');

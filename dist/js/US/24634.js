@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24634"]={"code":"24634","region":"VA","city":"Pilgrims Knob","latitude":37.2746,"longitude":-81.9024}}(window,'GeoPostal','US');

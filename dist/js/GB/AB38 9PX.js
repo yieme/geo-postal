@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB38 9PX"]={"code":"AB38 9PX","region":"Scotland","city":"Aberlour","latitude":57.47076,"longitude":-3.22509}}(window,'GeoPostal','GB');

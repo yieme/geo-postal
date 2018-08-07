@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38767"]={"code":"38767","region":"Canarias","city":"El Paso","latitude":28.65007,"longitude":-17.88274}}(window,'GeoPostal','ES');

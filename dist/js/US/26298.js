@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26298"]={"code":"26298","region":"WV","city":"Bergoo","latitude":38.4865,"longitude":-80.3006}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86431"]={"code":"86431","region":"AZ","city":"Chloride","latitude":35.3896,"longitude":-114.2221}}(window,'GeoPostal','US');

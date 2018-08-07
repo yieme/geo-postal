@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42504"]={"code":"42504","region":"HaMerkaz","city":"Netanya","latitude":32.33361,"longitude":34.85778}}(window,'GeoPostal','IL');

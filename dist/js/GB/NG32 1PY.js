@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG32 1PY"]={"code":"NG32 1PY","region":"England","city":"Croxton Kerrial","latitude":52.85524,"longitude":-0.76115}}(window,'GeoPostal','GB');

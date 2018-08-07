@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29640"]={"code":"29640","region":"Niedersachsen","city":"Schneverdingen","latitude":53.11685,"longitude":9.79524}}(window,'GeoPostal','DE');

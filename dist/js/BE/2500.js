@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2500"]={"code":"2500","region":"Antwerpen","city":"Lier","latitude":51.13128,"longitude":4.57042}}(window,'GeoPostal','BE');

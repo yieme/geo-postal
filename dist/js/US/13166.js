@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13166"]={"code":"13166","region":"NY","city":"Weedsport","latitude":43.0489,"longitude":-76.5425}}(window,'GeoPostal','US');

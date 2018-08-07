@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["952-0303"]={"code":"952-0303","region":"Niigata","city":"Sado","latitude":38.017,"longitude":138.367}}(window,'GeoPostal','JP');

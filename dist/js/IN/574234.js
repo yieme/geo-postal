@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["574234"]={"code":"574234","region":"Karnataka","city":"Sulya","latitude":12.56667,"longitude":75.38333}}(window,'GeoPostal','IN');

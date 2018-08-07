@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04901"]={"code":"04901","region":"Maine","city":"Winslow","latitude":44.54701,"longitude":-69.62116}}(window,'GeoPostal','US');

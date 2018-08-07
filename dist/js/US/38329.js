@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38329"]={"code":"38329","region":"Tennessee","city":"Decaturville","latitude":35.58424,"longitude":-88.11948}}(window,'GeoPostal','US');

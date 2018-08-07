@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3384"]={"code":"3384","region":"Victoria","city":"Paradise","latitude":-36.83333,"longitude":143.13333}}(window,'GeoPostal','AU');

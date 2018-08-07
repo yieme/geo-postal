@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["434 01"]={"code":"434 01","region":"Ustecky kraj","city":"Most","latitude":50.50301,"longitude":13.63617}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28052"]={"code":"28052","region":"North Carolina","city":"Gastonia","latitude":35.26208,"longitude":-81.1873}}(window,'GeoPostal','US');

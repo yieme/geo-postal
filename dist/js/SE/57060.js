@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57060"]={"code":"57060","region":"Ostergotlands lan","city":"OEsterbymo","latitude":57.82465,"longitude":15.27357}}(window,'GeoPostal','SE');

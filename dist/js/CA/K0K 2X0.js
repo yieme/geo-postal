@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 2X0"]={"code":"K0K 2X0","region":"Ontario","city":"Roseneath","latitude":44.19276,"longitude":-78.0576}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2310"]={"code":"2310","region":"Antwerpen","city":"Rijkevorsel","latitude":51.34795,"longitude":4.76053}}(window,'GeoPostal','BE');

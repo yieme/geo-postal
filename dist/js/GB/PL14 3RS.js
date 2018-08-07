@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 3RS"]={"code":"PL14 3RS","region":"England","city":"Menheniot","latitude":50.44006,"longitude":-4.41194}}(window,'GeoPostal','GB');

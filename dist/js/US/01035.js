@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01035"]={"code":"01035","region":"Massachusetts","city":"Hadley","latitude":42.35989,"longitude":-72.574175}}(window,'GeoPostal','US');

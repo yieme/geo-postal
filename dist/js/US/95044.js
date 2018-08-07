@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95044"]={"code":"95044","region":"California","city":"Redwood Estates","latitude":37.15842,"longitude":-121.986}}(window,'GeoPostal','US');

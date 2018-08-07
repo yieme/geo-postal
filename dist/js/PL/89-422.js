@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-422"]={"code":"89-422","region":"Wielkopolskie","city":"Sypniewo","latitude":53.46823,"longitude":16.60583}}(window,'GeoPostal','PL');

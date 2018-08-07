@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11600"]={"code":"11600","region":"Andalucia","city":"Ubrique","latitude":36.67778,"longitude":-5.446}}(window,'GeoPostal','ES');

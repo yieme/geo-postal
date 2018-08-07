@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32200"]={"code":"32200","region":"Perak","city":"Lumut","latitude":4.2323,"longitude":100.6298}}(window,'GeoPostal','MY');

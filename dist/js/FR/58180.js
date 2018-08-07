@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58180"]={"code":"58180","region":"Bourgogne-Franche-Comte","city":"Marzy","latitude":46.98124,"longitude":3.09352}}(window,'GeoPostal','FR');

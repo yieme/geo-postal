@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632106"]={"code":"632106","region":"Tamil Nadu","city":"Pallikondai","latitude":12.91667,"longitude":78.93333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23192"]={"code":"23192","region":"Virginia","city":"Montpelier","latitude":37.810458,"longitude":-77.594075}}(window,'GeoPostal','US');

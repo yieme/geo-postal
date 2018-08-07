@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["917192"]={"code":"917192","region":"Calarasi","city":"Lehliu","latitude":44.46667,"longitude":26.81667}}(window,'GeoPostal','RO');

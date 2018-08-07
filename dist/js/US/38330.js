@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38330"]={"code":"38330","region":"Tennessee","city":"Dyer","latitude":36.069775,"longitude":-89.01754}}(window,'GeoPostal','US');

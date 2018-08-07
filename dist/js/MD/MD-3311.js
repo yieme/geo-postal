@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-3311"]={"code":"MD-3311","region":"Criuleni","city":"Tiraspolul Nou","latitude":46.83194,"longitude":29.57667}}(window,'GeoPostal','MD');

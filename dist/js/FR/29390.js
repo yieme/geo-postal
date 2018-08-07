@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29390"]={"code":"29390","region":"Bretagne","city":"Scaer","latitude":48.03333,"longitude":-3.7}}(window,'GeoPostal','FR');

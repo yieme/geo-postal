@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34222"]={"code":"34222","region":"Florida","city":"Ellenton","latitude":27.5217,"longitude":-82.5276}}(window,'GeoPostal','US');

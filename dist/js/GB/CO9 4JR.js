@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO9 4JR"]={"code":"CO9 4JR","region":"England","city":"Tilbury Juxta Clare","latitude":52.03049,"longitude":0.56825}}(window,'GeoPostal','GB');

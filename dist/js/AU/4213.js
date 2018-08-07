@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4213"]={"code":"4213","region":"Queensland","city":"Worongary","latitude":-28.05,"longitude":153.35}}(window,'GeoPostal','AU');

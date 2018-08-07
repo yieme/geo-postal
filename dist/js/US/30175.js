@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30175"]={"code":"30175","region":"GA","city":"Talking Rock","latitude":34.5394,"longitude":-84.4912}}(window,'GeoPostal','US');

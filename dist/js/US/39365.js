@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39365"]={"code":"39365","region":"Mississippi","city":"Union","latitude":32.57153,"longitude":-89.12145}}(window,'GeoPostal','US');

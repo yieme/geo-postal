@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682901"]={"code":"682901","region":"Khabarovskiy kray","city":"Korfovskiy","latitude":48.21833,"longitude":135.05639}}(window,'GeoPostal','RU');

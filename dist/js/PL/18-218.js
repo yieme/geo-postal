@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-218"]={"code":"18-218","region":"Podlaskie","city":"Sokoly","latitude":52.99314,"longitude":22.7005}}(window,'GeoPostal','PL');

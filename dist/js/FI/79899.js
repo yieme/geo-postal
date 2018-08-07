@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79899"]={"code":"79899","region":"Pohjois-Savo","city":"Leppavirta","latitude":62.49009,"longitude":27.78262}}(window,'GeoPostal','FI');

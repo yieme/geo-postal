@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX15 4BZ"]={"code":"OX15 4BZ","region":"England","city":"Boddicott","latitude":52.03618,"longitude":-1.33046}}(window,'GeoPostal','GB');

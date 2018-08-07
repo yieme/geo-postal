@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95813"]={"code":"95813","region":"Veracruz de Ignacio de la Llave","city":"Juan Rodriguez Clara","latitude":17.98333,"longitude":-95.40833}}(window,'GeoPostal','MX');

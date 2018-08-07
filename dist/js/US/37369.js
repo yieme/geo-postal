@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37369"]={"code":"37369","region":"TN","city":"Reliance","latitude":35.1807,"longitude":-84.541}}(window,'GeoPostal','US');

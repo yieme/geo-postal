@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63505"]={"code":"63505","region":"Hessen","city":"Langenselbold","latitude":50.17657,"longitude":9.04003}}(window,'GeoPostal','DE');

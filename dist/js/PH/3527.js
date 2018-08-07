@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3527"]={"code":"3527","region":"Cagayan","city":"Dagupan","latitude":17.7061,"longitude":121.5047}}(window,'GeoPostal','PH');

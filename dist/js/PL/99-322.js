@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-322"]={"code":"99-322","region":"Lodzkie","city":"Oporow","latitude":52.26448,"longitude":19.56416}}(window,'GeoPostal','PL');

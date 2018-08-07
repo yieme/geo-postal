@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62414"]={"code":"62414","region":"Illinois","city":"Beecher City","latitude":39.18694,"longitude":-88.78583}}(window,'GeoPostal','US');

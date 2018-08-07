@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46620"]={"code":"46620","region":"IN","city":"Bendix Corp","latitude":41.68,"longitude":-86.25}}(window,'GeoPostal','US');

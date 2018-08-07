@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23032"]={"code":"23032","region":"VA","city":"Church View","latitude":37.675,"longitude":-76.6629}}(window,'GeoPostal','US');

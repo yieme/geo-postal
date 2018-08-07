@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2714"]={"code":"2714","region":"New South Wales","city":"Tocumwal","latitude":-35.81221,"longitude":145.56905}}(window,'GeoPostal','AU');

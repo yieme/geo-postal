@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["650902"]={"code":"650902","region":"Kemerovskaya oblast'","city":"Borovoy","latitude":55.43333,"longitude":86.08333}}(window,'GeoPostal','RU');

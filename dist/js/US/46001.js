@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46001"]={"code":"46001","region":"Indiana","city":"Alexandria","latitude":40.26282,"longitude":-85.67581}}(window,'GeoPostal','US');

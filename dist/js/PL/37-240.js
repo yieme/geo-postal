@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-240"]={"code":"37-240","region":"Podkarpackie","city":"Przeworsk","latitude":50.05912,"longitude":22.49408}}(window,'GeoPostal','PL');

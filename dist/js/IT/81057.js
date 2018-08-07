@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81057"]={"code":"81057","region":"Campania","city":"Teano","latitude":41.25132,"longitude":14.06652}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55660"]={"code":"55660","region":"Mexico","city":"Apaxco de Ocampo","latitude":19.97389,"longitude":-99.17389}}(window,'GeoPostal','MX');

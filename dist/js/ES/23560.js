@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23560"]={"code":"23560","region":"Andalucia","city":"Huelma","latitude":37.64784,"longitude":-3.45985}}(window,'GeoPostal','ES');

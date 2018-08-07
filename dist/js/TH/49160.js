@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49160"]={"code":"49160","region":"Mukdahan","city":"Mukdahan","latitude":16.54531,"longitude":104.72351}}(window,'GeoPostal','TH');

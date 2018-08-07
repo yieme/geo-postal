@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39465"]={"code":"39465","region":"MS","city":"Petal","latitude":31.3472,"longitude":-89.2222}}(window,'GeoPostal','US');

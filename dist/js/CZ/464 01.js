@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["464 01"]={"code":"464 01","region":"Liberecky kraj","city":"Frydlant","latitude":50.92139,"longitude":15.07974}}(window,'GeoPostal','CZ');

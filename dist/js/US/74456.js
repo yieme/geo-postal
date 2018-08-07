@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74456"]={"code":"74456","region":"OK","city":"Preston","latitude":35.7115,"longitude":-95.9917}}(window,'GeoPostal','US');

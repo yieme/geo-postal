@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA11 5NH"]={"code":"SA11 5NH","region":"Wales","city":"Pontneddfechan","latitude":51.75751,"longitude":-3.58831}}(window,'GeoPostal','GB');

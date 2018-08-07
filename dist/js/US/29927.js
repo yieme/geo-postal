@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29927"]={"code":"29927","region":"SC","city":"Hardeeville","latitude":32.2635,"longitude":-81.0669}}(window,'GeoPostal','US');

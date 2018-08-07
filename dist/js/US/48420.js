@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48420"]={"code":"48420","region":"Michigan","city":"Clio","latitude":43.175568,"longitude":-83.720366}}(window,'GeoPostal','US');

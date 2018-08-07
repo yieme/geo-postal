@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49029"]={"code":"49029","region":"MI","city":"Burlington","latitude":42.1239,"longitude":-85.105}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28693"]={"code":"28693","region":"North Carolina","city":"Warrensville","latitude":36.46212,"longitude":-81.54648}}(window,'GeoPostal','US');

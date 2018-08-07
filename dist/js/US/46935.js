@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46935"]={"code":"46935","region":"IN","city":"Grass Creek","latitude":40.9475,"longitude":-86.4044}}(window,'GeoPostal','US');

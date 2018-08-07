@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W1T 2RJ"]={"code":"W1T 2RJ","region":"England","city":"Kent","latitude":51.25,"longitude":0.75}}(window,'GeoPostal','GB');

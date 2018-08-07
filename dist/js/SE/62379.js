@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62379"]={"code":"62379","region":"Gotlands lan","city":"Klintehamn","latitude":57.38667,"longitude":18.20371}}(window,'GeoPostal','SE');

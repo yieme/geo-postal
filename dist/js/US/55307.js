@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55307"]={"code":"55307","region":"Minnesota","city":"Arlington","latitude":44.6083,"longitude":-94.08053}}(window,'GeoPostal','US');

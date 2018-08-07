@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7021"]={"code":"7021","region":"Korce","city":"Maliq","latitude":40.70583,"longitude":20.69972}}(window,'GeoPostal','AL');

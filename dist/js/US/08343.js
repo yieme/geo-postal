@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08343"]={"code":"08343","region":"NJ","city":"Monroeville","latitude":39.6442,"longitude":-75.1568}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65759"]={"code":"65759","region":"MO","city":"Taneyville","latitude":36.7405,"longitude":-93.028}}(window,'GeoPostal','US');

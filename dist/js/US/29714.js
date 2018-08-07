@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29714"]={"code":"29714","region":"SC","city":"Fort Lawn","latitude":34.7006,"longitude":-80.9092}}(window,'GeoPostal','US');

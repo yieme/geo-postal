@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61721"]={"code":"61721","region":"IL","city":"Armington","latitude":40.3613,"longitude":-89.3231}}(window,'GeoPostal','US');

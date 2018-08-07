@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51415"]={"code":"51415","region":"Istarska zupanija","city":"Lovran","latitude":45.29194,"longitude":14.27417}}(window,'GeoPostal','HR');

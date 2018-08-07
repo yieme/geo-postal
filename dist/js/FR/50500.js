@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50500"]={"code":"50500","region":"Normandie","city":"Catz","latitude":49.3114,"longitude":-1.1789}}(window,'GeoPostal','FR');

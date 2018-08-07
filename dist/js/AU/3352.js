@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3352"]={"code":"3352","region":"Victoria","city":"Addington","latitude":-37.38333,"longitude":143.68333}}(window,'GeoPostal','AU');

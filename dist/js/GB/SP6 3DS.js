@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP6 3DS"]={"code":"SP6 3DS","region":"England","city":"Daggons","latitude":50.91224,"longitude":-1.85842}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311"]={"code":"311","region":"Vesturland","city":"Borgarnes","latitude":64.53834,"longitude":-21.92064}}(window,'GeoPostal','IS');

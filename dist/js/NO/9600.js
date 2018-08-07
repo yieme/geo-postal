@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9600"]={"code":"9600","region":"Finnmark","city":"Hammerfest","latitude":70.66336,"longitude":23.68209}}(window,'GeoPostal','NO');

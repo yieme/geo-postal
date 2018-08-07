@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26431"]={"code":"26431","region":"WV","city":"Shinnston","latitude":39.3888,"longitude":-80.2834}}(window,'GeoPostal','US');

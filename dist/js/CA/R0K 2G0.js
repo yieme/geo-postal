@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0K 2G0"]={"code":"R0K 2G0","region":"Manitoba","city":"Wawanesa","latitude":49.59501,"longitude":-99.68476}}(window,'GeoPostal','CA');

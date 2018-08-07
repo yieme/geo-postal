@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55076"]={"code":"55076","region":"Minnesota","city":"Inver Grove Heights","latitude":44.84802,"longitude":-93.04272}}(window,'GeoPostal','US');

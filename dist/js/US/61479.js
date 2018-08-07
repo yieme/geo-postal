@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61479"]={"code":"61479","region":"IL","city":"Speer","latitude":40.9872,"longitude":-89.652}}(window,'GeoPostal','US');

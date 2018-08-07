@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2688"]={"code":"2688","region":"Oppland","city":"Fossbergom","latitude":61.83773,"longitude":8.56842}}(window,'GeoPostal','NO');

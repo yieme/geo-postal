@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64633"]={"code":"64633","region":"Missouri","city":"Carrollton","latitude":39.36151,"longitude":-93.496191}}(window,'GeoPostal','US');

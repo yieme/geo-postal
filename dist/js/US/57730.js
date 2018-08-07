@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57730"]={"code":"57730","region":"South Dakota","city":"Custer","latitude":43.76665,"longitude":-103.59881}}(window,'GeoPostal','US');

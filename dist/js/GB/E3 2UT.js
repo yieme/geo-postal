@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E3 2UT"]={"code":"E3 2UT","region":"England","city":"Fairfield","latitude":53.27009,"longitude":-1.89643}}(window,'GeoPostal','GB');

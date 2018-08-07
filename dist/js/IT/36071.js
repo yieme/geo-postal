@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36071"]={"code":"36071","region":"Veneto","city":"Arzignano","latitude":45.51929,"longitude":11.33859}}(window,'GeoPostal','IT');

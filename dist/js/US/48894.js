@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48894"]={"code":"48894","region":"Michigan","city":"Westphalia","latitude":42.929149,"longitude":-84.798293}}(window,'GeoPostal','US');

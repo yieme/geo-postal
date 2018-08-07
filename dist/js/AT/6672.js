@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6672"]={"code":"6672","region":"Tirol","city":"Nesselwangle","latitude":47.48333,"longitude":10.61667}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8400"]={"code":"8400","region":"Zurich","city":"Stadt Winterthur (Kreis 1) / Toessfeld","latitude":47.4934,"longitude":8.71512}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99714"]={"code":"99714","region":"AK","city":"Salcha","latitude":64.5091,"longitude":-146.953}}(window,'GeoPostal','US');

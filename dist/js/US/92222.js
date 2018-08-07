@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92222"]={"code":"92222","region":"California","city":"Bard","latitude":32.793453,"longitude":-114.530313}}(window,'GeoPostal','US');

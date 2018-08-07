@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05778"]={"code":"05778","region":"VT","city":"Whiting","latitude":43.894,"longitude":-73.203}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26204"]={"code":"26204","region":"Kirovohradska oblast","city":"Mala Vyska","latitude":48.64308,"longitude":31.63657}}(window,'GeoPostal','UA');

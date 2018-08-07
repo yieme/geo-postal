@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17945"]={"code":"17945","region":"PA","city":"Locustdale","latitude":40.7773,"longitude":-76.3761}}(window,'GeoPostal','US');

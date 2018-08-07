@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA5 3BE"]={"code":"BA5 3BE","region":"England","city":"Priddy","latitude":51.2588,"longitude":-2.67937}}(window,'GeoPostal','GB');

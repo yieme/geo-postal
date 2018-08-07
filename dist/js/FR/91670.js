@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91670"]={"code":"91670","region":"Ile-de-France","city":"Angerville","latitude":48.31354,"longitude":1.99935}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59823"]={"code":"59823","region":"MT","city":"Bonner","latitude":46.8733,"longitude":-113.8645}}(window,'GeoPostal','US');

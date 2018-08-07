@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27419"]={"code":"27419","region":"Sumatera Barat","city":"Sawahlunto","latitude":-0.67483,"longitude":100.80715}}(window,'GeoPostal','ID');

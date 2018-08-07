@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA21 2YL"]={"code":"CA21 2YL","region":"England","city":"Braystones","latitude":54.44164,"longitude":-3.53314}}(window,'GeoPostal','GB');

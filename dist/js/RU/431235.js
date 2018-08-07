@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431235"]={"code":"431235","region":"Nizhegorodskaya oblast'","city":"Pervomaysk","latitude":54.8689,"longitude":43.80272}}(window,'GeoPostal','RU');

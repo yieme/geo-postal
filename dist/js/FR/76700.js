@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76700"]={"code":"76700","region":"Normandie","city":"Harfleur","latitude":49.5066,"longitude":0.19827}}(window,'GeoPostal','FR');

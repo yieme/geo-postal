@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03710"]={"code":"03710","region":"Valenciana, Comunidad","city":"Calp","latitude":38.6447,"longitude":0.0445}}(window,'GeoPostal','ES');

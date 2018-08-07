@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA48 8RF"]={"code":"SA48 8RF","region":"Wales","city":"Cilcennin","latitude":52.21937,"longitude":-4.1672}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25685"]={"code":"25685","region":"WV","city":"Naugatuck","latitude":37.7898,"longitude":-82.349}}(window,'GeoPostal','US');

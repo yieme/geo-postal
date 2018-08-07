@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20759"]={"code":"20759","region":"Pais Vasco","city":"Zumaia","latitude":43.29469,"longitude":-2.25341}}(window,'GeoPostal','ES');

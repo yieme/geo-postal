@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76271"]={"code":"76271","region":"Texas","city":"Tioga","latitude":33.469818,"longitude":-96.887474}}(window,'GeoPostal','US');

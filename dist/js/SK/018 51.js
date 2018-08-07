@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["018 51"]={"code":"018 51","region":"Trenciansky kraj","city":"Nova Dubnica","latitude":48.93479,"longitude":18.14632}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45994"]={"code":"45994","region":"Vastra Gotalands lan","city":"Ljungskile","latitude":58.21667,"longitude":11.91667}}(window,'GeoPostal','SE');

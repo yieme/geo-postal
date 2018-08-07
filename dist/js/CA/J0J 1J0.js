@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0J 1J0"]={"code":"J0J 1J0","region":"Quebec","city":"Lacolle","latitude":45.08338,"longitude":-73.36585}}(window,'GeoPostal','CA');

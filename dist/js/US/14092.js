@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14092"]={"code":"14092","region":"NY","city":"Lewiston","latitude":43.1722,"longitude":-79.0215}}(window,'GeoPostal','US');

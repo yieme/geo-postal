@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0E 1H0"]={"code":"J0E 1H0","region":"Quebec","city":"Bonsecours","latitude":45.41678,"longitude":-72.2824}}(window,'GeoPostal','CA');

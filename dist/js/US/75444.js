@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75444"]={"code":"75444","region":"TX","city":"Golden","latitude":32.7299,"longitude":-95.5636}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["648-0022"]={"code":"648-0022","region":"Wakayama","city":"Hashimoto","latitude":34.317,"longitude":135.6}}(window,'GeoPostal','JP');

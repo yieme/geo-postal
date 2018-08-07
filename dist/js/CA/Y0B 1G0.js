@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["Y0B 1G0"]={"code":"Y0B 1G0","region":"Yukon","city":"Dawson City","latitude":64.06252,"longitude":-139.42629}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53110"]={"code":"53110","region":"Uttaradit","city":"Nam Pat","latitude":17.72806,"longitude":100.68433}}(window,'GeoPostal','TH');

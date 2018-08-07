@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19549"]={"code":"19549","region":"PA","city":"Port Clinton","latitude":40.5818,"longitude":-76.0267}}(window,'GeoPostal','US');

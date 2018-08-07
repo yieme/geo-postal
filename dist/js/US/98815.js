@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98815"]={"code":"98815","region":"WA","city":"Cashmere","latitude":47.5173,"longitude":-120.5033}}(window,'GeoPostal','US');

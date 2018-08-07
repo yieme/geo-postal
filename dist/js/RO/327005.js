@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327005"]={"code":"327005","region":"Caras-Severin","city":"Armenis","latitude":45.2,"longitude":22.31667}}(window,'GeoPostal','RO');

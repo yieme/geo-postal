@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-140"]={"code":"64-140","region":"Wielkopolskie","city":"Wloszakowice","latitude":51.92754,"longitude":16.36456}}(window,'GeoPostal','PL');

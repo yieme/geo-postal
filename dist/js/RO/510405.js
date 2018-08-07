@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["510405"]={"code":"510405","region":"Alba","city":"Alba Iulia","latitude":46.06667,"longitude":23.58333}}(window,'GeoPostal','RO');

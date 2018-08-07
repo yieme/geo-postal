@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83312"]={"code":"83312","region":"Idaho","city":"Almo","latitude":42.12311,"longitude":-113.62282}}(window,'GeoPostal','US');

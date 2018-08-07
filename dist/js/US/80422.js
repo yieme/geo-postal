@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80422"]={"code":"80422","region":"CO","city":"Black Hawk","latitude":39.816,"longitude":-105.4753}}(window,'GeoPostal','US');

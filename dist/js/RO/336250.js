@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336250"]={"code":"336250","region":"Hunedoara","city":"Vulcan","latitude":45.38333,"longitude":23.26667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3043"]={"code":"3043","region":"Victoria","city":"Tullamarine","latitude":-37.70128,"longitude":144.881}}(window,'GeoPostal','AU');

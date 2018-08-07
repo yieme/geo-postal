@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-413"]={"code":"23-413","region":"Lubelskie","city":"Obsza","latitude":50.3152,"longitude":22.95688}}(window,'GeoPostal','PL');

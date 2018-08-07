@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75157"]={"code":"75157","region":"TX","city":"Rosser","latitude":32.4626,"longitude":-96.4533}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02046"]={"code":"02046","region":"Lazio","city":"Magliano Sabina","latitude":42.36133,"longitude":12.48047}}(window,'GeoPostal','IT');

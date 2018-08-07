@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66976"]={"code":"66976","region":"Rheinland-Pfalz","city":"Rodalben","latitude":49.2394,"longitude":7.63962}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22067"]={"code":"22067","region":"VA","city":"Greenway","latitude":38.9645,"longitude":-77.2331}}(window,'GeoPostal','US');

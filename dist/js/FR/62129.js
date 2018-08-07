@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62129"]={"code":"62129","region":"Hauts-de-France","city":"Ecques","latitude":50.66998,"longitude":2.28633}}(window,'GeoPostal','FR');

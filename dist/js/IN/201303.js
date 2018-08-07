@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["201303"]={"code":"201303","region":"Uttar Pradesh","city":"Noida","latitude":28.58,"longitude":77.33}}(window,'GeoPostal','IN');

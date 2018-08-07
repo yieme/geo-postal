@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["811-4113"]={"code":"811-4113","region":"Fukuoka","city":"Munakata","latitude":33.8,"longitude":130.533}}(window,'GeoPostal','JP');

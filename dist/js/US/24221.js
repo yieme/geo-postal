@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24221"]={"code":"24221","region":"VA","city":"Blackwater","latitude":36.639,"longitude":-82.9866}}(window,'GeoPostal','US');

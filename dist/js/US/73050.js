@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73050"]={"code":"73050","region":"OK","city":"Langston","latitude":35.9419,"longitude":-97.2557}}(window,'GeoPostal','US');

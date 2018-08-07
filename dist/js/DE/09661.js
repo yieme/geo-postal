@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09661"]={"code":"09661","region":"Sachsen","city":"Kaltofen","latitude":50.99073,"longitude":13.15423}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309183"]={"code":"309183","region":"Belgorodskaya oblast'","city":"Gubkin","latitude":51.28167,"longitude":37.54583}}(window,'GeoPostal','RU');

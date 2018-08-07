@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76450"]={"code":"76450","region":"Normandie","city":"Cany-Barville","latitude":49.78885,"longitude":0.63704}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56248"]={"code":"56248","region":"Minnesota","city":"Herman","latitude":45.80914,"longitude":-96.139854}}(window,'GeoPostal','US');

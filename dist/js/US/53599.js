@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53599"]={"code":"53599","region":"WI","city":"Woodford","latitude":42.6493,"longitude":-89.8622}}(window,'GeoPostal','US');

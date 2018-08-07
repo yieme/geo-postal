@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53199"]={"code":"53199","region":"Vastra Gotalands lan","city":"Lidkoping","latitude":58.50517,"longitude":13.15765}}(window,'GeoPostal','SE');

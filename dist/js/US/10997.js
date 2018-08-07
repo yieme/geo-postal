@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10997"]={"code":"10997","region":"NY","city":"West Point","latitude":41.3915,"longitude":-73.956}}(window,'GeoPostal','US');

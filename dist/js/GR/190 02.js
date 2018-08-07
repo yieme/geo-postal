@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["190 02"]={"code":"190 02","region":"Attiki","city":"Paiania","latitude":37.95527,"longitude":23.85443}}(window,'GeoPostal','GR');

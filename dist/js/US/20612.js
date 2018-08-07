@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20612"]={"code":"20612","region":"Maryland","city":"Golden Beach","latitude":38.48985,"longitude":-76.68218}}(window,'GeoPostal','US');

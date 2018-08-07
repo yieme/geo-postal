@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["165160"]={"code":"165160","region":"Arkhangel'skaya oblast'","city":"Shenkursk","latitude":62.1091,"longitude":42.89595}}(window,'GeoPostal','RU');

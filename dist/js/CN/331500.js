@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331500"]={"code":"331500","region":"Jiangxi","city":"Enjiang","latitude":27.32178,"longitude":115.42925}}(window,'GeoPostal','CN');

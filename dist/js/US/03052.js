@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03052"]={"code":"03052","region":"NH","city":"Litchfield","latitude":42.843,"longitude":-71.455}}(window,'GeoPostal','US');

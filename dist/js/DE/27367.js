@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27367"]={"code":"27367","region":"Niedersachsen","city":"Unterstedt","latitude":53.07834,"longitude":9.35884}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64300"]={"code":"64300","region":"Nouvelle-Aquitaine","city":"Mont","latitude":43.43333,"longitude":-0.65}}(window,'GeoPostal','FR');

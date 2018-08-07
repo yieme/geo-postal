@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3344"]={"code":"3344","region":"Corrientes","city":"Alvear","latitude":-29.09683,"longitude":-56.55043}}(window,'GeoPostal','AR');

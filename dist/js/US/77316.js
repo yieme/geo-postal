@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77316"]={"code":"77316","region":"Texas","city":"Montgomery","latitude":30.3229,"longitude":-95.6861}}(window,'GeoPostal','US');

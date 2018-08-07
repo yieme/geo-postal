@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["504346"]={"code":"504346","region":"Telangana","city":"Adilabad","latitude":19.66667,"longitude":78.53333}}(window,'GeoPostal','IN');

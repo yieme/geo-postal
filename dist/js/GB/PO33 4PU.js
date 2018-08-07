@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO33 4PU"]={"code":"PO33 4PU","region":"England","city":"Wootton Bridge","latitude":50.72445,"longitude":-1.23691}}(window,'GeoPostal','GB');

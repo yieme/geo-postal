@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107463"]={"code":"107463","region":"Brasov","city":"Predeal","latitude":45.5,"longitude":25.56667}}(window,'GeoPostal','RO');

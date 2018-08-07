@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94706"]={"code":"94706","region":"California","city":"Albany","latitude":37.889516,"longitude":-122.293646}}(window,'GeoPostal','US');

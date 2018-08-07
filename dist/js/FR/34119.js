@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34119"]={"code":"34119","region":"Occitanie","city":"Frontignan","latitude":43.44848,"longitude":3.754}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24857"]={"code":"24857","region":"West Virginia","city":"Lynco","latitude":37.676111,"longitude":-81.663333}}(window,'GeoPostal','US');

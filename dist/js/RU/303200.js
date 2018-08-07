@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303200"]={"code":"303200","region":"Orlovskaya oblast'","city":"Kromy","latitude":52.68762,"longitude":35.76665}}(window,'GeoPostal','RU');

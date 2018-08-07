@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44233"]={"code":"44233","region":"OH","city":"Hinckley","latitude":41.2419,"longitude":-81.7453}}(window,'GeoPostal','US');

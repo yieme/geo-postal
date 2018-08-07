@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83251"]={"code":"83251","region":"Idaho","city":"Mackay","latitude":43.91194,"longitude":-113.61361}}(window,'GeoPostal','US');

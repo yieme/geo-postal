@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG6 4PE"]={"code":"DG6 4PE","region":"Scotland","city":"Twynholm","latitude":54.86648,"longitude":-4.08324}}(window,'GeoPostal','GB');

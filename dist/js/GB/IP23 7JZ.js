@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP23 7JZ"]={"code":"IP23 7JZ","region":"England","city":"Rishangles","latitude":52.27406,"longitude":1.16583}}(window,'GeoPostal','GB');

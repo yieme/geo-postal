@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58383"]={"code":"58383","region":"Jawa Tengah","city":"Jogonalan","latitude":-7.70361,"longitude":110.53611}}(window,'GeoPostal','ID');

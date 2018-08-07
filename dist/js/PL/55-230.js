@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55-230"]={"code":"55-230","region":"Dolnoslaskie","city":"Jelcz Laskowice","latitude":51.02134,"longitude":17.31649}}(window,'GeoPostal','PL');

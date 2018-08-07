@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 6JE"]={"code":"NG23 6JE","region":"England","city":"Cromwell","latitude":53.14631,"longitude":-0.80764}}(window,'GeoPostal','GB');

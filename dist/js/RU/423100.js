@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423100"]={"code":"423100","region":"Tatarstan, Respublika","city":"Cheremshan","latitude":54.66667,"longitude":51.5}}(window,'GeoPostal','RU');

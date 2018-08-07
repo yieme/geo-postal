@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3099"]={"code":"3099","region":"Zuid-Holland","city":"Rotterdam","latitude":51.9225,"longitude":4.47917}}(window,'GeoPostal','NL');

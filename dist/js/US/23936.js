@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23936"]={"code":"23936","region":"Virginia","city":"Dillwyn","latitude":37.54167,"longitude":-78.45889}}(window,'GeoPostal','US');

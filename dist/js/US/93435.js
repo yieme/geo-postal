@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93435"]={"code":"93435","region":"CA","city":"Harmony","latitude":35.4919,"longitude":-120.9763}}(window,'GeoPostal','US');

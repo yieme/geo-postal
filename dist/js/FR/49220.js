@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49220"]={"code":"49220","region":"Pays-de-la-Loire","city":"Le Lion-d'Angers","latitude":47.6286,"longitude":-0.7117}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93389"]={"code":"93389","region":"Veracruz de Ignacio de la Llave","city":"Poza Rica de Hidalgo","latitude":20.53315,"longitude":-97.45946}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["736135"]={"code":"736135","region":"West Bengal","city":"Koch Bihar","latitude":26.31667,"longitude":89.43333}}(window,'GeoPostal','IN');

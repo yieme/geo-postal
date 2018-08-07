@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79366"]={"code":"79366","region":"TX","city":"Ransom Canyon","latitude":33.5334,"longitude":-101.6796}}(window,'GeoPostal','US');

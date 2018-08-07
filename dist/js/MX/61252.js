@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61252"]={"code":"61252","region":"Michoacan de Ocampo","city":"Maravatio","latitude":19.9,"longitude":-100.45}}(window,'GeoPostal','MX');

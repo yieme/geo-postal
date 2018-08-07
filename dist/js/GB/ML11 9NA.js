@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML11 9NA"]={"code":"ML11 9NA","region":"Scotland","city":"Rigside","latitude":55.59683,"longitude":-3.78084}}(window,'GeoPostal','GB');

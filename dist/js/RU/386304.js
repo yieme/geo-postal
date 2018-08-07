@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["386304"]={"code":"386304","region":"Chechenskaya Respublika","city":"Staryy Malgobek","latitude":43.54417,"longitude":44.58944}}(window,'GeoPostal','RU');

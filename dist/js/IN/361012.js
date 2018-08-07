@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["361012"]={"code":"361012","region":"Gujarat","city":"Sikka","latitude":22.43333,"longitude":69.83333}}(window,'GeoPostal','IN');

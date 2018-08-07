@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26250"]={"code":"26250","region":"Khyber Pakhtunkhwa","city":"Doaba","latitude":33.42444,"longitude":70.73639}}(window,'GeoPostal','PK');

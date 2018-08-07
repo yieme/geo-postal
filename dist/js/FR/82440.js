@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82440"]={"code":"82440","region":"Occitanie","city":"Realville","latitude":44.11452,"longitude":1.47998}}(window,'GeoPostal','FR');

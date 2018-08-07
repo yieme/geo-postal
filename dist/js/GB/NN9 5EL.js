@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN9 5EL"]={"code":"NN9 5EL","region":"England","city":"Finedon","latitude":52.33917,"longitude":-0.65008}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57051"]={"code":"57051","region":"South Dakota","city":"Oldham","latitude":44.437596,"longitude":-97.551427}}(window,'GeoPostal','US');

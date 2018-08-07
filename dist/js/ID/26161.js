@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26161"]={"code":"26161","region":"Sumatera Barat","city":"Kotatua","latitude":-0.34514,"longitude":100.36241}}(window,'GeoPostal','ID');

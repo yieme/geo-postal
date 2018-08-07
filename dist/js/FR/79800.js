@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79800"]={"code":"79800","region":"Nouvelle-Aquitaine","city":"Pamproux","latitude":46.39578,"longitude":-0.05327}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80023"]={"code":"80023","region":"Souss-Massa-Draa","city":"Taghazout","latitude":30.54259,"longitude":-9.71115}}(window,'GeoPostal','MA');

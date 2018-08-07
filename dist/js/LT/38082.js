@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38082"]={"code":"38082","region":"Panevezio apskritis","city":"Panevezys","latitude":55.73333,"longitude":24.35}}(window,'GeoPostal','LT');

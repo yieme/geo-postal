@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87400-000"]={"code":"87400-000","region":"Parana","city":"Cruzeiro do Oeste","latitude":-23.785,"longitude":-53.07333}}(window,'GeoPostal','BR');

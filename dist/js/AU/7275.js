@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7275"]={"code":"7275","region":"Tasmania","city":"Exeter","latitude":-41.29749,"longitude":146.95055}}(window,'GeoPostal','AU');

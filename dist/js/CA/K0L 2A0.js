@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 2A0"]={"code":"K0L 2A0","region":"Ontario","city":"Highland Grove","latitude":45.06682,"longitude":-78.08282}}(window,'GeoPostal','CA');

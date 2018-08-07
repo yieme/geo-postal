@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47358"]={"code":"47358","region":"IN","city":"Modoc","latitude":40.0582,"longitude":-85.0919}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53214"]={"code":"53214","region":"Wisconsin","city":"West Allis","latitude":43.01668,"longitude":-88.00703}}(window,'GeoPostal','US');

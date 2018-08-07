@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95400"]={"code":"95400","region":"Veracruz de Ignacio de la Llave","city":"Cosamaloapan de Carpio","latitude":18.36667,"longitude":-95.8}}(window,'GeoPostal','MX');

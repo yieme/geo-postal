@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21607"]={"code":"21607","region":"Maryland","city":"Barclay","latitude":39.12203,"longitude":-75.84187}}(window,'GeoPostal','US');

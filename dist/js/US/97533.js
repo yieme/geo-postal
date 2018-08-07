@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97533"]={"code":"97533","region":"Oregon","city":"Murphy","latitude":42.3475,"longitude":-123.333333}}(window,'GeoPostal','US');

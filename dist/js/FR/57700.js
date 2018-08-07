@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57700"]={"code":"57700","region":"Grand-Est","city":"Neufchef","latitude":49.31514,"longitude":6.02341}}(window,'GeoPostal','FR');

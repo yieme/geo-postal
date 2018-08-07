@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34216"]={"code":"34216","region":"FL","city":"Anna Maria","latitude":27.5291,"longitude":-82.7317}}(window,'GeoPostal','US');

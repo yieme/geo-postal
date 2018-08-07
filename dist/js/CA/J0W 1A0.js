@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0W 1A0"]={"code":"J0W 1A0","region":"Quebec","city":"Chute-Saint-Philippe","latitude":46.65011,"longitude":-75.23258}}(window,'GeoPostal','CA');

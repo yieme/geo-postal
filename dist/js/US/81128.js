@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81128"]={"code":"81128","region":"Colorado","city":"Chromo","latitude":37.036389,"longitude":-106.842778}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74431"]={"code":"74431","region":"Oklahoma","city":"Dewar","latitude":35.447905,"longitude":-95.962905}}(window,'GeoPostal','US');

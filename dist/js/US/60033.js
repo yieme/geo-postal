@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60033"]={"code":"60033","region":"Illinois","city":"Harvard","latitude":42.42224,"longitude":-88.61371}}(window,'GeoPostal','US');

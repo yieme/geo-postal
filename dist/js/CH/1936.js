@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1936"]={"code":"1936","region":"Valais","city":"Verbier","latitude":46.09872,"longitude":7.21621}}(window,'GeoPostal','CH');

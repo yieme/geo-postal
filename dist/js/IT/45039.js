@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45039"]={"code":"45039","region":"Veneto","city":"Stienta","latitude":44.94108,"longitude":11.54211}}(window,'GeoPostal','IT');

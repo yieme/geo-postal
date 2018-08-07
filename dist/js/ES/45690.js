@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45690"]={"code":"45690","region":"Castilla-La Mancha","city":"La Pueblanueva","latitude":39.91208,"longitude":-4.67933}}(window,'GeoPostal','ES');

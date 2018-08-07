@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-600"]={"code":"63-600","region":"Wielkopolskie","city":"Kepno","latitude":51.2784,"longitude":17.98908}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["419407"]={"code":"419407","region":"Hunan","city":"Jiangkouxu","latitude":27.69417,"longitude":109.73583}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58255"]={"code":"58255","region":"Jawa Tengah","city":"Jagong","latitude":-7.0481,"longitude":111.2534}}(window,'GeoPostal','ID');

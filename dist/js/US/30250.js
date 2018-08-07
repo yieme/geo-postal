@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30250"]={"code":"30250","region":"GA","city":"Lovejoy","latitude":33.4429,"longitude":-84.3136}}(window,'GeoPostal','US');

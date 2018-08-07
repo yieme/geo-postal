@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427187"]={"code":"427187","region":"Bistrita-Nasaud","city":"Nimigea de Sus","latitude":47.28333,"longitude":24.31667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40874"]={"code":"40874","region":"KY","city":"Warbranch","latitude":36.984,"longitude":-83.4667}}(window,'GeoPostal','US');

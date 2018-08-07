@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55615"]={"code":"55615","region":"Minnesota","city":"Tofte","latitude":47.57389,"longitude":-90.83639}}(window,'GeoPostal','US');

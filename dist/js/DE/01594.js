@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01594"]={"code":"01594","region":"Sachsen","city":"Grubnitz","latitude":51.26252,"longitude":13.22938}}(window,'GeoPostal','DE');

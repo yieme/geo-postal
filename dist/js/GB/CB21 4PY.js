@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB21 4PY"]={"code":"CB21 4PY","region":"England","city":"Bartlow","latitude":52.08307,"longitude":0.31079}}(window,'GeoPostal','GB');

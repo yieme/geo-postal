@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65015"]={"code":"65015","region":"Abruzzo","city":"Montesilvano","latitude":42.50394,"longitude":14.138}}(window,'GeoPostal','IT');

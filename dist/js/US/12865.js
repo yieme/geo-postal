@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12865"]={"code":"12865","region":"NY","city":"Salem","latitude":43.1828,"longitude":-73.3327}}(window,'GeoPostal','US');

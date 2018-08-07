@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA8 7JT"]={"code":"CA8 7JT","region":"England","city":"Greenhead","latitude":54.96667,"longitude":-2.51667}}(window,'GeoPostal','GB');

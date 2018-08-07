@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81045"]={"code":"81045","region":"CO","city":"Haswell","latitude":38.4474,"longitude":-103.1505}}(window,'GeoPostal','US');

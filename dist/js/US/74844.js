@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74844"]={"code":"74844","region":"OK","city":"Francis","latitude":34.8737,"longitude":-96.5956}}(window,'GeoPostal','US');

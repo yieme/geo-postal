@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49866"]={"code":"49866","region":"Michigan","city":"Negaunee","latitude":46.4991,"longitude":-87.6118}}(window,'GeoPostal','US');

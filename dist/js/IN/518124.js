@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["518124"]={"code":"518124","region":"Andhra Pradesh","city":"Betamcherla","latitude":15.46667,"longitude":78.16667}}(window,'GeoPostal','IN');

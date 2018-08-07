@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7051"]={"code":"7051","region":"Gelderland","city":"Varsseveld","latitude":51.94333,"longitude":6.45833}}(window,'GeoPostal','NL');

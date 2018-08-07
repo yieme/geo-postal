@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["387110"]={"code":"387110","region":"Gujarat","city":"Tharad","latitude":24.39611,"longitude":71.62667}}(window,'GeoPostal','IN');

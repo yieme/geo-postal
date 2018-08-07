@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9189"]={"code":"9189","region":"Troms","city":"Skjervoy","latitude":70.03114,"longitude":20.97141}}(window,'GeoPostal','NO');

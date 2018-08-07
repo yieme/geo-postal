@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78660"]={"code":"78660","region":"Ile-de-France","city":"Ablis","latitude":48.5172,"longitude":1.83624}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58474"]={"code":"58474","region":"North Dakota","city":"Oakes","latitude":46.13858,"longitude":-98.09038}}(window,'GeoPostal','US');

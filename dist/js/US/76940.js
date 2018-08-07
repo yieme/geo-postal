@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76940"]={"code":"76940","region":"TX","city":"Mereta","latitude":31.4518,"longitude":-100.1349}}(window,'GeoPostal','US');

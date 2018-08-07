@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54245"]={"code":"54245","region":"WI","city":"Valders","latitude":44.042,"longitude":-87.8812}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02811"]={"code":"02811","region":"Ancash","city":"Coishco","latitude":-9.02306,"longitude":-78.61556}}(window,'GeoPostal','PE');

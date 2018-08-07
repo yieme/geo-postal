@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28125"]={"code":"28125","region":"NC","city":"Mount Ulla","latitude":35.6389,"longitude":-80.7239}}(window,'GeoPostal','US');

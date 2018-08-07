@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8843"]={"code":"8843","region":"Steiermark","city":"Sankt Peter am Kammersberg","latitude":47.18333,"longitude":14.18333}}(window,'GeoPostal','AT');

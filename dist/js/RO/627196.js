@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627196"]={"code":"627196","region":"Giurgiu","city":"Comana","latitude":43.9,"longitude":28.31667}}(window,'GeoPostal','RO');

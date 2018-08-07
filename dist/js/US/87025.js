@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87025"]={"code":"87025","region":"New Mexico","city":"Jemez Springs","latitude":35.77083,"longitude":-106.6925}}(window,'GeoPostal','US');

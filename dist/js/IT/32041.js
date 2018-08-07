@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32041"]={"code":"32041","region":"Veneto","city":"Auronzo di Cadore","latitude":46.55556,"longitude":12.43806}}(window,'GeoPostal','IT');

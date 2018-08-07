@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4860"]={"code":"4860","region":"Plovdiv","city":"Luki","latitude":41.85,"longitude":24.81667}}(window,'GeoPostal','BG');

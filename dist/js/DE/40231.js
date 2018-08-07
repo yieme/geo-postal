@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40231"]={"code":"40231","region":"Nordrhein-Westfalen","city":"Lierenfeld","latitude":51.2092,"longitude":6.8275}}(window,'GeoPostal','DE');

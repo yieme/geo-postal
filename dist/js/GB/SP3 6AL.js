@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP3 6AL"]={"code":"SP3 6AL","region":"England","city":"East Knoyle","latitude":51.07442,"longitude":-2.17052}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5043"]={"code":"5043","region":"Iloilo","city":"Lemery","latitude":11.2258,"longitude":122.9275}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["757055"]={"code":"757055","region":"Odisha","city":"Jaleshwar","latitude":21.81667,"longitude":87.21667}}(window,'GeoPostal','IN');

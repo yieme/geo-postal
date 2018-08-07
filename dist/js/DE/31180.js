@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31180"]={"code":"31180","region":"Niedersachsen","city":"Giesen","latitude":52.19716,"longitude":9.8989}}(window,'GeoPostal','DE');

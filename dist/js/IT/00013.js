@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00013"]={"code":"00013","region":"Lazio","city":"Fonte Nuova","latitude":42.00167,"longitude":12.62194}}(window,'GeoPostal','IT');

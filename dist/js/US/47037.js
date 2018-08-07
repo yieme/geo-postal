@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47037"]={"code":"47037","region":"Indiana","city":"Osgood","latitude":39.12922,"longitude":-85.29163}}(window,'GeoPostal','US');

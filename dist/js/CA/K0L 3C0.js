@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 3C0"]={"code":"K0L 3C0","region":"Ontario","city":"Wilberforce","latitude":45.03342,"longitude":-78.21623}}(window,'GeoPostal','CA');

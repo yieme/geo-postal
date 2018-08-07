@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96800"]={"code":"96800","region":"Sarawak","city":"Kapit","latitude":2.01667,"longitude":112.93333}}(window,'GeoPostal','MY');

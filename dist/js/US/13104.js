@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13104"]={"code":"13104","region":"New York","city":"Manlius","latitude":42.992128,"longitude":-75.971458}}(window,'GeoPostal','US');

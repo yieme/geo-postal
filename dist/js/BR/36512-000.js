@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36512-000"]={"code":"36512-000","region":"Minas Gerais","city":"Tocantins","latitude":-21.175,"longitude":-43.01778}}(window,'GeoPostal','BR');

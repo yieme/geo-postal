@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 7AG"]={"code":"PE22 7AG","region":"England","city":"Langrick","latitude":53.02222,"longitude":-0.10639}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80705"]={"code":"80705","region":"Colorado","city":"Log Lane Village","latitude":40.2609,"longitude":-103.81854}}(window,'GeoPostal','US');

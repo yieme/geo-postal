@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01522"]={"code":"01522","region":"MA","city":"Jefferson","latitude":42.3755,"longitude":-71.8706}}(window,'GeoPostal','US');

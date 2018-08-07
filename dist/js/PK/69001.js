@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69001"]={"code":"69001","region":"Punjab","city":"Dera Ghazi Khan","latitude":30.05614,"longitude":70.63477}}(window,'GeoPostal','PK');

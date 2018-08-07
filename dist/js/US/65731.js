@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65731"]={"code":"65731","region":"MO","city":"Powersite","latitude":36.6578,"longitude":-93.1243}}(window,'GeoPostal','US');

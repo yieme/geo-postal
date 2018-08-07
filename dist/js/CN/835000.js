@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["835000"]={"code":"835000","region":"Xinjiang","city":"Ili","latitude":44.449722,"longitude":84.985833}}(window,'GeoPostal','CN');

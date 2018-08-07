@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403717"]={"code":"403717","region":"Goa","city":"Cavelossim","latitude":15.17255,"longitude":73.94194}}(window,'GeoPostal','IN');

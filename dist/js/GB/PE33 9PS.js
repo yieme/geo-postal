@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE33 9PS"]={"code":"PE33 9PS","region":"England","city":"Oxborough","latitude":52.5836,"longitude":0.57262}}(window,'GeoPostal','GB');

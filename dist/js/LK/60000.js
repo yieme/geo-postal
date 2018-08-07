@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60000"]={"code":"60000","region":"North Western Province","city":"Kurunegala","latitude":7.4863,"longitude":80.3623}}(window,'GeoPostal','LK');

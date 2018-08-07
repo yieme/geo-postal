@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73077"]={"code":"73077","region":"Oklahoma","city":"Perry","latitude":36.292313,"longitude":-97.288335}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39480"]={"code":"39480","region":"MS","city":"Soso","latitude":31.7594,"longitude":-89.3082}}(window,'GeoPostal','US');

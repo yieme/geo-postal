@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404156"]={"code":"404156","region":"Volgogradskaya oblast'","city":"Kletskaya","latitude":49.31455,"longitude":43.05844}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32148"]={"code":"32148","region":"FL","city":"Interlachen","latitude":29.627,"longitude":-81.8894}}(window,'GeoPostal','US');

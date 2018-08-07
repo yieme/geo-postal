@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23857"]={"code":"23857","region":"Virginia","city":"Gasburg","latitude":36.541943,"longitude":-77.874007}}(window,'GeoPostal','US');

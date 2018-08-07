@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71651"]={"code":"71651","region":"AR","city":"Jersey","latitude":33.3889,"longitude":-92.2966}}(window,'GeoPostal','US');

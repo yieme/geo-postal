@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32662"]={"code":"32662","region":"FL","city":"Lochloosa","latitude":29.5116,"longitude":-82.1004}}(window,'GeoPostal','US');

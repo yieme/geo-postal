@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["625503"]={"code":"625503","region":"Tyumenskaya oblast'","city":"Uspenka","latitude":56.80158,"longitude":69.22702}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45966"]={"code":"45966","region":"Nordrhein-Westfalen","city":"Gladbeck","latitude":51.57626,"longitude":6.99075}}(window,'GeoPostal','DE');

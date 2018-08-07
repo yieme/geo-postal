@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18840"]={"code":"18840","region":"Andalucia","city":"Galera","latitude":37.74262,"longitude":-2.55175}}(window,'GeoPostal','ES');

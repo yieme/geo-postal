@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87480"]={"code":"87480","region":"Nouvelle-Aquitaine","city":"Saint-Priest-Taurion","latitude":45.88686,"longitude":1.40016}}(window,'GeoPostal','FR');

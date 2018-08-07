@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["TO"]={'':{r:'Tongatapu',c:'Nuku\'alofa'}};

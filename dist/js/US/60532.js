@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60532"]={"code":"60532","region":"Illinois","city":"Lisle","latitude":41.7884,"longitude":-88.0757}}(window,'GeoPostal','US');

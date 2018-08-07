@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV15 9UE"]={"code":"IV15 9UE","region":"Scotland","city":"Fodderty","latitude":57.60004,"longitude":-4.48942}}(window,'GeoPostal','GB');

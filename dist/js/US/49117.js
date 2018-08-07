@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49117"]={"code":"49117","region":"Michigan","city":"New Buffalo","latitude":41.79393,"longitude":-86.74392}}(window,'GeoPostal','US');

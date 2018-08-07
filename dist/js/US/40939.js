@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40939"]={"code":"40939","region":"KY","city":"Fourmile","latitude":36.7934,"longitude":-83.7419}}(window,'GeoPostal','US');

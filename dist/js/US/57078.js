@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57078"]={"code":"57078","region":"South Dakota","city":"Yankton","latitude":42.87111,"longitude":-97.39728}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62286"]={"code":"62286","region":"Illinois","city":"Sparta","latitude":38.15154,"longitude":-89.72316}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00777"]={"code":"00777","region":"Municipio de Juncos","city":"Juncos","latitude":18.22746,"longitude":-65.921}}(window,'GeoPostal','PR');

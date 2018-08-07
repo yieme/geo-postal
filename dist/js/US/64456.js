@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64456"]={"code":"64456","region":"Missouri","city":"Grant City","latitude":40.48749,"longitude":-94.41107}}(window,'GeoPostal','US');

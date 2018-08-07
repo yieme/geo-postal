@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0E 1Z0"]={"code":"X0E 1Z0","region":"Northwest Territories","city":"Trout Lake","latitude":60.43344,"longitude":-121.25306}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47838"]={"code":"47838","region":"IN","city":"Carlisle","latitude":38.9763,"longitude":-87.3667}}(window,'GeoPostal','US');

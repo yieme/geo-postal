@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95654"]={"code":"95654","region":"California","city":"Martell","latitude":38.366944,"longitude":-120.795}}(window,'GeoPostal','US');

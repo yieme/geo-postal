@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0500"]={"code":"0500","region":"Limpopo","city":"Thabazimbi","latitude":-24.59165,"longitude":27.41155}}(window,'GeoPostal','ZA');

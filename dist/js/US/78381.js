@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78381"]={"code":"78381","region":"TX","city":"Rockport","latitude":28.0131,"longitude":-97.0936}}(window,'GeoPostal','US');

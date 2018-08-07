@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52135"]={"code":"52135","region":"Iowa","city":"Clermont","latitude":43.003779,"longitude":-91.661679}}(window,'GeoPostal','US');

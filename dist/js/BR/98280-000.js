@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98280-000"]={"code":"98280-000","region":"Rio Grande do Sul","city":"Panambi","latitude":-28.2925,"longitude":-53.50167}}(window,'GeoPostal','BR');

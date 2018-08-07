@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04015"]={"code":"04015","region":"ME","city":"Casco","latitude":43.9596,"longitude":-70.526}}(window,'GeoPostal','US');

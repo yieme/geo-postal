@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96018"]={"code":"96018","region":"Sicilia","city":"Pachino","latitude":36.71864,"longitude":15.0907}}(window,'GeoPostal','IT');

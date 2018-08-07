@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3777"]={"code":"3777","region":"Victoria","city":"Healesville West","latitude":-37.6,"longitude":145.5}}(window,'GeoPostal','AU');

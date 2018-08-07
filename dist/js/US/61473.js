@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61473"]={"code":"61473","region":"IL","city":"Roseville","latitude":40.7238,"longitude":-90.6514}}(window,'GeoPostal','US');

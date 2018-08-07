@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623389"]={"code":"623389","region":"Sverdlovskaya oblast'","city":"Polevskoy","latitude":56.44222,"longitude":60.18778}}(window,'GeoPostal','RU');

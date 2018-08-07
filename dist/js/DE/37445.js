@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37445"]={"code":"37445","region":"Niedersachsen","city":"Walkenried","latitude":51.58333,"longitude":10.61667}}(window,'GeoPostal','DE');

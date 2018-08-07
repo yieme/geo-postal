@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67006"]={"code":"67006","region":"Alytaus apskritis","city":"Lazdijai","latitude":54.23333,"longitude":23.51667}}(window,'GeoPostal','LT');

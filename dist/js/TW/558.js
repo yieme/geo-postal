@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["558"]={"code":"558","region":"Nantou","city":"Lugu","latitude":23.74639,"longitude":120.7525}}(window,'GeoPostal','TW');

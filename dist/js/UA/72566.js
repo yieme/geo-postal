@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72566"]={"code":"72566","region":"Zaporizka oblast","city":"Kyrylivka","latitude":46.37592,"longitude":35.36753}}(window,'GeoPostal','UA');

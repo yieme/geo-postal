@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37665"]={"code":"37665","region":"TN","city":"Kingsport","latitude":36.5799,"longitude":-82.5733}}(window,'GeoPostal','US');

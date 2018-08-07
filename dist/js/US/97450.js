@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97450"]={"code":"97450","region":"Oregon","city":"Langlois","latitude":42.915832,"longitude":-124.427179}}(window,'GeoPostal','US');

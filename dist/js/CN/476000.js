@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["476000"]={"code":"476000","region":"Henan","city":"Shangqiu","latitude":34.45,"longitude":115.65}}(window,'GeoPostal','CN');

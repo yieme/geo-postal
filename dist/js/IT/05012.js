@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05012"]={"code":"05012","region":"Umbria","city":"Attigliano","latitude":42.51423,"longitude":12.29246}}(window,'GeoPostal','IT');

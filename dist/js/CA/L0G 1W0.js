@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0G 1W0"]={"code":"L0G 1W0","region":"Ontario","city":"Tottenham","latitude":44.01681,"longitude":-79.81634}}(window,'GeoPostal','CA');

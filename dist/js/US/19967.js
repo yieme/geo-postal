@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19967"]={"code":"19967","region":"Delaware","city":"Millville","latitude":38.5593,"longitude":-75.11652}}(window,'GeoPostal','US');

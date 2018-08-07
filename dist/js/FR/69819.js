@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69819"]={"code":"69819","region":"Auvergne-Rhone-Alpes","city":"Tassin-la-Demi-Lune","latitude":45.75499,"longitude":4.78812}}(window,'GeoPostal','FR');

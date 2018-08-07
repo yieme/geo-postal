@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32421"]={"code":"32421","region":"Florida","city":"Altha","latitude":30.57167,"longitude":-85.1275}}(window,'GeoPostal','US');

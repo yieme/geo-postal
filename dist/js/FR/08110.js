@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08110"]={"code":"08110","region":"Grand-Est","city":"Carignan","latitude":49.63159,"longitude":5.16796}}(window,'GeoPostal','FR');

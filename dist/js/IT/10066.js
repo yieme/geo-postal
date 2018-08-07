@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10066"]={"code":"10066","region":"Piemonte","city":"Torre Pellice","latitude":44.81974,"longitude":7.21602}}(window,'GeoPostal','IT');

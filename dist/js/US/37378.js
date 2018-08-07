@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37378"]={"code":"37378","region":"Tennessee","city":"Smartt","latitude":35.649168,"longitude":-85.832985}}(window,'GeoPostal','US');

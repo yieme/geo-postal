@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16148"]={"code":"16148","region":"Pennsylvania","city":"Hermitage","latitude":41.22996,"longitude":-80.4405}}(window,'GeoPostal','US');

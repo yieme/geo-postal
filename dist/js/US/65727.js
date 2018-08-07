@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65727"]={"code":"65727","region":"MO","city":"Polk","latitude":37.7292,"longitude":-93.2994}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07928"]={"code":"07928","region":"New Jersey","city":"Chatham","latitude":40.731705,"longitude":-74.403744}}(window,'GeoPostal','US');

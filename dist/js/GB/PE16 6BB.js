@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE16 6BB"]={"code":"PE16 6BB","region":"England","city":"Chatteris","latitude":52.45405,"longitude":0.05006}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 1E0"]={"code":"C0A 1E0","region":"Prince Edward Island","city":"Breadalbane","latitude":46.35703,"longitude":-63.50061}}(window,'GeoPostal','CA');

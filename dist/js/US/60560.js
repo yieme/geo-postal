@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60560"]={"code":"60560","region":"Illinois","city":"Yorkville","latitude":41.62098,"longitude":-88.43172}}(window,'GeoPostal','US');

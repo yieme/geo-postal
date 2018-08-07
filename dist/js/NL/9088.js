@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9088"]={"code":"9088","region":"Fryslan","city":"Leeuwarden","latitude":53.20139,"longitude":5.80859}}(window,'GeoPostal','NL');

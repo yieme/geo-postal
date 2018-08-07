@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08140"]={"code":"08140","region":"Grand-Est","city":"Bazeilles","latitude":49.6765,"longitude":4.97752}}(window,'GeoPostal','FR');

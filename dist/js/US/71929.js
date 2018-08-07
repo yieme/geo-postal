@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71929"]={"code":"71929","region":"AR","city":"Bismarck","latitude":34.311,"longitude":-93.1872}}(window,'GeoPostal','US');

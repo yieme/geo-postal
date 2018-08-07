@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25870"]={"code":"25870","region":"WV","city":"Maben","latitude":37.6387,"longitude":-81.394}}(window,'GeoPostal','US');

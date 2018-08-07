@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65550-000"]={"code":"65550-000","region":"Piaui","city":"Luzilandia","latitude":-3.45778,"longitude":-42.37028}}(window,'GeoPostal','BR');

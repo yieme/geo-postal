@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79260"]={"code":"79260","region":"Federacija Bosne i Hercegovine","city":"Sanski Most","latitude":44.76528,"longitude":16.66556}}(window,'GeoPostal','BA');

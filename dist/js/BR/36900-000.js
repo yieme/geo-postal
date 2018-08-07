@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36900-000"]={"code":"36900-000","region":"Minas Gerais","city":"Manhuacu","latitude":-20.25806,"longitude":-42.03361}}(window,'GeoPostal','BR');

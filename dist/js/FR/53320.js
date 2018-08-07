@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53320"]={"code":"53320","region":"Pays-de-la-Loire","city":"Loiron","latitude":48.06667,"longitude":-0.93333}}(window,'GeoPostal','FR');

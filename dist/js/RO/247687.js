@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247687"]={"code":"247687","region":"Arges","city":"Stefanesti","latitude":44.61667,"longitude":24.25}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06064"]={"code":"06064","region":"Umbria","city":"Panicale","latitude":43.02954,"longitude":12.09935}}(window,'GeoPostal','IT');

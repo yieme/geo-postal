@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88255"]={"code":"88255","region":"NM","city":"Loco Hills","latitude":32.819,"longitude":-103.9777}}(window,'GeoPostal','US');

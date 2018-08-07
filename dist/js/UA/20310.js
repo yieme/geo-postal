@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20310"]={"code":"20310","region":"Cherkaska oblast","city":"Uman'","latitude":48.74838,"longitude":30.22184}}(window,'GeoPostal','UA');

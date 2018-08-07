@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55000"]={"code":"55000","region":"Nan","city":"Phu Phiang","latitude":18.73803,"longitude":100.80031}}(window,'GeoPostal','TH');

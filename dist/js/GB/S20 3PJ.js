@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S20 3PJ"]={"code":"S20 3PJ","region":"England","city":"Sheffield","latitude":53.38297,"longitude":-1.4659}}(window,'GeoPostal','GB');

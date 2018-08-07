@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4407"]={"code":"4407","region":"Queensland","city":"Cecil Plains","latitude":-27.53318,"longitude":151.19623}}(window,'GeoPostal','AU');

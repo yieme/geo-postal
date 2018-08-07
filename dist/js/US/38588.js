@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38588"]={"code":"38588","region":"TN","city":"Whitleyville","latitude":36.5158,"longitude":-85.6899}}(window,'GeoPostal','US');

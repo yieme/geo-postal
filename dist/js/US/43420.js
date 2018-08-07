@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43420"]={"code":"43420","region":"Ohio","city":"Fremont","latitude":41.346048,"longitude":-83.118713}}(window,'GeoPostal','US');

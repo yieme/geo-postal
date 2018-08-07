@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84070"]={"code":"84070","region":"Campania","city":"Salento","latitude":40.2486,"longitude":15.19006}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55150"]={"code":"55150","region":"MN","city":"Mendota","latitude":44.8858,"longitude":-93.1612}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2500"]={"code":"2500","region":"Santa Fe","city":"Canada de Gomez","latitude":-32.81636,"longitude":-61.39493}}(window,'GeoPostal','AR');

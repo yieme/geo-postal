@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627296"]={"code":"627296","region":"Valcea","city":"Mateesti","latitude":45.06667,"longitude":23.85}}(window,'GeoPostal','RO');

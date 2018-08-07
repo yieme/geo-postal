@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08065"]={"code":"08065","region":"New Jersey","city":"Palmyra","latitude":40.002764,"longitude":-75.01238}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97033"]={"code":"97033","region":"Oregon","city":"Kent","latitude":45.083789,"longitude":-120.664895}}(window,'GeoPostal','US');

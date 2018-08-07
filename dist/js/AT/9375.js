@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9375"]={"code":"9375","region":"Karnten","city":"Friesach","latitude":46.95528,"longitude":14.40583}}(window,'GeoPostal','AT');

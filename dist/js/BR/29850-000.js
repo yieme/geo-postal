@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29850-000"]={"code":"29850-000","region":"Espirito Santo","city":"Ecoporanga","latitude":-18.37333,"longitude":-40.83056}}(window,'GeoPostal','BR');

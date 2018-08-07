@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67760"]={"code":"67760","region":"Grand-Est","city":"Gambsheim","latitude":48.69209,"longitude":7.88286}}(window,'GeoPostal','FR');

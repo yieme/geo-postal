@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807140"]={"code":"807140","region":"Calarasi","city":"Fundeni","latitude":44.38333,"longitude":26.35}}(window,'GeoPostal','RO');

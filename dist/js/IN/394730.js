@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394730"]={"code":"394730","region":"Gujarat","city":"Vansada","latitude":20.75,"longitude":73.36667}}(window,'GeoPostal','IN');

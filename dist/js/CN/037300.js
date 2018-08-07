@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["037300"]={"code":"037300","region":"Shanxi","city":"Yungang","latitude":40.109722,"longitude":113.122222}}(window,'GeoPostal','CN');

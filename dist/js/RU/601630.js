@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601630"]={"code":"601630","region":"Vladimirskaya oblast'","city":"Balakirevo","latitude":56.50588,"longitude":38.84324}}(window,'GeoPostal','RU');

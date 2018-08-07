@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2877"]={"code":"2877","region":"New South Wales","city":"Condobolin","latitude":-33.08805,"longitude":147.14514}}(window,'GeoPostal','AU');

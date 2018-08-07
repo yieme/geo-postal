@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78357"]={"code":"78357","region":"Baden-Wurttemberg","city":"Berenberg","latitude":47.90078,"longitude":9.02462}}(window,'GeoPostal','DE');

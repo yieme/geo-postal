@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73299"]={"code":"73299","region":"Auvergne-Rhone-Alpes","city":"La Motte-Servolex","latitude":45.59416,"longitude":5.87575}}(window,'GeoPostal','FR');

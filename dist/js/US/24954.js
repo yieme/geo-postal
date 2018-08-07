@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24954"]={"code":"24954","region":"West Virginia","city":"Marlinton","latitude":38.22345,"longitude":-80.09451}}(window,'GeoPostal','US');

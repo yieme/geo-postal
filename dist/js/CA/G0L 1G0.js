@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0L 1G0"]={"code":"G0L 1G0","region":"Quebec","city":"Cacouna","latitude":47.91657,"longitude":-69.50054}}(window,'GeoPostal','CA');

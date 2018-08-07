@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54015"]={"code":"54015","region":"WI","city":"Hammond","latitude":44.967,"longitude":-92.4472}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64632"]={"code":"64632","region":"Missouri","city":"Cainsville","latitude":40.43889,"longitude":-93.77278}}(window,'GeoPostal','US');

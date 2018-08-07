@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77756"]={"code":"77756","region":"Baden-Wurttemberg","city":"Hausach","latitude":48.28426,"longitude":8.17602}}(window,'GeoPostal','DE');

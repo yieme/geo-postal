@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["587143"]={"code":"587143","region":"Karnataka","city":"Ranibennur","latitude":14.61667,"longitude":75.61667}}(window,'GeoPostal','IN');

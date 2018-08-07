@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61033"]={"code":"61033","region":"Marche","city":"Fermignano","latitude":43.68396,"longitude":12.64405}}(window,'GeoPostal','IT');

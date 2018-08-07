@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85411"]={"code":"85411","region":"Pohjois-Pohjanmaa","city":"Sievi","latitude":63.9,"longitude":24.5}}(window,'GeoPostal','FI');

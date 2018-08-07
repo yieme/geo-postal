@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71731"]={"code":"71731","region":"AR","city":"El Dorado","latitude":33.2076,"longitude":-92.6663}}(window,'GeoPostal','US');

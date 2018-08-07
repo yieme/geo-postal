@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47852"]={"code":"47852","region":"IN","city":"Graysville","latitude":39.0805,"longitude":-87.4496}}(window,'GeoPostal','US');

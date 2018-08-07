@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15230"]={"code":"15230","region":"Brandenburg","city":"Frankfurt (Oder)","latitude":52.34714,"longitude":14.55062}}(window,'GeoPostal','DE');

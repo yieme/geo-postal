@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356105"]={"code":"356105","region":"Stavropol'skiy kray","city":"Tishchenskoye","latitude":45.46056,"longitude":41.67382}}(window,'GeoPostal','RU');

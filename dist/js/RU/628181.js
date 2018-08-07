@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628181"]={"code":"628181","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Nyagan'","latitude":62.14056,"longitude":65.39361}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127470"]={"code":"127470","region":"Buzau","city":"Pietroasele","latitude":45.1,"longitude":26.56667}}(window,'GeoPostal','RO');

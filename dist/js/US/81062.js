@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81062"]={"code":"81062","region":"CO","city":"Olney Springs","latitude":38.2019,"longitude":-103.941}}(window,'GeoPostal','US');

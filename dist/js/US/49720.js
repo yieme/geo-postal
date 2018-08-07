@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49720"]={"code":"49720","region":"Michigan","city":"Charlevoix","latitude":45.27936,"longitude":-85.27047}}(window,'GeoPostal','US');

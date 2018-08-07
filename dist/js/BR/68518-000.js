@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68518-000"]={"code":"68518-000","region":"Para","city":"Maraba","latitude":-5.36861,"longitude":-49.11778}}(window,'GeoPostal','BR');

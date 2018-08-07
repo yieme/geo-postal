@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2903"]={"code":"2903","region":"Australian Capital Territory","city":"Wanniassa","latitude":-35.39783,"longitude":149.09086}}(window,'GeoPostal','AU');

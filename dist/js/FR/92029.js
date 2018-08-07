@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92029"]={"code":"92029","region":"Ile-de-France","city":"Nanterre","latitude":48.89198,"longitude":2.20675}}(window,'GeoPostal','FR');

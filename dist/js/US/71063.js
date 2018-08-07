@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71063"]={"code":"71063","region":"LA","city":"Pelican","latitude":31.8966,"longitude":-93.5634}}(window,'GeoPostal','US');

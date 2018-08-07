@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27966"]={"code":"27966","region":"North Carolina","city":"Powells Point","latitude":36.119791,"longitude":-75.833616}}(window,'GeoPostal','US');

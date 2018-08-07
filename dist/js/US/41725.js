@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41725"]={"code":"41725","region":"Kentucky","city":"Carrie","latitude":37.30782,"longitude":-83.03118}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1752"]={"code":"1752","region":"Ostfold","city":"Halden","latitude":59.12478,"longitude":11.38754}}(window,'GeoPostal','NO');

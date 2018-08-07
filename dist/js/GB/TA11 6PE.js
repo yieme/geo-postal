@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA11 6PE"]={"code":"TA11 6PE","region":"England","city":"Dundon","latitude":51.08806,"longitude":-2.74333}}(window,'GeoPostal','GB');

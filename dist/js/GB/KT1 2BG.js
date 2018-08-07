@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT1 2BG"]={"code":"KT1 2BG","region":"England","city":"Kingston upon Thames","latitude":51.41259,"longitude":-0.2974}}(window,'GeoPostal','GB');

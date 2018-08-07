@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["748 01"]={"code":"748 01","region":"Moravskoslezsky kraj","city":"Hlucin","latitude":49.89795,"longitude":18.19196}}(window,'GeoPostal','CZ');

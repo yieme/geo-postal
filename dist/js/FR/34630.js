@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34630"]={"code":"34630","region":"Occitanie","city":"Saint-Thibery","latitude":43.39658,"longitude":3.41774}}(window,'GeoPostal','FR');

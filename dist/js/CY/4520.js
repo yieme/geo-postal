@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4520"]={"code":"4520","region":"Larnaka","city":"Pyrgos","latitude":34.74167,"longitude":33.18333}}(window,'GeoPostal','CY');

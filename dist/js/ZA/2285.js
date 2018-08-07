@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2285"]={"code":"2285","region":"Mpumalanga","city":"eMbalenhle","latitude":-26.53333,"longitude":29.06667}}(window,'GeoPostal','ZA');

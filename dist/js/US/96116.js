@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96116"]={"code":"96116","region":"CA","city":"Likely","latitude":41.2329,"longitude":-120.5079}}(window,'GeoPostal','US');

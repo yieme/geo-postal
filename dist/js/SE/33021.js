@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33021"]={"code":"33021","region":"Jonkopings lan","city":"Reftele","latitude":57.18333,"longitude":13.58333}}(window,'GeoPostal','SE');

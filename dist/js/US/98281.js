@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98281"]={"code":"98281","region":"Washington","city":"Point Roberts","latitude":48.989687,"longitude":-123.054784}}(window,'GeoPostal','US');

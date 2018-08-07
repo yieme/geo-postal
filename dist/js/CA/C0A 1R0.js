@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 1R0"]={"code":"C0A 1R0","region":"Prince Edward Island","city":"Greenfield","latitude":46.18341,"longitude":-62.73196}}(window,'GeoPostal','CA');

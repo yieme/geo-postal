@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07921"]={"code":"07921","region":"New Jersey","city":"Bedminster","latitude":40.655198,"longitude":-74.653567}}(window,'GeoPostal','US');

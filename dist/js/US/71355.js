@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71355"]={"code":"71355","region":"Louisiana","city":"Moreauville","latitude":31.03889,"longitude":-91.97611}}(window,'GeoPostal','US');

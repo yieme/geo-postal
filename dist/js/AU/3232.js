@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3232"]={"code":"3232","region":"Victoria","city":"Lorne","latitude":-38.54043,"longitude":143.97636}}(window,'GeoPostal','AU');

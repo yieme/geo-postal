@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15160"]={"code":"15160","region":"Auvergne-Rhone-Alpes","city":"Allanche","latitude":45.22798,"longitude":2.93456}}(window,'GeoPostal','FR');

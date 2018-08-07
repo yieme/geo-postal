@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41810"]={"code":"41810","region":"KY","city":"Cromona","latitude":37.1865,"longitude":-82.6971}}(window,'GeoPostal','US');

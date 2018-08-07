@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89053"]={"code":"89053","region":"Nevada","city":"Henderson","latitude":35.98119,"longitude":-115.06021}}(window,'GeoPostal','US');

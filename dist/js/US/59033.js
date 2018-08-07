@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59033"]={"code":"59033","region":"MT","city":"Greycliff","latitude":45.7633,"longitude":-109.7846}}(window,'GeoPostal','US');

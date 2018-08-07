@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94104"]={"code":"94104","region":"Bayern","city":"Trautmannsdorf","latitude":48.75617,"longitude":13.38287}}(window,'GeoPostal','DE');

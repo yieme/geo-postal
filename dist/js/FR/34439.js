@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34439"]={"code":"34439","region":"Occitanie","city":"Saint-Jean-de-Vedas","latitude":43.57759,"longitude":3.82603}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47859"]={"code":"47859","region":"IN","city":"Marshall","latitude":39.9062,"longitude":-87.178}}(window,'GeoPostal','US');

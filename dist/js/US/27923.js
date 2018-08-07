@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27923"]={"code":"27923","region":"NC","city":"Coinjock","latitude":36.3751,"longitude":-75.934}}(window,'GeoPostal','US');

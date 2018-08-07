@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2182"]={"code":"2182","region":"Zuid-Holland","city":"Hillegom","latitude":52.29083,"longitude":4.58333}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33220"]={"code":"33220","region":"Nouvelle-Aquitaine","city":"Saint-Andre-et-Appelles","latitude":44.82,"longitude":0.195}}(window,'GeoPostal','FR');

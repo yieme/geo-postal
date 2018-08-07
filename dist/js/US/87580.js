@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87580"]={"code":"87580","region":"NM","city":"Valdez","latitude":36.5701,"longitude":-105.5658}}(window,'GeoPostal','US');

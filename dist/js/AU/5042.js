@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5042"]={"code":"5042","region":"South Australia","city":"Bedford Park","latitude":-35.03333,"longitude":138.56667}}(window,'GeoPostal','AU');

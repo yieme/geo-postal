@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43445"]={"code":"43445","region":"OH","city":"Martin","latitude":41.5694,"longitude":-83.3116}}(window,'GeoPostal','US');

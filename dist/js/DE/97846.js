@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97846"]={"code":"97846","region":"Bayern","city":"Partenstein","latitude":50.05,"longitude":9.51667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78753"]={"code":"78753","region":"Texas","city":"Austin","latitude":30.373087,"longitude":-97.675598}}(window,'GeoPostal','US');

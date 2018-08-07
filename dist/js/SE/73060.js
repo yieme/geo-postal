@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73060"]={"code":"73060","region":"Vastmanlands lan","city":"Ramnas","latitude":59.76667,"longitude":16.2}}(window,'GeoPostal','SE');

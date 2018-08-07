@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02655"]={"code":"02655","region":"MA","city":"Osterville","latitude":41.63,"longitude":-70.3837}}(window,'GeoPostal','US');

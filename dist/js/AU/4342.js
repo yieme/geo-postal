@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4342"]={"code":"4342","region":"Queensland","city":"Glenore Grove","latitude":-27.53333,"longitude":152.4}}(window,'GeoPostal','AU');

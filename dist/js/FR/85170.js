@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85170"]={"code":"85170","region":"Pays-de-la-Loire","city":"Saint-Denis-la-Chevasse","latitude":46.82273,"longitude":-1.3575}}(window,'GeoPostal','FR');

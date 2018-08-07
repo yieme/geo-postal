@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8294"]={"code":"8294","region":"Nordland","city":"Oppeide","latitude":68.08524,"longitude":15.60314}}(window,'GeoPostal','NO');

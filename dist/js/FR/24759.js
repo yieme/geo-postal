@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24759"]={"code":"24759","region":"Nouvelle-Aquitaine","city":"Trelissac","latitude":45.19766,"longitude":0.78615}}(window,'GeoPostal','FR');

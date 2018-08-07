@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71960"]={"code":"71960","region":"Arkansas","city":"Norman","latitude":34.459162,"longitude":-93.656857}}(window,'GeoPostal','US');

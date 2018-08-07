@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1852"]={"code":"1852","region":"Noord-Holland","city":"Heiloo","latitude":52.60252,"longitude":4.68815}}(window,'GeoPostal','NL');

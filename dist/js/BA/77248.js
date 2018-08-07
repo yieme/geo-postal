@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77248"]={"code":"77248","region":"Federacija Bosne i Hercegovine","city":"Bosanska Krupa","latitude":44.8825,"longitude":16.15139}}(window,'GeoPostal','BA');

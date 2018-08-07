@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85609"]={"code":"85609","region":"Arizona","city":"Dragoon","latitude":32.032507,"longitude":-110.046287}}(window,'GeoPostal','US');

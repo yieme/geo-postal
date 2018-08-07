@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28646"]={"code":"28646","region":"NC","city":"Linville","latitude":36.0665,"longitude":-81.8704}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9365"]={"code":"9365","region":"Troms","city":"Setermoen","latitude":68.86099,"longitude":18.34857}}(window,'GeoPostal','NO');

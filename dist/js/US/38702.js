@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38702"]={"code":"38702","region":"MS","city":"Greenville","latitude":33.4258,"longitude":-90.9946}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97446"]={"code":"97446","region":"Oregon","city":"Harrisburg","latitude":44.27401,"longitude":-123.17065}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6335"]={"code":"6335","region":"Vevcani","city":"Vevcani","latitude":41.24056,"longitude":20.59333}}(window,'GeoPostal','MK');

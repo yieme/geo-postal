@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25107"]={"code":"25107","region":"WV","city":"Hernshaw","latitude":38.1942,"longitude":-81.613}}(window,'GeoPostal','US');

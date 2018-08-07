@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL13 0RW"]={"code":"LL13 0RW","region":"Wales","city":"Marchwiel","latitude":53.0239,"longitude":-2.96106}}(window,'GeoPostal','GB');

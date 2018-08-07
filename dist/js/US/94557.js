@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94557"]={"code":"94557","region":"California","city":"Hercules","latitude":37.627667,"longitude":-122.104602}}(window,'GeoPostal','US');

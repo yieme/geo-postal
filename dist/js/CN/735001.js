@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735001"]={"code":"735001","region":"Gansu","city":"Xidong","latitude":39.6,"longitude":98.4}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["560 02"]={"code":"560 02","region":"Pardubicky kraj","city":"Ceska Trebova","latitude":49.90436,"longitude":16.44413}}(window,'GeoPostal','CZ');

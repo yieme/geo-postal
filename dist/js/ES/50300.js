@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50300"]={"code":"50300","region":"Aragon","city":"Calatayud","latitude":41.35353,"longitude":-1.64318}}(window,'GeoPostal','ES');

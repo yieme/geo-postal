@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61865"]={"code":"61865","region":"IL","city":"Potomac","latitude":40.309,"longitude":-87.8232}}(window,'GeoPostal','US');

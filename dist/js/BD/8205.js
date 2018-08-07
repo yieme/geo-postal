@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8205"]={"code":"8205","region":"Dhaka","city":"Palang","latitude":23.21667,"longitude":90.35}}(window,'GeoPostal','BD');

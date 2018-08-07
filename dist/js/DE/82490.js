@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82490"]={"code":"82490","region":"Bayern","city":"Muhldorfl","latitude":47.52937,"longitude":11.11795}}(window,'GeoPostal','DE');

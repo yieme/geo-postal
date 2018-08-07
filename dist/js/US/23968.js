@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23968"]={"code":"23968","region":"Virginia","city":"Skipwith","latitude":36.730172,"longitude":-78.528491}}(window,'GeoPostal','US');

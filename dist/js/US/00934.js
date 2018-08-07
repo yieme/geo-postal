@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00934"]={"code":"00934","region":"PR","city":"Fort Buchanan","latitude":18.41,"longitude":-66.11}}(window,'GeoPostal','US');

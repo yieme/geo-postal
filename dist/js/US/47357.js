@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47357"]={"code":"47357","region":"IN","city":"Milton","latitude":39.7763,"longitude":-85.1423}}(window,'GeoPostal','US');

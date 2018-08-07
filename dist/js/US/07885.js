@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07885"]={"code":"07885","region":"NJ","city":"Wharton","latitude":40.9139,"longitude":-74.5863}}(window,'GeoPostal','US');

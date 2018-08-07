@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47929"]={"code":"47929","region":"IN","city":"Chalmers","latitude":40.6693,"longitude":-86.8626}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["172009"]={"code":"172009","region":"Tverskaya oblast'","city":"Torzhok","latitude":57.0436,"longitude":34.96221}}(window,'GeoPostal','RU');

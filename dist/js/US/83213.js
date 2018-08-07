@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83213"]={"code":"83213","region":"Idaho","city":"Arco","latitude":43.63657,"longitude":-113.30028}}(window,'GeoPostal','US');

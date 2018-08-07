@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37306"]={"code":"37306","region":"TN","city":"Belvidere","latitude":35.1415,"longitude":-86.1728}}(window,'GeoPostal','US');

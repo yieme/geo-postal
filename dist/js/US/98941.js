@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98941"]={"code":"98941","region":"Washington","city":"Roslyn","latitude":47.225,"longitude":-121.00306}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24810"]={"code":"24810","region":"Castilla y Leon","city":"Sabero","latitude":42.83593,"longitude":-5.14875}}(window,'GeoPostal','ES');

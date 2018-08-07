@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72472"]={"code":"72472","region":"Arkansas","city":"Trumann","latitude":35.66694,"longitude":-90.53916}}(window,'GeoPostal','US');

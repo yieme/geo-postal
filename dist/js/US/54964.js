@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54964"]={"code":"54964","region":"WI","city":"Pickett","latitude":43.9009,"longitude":-88.7135}}(window,'GeoPostal','US');

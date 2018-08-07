@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29770"]={"code":"29770","region":"Bretagne","city":"Audierne","latitude":48.0164,"longitude":-4.53838}}(window,'GeoPostal','FR');

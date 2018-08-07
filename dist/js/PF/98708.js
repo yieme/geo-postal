@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98708"]={"code":"98708","region":"Iles du Vent","city":"Tiarei","latitude":-17.53333,"longitude":-149.33333}}(window,'GeoPostal','PF');

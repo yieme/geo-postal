@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64307"]={"code":"64307","region":"Nouvelle-Aquitaine","city":"Orthez","latitude":43.48838,"longitude":-0.77244}}(window,'GeoPostal','FR');

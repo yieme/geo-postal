@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10840"]={"code":"10840","region":"Extremadura","city":"Moraleja","latitude":40.06682,"longitude":-6.65983}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39635"]={"code":"39635","region":"MS","city":"Fernwood","latitude":31.1855,"longitude":-90.449}}(window,'GeoPostal','US');

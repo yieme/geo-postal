@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41260"]={"code":"41260","region":"Kentucky","city":"Thelma","latitude":37.801329,"longitude":-82.768976}}(window,'GeoPostal','US');

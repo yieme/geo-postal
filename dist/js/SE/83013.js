@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83013"]={"code":"83013","region":"Jamtlands lan","city":"Are","latitude":63.39835,"longitude":13.08019}}(window,'GeoPostal','SE');

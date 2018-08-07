@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2245"]={"code":"2245","region":"Zuid-Holland","city":"Wassenaar","latitude":52.14583,"longitude":4.40278}}(window,'GeoPostal','NL');

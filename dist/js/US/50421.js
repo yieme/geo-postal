@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50421"]={"code":"50421","region":"Iowa","city":"Belmond","latitude":42.84608,"longitude":-93.6141}}(window,'GeoPostal','US');

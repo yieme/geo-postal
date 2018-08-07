@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0Y 1N0"]={"code":"G0Y 1N0","region":"Quebec","city":"Stornoway","latitude":45.71678,"longitude":-71.16577}}(window,'GeoPostal','CA');

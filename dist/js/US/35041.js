@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35041"]={"code":"35041","region":"Alabama","city":"Cardiff","latitude":33.646616,"longitude":-86.931824}}(window,'GeoPostal','US');

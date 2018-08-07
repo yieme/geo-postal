@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62854"]={"code":"62854","region":"Illinois","city":"Kinmundy","latitude":38.771786,"longitude":-88.848374}}(window,'GeoPostal','US');

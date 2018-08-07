@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442060"]={"code":"442060","region":"Penzenskaya oblast'","city":"Bashmakovo","latitude":53.21329,"longitude":43.0342}}(window,'GeoPostal','RU');

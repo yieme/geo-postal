@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28041"]={"code":"28041","region":"Piemonte","city":"Arona","latitude":45.7589,"longitude":8.55715}}(window,'GeoPostal','IT');

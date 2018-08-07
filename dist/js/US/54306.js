@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54306"]={"code":"54306","region":"Wisconsin","city":"Green Bay","latitude":44.5191,"longitude":-88.0197}}(window,'GeoPostal','US');

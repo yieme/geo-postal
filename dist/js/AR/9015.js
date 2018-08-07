@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9015"]={"code":"9015","region":"Santa Cruz","city":"Pico Truncado","latitude":-46.7949,"longitude":-67.95731}}(window,'GeoPostal','AR');

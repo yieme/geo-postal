@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38365"]={"code":"38365","region":"Tennessee","city":"Counce","latitude":35.037232,"longitude":-88.291451}}(window,'GeoPostal','US');

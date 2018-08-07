@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18449"]={"code":"18449","region":"Andalucia","city":"Alpujarra Granadina","latitude":36.93068,"longitude":-3.19565}}(window,'GeoPostal','ES');

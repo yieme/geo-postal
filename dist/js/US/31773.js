@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31773"]={"code":"31773","region":"GA","city":"Ochlocknee","latitude":30.9742,"longitude":-84.055}}(window,'GeoPostal','US');

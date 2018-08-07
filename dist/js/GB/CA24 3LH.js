@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA24 3LH"]={"code":"CA24 3LH","region":"England","city":"Moor Row","latitude":54.51515,"longitude":-3.53725}}(window,'GeoPostal','GB');

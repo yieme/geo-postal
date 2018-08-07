@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6491"]={"code":"6491","region":"Tirol","city":"Schonwies","latitude":47.19665,"longitude":10.65742}}(window,'GeoPostal','AT');

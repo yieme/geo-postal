@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98027"]={"code":"98027","region":"Sicilia","city":"Roccalumera","latitude":37.97626,"longitude":15.39519}}(window,'GeoPostal','IT');

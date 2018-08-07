@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4S 1A6"]={"code":"T4S 1A6","region":"Alberta","city":"Red Deer","latitude":52.309237,"longitude":-114.097465}}(window,'GeoPostal','CA');

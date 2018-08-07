@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42007"]={"code":"42007","region":"Jogevamaa","city":"Mustvee","latitude":58.84861,"longitude":26.93972}}(window,'GeoPostal','EE');

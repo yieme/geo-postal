@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83806"]={"code":"83806","region":"ID","city":"Bovill","latitude":46.8588,"longitude":-116.3935}}(window,'GeoPostal','US');

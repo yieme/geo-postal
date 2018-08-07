@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01068"]={"code":"01068","region":"Massachusetts","city":"Oakham","latitude":42.35287,"longitude":-72.04535}}(window,'GeoPostal','US');

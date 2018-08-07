@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238131"]={"code":"238131","region":"Anhui","city":"Yuncao","latitude":31.42266,"longitude":118.0741}}(window,'GeoPostal','CN');

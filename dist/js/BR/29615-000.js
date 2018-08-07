@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29615-000"]={"code":"29615-000","region":"Espirito Santo","city":"Laranja da Terra","latitude":-19.89889,"longitude":-41.05667}}(window,'GeoPostal','BR');

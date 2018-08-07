@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77962"]={"code":"77962","region":"Texas","city":"Ganado","latitude":29.04054,"longitude":-96.51358}}(window,'GeoPostal','US');

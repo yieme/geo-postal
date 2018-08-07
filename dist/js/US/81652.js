@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81652"]={"code":"81652","region":"Colorado","city":"Silt","latitude":39.54859,"longitude":-107.65617}}(window,'GeoPostal','US');

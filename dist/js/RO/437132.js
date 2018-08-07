@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437132"]={"code":"437132","region":"Maramures","city":"Lapus","latitude":47.5,"longitude":24.01667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM3 1QX"]={"code":"CM3 1QX","region":"England","city":"Great Leighs","latitude":51.82761,"longitude":0.5064}}(window,'GeoPostal','GB');

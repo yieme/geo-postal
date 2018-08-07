@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27163"]={"code":"27163","region":"Galicia","city":"Corgo","latitude":42.94434,"longitude":-7.4314}}(window,'GeoPostal','ES');

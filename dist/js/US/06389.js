@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06389"]={"code":"06389","region":"Connecticut","city":"Yantic","latitude":41.560022,"longitude":-72.122739}}(window,'GeoPostal','US');

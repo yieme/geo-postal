@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141340"]={"code":"141340","region":"Moskovskaya oblast'","city":"Konstantinovo","latitude":56.55,"longitude":38.03333}}(window,'GeoPostal','RU');

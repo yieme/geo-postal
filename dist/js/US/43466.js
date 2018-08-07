@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43466"]={"code":"43466","region":"OH","city":"Wayne","latitude":41.2993,"longitude":-83.4701}}(window,'GeoPostal','US');

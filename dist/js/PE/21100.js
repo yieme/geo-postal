@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21100"]={"code":"21100","region":"Puno","city":"Juliaca","latitude":-15.5,"longitude":-70.13333}}(window,'GeoPostal','PE');

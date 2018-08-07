@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74592"]={"code":"74592","region":"Baden-Wurttemberg","city":"Diembot","latitude":49.21583,"longitude":9.94652}}(window,'GeoPostal','DE');

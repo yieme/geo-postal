@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA13 2DB"]={"code":"SA13 2DB","region":"Wales","city":"Margam","latitude":51.5731,"longitude":-3.75735}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69922-000"]={"code":"69922-000","region":"Acre","city":"Senador Guiomard","latitude":-10.15222,"longitude":-67.73917}}(window,'GeoPostal','BR');

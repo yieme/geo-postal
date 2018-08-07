@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55550-000"]={"code":"55550-000","region":"Pernambuco","city":"Agua Preta","latitude":-8.7075,"longitude":-35.53056}}(window,'GeoPostal','BR');

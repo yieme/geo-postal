@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1211"]={"code":"1211","region":"Tearce","city":"Dobroste","latitude":42.10333,"longitude":21.07778}}(window,'GeoPostal','MK');

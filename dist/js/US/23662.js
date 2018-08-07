@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23662"]={"code":"23662","region":"VA","city":"Poquoson","latitude":37.1313,"longitude":-76.3807}}(window,'GeoPostal','US');

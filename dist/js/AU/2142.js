@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2142"]={"code":"2142","region":"New South Wales","city":"Clyde","latitude":-33.83333,"longitude":151.01667}}(window,'GeoPostal','AU');

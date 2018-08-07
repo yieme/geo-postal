@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G5Y 2E6"]={"code":"G5Y 2E6","region":"Quebec","city":"Saint-Georges-de-Beauce","latitude":46.11353,"longitude":-70.66526}}(window,'GeoPostal','CA');

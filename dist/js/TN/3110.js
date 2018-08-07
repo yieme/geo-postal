@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3110"]={"code":"3110","region":"Kairouan","city":"Sbikha","latitude":35.93325,"longitude":10.02081}}(window,'GeoPostal','TN');

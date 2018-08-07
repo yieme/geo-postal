@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE19 1AA"]={"code":"NE19 1AA","region":"England","city":"Elsdon","latitude":55.23288,"longitude":-2.10249}}(window,'GeoPostal','GB');

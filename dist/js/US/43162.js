@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43162"]={"code":"43162","region":"Ohio","city":"West Jefferson","latitude":39.942832,"longitude":-83.291109}}(window,'GeoPostal','US');

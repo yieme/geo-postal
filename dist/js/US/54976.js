@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54976"]={"code":"54976","region":"Wisconsin","city":"Saxeville","latitude":44.17608,"longitude":-89.1144}}(window,'GeoPostal','US');

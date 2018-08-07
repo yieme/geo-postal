@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94820"]={"code":"94820","region":"CA","city":"El Sobrante","latitude":37.9771,"longitude":-122.2952}}(window,'GeoPostal','US');

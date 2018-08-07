@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7400"]={"code":"7400","region":"Burgenland","city":"Oberwart","latitude":47.28333,"longitude":16.2}}(window,'GeoPostal','AT');

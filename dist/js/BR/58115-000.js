@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58115-000"]={"code":"58115-000","region":"Paraiba","city":"Campina Grande","latitude":-7.23056,"longitude":-35.88111}}(window,'GeoPostal','BR');

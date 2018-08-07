@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78371"]={"code":"78371","region":"Ile-de-France","city":"Plaisir","latitude":48.82319,"longitude":1.9541}}(window,'GeoPostal','FR');

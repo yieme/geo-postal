@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-338"]={"code":"44-338","region":"Slaskie","city":"Jastrzebie Zdroj","latitude":49.95542,"longitude":18.57479}}(window,'GeoPostal','PL');

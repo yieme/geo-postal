@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89429"]={"code":"89429","region":"Nevada","city":"Silver Springs","latitude":39.41547,"longitude":-119.22461}}(window,'GeoPostal','US');

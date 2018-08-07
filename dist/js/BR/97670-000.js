@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97670-000"]={"code":"97670-000","region":"Rio Grande do Sul","city":"Sao Borja","latitude":-28.66056,"longitude":-56.00444}}(window,'GeoPostal','BR');

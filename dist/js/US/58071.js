@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58071"]={"code":"58071","region":"ND","city":"Tower City","latitude":46.9119,"longitude":-97.6594}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68946"]={"code":"68946","region":"NE","city":"Hendley","latitude":40.1063,"longitude":-99.9715}}(window,'GeoPostal','US');

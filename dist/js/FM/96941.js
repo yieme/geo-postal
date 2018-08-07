@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96941"]={"code":"96941","region":"Pohnpei","city":"Kolonia","latitude":6.964,"longitude":158.2064}}(window,'GeoPostal','FM');

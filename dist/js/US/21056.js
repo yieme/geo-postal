@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21056"]={"code":"21056","region":"MD","city":"Gibson Island","latitude":39.0751,"longitude":-76.4324}}(window,'GeoPostal','US');

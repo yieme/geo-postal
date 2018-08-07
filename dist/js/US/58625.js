@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58625"]={"code":"58625","region":"ND","city":"Dodge","latitude":47.3049,"longitude":-102.1985}}(window,'GeoPostal','US');

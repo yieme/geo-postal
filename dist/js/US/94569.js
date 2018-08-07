@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94569"]={"code":"94569","region":"CA","city":"Port Costa","latitude":38.046,"longitude":-122.1866}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE28 8AT"]={"code":"SE28 8AT","region":"England","city":"Woolwich","latitude":51.491,"longitude":0.0648}}(window,'GeoPostal','GB');

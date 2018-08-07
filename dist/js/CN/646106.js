@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646106"]={"code":"646106","region":"Sichuan","city":"Fuji","latitude":29.14819,"longitude":105.37391}}(window,'GeoPostal','CN');

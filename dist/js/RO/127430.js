@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127430"]={"code":"127430","region":"Iasi","city":"Buruenesti","latitude":45.31667,"longitude":26.35}}(window,'GeoPostal','RO');

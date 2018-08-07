@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41544"]={"code":"41544","region":"KY","city":"Mc Carr","latitude":37.5969,"longitude":-82.1674}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78990"]={"code":"78990","region":"Ile-de-France","city":"Elancourt","latitude":48.7842,"longitude":1.9552}}(window,'GeoPostal','FR');

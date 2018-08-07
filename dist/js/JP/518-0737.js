@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["518-0737"]={"code":"518-0737","region":"Mie","city":"Nabari","latitude":34.633,"longitude":136.1}}(window,'GeoPostal','JP');

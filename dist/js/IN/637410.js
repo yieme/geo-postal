@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["637410"]={"code":"637410","region":"Tamil Nadu","city":"Manapparai","latitude":10.6,"longitude":78.41667}}(window,'GeoPostal','IN');

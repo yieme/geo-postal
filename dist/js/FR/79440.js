@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79440"]={"code":"79440","region":"Nouvelle-Aquitaine","city":"Courlay","latitude":46.77941,"longitude":-0.56607}}(window,'GeoPostal','FR');

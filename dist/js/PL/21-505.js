@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-505"]={"code":"21-505","region":"Lubelskie","city":"Janow Podlaski","latitude":52.19398,"longitude":23.21218}}(window,'GeoPostal','PL');

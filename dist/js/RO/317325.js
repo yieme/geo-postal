@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317325"]={"code":"317325","region":"Arad","city":"Sicula","latitude":46.43333,"longitude":21.75}}(window,'GeoPostal','RO');

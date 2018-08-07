@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF9 3RS"]={"code":"TF9 3RS","region":"England","city":"Moreton Say","latitude":52.90605,"longitude":-2.55237}}(window,'GeoPostal','GB');

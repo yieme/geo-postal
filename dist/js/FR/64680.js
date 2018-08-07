@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64680"]={"code":"64680","region":"Nouvelle-Aquitaine","city":"Ogeu-les-Bains","latitude":43.15,"longitude":-0.5}}(window,'GeoPostal','FR');

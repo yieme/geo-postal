@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30113"]={"code":"30113","region":"GA","city":"Buchanan","latitude":33.8283,"longitude":-85.1506}}(window,'GeoPostal','US');

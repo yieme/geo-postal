@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10370"]={"code":"10370","region":"Zagrebacka zupanija","city":"Gracec","latitude":45.83333,"longitude":16.31667}}(window,'GeoPostal','HR');

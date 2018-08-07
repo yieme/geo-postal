@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7342"]={"code":"7342","region":"Baranya","city":"Magocs","latitude":46.34998,"longitude":18.2324}}(window,'GeoPostal','HU');

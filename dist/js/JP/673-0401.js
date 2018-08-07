@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673-0401"]={"code":"673-0401","region":"Hyogo","city":"Miki","latitude":34.79361,"longitude":134.99306}}(window,'GeoPostal','JP');

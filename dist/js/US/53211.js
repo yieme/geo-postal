@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53211"]={"code":"53211","region":"Wisconsin","city":"Shorewood","latitude":43.083389,"longitude":-87.88613}}(window,'GeoPostal','US');

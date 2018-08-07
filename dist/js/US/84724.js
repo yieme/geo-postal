@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84724"]={"code":"84724","region":"Utah","city":"Elsinore","latitude":38.676463,"longitude":-112.143981}}(window,'GeoPostal','US');

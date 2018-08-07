@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217277"]={"code":"217277","region":"Gorj","city":"Lelesti","latitude":45.1,"longitude":23.2}}(window,'GeoPostal','RO');

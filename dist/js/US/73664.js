@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73664"]={"code":"73664","region":"OK","city":"Sentinel","latitude":35.1617,"longitude":-99.1706}}(window,'GeoPostal','US');

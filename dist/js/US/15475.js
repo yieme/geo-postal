@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15475"]={"code":"15475","region":"PA","city":"Republic","latitude":39.9626,"longitude":-79.8767}}(window,'GeoPostal','US');

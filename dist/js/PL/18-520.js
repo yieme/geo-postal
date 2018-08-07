@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-520"]={"code":"18-520","region":"Podlaskie","city":"Stawiski","latitude":53.37987,"longitude":22.15462}}(window,'GeoPostal','PL');

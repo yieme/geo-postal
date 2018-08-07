@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0A 3A0"]={"code":"G0A 3A0","region":"Quebec","city":"Riviere-a-Pierre","latitude":46.98336,"longitude":-72.18238}}(window,'GeoPostal','CA');

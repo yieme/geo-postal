@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76939"]={"code":"76939","region":"TX","city":"Knickerbocker","latitude":31.2501,"longitude":-100.592}}(window,'GeoPostal','US');

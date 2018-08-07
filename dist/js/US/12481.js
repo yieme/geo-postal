@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12481"]={"code":"12481","region":"NY","city":"Shokan","latitude":41.9767,"longitude":-74.2119}}(window,'GeoPostal','US');

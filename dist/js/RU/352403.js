@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352403"]={"code":"352403","region":"Krasnodarskiy kray","city":"Temirgoyevskaya","latitude":45.11414,"longitude":40.28027}}(window,'GeoPostal','RU');

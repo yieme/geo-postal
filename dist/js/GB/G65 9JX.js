@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G65 9JX"]={"code":"G65 9JX","region":"Scotland","city":"Kilsyth","latitude":55.97596,"longitude":-4.05916}}(window,'GeoPostal','GB');

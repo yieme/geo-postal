@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8321"]={"code":"8321","region":"Straza","city":"Straza","latitude":45.78,"longitude":15.07278}}(window,'GeoPostal','SI');

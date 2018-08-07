@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83420"]={"code":"83420","region":"Provence-Alpes-Cote d'Azur","city":"La Croix-Valmer","latitude":43.20795,"longitude":6.56696}}(window,'GeoPostal','FR');

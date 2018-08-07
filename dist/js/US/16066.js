@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16066"]={"code":"16066","region":"Pennsylvania","city":"Cranberry","latitude":40.706353,"longitude":-80.108529}}(window,'GeoPostal','US');

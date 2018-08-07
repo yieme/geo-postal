@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03045"]={"code":"03045","region":"Lazio","city":"Esperia","latitude":41.38292,"longitude":13.68691}}(window,'GeoPostal','IT');

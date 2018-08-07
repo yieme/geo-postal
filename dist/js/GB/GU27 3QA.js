@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU27 3QA"]={"code":"GU27 3QA","region":"England","city":"Linchmere","latitude":51.08379,"longitude":-0.74218}}(window,'GeoPostal','GB');

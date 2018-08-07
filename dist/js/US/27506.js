@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27506"]={"code":"27506","region":"North Carolina","city":"Buies Creek","latitude":35.41322,"longitude":-78.73557}}(window,'GeoPostal','US');

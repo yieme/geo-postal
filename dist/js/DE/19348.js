@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19348"]={"code":"19348","region":"Brandenburg","city":"Karstadt","latitude":53.15,"longitude":11.75}}(window,'GeoPostal','DE');

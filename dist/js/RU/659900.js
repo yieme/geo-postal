@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659900"]={"code":"659900","region":"Altayskiy kray","city":"Belokurikha","latitude":51.9959,"longitude":84.9896}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["520-110"]={"code":"520-110","region":"Jeollanam-do","city":"Naju","latitude":35.02833,"longitude":126.7175}}(window,'GeoPostal','KR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49788"]={"code":"49788","region":"MI","city":"Kincheloe","latitude":46.2627,"longitude":-84.4626}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95699"]={"code":"95699","region":"CA","city":"Drytown","latitude":38.4411,"longitude":-120.8533}}(window,'GeoPostal','US');

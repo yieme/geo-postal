@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87575"]={"code":"87575","region":"NM","city":"Tierra Amarilla","latitude":36.6805,"longitude":-106.557}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98651"]={"code":"98651","region":"Avtonomna Respublika Krym","city":"Massandra","latitude":44.51892,"longitude":34.18593}}(window,'GeoPostal','UA');

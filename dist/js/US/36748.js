@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36748"]={"code":"36748","region":"Alabama","city":"Linden","latitude":32.30625,"longitude":-87.79807}}(window,'GeoPostal','US');

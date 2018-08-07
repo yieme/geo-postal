@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0R 2W0"]={"code":"V0R 2W0","region":"British Columbia","city":"Shawnigan Lake","latitude":48.651104,"longitude":-123.645062}}(window,'GeoPostal','CA');

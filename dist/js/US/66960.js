@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66960"]={"code":"66960","region":"Kansas","city":"Narka","latitude":39.958557,"longitude":-97.424826}}(window,'GeoPostal','US');

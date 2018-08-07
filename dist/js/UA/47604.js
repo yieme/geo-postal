@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47604"]={"code":"47604","region":"Ternopilska oblast","city":"Kozova","latitude":49.43544,"longitude":25.15086}}(window,'GeoPostal','UA');

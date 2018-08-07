@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27943"]={"code":"27943","region":"North Carolina","city":"Hatteras","latitude":35.21944,"longitude":-75.69028}}(window,'GeoPostal','US');

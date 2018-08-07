@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04417"]={"code":"04417","region":"Maine","city":"Burlington","latitude":45.17851,"longitude":-68.43759}}(window,'GeoPostal','US');

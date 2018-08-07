@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28103"]={"code":"28103","region":"Kirovohradska oblast","city":"Onufriyivka","latitude":48.90716,"longitude":33.44869}}(window,'GeoPostal','UA');

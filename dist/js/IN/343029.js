@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["343029"]={"code":"343029","region":"Rajasthan","city":"Jalor","latitude":25.35,"longitude":72.61667}}(window,'GeoPostal','IN');

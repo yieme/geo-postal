@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0R 3X0"]={"code":"G0R 3X0","region":"Quebec","city":"Saint-Pamphile","latitude":46.9578,"longitude":-69.7806}}(window,'GeoPostal','CA');

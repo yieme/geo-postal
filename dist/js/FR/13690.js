@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13690"]={"code":"13690","region":"Provence-Alpes-Cote d'Azur","city":"Graveson","latitude":43.85134,"longitude":4.77189}}(window,'GeoPostal','FR');

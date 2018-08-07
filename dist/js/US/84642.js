@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84642"]={"code":"84642","region":"Utah","city":"Manti","latitude":39.264986,"longitude":-111.637731}}(window,'GeoPostal','US');

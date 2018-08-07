@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73440"]={"code":"73440","region":"Auvergne-Rhone-Alpes","city":"Saint-Martin-de-Belleville","latitude":45.38175,"longitude":6.50519}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24861"]={"code":"24861","region":"WV","city":"Maybeury","latitude":37.3709,"longitude":-81.3665}}(window,'GeoPostal','US');

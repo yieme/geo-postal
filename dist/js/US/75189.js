@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75189"]={"code":"75189","region":"Texas","city":"Royse City","latitude":32.9669,"longitude":-96.3041}}(window,'GeoPostal','US');

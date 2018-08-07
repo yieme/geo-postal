@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-310"]={"code":"97-310","region":"Malopolskie","city":"Moszczenica","latitude":49.73668,"longitude":21.09238}}(window,'GeoPostal','PL');

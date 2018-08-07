@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W2 6JR"]={"code":"W2 6JR","region":"England","city":"Paddington","latitude":51.51558,"longitude":-0.1763}}(window,'GeoPostal','GB');

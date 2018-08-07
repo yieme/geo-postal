@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21061"]={"code":"21061","region":"Maryland","city":"Glen Burnie","latitude":39.1627,"longitude":-76.6354}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71414"]={"code":"71414","region":"LA","city":"Clarence","latitude":31.8216,"longitude":-93.0296}}(window,'GeoPostal','US');

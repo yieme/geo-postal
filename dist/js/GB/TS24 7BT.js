@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS24 7BT"]={"code":"TS24 7BT","region":"England","city":"Hartlepool","latitude":54.68611,"longitude":-1.2125}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624802"]={"code":"624802","region":"Tamil Nadu","city":"Dindigul","latitude":10.35,"longitude":77.95}}(window,'GeoPostal','IN');

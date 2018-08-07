@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12067"]={"code":"12067","region":"NY","city":"Feura Bush","latitude":42.555,"longitude":-73.9237}}(window,'GeoPostal','US');

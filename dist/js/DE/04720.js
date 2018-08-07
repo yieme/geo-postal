@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04720"]={"code":"04720","region":"Sachsen","city":"Pommlitz","latitude":51.13621,"longitude":13.12903}}(window,'GeoPostal','DE');

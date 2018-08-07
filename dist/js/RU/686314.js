@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["686314"]={"code":"686314","region":"Magadanskaya oblast'","city":"Susuman","latitude":62.78333,"longitude":148.16667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 3XE"]={"code":"SA62 3XE","region":"Wales","city":"Talbenny","latitude":51.76472,"longitude":-5.1325}}(window,'GeoPostal','GB');

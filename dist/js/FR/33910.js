@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33910"]={"code":"33910","region":"Nouvelle-Aquitaine","city":"Sablons","latitude":45.03333,"longitude":-0.18333}}(window,'GeoPostal','FR');

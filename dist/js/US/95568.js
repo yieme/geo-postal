@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95568"]={"code":"95568","region":"CA","city":"Somes Bar","latitude":41.4533,"longitude":-123.4634}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93466"]={"code":"93466","region":"Bayern","city":"Chameregg","latitude":49.21101,"longitude":12.71095}}(window,'GeoPostal','DE');

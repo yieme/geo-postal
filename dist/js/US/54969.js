@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54969"]={"code":"54969","region":"WI","city":"Readfield","latitude":44.27,"longitude":-88.7755}}(window,'GeoPostal','US');

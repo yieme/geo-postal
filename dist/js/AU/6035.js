@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6035"]={"code":"6035","region":"Western Australia","city":"Yanchep","latitude":-31.54678,"longitude":115.63171}}(window,'GeoPostal','AU');

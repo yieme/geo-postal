@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4448"]={"code":"4448","region":"Basel-Landschaft","city":"Laufelfingen","latitude":47.39457,"longitude":7.85578}}(window,'GeoPostal','CH');

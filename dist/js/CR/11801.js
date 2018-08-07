@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11801"]={"code":"11801","region":"San Jose","city":"Curridabat","latitude":9.91178,"longitude":-84.03407}}(window,'GeoPostal','CR');

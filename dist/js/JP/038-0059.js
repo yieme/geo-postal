@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["038-0059"]={"code":"038-0059","region":"Aomori","city":"Aomori","latitude":40.817,"longitude":140.75}}(window,'GeoPostal','JP');

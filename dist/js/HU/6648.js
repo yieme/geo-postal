@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6648"]={"code":"6648","region":"Csongrad","city":"Csanytelek","latitude":46.595,"longitude":20.12342}}(window,'GeoPostal','HU');

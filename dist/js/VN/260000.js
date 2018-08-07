@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["260000"]={"code":"260000","region":"Bac Kan","city":"Bac Kan","latitude":22.13333,"longitude":105.83333}}(window,'GeoPostal','VN');

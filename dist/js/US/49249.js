@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49249"]={"code":"49249","region":"MI","city":"Jerome","latitude":42.0484,"longitude":-84.4455}}(window,'GeoPostal','US');

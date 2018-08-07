@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75494"]={"code":"75494","region":"Texas","city":"Winnsboro","latitude":32.95734,"longitude":-95.29022}}(window,'GeoPostal','US');

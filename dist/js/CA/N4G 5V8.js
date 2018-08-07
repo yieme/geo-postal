@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N4G 5V8"]={"code":"N4G 5V8","region":"Ontario","city":"Tillsonburg","latitude":42.862502,"longitude":-80.727518}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83997"]={"code":"83997","region":"Provence-Alpes-Cote d'Azur","city":"Saint-Tropez","latitude":43.26932,"longitude":6.63981}}(window,'GeoPostal','FR');

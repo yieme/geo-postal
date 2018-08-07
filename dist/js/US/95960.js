@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95960"]={"code":"95960","region":"California","city":"North San Juan","latitude":39.338802,"longitude":-121.130853}}(window,'GeoPostal','US');

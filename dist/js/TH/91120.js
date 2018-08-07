@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91120"]={"code":"91120","region":"Trang","city":"Palian","latitude":7.17228,"longitude":99.68633}}(window,'GeoPostal','TH');

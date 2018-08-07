@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94234"]={"code":"94234","region":"Bayern","city":"Viechtach","latitude":49.08001,"longitude":12.88566}}(window,'GeoPostal','DE');

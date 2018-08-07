@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07000"]={"code":"07000","region":"Auvergne-Rhone-Alpes","city":"Flaviac","latitude":44.74777,"longitude":4.67434}}(window,'GeoPostal','FR');

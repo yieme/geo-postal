@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5252"]={"code":"5252","region":"South Australia","city":"Kanmantoo","latitude":-35.06667,"longitude":139.01667}}(window,'GeoPostal','AU');

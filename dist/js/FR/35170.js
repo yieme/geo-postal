@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35170"]={"code":"35170","region":"Bretagne","city":"Bruz","latitude":48.0242,"longitude":-1.74591}}(window,'GeoPostal','FR');

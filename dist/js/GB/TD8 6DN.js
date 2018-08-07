@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD8 6DN"]={"code":"TD8 6DN","region":"Scotland","city":"Jedburgh","latitude":55.47997,"longitude":-2.552}}(window,'GeoPostal','GB');

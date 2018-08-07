@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HA3 6NR"]={"code":"HA3 6NR","region":"England","city":"Hatch End","latitude":51.60789,"longitude":-0.37367}}(window,'GeoPostal','GB');

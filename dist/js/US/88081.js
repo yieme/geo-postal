@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88081"]={"code":"88081","region":"New Mexico","city":"Chaparral","latitude":32.01166,"longitude":-106.571355}}(window,'GeoPostal','US');

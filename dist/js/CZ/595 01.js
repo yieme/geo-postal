@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["595 01"]={"code":"595 01","region":"Kraj Vysocina","city":"Velka Bites","latitude":49.28838,"longitude":16.22742}}(window,'GeoPostal','CZ');

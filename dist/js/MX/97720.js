@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97720"]={"code":"97720","region":"Yucatan","city":"Rio Lagartos","latitude":21.6,"longitude":-88.16667}}(window,'GeoPostal','MX');

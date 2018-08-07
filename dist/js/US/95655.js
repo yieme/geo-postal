@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95655"]={"code":"95655","region":"California","city":"Mather","latitude":38.546459,"longitude":-121.278311}}(window,'GeoPostal','US');

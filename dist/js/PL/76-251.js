@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76-251"]={"code":"76-251","region":"Wielkopolskie","city":"Kobylnica","latitude":52.44597,"longitude":17.07644}}(window,'GeoPostal','PL');

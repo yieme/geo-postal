@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9488"]={"code":"9488","region":"Free State","city":"Welkom","latitude":-27.98644,"longitude":26.70661}}(window,'GeoPostal','ZA');

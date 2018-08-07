@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["077120"]={"code":"077120","region":"Ilfov","city":"Jilava","latitude":44.33333,"longitude":26.07806}}(window,'GeoPostal','RO');

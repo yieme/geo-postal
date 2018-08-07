@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0K 1G0"]={"code":"P0K 1G0","region":"Ontario","city":"Ansonville","latitude":48.75018,"longitude":-80.68307}}(window,'GeoPostal','CA');

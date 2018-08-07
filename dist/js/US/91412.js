@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91412"]={"code":"91412","region":"CA","city":"Panorama City","latitude":34.2247,"longitude":-118.4498}}(window,'GeoPostal','US');

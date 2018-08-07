@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31800"]={"code":"31800","region":"Occitanie","city":"Labarthe-Riviere","latitude":43.081,"longitude":0.67134}}(window,'GeoPostal','FR');

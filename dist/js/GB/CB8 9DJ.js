@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB8 9DJ"]={"code":"CB8 9DJ","region":"England","city":"Cheveley","latitude":52.22049,"longitude":0.4643}}(window,'GeoPostal','GB');

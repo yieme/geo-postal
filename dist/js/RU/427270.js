@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427270"]={"code":"427270","region":"Udmurtskaya Respublika","city":"Selty","latitude":57.3132,"longitude":52.1345}}(window,'GeoPostal','RU');

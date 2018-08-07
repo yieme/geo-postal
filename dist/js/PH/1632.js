@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1632"]={"code":"1632","region":"Rizal","city":"Taguig","latitude":14.5243,"longitude":121.0792}}(window,'GeoPostal','PH');

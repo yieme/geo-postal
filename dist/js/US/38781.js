@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38781"]={"code":"38781","region":"MS","city":"Winstonville","latitude":33.9101,"longitude":-90.7515}}(window,'GeoPostal','US');

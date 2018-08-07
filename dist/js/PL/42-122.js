@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-122"]={"code":"42-122","region":"Slaskie","city":"Ostrowy nad Oksza","latitude":50.97799,"longitude":19.05355}}(window,'GeoPostal','PL');

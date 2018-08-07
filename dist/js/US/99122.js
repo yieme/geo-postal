@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99122"]={"code":"99122","region":"Washington","city":"Davenport","latitude":47.65405,"longitude":-118.14997}}(window,'GeoPostal','US');

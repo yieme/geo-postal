@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4601"]={"code":"4601","region":"Solothurn","city":"Olten","latitude":47.34999,"longitude":7.90329}}(window,'GeoPostal','CH');

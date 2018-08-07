@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35595-000"]={"code":"35595-000","region":"Minas Gerais","city":"Luz","latitude":-19.80139,"longitude":-45.68556}}(window,'GeoPostal','BR');

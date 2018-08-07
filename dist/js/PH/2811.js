@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2811"]={"code":"2811","region":"Abra","city":"Villaviciosa","latitude":17.4379,"longitude":120.6262}}(window,'GeoPostal','PH');

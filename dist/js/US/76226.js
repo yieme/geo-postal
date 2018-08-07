@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76226"]={"code":"76226","region":"Texas","city":"Argyle","latitude":33.10483,"longitude":-97.164815}}(window,'GeoPostal','US');

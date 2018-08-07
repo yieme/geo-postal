@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58000"]={"code":"58000","region":"Bilecik","city":"Pazaryeri","latitude":39.99395,"longitude":29.90424}}(window,'GeoPostal','TR');

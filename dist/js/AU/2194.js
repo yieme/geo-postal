@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2194"]={"code":"2194","region":"New South Wales","city":"Campsie","latitude":-33.9125,"longitude":151.10279}}(window,'GeoPostal','AU');

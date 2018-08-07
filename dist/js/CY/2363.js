@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2363"]={"code":"2363","region":"Lefkosia","city":"Nicosia","latitude":35.16667,"longitude":33.36667}}(window,'GeoPostal','CY');

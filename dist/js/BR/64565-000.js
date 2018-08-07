@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64565-000"]={"code":"64565-000","region":"Piaui","city":"Itainopolis","latitude":-7.44694,"longitude":-41.47833}}(window,'GeoPostal','BR');

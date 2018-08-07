@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7504"]={"code":"7504","region":"Dolneni","city":"Desovo","latitude":41.46278,"longitude":21.49111}}(window,'GeoPostal','MK');

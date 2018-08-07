@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82411"]={"code":"82411","region":"Wyoming","city":"Burlington","latitude":44.446111,"longitude":-108.430556}}(window,'GeoPostal','US');

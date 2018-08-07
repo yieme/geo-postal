@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45150"]={"code":"45150","region":"Roi Et","city":"Kaset Wisai","latitude":15.65558,"longitude":103.58361}}(window,'GeoPostal','TH');

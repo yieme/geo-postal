@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8653"]={"code":"8653","region":"Somogy","city":"Adand","latitude":46.85931,"longitude":18.16442}}(window,'GeoPostal','HU');

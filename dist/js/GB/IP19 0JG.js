@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP19 0JG"]={"code":"IP19 0JG","region":"England","city":"Wissett","latitude":52.36106,"longitude":1.47316}}(window,'GeoPostal','GB');

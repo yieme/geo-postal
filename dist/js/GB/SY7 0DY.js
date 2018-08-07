@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY7 0DY"]={"code":"SY7 0DY","region":"England","city":"Lingen","latitude":52.3,"longitude":-2.93333}}(window,'GeoPostal','GB');

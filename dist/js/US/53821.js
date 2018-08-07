@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53821"]={"code":"53821","region":"Wisconsin","city":"Prairie du Chien","latitude":43.05165,"longitude":-91.14124}}(window,'GeoPostal','US');

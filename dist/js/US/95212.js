@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95212"]={"code":"95212","region":"California","city":"Stockton","latitude":38.038295,"longitude":-121.237325}}(window,'GeoPostal','US');

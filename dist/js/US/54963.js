@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54963"]={"code":"54963","region":"WI","city":"Omro","latitude":44.0357,"longitude":-88.7519}}(window,'GeoPostal','US');

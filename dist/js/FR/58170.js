@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58170"]={"code":"58170","region":"Bourgogne-Franche-Comte","city":"Luzy","latitude":46.79011,"longitude":3.97036}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76071"]={"code":"76071","region":"TX","city":"Newark","latitude":33.007,"longitude":-97.4923}}(window,'GeoPostal','US');

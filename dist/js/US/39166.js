@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39166"]={"code":"39166","region":"MS","city":"Silver City","latitude":33.0507,"longitude":-90.4928}}(window,'GeoPostal','US');

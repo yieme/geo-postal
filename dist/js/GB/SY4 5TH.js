@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY4 5TH"]={"code":"SY4 5TH","region":"England","city":"Petton","latitude":52.83333,"longitude":-2.83333}}(window,'GeoPostal','GB');

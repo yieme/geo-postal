@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64193"]={"code":"64193","region":"MO","city":"Centerre Bank Of Kc","latitude":39.08,"longitude":-94.58}}(window,'GeoPostal','US');

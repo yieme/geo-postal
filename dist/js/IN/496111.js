@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["496111"]={"code":"496111","region":"Chhattisgarh","city":"Gharghoda","latitude":22.16667,"longitude":83.35}}(window,'GeoPostal','IN');

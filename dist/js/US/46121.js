@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46121"]={"code":"46121","region":"IN","city":"Coatesville","latitude":39.6878,"longitude":-86.6703}}(window,'GeoPostal','US');

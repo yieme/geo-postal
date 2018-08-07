@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77144"]={"code":"77144","region":"Ile-de-France","city":"Chalifert","latitude":48.88993,"longitude":2.77339}}(window,'GeoPostal','FR');

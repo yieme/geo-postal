@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72851"]={"code":"72851","region":"AR","city":"New Blaine","latitude":35.3189,"longitude":-93.4446}}(window,'GeoPostal','US');

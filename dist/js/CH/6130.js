@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6130"]={"code":"6130","region":"Luzern","city":"Willisau","latitude":47.12183,"longitude":7.99418}}(window,'GeoPostal','CH');

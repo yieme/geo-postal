@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60164"]={"code":"60164","region":"Illinois","city":"Northlake","latitude":41.924177,"longitude":-87.889271}}(window,'GeoPostal','US');

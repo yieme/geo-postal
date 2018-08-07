@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629750"]={"code":"629750","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Nyda","latitude":66.62472,"longitude":72.92278}}(window,'GeoPostal','RU');

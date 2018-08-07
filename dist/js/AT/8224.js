@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8224"]={"code":"8224","region":"Steiermark","city":"Kaindorf","latitude":47.21667,"longitude":15.9}}(window,'GeoPostal','AT');

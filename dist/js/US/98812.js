@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98812"]={"code":"98812","region":"Washington","city":"Brewster","latitude":48.09598,"longitude":-119.78062}}(window,'GeoPostal','US');

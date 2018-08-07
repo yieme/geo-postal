@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74818"]={"code":"74818","region":"Oklahoma","city":"Seminole","latitude":35.22452,"longitude":-96.67057}}(window,'GeoPostal','US');

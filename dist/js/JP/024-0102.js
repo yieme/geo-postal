@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["024-0102"]={"code":"024-0102","region":"Iwate","city":"Kitakami","latitude":39.283,"longitude":141.117}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9492"]={"code":"9492","region":"Eschen","city":"Eschen","latitude":47.21071,"longitude":9.52223}}(window,'GeoPostal','LI');

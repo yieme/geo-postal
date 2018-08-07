@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28604"]={"code":"28604","region":"North Carolina","city":"Banner Elk","latitude":36.1722,"longitude":-81.82518}}(window,'GeoPostal','US');

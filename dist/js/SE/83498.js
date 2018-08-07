@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83498"]={"code":"83498","region":"Jamtlands lan","city":"Brunflo","latitude":63.07586,"longitude":14.83203}}(window,'GeoPostal','SE');

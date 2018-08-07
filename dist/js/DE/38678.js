@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38678"]={"code":"38678","region":"Niedersachsen","city":"Clausthal","latitude":51.8,"longitude":10.33333}}(window,'GeoPostal','DE');

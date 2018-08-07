@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85920"]={"code":"85920","region":"Arizona","city":"Alpine","latitude":33.81823,"longitude":-109.20151}}(window,'GeoPostal','US');

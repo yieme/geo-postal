@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63000"]={"code":"63000","region":"Selangor","city":"Cyberjaya","latitude":2.9225,"longitude":101.655}}(window,'GeoPostal','MY');

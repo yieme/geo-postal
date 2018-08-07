@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2445"]={"code":"2445","region":"Pangasinan","city":"Tayug","latitude":16.0274,"longitude":120.7434}}(window,'GeoPostal','PH');

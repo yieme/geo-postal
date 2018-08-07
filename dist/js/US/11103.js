@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11103"]={"code":"11103","region":"New York","city":"Astoria","latitude":40.762706,"longitude":-73.912655}}(window,'GeoPostal','US');

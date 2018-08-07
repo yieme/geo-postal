@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26103"]={"code":"26103","region":"Chaouia-Ouardigha","city":"Berrechid","latitude":33.26553,"longitude":-7.58754}}(window,'GeoPostal','MA');

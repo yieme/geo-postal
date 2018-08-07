@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22000"]={"code":"22000","region":"Sibensko-kninska zupanija","city":"Sibenik","latitude":43.72722,"longitude":15.90583}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16547"]={"code":"16547","region":"Brandenburg","city":"Birkenwerder","latitude":52.68333,"longitude":13.28333}}(window,'GeoPostal','DE');

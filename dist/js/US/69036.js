@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69036"]={"code":"69036","region":"Nebraska","city":"Lebanon","latitude":40.088524,"longitude":-100.249468}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG45 7EG"]={"code":"RG45 7EG","region":"Wales","city":"Broadmoor","latitude":51.71722,"longitude":-4.755}}(window,'GeoPostal','GB');

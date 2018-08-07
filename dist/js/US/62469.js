@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62469"]={"code":"62469","region":"IL","city":"Trilla","latitude":39.3938,"longitude":-88.3488}}(window,'GeoPostal','US');

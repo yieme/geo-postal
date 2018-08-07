@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["444508"]={"code":"444508","region":"Maharashtra","city":"Washim","latitude":20.1,"longitude":77.15}}(window,'GeoPostal','IN');

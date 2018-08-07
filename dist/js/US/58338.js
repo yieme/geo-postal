@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58338"]={"code":"58338","region":"ND","city":"Hampden","latitude":48.5229,"longitude":-98.6543}}(window,'GeoPostal','US');

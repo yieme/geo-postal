@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV47 2AX"]={"code":"CV47 2AX","region":"England","city":"Avon Dassett","latitude":52.14516,"longitude":-1.40398}}(window,'GeoPostal','GB');

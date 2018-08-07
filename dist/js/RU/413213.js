@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413213"]={"code":"413213","region":"Saratovskaya oblast'","city":"Stepnoye","latitude":51.4,"longitude":46.86667}}(window,'GeoPostal','RU');

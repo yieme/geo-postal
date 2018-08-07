@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["739 44"]={"code":"739 44","region":"Moravskoslezsky kraj","city":"Brusperk","latitude":49.7001,"longitude":18.2221}}(window,'GeoPostal','CZ');

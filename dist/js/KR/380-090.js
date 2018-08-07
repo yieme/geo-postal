@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["380-090"]={"code":"380-090","region":"Chungcheongbuk-do","city":"Chungju","latitude":36.966667,"longitude":127.95}}(window,'GeoPostal','KR');

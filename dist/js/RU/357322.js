@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357322"]={"code":"357322","region":"Stavropol'skiy kray","city":"Komsomolets","latitude":44.01972,"longitude":43.56972}}(window,'GeoPostal','RU');

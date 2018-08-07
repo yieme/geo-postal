@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35403"]={"code":"35403","region":"Bretagne","city":"Saint-Malo","latitude":48.65,"longitude":-2.01667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64200"]={"code":"64200","region":"Pohjanmaa","city":"Narpio","latitude":62.466667,"longitude":21.333333}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3792"]={"code":"3792","region":"Victoria","city":"The Patch","latitude":-37.9,"longitude":145.38333}}(window,'GeoPostal','AU');

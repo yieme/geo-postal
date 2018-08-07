@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15905"]={"code":"15905","region":"Pennsylvania","city":"Johnstown","latitude":40.307086,"longitude":-78.940806}}(window,'GeoPostal','US');

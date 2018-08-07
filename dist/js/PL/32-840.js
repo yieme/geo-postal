@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-840"]={"code":"32-840","region":"Malopolskie","city":"Zakliczyn","latitude":49.85589,"longitude":20.80935}}(window,'GeoPostal','PL');

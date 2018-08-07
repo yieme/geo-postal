@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMACE18"]={"code":"JMACE18","region":"Saint Catherine","city":"Old Harbour","latitude":17.94144,"longitude":-77.10898}}(window,'GeoPostal','JM');

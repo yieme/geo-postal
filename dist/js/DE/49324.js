@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49324"]={"code":"49324","region":"Niedersachsen","city":"Melle","latitude":52.20197,"longitude":8.33826}}(window,'GeoPostal','DE');

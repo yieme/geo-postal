@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13160-000"]={"code":"13160-000","region":"Sao Paulo","city":"Artur Nogueira","latitude":-22.57306,"longitude":-47.1725}}(window,'GeoPostal','BR');

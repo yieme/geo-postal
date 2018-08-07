@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15824"]={"code":"15824","region":"Pennsylvania","city":"Brockway","latitude":41.24923,"longitude":-78.79947}}(window,'GeoPostal','US');

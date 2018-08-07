@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05159"]={"code":"05159","region":"VT","city":"Westminster Station","latitude":43.094,"longitude":-72.4565}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 2P0"]={"code":"J0K 2P0","region":"Quebec","city":"Saint-Ignace-de-Loyola","latitude":46.06676,"longitude":-73.13245}}(window,'GeoPostal','CA');

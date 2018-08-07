@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27545"]={"code":"27545","region":"North Carolina","city":"Knightdale","latitude":35.786317,"longitude":-78.484544}}(window,'GeoPostal','US');

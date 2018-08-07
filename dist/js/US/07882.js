@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07882"]={"code":"07882","region":"New Jersey","city":"Brass Castle","latitude":40.76482,"longitude":-75.01101}}(window,'GeoPostal','US');

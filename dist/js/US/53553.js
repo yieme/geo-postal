@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53553"]={"code":"53553","region":"WI","city":"Linden","latitude":42.9184,"longitude":-90.2797}}(window,'GeoPostal','US');

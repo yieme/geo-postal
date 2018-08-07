@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42110"]={"code":"42110","region":"Castilla y Leon","city":"Olvega","latitude":41.77901,"longitude":-1.98391}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05262"]={"code":"05262","region":"Vermont","city":"Shaftsbury","latitude":43.133333,"longitude":-73.066667}}(window,'GeoPostal','US');

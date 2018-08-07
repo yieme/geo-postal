@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57-304"]={"code":"57-304","region":"Dolnoslaskie","city":"Klodzko","latitude":50.43488,"longitude":16.66145}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95634"]={"code":"95634","region":"Veracruz de Ignacio de la Llave","city":"Carlos A. Carrillo","latitude":18.36667,"longitude":-95.75}}(window,'GeoPostal','MX');

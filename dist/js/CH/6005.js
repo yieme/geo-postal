@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6005"]={"code":"6005","region":"Luzern","city":"Luzern","latitude":47.05048,"longitude":8.30635}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10260"]={"code":"10260","region":"Krung Thep Maha Nakhon","city":"Watthana","latitude":13.72978,"longitude":100.58536}}(window,'GeoPostal','TH');

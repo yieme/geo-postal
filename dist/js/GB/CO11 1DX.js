@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO11 1DX"]={"code":"CO11 1DX","region":"England","city":"Manningtree","latitude":51.94538,"longitude":1.06112}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51234"]={"code":"51234","region":"IA","city":"Boyden","latitude":43.2034,"longitude":-95.9823}}(window,'GeoPostal','US');

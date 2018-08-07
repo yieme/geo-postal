@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20000"]={"code":"20000","region":"Central Province","city":"Kandy","latitude":7.2955,"longitude":80.6356}}(window,'GeoPostal','LK');

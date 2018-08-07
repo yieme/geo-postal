@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31063"]={"code":"31063","region":"GA","city":"Montezuma","latitude":32.3026,"longitude":-84.0041}}(window,'GeoPostal','US');

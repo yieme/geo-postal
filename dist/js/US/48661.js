@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48661"]={"code":"48661","region":"Michigan","city":"West Branch","latitude":44.28843,"longitude":-84.21543}}(window,'GeoPostal','US');

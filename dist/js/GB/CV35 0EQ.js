@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV35 0EQ"]={"code":"CV35 0EQ","region":"England","city":"Chadshunt","latitude":52.17291,"longitude":-1.49333}}(window,'GeoPostal','GB');

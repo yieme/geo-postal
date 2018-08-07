@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48800-000"]={"code":"48800-000","region":"Bahia","city":"Monte Santo","latitude":-10.43778,"longitude":-39.33278}}(window,'GeoPostal','BR');

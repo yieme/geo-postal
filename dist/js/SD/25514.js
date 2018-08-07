@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25514"]={"code":"25514","region":"Blue Nile","city":"Ed Damazin","latitude":11.7891,"longitude":34.3592}}(window,'GeoPostal','SD');

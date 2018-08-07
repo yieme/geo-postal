@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX39 5JS"]={"code":"EX39 5JS","region":"England","city":"Monkleigh","latitude":50.9653,"longitude":-4.20291}}(window,'GeoPostal','GB');

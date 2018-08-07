@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72940-000"]={"code":"72940-000","region":"Goias","city":"Abadiania","latitude":-16.20417,"longitude":-48.70694}}(window,'GeoPostal','BR');

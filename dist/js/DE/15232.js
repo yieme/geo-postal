@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15232"]={"code":"15232","region":"Brandenburg","city":"Siedlung Markendorf","latitude":52.31529,"longitude":14.48774}}(window,'GeoPostal','DE');

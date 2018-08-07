@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67575"]={"code":"67575","region":"Kansas","city":"Rush Center","latitude":38.464252,"longitude":-99.310403}}(window,'GeoPostal','US');

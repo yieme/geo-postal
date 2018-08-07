@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16730"]={"code":"16730","region":"Nouvelle-Aquitaine","city":"Fleac","latitude":45.66667,"longitude":0.1}}(window,'GeoPostal','FR');

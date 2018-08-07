@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4379"]={"code":"4379","region":"Rogaland","city":"Egersund","latitude":58.45133,"longitude":5.9997}}(window,'GeoPostal','NO');

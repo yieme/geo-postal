@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97145"]={"code":"97145","region":"Oregon","city":"Tolovana Park","latitude":45.870099,"longitude":-123.959747}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0C 3C1"]={"code":"G0C 3C1","region":"Quebec","city":"Carleton-sur-Mer","latitude":48.10749,"longitude":-66.128}}(window,'GeoPostal','CA');

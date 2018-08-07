@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK15 9QN"]={"code":"FK15 9QN","region":"Scotland","city":"Braco","latitude":56.26406,"longitude":-3.87907}}(window,'GeoPostal','GB');

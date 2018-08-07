@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04601"]={"code":"04601","region":"Uusimaa","city":"Mantsala","latitude":60.63333,"longitude":25.31667}}(window,'GeoPostal','FI');

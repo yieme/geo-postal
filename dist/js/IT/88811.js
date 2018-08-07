@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88811"]={"code":"88811","region":"Calabria","city":"Ciro Marina","latitude":39.3732,"longitude":17.12601}}(window,'GeoPostal','IT');

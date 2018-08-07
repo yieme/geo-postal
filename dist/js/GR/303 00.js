@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303 00"]={"code":"303 00","region":"Dytiki Ellada","city":"Nafpaktos","latitude":38.39167,"longitude":21.8275}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA7 0BJ"]={"code":"TA7 0BJ","region":"England","city":"North Newton","latitude":51.07403,"longitude":-3.0021}}(window,'GeoPostal','GB');

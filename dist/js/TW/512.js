@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512"]={"code":"512","region":"Changhua","city":"Changhua","latitude":24.07327,"longitude":120.56276}}(window,'GeoPostal','TW');

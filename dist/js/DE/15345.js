@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15345"]={"code":"15345","region":"Brandenburg","city":"Lichtenow","latitude":52.4797,"longitude":13.91142}}(window,'GeoPostal','DE');

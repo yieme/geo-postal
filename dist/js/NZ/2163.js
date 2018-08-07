@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2163"]={"code":"2163","region":"Auckland","city":"Manukau City","latitude":-36.99282,"longitude":174.87986}}(window,'GeoPostal','NZ');

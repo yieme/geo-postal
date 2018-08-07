@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12038"]={"code":"12038","region":"Piemonte","city":"Savigliano","latitude":44.64404,"longitude":7.65593}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46052"]={"code":"46052","region":"Indiana","city":"Lebanon","latitude":40.053891,"longitude":-86.468558}}(window,'GeoPostal','US');

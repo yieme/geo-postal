@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77354"]={"code":"77354","region":"Texas","city":"Magnolia","latitude":30.21857,"longitude":-95.67827}}(window,'GeoPostal','US');

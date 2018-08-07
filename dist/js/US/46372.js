@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46372"]={"code":"46372","region":"IN","city":"Roselawn","latitude":41.1434,"longitude":-87.322}}(window,'GeoPostal','US');

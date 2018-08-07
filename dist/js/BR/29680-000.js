@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29680-000"]={"code":"29680-000","region":"Espirito Santo","city":"Joao Neiva","latitude":-19.7575,"longitude":-40.38556}}(window,'GeoPostal','BR');

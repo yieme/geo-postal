@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91356"]={"code":"91356","region":"California","city":"Tarzana","latitude":34.161582,"longitude":-118.546573}}(window,'GeoPostal','US');

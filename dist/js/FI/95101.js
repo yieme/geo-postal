@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95101"]={"code":"95101","region":"Pohjois-Pohjanmaa","city":"Kuivaniemi","latitude":65.57847,"longitude":25.18814}}(window,'GeoPostal','FI');

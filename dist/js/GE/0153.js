@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0153"]={"code":"0153","region":"Mtskheta-Mtianeti","city":"Zahesi","latitude":41.82458,"longitude":44.75361}}(window,'GeoPostal','GE');

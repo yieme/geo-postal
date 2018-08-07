@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20000"]={"code":"20000","region":"Maldonado","city":"Maldonado","latitude":-34.9,"longitude":-54.95}}(window,'GeoPostal','UY');

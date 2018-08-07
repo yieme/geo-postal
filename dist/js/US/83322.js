@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83322"]={"code":"83322","region":"Idaho","city":"Fairfield","latitude":43.34657,"longitude":-114.79173}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36088"]={"code":"36088","region":"Alabama","city":"Tuskegee","latitude":32.414866,"longitude":-85.717932}}(window,'GeoPostal','US');

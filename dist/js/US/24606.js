@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24606"]={"code":"24606","region":"VA","city":"Boissevain","latitude":37.2818,"longitude":-81.3804}}(window,'GeoPostal','US');

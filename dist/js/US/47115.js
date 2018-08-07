@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47115"]={"code":"47115","region":"IN","city":"Depauw","latitude":38.3361,"longitude":-86.2109}}(window,'GeoPostal','US');

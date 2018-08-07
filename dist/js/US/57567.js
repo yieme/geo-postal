@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57567"]={"code":"57567","region":"South Dakota","city":"Philip","latitude":44.03943,"longitude":-101.66514}}(window,'GeoPostal','US');

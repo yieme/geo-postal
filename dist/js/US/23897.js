@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23897"]={"code":"23897","region":"VA","city":"Yale","latitude":36.8373,"longitude":-77.287}}(window,'GeoPostal','US');

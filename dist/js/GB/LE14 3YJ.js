@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 3YJ"]={"code":"LE14 3YJ","region":"England","city":"Saxelby","latitude":52.76667,"longitude":-0.95}}(window,'GeoPostal','GB');

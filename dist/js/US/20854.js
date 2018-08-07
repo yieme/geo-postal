@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20854"]={"code":"20854","region":"Maryland","city":"Potomac","latitude":39.02874,"longitude":-77.24094}}(window,'GeoPostal','US');

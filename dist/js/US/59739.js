@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59739"]={"code":"59739","region":"MT","city":"Lima","latitude":44.6441,"longitude":-112.5625}}(window,'GeoPostal','US');

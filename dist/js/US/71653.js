@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71653"]={"code":"71653","region":"Arkansas","city":"Lake Village","latitude":33.32873,"longitude":-91.28178}}(window,'GeoPostal','US');

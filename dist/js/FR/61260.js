@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61260"]={"code":"61260","region":"Normandie","city":"Le Theil","latitude":48.2644,"longitude":0.6889}}(window,'GeoPostal','FR');

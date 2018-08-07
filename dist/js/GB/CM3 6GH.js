@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM3 6GH"]={"code":"CM3 6GH","region":"England","city":"Mayland","latitude":51.68033,"longitude":0.76715}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59440"]={"code":"59440","region":"Michoacan de Ocampo","city":"Churintzio","latitude":20.15,"longitude":-102.06667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6463"]={"code":"6463","region":"Western Australia","city":"Wyalkatchem","latitude":-31.18063,"longitude":117.3836}}(window,'GeoPostal','AU');

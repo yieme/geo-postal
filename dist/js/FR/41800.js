@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41800"]={"code":"41800","region":"Centre-Val de Loire","city":"Montoire-sur-le-Loir","latitude":47.75316,"longitude":0.86525}}(window,'GeoPostal','FR');

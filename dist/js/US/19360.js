@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19360"]={"code":"19360","region":"PA","city":"New London","latitude":39.7261,"longitude":-75.7857}}(window,'GeoPostal','US');

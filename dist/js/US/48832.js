@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48832"]={"code":"48832","region":"MI","city":"Elwell","latitude":43.4106,"longitude":-84.7631}}(window,'GeoPostal','US');

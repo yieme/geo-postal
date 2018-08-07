@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43212"]={"code":"43212","region":"Ohio","city":"Upper Arlington","latitude":39.99451,"longitude":-83.06241}}(window,'GeoPostal','US');

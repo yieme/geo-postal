@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69121"]={"code":"69121","region":"Nordrhein-Westfalen","city":"Oberberg","latitude":51.09077,"longitude":7.253}}(window,'GeoPostal','DE');

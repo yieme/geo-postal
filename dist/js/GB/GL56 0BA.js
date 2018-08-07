@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL56 0BA"]={"code":"GL56 0BA","region":"England","city":"Moreton in Marsh","latitude":51.98964,"longitude":-1.70297}}(window,'GeoPostal','GB');

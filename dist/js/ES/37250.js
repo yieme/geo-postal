@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37250"]={"code":"37250","region":"Castilla y Leon","city":"Aldeadavila de la Ribera","latitude":41.21769,"longitude":-6.61786}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06612"]={"code":"06612","region":"Connecticut","city":"Easton","latitude":41.2661,"longitude":-73.3023}}(window,'GeoPostal','US');

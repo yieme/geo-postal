@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47948"]={"code":"47948","region":"Indiana","city":"Goodland","latitude":40.76337,"longitude":-87.29363}}(window,'GeoPostal','US');

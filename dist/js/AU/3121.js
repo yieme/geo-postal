@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3121"]={"code":"3121","region":"Victoria","city":"Richmond","latitude":-37.81819,"longitude":145.00176}}(window,'GeoPostal','AU');

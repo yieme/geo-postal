@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97614"]={"code":"97614","region":"Avtonomna Respublika Krym","city":"Bilohirs'k","latitude":45.05462,"longitude":34.60185}}(window,'GeoPostal','UA');

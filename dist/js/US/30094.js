@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30094"]={"code":"30094","region":"Georgia","city":"Conyers","latitude":33.59979,"longitude":-84.06002}}(window,'GeoPostal','US');

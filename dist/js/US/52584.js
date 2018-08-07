@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52584"]={"code":"52584","region":"IA","city":"Pulaski","latitude":40.6941,"longitude":-92.258}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE66 4YD"]={"code":"NE66 4YD","region":"England","city":"Ilderton","latitude":55.49134,"longitude":-1.97497}}(window,'GeoPostal','GB');

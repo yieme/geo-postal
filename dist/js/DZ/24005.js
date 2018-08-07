@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24005"]={"code":"24005","region":"Guelma","city":"Boumahra Ahmed","latitude":36.45833,"longitude":7.51389}}(window,'GeoPostal','DZ');

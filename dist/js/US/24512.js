@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24512"]={"code":"24512","region":"VA","city":"Clifford And Wills","latitude":37.45,"longitude":-79.25}}(window,'GeoPostal','US');

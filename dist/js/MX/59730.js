@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59730"]={"code":"59730","region":"Michoacan de Ocampo","city":"Ecuandureo","latitude":20.16667,"longitude":-102.18333}}(window,'GeoPostal','MX');

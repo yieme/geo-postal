@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP5 1TY"]={"code":"HP5 1TY","region":"England","city":"Latimer","latitude":51.67961,"longitude":-0.54966}}(window,'GeoPostal','GB');

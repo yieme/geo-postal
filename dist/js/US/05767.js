@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05767"]={"code":"05767","region":"VT","city":"Rochester","latitude":43.8804,"longitude":-72.8159}}(window,'GeoPostal','US');

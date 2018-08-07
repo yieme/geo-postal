@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7773"]={"code":"7773","region":"Overijssel","city":"Hardenberg","latitude":52.57583,"longitude":6.61944}}(window,'GeoPostal','NL');

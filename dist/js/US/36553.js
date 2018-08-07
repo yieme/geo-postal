@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36553"]={"code":"36553","region":"Alabama","city":"McIntosh","latitude":31.233425,"longitude":-88.065242}}(window,'GeoPostal','US');

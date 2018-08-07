@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1895"]={"code":"1895","region":"Valais","city":"Vionnaz","latitude":46.31101,"longitude":6.90062}}(window,'GeoPostal','CH');

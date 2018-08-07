@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78829"]={"code":"78829","region":"TX","city":"Batesville","latitude":28.9286,"longitude":-99.6115}}(window,'GeoPostal','US');

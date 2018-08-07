@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10505"]={"code":"10505","region":"NY","city":"Baldwin Place","latitude":41.3421,"longitude":-73.7454}}(window,'GeoPostal','US');

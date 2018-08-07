@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68760-000"]={"code":"68760-000","region":"Para","city":"Marapanim","latitude":-0.7175,"longitude":-47.69972}}(window,'GeoPostal','BR');

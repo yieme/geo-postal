@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51549"]={"code":"51549","region":"IA","city":"Macedonia","latitude":41.1916,"longitude":-95.4314}}(window,'GeoPostal','US');

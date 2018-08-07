@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW8 6HL"]={"code":"KW8 6HL","region":"Scotland","city":"Portgower","latitude":58.09841,"longitude":-3.68801}}(window,'GeoPostal','GB');

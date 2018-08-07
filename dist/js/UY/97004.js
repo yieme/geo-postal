@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97004"]={"code":"97004","region":"Durazno","city":"Blanquillo","latitude":-32.76667,"longitude":-55.63333}}(window,'GeoPostal','UY');

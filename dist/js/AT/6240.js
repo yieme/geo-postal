@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6240"]={"code":"6240","region":"Tirol","city":"Rattenberg","latitude":47.43333,"longitude":11.9}}(window,'GeoPostal','AT');

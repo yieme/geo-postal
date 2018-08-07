@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0S 1V0"]={"code":"L0S 1V0","region":"Ontario","city":"Long Beach","latitude":42.86682,"longitude":-79.38289}}(window,'GeoPostal','CA');

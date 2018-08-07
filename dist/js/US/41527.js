@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41527"]={"code":"41527","region":"Kentucky","city":"Forest Hills","latitude":37.62932,"longitude":-82.302431}}(window,'GeoPostal','US');

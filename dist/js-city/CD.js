@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["CD"]={'':{r:'Haut-Katanga',c:'Lubumbashi'}};

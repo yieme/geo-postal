@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77311"]={"code":"77311","region":"Nusa Tenggara Barat","city":"Tanjung","latitude":-8.356,"longitude":116.1565}}(window,'GeoPostal','ID');

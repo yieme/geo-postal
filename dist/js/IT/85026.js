@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85026"]={"code":"85026","region":"Basilicata","city":"Palazzo San Gervasio","latitude":40.93132,"longitude":15.98077}}(window,'GeoPostal','IT');

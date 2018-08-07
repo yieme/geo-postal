@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16680"]={"code":"16680","region":"PA","city":"Smithmill","latitude":40.7507,"longitude":-78.4012}}(window,'GeoPostal','US');

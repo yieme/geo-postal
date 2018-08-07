@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35148"]={"code":"35148","region":"Alabama","city":"Sumiton","latitude":33.752366,"longitude":-87.050262}}(window,'GeoPostal','US');

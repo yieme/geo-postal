@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["720101"]={"code":"720101","region":"Jigawa","city":"Dutse","latitude":11.7594,"longitude":9.33921}}(window,'GeoPostal','NG');

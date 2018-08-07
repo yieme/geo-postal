@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66543"]={"code":"66543","region":"KS","city":"Vassar","latitude":38.6419,"longitude":-95.6012}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627350"]={"code":"627350","region":"Sichuan","city":"Qumong","latitude":32.97771,"longitude":98.09795}}(window,'GeoPostal','CN');

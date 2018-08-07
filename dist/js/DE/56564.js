@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56564"]={"code":"56564","region":"Rheinland-Pfalz","city":"Neuwied","latitude":50.4336,"longitude":7.47057}}(window,'GeoPostal','DE');

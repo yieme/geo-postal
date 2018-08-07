@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9W 5Z2"]={"code":"V9W 5Z2","region":"British Columbia","city":"Campbell River","latitude":49.994916,"longitude":-125.241568}}(window,'GeoPostal','CA');

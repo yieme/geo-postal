@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47519"]={"code":"47519","region":"Indiana","city":"Cannelburg","latitude":38.695502,"longitude":-86.967452}}(window,'GeoPostal','US');

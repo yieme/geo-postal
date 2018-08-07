@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352574"]={"code":"352574","region":"Krasnodarskiy kray","city":"Mostovskoy","latitude":44.41222,"longitude":40.79361}}(window,'GeoPostal','RU');

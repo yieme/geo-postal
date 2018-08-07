@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23861"]={"code":"23861","region":"Lombardia","city":"Cesana Brianza","latitude":45.81678,"longitude":9.29954}}(window,'GeoPostal','IT');

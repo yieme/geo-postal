@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2138"]={"code":"2138","region":"New South Wales","city":"Rhodes","latitude":-33.83333,"longitude":151.08333}}(window,'GeoPostal','AU');

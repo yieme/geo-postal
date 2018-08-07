@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676212"]={"code":"676212","region":"Amurskaya oblast'","city":"Ovsyanka","latitude":53.58333,"longitude":126.88333}}(window,'GeoPostal','RU');

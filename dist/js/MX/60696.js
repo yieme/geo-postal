@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60696"]={"code":"60696","region":"Michoacan de Ocampo","city":"Apatzingan de la Constitucion","latitude":19.08333,"longitude":-102.35}}(window,'GeoPostal','MX');

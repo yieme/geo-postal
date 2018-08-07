@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768 24"]={"code":"768 24","region":"Zlinsky kraj","city":"Hulin","latitude":49.31689,"longitude":17.46374}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0E 0C0"]={"code":"R0E 0C0","region":"Manitoba","city":"Beausejour","latitude":50.0622,"longitude":-96.51669}}(window,'GeoPostal','CA');

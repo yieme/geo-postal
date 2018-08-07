@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95-100"]={"code":"95-100","region":"Lodzkie","city":"Zgierz","latitude":51.85561,"longitude":19.40623}}(window,'GeoPostal','PL');

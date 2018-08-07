@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652971"]={"code":"652971","region":"Kemerovskaya oblast'","city":"Sheregesh","latitude":52.9209,"longitude":87.9869}}(window,'GeoPostal','RU');

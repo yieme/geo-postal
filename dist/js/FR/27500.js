@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27500"]={"code":"27500","region":"Normandie","city":"Manneville-sur-Risle","latitude":49.35173,"longitude":0.54526}}(window,'GeoPostal','FR');

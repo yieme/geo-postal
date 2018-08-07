@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77750"]={"code":"77750","region":"Ile-de-France","city":"Saint-Cyr-sur-Morin","latitude":48.90664,"longitude":3.18016}}(window,'GeoPostal','FR');

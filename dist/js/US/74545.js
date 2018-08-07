@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74545"]={"code":"74545","region":"OK","city":"Gowen","latitude":34.8724,"longitude":-95.469}}(window,'GeoPostal','US');

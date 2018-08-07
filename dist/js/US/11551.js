@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11551"]={"code":"11551","region":"NY","city":"Hempstead","latitude":40.7062,"longitude":-73.6187}}(window,'GeoPostal','US');

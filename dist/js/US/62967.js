@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62967"]={"code":"62967","region":"IL","city":"New Burnside","latitude":37.578,"longitude":-88.7454}}(window,'GeoPostal','US');

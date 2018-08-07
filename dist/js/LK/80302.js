@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80302"]={"code":"80302","region":"Southern Province","city":"Ambalangoda","latitude":6.2355,"longitude":80.0538}}(window,'GeoPostal','LK');

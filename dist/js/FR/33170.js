@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33170"]={"code":"33170","region":"Nouvelle-Aquitaine","city":"Gradignan","latitude":44.77262,"longitude":-0.61393}}(window,'GeoPostal','FR');

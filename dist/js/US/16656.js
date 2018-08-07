@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16656"]={"code":"16656","region":"PA","city":"Irvona","latitude":40.8017,"longitude":-78.5602}}(window,'GeoPostal','US');

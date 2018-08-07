@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95107"]={"code":"95107","region":"Ile-de-France","city":"Argenteuil","latitude":48.95,"longitude":2.25}}(window,'GeoPostal','FR');

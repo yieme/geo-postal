@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12879"]={"code":"12879","region":"NY","city":"Newcomb","latitude":43.9697,"longitude":-74.1662}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9470"]={"code":"9470","region":"Karnten","city":"Sankt Andra","latitude":46.76611,"longitude":14.82361}}(window,'GeoPostal','AT');

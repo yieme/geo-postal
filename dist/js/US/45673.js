@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45673"]={"code":"45673","region":"OH","city":"Richmond Dale","latitude":39.2039,"longitude":-82.812}}(window,'GeoPostal','US');

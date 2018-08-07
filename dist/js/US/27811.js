@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27811"]={"code":"27811","region":"NC","city":"Bellarthur","latitude":35.5847,"longitude":-77.5134}}(window,'GeoPostal','US');

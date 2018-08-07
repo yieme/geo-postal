@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69-220"]={"code":"69-220","region":"Lubuskie","city":"Osno Lubuskie","latitude":52.4536,"longitude":14.87549}}(window,'GeoPostal','PL');

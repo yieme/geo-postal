@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4650"]={"code":"4650","region":"Queensland","city":"Granville","latitude":-25.54486,"longitude":152.73346}}(window,'GeoPostal','AU');

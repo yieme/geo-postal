@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26190"]={"code":"26190","region":"Auvergne-Rhone-Alpes","city":"Saint-Nazaire-en-Royans","latitude":45.06,"longitude":5.24}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27556"]={"code":"27556","region":"NC","city":"Middleburg","latitude":36.3996,"longitude":-78.3225}}(window,'GeoPostal','US');

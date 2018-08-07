@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45875"]={"code":"45875","region":"Ohio","city":"Ottawa","latitude":41.01922,"longitude":-84.04717}}(window,'GeoPostal','US');

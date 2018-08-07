@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74000"]={"code":"74000","region":"Republika Srpska","city":"Doboj","latitude":44.73472,"longitude":18.08778}}(window,'GeoPostal','BA');

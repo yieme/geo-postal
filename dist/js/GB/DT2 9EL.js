@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT2 9EL"]={"code":"DT2 9EL","region":"England","city":"Askerswell","latitude":50.73267,"longitude":-2.66861}}(window,'GeoPostal','GB');

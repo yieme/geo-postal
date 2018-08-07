@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21850"]={"code":"21850","region":"Bourgogne-Franche-Comte","city":"Saint-Apollinaire","latitude":47.33333,"longitude":5.08333}}(window,'GeoPostal','FR');

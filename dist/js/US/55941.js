@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55941"]={"code":"55941","region":"MN","city":"Hokah","latitude":43.7509,"longitude":-91.3455}}(window,'GeoPostal','US');

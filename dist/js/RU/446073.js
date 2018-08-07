@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446073"]={"code":"446073","region":"Samarskaya oblast'","city":"Varlamovo","latitude":53.1897,"longitude":48.4226}}(window,'GeoPostal','RU');

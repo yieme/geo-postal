@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18940"]={"code":"18940","region":"Pennsylvania","city":"Newtown","latitude":40.22928,"longitude":-74.93683}}(window,'GeoPostal','US');

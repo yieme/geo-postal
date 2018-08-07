@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00603"]={"code":"00603","region":"Aguadilla","city":"Aguadilla","latitude":18.42745,"longitude":-67.15407}}(window,'GeoPostal','PR');

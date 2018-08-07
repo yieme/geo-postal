@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62907"]={"code":"62907","region":"Morelos","city":"Tlatenchi","latitude":18.58333,"longitude":-99.2}}(window,'GeoPostal','MX');

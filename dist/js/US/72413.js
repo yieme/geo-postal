@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72413"]={"code":"72413","region":"AR","city":"Biggers","latitude":36.2844,"longitude":-90.8538}}(window,'GeoPostal','US');

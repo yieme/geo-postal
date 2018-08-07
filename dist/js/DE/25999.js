@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25999"]={"code":"25999","region":"Schleswig-Holstein","city":"Klappholttal","latitude":54.98904,"longitude":8.36669}}(window,'GeoPostal','DE');

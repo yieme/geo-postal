@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL19 0LE"]={"code":"PL19 0LE","region":"England","city":"Brentor","latitude":50.6,"longitude":-4.16667}}(window,'GeoPostal','GB');

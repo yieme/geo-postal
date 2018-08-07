@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05352"]={"code":"05352","region":"Vermont","city":"Stamford","latitude":42.77,"longitude":-73.08}}(window,'GeoPostal','US');

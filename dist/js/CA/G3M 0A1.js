@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G3M 0A1"]={"code":"G3M 0A1","region":"Quebec","city":"Donnacona","latitude":46.68042,"longitude":-71.7239}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OL14 7BU"]={"code":"OL14 7BU","region":"England","city":"Todmorden","latitude":53.71434,"longitude":-2.09701}}(window,'GeoPostal','GB');

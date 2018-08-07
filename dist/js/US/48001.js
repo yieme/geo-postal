@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48001"]={"code":"48001","region":"Michigan","city":"Algonac","latitude":42.63846,"longitude":-82.58274}}(window,'GeoPostal','US');

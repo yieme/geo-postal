@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["BL"]={id:'BL',country:'Saint Barthelemy', postal:{'97133':{code:'97133',region:'Saint Barthelemy',city:'Gustavia',latitude:17.89618,longitude:-62.84978}}};

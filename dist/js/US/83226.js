@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83226"]={"code":"83226","region":"Idaho","city":"Challis","latitude":44.502799,"longitude":-114.225499}}(window,'GeoPostal','US');

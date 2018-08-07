@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31304"]={"code":"31304","region":"GA","city":"Crescent","latitude":31.5094,"longitude":-81.3695}}(window,'GeoPostal','US');

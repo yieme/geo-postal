@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10208"]={"code":"10208","region":"Grand-Est","city":"Bar-sur-Aube","latitude":48.23333,"longitude":4.71667}}(window,'GeoPostal','FR');

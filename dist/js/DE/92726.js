@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92726"]={"code":"92726","region":"Bayern","city":"Waidhaus","latitude":49.64218,"longitude":12.49523}}(window,'GeoPostal','DE');

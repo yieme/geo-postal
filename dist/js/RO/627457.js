@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627457"]={"code":"627457","region":"Vrancea","city":"Vulturu de Sus","latitude":45.61667,"longitude":27.41667}}(window,'GeoPostal','RO');

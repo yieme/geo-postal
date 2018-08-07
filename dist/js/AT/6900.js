@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6900"]={"code":"6900","region":"Vorarlberg","city":"Bregenz","latitude":47.50311,"longitude":9.7471}}(window,'GeoPostal','AT');

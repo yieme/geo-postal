@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY11 4HS"]={"code":"SY11 4HS","region":"England","city":"Rednal","latitude":52.85,"longitude":-2.93333}}(window,'GeoPostal','GB');

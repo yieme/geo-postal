@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20500"]={"code":"20500","region":"Central Province","city":"Gampola","latitude":7.1643,"longitude":80.5696}}(window,'GeoPostal','LK');

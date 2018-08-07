@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21468"]={"code":"21468","region":"Juznobacki okrug","city":"Despotovo","latitude":45.45778,"longitude":19.52472}}(window,'GeoPostal','RS');

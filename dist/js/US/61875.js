@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61875"]={"code":"61875","region":"IL","city":"Seymour","latitude":40.107,"longitude":-88.4267}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7300"]={"code":"7300","region":"Tasmania","city":"Evandale","latitude":-41.571,"longitude":147.24744}}(window,'GeoPostal','AU');

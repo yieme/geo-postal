@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE46 2EB"]={"code":"NE46 2EB","region":"England","city":"Hexham","latitude":54.96986,"longitude":-2.104}}(window,'GeoPostal','GB');

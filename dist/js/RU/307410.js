@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307410"]={"code":"307410","region":"Kurskaya oblast'","city":"Korenevo","latitude":51.4119,"longitude":34.908}}(window,'GeoPostal','RU');

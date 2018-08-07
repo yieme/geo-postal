@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5467"]={"code":"5467","region":"Noord-Brabant","city":"Veghel","latitude":51.61667,"longitude":5.54861}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96382"]={"code":"96382","region":"Veracruz de Ignacio de la Llave","city":"Agua Dulce","latitude":18.13333,"longitude":-94.13333}}(window,'GeoPostal','MX');

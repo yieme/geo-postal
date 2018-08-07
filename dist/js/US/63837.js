@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63837"]={"code":"63837","region":"Missouri","city":"Clarkton","latitude":36.451007,"longitude":-89.965299}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05508-000"]={"code":"05508-000","region":"Sao Paulo","city":"Sao Paulo","latitude":-23.5475,"longitude":-46.63611}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67256"]={"code":"67256","region":"Nuevo Leon","city":"Juarez","latitude":25.65,"longitude":-100.08333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88430"]={"code":"88430","region":"NM","city":"Nara Visa","latitude":35.618,"longitude":-103.1317}}(window,'GeoPostal','US');

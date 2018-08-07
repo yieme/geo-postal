@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56400"]={"code":"56400","region":"Sagarmatha","city":"Rajbiraj","latitude":26.53333,"longitude":86.75}}(window,'GeoPostal','NP');

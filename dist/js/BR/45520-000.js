@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45520-000"]={"code":"45520-000","region":"Bahia","city":"Marau","latitude":-14.10306,"longitude":-39.01472}}(window,'GeoPostal','BR');

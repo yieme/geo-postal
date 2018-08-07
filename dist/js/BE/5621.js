@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5621"]={"code":"5621","region":"Namur","city":"Florennes","latitude":50.25127,"longitude":4.60636}}(window,'GeoPostal','BE');

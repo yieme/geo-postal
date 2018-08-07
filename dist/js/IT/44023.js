@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44023"]={"code":"44023","region":"Emilia-Romagna","city":"Lagosanto","latitude":44.75861,"longitude":12.14361}}(window,'GeoPostal','IT');

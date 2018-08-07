@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36922"]={"code":"36922","region":"AL","city":"Ward","latitude":32.3038,"longitude":-88.1476}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23031"]={"code":"23031","region":"VA","city":"Christchurch","latitude":37.5984,"longitude":-76.4476}}(window,'GeoPostal','US');

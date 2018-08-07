@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1430"]={"code":"1430","region":"Kavadarci","city":"Kavadarci","latitude":41.43306,"longitude":22.01194}}(window,'GeoPostal','MK');

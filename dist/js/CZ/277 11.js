@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["277 11"]={"code":"277 11","region":"Stredocesky kraj","city":"Neratovice","latitude":50.25926,"longitude":14.51759}}(window,'GeoPostal','CZ');

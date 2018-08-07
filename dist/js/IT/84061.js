@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84061"]={"code":"84061","region":"Campania","city":"Ogliastro Cilento","latitude":40.3524,"longitude":15.04315}}(window,'GeoPostal','IT');

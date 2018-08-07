@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57066"]={"code":"57066","region":"South Dakota","city":"Tyndall","latitude":42.99333,"longitude":-97.86285}}(window,'GeoPostal','US');

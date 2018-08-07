@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43102"]={"code":"43102","region":"Ohio","city":"Amanda","latitude":39.640997,"longitude":-82.760748}}(window,'GeoPostal','US');

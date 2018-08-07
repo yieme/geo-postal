@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95220"]={"code":"95220","region":"CA","city":"Acampo","latitude":38.2004,"longitude":-121.2186}}(window,'GeoPostal','US');

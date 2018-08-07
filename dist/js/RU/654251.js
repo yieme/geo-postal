@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["654251"]={"code":"654251","region":"Kemerovskaya oblast'","city":"Kuzedeyevo","latitude":53.3308,"longitude":87.2019}}(window,'GeoPostal','RU');

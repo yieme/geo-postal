@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08291"]={"code":"08291","region":"Kyivska oblast","city":"Bucha","latitude":50.54345,"longitude":30.21201}}(window,'GeoPostal','UA');

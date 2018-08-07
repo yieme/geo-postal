@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR19 2DH"]={"code":"NR19 2DH","region":"England","city":"Hoe","latitude":52.7,"longitude":0.95}}(window,'GeoPostal','GB');

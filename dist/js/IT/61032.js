@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61032"]={"code":"61032","region":"Marche","city":"Fano","latitude":43.82036,"longitude":13.01206}}(window,'GeoPostal','IT');

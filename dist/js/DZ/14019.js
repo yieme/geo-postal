@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14019"]={"code":"14019","region":"Tiaret","city":"Tiaret","latitude":35.37103,"longitude":1.31699}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71235"]={"code":"71235","region":"LA","city":"Dubach","latitude":32.6949,"longitude":-92.6785}}(window,'GeoPostal','US');

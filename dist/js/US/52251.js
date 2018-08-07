@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52251"]={"code":"52251","region":"IA","city":"Ladora","latitude":41.7564,"longitude":-92.1873}}(window,'GeoPostal','US');

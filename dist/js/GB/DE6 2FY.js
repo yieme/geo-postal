@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE6 2FY"]={"code":"DE6 2FY","region":"England","city":"Alstonefield","latitude":53.0983,"longitude":-1.80656}}(window,'GeoPostal','GB');

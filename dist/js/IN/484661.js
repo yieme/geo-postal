@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["484661"]={"code":"484661","region":"Madhya Pradesh","city":"Umaria","latitude":23.53333,"longitude":80.83333}}(window,'GeoPostal','IN');

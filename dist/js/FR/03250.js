@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03250"]={"code":"03250","region":"Auvergne-Rhone-Alpes","city":"Le Mayet-de-Montagne","latitude":46.07251,"longitude":3.66651}}(window,'GeoPostal','FR');

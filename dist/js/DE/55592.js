@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55592"]={"code":"55592","region":"Rheinland-Pfalz","city":"Desloch","latitude":49.71667,"longitude":7.63333}}(window,'GeoPostal','DE');

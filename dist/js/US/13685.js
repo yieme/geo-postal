@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13685"]={"code":"13685","region":"NY","city":"Sackets Harbor","latitude":43.9398,"longitude":-76.105}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07740"]={"code":"07740","region":"Antalya","city":"Kumluca","latitude":36.37028,"longitude":30.28694}}(window,'GeoPostal','TR');

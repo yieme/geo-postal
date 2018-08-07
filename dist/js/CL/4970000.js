@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4970000"]={"code":"4970000","region":"La Araucania","city":"Loncoche","latitude":-39.36667,"longitude":-72.63333}}(window,'GeoPostal','CL');

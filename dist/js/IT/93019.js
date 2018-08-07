@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93019"]={"code":"93019","region":"Sicilia","city":"Sommatino","latitude":37.33594,"longitude":13.99667}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7081"]={"code":"7081","region":"Gelderland","city":"Gendringen","latitude":51.87333,"longitude":6.37639}}(window,'GeoPostal','NL');

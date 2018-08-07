@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26409"]={"code":"26409","region":"Niedersachsen","city":"Hattersum","latitude":53.58672,"longitude":7.75684}}(window,'GeoPostal','DE');

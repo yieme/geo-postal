@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71768"]={"code":"71768","region":"AR","city":"Urbana","latitude":33.1,"longitude":-92.49}}(window,'GeoPostal','US');

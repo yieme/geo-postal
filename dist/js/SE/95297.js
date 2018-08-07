@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95297"]={"code":"95297","region":"Norrbottens lan","city":"Kalix","latitude":65.85298,"longitude":23.15645}}(window,'GeoPostal','SE');

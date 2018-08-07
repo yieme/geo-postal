@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70110"]={"code":"70110","region":"Bourgogne-Franche-Comte","city":"Villersexel","latitude":47.5507,"longitude":6.43273}}(window,'GeoPostal','FR');

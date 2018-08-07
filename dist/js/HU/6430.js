@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6430"]={"code":"6430","region":"Bacs-Kiskun","city":"Bacsalmas","latitude":46.12648,"longitude":19.3326}}(window,'GeoPostal','HU');

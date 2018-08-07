@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46978"]={"code":"46978","region":"IN","city":"Royal Center","latitude":40.8645,"longitude":-86.5078}}(window,'GeoPostal','US');

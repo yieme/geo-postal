@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70040"]={"code":"70040","region":"Louisiana","city":"Braithwaite","latitude":29.826251,"longitude":-89.963355}}(window,'GeoPostal','US');

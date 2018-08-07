@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72432"]={"code":"72432","region":"AR","city":"Harrisburg","latitude":35.5722,"longitude":-90.7038}}(window,'GeoPostal','US');

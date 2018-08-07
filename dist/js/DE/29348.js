@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29348"]={"code":"29348","region":"Niedersachsen","city":"Eschede","latitude":52.73494,"longitude":10.2354}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL15 2AX"]={"code":"LL15 2AX","region":"Wales","city":"Clocaenog","latitude":53.07711,"longitude":-3.37134}}(window,'GeoPostal','GB');

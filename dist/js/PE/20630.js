@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20630"]={"code":"20630","region":"Piura","city":"Piura","latitude":-5.2,"longitude":-80.63333}}(window,'GeoPostal','PE');

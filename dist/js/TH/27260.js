@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27260"]={"code":"27260","region":"Sa Kaeo","city":"Khok Sung","latitude":13.83824,"longitude":102.62254}}(window,'GeoPostal','TH');

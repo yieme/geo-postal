@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95599"]={"code":"95599","region":"Norrbottens lan","city":"Ranea","latitude":65.85482,"longitude":22.29126}}(window,'GeoPostal','SE');

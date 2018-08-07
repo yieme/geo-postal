@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41181"]={"code":"41181","region":"KY","city":"Willard","latitude":38.2045,"longitude":-82.9076}}(window,'GeoPostal','US');

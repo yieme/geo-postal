@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41381"]={"code":"41381","region":"Jawa Barat","city":"Karawang","latitude":-6.3125,"longitude":107.295}}(window,'GeoPostal','ID');

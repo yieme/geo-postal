@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48229"]={"code":"48229","region":"Michigan","city":"Ecorse","latitude":42.25002,"longitude":-83.14764}}(window,'GeoPostal','US');

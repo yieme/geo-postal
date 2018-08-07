@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX13 5DW"]={"code":"EX13 5DW","region":"England","city":"Axminster","latitude":50.78259,"longitude":-2.99787}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84791"]={"code":"84791","region":"UT","city":"Saint George","latitude":37.1041,"longitude":-113.5841}}(window,'GeoPostal','US');

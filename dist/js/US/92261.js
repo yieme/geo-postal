@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92261"]={"code":"92261","region":"CA","city":"Palm Desert","latitude":33.6604,"longitude":-116.4082}}(window,'GeoPostal','US');

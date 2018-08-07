@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45787"]={"code":"45787","region":"Ohio","city":"Watertown","latitude":39.46578,"longitude":-81.6333}}(window,'GeoPostal','US');

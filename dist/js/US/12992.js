@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12992"]={"code":"12992","region":"NY","city":"West Chazy","latitude":44.797,"longitude":-73.5112}}(window,'GeoPostal','US');

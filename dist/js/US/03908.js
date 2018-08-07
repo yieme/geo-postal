@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03908"]={"code":"03908","region":"ME","city":"South Berwick","latitude":43.2292,"longitude":-70.7859}}(window,'GeoPostal','US');

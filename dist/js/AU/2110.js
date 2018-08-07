@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2110"]={"code":"2110","region":"New South Wales","city":"Hunters Hill","latitude":-33.83333,"longitude":151.14083}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50550"]={"code":"50550","region":"Aragon","city":"Mallen","latitude":41.90064,"longitude":-1.41994}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA18 2PF"]={"code":"KA18 2PF","region":"Scotland","city":"Ochiltree","latitude":55.45981,"longitude":-4.36782}}(window,'GeoPostal','GB');

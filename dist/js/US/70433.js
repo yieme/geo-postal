@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70433"]={"code":"70433","region":"Louisiana","city":"Covington","latitude":30.4581,"longitude":-90.1178}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23800"]={"code":"23800","region":"Tacna","city":"Ilabaya","latitude":-17.42083,"longitude":-70.51333}}(window,'GeoPostal','PE');

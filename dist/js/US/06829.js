@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06829"]={"code":"06829","region":"CT","city":"Georgetown","latitude":41.2555,"longitude":-73.4279}}(window,'GeoPostal','US');

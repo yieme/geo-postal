@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66536"]={"code":"66536","region":"Kansas","city":"Saint Marys","latitude":39.197538,"longitude":-96.066988}}(window,'GeoPostal','US');

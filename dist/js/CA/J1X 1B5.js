@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J1X 1B5"]={"code":"J1X 1B5","region":"Quebec","city":"Magog","latitude":45.2742,"longitude":-72.151952}}(window,'GeoPostal','CA');

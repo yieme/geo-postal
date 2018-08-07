@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05738"]={"code":"05738","region":"VT","city":"Cuttingsville","latitude":43.5221,"longitude":-72.8691}}(window,'GeoPostal','US');

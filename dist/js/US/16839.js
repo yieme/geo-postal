@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16839"]={"code":"16839","region":"PA","city":"Grassflat","latitude":41.0036,"longitude":-78.1104}}(window,'GeoPostal','US');

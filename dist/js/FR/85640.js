@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85640"]={"code":"85640","region":"Pays-de-la-Loire","city":"Mouchamps","latitude":46.78131,"longitude":-1.06179}}(window,'GeoPostal','FR');

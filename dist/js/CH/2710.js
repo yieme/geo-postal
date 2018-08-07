@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2710"]={"code":"2710","region":"Bern","city":"Tavannes","latitude":47.22079,"longitude":7.19759}}(window,'GeoPostal','CH');

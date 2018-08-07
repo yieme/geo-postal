@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13864"]={"code":"13864","region":"NY","city":"Willseyville","latitude":42.3029,"longitude":-76.3897}}(window,'GeoPostal','US');

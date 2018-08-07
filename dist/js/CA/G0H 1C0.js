@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0H 1C0"]={"code":"G0H 1C0","region":"Quebec","city":"Chute-aux-Outardes","latitude":49.11679,"longitude":-68.39896}}(window,'GeoPostal','CA');

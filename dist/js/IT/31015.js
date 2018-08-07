@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31015"]={"code":"31015","region":"Veneto","city":"Conegliano","latitude":45.89056,"longitude":12.2925}}(window,'GeoPostal','IT');

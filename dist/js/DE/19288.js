@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19288"]={"code":"19288","region":"Mecklenburg-Vorpommern","city":"Weselsdorf","latitude":53.35602,"longitude":11.45657}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT18 8XX"]={"code":"CT18 8XX","region":"England","city":"Folkestone","latitude":51.08333,"longitude":1.18333}}(window,'GeoPostal','GB');

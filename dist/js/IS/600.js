@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["600"]={"code":"600","region":"Nordurland eystra","city":"Akureyri","latitude":65.68353,"longitude":-18.0878}}(window,'GeoPostal','IS');

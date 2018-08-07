@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393570"]={"code":"393570","region":"Tambovskaya oblast'","city":"Muchkapskiy","latitude":51.85133,"longitude":42.47175}}(window,'GeoPostal','RU');

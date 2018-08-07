@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-470"]={"code":"47-470","region":"Slaskie","city":"Krzanowice","latitude":50.01822,"longitude":18.12251}}(window,'GeoPostal','PL');

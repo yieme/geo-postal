@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632338"]={"code":"632338","region":"Novosibirskaya oblast'","city":"Barabinsk","latitude":55.35709,"longitude":78.35697}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59159"]={"code":"59159","region":"Hauts-de-France","city":"Marcoing","latitude":50.1211,"longitude":3.17321}}(window,'GeoPostal','FR');

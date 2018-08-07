@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26169"]={"code":"26169","region":"WV","city":"Rockport","latitude":39.0798,"longitude":-81.5713}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11977"]={"code":"11977","region":"New York","city":"Westhampton","latitude":40.82454,"longitude":-72.66621}}(window,'GeoPostal','US');

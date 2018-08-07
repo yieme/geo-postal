@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16110"]={"code":"16110","region":"Nouvelle-Aquitaine","city":"La Rochefoucauld","latitude":45.74048,"longitude":0.38564}}(window,'GeoPostal','FR');

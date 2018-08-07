@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["679-2414"]={"code":"679-2414","region":"Saga","city":"Kanzaki","latitude":33.317,"longitude":130.367}}(window,'GeoPostal','JP');

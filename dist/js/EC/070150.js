@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["070150"]={"code":"070150","region":"El Oro","city":"Machala","latitude":-3.26667,"longitude":-79.96667}}(window,'GeoPostal','EC');

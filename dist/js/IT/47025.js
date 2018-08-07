@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47025"]={"code":"47025","region":"Emilia-Romagna","city":"Mercato Saraceno","latitude":43.96376,"longitude":12.19754}}(window,'GeoPostal','IT');

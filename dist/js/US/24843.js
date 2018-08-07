@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24843"]={"code":"24843","region":"WV","city":"Hensley","latitude":37.474,"longitude":-81.6998}}(window,'GeoPostal','US');

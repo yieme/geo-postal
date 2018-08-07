@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23003"]={"code":"23003","region":"Virginia","city":"Ark","latitude":37.43861,"longitude":-76.57583}}(window,'GeoPostal','US');

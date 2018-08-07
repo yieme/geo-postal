@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3022"]={"code":"3022","region":"Heves","city":"Lorinci","latitude":47.73295,"longitude":19.67867}}(window,'GeoPostal','HU');

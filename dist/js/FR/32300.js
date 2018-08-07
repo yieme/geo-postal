@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32300"]={"code":"32300","region":"Occitanie","city":"Mirande","latitude":43.51667,"longitude":0.41667}}(window,'GeoPostal','FR');

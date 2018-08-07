@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56436"]={"code":"56436","region":"Minnesota","city":"Benedict","latitude":47.158056,"longitude":-94.690278}}(window,'GeoPostal','US');

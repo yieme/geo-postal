@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 1K0"]={"code":"V0E 1K0","region":"British Columbia","city":"Paradise Point","latitude":50.79981,"longitude":-119.16906}}(window,'GeoPostal','CA');

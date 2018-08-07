@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82131"]={"code":"82131","region":"Bayern","city":"Stockdorf","latitude":48.09195,"longitude":11.40737}}(window,'GeoPostal','DE');

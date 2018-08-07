@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51190"]={"code":"51190","region":"Grand-Est","city":"Avize","latitude":48.97352,"longitude":4.01438}}(window,'GeoPostal','FR');

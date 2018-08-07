@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["334804"]={"code":"334804","region":"Rajasthan","city":"Nokha","latitude":27.6,"longitude":73.41667}}(window,'GeoPostal','IN');

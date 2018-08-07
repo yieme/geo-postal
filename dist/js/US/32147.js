@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32147"]={"code":"32147","region":"Florida","city":"Hollister","latitude":29.6225,"longitude":-81.813889}}(window,'GeoPostal','US');

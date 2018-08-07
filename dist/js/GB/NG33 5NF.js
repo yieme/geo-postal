@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG33 5NF"]={"code":"NG33 5NF","region":"England","city":"Colsterworth","latitude":52.8066,"longitude":-0.62056}}(window,'GeoPostal','GB');

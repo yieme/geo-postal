@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 2J0"]={"code":"T0J 2J0","region":"Alberta","city":"Oyen","latitude":51.36682,"longitude":-110.46832}}(window,'GeoPostal','CA');

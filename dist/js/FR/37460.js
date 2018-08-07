@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37460"]={"code":"37460","region":"Centre-Val de Loire","city":"Genille","latitude":47.18333,"longitude":1.1}}(window,'GeoPostal','FR');

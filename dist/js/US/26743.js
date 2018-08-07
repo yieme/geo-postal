@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26743"]={"code":"26743","region":"West Virginia","city":"New Creek","latitude":39.375,"longitude":-79.02667}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW14 7TZ"]={"code":"KW14 7TZ","region":"Scotland","city":"Lower Dounreay","latitude":58.58333,"longitude":-3.75}}(window,'GeoPostal','GB');

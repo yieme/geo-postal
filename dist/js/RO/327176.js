@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327176"]={"code":"327176","region":"Caras-Severin","city":"Bocsa","latitude":45.37333,"longitude":21.70917}}(window,'GeoPostal','RO');

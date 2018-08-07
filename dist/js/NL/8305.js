@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8305"]={"code":"8305","region":"Flevoland","city":"Emmeloord","latitude":52.71083,"longitude":5.74861}}(window,'GeoPostal','NL');

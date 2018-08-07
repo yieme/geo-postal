@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31020"]={"code":"31020","region":"GA","city":"Dry Branch","latitude":32.7151,"longitude":-83.4558}}(window,'GeoPostal','US');

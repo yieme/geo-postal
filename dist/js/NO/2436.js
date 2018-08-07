@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2436"]={"code":"2436","region":"Hedmark","city":"Valer","latitude":60.67845,"longitude":11.83314}}(window,'GeoPostal','NO');

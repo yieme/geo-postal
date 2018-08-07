@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-115"]={"code":"33-115","region":"Malopolskie","city":"Janowice","latitude":49.89154,"longitude":20.86081}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56644"]={"code":"56644","region":"MN","city":"Gonvick","latitude":47.749,"longitude":-95.499}}(window,'GeoPostal','US');

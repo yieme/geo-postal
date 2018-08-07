@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08390"]={"code":"08390","region":"Catalunya","city":"Montgat","latitude":41.46859,"longitude":2.28001}}(window,'GeoPostal','ES');

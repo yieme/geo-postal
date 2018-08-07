@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429224"]={"code":"429224","region":"Chuvashskaya Respublika","city":"Vurnary","latitude":55.49044,"longitude":46.96479}}(window,'GeoPostal','RU');

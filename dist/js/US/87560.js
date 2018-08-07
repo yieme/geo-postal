@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87560"]={"code":"87560","region":"NM","city":"Ribera","latitude":35.3344,"longitude":-105.4652}}(window,'GeoPostal','US');

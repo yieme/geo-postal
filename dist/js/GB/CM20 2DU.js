@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM20 2DU"]={"code":"CM20 2DU","region":"England","city":"Harlow","latitude":51.77655,"longitude":0.11158}}(window,'GeoPostal','GB');

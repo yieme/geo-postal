@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8721"]={"code":"8721","region":"Bukidnon","city":"Damulog","latitude":7.48361,"longitude":124.94306}}(window,'GeoPostal','PH');

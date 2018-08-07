@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 8DP"]={"code":"NE65 8DP","region":"England","city":"Longframlington","latitude":55.30392,"longitude":-1.79504}}(window,'GeoPostal','GB');

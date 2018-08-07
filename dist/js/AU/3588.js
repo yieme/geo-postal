@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3588"]={"code":"3588","region":"Victoria","city":"Woorinen","latitude":-35.2925,"longitude":143.45424}}(window,'GeoPostal','AU');

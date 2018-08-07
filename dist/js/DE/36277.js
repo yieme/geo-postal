@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36277"]={"code":"36277","region":"Hessen","city":"Schenklengsfeld","latitude":50.81667,"longitude":9.85}}(window,'GeoPostal','DE');

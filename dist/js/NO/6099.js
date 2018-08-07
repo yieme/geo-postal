@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6099"]={"code":"6099","region":"More og Romsdal","city":"Fosnavag","latitude":62.34194,"longitude":5.63396}}(window,'GeoPostal','NO');

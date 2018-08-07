@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74366"]={"code":"74366","region":"OK","city":"Spavinaw","latitude":36.3912,"longitude":-95.0466}}(window,'GeoPostal','US');

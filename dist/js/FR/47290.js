@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47290"]={"code":"47290","region":"Nouvelle-Aquitaine","city":"Cancon","latitude":44.53543,"longitude":0.6252}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47869"]={"code":"47869","region":"IN","city":"Prairie Creek","latitude":39.275,"longitude":-87.4972}}(window,'GeoPostal','US');

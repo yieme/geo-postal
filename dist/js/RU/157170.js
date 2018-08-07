@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157170"]={"code":"157170","region":"Kostromskaya oblast'","city":"Soligalich","latitude":59.0796,"longitude":42.28526}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17083"]={"code":"17083","region":"PA","city":"Quentin","latitude":40.2796,"longitude":-76.4397}}(window,'GeoPostal','US');

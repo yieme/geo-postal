@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU28 0LD"]={"code":"GU28 0LD","region":"England","city":"Duncton","latitude":50.94661,"longitude":-0.63468}}(window,'GeoPostal','GB');

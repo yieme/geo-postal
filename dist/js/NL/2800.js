@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2800"]={"code":"2800","region":"Zuid-Holland","city":"Gouda","latitude":52.01667,"longitude":4.70833}}(window,'GeoPostal','NL');

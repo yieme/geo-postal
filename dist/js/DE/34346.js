@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34346"]={"code":"34346","region":"Niedersachsen","city":"Gimte","latitude":51.4349,"longitude":9.64328}}(window,'GeoPostal','DE');

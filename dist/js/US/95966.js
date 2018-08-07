@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95966"]={"code":"95966","region":"California","city":"Oroville","latitude":39.486687,"longitude":-121.487282}}(window,'GeoPostal','US');

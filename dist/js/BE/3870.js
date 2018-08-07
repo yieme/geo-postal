@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3870"]={"code":"3870","region":"Limburg","city":"Heers","latitude":50.75383,"longitude":5.3021}}(window,'GeoPostal','BE');

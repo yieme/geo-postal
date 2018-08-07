@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79043"]={"code":"79043","region":"Texas","city":"Hart","latitude":34.38507,"longitude":-102.11574}}(window,'GeoPostal','US');

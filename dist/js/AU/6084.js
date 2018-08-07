@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6084"]={"code":"6084","region":"Western Australia","city":"Lower Chittering","latitude":-31.58333,"longitude":116.11667}}(window,'GeoPostal','AU');

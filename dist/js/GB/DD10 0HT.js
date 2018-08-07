@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD10 0HT"]={"code":"DD10 0HT","region":"Scotland","city":"Benholm","latitude":56.81506,"longitude":-2.32086}}(window,'GeoPostal','GB');

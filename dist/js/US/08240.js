@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08240"]={"code":"08240","region":"New Jersey","city":"Pomona","latitude":39.482968,"longitude":-74.566553}}(window,'GeoPostal','US');

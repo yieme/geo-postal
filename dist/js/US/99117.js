@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99117"]={"code":"99117","region":"WA","city":"Creston","latitude":47.7977,"longitude":-118.5307}}(window,'GeoPostal','US');

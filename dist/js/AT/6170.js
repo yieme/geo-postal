@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6170"]={"code":"6170","region":"Tirol","city":"Zirl","latitude":47.28333,"longitude":11.23333}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46345"]={"code":"46345","region":"IN","city":"Kingsbury","latitude":41.526,"longitude":-86.6997}}(window,'GeoPostal','US');

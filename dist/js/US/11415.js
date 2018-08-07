@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11415"]={"code":"11415","region":"New York","city":"Kew Gardens","latitude":40.70754,"longitude":-73.82868}}(window,'GeoPostal','US');

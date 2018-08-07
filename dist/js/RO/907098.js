@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907098"]={"code":"907098","region":"Constanta","city":"Crucea","latitude":44.53333,"longitude":28.23333}}(window,'GeoPostal','RO');

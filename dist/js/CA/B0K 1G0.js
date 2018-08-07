@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0K 1G0"]={"code":"B0K 1G0","region":"Nova Scotia","city":"Greenvale","latitude":45.50015,"longitude":-62.48192}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3150"]={"code":"3150","region":"Victoria","city":"Mulgrave","latitude":-37.91667,"longitude":145.2}}(window,'GeoPostal','AU');

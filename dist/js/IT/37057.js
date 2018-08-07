@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37057"]={"code":"37057","region":"Veneto","city":"San Giovanni Lupatoto","latitude":45.38789,"longitude":11.03799}}(window,'GeoPostal','IT');

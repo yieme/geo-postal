@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 2UR"]={"code":"LE14 2UR","region":"England","city":"Burton Lazars","latitude":52.74412,"longitude":-0.8642}}(window,'GeoPostal','GB');

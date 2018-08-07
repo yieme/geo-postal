@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["211304"]={"code":"211304","region":"Jiangsu","city":"Gucheng","latitude":31.30568,"longitude":118.96406}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162220"]={"code":"162220","region":"Vologodskaya oblast'","city":"Syamzha","latitude":60.01577,"longitude":41.06139}}(window,'GeoPostal','RU');

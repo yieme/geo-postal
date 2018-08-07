@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30021"]={"code":"30021","region":"Veneto","city":"Caorle","latitude":45.59656,"longitude":12.8758}}(window,'GeoPostal','IT');

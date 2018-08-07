@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21903"]={"code":"21903","region":"Maryland","city":"Perryville","latitude":39.56011,"longitude":-76.07134}}(window,'GeoPostal','US');

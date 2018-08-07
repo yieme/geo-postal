@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50565"]={"code":"50565","region":"IA","city":"Marathon","latitude":42.8612,"longitude":-94.9836}}(window,'GeoPostal','US');

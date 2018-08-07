@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84424"]={"code":"84424","region":"Bayern","city":"Gmain","latitude":48.20543,"longitude":12.06555}}(window,'GeoPostal','DE');

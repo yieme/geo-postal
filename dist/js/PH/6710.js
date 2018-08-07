@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6710"]={"code":"6710","region":"Samar","city":"Calbayog","latitude":12.06722,"longitude":124.60417}}(window,'GeoPostal','PH');

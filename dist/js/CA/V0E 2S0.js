@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 2S0"]={"code":"V0E 2S0","region":"British Columbia","city":"Revelstoke","latitude":50.999003,"longitude":-118.199032}}(window,'GeoPostal','CA');

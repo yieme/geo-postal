@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417098"]={"code":"417098","region":"Neamt","city":"Brusturi","latitude":47.15,"longitude":22.25}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE21 5EL"]={"code":"DE21 5EL","region":"England","city":"Little Eaton","latitude":52.97028,"longitude":-1.4595}}(window,'GeoPostal','GB');

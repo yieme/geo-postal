@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02041"]={"code":"02041","region":"MA","city":"Green Harbor","latitude":42.0696,"longitude":-70.6491}}(window,'GeoPostal','US');

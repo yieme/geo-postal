@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62037"]={"code":"62037","region":"IL","city":"Grafton","latitude":39.0021,"longitude":-90.4323}}(window,'GeoPostal','US');

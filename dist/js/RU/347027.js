@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347027"]={"code":"347027","region":"Rostovskaya oblast'","city":"Sinegorskiy","latitude":48.01389,"longitude":40.84468}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2023"]={"code":"2023","region":"Lori","city":"Vanadzor","latitude":40.80456,"longitude":44.4939}}(window,'GeoPostal','AM');

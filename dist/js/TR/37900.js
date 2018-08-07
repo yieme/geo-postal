@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37900"]={"code":"37900","region":"Kastamonu","city":"Kure","latitude":41.80578,"longitude":33.71161}}(window,'GeoPostal','TR');

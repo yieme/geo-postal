@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40357"]={"code":"40357","region":"KY","city":"North Middletown","latitude":38.1464,"longitude":-84.1077}}(window,'GeoPostal','US');

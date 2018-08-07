@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85340"]={"code":"85340","region":"Arizona","city":"Litchfield Park","latitude":33.501179,"longitude":-112.376694}}(window,'GeoPostal','US');

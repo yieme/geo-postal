@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59823"]={"code":"59823","region":"Nordrhein-Westfalen","city":"Freienohl","latitude":51.37443,"longitude":8.17477}}(window,'GeoPostal','DE');

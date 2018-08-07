@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10079"]={"code":"10079","region":"Bordj Bou Arreridj","city":"Melouza","latitude":35.97999,"longitude":4.18665}}(window,'GeoPostal','DZ');

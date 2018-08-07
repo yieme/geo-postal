@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61720"]={"code":"61720","region":"IL","city":"Anchor","latitude":40.5441,"longitude":-88.5266}}(window,'GeoPostal','US');

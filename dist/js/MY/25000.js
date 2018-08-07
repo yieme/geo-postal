@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25000"]={"code":"25000","region":"Pahang","city":"Kuantan","latitude":3.8077,"longitude":103.326}}(window,'GeoPostal','MY');

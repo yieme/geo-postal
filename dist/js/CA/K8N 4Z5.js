@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K8N 4Z5"]={"code":"K8N 4Z5","region":"Ontario","city":"Quinte West","latitude":44.164635,"longitude":-77.472323}}(window,'GeoPostal','CA');

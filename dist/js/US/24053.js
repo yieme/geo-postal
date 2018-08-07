@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24053"]={"code":"24053","region":"Virginia","city":"Ararat","latitude":36.588302,"longitude":-80.529756}}(window,'GeoPostal','US');

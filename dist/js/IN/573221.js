@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["573221"]={"code":"573221","region":"Karnataka","city":"Hole Narsipur","latitude":12.78278,"longitude":76.24306}}(window,'GeoPostal','IN');

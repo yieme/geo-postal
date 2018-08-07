@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49745"]={"code":"49745","region":"Michigan","city":"Hessel","latitude":45.99917,"longitude":-84.34472}}(window,'GeoPostal','US');

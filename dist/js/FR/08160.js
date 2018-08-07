@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08160"]={"code":"08160","region":"Grand-Est","city":"Flize","latitude":49.69875,"longitude":4.77171}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FY5 1RP"]={"code":"FY5 1RP","region":"England","city":"Norbreck","latitude":53.85768,"longitude":-3.04719}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72793"]={"code":"72793","region":"Baden-Wurttemberg","city":"Pfullingen","latitude":48.46458,"longitude":9.22796}}(window,'GeoPostal','DE');

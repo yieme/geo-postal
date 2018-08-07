@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["398 11"]={"code":"398 11","region":"Jihocesky kraj","city":"Protivin","latitude":49.19949,"longitude":14.21717}}(window,'GeoPostal','CZ');

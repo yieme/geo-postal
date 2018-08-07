@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2041"]={"code":"2041","region":"New South Wales","city":"Balmain","latitude":-33.86667,"longitude":151.18333}}(window,'GeoPostal','AU');

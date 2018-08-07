@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["CM"]={id:'CM',country:'Cameroon', postal:{'':{code:'',region:'Centre',city:'Yaounde',latitude:3.86667,longitude:11.51667}}};

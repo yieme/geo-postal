@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07003"]={"code":"07003","region":"Biskra","city":"Tolga","latitude":34.72224,"longitude":5.37845}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37080"]={"code":"37080","region":"TN","city":"Joelton","latitude":36.329,"longitude":-86.9163}}(window,'GeoPostal','US');

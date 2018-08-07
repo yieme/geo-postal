@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301379"]={"code":"301379","region":"Tul'skaya oblast'","city":"Aleksin","latitude":54.51,"longitude":37.08}}(window,'GeoPostal','RU');

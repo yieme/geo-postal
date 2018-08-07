@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01093"]={"code":"01093","region":"MA","city":"Whately","latitude":42.4427,"longitude":-72.6525}}(window,'GeoPostal','US');

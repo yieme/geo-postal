@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95154"]={"code":"95154","region":"California","city":"San Jose","latitude":37.26492,"longitude":-121.91388}}(window,'GeoPostal','US');

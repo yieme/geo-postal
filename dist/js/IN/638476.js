@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["638476"]={"code":"638476","region":"Karnataka","city":"Chamrajnagar","latitude":11.91667,"longitude":76.95}}(window,'GeoPostal','IN');

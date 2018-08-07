@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-260"]={"code":"86-260","region":"Kujawsko-pomorskie","city":"Unislaw","latitude":53.21241,"longitude":18.38622}}(window,'GeoPostal','PL');

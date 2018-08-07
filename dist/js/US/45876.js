@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45876"]={"code":"45876","region":"Ohio","city":"Ottoville","latitude":40.931399,"longitude":-84.338922}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47172"]={"code":"47172","region":"Indiana","city":"Sellersburg","latitude":38.390477,"longitude":-85.760482}}(window,'GeoPostal','US');

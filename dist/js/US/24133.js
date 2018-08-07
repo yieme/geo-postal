@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24133"]={"code":"24133","region":"Virginia","city":"Patrick Springs","latitude":36.6418,"longitude":-80.19505}}(window,'GeoPostal','US');

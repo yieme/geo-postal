@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90023"]={"code":"90023","region":"Sicilia","city":"Ciminna","latitude":37.89825,"longitude":13.55945}}(window,'GeoPostal','IT');

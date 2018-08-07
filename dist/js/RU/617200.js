@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617200"]={"code":"617200","region":"Permskiy kray","city":"Mendeleyevo","latitude":58.16976,"longitude":54.99634}}(window,'GeoPostal','RU');

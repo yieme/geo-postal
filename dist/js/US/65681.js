@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65681"]={"code":"65681","region":"MO","city":"Lampe","latitude":36.5767,"longitude":-93.4516}}(window,'GeoPostal','US');

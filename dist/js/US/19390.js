@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19390"]={"code":"19390","region":"PA","city":"West Grove","latitude":39.8253,"longitude":-75.8374}}(window,'GeoPostal','US');

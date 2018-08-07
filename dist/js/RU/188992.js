@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188992"]={"code":"188992","region":"Leningradskaya oblast'","city":"Svetogorsk","latitude":61.11213,"longitude":28.86321}}(window,'GeoPostal','RU');

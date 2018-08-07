@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV7 8JH"]={"code":"IV7 8JH","region":"Scotland","city":"Culbokie","latitude":57.60387,"longitude":-4.33618}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69212"]={"code":"69212","region":"NE","city":"Crookston","latitude":42.9255,"longitude":-100.7735}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83012"]={"code":"83012","region":"Wyoming","city":"Moose","latitude":43.600136,"longitude":-110.74159}}(window,'GeoPostal','US');

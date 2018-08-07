@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88520"]={"code":"88520","region":"Grand-Est","city":"Bertrimoutier","latitude":48.2725,"longitude":7.055}}(window,'GeoPostal','FR');

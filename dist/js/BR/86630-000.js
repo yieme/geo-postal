@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86630-000"]={"code":"86630-000","region":"Parana","city":"Centenario do Sul","latitude":-22.82111,"longitude":-51.59528}}(window,'GeoPostal','BR');

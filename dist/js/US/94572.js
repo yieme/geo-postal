@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94572"]={"code":"94572","region":"CA","city":"Rodeo","latitude":38.0307,"longitude":-122.2581}}(window,'GeoPostal','US');

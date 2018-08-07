@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL53 6DR"]={"code":"LL53 6DR","region":"Wales","city":"Bodfean","latitude":52.91667,"longitude":-4.5}}(window,'GeoPostal','GB');

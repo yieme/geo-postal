@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42393"]={"code":"42393","region":"Banten","city":"Bayah","latitude":-6.9277,"longitude":106.2547}}(window,'GeoPostal','ID');

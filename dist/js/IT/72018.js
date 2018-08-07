@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72018"]={"code":"72018","region":"Puglia","city":"San Michele Salentino","latitude":40.63163,"longitude":17.63151}}(window,'GeoPostal','IT');

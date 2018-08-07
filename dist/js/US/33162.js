@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33162"]={"code":"33162","region":"Florida","city":"North Miami Beach","latitude":25.927746,"longitude":-80.179888}}(window,'GeoPostal','US');

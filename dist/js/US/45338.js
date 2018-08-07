@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45338"]={"code":"45338","region":"Ohio","city":"Lewisburg","latitude":39.84616,"longitude":-84.53967}}(window,'GeoPostal','US');

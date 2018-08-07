@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81105"]={"code":"81105","region":"Lvivska oblast","city":"Navariya","latitude":49.74952,"longitude":23.92746}}(window,'GeoPostal','UA');

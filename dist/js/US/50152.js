@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50152"]={"code":"50152","region":"IA","city":"Luther","latitude":41.9387,"longitude":-93.8371}}(window,'GeoPostal','US');

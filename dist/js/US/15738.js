@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15738"]={"code":"15738","region":"PA","city":"Emeigh","latitude":40.6948,"longitude":-78.787}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-500"]={"code":"34-500","region":"Malopolskie","city":"Zakopane","latitude":49.29899,"longitude":19.94885}}(window,'GeoPostal','PL');

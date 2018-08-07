@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07459"]={"code":"07459","region":"Illes Balears","city":"Santa Margalida","latitude":39.70143,"longitude":3.10215}}(window,'GeoPostal','ES');

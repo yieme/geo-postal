@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24354"]={"code":"24354","region":"Virginia","city":"Marion","latitude":36.83484,"longitude":-81.51484}}(window,'GeoPostal','US');

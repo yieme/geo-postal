@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35744"]={"code":"35744","region":"Bretagne","city":"Pace","latitude":48.14848,"longitude":-1.77327}}(window,'GeoPostal','FR');

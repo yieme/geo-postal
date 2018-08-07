@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14034"]={"code":"14034","region":"New York","city":"Collins","latitude":42.496389,"longitude":-78.920556}}(window,'GeoPostal','US');

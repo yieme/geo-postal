@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38255"]={"code":"38255","region":"Tennessee","city":"Sharon","latitude":36.23408,"longitude":-88.825043}}(window,'GeoPostal','US');

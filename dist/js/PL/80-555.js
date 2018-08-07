@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80-555"]={"code":"80-555","region":"Pomorskie","city":"Gdansk","latitude":54.35205,"longitude":18.64637}}(window,'GeoPostal','PL');

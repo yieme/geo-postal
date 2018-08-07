@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA4 0JL"]={"code":"CA4 0JL","region":"England","city":"High Hesket","latitude":54.79183,"longitude":-2.81676}}(window,'GeoPostal','GB');

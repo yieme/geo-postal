@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP3 0EA"]={"code":"HP3 0EA","region":"England","city":"Bovingdon","latitude":51.72312,"longitude":-0.5367}}(window,'GeoPostal','GB');

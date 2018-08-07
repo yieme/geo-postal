@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6431"]={"code":"6431","region":"Western Australia","city":"Zanthus","latitude":-31.03333,"longitude":123.56667}}(window,'GeoPostal','AU');

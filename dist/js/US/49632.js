@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49632"]={"code":"49632","region":"Michigan","city":"Falmouth","latitude":44.20639,"longitude":-85.03167}}(window,'GeoPostal','US');

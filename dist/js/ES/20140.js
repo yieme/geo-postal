@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20140"]={"code":"20140","region":"Pais Vasco","city":"Andoain","latitude":43.21658,"longitude":-2.0253}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4701"]={"code":"4701","region":"Liege","city":"Eupen","latitude":50.6279,"longitude":6.03647}}(window,'GeoPostal','BE');

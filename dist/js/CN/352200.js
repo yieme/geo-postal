@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352200"]={"code":"352200","region":"Fujian","city":"Songji","latitude":26.57662,"longitude":118.74035}}(window,'GeoPostal','CN');

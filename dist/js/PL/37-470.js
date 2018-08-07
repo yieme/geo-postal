@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-470"]={"code":"37-470","region":"Podkarpackie","city":"Zaklikow","latitude":50.75769,"longitude":22.10226}}(window,'GeoPostal','PL');

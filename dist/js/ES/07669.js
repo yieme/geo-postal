@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07669"]={"code":"07669","region":"Illes Balears","city":"Felanitx","latitude":39.4696,"longitude":3.14831}}(window,'GeoPostal','ES');

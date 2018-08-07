@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR2 0EX"]={"code":"HR2 0EX","region":"England","city":"Ewyas Harold","latitude":51.95358,"longitude":-2.89325}}(window,'GeoPostal','GB');

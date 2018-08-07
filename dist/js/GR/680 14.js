@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680 14"]={"code":"680 14","region":"Anatoliki Makedonia kai Thraki","city":"Kastaneai","latitude":41.65,"longitude":26.46667}}(window,'GeoPostal','GR');

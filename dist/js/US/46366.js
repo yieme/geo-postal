@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46366"]={"code":"46366","region":"IN","city":"North Judson","latitude":41.215,"longitude":-86.7759}}(window,'GeoPostal','US');

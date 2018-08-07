@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28512"]={"code":"28512","region":"Madrid, Comunidad de","city":"Villar del Olmo","latitude":40.33468,"longitude":-3.23399}}(window,'GeoPostal','ES');

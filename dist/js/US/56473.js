@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56473"]={"code":"56473","region":"Minnesota","city":"Pillager","latitude":46.333,"longitude":-94.467}}(window,'GeoPostal','US');

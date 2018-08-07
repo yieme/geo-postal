@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1590"]={"code":"1590","region":"Gauteng","city":"Nigel","latitude":-26.43138,"longitude":28.47713}}(window,'GeoPostal','ZA');

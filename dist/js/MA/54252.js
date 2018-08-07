@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54252"]={"code":"54252","region":"Meknes-Tafilalet","city":"Itzer","latitude":32.8783,"longitude":-5.0515}}(window,'GeoPostal','MA');

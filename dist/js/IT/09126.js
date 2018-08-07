@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09126"]={"code":"09126","region":"Sardegna","city":"Cagliari","latitude":39.20738,"longitude":9.13462}}(window,'GeoPostal','IT');

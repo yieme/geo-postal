@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453150"]={"code":"453150","region":"Bashkortostan, Respublika","city":"Karmaskaly","latitude":54.3709,"longitude":56.1837}}(window,'GeoPostal','RU');

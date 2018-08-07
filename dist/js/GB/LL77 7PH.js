@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL77 7PH"]={"code":"LL77 7PH","region":"Wales","city":"Llangefni","latitude":53.25561,"longitude":-4.31063}}(window,'GeoPostal','GB');

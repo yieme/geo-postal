@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["405100"]={"code":"405100","region":"Cluj","city":"Mihai Viteazu","latitude":44.63333,"longitude":28.68333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63401"]={"code":"63401","region":"Missouri","city":"Hannibal","latitude":39.70838,"longitude":-91.35848}}(window,'GeoPostal','US');

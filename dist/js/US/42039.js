@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42039"]={"code":"42039","region":"KY","city":"Fancy Farm","latitude":36.7767,"longitude":-88.7918}}(window,'GeoPostal','US');

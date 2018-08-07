@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84532"]={"code":"84532","region":"Utah","city":"Moab","latitude":38.57332,"longitude":-109.54984}}(window,'GeoPostal','US');

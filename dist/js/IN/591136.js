@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["591136"]={"code":"591136","region":"Karnataka","city":"Mudhol","latitude":16.35,"longitude":75.28333}}(window,'GeoPostal','IN');

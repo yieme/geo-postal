@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57213"]={"code":"57213","region":"SD","city":"Astoria","latitude":44.5735,"longitude":-96.5416}}(window,'GeoPostal','US');

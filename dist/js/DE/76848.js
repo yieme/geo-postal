@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76848"]={"code":"76848","region":"Rheinland-Pfalz","city":"Wilgartswiesen","latitude":49.21667,"longitude":7.88333}}(window,'GeoPostal','DE');

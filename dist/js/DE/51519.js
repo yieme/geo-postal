@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51519"]={"code":"51519","region":"Nordrhein-Westfalen","city":"Odenthal","latitude":51.03333,"longitude":7.11667}}(window,'GeoPostal','DE');

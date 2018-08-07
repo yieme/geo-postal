@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39868-000"]={"code":"39868-000","region":"Minas Gerais","city":"Nanuque","latitude":-17.83917,"longitude":-40.35389}}(window,'GeoPostal','BR');

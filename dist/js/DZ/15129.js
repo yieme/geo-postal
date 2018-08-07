@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15129"]={"code":"15129","region":"Tizi Ouzou","city":"'Ain el Hammam","latitude":36.56471,"longitude":4.30619}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41366"]={"code":"41366","region":"Hessen","city":"Schwalmtal","latitude":50.68333,"longitude":9.21667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26590"]={"code":"26590","region":"WV","city":"Wana","latitude":39.6735,"longitude":-80.3183}}(window,'GeoPostal','US');

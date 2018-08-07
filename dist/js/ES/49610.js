@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49610"]={"code":"49610","region":"Castilla y Leon","city":"Santibanez de Vidriales","latitude":42.07362,"longitude":-6.01549}}(window,'GeoPostal','ES');

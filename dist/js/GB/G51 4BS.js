@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G51 4BS"]={"code":"G51 4BS","region":"Scotland","city":"Braehead","latitude":55.87599,"longitude":-4.36484}}(window,'GeoPostal','GB');

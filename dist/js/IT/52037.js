@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52037"]={"code":"52037","region":"Toscana","city":"Sansepolcro","latitude":43.57465,"longitude":12.14304}}(window,'GeoPostal','IT');

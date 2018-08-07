@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07035"]={"code":"07035","region":"Biskra","city":"Oumache","latitude":34.69292,"longitude":5.68092}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17480"]={"code":"17480","region":"Nouvelle-Aquitaine","city":"Le Chateau-d'Oleron","latitude":45.8858,"longitude":-1.1947}}(window,'GeoPostal','FR');

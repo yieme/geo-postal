@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40862"]={"code":"40862","region":"KY","city":"Partridge","latitude":37.0129,"longitude":-82.8795}}(window,'GeoPostal','US');

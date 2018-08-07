@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47028"]={"code":"47028","region":"Emilia-Romagna","city":"Verghereto","latitude":43.79296,"longitude":12.00394}}(window,'GeoPostal','IT');

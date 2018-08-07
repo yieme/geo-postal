@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76380"]={"code":"76380","region":"Texas","city":"Seymour","latitude":33.59426,"longitude":-99.26035}}(window,'GeoPostal','US');

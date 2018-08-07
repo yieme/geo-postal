@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0N 1C0"]={"code":"A0N 1C0","region":"Newfoundland and Labrador","city":"Red Rocks","latitude":47.66672,"longitude":-59.29859}}(window,'GeoPostal','CA');

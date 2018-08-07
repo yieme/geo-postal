@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1021"]={"code":"1021","region":"Gauteng","city":"Ekangala","latitude":-25.69619,"longitude":28.74918}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77982"]={"code":"77982","region":"TX","city":"Port O Connor","latitude":28.4483,"longitude":-96.4058}}(window,'GeoPostal','US');

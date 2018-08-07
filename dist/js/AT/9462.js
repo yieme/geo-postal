@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9462"]={"code":"9462","region":"Karnten","city":"Wolfsberg","latitude":46.84056,"longitude":14.84417}}(window,'GeoPostal','AT');

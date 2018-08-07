@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65608-170"]={"code":"65608-170","region":"Maranhao","city":"Caxias","latitude":-4.858889,"longitude":-43.355833}}(window,'GeoPostal','BR');

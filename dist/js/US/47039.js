@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47039"]={"code":"47039","region":"IN","city":"Pierceville","latitude":39.1116,"longitude":-85.2551}}(window,'GeoPostal','US');

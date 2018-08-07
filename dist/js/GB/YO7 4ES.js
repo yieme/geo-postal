@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO7 4ES"]={"code":"YO7 4ES","region":"England","city":"Kirby Wiske","latitude":54.25759,"longitude":-1.42464}}(window,'GeoPostal','GB');

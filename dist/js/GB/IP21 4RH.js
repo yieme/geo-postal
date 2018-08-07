@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP21 4RH"]={"code":"IP21 4RH","region":"England","city":"Pulham","latitude":52.41667,"longitude":1.25}}(window,'GeoPostal','GB');

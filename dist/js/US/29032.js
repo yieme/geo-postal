@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29032"]={"code":"29032","region":"SC","city":"Cassatt","latitude":34.3424,"longitude":-80.5}}(window,'GeoPostal','US');

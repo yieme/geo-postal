@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56280"]={"code":"56280","region":"Minnesota","city":"Porter","latitude":44.674471,"longitude":-96.154453}}(window,'GeoPostal','US');

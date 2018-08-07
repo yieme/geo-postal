@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22974"]={"code":"22974","region":"VA","city":"Troy","latitude":37.9636,"longitude":-78.2535}}(window,'GeoPostal','US');

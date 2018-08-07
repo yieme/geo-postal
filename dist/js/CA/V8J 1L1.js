@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V8J 1L1"]={"code":"V8J 1L1","region":"British Columbia","city":"Prince Rupert","latitude":54.313976,"longitude":-130.322973}}(window,'GeoPostal','CA');

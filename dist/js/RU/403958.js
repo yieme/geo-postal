@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403958"]={"code":"403958","region":"Volgogradskaya oblast'","city":"Novoanninskiy","latitude":50.5287,"longitude":42.6747}}(window,'GeoPostal','RU');

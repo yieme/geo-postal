@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48757"]={"code":"48757","region":"Michigan","city":"Reese","latitude":43.465353,"longitude":-83.672174}}(window,'GeoPostal','US');

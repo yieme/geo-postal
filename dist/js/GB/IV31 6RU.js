@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV31 6RU"]={"code":"IV31 6RU","region":"Scotland","city":"Milltown","latitude":57.68333,"longitude":-3.25}}(window,'GeoPostal','GB');

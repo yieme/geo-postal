@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31000"]={"code":"31000","region":"Eastern Province","city":"Trincomalee","latitude":8.5711,"longitude":81.2335}}(window,'GeoPostal','LK');

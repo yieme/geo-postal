@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659780"]={"code":"659780","region":"Altayskiy kray","city":"Rodino","latitude":52.5,"longitude":80.25}}(window,'GeoPostal','RU');

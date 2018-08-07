@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08800"]={"code":"08800","region":"Catalunya","city":"Vilanova i la Geltru","latitude":41.22392,"longitude":1.72511}}(window,'GeoPostal','ES');

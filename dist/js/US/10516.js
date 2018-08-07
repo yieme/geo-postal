@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10516"]={"code":"10516","region":"NY","city":"Cold Spring","latitude":41.4414,"longitude":-73.9335}}(window,'GeoPostal','US');

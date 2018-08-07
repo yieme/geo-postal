@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33043"]={"code":"33043","region":"Friuli-Venezia Giulia","city":"Cividale del Friuli","latitude":46.09306,"longitude":13.4275}}(window,'GeoPostal','IT');

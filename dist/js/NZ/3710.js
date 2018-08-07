@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3710"]={"code":"3710","region":"Waikato","city":"Te Kauwhata","latitude":-37.4,"longitude":175.15}}(window,'GeoPostal','NZ');

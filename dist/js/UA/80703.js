@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80703"]={"code":"80703","region":"Lvivska oblast","city":"Zolochiv","latitude":49.80597,"longitude":24.89436}}(window,'GeoPostal','UA');

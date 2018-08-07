@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["473781"]={"code":"473781","region":"Madhya Pradesh","city":"Ashoknagar","latitude":24.56667,"longitude":77.71667}}(window,'GeoPostal','IN');

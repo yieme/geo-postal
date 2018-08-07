@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03036"]={"code":"03036","region":"Lazio","city":"Isola del Liri","latitude":41.68622,"longitude":13.5823}}(window,'GeoPostal','IT');

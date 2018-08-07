@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-147"]={"code":"36-147","region":"Podkarpackie","city":"Niwiska","latitude":50.22492,"longitude":21.63036}}(window,'GeoPostal','PL');

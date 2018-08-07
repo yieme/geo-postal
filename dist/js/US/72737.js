@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72737"]={"code":"72737","region":"AR","city":"Greenland","latitude":35.9942,"longitude":-94.1752}}(window,'GeoPostal','US');

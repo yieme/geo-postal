@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77515"]={"code":"77515","region":"Texas","city":"Angleton","latitude":29.16941,"longitude":-95.43188}}(window,'GeoPostal','US');

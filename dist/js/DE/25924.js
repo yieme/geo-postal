@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25924"]={"code":"25924","region":"Schleswig-Holstein","city":"Westerklanxbull","latitude":54.86625,"longitude":8.66616}}(window,'GeoPostal','DE');

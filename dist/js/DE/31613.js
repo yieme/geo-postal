@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31613"]={"code":"31613","region":"Niedersachsen","city":"Dolldorf","latitude":52.69938,"longitude":9.12493}}(window,'GeoPostal','DE');

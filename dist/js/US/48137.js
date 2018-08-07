@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48137"]={"code":"48137","region":"MI","city":"Gregory","latitude":42.496,"longitude":-84.0847}}(window,'GeoPostal','US');

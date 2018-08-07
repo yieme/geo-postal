@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14488"]={"code":"14488","region":"NY","city":"Livonia Center","latitude":42.8215,"longitude":-77.6386}}(window,'GeoPostal','US');

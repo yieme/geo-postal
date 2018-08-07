@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO17 0QR"]={"code":"YO17 0QR","region":"England","city":"North Yorkshire","latitude":54.07369,"longitude":-0.95032}}(window,'GeoPostal','GB');

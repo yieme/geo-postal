@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["910101"]={"code":"910101","region":"Abuja Federal Capital Territory","city":"Madala","latitude":9.10444,"longitude":7.21333}}(window,'GeoPostal','NG');

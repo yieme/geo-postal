@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76937"]={"code":"76937","region":"TX","city":"Eola","latitude":31.3617,"longitude":-100.0922}}(window,'GeoPostal','US');

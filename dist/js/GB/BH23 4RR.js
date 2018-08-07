@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH23 4RR"]={"code":"BH23 4RR","region":"England","city":"Hinton","latitude":50.75145,"longitude":-1.71455}}(window,'GeoPostal','GB');

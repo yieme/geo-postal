@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612823"]={"code":"612823","region":"Kirovskaya oblast'","city":"Kirs","latitude":59.33882,"longitude":52.24467}}(window,'GeoPostal','RU');

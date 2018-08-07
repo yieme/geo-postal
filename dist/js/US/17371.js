@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17371"]={"code":"17371","region":"PA","city":"York New Salem","latitude":39.9006,"longitude":-76.7896}}(window,'GeoPostal','US');

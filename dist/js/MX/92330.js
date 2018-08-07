@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92330"]={"code":"92330","region":"Veracruz de Ignacio de la Llave","city":"Nogales","latitude":18.81667,"longitude":-97.16667}}(window,'GeoPostal','MX');

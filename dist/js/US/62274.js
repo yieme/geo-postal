@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62274"]={"code":"62274","region":"Illinois","city":"Pinckneyville","latitude":38.078498,"longitude":-89.387394}}(window,'GeoPostal','US');

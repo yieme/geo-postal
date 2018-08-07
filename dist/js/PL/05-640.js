@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-640"]={"code":"05-640","region":"Mazowieckie","city":"Mogielnica","latitude":51.69432,"longitude":20.72227}}(window,'GeoPostal','PL');

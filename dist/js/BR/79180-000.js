@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79180-000"]={"code":"79180-000","region":"Mato Grosso do Sul","city":"Ribas do Rio Pardo","latitude":-20.44306,"longitude":-53.75917}}(window,'GeoPostal','BR');

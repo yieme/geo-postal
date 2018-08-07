@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70340-906"]={"code":"70340-906","region":"Distrito Federal","city":"Brasilia","latitude":-15.77972,"longitude":-47.92972}}(window,'GeoPostal','BR');

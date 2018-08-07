@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14837"]={"code":"14837","region":"New York","city":"Dundee","latitude":42.5234,"longitude":-76.97663}}(window,'GeoPostal','US');

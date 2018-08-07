@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22193"]={"code":"22193","region":"Virginia","city":"Dale City","latitude":38.63706,"longitude":-77.31109}}(window,'GeoPostal','US');

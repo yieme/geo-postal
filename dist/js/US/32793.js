@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32793"]={"code":"32793","region":"Florida","city":"Winter Park","latitude":28.660329,"longitude":-81.483005}}(window,'GeoPostal','US');

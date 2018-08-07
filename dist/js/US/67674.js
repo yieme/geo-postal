@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67674"]={"code":"67674","region":"KS","city":"Walker","latitude":38.8672,"longitude":-99.0759}}(window,'GeoPostal','US');

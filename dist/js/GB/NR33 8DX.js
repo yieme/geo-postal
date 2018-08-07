@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR33 8DX"]={"code":"NR33 8DX","region":"England","city":"Rushmere","latitude":52.43333,"longitude":1.7}}(window,'GeoPostal','GB');

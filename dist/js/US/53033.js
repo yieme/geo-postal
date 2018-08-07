@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53033"]={"code":"53033","region":"Wisconsin","city":"Hubertus","latitude":43.234406,"longitude":-88.246092}}(window,'GeoPostal','US');

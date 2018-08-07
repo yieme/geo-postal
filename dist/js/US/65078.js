@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65078"]={"code":"65078","region":"MO","city":"Stover","latitude":38.4414,"longitude":-92.9947}}(window,'GeoPostal','US');

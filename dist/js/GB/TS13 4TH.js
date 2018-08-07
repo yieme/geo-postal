@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS13 4TH"]={"code":"TS13 4TH","region":"England","city":"Liverton","latitude":54.51667,"longitude":-0.9}}(window,'GeoPostal','GB');

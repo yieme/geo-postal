@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19130"]={"code":"19130","region":"Nouvelle-Aquitaine","city":"Objat","latitude":45.26238,"longitude":1.40781}}(window,'GeoPostal','FR');

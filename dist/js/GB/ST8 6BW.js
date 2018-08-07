@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST8 6BW"]={"code":"ST8 6BW","region":"England","city":"Biddulph","latitude":53.11724,"longitude":-2.17584}}(window,'GeoPostal','GB');

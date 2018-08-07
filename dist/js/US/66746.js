@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66746"]={"code":"66746","region":"KS","city":"Hepler","latitude":37.6576,"longitude":-94.9892}}(window,'GeoPostal','US');

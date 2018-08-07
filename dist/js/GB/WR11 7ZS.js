@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR11 7ZS"]={"code":"WR11 7ZS","region":"England","city":"Ashton under Hill","latitude":52.04139,"longitude":-2.00549}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37017"]={"code":"37017","region":"Trentino-Alto Adige","city":"Trento","latitude":46.06787,"longitude":11.12108}}(window,'GeoPostal','IT');

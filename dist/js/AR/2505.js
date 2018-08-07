@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2505"]={"code":"2505","region":"Santa Fe","city":"Las Parejas","latitude":-32.68478,"longitude":-61.51637}}(window,'GeoPostal','AR');

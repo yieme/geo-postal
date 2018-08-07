@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68700"]={"code":"68700","region":"Grand-Est","city":"Steinbach","latitude":47.8214,"longitude":7.15279}}(window,'GeoPostal','FR');

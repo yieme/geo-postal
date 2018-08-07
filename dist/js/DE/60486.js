@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60486"]={"code":"60486","region":"Hessen","city":"Rodelheim","latitude":50.12542,"longitude":8.6089}}(window,'GeoPostal','DE');

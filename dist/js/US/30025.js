@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30025"]={"code":"30025","region":"Georgia","city":"Social Circle","latitude":33.65325,"longitude":-83.68549}}(window,'GeoPostal','US');

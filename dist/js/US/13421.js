@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13421"]={"code":"13421","region":"New York","city":"Oneida","latitude":43.09257,"longitude":-75.65129}}(window,'GeoPostal','US');

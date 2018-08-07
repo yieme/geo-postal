@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36088"]={"code":"36088","region":"Hessen","city":"Mackenzell","latitude":50.65898,"longitude":9.7865}}(window,'GeoPostal','DE');

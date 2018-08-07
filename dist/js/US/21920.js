@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21920"]={"code":"21920","region":"Maryland","city":"Elk Mills","latitude":39.657696,"longitude":-75.826824}}(window,'GeoPostal','US');

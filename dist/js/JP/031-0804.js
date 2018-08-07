@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["031-0804"]={"code":"031-0804","region":"Aomori","city":"Hachinohe","latitude":40.5,"longitude":141.483}}(window,'GeoPostal','JP');

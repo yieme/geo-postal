@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["SS"]={'85521':{r:'Central Equatoria',c:'Juba'},'':'85521'};

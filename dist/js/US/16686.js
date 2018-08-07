@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16686"]={"code":"16686","region":"Pennsylvania","city":"Tyrone","latitude":40.671397,"longitude":-78.248724}}(window,'GeoPostal','US');

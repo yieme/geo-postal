@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98065"]={"code":"98065","region":"Washington","city":"Snoqualmie","latitude":47.526915,"longitude":-121.820988}}(window,'GeoPostal','US');

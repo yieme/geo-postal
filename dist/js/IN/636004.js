@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636004"]={"code":"636004","region":"Tamil Nadu","city":"Alagapuram","latitude":11.88333,"longitude":78.91667}}(window,'GeoPostal','IN');

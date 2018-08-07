@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29012"]={"code":"29012","region":"Emilia-Romagna","city":"Caorso","latitude":45.04847,"longitude":9.87107}}(window,'GeoPostal','IT');

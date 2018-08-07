@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38463"]={"code":"38463","region":"Tennessee","city":"Iron City","latitude":35.020097,"longitude":-87.580929}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST10 3AA"]={"code":"ST10 3AA","region":"England","city":"Oakamoor","latitude":53.00144,"longitude":-1.92003}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84640"]={"code":"84640","region":"UT","city":"Lynndyl","latitude":39.4943,"longitude":-112.3979}}(window,'GeoPostal','US');

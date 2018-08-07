@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78592"]={"code":"78592","region":"Ivano-Frankivska oblast","city":"Yablunytsya","latitude":48.31742,"longitude":24.48448}}(window,'GeoPostal','UA');

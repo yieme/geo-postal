@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84315"]={"code":"84315","region":"UT","city":"Hooper","latitude":41.1668,"longitude":-112.1364}}(window,'GeoPostal','US');

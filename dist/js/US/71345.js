@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71345"]={"code":"71345","region":"LA","city":"Lebeau","latitude":30.7292,"longitude":-91.9755}}(window,'GeoPostal','US');

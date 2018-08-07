@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54960"]={"code":"54960","region":"Grand-Est","city":"Mercy-le-Bas","latitude":49.38302,"longitude":5.75044}}(window,'GeoPostal','FR');

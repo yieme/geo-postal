@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07083"]={"code":"07083","region":"New Jersey","city":"Union","latitude":40.6976,"longitude":-74.2632}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76518"]={"code":"76518","region":"TX","city":"Buckholts","latitude":30.8858,"longitude":-97.1241}}(window,'GeoPostal','US');

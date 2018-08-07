@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR0 0QE"]={"code":"WR0 0QE","region":"England","city":"Droitwich","latitude":52.26667,"longitude":-2.15}}(window,'GeoPostal','GB');

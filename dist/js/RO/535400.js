@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["535400"]={"code":"535400","region":"Harghita","city":"Cristuru Secuiesc","latitude":46.28333,"longitude":25.03333}}(window,'GeoPostal','RO');

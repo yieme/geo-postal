@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16117"]={"code":"16117","region":"Pennsylvania","city":"Ellwood City","latitude":40.86173,"longitude":-80.28645}}(window,'GeoPostal','US');

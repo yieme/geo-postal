@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05655"]={"code":"05655","region":"Vermont","city":"Hyde Park","latitude":44.59394,"longitude":-72.61651}}(window,'GeoPostal','US');

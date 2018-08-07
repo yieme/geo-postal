@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58440"]={"code":"58440","region":"ND","city":"Fredonia","latitude":46.3701,"longitude":-99.1733}}(window,'GeoPostal','US');

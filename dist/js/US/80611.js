@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80611"]={"code":"80611","region":"CO","city":"Briggsdale","latitude":40.6392,"longitude":-104.2871}}(window,'GeoPostal','US');

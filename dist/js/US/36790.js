@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36790"]={"code":"36790","region":"AL","city":"Stanton","latitude":32.7332,"longitude":-86.8963}}(window,'GeoPostal','US');

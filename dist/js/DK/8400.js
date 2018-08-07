@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8400"]={"code":"8400","region":"Midtjylland","city":"Ebeltoft","latitude":56.19442,"longitude":10.6821}}(window,'GeoPostal','DK');

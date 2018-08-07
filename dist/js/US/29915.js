@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29915"]={"code":"29915","region":"South Carolina","city":"Hilton Head Island","latitude":32.21632,"longitude":-80.75261}}(window,'GeoPostal','US');

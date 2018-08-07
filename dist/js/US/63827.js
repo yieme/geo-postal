@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63827"]={"code":"63827","region":"Missouri","city":"Bragg City","latitude":36.270608,"longitude":-89.910938}}(window,'GeoPostal','US');

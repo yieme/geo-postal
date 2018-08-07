@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58428"]={"code":"58428","region":"ND","city":"Dawson","latitude":46.8686,"longitude":-99.7515}}(window,'GeoPostal','US');

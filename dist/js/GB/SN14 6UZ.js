@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN14 6UZ"]={"code":"SN14 6UZ","region":"Scotland","city":"West End","latitude":55.9485,"longitude":-3.21432}}(window,'GeoPostal','GB');

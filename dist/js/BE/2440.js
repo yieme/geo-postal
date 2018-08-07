@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2440"]={"code":"2440","region":"Antwerpen","city":"Geel","latitude":51.16557,"longitude":4.98917}}(window,'GeoPostal','BE');

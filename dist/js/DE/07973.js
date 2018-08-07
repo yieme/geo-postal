@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07973"]={"code":"07973","region":"Thuringen","city":"Greiz","latitude":50.65778,"longitude":12.19918}}(window,'GeoPostal','DE');

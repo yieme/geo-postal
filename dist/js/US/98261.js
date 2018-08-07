@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98261"]={"code":"98261","region":"Washington","city":"Lopez Island","latitude":48.446105,"longitude":-122.841797}}(window,'GeoPostal','US');

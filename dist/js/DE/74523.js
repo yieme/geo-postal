@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74523"]={"code":"74523","region":"Baden-Wurttemberg","city":"Schwabisch Hall","latitude":49.11127,"longitude":9.73908}}(window,'GeoPostal','DE');

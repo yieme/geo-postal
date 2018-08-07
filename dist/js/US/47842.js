@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47842"]={"code":"47842","region":"IN","city":"Clinton","latitude":39.6591,"longitude":-87.4208}}(window,'GeoPostal','US');

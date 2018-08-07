@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79091"]={"code":"79091","region":"Raplamaa","city":"Kehtna","latitude":58.93028,"longitude":24.87806}}(window,'GeoPostal','EE');

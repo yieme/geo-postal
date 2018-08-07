@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2337"]={"code":"2337","region":"New South Wales","city":"Parkville","latitude":-31.98333,"longitude":150.86667}}(window,'GeoPostal','AU');

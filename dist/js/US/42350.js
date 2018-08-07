@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42350"]={"code":"42350","region":"KY","city":"Island","latitude":37.4471,"longitude":-87.1692}}(window,'GeoPostal','US');

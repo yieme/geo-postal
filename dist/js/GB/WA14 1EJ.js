@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA14 1EJ"]={"code":"WA14 1EJ","region":"England","city":"Altrincham","latitude":53.38752,"longitude":-2.34848}}(window,'GeoPostal','GB');

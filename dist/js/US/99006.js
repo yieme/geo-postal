@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99006"]={"code":"99006","region":"Washington","city":"Deer Park","latitude":47.952452,"longitude":-117.458892}}(window,'GeoPostal','US');

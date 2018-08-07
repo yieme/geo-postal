@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80447"]={"code":"80447","region":"Colorado","city":"Grand Lake","latitude":40.25056,"longitude":-105.82444}}(window,'GeoPostal','US');

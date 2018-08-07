@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14800-000"]={"code":"14800-000","region":"Sao Paulo","city":"Araraquara","latitude":-21.79444,"longitude":-48.17556}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57455"]={"code":"57455","region":"SD","city":"Lebanon","latitude":45.0123,"longitude":-99.7366}}(window,'GeoPostal','US');

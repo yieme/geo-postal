@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97640"]={"code":"97640","region":"Sada","city":"Sada","latitude":-12.85055,"longitude":45.10205}}(window,'GeoPostal','YT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71964"]={"code":"71964","region":"AR","city":"Pearcy","latitude":34.4351,"longitude":-93.242}}(window,'GeoPostal','US');

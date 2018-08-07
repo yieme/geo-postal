@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82638"]={"code":"82638","region":"WY","city":"Hiland","latitude":43.1153,"longitude":-107.3436}}(window,'GeoPostal','US');

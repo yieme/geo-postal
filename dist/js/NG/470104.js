@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["470104"]={"code":"470104","region":"Imo","city":"Okigwi","latitude":5.83523,"longitude":7.35989}}(window,'GeoPostal','NG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P5E 1A1"]={"code":"P5E 1A1","region":"Ontario","city":"Espanola","latitude":46.25837,"longitude":-81.76649}}(window,'GeoPostal','CA');

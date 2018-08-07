@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51891"]={"code":"51891","region":"Vastra Gotalands lan","city":"Sjomarken","latitude":57.71533,"longitude":12.83495}}(window,'GeoPostal','SE');

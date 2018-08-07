@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["339 01"]={"code":"339 01","region":"Plzensky kraj","city":"Klatovy","latitude":49.39552,"longitude":13.29505}}(window,'GeoPostal','CZ');

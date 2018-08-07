@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23102"]={"code":"23102","region":"Virginia","city":"Maidens","latitude":37.69842,"longitude":-77.84688}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2257"]={"code":"2257","region":"New South Wales","city":"Empire Bay","latitude":-33.5,"longitude":151.36667}}(window,'GeoPostal','AU');

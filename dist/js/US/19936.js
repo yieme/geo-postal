@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19936"]={"code":"19936","region":"DE","city":"Cheswold","latitude":39.2184,"longitude":-75.5848}}(window,'GeoPostal','US');

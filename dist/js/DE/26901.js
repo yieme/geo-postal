@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26901"]={"code":"26901","region":"Niedersachsen","city":"Rastdorf","latitude":52.9,"longitude":7.7}}(window,'GeoPostal','DE');

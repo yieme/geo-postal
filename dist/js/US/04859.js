@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04859"]={"code":"04859","region":"ME","city":"Spruce Head","latitude":44.0104,"longitude":-69.1707}}(window,'GeoPostal','US');

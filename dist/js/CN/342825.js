@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["342825"]={"code":"342825","region":"Jiangxi","city":"Zhantian","latitude":26.59208,"longitude":116.16107}}(window,'GeoPostal','CN');

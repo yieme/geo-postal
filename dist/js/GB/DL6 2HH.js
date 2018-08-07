@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL6 2HH"]={"code":"DL6 2HH","region":"England","city":"Little Smeaton","latitude":54.41667,"longitude":-1.46667}}(window,'GeoPostal','GB');

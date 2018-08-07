@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33470"]={"code":"33470","region":"Florida","city":"Loxahatchee","latitude":26.721105,"longitude":-80.303133}}(window,'GeoPostal','US');

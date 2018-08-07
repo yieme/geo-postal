@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117451"]={"code":"117451","region":"Buzau","city":"Maracineni","latitude":44.9,"longitude":24.88333}}(window,'GeoPostal','RO');

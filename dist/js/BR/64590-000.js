@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64590-000"]={"code":"64590-000","region":"Piaui","city":"Simoes","latitude":-7.59889,"longitude":-40.81778}}(window,'GeoPostal','BR');

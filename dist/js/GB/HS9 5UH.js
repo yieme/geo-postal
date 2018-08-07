@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS9 5UH"]={"code":"HS9 5UH","region":"Scotland","city":"Castlebay","latitude":56.95,"longitude":-7.46667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2400"]={"code":"2400","region":"Pangasinan","city":"Dagupan","latitude":16.05,"longitude":120.333333}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62210"]={"code":"62210","region":"Hauts-de-France","city":"Avion","latitude":50.41038,"longitude":2.83053}}(window,'GeoPostal','FR');

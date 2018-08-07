@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["DJ"]={id:'DJ',country:'Djibouti', postal:{'':{code:'',region:'Djibouti',city:'Djibouti',latitude:11.58767,longitude:43.14468}}};

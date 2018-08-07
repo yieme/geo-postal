@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24700"]={"code":"24700","region":"Castilla y Leon","city":"Astorga","latitude":42.45879,"longitude":-6.05601}}(window,'GeoPostal','ES');

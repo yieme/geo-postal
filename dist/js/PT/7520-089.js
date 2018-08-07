@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7520-089"]={"code":"7520-089","region":"Setubal","city":"Sines","latitude":37.95622,"longitude":-8.86979}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4700-076"]={"code":"4700-076","region":"Braga","city":"Braga","latitude":41.55032,"longitude":-8.42005}}(window,'GeoPostal','PT');

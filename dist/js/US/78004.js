@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78004"]={"code":"78004","region":"TX","city":"Bergheim","latitude":29.8274,"longitude":-98.5753}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB18 6UQ"]={"code":"BB18 6UQ","region":"England","city":"Earby","latitude":53.91546,"longitude":-2.14285}}(window,'GeoPostal','GB');

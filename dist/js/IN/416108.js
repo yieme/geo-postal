@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416108"]={"code":"416108","region":"Maharashtra","city":"Shrigonda","latitude":18.61667,"longitude":74.68333}}(window,'GeoPostal','IN');

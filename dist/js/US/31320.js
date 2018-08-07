@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31320"]={"code":"31320","region":"GA","city":"Midway","latitude":31.8018,"longitude":-81.3909}}(window,'GeoPostal','US');

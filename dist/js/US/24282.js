@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24282"]={"code":"24282","region":"VA","city":"Saint Charles","latitude":36.8315,"longitude":-83.0518}}(window,'GeoPostal','US');

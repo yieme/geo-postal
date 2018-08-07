@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["485771"]={"code":"485771","region":"Madhya Pradesh","city":"Maihar","latitude":24.26667,"longitude":80.75}}(window,'GeoPostal','IN');

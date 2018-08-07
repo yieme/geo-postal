@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN31 6NL"]={"code":"TN31 6NL","region":"England","city":"Northiam","latitude":50.99439,"longitude":0.60026}}(window,'GeoPostal','GB');

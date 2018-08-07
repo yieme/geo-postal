@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5650"]={"code":"5650","region":"Hordaland","city":"Tysse","latitude":60.37404,"longitude":5.75952}}(window,'GeoPostal','NO');

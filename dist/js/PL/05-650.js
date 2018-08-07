@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-650"]={"code":"05-650","region":"Mazowieckie","city":"Chynow","latitude":51.90425,"longitude":21.08208}}(window,'GeoPostal','PL');

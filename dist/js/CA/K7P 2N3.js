@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K7P 2N3"]={"code":"K7P 2N3","region":"Ontario","city":"Kingston","latitude":44.257332,"longitude":-76.575352}}(window,'GeoPostal','CA');

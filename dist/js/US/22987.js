@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22987"]={"code":"22987","region":"VA","city":"White Hall","latitude":38.1179,"longitude":-78.6614}}(window,'GeoPostal','US');

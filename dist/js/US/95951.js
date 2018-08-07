@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95951"]={"code":"95951","region":"CA","city":"Hamilton City","latitude":39.7386,"longitude":-122.0085}}(window,'GeoPostal','US');

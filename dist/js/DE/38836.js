@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38836"]={"code":"38836","region":"Sachsen-Anhalt","city":"Westerburg","latitude":52.01634,"longitude":10.8669}}(window,'GeoPostal','DE');

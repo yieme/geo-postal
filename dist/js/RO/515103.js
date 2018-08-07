@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515103"]={"code":"515103","region":"Alba","city":"Abrud","latitude":46.26667,"longitude":23.06667}}(window,'GeoPostal','RO');

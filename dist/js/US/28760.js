@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28760"]={"code":"28760","region":"NC","city":"Naples","latitude":35.3817,"longitude":-82.4813}}(window,'GeoPostal','US');

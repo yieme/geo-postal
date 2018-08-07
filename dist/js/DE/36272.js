@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36272"]={"code":"36272","region":"Hessen","city":"Solms","latitude":50.76879,"longitude":9.59343}}(window,'GeoPostal','DE');

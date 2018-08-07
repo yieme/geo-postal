@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48170"]={"code":"48170","region":"Nakhon Phanom","city":"Renu Nakhon","latitude":17.05157,"longitude":104.67709}}(window,'GeoPostal','TH');

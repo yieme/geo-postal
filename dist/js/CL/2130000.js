@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2130000"]={"code":"2130000","region":"Maule","city":"San Javier","latitude":-35.6,"longitude":-71.75}}(window,'GeoPostal','CL');

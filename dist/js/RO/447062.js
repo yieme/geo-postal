@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447062"]={"code":"447062","region":"Harghita","city":"Corund","latitude":46.46667,"longitude":25.18333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79110"]={"code":"79110","region":"Nouvelle-Aquitaine","city":"Chef-Boutonne","latitude":46.10859,"longitude":-0.07083}}(window,'GeoPostal','FR');

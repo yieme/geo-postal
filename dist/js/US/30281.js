@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30281"]={"code":"30281","region":"Georgia","city":"Stockbridge","latitude":33.557139,"longitude":-84.216707}}(window,'GeoPostal','US');

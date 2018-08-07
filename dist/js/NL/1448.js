@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1448"]={"code":"1448","region":"Noord-Holland","city":"Purmerend","latitude":52.505,"longitude":4.95972}}(window,'GeoPostal','NL');

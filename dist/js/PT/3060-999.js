@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3060-999"]={"code":"3060-999","region":"Coimbra","city":"Cantanhede","latitude":40.34671,"longitude":-8.5942}}(window,'GeoPostal','PT');

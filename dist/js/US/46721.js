@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46721"]={"code":"46721","region":"IN","city":"Butler","latitude":41.4287,"longitude":-84.8787}}(window,'GeoPostal','US');

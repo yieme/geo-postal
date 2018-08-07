@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84455"]={"code":"84455","region":"Nusa Tenggara Barat","city":"Besisora","latitude":-8.8579,"longitude":116.8277}}(window,'GeoPostal','ID');

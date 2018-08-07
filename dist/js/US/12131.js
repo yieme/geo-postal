@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12131"]={"code":"12131","region":"NY","city":"North Blenheim","latitude":42.4899,"longitude":-74.4282}}(window,'GeoPostal','US');

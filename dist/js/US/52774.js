@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52774"]={"code":"52774","region":"IA","city":"Welton","latitude":41.9081,"longitude":-90.5954}}(window,'GeoPostal','US');

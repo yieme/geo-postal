@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24891"]={"code":"24891","region":"Schleswig-Holstein","city":"Arup","latitude":54.61832,"longitude":9.63922}}(window,'GeoPostal','DE');

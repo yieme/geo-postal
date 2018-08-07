@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71357"]={"code":"71357","region":"Louisiana","city":"Newellton","latitude":32.07265,"longitude":-91.24095}}(window,'GeoPostal','US');

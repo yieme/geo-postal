@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65570"]={"code":"65570","region":"MO","city":"Success","latitude":37.4626,"longitude":-92.0909}}(window,'GeoPostal','US');

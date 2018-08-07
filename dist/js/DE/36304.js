@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36304"]={"code":"36304","region":"Hessen","city":"Alsfeld","latitude":50.75185,"longitude":9.27082}}(window,'GeoPostal','DE');

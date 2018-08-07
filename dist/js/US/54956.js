@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54956"]={"code":"54956","region":"Wisconsin","city":"Neenah","latitude":44.181165,"longitude":-88.488078}}(window,'GeoPostal','US');

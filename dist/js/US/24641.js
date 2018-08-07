@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24641"]={"code":"24641","region":"Virginia","city":"Richlands","latitude":37.09317,"longitude":-81.79373}}(window,'GeoPostal','US');

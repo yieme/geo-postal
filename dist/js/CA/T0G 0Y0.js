@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 0Y0"]={"code":"T0G 0Y0","region":"Alberta","city":"Fawcett","latitude":54.53345,"longitude":-114.08542}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87013"]={"code":"87013","region":"Calabria","city":"Fagnano Castello","latitude":39.5657,"longitude":16.05369}}(window,'GeoPostal','IT');

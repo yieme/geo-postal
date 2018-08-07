@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671 72"]={"code":"671 72","region":"Jihomoravsky kraj","city":"Miroslav","latitude":48.94767,"longitude":16.31252}}(window,'GeoPostal','CZ');

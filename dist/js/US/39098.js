@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39098"]={"code":"39098","region":"MS","city":"Ludlow","latitude":32.566,"longitude":-89.7135}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33430"]={"code":"33430","region":"Nouvelle-Aquitaine","city":"Bazas","latitude":44.43202,"longitude":-0.21327}}(window,'GeoPostal','FR');

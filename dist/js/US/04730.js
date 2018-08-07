@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04730"]={"code":"04730","region":"Maine","city":"Houlton","latitude":46.122485,"longitude":-67.837778}}(window,'GeoPostal','US');

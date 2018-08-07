@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17948"]={"code":"17948","region":"PA","city":"Mahanoy City","latitude":40.8123,"longitude":-76.1396}}(window,'GeoPostal','US');

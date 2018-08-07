@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL14 0HE"]={"code":"DL14 0HE","region":"England","city":"High Etherley","latitude":54.65391,"longitude":-1.74363}}(window,'GeoPostal','GB');

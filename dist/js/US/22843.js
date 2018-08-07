@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22843"]={"code":"22843","region":"VA","city":"Mount Solon","latitude":38.3328,"longitude":-79.1028}}(window,'GeoPostal','US');

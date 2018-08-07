@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20623"]={"code":"20623","region":"MD","city":"Cheltenham","latitude":38.7531,"longitude":-76.8369}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1P 1K3"]={"code":"V1P 1K3","region":"British Columbia","city":"Big White Ski","latitude":49.7236,"longitude":-118.929}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15829"]={"code":"15829","region":"Pennsylvania","city":"Corsica","latitude":41.192014,"longitude":-79.173692}}(window,'GeoPostal','US');

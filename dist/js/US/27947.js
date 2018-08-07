@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27947"]={"code":"27947","region":"NC","city":"Jarvisburg","latitude":36.1714,"longitude":-75.8621}}(window,'GeoPostal','US');

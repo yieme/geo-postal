@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52647"]={"code":"52647","region":"IA","city":"Olds","latitude":41.1342,"longitude":-91.5449}}(window,'GeoPostal','US');

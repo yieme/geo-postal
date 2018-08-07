@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD3 7UA"]={"code":"LD3 7UA","region":"Wales","city":"Llangorse","latitude":51.93333,"longitude":-3.26667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12848"]={"code":"12848","region":"NY","city":"Middle Falls","latitude":43.1001,"longitude":-73.5246}}(window,'GeoPostal','US');

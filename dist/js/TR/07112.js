@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07112"]={"code":"07112","region":"Sakarya","city":"Pamukova","latitude":40.5081,"longitude":30.16732}}(window,'GeoPostal','TR');

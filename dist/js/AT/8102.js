@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8102"]={"code":"8102","region":"Steiermark","city":"Semriach","latitude":47.21667,"longitude":15.4}}(window,'GeoPostal','AT');

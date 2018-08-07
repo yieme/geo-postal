@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93489"]={"code":"93489","region":"Bayern","city":"Schorndorf","latitude":49.16667,"longitude":12.6}}(window,'GeoPostal','DE');

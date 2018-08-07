@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13074"]={"code":"13074","region":"NY","city":"Hannibal","latitude":43.3111,"longitude":-76.546}}(window,'GeoPostal','US');

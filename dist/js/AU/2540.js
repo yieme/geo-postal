@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2540"]={"code":"2540","region":"New South Wales","city":"Currarong","latitude":-35.0153,"longitude":150.82445}}(window,'GeoPostal','AU');

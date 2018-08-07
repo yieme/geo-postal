@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 0M0"]={"code":"T0K 0M0","region":"Alberta","city":"Coleman","latitude":49.63332,"longitude":-114.502}}(window,'GeoPostal','CA');

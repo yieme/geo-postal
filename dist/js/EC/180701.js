@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["180701"]={"code":"180701","region":"Tungurahua","city":"Pelileo","latitude":-1.31667,"longitude":-78.53333}}(window,'GeoPostal','EC');

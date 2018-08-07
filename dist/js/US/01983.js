@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01983"]={"code":"01983","region":"MA","city":"Topsfield","latitude":42.6415,"longitude":-70.9488}}(window,'GeoPostal','US');

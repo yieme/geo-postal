@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83232"]={"code":"83232","region":"Idaho","city":"Dayton","latitude":42.124849,"longitude":-112.013634}}(window,'GeoPostal','US');

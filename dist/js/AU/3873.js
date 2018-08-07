@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3873"]={"code":"3873","region":"Victoria","city":"Gormandale","latitude":-38.28333,"longitude":146.7}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63014"]={"code":"63014","region":"Missouri","city":"Berger","latitude":38.65266,"longitude":-91.31928}}(window,'GeoPostal','US');

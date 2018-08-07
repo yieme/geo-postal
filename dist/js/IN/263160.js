@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["263160"]={"code":"263160","region":"Uttarakhand","city":"Naini Tal","latitude":29.39743,"longitude":79.44686}}(window,'GeoPostal','IN');

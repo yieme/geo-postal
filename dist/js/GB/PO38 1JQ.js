@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO38 1JQ"]={"code":"PO38 1JQ","region":"England","city":"Ventnor","latitude":50.59479,"longitude":-1.20369}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DY12 2XD"]={"code":"DY12 2XD","region":"England","city":"Callow Hill","latitude":52.35908,"longitude":-2.37332}}(window,'GeoPostal','GB');

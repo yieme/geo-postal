@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94545"]={"code":"94545","region":"Bayern","city":"Kirchl","latitude":48.85992,"longitude":13.50563}}(window,'GeoPostal','DE');

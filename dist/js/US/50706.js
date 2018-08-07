@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50706"]={"code":"50706","region":"IA","city":"Washburn","latitude":42.4,"longitude":-92.26}}(window,'GeoPostal','US');

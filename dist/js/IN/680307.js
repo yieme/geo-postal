@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680307"]={"code":"680307","region":"Kerala","city":"Angamali","latitude":10.2,"longitude":76.4}}(window,'GeoPostal','IN');

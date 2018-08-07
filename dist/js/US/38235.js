@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38235"]={"code":"38235","region":"TN","city":"Mc Lemoresville","latitude":35.9778,"longitude":-88.5744}}(window,'GeoPostal','US');

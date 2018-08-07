@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82195"]={"code":"82195","region":"Gavleborgs lan","city":"Bollnas","latitude":61.34817,"longitude":16.39464}}(window,'GeoPostal','SE');

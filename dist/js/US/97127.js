@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97127"]={"code":"97127","region":"OR","city":"Lafayette","latitude":45.2466,"longitude":-123.1114}}(window,'GeoPostal','US');

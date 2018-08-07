@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0C 1H0"]={"code":"K0C 1H0","region":"Ontario","city":"Chesterville","latitude":45.103273,"longitude":-75.230734}}(window,'GeoPostal','CA');

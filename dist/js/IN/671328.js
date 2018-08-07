@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671328"]={"code":"671328","region":"Kerala","city":"Manjeshwara","latitude":12.7,"longitude":74.88333}}(window,'GeoPostal','IN');

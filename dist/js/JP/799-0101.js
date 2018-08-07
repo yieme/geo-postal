@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["799-0101"]={"code":"799-0101","region":"Ehime","city":"Kawanoe","latitude":34.01667,"longitude":133.56667}}(window,'GeoPostal','JP');

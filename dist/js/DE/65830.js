@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65830"]={"code":"65830","region":"Hessen","city":"Kriftel","latitude":50.08333,"longitude":8.48333}}(window,'GeoPostal','DE');

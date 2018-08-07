@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29590"]={"code":"29590","region":"Valenciana, Comunidad","city":"Salinas","latitude":38.52025,"longitude":-0.91202}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35005"]={"code":"35005","region":"AL","city":"Adamsville","latitude":33.5884,"longitude":-86.9597}}(window,'GeoPostal','US');

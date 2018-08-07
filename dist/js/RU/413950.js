@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413950"]={"code":"413950","region":"Saratovskaya oblast'","city":"Ivanteyevka","latitude":52.2667,"longitude":49.1055}}(window,'GeoPostal','RU');

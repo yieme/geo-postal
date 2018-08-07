@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55045"]={"code":"55045","region":"Minnesota","city":"Lindstrom","latitude":45.3861,"longitude":-92.8381}}(window,'GeoPostal','US');

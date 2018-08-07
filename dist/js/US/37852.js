@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37852"]={"code":"37852","region":"TN","city":"Robbins","latitude":36.3527,"longitude":-84.5904}}(window,'GeoPostal','US');

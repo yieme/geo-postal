@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5350"]={"code":"5350","region":"Jasz-Nagykun-Szolnok","city":"Tiszafured","latitude":47.61667,"longitude":20.76667}}(window,'GeoPostal','HU');

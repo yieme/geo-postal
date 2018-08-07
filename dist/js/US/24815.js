@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24815"]={"code":"24815","region":"WV","city":"Berwind","latitude":37.2687,"longitude":-81.6668}}(window,'GeoPostal','US');

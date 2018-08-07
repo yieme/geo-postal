@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59332"]={"code":"59332","region":"MT","city":"Hammond","latitude":45.5671,"longitude":-104.5391}}(window,'GeoPostal','US');

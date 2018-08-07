@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7682"]={"code":"7682","region":"Baranya","city":"Buekkoesd","latitude":46.10751,"longitude":17.9882}}(window,'GeoPostal','HU');

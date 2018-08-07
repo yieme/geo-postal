@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA12 0NQ"]={"code":"KA12 0NQ","region":"Scotland","city":"Irvine","latitude":55.6194,"longitude":-4.65508}}(window,'GeoPostal','GB');

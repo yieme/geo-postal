@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25110"]={"code":"25110","region":"Prachin Buri","city":"Kabin Buri","latitude":13.95114,"longitude":101.71769}}(window,'GeoPostal','TH');

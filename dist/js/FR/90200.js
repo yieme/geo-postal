@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90200"]={"code":"90200","region":"Bourgogne-Franche-Comte","city":"Lepuix","latitude":47.75996,"longitude":6.8165}}(window,'GeoPostal','FR');

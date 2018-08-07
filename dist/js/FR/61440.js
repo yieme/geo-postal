@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61440"]={"code":"61440","region":"Normandie","city":"Messei","latitude":48.71157,"longitude":-0.53739}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["743403"]={"code":"743403","region":"Gansu","city":"Weirong","latitude":35.36752,"longitude":105.761}}(window,'GeoPostal','CN');

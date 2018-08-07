@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74080"]={"code":"74080","region":"OK","city":"Talala","latitude":36.5429,"longitude":-95.7142}}(window,'GeoPostal','US');

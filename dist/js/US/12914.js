@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12914"]={"code":"12914","region":"NY","city":"Bombay","latitude":44.9479,"longitude":-74.5947}}(window,'GeoPostal','US');

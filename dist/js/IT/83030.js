@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83030"]={"code":"83030","region":"Campania","city":"Savignano Irpino","latitude":41.22852,"longitude":15.17925}}(window,'GeoPostal','IT');

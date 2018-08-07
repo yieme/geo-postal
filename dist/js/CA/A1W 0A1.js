@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A1W 0A1"]={"code":"A1W 0A1","region":"Newfoundland and Labrador","city":"Conception Bay South","latitude":47.49989,"longitude":-52.99806}}(window,'GeoPostal','CA');

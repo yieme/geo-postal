@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["564 29"]={"code":"564 29","region":"Kentriki Makedonia","city":"Efkarpia","latitude":40.68778,"longitude":22.95361}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-091"]={"code":"05-091","region":"Mazowieckie","city":"Zabki","latitude":52.29271,"longitude":21.10539}}(window,'GeoPostal','PL');

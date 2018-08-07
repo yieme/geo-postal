@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48465"]={"code":"48465","region":"Niedersachsen","city":"Schuttorf","latitude":52.32281,"longitude":7.22176}}(window,'GeoPostal','DE');

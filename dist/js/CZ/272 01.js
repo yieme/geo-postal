@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["272 01"]={"code":"272 01","region":"Stredocesky kraj","city":"Kladno","latitude":50.14734,"longitude":14.10285}}(window,'GeoPostal','CZ');

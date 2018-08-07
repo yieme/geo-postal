@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88110"]={"code":"88110","region":"Grand-Est","city":"Raon-l'Etape","latitude":48.41,"longitude":6.84}}(window,'GeoPostal','FR');

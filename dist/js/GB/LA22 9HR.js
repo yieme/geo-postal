@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA22 9HR"]={"code":"LA22 9HR","region":"England","city":"Elterwater","latitude":54.43441,"longitude":-3.03729}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93530"]={"code":"93530","region":"California","city":"Keeler","latitude":36.48841,"longitude":-117.872822}}(window,'GeoPostal','US');

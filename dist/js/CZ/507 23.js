@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507 23"]={"code":"507 23","region":"Kralovehradecky kraj","city":"Liban","latitude":50.37542,"longitude":15.21684}}(window,'GeoPostal','CZ');

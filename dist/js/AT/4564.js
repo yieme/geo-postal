@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4564"]={"code":"4564","region":"Oberosterreich","city":"Micheldorf in Oberoesterreich","latitude":47.87764,"longitude":14.13357}}(window,'GeoPostal','AT');

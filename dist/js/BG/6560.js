@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6560"]={"code":"6560","region":"Haskovo","city":"Topolovgrad","latitude":42.08333,"longitude":26.33333}}(window,'GeoPostal','BG');

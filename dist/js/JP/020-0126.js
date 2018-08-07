@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["020-0126"]={"code":"020-0126","region":"Iwate","city":"Morioka","latitude":39.683,"longitude":141.15}}(window,'GeoPostal','JP');

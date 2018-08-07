@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68883"]={"code":"68883","region":"NE","city":"Wood River","latitude":40.8106,"longitude":-98.6065}}(window,'GeoPostal','US');

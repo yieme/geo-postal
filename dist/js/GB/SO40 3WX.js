@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO40 3WX"]={"code":"SO40 3WX","region":"England","city":"Totton","latitude":50.91877,"longitude":-1.49037}}(window,'GeoPostal','GB');

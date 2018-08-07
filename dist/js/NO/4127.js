@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4127"]={"code":"4127","region":"Vest-Agder","city":"Tonstad","latitude":58.66263,"longitude":6.71694}}(window,'GeoPostal','NO');

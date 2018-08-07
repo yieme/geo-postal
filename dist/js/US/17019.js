@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17019"]={"code":"17019","region":"Pennsylvania","city":"Dillsburg","latitude":40.11093,"longitude":-77.03498}}(window,'GeoPostal','US');

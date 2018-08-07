@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29742"]={"code":"29742","region":"SC","city":"Sharon","latitude":34.9084,"longitude":-81.3729}}(window,'GeoPostal','US');

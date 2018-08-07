@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78690"]={"code":"78690","region":"Ile-de-France","city":"Les Essarts-le-Roi","latitude":48.71673,"longitude":1.90089}}(window,'GeoPostal','FR');

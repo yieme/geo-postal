@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407005"]={"code":"407005","region":"Cluj","city":"Aghiresu-Fabricei","latitude":46.88333,"longitude":23.25}}(window,'GeoPostal','RO');

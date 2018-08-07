@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37444"]={"code":"37444","region":"Niedersachsen","city":"Sankt Andreasberg","latitude":51.71004,"longitude":10.51867}}(window,'GeoPostal','DE');

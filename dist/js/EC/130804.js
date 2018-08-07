@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130804"]={"code":"130804","region":"Manabi","city":"Manta","latitude":-0.95,"longitude":-80.73333}}(window,'GeoPostal','EC');

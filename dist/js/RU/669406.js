@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["669406"]={"code":"669406","region":"Irkutskaya oblast'","city":"Novonukutskiy","latitude":53.7002,"longitude":102.7117}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CR0 3HP"]={"code":"CR0 3HP","region":"England","city":"Croydon","latitude":51.38333,"longitude":-0.1}}(window,'GeoPostal','GB');

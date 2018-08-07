@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99333"]={"code":"99333","region":"WA","city":"Hooper","latitude":46.7543,"longitude":-118.148}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4323"]={"code":"4323","region":"Quezon","city":"Montecillo","latitude":13.88944,"longitude":121.47778}}(window,'GeoPostal','PH');

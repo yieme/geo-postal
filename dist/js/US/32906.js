@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32906"]={"code":"32906","region":"FL","city":"Palm Bay","latitude":28.0671,"longitude":-80.6503}}(window,'GeoPostal','US');

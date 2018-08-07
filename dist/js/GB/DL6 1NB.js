@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL6 1NB"]={"code":"DL6 1NB","region":"England","city":"Northallerton","latitude":54.33901,"longitude":-1.43243}}(window,'GeoPostal','GB');

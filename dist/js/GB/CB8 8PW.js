@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB8 8PW"]={"code":"CB8 8PW","region":"England","city":"Denston","latitude":52.14592,"longitude":0.57129}}(window,'GeoPostal','GB');

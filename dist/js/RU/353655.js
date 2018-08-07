@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353655"]={"code":"353655","region":"Krasnodarskiy kray","city":"Dolzhanskaya","latitude":46.63369,"longitude":37.80246}}(window,'GeoPostal','RU');

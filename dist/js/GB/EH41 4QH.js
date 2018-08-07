@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH41 4QH"]={"code":"EH41 4QH","region":"Scotland","city":"Gifford","latitude":55.9033,"longitude":-2.74592}}(window,'GeoPostal','GB');

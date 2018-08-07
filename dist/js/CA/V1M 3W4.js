@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1M 3W4"]={"code":"V1M 3W4","region":"British Columbia","city":"Walnut Grove","latitude":49.16473,"longitude":-122.64042}}(window,'GeoPostal','CA');

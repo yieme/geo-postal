@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38200-000"]={"code":"38200-000","region":"Minas Gerais","city":"Frutal","latitude":-20.02472,"longitude":-48.94056}}(window,'GeoPostal','BR');

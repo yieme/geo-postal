@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 8PT"]={"code":"YO25 8PT","region":"England","city":"Lissett","latitude":54.0053,"longitude":-0.25157}}(window,'GeoPostal','GB');

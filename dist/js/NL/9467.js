@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9467"]={"code":"9467","region":"Drenthe","city":"Anloo","latitude":53.04417,"longitude":6.70139}}(window,'GeoPostal','NL');

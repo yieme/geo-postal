@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84665"]={"code":"84665","region":"Utah","city":"Sterling","latitude":39.196362,"longitude":-111.682208}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70528"]={"code":"70528","region":"LA","city":"Delcambre","latitude":29.9474,"longitude":-91.9889}}(window,'GeoPostal','US');

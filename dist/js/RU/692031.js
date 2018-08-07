@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692031"]={"code":"692031","region":"Primorskiy kray","city":"Lesozavodsk","latitude":45.47944,"longitude":133.42444}}(window,'GeoPostal','RU');

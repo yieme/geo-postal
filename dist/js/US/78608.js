@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78608"]={"code":"78608","region":"TX","city":"Briggs","latitude":30.9325,"longitude":-97.9702}}(window,'GeoPostal','US');

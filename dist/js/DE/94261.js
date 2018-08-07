@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94261"]={"code":"94261","region":"Bayern","city":"Kirchdorf im Wald","latitude":48.91048,"longitude":13.26614}}(window,'GeoPostal','DE');

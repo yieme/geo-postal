@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26321"]={"code":"26321","region":"WV","city":"Alum Bridge","latitude":39.0425,"longitude":-80.6882}}(window,'GeoPostal','US');

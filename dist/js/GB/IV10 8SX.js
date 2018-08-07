@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV10 8SX"]={"code":"IV10 8SX","region":"Scotland","city":"Fortrose","latitude":57.58087,"longitude":-4.13263}}(window,'GeoPostal','GB');

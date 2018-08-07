@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58355"]={"code":"58355","region":"North Dakota","city":"Nekoma","latitude":48.5772,"longitude":-98.37}}(window,'GeoPostal','US');

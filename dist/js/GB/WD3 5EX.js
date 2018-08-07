@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WD3 5EX"]={"code":"WD3 5EX","region":"England","city":"Chorleywood","latitude":51.65,"longitude":-0.48333}}(window,'GeoPostal','GB');

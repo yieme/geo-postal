@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["110901"]={"code":"110901","region":"Loja","city":"Catacocha","latitude":-4.06667,"longitude":-79.63333}}(window,'GeoPostal','EC');

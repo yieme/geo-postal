@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE6 4RU"]={"code":"SE6 4RU","region":"England","city":"Lewisham","latitude":51.46431,"longitude":-0.01193}}(window,'GeoPostal','GB');

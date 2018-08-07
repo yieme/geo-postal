@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36037"]={"code":"36037","region":"Alabama","city":"Greenville","latitude":31.8296,"longitude":-86.61775}}(window,'GeoPostal','US');

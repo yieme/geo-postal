@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38037"]={"code":"38037","region":"Panevezio apskritis","city":"Ramygala","latitude":55.51667,"longitude":24.3}}(window,'GeoPostal','LT');

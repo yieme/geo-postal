@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74696"]={"code":"74696","region":"Uppsala lan","city":"Balsta","latitude":59.5671,"longitude":17.52781}}(window,'GeoPostal','SE');

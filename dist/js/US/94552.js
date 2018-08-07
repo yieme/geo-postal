@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94552"]={"code":"94552","region":"California","city":"Castro Valley","latitude":37.694127,"longitude":-122.018877}}(window,'GeoPostal','US');

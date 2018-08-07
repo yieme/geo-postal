@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35586"]={"code":"35586","region":"Alabama","city":"Sulligent","latitude":33.90177,"longitude":-88.13448}}(window,'GeoPostal','US');

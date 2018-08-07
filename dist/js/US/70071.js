@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70071"]={"code":"70071","region":"LA","city":"Lutcher","latitude":30.0447,"longitude":-90.7008}}(window,'GeoPostal','US');

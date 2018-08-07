@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42441"]={"code":"42441","region":"KY","city":"Nebo","latitude":37.3683,"longitude":-87.6865}}(window,'GeoPostal','US');

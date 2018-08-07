@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72857"]={"code":"72857","region":"AR","city":"Plainview","latitude":34.9668,"longitude":-93.3099}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67841"]={"code":"67841","region":"KS","city":"Ensign","latitude":37.6414,"longitude":-100.2496}}(window,'GeoPostal','US');

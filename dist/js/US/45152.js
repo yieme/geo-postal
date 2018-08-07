@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45152"]={"code":"45152","region":"Ohio","city":"Morrow","latitude":39.3544,"longitude":-84.0925}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29162"]={"code":"29162","region":"SC","city":"Turbeville","latitude":33.8907,"longitude":-80.0184}}(window,'GeoPostal','US');

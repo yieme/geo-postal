@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77563"]={"code":"77563","region":"TX","city":"Hitchcock","latitude":29.3398,"longitude":-94.9926}}(window,'GeoPostal','US');

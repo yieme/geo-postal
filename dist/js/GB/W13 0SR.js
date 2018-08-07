@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W13 0SR"]={"code":"W13 0SR","region":"England","city":"West Ealing","latitude":51.51075,"longitude":-0.3196}}(window,'GeoPostal','GB');

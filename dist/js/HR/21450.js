@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21450"]={"code":"21450","region":"Splitsko-dalmatinska zupanija","city":"Hvar","latitude":43.1725,"longitude":16.44278}}(window,'GeoPostal','HR');

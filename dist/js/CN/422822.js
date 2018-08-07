@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422822"]={"code":"422822","region":"Hubei","city":"Yezhou","latitude":30.60369,"longitude":109.72333}}(window,'GeoPostal','CN');

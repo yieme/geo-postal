@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79618"]={"code":"79618","region":"Baden-Wurttemberg","city":"Rheinfelden (Baden)","latitude":47.56013,"longitude":7.78715}}(window,'GeoPostal','DE');

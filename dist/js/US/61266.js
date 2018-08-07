@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61266"]={"code":"61266","region":"IL","city":"Moline","latitude":41.5067,"longitude":-90.5151}}(window,'GeoPostal','US');

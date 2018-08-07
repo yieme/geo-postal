@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44330-000"]={"code":"44330-000","region":"Bahia","city":"Sao Goncalo dos Campos","latitude":-12.43333,"longitude":-38.96667}}(window,'GeoPostal','BR');

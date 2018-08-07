@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5060-429"]={"code":"5060-429","region":"Vila Real","city":"Vilela","latitude":41.22511,"longitude":-7.60338}}(window,'GeoPostal','PT');

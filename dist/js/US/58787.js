@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58787"]={"code":"58787","region":"North Dakota","city":"Tolley","latitude":48.821483,"longitude":-101.868075}}(window,'GeoPostal','US');

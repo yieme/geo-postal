@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659305"]={"code":"659305","region":"Altayskiy kray","city":"Biysk","latitude":52.53639,"longitude":85.20722}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52074"]={"code":"52074","region":"IA","city":"Spragueville","latitude":42.0727,"longitude":-90.473}}(window,'GeoPostal','US');

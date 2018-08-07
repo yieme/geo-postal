@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 1NL"]={"code":"SA3 1NL","region":"Wales","city":"Port-Eynon","latitude":51.54694,"longitude":-4.21361}}(window,'GeoPostal','GB');

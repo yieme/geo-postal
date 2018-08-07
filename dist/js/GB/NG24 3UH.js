@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG24 3UH"]={"code":"NG24 3UH","region":"England","city":"Farndon","latitude":53.05,"longitude":-0.85}}(window,'GeoPostal','GB');

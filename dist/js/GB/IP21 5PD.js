@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP21 5PD"]={"code":"IP21 5PD","region":"England","city":"Fressingfield","latitude":52.34745,"longitude":1.31767}}(window,'GeoPostal','GB');

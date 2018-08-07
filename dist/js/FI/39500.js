@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39500"]={"code":"39500","region":"Pirkanmaa","city":"Ikaalinen","latitude":61.76951,"longitude":23.0658}}(window,'GeoPostal','FI');

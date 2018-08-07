@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02382"]={"code":"02382","region":"MA","city":"Whitman","latitude":42.0816,"longitude":-70.9381}}(window,'GeoPostal','US');

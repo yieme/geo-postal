@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71600"]={"code":"71600","region":"Bourgogne-Franche-Comte","city":"Saint-Yan","latitude":46.41147,"longitude":4.03876}}(window,'GeoPostal','FR');

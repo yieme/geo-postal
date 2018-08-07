@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396670"]={"code":"396670","region":"Voronezhskaya oblast'","city":"Ol'khovatka","latitude":50.28308,"longitude":39.28715}}(window,'GeoPostal','RU');

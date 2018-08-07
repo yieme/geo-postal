@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3800"]={"code":"3800","region":"Limburg","city":"Sint-Truiden","latitude":50.81679,"longitude":5.18647}}(window,'GeoPostal','BE');

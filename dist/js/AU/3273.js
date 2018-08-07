@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3273"]={"code":"3273","region":"Victoria","city":"Mortlake","latitude":-38.08102,"longitude":142.80827}}(window,'GeoPostal','AU');

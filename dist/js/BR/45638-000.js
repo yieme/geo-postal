@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45638-000"]={"code":"45638-000","region":"Bahia","city":"Coaraci","latitude":-14.64083,"longitude":-39.55111}}(window,'GeoPostal','BR');

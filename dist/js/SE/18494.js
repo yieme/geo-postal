@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18494"]={"code":"18494","region":"Stockholms lan","city":"Akersberga","latitude":59.47944,"longitude":18.29967}}(window,'GeoPostal','SE');

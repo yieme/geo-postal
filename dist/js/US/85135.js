@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85135"]={"code":"85135","region":"AZ","city":"Hayden","latitude":33.0041,"longitude":-110.7868}}(window,'GeoPostal','US');

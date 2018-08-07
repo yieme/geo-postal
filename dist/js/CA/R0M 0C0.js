@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0M 0C0"]={"code":"R0M 0C0","region":"Manitoba","city":"Birtle","latitude":50.4225,"longitude":-101.0484}}(window,'GeoPostal','CA');

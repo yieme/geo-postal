@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70665"]={"code":"70665","region":"Louisiana","city":"Sulphur","latitude":30.236389,"longitude":-93.377222}}(window,'GeoPostal','US');

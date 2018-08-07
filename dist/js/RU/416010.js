@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416010"]={"code":"416010","region":"Astrakhanskaya oblast'","city":"Kharabali","latitude":47.41958,"longitude":47.25678}}(window,'GeoPostal','RU');

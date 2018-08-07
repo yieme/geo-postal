@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17053"]={"code":"17053","region":"Pennsylvania","city":"Marysville","latitude":40.334887,"longitude":-76.985172}}(window,'GeoPostal','US');

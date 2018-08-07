@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137190"]={"code":"137190","region":"Sibiu","city":"Dobra","latitude":45.91667,"longitude":22.56667}}(window,'GeoPostal','RO');

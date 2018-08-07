@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4506"]={"code":"4506","region":"Jujuy","city":"Fraile Pintado","latitude":-23.94079,"longitude":-64.79943}}(window,'GeoPostal','AR');

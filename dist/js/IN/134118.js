@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134118"]={"code":"134118","region":"Haryana","city":"Barwala","latitude":29.38333,"longitude":75.91667}}(window,'GeoPostal','IN');

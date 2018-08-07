@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3450"]={"code":"3450","region":"Corrientes","city":"Goya","latitude":-29.14003,"longitude":-59.26256}}(window,'GeoPostal','AR');

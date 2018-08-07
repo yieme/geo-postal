@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87733"]={"code":"87733","region":"Bayern","city":"Engetried","latitude":47.92964,"longitude":10.39638}}(window,'GeoPostal','DE');

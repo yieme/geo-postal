@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15137"]={"code":"15137","region":"Lima","city":"Huacho","latitude":-11.10667,"longitude":-77.605}}(window,'GeoPostal','PE');

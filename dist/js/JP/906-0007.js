@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["906-0007"]={"code":"906-0007","region":"Okinawa","city":"Hirara","latitude":24.8,"longitude":125.28333}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624600"]={"code":"624600","region":"Sichuan","city":"Aba","latitude":32.90219,"longitude":101.70666}}(window,'GeoPostal','CN');

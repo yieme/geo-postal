@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73190"]={"code":"73190","region":"Auvergne-Rhone-Alpes","city":"Saint-Baldoph","latitude":45.5312,"longitude":5.95217}}(window,'GeoPostal','FR');

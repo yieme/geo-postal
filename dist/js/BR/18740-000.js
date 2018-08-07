@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18740-000"]={"code":"18740-000","region":"Sao Paulo","city":"Taquarituba","latitude":-23.53306,"longitude":-49.24444}}(window,'GeoPostal','BR');

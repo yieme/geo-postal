@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA43 1QA"]={"code":"SA43 1QA","region":"Wales","city":"Verwick","latitude":52.11667,"longitude":-4.65}}(window,'GeoPostal','GB');

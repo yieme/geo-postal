@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23845"]={"code":"23845","region":"Virginia","city":"Ebony","latitude":36.542478,"longitude":-77.984647}}(window,'GeoPostal','US');

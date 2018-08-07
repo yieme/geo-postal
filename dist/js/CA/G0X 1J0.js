@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 1J0"]={"code":"G0X 1J0","region":"Quebec","city":"Herouxville","latitude":46.66676,"longitude":-72.61582}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60001"]={"code":"60001","region":"IL","city":"Alden","latitude":42.3248,"longitude":-88.4525}}(window,'GeoPostal','US');

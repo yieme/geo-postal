@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["165155"]={"code":"165155","region":"Arkhangel'skaya oblast'","city":"Vel'sk","latitude":61.07006,"longitude":42.0983}}(window,'GeoPostal','RU');

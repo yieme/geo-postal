@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL21 0BN"]={"code":"LL21 0BN","region":"Wales","city":"Corwen","latitude":52.98005,"longitude":-3.37736}}(window,'GeoPostal','GB');

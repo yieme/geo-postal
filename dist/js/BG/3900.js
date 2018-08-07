@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3900"]={"code":"3900","region":"Vidin","city":"Belogradchik","latitude":43.62722,"longitude":22.68361}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2055"]={"code":"2055","region":"Falcon","city":"Tucacas","latitude":10.7906,"longitude":-68.32577}}(window,'GeoPostal','VE');

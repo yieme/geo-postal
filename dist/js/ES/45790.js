@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45790"]={"code":"45790","region":"Castilla-La Mancha","city":"Quero","latitude":39.51111,"longitude":-3.24741}}(window,'GeoPostal','ES');

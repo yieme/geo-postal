@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19061"]={"code":"19061","region":"Pennsylvania","city":"Marcus Hook","latitude":39.835262,"longitude":-75.449736}}(window,'GeoPostal','US');

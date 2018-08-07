@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 1V0"]={"code":"T0E 1V0","region":"Alberta","city":"Bilby","latitude":53.70014,"longitude":-114.10206}}(window,'GeoPostal','CA');

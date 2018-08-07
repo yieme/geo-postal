@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54792"]={"code":"54792","region":"Vastra Gotalands lan","city":"Gullspang","latitude":58.98615,"longitude":14.09644}}(window,'GeoPostal','SE');

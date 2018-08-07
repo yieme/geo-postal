@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA5 6PE"]={"code":"CA5 6PE","region":"England","city":"Thursby","latitude":54.8426,"longitude":-3.0509}}(window,'GeoPostal','GB');

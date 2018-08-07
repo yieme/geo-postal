@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317145"]={"code":"317145","region":"Arad","city":"Gurahont","latitude":46.26667,"longitude":22.35}}(window,'GeoPostal','RO');

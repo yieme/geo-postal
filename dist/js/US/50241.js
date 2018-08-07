@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50241"]={"code":"50241","region":"IA","city":"Saint Marys","latitude":41.3084,"longitude":-93.7369}}(window,'GeoPostal','US');

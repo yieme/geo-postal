@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31779"]={"code":"31779","region":"Occitanie","city":"Colomiers","latitude":43.61247,"longitude":1.33278}}(window,'GeoPostal','FR');

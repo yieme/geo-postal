@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14422"]={"code":"14422","region":"NY","city":"Byron","latitude":43.0738,"longitude":-78.0629}}(window,'GeoPostal','US');

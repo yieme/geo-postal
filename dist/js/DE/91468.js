@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91468"]={"code":"91468","region":"Bayern","city":"Bergtheim","latitude":49.64496,"longitude":10.6467}}(window,'GeoPostal','DE');

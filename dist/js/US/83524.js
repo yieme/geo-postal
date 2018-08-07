@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83524"]={"code":"83524","region":"ID","city":"Culdesac","latitude":46.378,"longitude":-116.6536}}(window,'GeoPostal','US');

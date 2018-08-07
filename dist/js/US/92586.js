@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92586"]={"code":"92586","region":"CA","city":"Sun City","latitude":33.7044,"longitude":-117.1969}}(window,'GeoPostal','US');

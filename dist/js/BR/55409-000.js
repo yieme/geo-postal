@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55409-000"]={"code":"55409-000","region":"Pernambuco","city":"Maraial","latitude":-8.7825,"longitude":-35.80889}}(window,'GeoPostal','BR');

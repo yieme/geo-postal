@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17074"]={"code":"17074","region":"PA","city":"Newport","latitude":40.4827,"longitude":-77.1659}}(window,'GeoPostal','US');

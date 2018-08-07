@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99320"]={"code":"99320","region":"WA","city":"Benton City","latitude":46.2806,"longitude":-119.4913}}(window,'GeoPostal','US');

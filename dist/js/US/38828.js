@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38828"]={"code":"38828","region":"MS","city":"Blue Springs","latitude":34.4273,"longitude":-88.859}}(window,'GeoPostal','US');

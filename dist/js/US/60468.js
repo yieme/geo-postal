@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60468"]={"code":"60468","region":"IL","city":"Peotone","latitude":41.3361,"longitude":-87.7897}}(window,'GeoPostal','US');

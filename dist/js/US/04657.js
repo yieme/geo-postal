@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04657"]={"code":"04657","region":"Maine","city":"Meddybemps","latitude":45.019058,"longitude":-67.385883}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39051"]={"code":"39051","region":"Mississippi","city":"Carthage","latitude":32.73264,"longitude":-89.53618}}(window,'GeoPostal','US');

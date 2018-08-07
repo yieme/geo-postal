@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47224"]={"code":"47224","region":"Punjab","city":"Tandlianwala","latitude":31.03333,"longitude":73.13333}}(window,'GeoPostal','PK');

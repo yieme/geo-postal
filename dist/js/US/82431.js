@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82431"]={"code":"82431","region":"Wyoming","city":"Lovell","latitude":44.83745,"longitude":-108.38956}}(window,'GeoPostal','US');

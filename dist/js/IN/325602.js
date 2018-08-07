@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["325602"]={"code":"325602","region":"Rajasthan","city":"Baran","latitude":25.1,"longitude":76.51667}}(window,'GeoPostal','IN');

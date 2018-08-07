@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694530"]={"code":"694530","region":"Sakhalinskaya oblast'","city":"Kuril'sk","latitude":45.23333,"longitude":147.88333}}(window,'GeoPostal','RU');

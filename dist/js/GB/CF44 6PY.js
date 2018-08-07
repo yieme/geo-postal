@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF44 6PY"]={"code":"CF44 6PY","region":"Wales","city":"Aberaman","latitude":51.70307,"longitude":-3.43026}}(window,'GeoPostal','GB');

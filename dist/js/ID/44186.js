@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44186"]={"code":"44186","region":"Jawa Barat","city":"Cilolongokan","latitude":-7.0378,"longitude":107.9712}}(window,'GeoPostal','ID');

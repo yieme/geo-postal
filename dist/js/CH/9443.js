@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9443"]={"code":"9443","region":"Appenzell Innerrhoden","city":"Balgach","latitude":47.40544,"longitude":9.6095}}(window,'GeoPostal','CH');

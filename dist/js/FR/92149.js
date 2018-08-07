@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92149"]={"code":"92149","region":"Ile-de-France","city":"Clamart","latitude":48.80299,"longitude":2.26692}}(window,'GeoPostal','FR');

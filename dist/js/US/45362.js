@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45362"]={"code":"45362","region":"OH","city":"Rossburg","latitude":40.2946,"longitude":-84.6264}}(window,'GeoPostal','US');

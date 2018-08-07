@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4629"]={"code":"4629","region":"Aargau","city":"Fulenbach","latitude":47.27496,"longitude":7.83344}}(window,'GeoPostal','CH');

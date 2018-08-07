@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52314"]={"code":"52314","region":"Iowa","city":"Mount Vernon","latitude":41.933708,"longitude":-91.437246}}(window,'GeoPostal','US');

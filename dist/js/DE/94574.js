@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94574"]={"code":"94574","region":"Bayern","city":"Wallerfing","latitude":48.68333,"longitude":12.88333}}(window,'GeoPostal','DE');

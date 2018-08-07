@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76200"]={"code":"76200","region":"Sindh","city":"Dadu","latitude":26.73286,"longitude":67.77631}}(window,'GeoPostal','PK');

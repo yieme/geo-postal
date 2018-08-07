@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 1N0"]={"code":"C0A 1N0","region":"Prince Edward Island","city":"Hunter River","latitude":46.35012,"longitude":-63.3487}}(window,'GeoPostal','CA');

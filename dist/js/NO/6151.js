@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6151"]={"code":"6151","region":"More og Romsdal","city":"Orsta","latitude":62.2029,"longitude":6.12722}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21052"]={"code":"21052","region":"Lombardia","city":"Busto Arsizio","latitude":45.61128,"longitude":8.84914}}(window,'GeoPostal','IT');

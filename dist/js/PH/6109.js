@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6109"]={"code":"6109","region":"Negros Occidental","city":"Kabankalan","latitude":9.98889,"longitude":122.81222}}(window,'GeoPostal','PH');

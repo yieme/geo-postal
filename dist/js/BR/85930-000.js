@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85930-000"]={"code":"85930-000","region":"Parana","city":"Nova Santa Rosa","latitude":-24.4658,"longitude":-53.9528}}(window,'GeoPostal','BR');

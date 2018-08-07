@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98013"]={"code":"98013","region":"WA","city":"Burton","latitude":47.389,"longitude":-122.4607}}(window,'GeoPostal','US');

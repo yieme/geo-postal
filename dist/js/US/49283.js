@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49283"]={"code":"49283","region":"MI","city":"Spring Arbor","latitude":42.2069,"longitude":-84.5501}}(window,'GeoPostal','US');

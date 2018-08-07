@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO15 1NZ"]={"code":"CO15 1NZ","region":"England","city":"Clacton-on-Sea","latitude":51.78967,"longitude":1.15597}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61563"]={"code":"61563","region":"IL","city":"Saint David","latitude":40.4912,"longitude":-90.0505}}(window,'GeoPostal','US');

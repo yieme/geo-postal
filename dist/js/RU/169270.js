@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169270"]={"code":"169270","region":"Komi, Respublika","city":"Usogorsk","latitude":63.41064,"longitude":48.68722}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71237"]={"code":"71237","region":"Louisiana","city":"Epps","latitude":32.6021,"longitude":-91.4843}}(window,'GeoPostal','US');

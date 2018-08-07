@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97455"]={"code":"97455","region":"OR","city":"Pleasant Hill","latitude":43.9458,"longitude":-122.9285}}(window,'GeoPostal','US');

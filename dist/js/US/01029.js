@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01029"]={"code":"01029","region":"MA","city":"East Otis","latitude":42.1909,"longitude":-73.0517}}(window,'GeoPostal','US');

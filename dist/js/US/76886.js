@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76886"]={"code":"76886","region":"TX","city":"Veribest","latitude":31.4766,"longitude":-100.2595}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38850"]={"code":"38850","region":"Auvergne-Rhone-Alpes","city":"Chirens","latitude":45.4128,"longitude":5.55707}}(window,'GeoPostal','FR');

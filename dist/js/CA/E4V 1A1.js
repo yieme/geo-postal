@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4V 1A1"]={"code":"E4V 1A1","region":"New Brunswick","city":"Saint-Antoine","latitude":46.36294,"longitude":-64.74985}}(window,'GeoPostal','CA');

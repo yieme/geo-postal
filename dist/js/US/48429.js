@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48429"]={"code":"48429","region":"Michigan","city":"Durand","latitude":42.910128,"longitude":-83.993979}}(window,'GeoPostal','US');

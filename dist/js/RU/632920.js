@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632920"]={"code":"632920","region":"Novosibirskaya oblast'","city":"Polovinnoye","latitude":53.75671,"longitude":79.24327}}(window,'GeoPostal','RU');

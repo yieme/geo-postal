@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3160"]={"code":"3160","region":"Victoria","city":"Belgrave","latitude":-37.9,"longitude":145.35}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54001"]={"code":"54001","region":"Wisconsin","city":"Amery","latitude":45.30691,"longitude":-92.36214}}(window,'GeoPostal','US');

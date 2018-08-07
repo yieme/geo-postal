@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29439"]={"code":"29439","region":"Niedersachsen","city":"Rehbeck","latitude":52.99986,"longitude":11.15061}}(window,'GeoPostal','DE');

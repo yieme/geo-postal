@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE36 6HP"]={"code":"PE36 6HP","region":"England","city":"Hunstanton","latitude":52.95,"longitude":0.5}}(window,'GeoPostal','GB');

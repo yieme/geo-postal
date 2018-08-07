@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47001"]={"code":"47001","region":"Indiana","city":"Aurora","latitude":39.057,"longitude":-84.90134}}(window,'GeoPostal','US');

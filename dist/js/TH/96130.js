@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96130"]={"code":"96130","region":"Narathiwat","city":"Narathiwat","latitude":6.42639,"longitude":101.82308}}(window,'GeoPostal','TH');

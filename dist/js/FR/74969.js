@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74969"]={"code":"74969","region":"Auvergne-Rhone-Alpes","city":"Cran-Gevrier","latitude":45.9,"longitude":6.1}}(window,'GeoPostal','FR');

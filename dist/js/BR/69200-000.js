@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69200-000"]={"code":"69200-000","region":"Amazonas","city":"Novo Aripuana","latitude":-5.12056,"longitude":-60.37972}}(window,'GeoPostal','BR');

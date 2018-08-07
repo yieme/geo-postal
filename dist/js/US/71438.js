@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71438"]={"code":"71438","region":"LA","city":"Hineston","latitude":31.1669,"longitude":-92.7375}}(window,'GeoPostal','US');

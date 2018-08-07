@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44797"]={"code":"44797","region":"Nordrhein-Westfalen","city":"Schrick","latitude":51.4295,"longitude":7.24505}}(window,'GeoPostal','DE');

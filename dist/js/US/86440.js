@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86440"]={"code":"86440","region":"Arizona","city":"Mohave Valley","latitude":34.93306,"longitude":-114.58885}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV3 4LB"]={"code":"CV3 4LB","region":"England","city":"Whitley","latitude":51.39528,"longitude":-2.16444}}(window,'GeoPostal','GB');

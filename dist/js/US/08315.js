@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08315"]={"code":"08315","region":"NJ","city":"Dividing Creek","latitude":39.2732,"longitude":-75.095}}(window,'GeoPostal','US');

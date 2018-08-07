@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97315"]={"code":"97315","region":"Guyane","city":"Sinnamary","latitude":5.38333,"longitude":-52.95}}(window,'GeoPostal','GF');

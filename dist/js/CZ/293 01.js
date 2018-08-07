@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["293 01"]={"code":"293 01","region":"Stredocesky kraj","city":"Mlada Boleslav","latitude":50.41135,"longitude":14.90318}}(window,'GeoPostal','CZ');

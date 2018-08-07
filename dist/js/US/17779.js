@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17779"]={"code":"17779","region":"PA","city":"Woolrich","latitude":41.1948,"longitude":-77.3764}}(window,'GeoPostal','US');

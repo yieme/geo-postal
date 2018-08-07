@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61003"]={"code":"61003","region":"Puntarenas","city":"Canoas","latitude":8.53305,"longitude":-82.83844}}(window,'GeoPostal','CR');

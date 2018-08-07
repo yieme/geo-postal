@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55965"]={"code":"55965","region":"Minnesota","city":"Preston","latitude":43.67024,"longitude":-92.08322}}(window,'GeoPostal','US');

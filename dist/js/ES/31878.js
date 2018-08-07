@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31878"]={"code":"31878","region":"Navarra, Comunidad Foral de","city":"Echarri-Aranaz","latitude":42.90791,"longitude":-2.06474}}(window,'GeoPostal','ES');

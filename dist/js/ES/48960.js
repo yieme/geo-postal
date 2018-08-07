@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48960"]={"code":"48960","region":"Pais Vasco","city":"Galdakao","latitude":43.23333,"longitude":-2.83333}}(window,'GeoPostal','ES');

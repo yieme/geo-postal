@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37318"]={"code":"37318","region":"Thuringen","city":"Vatterode","latitude":51.30793,"longitude":10.03446}}(window,'GeoPostal','DE');

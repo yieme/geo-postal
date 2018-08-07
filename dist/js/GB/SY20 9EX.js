@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY20 9EX"]={"code":"SY20 9EX","region":"Wales","city":"Esgair-geiliog","latitude":52.63333,"longitude":-3.83333}}(window,'GeoPostal','GB');

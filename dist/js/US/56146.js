@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56146"]={"code":"56146","region":"Minnesota","city":"Kanaranzi","latitude":43.57583,"longitude":-96.09444}}(window,'GeoPostal','US');

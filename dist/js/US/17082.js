@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17082"]={"code":"17082","region":"PA","city":"Port Royal","latitude":40.5107,"longitude":-77.431}}(window,'GeoPostal','US');

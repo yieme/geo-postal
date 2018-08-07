@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72340"]={"code":"72340","region":"AR","city":"Goodwin","latitude":34.9358,"longitude":-91.0292}}(window,'GeoPostal','US');

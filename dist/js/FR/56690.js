@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56690"]={"code":"56690","region":"Bretagne","city":"Nostang","latitude":47.7487,"longitude":-3.18638}}(window,'GeoPostal','FR');

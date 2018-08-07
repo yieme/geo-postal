@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5550000"]={"code":"5550000","region":"Los Lagos","city":"Puerto Varas","latitude":-41.31946,"longitude":-72.98538}}(window,'GeoPostal','CL');

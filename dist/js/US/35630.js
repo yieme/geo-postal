@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35630"]={"code":"35630","region":"Alabama","city":"Florence","latitude":34.818572,"longitude":-87.657841}}(window,'GeoPostal','US');

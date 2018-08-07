@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 0N0"]={"code":"S0A 0N0","region":"Saskatchewan","city":"Clair","latitude":52.01671,"longitude":-104.08434}}(window,'GeoPostal','CA');

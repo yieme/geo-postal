@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38962"]={"code":"38962","region":"MS","city":"Tippo","latitude":33.9121,"longitude":-90.1806}}(window,'GeoPostal','US');

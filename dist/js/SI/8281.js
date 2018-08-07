@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8281"]={"code":"8281","region":"Krsko","city":"Senovo","latitude":46.02361,"longitude":15.47694}}(window,'GeoPostal','SI');

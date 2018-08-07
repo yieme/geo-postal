@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99612"]={"code":"99612","region":"Alaska","city":"King Cove","latitude":55.07222,"longitude":-162.31806}}(window,'GeoPostal','US');

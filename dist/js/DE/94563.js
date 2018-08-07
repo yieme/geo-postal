@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94563"]={"code":"94563","region":"Bayern","city":"Otzing","latitude":48.76667,"longitude":12.81667}}(window,'GeoPostal','DE');

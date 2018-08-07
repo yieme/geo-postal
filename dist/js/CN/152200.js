@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152200"]={"code":"152200","region":"Nei Mongol","city":"Dabagou","latitude":46.06946,"longitude":121.91632}}(window,'GeoPostal','CN');

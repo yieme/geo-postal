@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727390"]={"code":"727390","region":"Suceava","city":"Musenita","latitude":47.96667,"longitude":26}}(window,'GeoPostal','RO');

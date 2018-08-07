@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["334109"]={"code":"334109","region":"Jiangxi","city":"Shangrao","latitude":28.45322,"longitude":117.9686}}(window,'GeoPostal','CN');

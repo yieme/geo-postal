@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95506"]={"code":"95506","region":"Bayern","city":"Schweissenreuth","latitude":49.8474,"longitude":11.96903}}(window,'GeoPostal','DE');

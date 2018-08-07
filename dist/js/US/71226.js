@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71226"]={"code":"71226","region":"LA","city":"Chatham","latitude":32.2922,"longitude":-92.4374}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40951"]={"code":"40951","region":"KY","city":"Hima","latitude":37.1206,"longitude":-83.7783}}(window,'GeoPostal','US');

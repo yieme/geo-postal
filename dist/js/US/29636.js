@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29636"]={"code":"29636","region":"SC","city":"Conestee","latitude":34.7682,"longitude":-82.3498}}(window,'GeoPostal','US');

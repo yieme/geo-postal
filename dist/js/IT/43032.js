@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43032"]={"code":"43032","region":"Emilia-Romagna","city":"Bardi","latitude":44.63296,"longitude":9.73017}}(window,'GeoPostal','IT');

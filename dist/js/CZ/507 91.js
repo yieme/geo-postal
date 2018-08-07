@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507 91"]={"code":"507 91","region":"Kralovehradecky kraj","city":"Stara Paka","latitude":50.51032,"longitude":15.49444}}(window,'GeoPostal','CZ');

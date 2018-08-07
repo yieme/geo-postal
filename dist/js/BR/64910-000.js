@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64910-000"]={"code":"64910-000","region":"Piaui","city":"Bom Jesus","latitude":-9.07444,"longitude":-44.35861}}(window,'GeoPostal','BR');

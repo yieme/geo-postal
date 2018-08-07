@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38770-000"]={"code":"38770-000","region":"Minas Gerais","city":"Joao Pinheiro","latitude":-17.7425,"longitude":-46.1725}}(window,'GeoPostal','BR');

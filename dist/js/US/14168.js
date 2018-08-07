@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14168"]={"code":"14168","region":"NY","city":"Versailles","latitude":42.5189,"longitude":-78.9959}}(window,'GeoPostal','US');

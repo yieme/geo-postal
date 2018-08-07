@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98408"]={"code":"98408","region":"Avtonomna Respublika Krym","city":"Bakhchysaray","latitude":44.75525,"longitude":33.85782}}(window,'GeoPostal','UA');

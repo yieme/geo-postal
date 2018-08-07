@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49270"]={"code":"49270","region":"Pays-de-la-Loire","city":"Saint-Laurent-des-Autels","latitude":47.28524,"longitude":-1.18881}}(window,'GeoPostal','FR');

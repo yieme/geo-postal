@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3907"]={"code":"3907","region":"Utrecht","city":"Veenendaal","latitude":52.02863,"longitude":5.55891}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56251"]={"code":"56251","region":"Punjab","city":"Mustafabad","latitude":30.89222,"longitude":73.49889}}(window,'GeoPostal','PK');

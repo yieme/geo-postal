@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12058"]={"code":"12058","region":"NY","city":"Earlton","latitude":42.3527,"longitude":-73.9062}}(window,'GeoPostal','US');

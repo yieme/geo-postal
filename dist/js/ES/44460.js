@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44460"]={"code":"44460","region":"Aragon","city":"Sarrion","latitude":40.13333,"longitude":-0.81667}}(window,'GeoPostal','ES');

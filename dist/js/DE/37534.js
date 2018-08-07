@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37534"]={"code":"37534","region":"Niedersachsen","city":"Forste","latitude":51.74187,"longitude":10.17882}}(window,'GeoPostal','DE');

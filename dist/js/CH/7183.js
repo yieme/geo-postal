@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7183"]={"code":"7183","region":"Graubunden","city":"Disentis","latitude":46.70341,"longitude":8.8509}}(window,'GeoPostal','CH');

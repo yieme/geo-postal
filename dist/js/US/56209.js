@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56209"]={"code":"56209","region":"Minnesota","city":"Atwater","latitude":45.13885,"longitude":-94.77806}}(window,'GeoPostal','US');

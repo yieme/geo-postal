@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82024"]={"code":"82024","region":"Bayern","city":"Unterhaching","latitude":48.06047,"longitude":11.61873}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["115"]={"code":"115","region":"Antananarivo","city":"Fenoarivo Be","latitude":-18.43333,"longitude":46.56667}}(window,'GeoPostal','MG');

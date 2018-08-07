@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86037"]={"code":"86037","region":"Molise","city":"Palata","latitude":41.88854,"longitude":14.78683}}(window,'GeoPostal','IT');

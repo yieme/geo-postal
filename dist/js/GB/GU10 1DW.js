@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU10 1DW"]={"code":"GU10 1DW","region":"England","city":"Tongham","latitude":51.23398,"longitude":-0.73059}}(window,'GeoPostal','GB');

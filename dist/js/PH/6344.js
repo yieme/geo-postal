@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6344"]={"code":"6344","region":"Cebu","city":"Danao","latitude":10.52083,"longitude":124.02722}}(window,'GeoPostal','PH');

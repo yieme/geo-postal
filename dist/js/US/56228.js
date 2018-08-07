@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56228"]={"code":"56228","region":"MN","city":"Cosmos","latitude":44.959,"longitude":-94.6978}}(window,'GeoPostal','US');

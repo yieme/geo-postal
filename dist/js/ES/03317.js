@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03317"]={"code":"03317","region":"Valenciana, Comunidad","city":"Orihuela","latitude":38.08483,"longitude":-0.94401}}(window,'GeoPostal','ES');

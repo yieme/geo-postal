@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81656"]={"code":"81656","region":"Colorado","city":"Woody Creek","latitude":39.27083,"longitude":-106.88611}}(window,'GeoPostal','US');

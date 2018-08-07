@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37350"]={"code":"37350","region":"TN","city":"Lookout Mountain","latitude":34.9948,"longitude":-85.3506}}(window,'GeoPostal','US');

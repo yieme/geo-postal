@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61378"]={"code":"61378","region":"Illinois","city":"West Brooklyn","latitude":41.719191,"longitude":-89.162491}}(window,'GeoPostal','US');

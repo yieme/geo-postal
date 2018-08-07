@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST14 5JU"]={"code":"ST14 5JU","region":"England","city":"Rocester","latitude":52.9513,"longitude":-1.83988}}(window,'GeoPostal','GB');

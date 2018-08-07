@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-3290"]={"code":"L-3290","region":"Luxembourg","city":"Bettembourg","latitude":49.51861,"longitude":6.10278}}(window,'GeoPostal','LU');

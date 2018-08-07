@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06751"]={"code":"06751","region":"CT","city":"Bethlehem","latitude":41.6387,"longitude":-73.2091}}(window,'GeoPostal','US');

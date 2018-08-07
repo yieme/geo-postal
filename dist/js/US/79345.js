@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79345"]={"code":"79345","region":"Texas","city":"Meadow","latitude":33.326442,"longitude":-102.332759}}(window,'GeoPostal','US');

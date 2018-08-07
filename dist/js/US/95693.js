@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95693"]={"code":"95693","region":"CA","city":"Wilton","latitude":38.3983,"longitude":-121.2303}}(window,'GeoPostal','US');

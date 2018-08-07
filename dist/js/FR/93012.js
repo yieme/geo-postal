@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93012"]={"code":"93012","region":"Ile-de-France","city":"Bobigny","latitude":48.9,"longitude":2.45}}(window,'GeoPostal','FR');

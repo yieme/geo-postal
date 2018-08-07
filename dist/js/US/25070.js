@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25070"]={"code":"25070","region":"WV","city":"Eleanor","latitude":38.5436,"longitude":-81.9414}}(window,'GeoPostal','US');

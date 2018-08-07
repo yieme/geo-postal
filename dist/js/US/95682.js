@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95682"]={"code":"95682","region":"California","city":"Shingle Springs","latitude":38.657579,"longitude":-120.962554}}(window,'GeoPostal','US');

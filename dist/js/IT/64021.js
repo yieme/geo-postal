@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64021"]={"code":"64021","region":"Abruzzo","city":"Giulianova","latitude":42.76115,"longitude":13.9537}}(window,'GeoPostal','IT');

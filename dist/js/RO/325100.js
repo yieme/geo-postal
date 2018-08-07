@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["325100"]={"code":"325100","region":"Caras-Severin","city":"Anina","latitude":45.07944,"longitude":21.85694}}(window,'GeoPostal','RO');

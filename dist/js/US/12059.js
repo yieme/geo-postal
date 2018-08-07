@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12059"]={"code":"12059","region":"NY","city":"East Berne","latitude":42.6191,"longitude":-74.0555}}(window,'GeoPostal','US');

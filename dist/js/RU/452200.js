@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452200"]={"code":"452200","region":"Bashkortostan, Respublika","city":"Chekmagush","latitude":55.13194,"longitude":54.65556}}(window,'GeoPostal','RU');

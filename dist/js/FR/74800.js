@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74800"]={"code":"74800","region":"Auvergne-Rhone-Alpes","city":"Saint-Pierre-en-Faucigny","latitude":46.0606,"longitude":6.3731}}(window,'GeoPostal','FR');

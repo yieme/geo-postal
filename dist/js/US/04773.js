@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04773"]={"code":"04773","region":"ME","city":"Saint David","latitude":47.3343,"longitude":-68.2314}}(window,'GeoPostal','US');

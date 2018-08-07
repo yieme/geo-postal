@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56156"]={"code":"56156","region":"Minnesota","city":"Luverne","latitude":43.65414,"longitude":-96.21281}}(window,'GeoPostal','US');

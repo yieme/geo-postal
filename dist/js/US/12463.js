@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12463"]={"code":"12463","region":"NY","city":"Palenville","latitude":42.1729,"longitude":-74.0167}}(window,'GeoPostal','US');

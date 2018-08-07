@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38029"]={"code":"38029","region":"Trentino-Alto Adige","city":"Vermiglio","latitude":46.2969,"longitude":10.69136}}(window,'GeoPostal','IT');

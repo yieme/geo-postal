@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14780-000"]={"code":"14780-000","region":"Sao Paulo","city":"Barretos","latitude":-20.55722,"longitude":-48.56778}}(window,'GeoPostal','BR');

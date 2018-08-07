@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65479"]={"code":"65479","region":"Hessen","city":"Raunheim","latitude":50.0132,"longitude":8.45253}}(window,'GeoPostal','DE');

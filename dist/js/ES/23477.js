@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23477"]={"code":"23477","region":"Andalucia","city":"Chilluevar","latitude":38.00088,"longitude":-3.0324}}(window,'GeoPostal','ES');

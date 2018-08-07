@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357 55"]={"code":"357 55","region":"Karlovarsky kraj","city":"Bukovany","latitude":50.16632,"longitude":12.57265}}(window,'GeoPostal','CZ');

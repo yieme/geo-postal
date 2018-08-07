@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59187"]={"code":"59187","region":"Hauts-de-France","city":"Dechy","latitude":50.35,"longitude":3.11667}}(window,'GeoPostal','FR');

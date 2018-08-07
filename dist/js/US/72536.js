@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72536"]={"code":"72536","region":"AR","city":"Franklin","latitude":36.1703,"longitude":-91.776}}(window,'GeoPostal','US');

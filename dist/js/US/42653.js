@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42653"]={"code":"42653","region":"Kentucky","city":"Whitley City","latitude":36.72341,"longitude":-84.47049}}(window,'GeoPostal','US');

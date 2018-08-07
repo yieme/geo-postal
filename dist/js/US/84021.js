@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84021"]={"code":"84021","region":"Utah","city":"Duchesne","latitude":40.169168,"longitude":-110.397688}}(window,'GeoPostal','US');

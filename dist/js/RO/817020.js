@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["817020"]={"code":"817020","region":"Braila","city":"Bordei Verde","latitude":45.08333,"longitude":27.56667}}(window,'GeoPostal','RO');

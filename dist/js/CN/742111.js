@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742111"]={"code":"742111","region":"Gansu","city":"Zhaowu","latitude":33.9853,"longitude":105.30962}}(window,'GeoPostal','CN');

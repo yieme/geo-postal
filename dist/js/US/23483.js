@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23483"]={"code":"23483","region":"Virginia","city":"Wattsville","latitude":37.93401,"longitude":-75.49965}}(window,'GeoPostal','US');

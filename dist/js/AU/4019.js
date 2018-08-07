@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4019"]={"code":"4019","region":"Tasmania","city":"Margate","latitude":-43.02814,"longitude":147.26256}}(window,'GeoPostal','AU');

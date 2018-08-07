@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366100"]={"code":"366100","region":"Fujian","city":"Junxi","latitude":25.67508,"longitude":117.8447}}(window,'GeoPostal','CN');

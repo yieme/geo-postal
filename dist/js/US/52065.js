@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52065"]={"code":"52065","region":"IA","city":"New Vienna","latitude":42.5678,"longitude":-91.0976}}(window,'GeoPostal','US');

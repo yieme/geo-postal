@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8472"]={"code":"8472","region":"Zurich","city":"Seuzach Dorf","latitude":47.5356,"longitude":8.73209}}(window,'GeoPostal','CH');

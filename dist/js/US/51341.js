@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51341"]={"code":"51341","region":"IA","city":"Gillett Grove","latitude":43.0157,"longitude":-95.0431}}(window,'GeoPostal','US');

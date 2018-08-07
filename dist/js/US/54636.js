@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54636"]={"code":"54636","region":"Wisconsin","city":"Holmen","latitude":43.9633,"longitude":-91.25625}}(window,'GeoPostal','US');

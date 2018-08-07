@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62046"]={"code":"62046","region":"Illinois","city":"Worden","latitude":38.88933,"longitude":-89.84844}}(window,'GeoPostal','US');

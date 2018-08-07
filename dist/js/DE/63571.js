@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63571"]={"code":"63571","region":"Hessen","city":"Gelnhausen","latitude":50.20164,"longitude":9.18742}}(window,'GeoPostal','DE');

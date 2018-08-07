@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4478"]={"code":"4478","region":"Queensland","city":"Tambo","latitude":-24.88187,"longitude":146.25752}}(window,'GeoPostal','AU');

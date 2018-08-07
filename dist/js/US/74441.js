@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74441"]={"code":"74441","region":"Oklahoma","city":"Hulbert","latitude":35.946282,"longitude":-95.229314}}(window,'GeoPostal','US');

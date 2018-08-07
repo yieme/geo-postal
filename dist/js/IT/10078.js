@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10078"]={"code":"10078","region":"Piemonte","city":"Venaria Reale","latitude":45.12385,"longitude":7.63542}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58405"]={"code":"58405","region":"Bourgogne-Franche-Comte","city":"La Charite-sur-Loire","latitude":47.18333,"longitude":3.01667}}(window,'GeoPostal','FR');

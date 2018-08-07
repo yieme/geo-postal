@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24660"]={"code":"24660","region":"Nouvelle-Aquitaine","city":"Coulounieix-Chamiers","latitude":45.15289,"longitude":0.68852}}(window,'GeoPostal','FR');

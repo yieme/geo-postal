@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR1 3BD"]={"code":"TR1 3BD","region":"England","city":"Truro","latitude":50.26526,"longitude":-5.05436}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5291"]={"code":"5291","region":"Miren-Kostanjevica","city":"Miren","latitude":45.89556,"longitude":13.6075}}(window,'GeoPostal','SI');

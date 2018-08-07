@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46032"]={"code":"46032","region":"Lombardia","city":"Castelbelforte","latitude":45.21208,"longitude":10.89249}}(window,'GeoPostal','IT');

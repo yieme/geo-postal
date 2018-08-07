@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 6JA"]={"code":"SA44 6JA","region":"Wales","city":"Synod","latitude":52.16472,"longitude":-4.33534}}(window,'GeoPostal','GB');

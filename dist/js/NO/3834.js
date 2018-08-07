@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3834"]={"code":"3834","region":"Telemark","city":"Gvarv","latitude":59.38746,"longitude":9.1737}}(window,'GeoPostal','NO');

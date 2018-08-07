@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["314300"]={"code":"314300","region":"Zhejiang","city":"Wuyuan","latitude":30.51539,"longitude":120.94856}}(window,'GeoPostal','CN');

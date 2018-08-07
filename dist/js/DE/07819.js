@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07819"]={"code":"07819","region":"Thuringen","city":"Triptis","latitude":50.73567,"longitude":11.87015}}(window,'GeoPostal','DE');

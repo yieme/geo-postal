@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39111"]={"code":"39111","region":"Mississippi","city":"Magee","latitude":31.87377,"longitude":-89.73369}}(window,'GeoPostal','US');

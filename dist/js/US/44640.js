@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44640"]={"code":"44640","region":"OH","city":"Limaville","latitude":40.9836,"longitude":-81.1497}}(window,'GeoPostal','US');

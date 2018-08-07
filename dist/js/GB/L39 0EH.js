@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L39 0EH"]={"code":"L39 0EH","region":"England","city":"Bickerstaffe","latitude":53.53153,"longitude":-2.83806}}(window,'GeoPostal','GB');

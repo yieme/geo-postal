@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN9 2PW"]={"code":"TN9 2PW","region":"England","city":"Ashford","latitude":51.1,"longitude":-4.1}}(window,'GeoPostal','GB');

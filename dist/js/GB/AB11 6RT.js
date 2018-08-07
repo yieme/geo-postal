@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB11 6RT"]={"code":"AB11 6RT","region":"Scotland","city":"Aberdeen","latitude":57.14369,"longitude":-2.09814}}(window,'GeoPostal','GB');

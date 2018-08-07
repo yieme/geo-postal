@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-100"]={"code":"37-100","region":"Podkarpackie","city":"Gluchow","latitude":50.08171,"longitude":22.27135}}(window,'GeoPostal','PL');

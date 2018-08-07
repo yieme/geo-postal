@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72120"]={"code":"72120","region":"Pays-de-la-Loire","city":"Saint-Calais","latitude":47.9221,"longitude":0.74587}}(window,'GeoPostal','FR');

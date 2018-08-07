@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344001"]={"code":"344001","region":"Jiangxi","city":"Yunshan","latitude":28.17593,"longitude":116.2995}}(window,'GeoPostal','CN');

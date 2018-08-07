@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4450"]={"code":"4450","region":"Sjelland","city":"Jyderup","latitude":55.66399,"longitude":11.42029}}(window,'GeoPostal','DK');

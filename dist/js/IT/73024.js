@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73024"]={"code":"73024","region":"Puglia","city":"Maglie","latitude":40.11842,"longitude":18.29893}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63220-000"]={"code":"63220-000","region":"Ceara","city":"Caririacu","latitude":-7.04222,"longitude":-39.28361}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30330"]={"code":"30330","region":"Occitanie","city":"Connaux","latitude":44.08919,"longitude":4.59387}}(window,'GeoPostal','FR');

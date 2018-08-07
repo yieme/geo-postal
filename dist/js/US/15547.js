@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15547"]={"code":"15547","region":"PA","city":"Jennerstown","latitude":40.1595,"longitude":-79.0616}}(window,'GeoPostal','US');

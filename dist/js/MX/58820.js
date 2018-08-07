@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58820"]={"code":"58820","region":"Michoacan de Ocampo","city":"Huandacareo","latitude":19.98333,"longitude":-101.28333}}(window,'GeoPostal','MX');

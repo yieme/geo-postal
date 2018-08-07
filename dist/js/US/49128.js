@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49128"]={"code":"49128","region":"Michigan","city":"Three Oaks","latitude":41.79865,"longitude":-86.61058}}(window,'GeoPostal','US');

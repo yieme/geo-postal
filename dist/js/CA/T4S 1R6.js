@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4S 1R6"]={"code":"T4S 1R6","region":"Alberta","city":"Birchcliff","latitude":52.36121,"longitude":-114.1187}}(window,'GeoPostal','CA');

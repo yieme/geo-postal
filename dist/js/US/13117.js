@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13117"]={"code":"13117","region":"NY","city":"Montezuma","latitude":43.0101,"longitude":-76.7033}}(window,'GeoPostal','US');

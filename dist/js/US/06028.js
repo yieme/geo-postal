@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06028"]={"code":"06028","region":"CT","city":"East Windsor Hill","latitude":41.8592,"longitude":-72.603}}(window,'GeoPostal','US');

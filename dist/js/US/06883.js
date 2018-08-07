@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06883"]={"code":"06883","region":"CT","city":"Weston","latitude":41.2195,"longitude":-73.3715}}(window,'GeoPostal','US');

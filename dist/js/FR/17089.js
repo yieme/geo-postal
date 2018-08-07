@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17089"]={"code":"17089","region":"Nouvelle-Aquitaine","city":"La Rochelle","latitude":46.16667,"longitude":-1.15}}(window,'GeoPostal','FR');

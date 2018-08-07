@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6868"]={"code":"6868","region":"Sogn og Fjordane","city":"Gaupne","latitude":61.40831,"longitude":7.28559}}(window,'GeoPostal','NO');

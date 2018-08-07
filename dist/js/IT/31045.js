@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31045"]={"code":"31045","region":"Veneto","city":"Motta di Livenza","latitude":45.77806,"longitude":12.60278}}(window,'GeoPostal','IT');

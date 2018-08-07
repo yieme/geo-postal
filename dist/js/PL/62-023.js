@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-023"]={"code":"62-023","region":"Wielkopolskie","city":"Swarzedz","latitude":52.41289,"longitude":17.08503}}(window,'GeoPostal','PL');

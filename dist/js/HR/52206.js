@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52206"]={"code":"52206","region":"Istarska zupanija","city":"Marcana","latitude":44.95528,"longitude":13.95389}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3912"]={"code":"3912","region":"Niederosterreich","city":"Grafenschlag","latitude":48.5,"longitude":15.16667}}(window,'GeoPostal','AT');

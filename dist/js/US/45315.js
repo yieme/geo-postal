@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45315"]={"code":"45315","region":"Ohio","city":"Clayton","latitude":39.85284,"longitude":-84.33744}}(window,'GeoPostal','US');

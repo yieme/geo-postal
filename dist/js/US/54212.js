@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54212"]={"code":"54212","region":"Wisconsin","city":"Fish Creek","latitude":45.12778,"longitude":-87.24694}}(window,'GeoPostal','US');

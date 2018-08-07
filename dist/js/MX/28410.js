@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28410"]={"code":"28410","region":"Chihuahua","city":"Saucillo","latitude":28.01667,"longitude":-105.28333}}(window,'GeoPostal','MX');

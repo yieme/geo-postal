@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53597"]={"code":"53597","region":"Wisconsin","city":"Waunakee","latitude":43.19194,"longitude":-89.45567}}(window,'GeoPostal','US');

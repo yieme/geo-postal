@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675029"]={"code":"675029","region":"Amurskaya oblast'","city":"Blagoveshchensk","latitude":50.26667,"longitude":127.53333}}(window,'GeoPostal','RU');

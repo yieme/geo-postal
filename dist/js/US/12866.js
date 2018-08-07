@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12866"]={"code":"12866","region":"New York","city":"Saratoga Springs","latitude":43.08313,"longitude":-73.78457}}(window,'GeoPostal','US');

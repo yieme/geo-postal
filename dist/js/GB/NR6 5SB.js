@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR6 5SB"]={"code":"NR6 5SB","region":"England","city":"Hellesdon","latitude":52.66275,"longitude":1.27836}}(window,'GeoPostal','GB');

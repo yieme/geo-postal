@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42464"]={"code":"42464","region":"KY","city":"White Plains","latitude":37.1788,"longitude":-87.3644}}(window,'GeoPostal','US');

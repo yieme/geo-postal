@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99826"]={"code":"99826","region":"Thuringen","city":"Frankenroda","latitude":51.1,"longitude":10.28333}}(window,'GeoPostal','DE');

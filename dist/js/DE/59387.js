@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59387"]={"code":"59387","region":"Nordrhein-Westfalen","city":"Ascheberg","latitude":51.78333,"longitude":7.61667}}(window,'GeoPostal','DE');

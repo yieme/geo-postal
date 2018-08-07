@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49666"]={"code":"49666","region":"Michigan","city":"Mayfield","latitude":44.598419,"longitude":-85.532692}}(window,'GeoPostal','US');

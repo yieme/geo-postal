@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT3 2AW"]={"code":"CT3 2AW","region":"England","city":"Ash","latitude":51.27883,"longitude":1.27974}}(window,'GeoPostal','GB');

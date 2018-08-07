@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9Z 0A1"]={"code":"L9Z 0A1","region":"Ontario","city":"Wasaga Beach","latitude":44.5168,"longitude":-80.01637}}(window,'GeoPostal','CA');

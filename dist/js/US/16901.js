@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16901"]={"code":"16901","region":"Pennsylvania","city":"Wellsboro","latitude":41.74868,"longitude":-77.30053}}(window,'GeoPostal','US');

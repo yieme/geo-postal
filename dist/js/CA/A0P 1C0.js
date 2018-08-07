@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0P 1C0"]={"code":"A0P 1C0","region":"Newfoundland and Labrador","city":"Happy Valley-Goose Bay","latitude":53.31685,"longitude":-60.33153}}(window,'GeoPostal','CA');

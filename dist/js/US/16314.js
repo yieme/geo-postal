@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16314"]={"code":"16314","region":"Pennsylvania","city":"Cochranton","latitude":41.52005,"longitude":-80.04839}}(window,'GeoPostal','US');

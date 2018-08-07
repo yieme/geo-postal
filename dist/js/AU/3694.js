@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3694"]={"code":"3694","region":"Victoria","city":"Bandiana","latitude":-36.15,"longitude":146.93333}}(window,'GeoPostal','AU');

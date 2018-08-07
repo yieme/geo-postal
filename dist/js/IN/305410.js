@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["305410"]={"code":"305410","region":"Rajasthan","city":"Kekri","latitude":25.96667,"longitude":75.15}}(window,'GeoPostal','IN');

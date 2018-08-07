@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR23 1PQ"]={"code":"NR23 1PQ","region":"England","city":"Wighton","latitude":52.92236,"longitude":0.88354}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0W 1V0"]={"code":"J0W 1V0","region":"Quebec","city":"Sainte-Anne-du-Lac","latitude":46.88341,"longitude":-75.33257}}(window,'GeoPostal','CA');

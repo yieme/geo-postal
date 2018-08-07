@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3723"]={"code":"3723","region":"Victoria","city":"Jamieson","latitude":-37.31667,"longitude":146.13333}}(window,'GeoPostal','AU');

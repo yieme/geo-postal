@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["153-0053"]={"code":"153-0053","region":"Tokyo","city":"Meguro-ku","latitude":35.633,"longitude":139.683}}(window,'GeoPostal','JP');

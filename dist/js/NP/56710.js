@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56710"]={"code":"56710","region":"Kosi","city":"Inaruwa","latitude":26.609384,"longitude":87.157249}}(window,'GeoPostal','NP');

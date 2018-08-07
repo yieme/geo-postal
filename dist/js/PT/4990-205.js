@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4990-205"]={"code":"4990-205","region":"Viana do Castelo","city":"Ponte do Lima","latitude":41.76719,"longitude":-8.58393}}(window,'GeoPostal','PT');

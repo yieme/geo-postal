@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217295"]={"code":"217295","region":"Gorj","city":"Matasari","latitude":44.85,"longitude":23.08333}}(window,'GeoPostal','RO');

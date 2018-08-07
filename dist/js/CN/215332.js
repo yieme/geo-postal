@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215332"]={"code":"215332","region":"Jiangsu","city":"Kunshan","latitude":31.322,"longitude":120.985}}(window,'GeoPostal','CN');

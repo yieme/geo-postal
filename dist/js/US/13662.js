@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13662"]={"code":"13662","region":"New York","city":"Massena","latitude":44.9281,"longitude":-74.89186}}(window,'GeoPostal','US');

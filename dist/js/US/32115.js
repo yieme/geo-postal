@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32115"]={"code":"32115","region":"Florida","city":"Daytona Beach","latitude":29.21052,"longitude":-81.02298}}(window,'GeoPostal','US');

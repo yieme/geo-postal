@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49401"]={"code":"49401","region":"Michigan","city":"Allendale","latitude":42.97225,"longitude":-85.95365}}(window,'GeoPostal','US');

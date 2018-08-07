@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2460"]={"code":"2460","region":"Paktika","city":"Markaz-e Wuluswali-ye Yosuf Khel","latitude":33.06455,"longitude":68.67084}}(window,'GeoPostal','AF');

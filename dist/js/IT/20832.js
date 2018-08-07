@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20832"]={"code":"20832","region":"Lombardia","city":"Desio","latitude":45.62018,"longitude":9.20424}}(window,'GeoPostal','IT');

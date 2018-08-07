@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT9 4QN"]={"code":"DT9 4QN","region":"England","city":"Sherbourne","latitude":51.81667,"longitude":-1.75}}(window,'GeoPostal','GB');

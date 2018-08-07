@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47559"]={"code":"47559","region":"Nordrhein-Westfalen","city":"Zyfflich","latitude":51.82342,"longitude":5.97297}}(window,'GeoPostal','DE');

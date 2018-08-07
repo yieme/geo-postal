@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6929"]={"code":"6929","region":"Luxembourg","city":"Daverdisse","latitude":50.02161,"longitude":5.11811}}(window,'GeoPostal','BE');

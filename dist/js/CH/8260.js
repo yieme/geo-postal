@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8260"]={"code":"8260","region":"Schaffhausen","city":"Stein am Rhein","latitude":47.65933,"longitude":8.85964}}(window,'GeoPostal','CH');

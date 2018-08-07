@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680011"]={"code":"680011","region":"Primorskiy kray","city":"Vladivostok","latitude":43.10562,"longitude":131.87353}}(window,'GeoPostal','RU');

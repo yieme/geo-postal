@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13533"]={"code":"13533","region":"Hauts-de-France","city":"Remy","latitude":49.43333,"longitude":2.71667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35800"]={"code":"35800","region":"Durango","city":"Cuencame","latitude":24.87111,"longitude":-103.69639}}(window,'GeoPostal','MX');

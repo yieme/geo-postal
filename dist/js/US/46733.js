@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46733"]={"code":"46733","region":"Indiana","city":"Decatur","latitude":40.82975,"longitude":-84.927007}}(window,'GeoPostal','US');

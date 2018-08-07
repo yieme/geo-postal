@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1329"]={"code":"1329","region":"Flevoland","city":"Almere Stad","latitude":52.37025,"longitude":5.21413}}(window,'GeoPostal','NL');

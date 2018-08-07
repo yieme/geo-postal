@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD9 8LH"]={"code":"TD9 8LH","region":"Scotland","city":"Briery Yards","latitude":55.43333,"longitude":-2.73333}}(window,'GeoPostal','GB');

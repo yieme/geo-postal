@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17944"]={"code":"17944","region":"PA","city":"Llewellyn","latitude":40.6729,"longitude":-76.2791}}(window,'GeoPostal','US');

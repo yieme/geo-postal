@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95140"]={"code":"95140","region":"Yala","city":"Raman","latitude":6.47862,"longitude":101.42414}}(window,'GeoPostal','TH');

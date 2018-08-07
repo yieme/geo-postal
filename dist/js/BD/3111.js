@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3111"]={"code":"3111","region":"Dhaka","city":"Mymensingh","latitude":24.75,"longitude":90.4}}(window,'GeoPostal','BD');

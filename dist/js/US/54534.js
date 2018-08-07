@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54534"]={"code":"54534","region":"Wisconsin","city":"Hurley","latitude":46.44967,"longitude":-90.18656}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["621729"]={"code":"621729","region":"Tamil Nadu","city":"Lalgudi","latitude":10.86667,"longitude":78.83333}}(window,'GeoPostal','IN');

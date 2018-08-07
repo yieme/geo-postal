@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70031"]={"code":"70031","region":"LA","city":"Ama","latitude":29.9435,"longitude":-90.2925}}(window,'GeoPostal','US');

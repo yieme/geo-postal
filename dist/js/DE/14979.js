@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14979"]={"code":"14979","region":"Brandenburg","city":"Grossbeeren","latitude":52.36667,"longitude":13.33333}}(window,'GeoPostal','DE');

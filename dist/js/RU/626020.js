@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626020"]={"code":"626020","region":"Tyumenskaya oblast'","city":"Nizhnyaya Tavda","latitude":57.67306,"longitude":66.1725}}(window,'GeoPostal','RU');

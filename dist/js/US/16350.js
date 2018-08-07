@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16350"]={"code":"16350","region":"Pennsylvania","city":"Sugar Grove","latitude":41.98222,"longitude":-79.34167}}(window,'GeoPostal','US');

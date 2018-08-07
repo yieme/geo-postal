@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35742"]={"code":"35742","region":"Alabama","city":"Capshaw","latitude":34.805626,"longitude":-86.782778}}(window,'GeoPostal','US');

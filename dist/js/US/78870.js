@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78870"]={"code":"78870","region":"Texas","city":"Knippa","latitude":29.290514,"longitude":-99.634132}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57555"]={"code":"57555","region":"South Dakota","city":"Mission","latitude":43.30584,"longitude":-100.65819}}(window,'GeoPostal','US');

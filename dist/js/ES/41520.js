@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41520"]={"code":"41520","region":"Andalucia","city":"El Viso del Alcor","latitude":37.39106,"longitude":-5.71993}}(window,'GeoPostal','ES');

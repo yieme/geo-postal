@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4716"]={"code":"4716","region":"Queensland","city":"Prospect","latitude":-24.51174,"longitude":150.41885}}(window,'GeoPostal','AU');

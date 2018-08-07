@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35553"]={"code":"35553","region":"Alabama","city":"Double Springs","latitude":34.14649,"longitude":-87.40224}}(window,'GeoPostal','US');

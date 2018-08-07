@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-418"]={"code":"43-418","region":"Slaskie","city":"Pogwizdow","latitude":49.80382,"longitude":18.60106}}(window,'GeoPostal','PL');

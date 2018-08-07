@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48720"]={"code":"48720","region":"Jalisco","city":"Ahualulco de Mercado","latitude":20.70137,"longitude":-103.97461}}(window,'GeoPostal','MX');

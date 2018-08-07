@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58214"]={"code":"58214","region":"North Dakota","city":"Arvilla","latitude":47.889529,"longitude":-97.493978}}(window,'GeoPostal','US');

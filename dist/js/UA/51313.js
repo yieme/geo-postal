@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51313"]={"code":"51313","region":"Dnipropetrovska oblast","city":"Piatykhatky","latitude":48.41333,"longitude":33.71056}}(window,'GeoPostal','UA');

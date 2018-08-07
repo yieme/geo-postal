@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62520"]={"code":"62520","region":"IL","city":"Dawson","latitude":39.8563,"longitude":-89.4603}}(window,'GeoPostal','US');

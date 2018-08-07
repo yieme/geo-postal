@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9170"]={"code":"9170","region":"Varna","city":"Suvorovo","latitude":43.33333,"longitude":27.6}}(window,'GeoPostal','BG');

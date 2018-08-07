@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49074"]={"code":"49074","region":"Niedersachsen","city":"Osnabruck","latitude":52.27264,"longitude":8.0498}}(window,'GeoPostal','DE');

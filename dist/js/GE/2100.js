@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2100"]={"code":"2100","region":"Samegrelo-Zemo Svaneti","city":"Zugdidi","latitude":42.5088,"longitude":41.87088}}(window,'GeoPostal','GE');

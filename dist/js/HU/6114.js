@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6114"]={"code":"6114","region":"Bacs-Kiskun","city":"Bugac","latitude":46.68704,"longitude":19.68074}}(window,'GeoPostal','HU');

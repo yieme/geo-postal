@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-384"]={"code":"43-384","region":"Slaskie","city":"Jaworze","latitude":49.79351,"longitude":18.9479}}(window,'GeoPostal','PL');

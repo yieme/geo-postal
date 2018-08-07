@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 8UL"]={"code":"NE65 8UL","region":"England","city":"Longhorsley","latitude":55.24586,"longitude":-1.76914}}(window,'GeoPostal','GB');

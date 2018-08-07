@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68343"]={"code":"68343","region":"Nebraska","city":"Dorchester","latitude":40.64861,"longitude":-97.11528}}(window,'GeoPostal','US');

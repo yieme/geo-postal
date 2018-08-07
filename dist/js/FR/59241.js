@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59241"]={"code":"59241","region":"Hauts-de-France","city":"Masnieres","latitude":50.11489,"longitude":3.20889}}(window,'GeoPostal','FR');

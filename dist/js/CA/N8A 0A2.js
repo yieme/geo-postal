@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N8A 0A2"]={"code":"N8A 0A2","region":"Ontario","city":"Wallaceburg","latitude":42.59303,"longitude":-82.38853}}(window,'GeoPostal','CA');

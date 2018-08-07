@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47249"]={"code":"47249","region":"IN","city":"Kurtz","latitude":38.9606,"longitude":-86.2033}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07751"]={"code":"07751","region":"New Jersey","city":"Morganville","latitude":40.353198,"longitude":-74.271671}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38941"]={"code":"38941","region":"Mississippi","city":"Itta Bena","latitude":33.496088,"longitude":-90.326792}}(window,'GeoPostal','US');

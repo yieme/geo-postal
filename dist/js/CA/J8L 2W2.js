@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J8L 2W2"]={"code":"J8L 2W2","region":"Quebec","city":"Buckingham","latitude":45.58879,"longitude":-75.405329}}(window,'GeoPostal','CA');

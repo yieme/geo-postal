@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36290"]={"code":"36290","region":"Centre-Val de Loire","city":"Mezieres-en-Brenne","latitude":46.8198,"longitude":1.21123}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72626"]={"code":"72626","region":"AR","city":"Cotter","latitude":36.2712,"longitude":-92.5354}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29725-000"]={"code":"29725-000","region":"Espirito Santo","city":"Marilandia","latitude":-19.41278,"longitude":-40.54167}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13610-000"]={"code":"13610-000","region":"Sao Paulo","city":"Leme","latitude":-22.18556,"longitude":-47.39028}}(window,'GeoPostal','BR');

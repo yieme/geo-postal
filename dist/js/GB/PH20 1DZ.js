@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH20 1DZ"]={"code":"PH20 1DZ","region":"Scotland","city":"Newtonmore","latitude":57.06567,"longitude":-4.12097}}(window,'GeoPostal','GB');

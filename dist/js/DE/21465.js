@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21465"]={"code":"21465","region":"Schleswig-Holstein","city":"Reinbek","latitude":53.51703,"longitude":10.2488}}(window,'GeoPostal','DE');

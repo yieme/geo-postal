@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65350-000"]={"code":"65350-000","region":"Maranhao","city":"Vitoria do Mearim","latitude":-3.46222,"longitude":-44.87056}}(window,'GeoPostal','BR');

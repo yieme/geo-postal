@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86920"]={"code":"86920","region":"Bayern","city":"Denklingen","latitude":47.91667,"longitude":10.85}}(window,'GeoPostal','DE');

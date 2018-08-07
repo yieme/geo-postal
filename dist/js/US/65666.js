@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65666"]={"code":"65666","region":"MO","city":"Hardenville","latitude":36.5892,"longitude":-92.3713}}(window,'GeoPostal','US');

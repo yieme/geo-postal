@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87430"]={"code":"87430","region":"Nouvelle-Aquitaine","city":"Verneuil-sur-Vienne","latitude":45.85524,"longitude":1.10133}}(window,'GeoPostal','FR');

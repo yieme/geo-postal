@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57649"]={"code":"57649","region":"SD","city":"Prairie City","latitude":45.5813,"longitude":-102.8085}}(window,'GeoPostal','US');

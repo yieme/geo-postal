@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-602"]={"code":"34-602","region":"Malopolskie","city":"Laskowa","latitude":49.76147,"longitude":20.45045}}(window,'GeoPostal','PL');

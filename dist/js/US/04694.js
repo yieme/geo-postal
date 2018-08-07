@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04694"]={"code":"04694","region":"Maine","city":"Baileyville","latitude":45.154571,"longitude":-67.406295}}(window,'GeoPostal','US');

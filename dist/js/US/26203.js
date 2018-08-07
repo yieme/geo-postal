@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26203"]={"code":"26203","region":"West Virginia","city":"Erbacon","latitude":38.542919,"longitude":-80.56726}}(window,'GeoPostal','US');

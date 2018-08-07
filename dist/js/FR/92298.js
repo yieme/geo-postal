@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92298"]={"code":"92298","region":"Ile-de-France","city":"Chatenay-Malabry","latitude":48.76507,"longitude":2.26655}}(window,'GeoPostal','FR');

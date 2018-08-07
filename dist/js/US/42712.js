@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42712"]={"code":"42712","region":"KY","city":"Big Clifty","latitude":37.5278,"longitude":-86.1395}}(window,'GeoPostal','US');

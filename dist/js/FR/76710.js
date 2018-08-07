@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76710"]={"code":"76710","region":"Normandie","city":"Montville","latitude":49.5472,"longitude":1.0764}}(window,'GeoPostal','FR');

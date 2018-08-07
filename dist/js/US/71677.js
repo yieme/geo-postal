@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71677"]={"code":"71677","region":"AR","city":"Winchester","latitude":33.7471,"longitude":-91.4649}}(window,'GeoPostal','US');

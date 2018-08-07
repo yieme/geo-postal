@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11114"]={"code":"11114","region":"Zhytomyrska oblast","city":"Pershotravneve","latitude":51.39287,"longitude":28.86837}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416817"]={"code":"416817","region":"Chongqing","city":"Youyang","latitude":28.8886,"longitude":108.764}}(window,'GeoPostal','CN');

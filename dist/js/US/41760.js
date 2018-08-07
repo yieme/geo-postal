@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41760"]={"code":"41760","region":"Kentucky","city":"Scuddy","latitude":37.214788,"longitude":-83.093857}}(window,'GeoPostal','US');

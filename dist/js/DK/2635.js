@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2635"]={"code":"2635","region":"Hovedstaden","city":"Ishoj","latitude":55.61543,"longitude":12.35182}}(window,'GeoPostal','DK');

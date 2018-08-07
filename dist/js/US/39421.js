@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39421"]={"code":"39421","region":"Mississippi","city":"Bassfield","latitude":31.49722,"longitude":-89.74611}}(window,'GeoPostal','US');

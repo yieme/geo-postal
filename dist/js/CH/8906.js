@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8906"]={"code":"8906","region":"Zurich","city":"Bonstetten","latitude":47.31505,"longitude":8.46836}}(window,'GeoPostal','CH');

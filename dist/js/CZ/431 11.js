@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431 11"]={"code":"431 11","region":"Ustecky kraj","city":"Jirkov","latitude":50.49979,"longitude":13.44769}}(window,'GeoPostal','CZ');

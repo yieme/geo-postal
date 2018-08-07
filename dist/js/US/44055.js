@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44055"]={"code":"44055","region":"Ohio","city":"Lorain","latitude":41.43438,"longitude":-82.13742}}(window,'GeoPostal','US');

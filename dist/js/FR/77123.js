@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77123"]={"code":"77123","region":"Ile-de-France","city":"Noisy-sur-Ecole","latitude":48.36701,"longitude":2.50804}}(window,'GeoPostal','FR');

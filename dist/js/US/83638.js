@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83638"]={"code":"83638","region":"ID","city":"Mccall","latitude":44.8918,"longitude":-116.0789}}(window,'GeoPostal','US');

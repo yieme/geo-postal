@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89170"]={"code":"89170","region":"Bourgogne-Franche-Comte","city":"Saint-Fargeau","latitude":47.64133,"longitude":3.07066}}(window,'GeoPostal','FR');

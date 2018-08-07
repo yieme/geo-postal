@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50504"]={"code":"50504","region":"Guanacaste","city":"Belen","latitude":10.40788,"longitude":-85.58836}}(window,'GeoPostal','CR');

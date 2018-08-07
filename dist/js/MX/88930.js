@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88930"]={"code":"88930","region":"Tamaulipas","city":"Rio Bravo","latitude":25.98333,"longitude":-98.1}}(window,'GeoPostal','MX');

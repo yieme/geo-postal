@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95421"]={"code":"95421","region":"California","city":"Cazadero","latitude":38.532263,"longitude":-123.136283}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02510"]={"code":"02510","region":"Hauts-de-France","city":"Etreux","latitude":49.98333,"longitude":3.65}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX20 1JU"]={"code":"OX20 1JU","region":"England","city":"Woodstock","latitude":51.8485,"longitude":-1.35132}}(window,'GeoPostal','GB');

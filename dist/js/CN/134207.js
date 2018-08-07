@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134207"]={"code":"134207","region":"Jilin","city":"Liangshui Chaoxianzu","latitude":40.92852,"longitude":125.85308}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26820"]={"code":"26820","region":"Satakunta","city":"Rauma","latitude":61.12724,"longitude":21.51127}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10925"]={"code":"10925","region":"NY","city":"Greenwood Lake","latitude":41.2101,"longitude":-74.3033}}(window,'GeoPostal','US');

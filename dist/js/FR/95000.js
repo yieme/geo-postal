@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95000"]={"code":"95000","region":"Ile-de-France","city":"Cergy","latitude":49.03645,"longitude":2.07613}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66822"]={"code":"66822","region":"Saarland","city":"Hahn","latitude":49.41967,"longitude":6.90037}}(window,'GeoPostal','DE');

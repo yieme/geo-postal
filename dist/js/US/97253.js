@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97253"]={"code":"97253","region":"OR","city":"Us Bank","latitude":45.5235,"longitude":-122.6762}}(window,'GeoPostal','US');

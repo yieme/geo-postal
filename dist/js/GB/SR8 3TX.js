@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SR8 3TX"]={"code":"SR8 3TX","region":"England","city":"Shotton","latitude":54.78333,"longitude":-1.36667}}(window,'GeoPostal','GB');

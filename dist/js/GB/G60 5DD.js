@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G60 5DD"]={"code":"G60 5DD","region":"Scotland","city":"Old Kilpatrick","latitude":55.92241,"longitude":-4.45567}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["722916"]={"code":"722916","region":"Naryn","city":"Naryn","latitude":41.42866,"longitude":75.99111}}(window,'GeoPostal','KG');

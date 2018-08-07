@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48850"]={"code":"48850","region":"Michigan","city":"Lakeview","latitude":43.44642,"longitude":-85.2742}}(window,'GeoPostal','US');

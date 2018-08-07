@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01350"]={"code":"01350","region":"Auvergne-Rhone-Alpes","city":"Culoz","latitude":45.84964,"longitude":5.78081}}(window,'GeoPostal','FR');

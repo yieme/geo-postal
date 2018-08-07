@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60940"]={"code":"60940","region":"IL","city":"Grant Park","latitude":41.2477,"longitude":-87.648}}(window,'GeoPostal','US');

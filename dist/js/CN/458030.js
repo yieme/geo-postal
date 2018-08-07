@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["458030"]={"code":"458030","region":"Henan","city":"Hebi","latitude":35.89917,"longitude":114.1925}}(window,'GeoPostal','CN');

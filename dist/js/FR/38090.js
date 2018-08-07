@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38090"]={"code":"38090","region":"Auvergne-Rhone-Alpes","city":"Bonnefamille","latitude":45.5959,"longitude":5.13035}}(window,'GeoPostal','FR');

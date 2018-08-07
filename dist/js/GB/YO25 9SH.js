@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 9SH"]={"code":"YO25 9SH","region":"England","city":"Lockington","latitude":53.91415,"longitude":-0.48572}}(window,'GeoPostal','GB');

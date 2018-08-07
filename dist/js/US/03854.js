@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03854"]={"code":"03854","region":"NH","city":"New Castle","latitude":43.0681,"longitude":-70.7199}}(window,'GeoPostal','US');

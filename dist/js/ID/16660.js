@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16660"]={"code":"16660","region":"Jawa Barat","city":"Garisul","latitude":-6.5055,"longitude":106.4959}}(window,'GeoPostal','ID');

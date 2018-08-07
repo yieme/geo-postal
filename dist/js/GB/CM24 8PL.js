@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM24 8PL"]={"code":"CM24 8PL","region":"England","city":"Stansted","latitude":51.33587,"longitude":0.3059}}(window,'GeoPostal','GB');

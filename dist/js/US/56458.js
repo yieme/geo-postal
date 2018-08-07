@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56458"]={"code":"56458","region":"Minnesota","city":"Lake George","latitude":47.282856,"longitude":-95.047447}}(window,'GeoPostal','US');

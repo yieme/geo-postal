@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95481"]={"code":"95481","region":"California","city":"Talmage","latitude":39.13323,"longitude":-123.16778}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37166"]={"code":"37166","region":"Tennessee","city":"Smithville","latitude":35.96062,"longitude":-85.81415}}(window,'GeoPostal','US');

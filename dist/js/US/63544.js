@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63544"]={"code":"63544","region":"MO","city":"Green Castle","latitude":40.2703,"longitude":-92.878}}(window,'GeoPostal','US');

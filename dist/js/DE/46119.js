@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46119"]={"code":"46119","region":"Nordrhein-Westfalen","city":"Oberhausen","latitude":50.50639,"longitude":6.46561}}(window,'GeoPostal','DE');

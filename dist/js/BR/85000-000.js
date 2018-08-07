@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85000-000"]={"code":"85000-000","region":"Parana","city":"Guarapuava","latitude":-25.39528,"longitude":-51.45806}}(window,'GeoPostal','BR');

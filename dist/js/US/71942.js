@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71942"]={"code":"71942","region":"AR","city":"Friendship","latitude":34.2235,"longitude":-93.0024}}(window,'GeoPostal','US');

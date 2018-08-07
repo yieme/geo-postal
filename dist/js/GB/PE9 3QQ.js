@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 3QQ"]={"code":"PE9 3QQ","region":"England","city":"Duddington","latitude":52.59671,"longitude":-0.54163}}(window,'GeoPostal','GB');

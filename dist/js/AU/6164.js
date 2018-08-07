@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6164"]={"code":"6164","region":"Western Australia","city":"Yangebup","latitude":-32.12065,"longitude":115.81623}}(window,'GeoPostal','AU');

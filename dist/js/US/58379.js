@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58379"]={"code":"58379","region":"ND","city":"Tokio","latitude":47.9247,"longitude":-98.8162}}(window,'GeoPostal','US');

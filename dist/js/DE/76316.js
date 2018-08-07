@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76316"]={"code":"76316","region":"Baden-Wurttemberg","city":"Malsch","latitude":48.88333,"longitude":8.33333}}(window,'GeoPostal','DE');

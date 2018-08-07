@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38890"]={"code":"38890","region":"Canarias","city":"Hermigua","latitude":28.16766,"longitude":-17.19051}}(window,'GeoPostal','ES');

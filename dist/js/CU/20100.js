@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20100"]={"code":"20100","region":"Pinar del Rio","city":"Pinar del Rio","latitude":22.4175,"longitude":-83.69806}}(window,'GeoPostal','CU');

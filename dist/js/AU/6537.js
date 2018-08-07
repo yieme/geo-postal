@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6537"]={"code":"6537","region":"Western Australia","city":"Denham","latitude":-25.9247,"longitude":113.53642}}(window,'GeoPostal','AU');

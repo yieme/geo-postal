@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67122"]={"code":"67122","region":"Kansas","city":"Piedmont","latitude":37.636459,"longitude":-96.41223}}(window,'GeoPostal','US');

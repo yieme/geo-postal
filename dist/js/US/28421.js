@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28421"]={"code":"28421","region":"NC","city":"Atkinson","latitude":34.5304,"longitude":-78.1671}}(window,'GeoPostal','US');

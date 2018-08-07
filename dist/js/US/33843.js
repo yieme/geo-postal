@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33843"]={"code":"33843","region":"FL","city":"Frostproof","latitude":27.7211,"longitude":-81.5148}}(window,'GeoPostal','US');

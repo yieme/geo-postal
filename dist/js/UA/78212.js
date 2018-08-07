@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78212"]={"code":"78212","region":"Ivano-Frankivska oblast","city":"Kolomyya","latitude":48.53115,"longitude":25.03649}}(window,'GeoPostal','UA');

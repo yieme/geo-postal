@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45645"]={"code":"45645","region":"Ohio","city":"Kitts Hill","latitude":38.576124,"longitude":-82.530861}}(window,'GeoPostal','US');

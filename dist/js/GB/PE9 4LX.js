@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 4LX"]={"code":"PE9 4LX","region":"England","city":"Carlby","latitude":52.71384,"longitude":-0.44649}}(window,'GeoPostal','GB');

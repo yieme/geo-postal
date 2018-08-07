@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6409"]={"code":"6409","region":"Buenos Aires","city":"Tres Lomas","latitude":-36.45722,"longitude":-62.86047}}(window,'GeoPostal','AR');

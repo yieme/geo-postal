@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA11 4HU"]={"code":"SA11 4HU","region":"Wales","city":"Resolven","latitude":51.71193,"longitude":-3.69745}}(window,'GeoPostal','GB');

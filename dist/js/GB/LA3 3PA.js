@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA3 3PA"]={"code":"LA3 3PA","region":"England","city":"Morecambe","latitude":54.06835,"longitude":-2.86108}}(window,'GeoPostal','GB');

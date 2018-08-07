@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37688"]={"code":"37688","region":"Nordrhein-Westfalen","city":"Beverungen","latitude":51.66801,"longitude":9.37417}}(window,'GeoPostal','DE');

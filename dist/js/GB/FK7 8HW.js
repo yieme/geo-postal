@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK7 8HW"]={"code":"FK7 8HW","region":"Scotland","city":"Stirling","latitude":56.11903,"longitude":-3.93682}}(window,'GeoPostal','GB');

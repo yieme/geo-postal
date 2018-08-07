@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["110-615"]={"code":"110-615","region":"Chungcheongnam-do","city":"Tangjin","latitude":36.89444,"longitude":126.62972}}(window,'GeoPostal','KR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79713"]={"code":"79713","region":"Texas","city":"Ackerly","latitude":32.633185,"longitude":-101.802122}}(window,'GeoPostal','US');

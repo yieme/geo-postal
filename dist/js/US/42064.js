@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42064"]={"code":"42064","region":"Kentucky","city":"Marion","latitude":37.33283,"longitude":-88.08113}}(window,'GeoPostal','US');

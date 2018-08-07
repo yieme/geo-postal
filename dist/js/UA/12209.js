@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12209"]={"code":"12209","region":"Zhytomyrska oblast","city":"Radomyshl'","latitude":50.49613,"longitude":29.22911}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9425"]={"code":"9425","region":"Sankt Gallen","city":"Rheineck","latitude":47.4663,"longitude":9.59028}}(window,'GeoPostal','CH');

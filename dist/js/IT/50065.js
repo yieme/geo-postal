@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50065"]={"code":"50065","region":"Toscana","city":"Pontassieve","latitude":43.77365,"longitude":11.42823}}(window,'GeoPostal','IT');

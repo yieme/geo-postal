@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67443"]={"code":"67443","region":"Kansas","city":"Galva","latitude":38.389032,"longitude":-97.549919}}(window,'GeoPostal','US');

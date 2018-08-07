@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9S 3A3"]={"code":"T9S 3A3","region":"Alberta","city":"Athabasca","latitude":54.721298,"longitude":-113.285597}}(window,'GeoPostal','CA');

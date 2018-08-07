@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63300"]={"code":"63300","region":"Auvergne-Rhone-Alpes","city":"Escoutoux","latitude":45.82075,"longitude":3.56415}}(window,'GeoPostal','FR');

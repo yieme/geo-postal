@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27356"]={"code":"27356","region":"Niedersachsen","city":"Rotenburg","latitude":53.11125,"longitude":9.41082}}(window,'GeoPostal','DE');

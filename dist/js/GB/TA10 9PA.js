@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA10 9PA"]={"code":"TA10 9PA","region":"England","city":"Langport","latitude":51.03778,"longitude":-2.82806}}(window,'GeoPostal','GB');

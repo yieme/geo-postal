@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75931"]={"code":"75931","region":"Texas","city":"Brookeland","latitude":31.15278,"longitude":-93.99361}}(window,'GeoPostal','US');

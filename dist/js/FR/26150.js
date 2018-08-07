@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26150"]={"code":"26150","region":"Auvergne-Rhone-Alpes","city":"Die","latitude":44.75,"longitude":5.36667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00841"]={"code":"00841","region":"VI","city":"Frederiksted","latitude":17.71,"longitude":-64.88}}(window,'GeoPostal','US');

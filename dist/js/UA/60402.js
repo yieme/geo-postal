@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60402"]={"code":"60402","region":"Chernivetska oblast","city":"Hlyboka","latitude":48.08971,"longitude":25.92933}}(window,'GeoPostal','UA');

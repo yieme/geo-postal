@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83423"]={"code":"83423","region":"Idaho","city":"Dubois","latitude":44.176182,"longitude":-112.228652}}(window,'GeoPostal','US');

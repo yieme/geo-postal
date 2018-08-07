@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85169"]={"code":"85169","region":"Pays-de-la-Loire","city":"Saint-Jean-de-Monts","latitude":46.79088,"longitude":-2.08219}}(window,'GeoPostal','FR');

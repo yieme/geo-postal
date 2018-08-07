@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64013"]={"code":"64013","region":"Abruzzo","city":"Corropoli","latitude":42.82945,"longitude":13.83199}}(window,'GeoPostal','IT');

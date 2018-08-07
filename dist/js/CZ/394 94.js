@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394 94"]={"code":"394 94","region":"Kraj Vysocina","city":"Cernovice","latitude":49.37265,"longitude":14.96089}}(window,'GeoPostal','CZ');

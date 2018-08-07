@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33031"]={"code":"33031","region":"Florida","city":"Redland","latitude":25.528,"longitude":-80.49}}(window,'GeoPostal','US');

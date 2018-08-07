@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35280"]={"code":"35280","region":"Canarias","city":"Santa Lucia","latitude":27.91174,"longitude":-15.54071}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["320 09"]={"code":"320 09","region":"Sterea Ellada","city":"Skhimatarion","latitude":38.35,"longitude":23.58333}}(window,'GeoPostal','GR');

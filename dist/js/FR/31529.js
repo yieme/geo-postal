@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31529"]={"code":"31529","region":"Occitanie","city":"Ramonville-Saint-Agne","latitude":43.54618,"longitude":1.47491}}(window,'GeoPostal','FR');

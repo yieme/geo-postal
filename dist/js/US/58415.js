@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58415"]={"code":"58415","region":"North Dakota","city":"Lamoure","latitude":46.3974,"longitude":-98.28324}}(window,'GeoPostal','US');

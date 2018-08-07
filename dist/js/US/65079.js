@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65079"]={"code":"65079","region":"Missouri","city":"Sunrise Beach","latitude":38.17972,"longitude":-92.7725}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85461"]={"code":"85461","region":"Bayern","city":"Oberstrogn","latitude":48.32207,"longitude":11.97347}}(window,'GeoPostal','DE');

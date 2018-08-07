@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632 00"]={"code":"632 00","region":"Kentriki Makedonia","city":"Nea Fokaia","latitude":40.13333,"longitude":23.4}}(window,'GeoPostal','GR');

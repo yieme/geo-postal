@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81390"]={"code":"81390","region":"Occitanie","city":"Briatexte","latitude":43.75237,"longitude":1.90879}}(window,'GeoPostal','FR');

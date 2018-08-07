@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21001"]={"code":"21001","region":"Skikda","city":"Azzaba","latitude":36.73944,"longitude":7.10528}}(window,'GeoPostal','DZ');

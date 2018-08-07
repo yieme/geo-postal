@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-420"]={"code":"58-420","region":"Dolnoslaskie","city":"Lubawka","latitude":50.70456,"longitude":16.00026}}(window,'GeoPostal','PL');

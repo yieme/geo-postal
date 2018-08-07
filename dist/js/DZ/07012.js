@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07012"]={"code":"07012","region":"Biskra","city":"Zeribet el Oued","latitude":34.68284,"longitude":6.51109}}(window,'GeoPostal','DZ');

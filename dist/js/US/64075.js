@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64075"]={"code":"64075","region":"MO","city":"Oak Grove","latitude":38.9985,"longitude":-94.1399}}(window,'GeoPostal','US');

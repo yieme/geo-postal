@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31000"]={"code":"31000","region":"Prizrenski okrug","city":"Istok","latitude":42.78083,"longitude":20.4875}}(window,'GeoPostal','RS');

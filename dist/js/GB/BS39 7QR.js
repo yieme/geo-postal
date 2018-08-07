@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS39 7QR"]={"code":"BS39 7QR","region":"England","city":"Paulton","latitude":51.30472,"longitude":-2.50028}}(window,'GeoPostal','GB');

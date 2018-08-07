@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72669"]={"code":"72669","region":"AR","city":"Pindall","latitude":36.0675,"longitude":-92.8864}}(window,'GeoPostal','US');

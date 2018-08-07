@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03047"]={"code":"03047","region":"New Hampshire","city":"Greenfield","latitude":42.951207,"longitude":-71.90789}}(window,'GeoPostal','US');

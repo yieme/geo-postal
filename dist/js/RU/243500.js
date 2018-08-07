@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243500"]={"code":"243500","region":"Bryanskaya oblast'","city":"Surazh","latitude":53.01747,"longitude":32.39178}}(window,'GeoPostal','RU');

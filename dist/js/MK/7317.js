@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7317"]={"code":"7317","region":"Resen","city":"Krani","latitude":40.93944,"longitude":21.10861}}(window,'GeoPostal','MK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717423"]={"code":"717423","region":"Botosani","city":"Ungureni-Jianu","latitude":47.88333,"longitude":26.78333}}(window,'GeoPostal','RO');

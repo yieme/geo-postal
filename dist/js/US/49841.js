@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49841"]={"code":"49841","region":"Michigan","city":"Gwinn","latitude":46.32384,"longitude":-87.48036}}(window,'GeoPostal','US');

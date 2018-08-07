@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71513"]={"code":"71513","region":"Oaxaca","city":"San Jacinto Ocotlan","latitude":16.8,"longitude":-96.71667}}(window,'GeoPostal','MX');

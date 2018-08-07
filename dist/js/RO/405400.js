@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["405400"]={"code":"405400","region":"Cluj","city":"Huedin","latitude":46.86667,"longitude":23.05}}(window,'GeoPostal','RO');

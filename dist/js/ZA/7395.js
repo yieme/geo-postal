@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7395"]={"code":"7395","region":"Western Cape","city":"Saldanha","latitude":-33.01167,"longitude":17.9442}}(window,'GeoPostal','ZA');

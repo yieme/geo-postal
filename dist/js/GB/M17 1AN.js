@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M17 1AN"]={"code":"M17 1AN","region":"England","city":"Trafford Park","latitude":53.46879,"longitude":-2.31194}}(window,'GeoPostal','GB');

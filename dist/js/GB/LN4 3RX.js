@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN4 3RX"]={"code":"LN4 3RX","region":"England","city":"Timberland","latitude":53.11203,"longitude":-0.32912}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52050"]={"code":"52050","region":"Vastra Gotalands lan","city":"Akarp","latitude":58.23333,"longitude":13.65}}(window,'GeoPostal','SE');

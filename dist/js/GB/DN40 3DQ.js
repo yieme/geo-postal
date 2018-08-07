@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN40 3DQ"]={"code":"DN40 3DQ","region":"England","city":"Grimsby","latitude":53.56539,"longitude":-0.07553}}(window,'GeoPostal','GB');

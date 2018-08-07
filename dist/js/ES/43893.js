@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43893"]={"code":"43893","region":"Catalunya","city":"Altafulla","latitude":41.14286,"longitude":1.37269}}(window,'GeoPostal','ES');

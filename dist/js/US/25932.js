@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25932"]={"code":"25932","region":"WV","city":"Surveyor","latitude":37.7565,"longitude":-81.3092}}(window,'GeoPostal','US');

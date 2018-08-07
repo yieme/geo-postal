@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99557"]={"code":"99557","region":"AK","city":"Aniak","latitude":61.5783,"longitude":-159.5222}}(window,'GeoPostal','US');

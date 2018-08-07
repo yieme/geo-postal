@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0K 1X0"]={"code":"B0K 1X0","region":"Nova Scotia","city":"Hillside","latitude":45.61332,"longitude":-62.63014}}(window,'GeoPostal','CA');

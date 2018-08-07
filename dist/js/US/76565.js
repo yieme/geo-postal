@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76565"]={"code":"76565","region":"TX","city":"Pottsville","latitude":31.6732,"longitude":-98.3256}}(window,'GeoPostal','US');

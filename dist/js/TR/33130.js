@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33130"]={"code":"33130","region":"Mersin","city":"Mercin","latitude":36.79526,"longitude":34.61792}}(window,'GeoPostal','TR');

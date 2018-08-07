@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28774"]={"code":"28774","region":"North Carolina","city":"Sapphire","latitude":35.105013,"longitude":-82.979029}}(window,'GeoPostal','US');

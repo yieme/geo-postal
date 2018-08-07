@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43766"]={"code":"43766","region":"OH","city":"New Straitsville","latitude":39.5869,"longitude":-82.2488}}(window,'GeoPostal','US');

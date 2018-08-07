@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83803"]={"code":"83803","region":"ID","city":"Bayview","latitude":47.9822,"longitude":-116.5494}}(window,'GeoPostal','US');

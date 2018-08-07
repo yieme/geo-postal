@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9920"]={"code":"9920","region":"Tirol","city":"Sillian","latitude":46.75278,"longitude":12.42111}}(window,'GeoPostal','AT');

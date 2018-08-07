@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08861"]={"code":"08861","region":"New Jersey","city":"Perth Amboy","latitude":40.50677,"longitude":-74.26542}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16259"]={"code":"16259","region":"Pennsylvania","city":"Templeton","latitude":40.948237,"longitude":-79.453421}}(window,'GeoPostal','US');

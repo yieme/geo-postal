@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39593"]={"code":"39593","region":"Cantabria","city":"Arenas de Iguna","latitude":43.18293,"longitude":-4.04729}}(window,'GeoPostal','ES');

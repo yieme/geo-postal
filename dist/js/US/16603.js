@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16603"]={"code":"16603","region":"PA","city":"Altoona","latitude":40.5018,"longitude":-78.41}}(window,'GeoPostal','US');

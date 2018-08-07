@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91366"]={"code":"91366","region":"Sulawesi Barat","city":"Mamasa","latitude":-2.942,"longitude":119.3776}}(window,'GeoPostal','ID');

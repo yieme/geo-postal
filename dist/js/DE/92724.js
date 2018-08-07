@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92724"]={"code":"92724","region":"Bayern","city":"Feilersdorf","latitude":49.77996,"longitude":11.89771}}(window,'GeoPostal','DE');

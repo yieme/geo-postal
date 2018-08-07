@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0E 0L0"]={"code":"S0E 0L0","region":"Saskatchewan","city":"Carrot River","latitude":53.28337,"longitude":-103.58423}}(window,'GeoPostal','CA');

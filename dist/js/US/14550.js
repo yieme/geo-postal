@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14550"]={"code":"14550","region":"New York","city":"Silver Springs","latitude":42.67608,"longitude":-78.09372}}(window,'GeoPostal','US');

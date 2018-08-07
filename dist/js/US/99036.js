@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99036"]={"code":"99036","region":"WA","city":"Valleyford","latitude":47.5292,"longitude":-117.2686}}(window,'GeoPostal','US');

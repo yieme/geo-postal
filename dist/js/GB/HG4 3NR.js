@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG4 3NR"]={"code":"HG4 3NR","region":"England","city":"Winksley","latitude":54.13666,"longitude":-1.61764}}(window,'GeoPostal','GB');

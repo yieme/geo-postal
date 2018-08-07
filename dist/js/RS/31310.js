@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31310"]={"code":"31310","region":"Zlatiborski okrug","city":"Cajetina","latitude":43.75572,"longitude":19.72544}}(window,'GeoPostal','RS');

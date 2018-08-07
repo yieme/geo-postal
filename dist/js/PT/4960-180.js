@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4960-180"]={"code":"4960-180","region":"Viana do Castelo","city":"Mozelos","latitude":41.86774,"longitude":-8.39776}}(window,'GeoPostal','PT');

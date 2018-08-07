@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17202"]={"code":"17202","region":"Pennsylvania","city":"Chambersburg","latitude":39.9072,"longitude":-77.636}}(window,'GeoPostal','US');

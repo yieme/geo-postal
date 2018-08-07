@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3942"]={"code":"3942","region":"Victoria","city":"Blairgowrie","latitude":-38.36131,"longitude":144.77955}}(window,'GeoPostal','AU');

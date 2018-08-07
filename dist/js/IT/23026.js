@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23026"]={"code":"23026","region":"Lombardia","city":"Ponte in Valtellina","latitude":46.175,"longitude":9.97785}}(window,'GeoPostal','IT');

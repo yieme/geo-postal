@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK11 7PT"]={"code":"SK11 7PT","region":"England","city":"Macclesfield","latitude":53.26023,"longitude":-2.12564}}(window,'GeoPostal','GB');

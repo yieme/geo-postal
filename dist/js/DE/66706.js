@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66706"]={"code":"66706","region":"Saarland","city":"Besch","latitude":49.50258,"longitude":6.3719}}(window,'GeoPostal','DE');

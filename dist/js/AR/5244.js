@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5244"]={"code":"5244","region":"Cordoba","city":"San Jose de la Dormida","latitude":-30.3544,"longitude":-63.94872}}(window,'GeoPostal','AR');

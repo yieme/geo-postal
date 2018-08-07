@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54439"]={"code":"54439","region":"Rheinland-Pfalz","city":"Wehr","latitude":49.58825,"longitude":6.37962}}(window,'GeoPostal','DE');

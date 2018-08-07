@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95061"]={"code":"95061","region":"California","city":"Pasatiempo","latitude":37.00439,"longitude":-122.0258}}(window,'GeoPostal','US');

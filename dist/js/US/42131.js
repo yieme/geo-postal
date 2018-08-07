@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42131"]={"code":"42131","region":"Kentucky","city":"Etoile","latitude":36.81346,"longitude":-85.911322}}(window,'GeoPostal','US');

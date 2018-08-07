@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43006"]={"code":"43006","region":"OH","city":"Brinkhaven","latitude":40.4583,"longitude":-82.1553}}(window,'GeoPostal','US');

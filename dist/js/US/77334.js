@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77334"]={"code":"77334","region":"TX","city":"Dodge","latitude":30.772,"longitude":-95.3838}}(window,'GeoPostal','US');

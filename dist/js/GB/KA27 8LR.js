@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA27 8LR"]={"code":"KA27 8LR","region":"Scotland","city":"Lamlash","latitude":55.53358,"longitude":-5.12956}}(window,'GeoPostal','GB');

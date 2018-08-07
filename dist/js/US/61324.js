@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61324"]={"code":"61324","region":"IL","city":"Eldena","latitude":41.7711,"longitude":-89.4123}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48705"]={"code":"48705","region":"MI","city":"Barton City","latitude":44.702,"longitude":-83.5994}}(window,'GeoPostal','US');

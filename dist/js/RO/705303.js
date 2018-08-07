@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["705303"]={"code":"705303","region":"Iasi","city":"Tirgu Frumos","latitude":47.2,"longitude":27}}(window,'GeoPostal','RO');

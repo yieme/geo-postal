@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FY8 3LQ"]={"code":"FY8 3LQ","region":"England","city":"Saint Annes on the Sea","latitude":53.75,"longitude":-3.01667}}(window,'GeoPostal','GB');

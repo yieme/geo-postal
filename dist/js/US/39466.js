@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39466"]={"code":"39466","region":"Mississippi","city":"Picayune","latitude":30.52547,"longitude":-89.67951}}(window,'GeoPostal','US');

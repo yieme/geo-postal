@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13809"]={"code":"13809","region":"NY","city":"Mount Upton","latitude":42.4081,"longitude":-75.4003}}(window,'GeoPostal','US');

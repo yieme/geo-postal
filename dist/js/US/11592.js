@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11592"]={"code":"11592","region":"NY","city":"Rockville Center","latitude":40.75,"longitude":-73.57}}(window,'GeoPostal','US');

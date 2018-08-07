@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-130"]={"code":"83-130","region":"Pomorskie","city":"Pelplin","latitude":53.92834,"longitude":18.6977}}(window,'GeoPostal','PL');

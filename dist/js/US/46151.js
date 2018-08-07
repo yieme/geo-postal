@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46151"]={"code":"46151","region":"Indiana","city":"Martinsville","latitude":39.4107,"longitude":-86.46318}}(window,'GeoPostal','US');

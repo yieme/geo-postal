@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40006"]={"code":"40006","region":"Kentucky","city":"Bedford","latitude":38.59256,"longitude":-85.31773}}(window,'GeoPostal','US');

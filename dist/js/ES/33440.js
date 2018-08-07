@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33440"]={"code":"33440","region":"Asturias, Principado de","city":"Luanco","latitude":43.61517,"longitude":-5.79344}}(window,'GeoPostal','ES');

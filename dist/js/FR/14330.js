@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14330"]={"code":"14330","region":"Normandie","city":"Le Molay-Littry","latitude":49.24265,"longitude":-0.87238}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7091"]={"code":"7091","region":"Tolna","city":"Tamasi","latitude":46.63333,"longitude":18.28333}}(window,'GeoPostal','HU');

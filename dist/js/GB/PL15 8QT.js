@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL15 8QT"]={"code":"PL15 8QT","region":"England","city":"Tresmeer","latitude":50.65961,"longitude":-4.50114}}(window,'GeoPostal','GB');

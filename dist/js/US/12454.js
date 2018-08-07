@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12454"]={"code":"12454","region":"NY","city":"Maplecrest","latitude":42.2995,"longitude":-74.1655}}(window,'GeoPostal','US');

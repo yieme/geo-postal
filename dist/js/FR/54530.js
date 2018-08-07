@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54530"]={"code":"54530","region":"Grand-Est","city":"Pagny-sur-Moselle","latitude":48.98349,"longitude":6.02084}}(window,'GeoPostal','FR');

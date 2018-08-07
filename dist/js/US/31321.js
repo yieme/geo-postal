@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31321"]={"code":"31321","region":"Georgia","city":"Pembroke","latitude":32.135227,"longitude":-81.625174}}(window,'GeoPostal','US');

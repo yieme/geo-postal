@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO21 3RQ"]={"code":"SO21 3RQ","region":"England","city":"Barton Stacey","latitude":51.1667,"longitude":-1.37848}}(window,'GeoPostal','GB');

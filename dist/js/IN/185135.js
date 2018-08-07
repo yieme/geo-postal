@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["185135"]={"code":"185135","region":"Jammu and Kashmir","city":"Thanna Mandi","latitude":33.55,"longitude":74.38333}}(window,'GeoPostal','IN');

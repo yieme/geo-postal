@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2260"]={"code":"2260","region":"Tozeur","city":"Degache","latitude":33.97606,"longitude":8.2081}}(window,'GeoPostal','TN');

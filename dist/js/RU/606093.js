@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606093"]={"code":"606093","region":"Nizhegorodskaya oblast'","city":"Reshetikha","latitude":56.21889,"longitude":43.29361}}(window,'GeoPostal','RU');

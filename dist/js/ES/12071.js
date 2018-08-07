@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12071"]={"code":"12071","region":"Valenciana, Comunidad","city":"Villanueva de Castellon","latitude":39.07741,"longitude":-0.51167}}(window,'GeoPostal','ES');

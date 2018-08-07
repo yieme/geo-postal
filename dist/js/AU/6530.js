@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6530"]={"code":"6530","region":"Western Australia","city":"Geraldton","latitude":-28.77897,"longitude":114.61459}}(window,'GeoPostal','AU');

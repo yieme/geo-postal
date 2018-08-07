@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE25 8UG"]={"code":"NE25 8UG","region":"England","city":"Whitley Bay","latitude":55.03973,"longitude":-1.44713}}(window,'GeoPostal','GB');

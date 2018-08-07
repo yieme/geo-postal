@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33849"]={"code":"33849","region":"FL","city":"Kathleen","latitude":28.1975,"longitude":-82.0396}}(window,'GeoPostal','US');

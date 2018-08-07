@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["477445"]={"code":"477445","region":"Madhya Pradesh","city":"Seondha","latitude":26.15778,"longitude":78.77972}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21000"]={"code":"21000","region":"Rayong","city":"Rayong","latitude":12.68095,"longitude":101.25798}}(window,'GeoPostal','TH');

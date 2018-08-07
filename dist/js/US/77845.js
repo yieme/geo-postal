@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77845"]={"code":"77845","region":"Texas","city":"College Station","latitude":30.583848,"longitude":-96.292449}}(window,'GeoPostal','US');

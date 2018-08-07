@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79086"]={"code":"79086","region":"Texas","city":"Sunray","latitude":36.0167,"longitude":-101.82462}}(window,'GeoPostal','US');

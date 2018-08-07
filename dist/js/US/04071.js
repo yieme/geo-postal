@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04071"]={"code":"04071","region":"ME","city":"Raymond","latitude":43.9219,"longitude":-70.4498}}(window,'GeoPostal','US');

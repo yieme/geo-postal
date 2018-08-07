@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4514"]={"code":"4514","region":"Jujuy","city":"Calilegua","latitude":-23.77368,"longitude":-64.77002}}(window,'GeoPostal','AR');

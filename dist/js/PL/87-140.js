@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-140"]={"code":"87-140","region":"Kujawsko-pomorskie","city":"Chelmza","latitude":53.18463,"longitude":18.60466}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47490"]={"code":"47490","region":"Castilla y Leon","city":"Rueda","latitude":41.41232,"longitude":-4.95884}}(window,'GeoPostal','ES');

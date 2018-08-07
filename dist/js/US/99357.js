@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99357"]={"code":"99357","region":"WA","city":"Royal City","latitude":46.9156,"longitude":-119.5815}}(window,'GeoPostal','US');

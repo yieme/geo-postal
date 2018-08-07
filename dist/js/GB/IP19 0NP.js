@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP19 0NP"]={"code":"IP19 0NP","region":"England","city":"Rumburgh","latitude":52.37974,"longitude":1.4459}}(window,'GeoPostal','GB');

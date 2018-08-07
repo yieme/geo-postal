@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 0JR"]={"code":"HS2 0JR","region":"Scotland","city":"Back","latitude":58.26667,"longitude":-6.31667}}(window,'GeoPostal','GB');

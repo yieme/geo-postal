@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300 06"]={"code":"300 06","region":"Dytiki Ellada","city":"Astakos","latitude":38.53556,"longitude":21.08135}}(window,'GeoPostal','GR');

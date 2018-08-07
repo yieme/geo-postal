@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417060"]={"code":"417060","region":"Bihor","city":"Boianu Mare","latitude":47.38333,"longitude":22.53333}}(window,'GeoPostal','RO');

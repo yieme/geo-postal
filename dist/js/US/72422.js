@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72422"]={"code":"72422","region":"Arkansas","city":"Corning","latitude":36.41066,"longitude":-90.588674}}(window,'GeoPostal','US');

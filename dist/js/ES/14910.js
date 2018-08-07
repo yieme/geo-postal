@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14910"]={"code":"14910","region":"Andalucia","city":"Benameji","latitude":37.26833,"longitude":-4.54123}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-300"]={"code":"09-300","region":"Mazowieckie","city":"Zuromin","latitude":53.06611,"longitude":19.90894}}(window,'GeoPostal','PL');

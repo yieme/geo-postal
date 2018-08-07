@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21862"]={"code":"21862","region":"MD","city":"Showell","latitude":38.4003,"longitude":-75.2166}}(window,'GeoPostal','US');

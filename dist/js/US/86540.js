@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86540"]={"code":"86540","region":"Arizona","city":"Nazlini","latitude":35.91472,"longitude":-109.46417}}(window,'GeoPostal','US');

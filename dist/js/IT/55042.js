@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55042"]={"code":"55042","region":"Toscana","city":"Forte dei Marmi","latitude":43.96484,"longitude":10.1724}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5723"]={"code":"5723","region":"South Australia","city":"Coober Pedy","latitude":-29.01415,"longitude":134.75495}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38547"]={"code":"38547","region":"TN","city":"Brush Creek","latitude":36.1107,"longitude":-86.0203}}(window,'GeoPostal','US');

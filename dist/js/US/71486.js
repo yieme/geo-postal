@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71486"]={"code":"71486","region":"Louisiana","city":"Zwolle","latitude":31.63156,"longitude":-93.64407}}(window,'GeoPostal','US');

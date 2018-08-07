@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72576"]={"code":"72576","region":"Arkansas","city":"Salem","latitude":36.369806,"longitude":-91.826025}}(window,'GeoPostal','US');

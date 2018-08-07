@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56856"]={"code":"56856","region":"Rheinland-Pfalz","city":"Merl","latitude":50.04017,"longitude":7.16889}}(window,'GeoPostal','DE');

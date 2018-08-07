@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["290000"]={"code":"290000","region":"Phu Tho","city":"Viet Tri","latitude":21.30194,"longitude":105.43083}}(window,'GeoPostal','VN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 62"]={"code":"696 62","region":"Jihomoravsky kraj","city":"Straznice","latitude":48.90102,"longitude":17.3168}}(window,'GeoPostal','CZ');

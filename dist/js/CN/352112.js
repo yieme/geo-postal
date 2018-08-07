@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352112"]={"code":"352112","region":"Fujian","city":"Huotong","latitude":26.84972,"longitude":119.41806}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV16 5JU"]={"code":"WV16 5JU","region":"England","city":"Eardington","latitude":52.5141,"longitude":-2.41211}}(window,'GeoPostal','GB');

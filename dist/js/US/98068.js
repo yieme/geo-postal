@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98068"]={"code":"98068","region":"Washington","city":"Snoqualmie Pass","latitude":47.39222,"longitude":-121.4}}(window,'GeoPostal','US');

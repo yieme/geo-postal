@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572813"]={"code":"572813","region":"Hainan","city":"Yacha","latitude":19.23056,"longitude":109.4475}}(window,'GeoPostal','CN');

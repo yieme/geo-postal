@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75077"]={"code":"75077","region":"Texas","city":"Highland Village","latitude":33.09179,"longitude":-97.04668}}(window,'GeoPostal','US');

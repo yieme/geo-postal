@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72845"]={"code":"72845","region":"AR","city":"Knoxville","latitude":35.3749,"longitude":-93.3618}}(window,'GeoPostal','US');

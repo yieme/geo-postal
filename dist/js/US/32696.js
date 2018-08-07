@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32696"]={"code":"32696","region":"Florida","city":"Williston","latitude":29.38747,"longitude":-82.44677}}(window,'GeoPostal','US');

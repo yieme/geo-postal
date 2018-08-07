@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73620"]={"code":"73620","region":"Oklahoma","city":"Arapaho","latitude":35.57783,"longitude":-98.96453}}(window,'GeoPostal','US');

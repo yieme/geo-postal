@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3380"]={"code":"3380","region":"Niederosterreich","city":"Erlauf","latitude":48.18333,"longitude":15.18333}}(window,'GeoPostal','AT');

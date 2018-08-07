@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90356"]={"code":"90356","region":"Tlaxcala","city":"Tlaxco de Morelos","latitude":19.61667,"longitude":-98.11667}}(window,'GeoPostal','MX');

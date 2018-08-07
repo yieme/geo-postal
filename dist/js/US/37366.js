@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37366"]={"code":"37366","region":"TN","city":"Pelham","latitude":35.314,"longitude":-85.8441}}(window,'GeoPostal','US');

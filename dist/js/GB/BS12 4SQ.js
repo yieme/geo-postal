@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS12 4SQ"]={"code":"BS12 4SQ","region":"England","city":"Almondsbury","latitude":51.55407,"longitude":-2.57114}}(window,'GeoPostal','GB');

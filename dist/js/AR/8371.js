@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8371"]={"code":"8371","region":"Neuquen","city":"Junin de los Andes","latitude":-39.95043,"longitude":-71.06936}}(window,'GeoPostal','AR');

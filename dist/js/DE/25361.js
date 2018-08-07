@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25361"]={"code":"25361","region":"Schleswig-Holstein","city":"Krempe","latitude":53.83694,"longitude":9.4883}}(window,'GeoPostal','DE');

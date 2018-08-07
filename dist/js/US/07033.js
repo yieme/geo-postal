@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07033"]={"code":"07033","region":"New Jersey","city":"Kenilworth","latitude":40.675306,"longitude":-74.292825}}(window,'GeoPostal','US');

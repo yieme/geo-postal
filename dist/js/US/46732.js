@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46732"]={"code":"46732","region":"IN","city":"Cromwell","latitude":41.3751,"longitude":-85.6031}}(window,'GeoPostal','US');

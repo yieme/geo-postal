@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64402"]={"code":"64402","region":"Missouri","city":"Albany","latitude":40.24861,"longitude":-94.33107}}(window,'GeoPostal','US');

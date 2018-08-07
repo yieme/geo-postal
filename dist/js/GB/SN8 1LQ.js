@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN8 1LQ"]={"code":"SN8 1LQ","region":"England","city":"Marlborough","latitude":51.42062,"longitude":-1.72751}}(window,'GeoPostal','GB');

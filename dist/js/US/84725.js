@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84725"]={"code":"84725","region":"Utah","city":"Enterprise","latitude":37.57359,"longitude":-113.71913}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68202"]={"code":"68202","region":"Odeska oblast","city":"Sarata","latitude":46.01966,"longitude":29.66567}}(window,'GeoPostal','UA');

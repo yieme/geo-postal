@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37730"]={"code":"37730","region":"TN","city":"Eagan","latitude":36.552,"longitude":-83.9769}}(window,'GeoPostal','US');

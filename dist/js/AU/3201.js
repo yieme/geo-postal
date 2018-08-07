@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3201"]={"code":"3201","region":"Victoria","city":"Skye","latitude":-38.10505,"longitude":145.2163}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55922"]={"code":"55922","region":"MN","city":"Canton","latitude":43.5667,"longitude":-91.913}}(window,'GeoPostal','US');

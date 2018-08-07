@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07626"]={"code":"07626","region":"New Jersey","city":"Cresskill","latitude":40.942313,"longitude":-73.963338}}(window,'GeoPostal','US');

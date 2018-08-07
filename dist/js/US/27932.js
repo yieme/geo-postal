@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27932"]={"code":"27932","region":"North Carolina","city":"Edenton","latitude":36.116951,"longitude":-76.643645}}(window,'GeoPostal','US');

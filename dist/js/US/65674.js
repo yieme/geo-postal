@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65674"]={"code":"65674","region":"Missouri","city":"Humansville","latitude":37.79448,"longitude":-93.57798}}(window,'GeoPostal','US');

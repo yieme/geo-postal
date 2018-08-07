@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26170"]={"code":"26170","region":"Auvergne-Rhone-Alpes","city":"Buis-les-Baronnies","latitude":44.27373,"longitude":5.2722}}(window,'GeoPostal','FR');

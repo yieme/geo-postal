@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23106"]={"code":"23106","region":"VA","city":"Manquin","latitude":37.7184,"longitude":-77.186}}(window,'GeoPostal','US');

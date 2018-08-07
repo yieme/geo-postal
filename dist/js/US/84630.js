@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84630"]={"code":"84630","region":"UT","city":"Fayette","latitude":39.2315,"longitude":-111.8497}}(window,'GeoPostal','US');

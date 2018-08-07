@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97792"]={"code":"97792","region":"Bayern","city":"Oberriedenberg","latitude":50.33333,"longitude":9.86667}}(window,'GeoPostal','DE');

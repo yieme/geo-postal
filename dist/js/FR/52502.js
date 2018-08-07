@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52502"]={"code":"52502","region":"Grand-Est","city":"Fayl-Billot","latitude":47.78199,"longitude":5.59917}}(window,'GeoPostal','FR');

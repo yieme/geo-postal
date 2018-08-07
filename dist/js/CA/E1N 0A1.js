@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E1N 0A1"]={"code":"E1N 0A1","region":"New Brunswick","city":"Miramichi","latitude":47.00431,"longitude":-65.46544}}(window,'GeoPostal','CA');

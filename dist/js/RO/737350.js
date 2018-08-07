@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737350"]={"code":"737350","region":"Vaslui","city":"Malusteni","latitude":46.18333,"longitude":27.91667}}(window,'GeoPostal','RO');

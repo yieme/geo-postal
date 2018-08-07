@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45240"]={"code":"45240","region":"Laane-Virumaa","city":"Kadrina","latitude":59.33472,"longitude":26.145}}(window,'GeoPostal','EE');

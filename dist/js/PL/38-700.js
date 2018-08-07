@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-700"]={"code":"38-700","region":"Podkarpackie","city":"Ustrzyki Dolne","latitude":49.4304,"longitude":22.59381}}(window,'GeoPostal','PL');

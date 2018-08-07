@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4807"]={"code":"4807","region":"Queensland","city":"Ayr","latitude":-19.57393,"longitude":147.40666}}(window,'GeoPostal','AU');

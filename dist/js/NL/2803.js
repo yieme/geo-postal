@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2803"]={"code":"2803","region":"Noord-Holland","city":"Bloemendaal","latitude":52.4025,"longitude":4.62222}}(window,'GeoPostal','NL');

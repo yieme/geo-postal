@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67690"]={"code":"67690","region":"Grand-Est","city":"Hatten","latitude":48.9025,"longitude":7.9797}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56382"]={"code":"56382","region":"Minnesota","city":"Swanville","latitude":45.947677,"longitude":-94.62552}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20373"]={"code":"20373","region":"DC","city":"Naval Anacost Annex","latitude":38.8951,"longitude":-77.0364}}(window,'GeoPostal','US');

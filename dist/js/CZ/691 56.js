@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["691 56"]={"code":"691 56","region":"Jihomoravsky kraj","city":"Hrusky","latitude":48.79272,"longitude":16.97404}}(window,'GeoPostal','CZ');

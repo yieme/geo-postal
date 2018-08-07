@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32021"]={"code":"32021","region":"Veneto","city":"Agordo","latitude":46.28556,"longitude":12.0375}}(window,'GeoPostal','IT');

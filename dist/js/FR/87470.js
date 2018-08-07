@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87470"]={"code":"87470","region":"Nouvelle-Aquitaine","city":"Peyrat-le-Chateau","latitude":45.81578,"longitude":1.77233}}(window,'GeoPostal','FR');

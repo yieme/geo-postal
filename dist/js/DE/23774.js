@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23774"]={"code":"23774","region":"Schleswig-Holstein","city":"Heiligenhafen","latitude":54.36964,"longitude":10.98022}}(window,'GeoPostal','DE');

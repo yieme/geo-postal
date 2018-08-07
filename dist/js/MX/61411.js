@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61411"]={"code":"61411","region":"Michoacan de Ocampo","city":"Mineral de Angangueo","latitude":19.62056,"longitude":-100.28436}}(window,'GeoPostal','MX');

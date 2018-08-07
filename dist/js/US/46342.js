@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46342"]={"code":"46342","region":"Indiana","city":"Hobart","latitude":41.53226,"longitude":-87.25504}}(window,'GeoPostal','US');

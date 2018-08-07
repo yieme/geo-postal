@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47250"]={"code":"47250","region":"Sakon Nakhon","city":"Kham Ta Kla","latitude":17.85231,"longitude":103.75657}}(window,'GeoPostal','TH');

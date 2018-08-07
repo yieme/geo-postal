@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79546"]={"code":"79546","region":"Texas","city":"Rotan","latitude":32.85205,"longitude":-100.46566}}(window,'GeoPostal','US');

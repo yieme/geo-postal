@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63088"]={"code":"63088","region":"MO","city":"Valley Park","latitude":38.5576,"longitude":-90.4924}}(window,'GeoPostal','US');

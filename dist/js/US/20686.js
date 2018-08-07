@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20686"]={"code":"20686","region":"Maryland","city":"Saint Marys City","latitude":38.18917,"longitude":-76.43222}}(window,'GeoPostal','US');

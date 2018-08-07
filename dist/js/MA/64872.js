@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64872"]={"code":"64872","region":"L'Oriental","city":"Tiouli","latitude":34.36679,"longitude":-1.83705}}(window,'GeoPostal','MA');

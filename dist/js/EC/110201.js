@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["110201"]={"code":"110201","region":"Loja","city":"Cariamanga","latitude":-4.33333,"longitude":-79.55}}(window,'GeoPostal','EC');

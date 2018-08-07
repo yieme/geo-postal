@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12174"]={"code":"12174","region":"NY","city":"Stuyvesant Falls","latitude":42.344,"longitude":-73.7348}}(window,'GeoPostal','US');

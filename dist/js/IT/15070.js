@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15070"]={"code":"15070","region":"Piemonte","city":"Tagliolo Monferrato","latitude":44.63835,"longitude":8.66585}}(window,'GeoPostal','IT');

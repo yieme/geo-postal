@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95382"]={"code":"95382","region":"California","city":"Turlock","latitude":37.519912,"longitude":-120.8502}}(window,'GeoPostal','US');

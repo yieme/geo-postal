@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["389145"]={"code":"389145","region":"Gujarat","city":"Devgadh Bariya","latitude":22.7,"longitude":73.9}}(window,'GeoPostal','IN');

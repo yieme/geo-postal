@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676020"]={"code":"676020","region":"Amurskaya oblast'","city":"Urusha","latitude":54.05,"longitude":122.9}}(window,'GeoPostal','RU');

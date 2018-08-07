@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["510970"]={"code":"510970","region":"Shaanxi","city":"Nanfang","latitude":34.70861,"longitude":108.33306}}(window,'GeoPostal','CN');

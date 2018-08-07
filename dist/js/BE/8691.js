@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8691"]={"code":"8691","region":"West-Vlaanderen","city":"Alveringem","latitude":51.01238,"longitude":2.71117}}(window,'GeoPostal','BE');

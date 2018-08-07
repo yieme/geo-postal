@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70734"]={"code":"70734","region":"LA","city":"Geismar","latitude":30.2196,"longitude":-91.0079}}(window,'GeoPostal','US');

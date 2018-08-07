@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6923"]={"code":"6923","region":"Vorarlberg","city":"Lauterach","latitude":47.48306,"longitude":9.73306}}(window,'GeoPostal','AT');

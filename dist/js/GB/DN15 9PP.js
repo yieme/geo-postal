@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN15 9PP"]={"code":"DN15 9PP","region":"England","city":"Winterton","latitude":53.65497,"longitude":-0.59885}}(window,'GeoPostal','GB');

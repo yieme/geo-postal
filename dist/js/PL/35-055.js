@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35-055"]={"code":"35-055","region":"Podkarpackie","city":"Zurawica","latitude":49.82348,"longitude":22.78925}}(window,'GeoPostal','PL');

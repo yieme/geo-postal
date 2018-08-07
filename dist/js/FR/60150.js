@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60150"]={"code":"60150","region":"Hauts-de-France","city":"Coudun","latitude":49.46146,"longitude":2.81248}}(window,'GeoPostal','FR');

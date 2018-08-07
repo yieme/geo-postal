@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23317"]={"code":"23317","region":"Baja California Sur","city":"Todos Santos","latitude":23.45,"longitude":-110.21667}}(window,'GeoPostal','MX');

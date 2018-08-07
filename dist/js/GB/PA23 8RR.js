@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA23 8RR"]={"code":"PA23 8RR","region":"Scotland","city":"Strone","latitude":55.98585,"longitude":-4.90624}}(window,'GeoPostal','GB');

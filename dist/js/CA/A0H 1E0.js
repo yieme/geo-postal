@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0H 1E0"]={"code":"A0H 1E0","region":"Newfoundland and Labrador","city":"Botwood","latitude":49.14994,"longitude":-55.34819}}(window,'GeoPostal','CA');

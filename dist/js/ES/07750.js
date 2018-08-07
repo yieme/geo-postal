@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07750"]={"code":"07750","region":"Illes Balears","city":"Ferreries","latitude":39.98324,"longitude":4.01181}}(window,'GeoPostal','ES');

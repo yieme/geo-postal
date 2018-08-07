@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69360"]={"code":"69360","region":"Auvergne-Rhone-Alpes","city":"Simandres","latitude":45.61979,"longitude":4.87087}}(window,'GeoPostal','FR');

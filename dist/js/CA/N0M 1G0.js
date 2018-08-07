@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0M 1G0"]={"code":"N0M 1G0","region":"Ontario","city":"Bayfield","latitude":43.56679,"longitude":-81.69978}}(window,'GeoPostal','CA');

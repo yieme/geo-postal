@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02877"]={"code":"02877","region":"RI","city":"Slocum","latitude":41.5289,"longitude":-71.5299}}(window,'GeoPostal','US');

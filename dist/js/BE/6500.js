@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6500"]={"code":"6500","region":"Hainaut","city":"Beaumont","latitude":50.23699,"longitude":4.23926}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66846"]={"code":"66846","region":"Kansas","city":"Council Grove","latitude":38.66604,"longitude":-96.49236}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["220150"]={"code":"220150","region":"Orellana","city":"Boca Suno","latitude":-0.71667,"longitude":-77.13333}}(window,'GeoPostal','EC');

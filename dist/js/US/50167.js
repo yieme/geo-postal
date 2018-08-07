@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50167"]={"code":"50167","region":"Iowa","city":"Minburn","latitude":41.756997,"longitude":-94.027327}}(window,'GeoPostal','US');

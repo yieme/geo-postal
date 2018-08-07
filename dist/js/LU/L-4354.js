@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-4354"]={"code":"L-4354","region":"Luxembourg","city":"Esch-sur-Alzette","latitude":49.49583,"longitude":5.98056}}(window,'GeoPostal','LU');

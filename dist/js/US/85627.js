@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85627"]={"code":"85627","region":"Arizona","city":"Pomerene","latitude":32.178701,"longitude":-110.258897}}(window,'GeoPostal','US');

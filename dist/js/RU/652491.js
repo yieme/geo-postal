@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652491"]={"code":"652491","region":"Kemerovskaya oblast'","city":"Rudnichnyy","latitude":56.0837,"longitude":86.2517}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61753"]={"code":"61753","region":"IL","city":"Lexington","latitude":40.6357,"longitude":-88.8062}}(window,'GeoPostal','US');

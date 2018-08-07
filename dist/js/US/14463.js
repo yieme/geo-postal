@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14463"]={"code":"14463","region":"New York","city":"Hall","latitude":42.79481,"longitude":-77.067594}}(window,'GeoPostal','US');

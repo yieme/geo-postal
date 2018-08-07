@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20113"]={"code":"20113","region":"Corse","city":"Olmeto","latitude":41.71886,"longitude":8.92023}}(window,'GeoPostal','FR');

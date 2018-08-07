@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HD3 3HR"]={"code":"HD3 3HR","region":"England","city":"Huddersfield","latitude":53.64904,"longitude":-1.78416}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20620"]={"code":"20620","region":"Corse","city":"Biguglia","latitude":42.62589,"longitude":9.43324}}(window,'GeoPostal','FR');

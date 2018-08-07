@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9805"]={"code":"9805","region":"Sultan Kudarat","city":"Isulan","latitude":6.62944,"longitude":124.605}}(window,'GeoPostal','PH');

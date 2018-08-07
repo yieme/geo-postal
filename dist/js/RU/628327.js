@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628327"]={"code":"628327","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Salym","latitude":60.0625,"longitude":71.47889}}(window,'GeoPostal','RU');

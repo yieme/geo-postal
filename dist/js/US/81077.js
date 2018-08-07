@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81077"]={"code":"81077","region":"Colorado","city":"Swink","latitude":38.014404,"longitude":-103.62664}}(window,'GeoPostal','US');

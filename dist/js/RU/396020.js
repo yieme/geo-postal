@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396020"]={"code":"396020","region":"Voronezhskaya oblast'","city":"Ramon'","latitude":51.9157,"longitude":39.33609}}(window,'GeoPostal','RU');

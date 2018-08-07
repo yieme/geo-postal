@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7270"]={"code":"7270","region":"Tasmania","city":"Beaconsfield","latitude":-41.20227,"longitude":146.81723}}(window,'GeoPostal','AU');

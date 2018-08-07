@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79233"]={"code":"79233","region":"Texas","city":"Estelline","latitude":34.44894,"longitude":-100.689292}}(window,'GeoPostal','US');

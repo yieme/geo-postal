@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62554"]={"code":"62554","region":"IL","city":"Oreana","latitude":39.9351,"longitude":-88.8547}}(window,'GeoPostal','US');

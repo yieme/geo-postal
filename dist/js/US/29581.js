@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29581"]={"code":"29581","region":"South Carolina","city":"Nichols","latitude":34.23278,"longitude":-79.14861}}(window,'GeoPostal','US');

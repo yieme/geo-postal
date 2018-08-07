@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35430"]={"code":"35430","region":"Bretagne","city":"Chateauneuf-d'Ille-et-Vilaine","latitude":48.5619,"longitude":-1.9286}}(window,'GeoPostal','FR');

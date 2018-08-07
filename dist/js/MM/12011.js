@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12011"]={"code":"12011","region":"Mon","city":"Mawlamyine","latitude":16.49139,"longitude":97.62556}}(window,'GeoPostal','MM');

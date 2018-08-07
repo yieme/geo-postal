@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29484"]={"code":"29484","region":"SC","city":"Summerville","latitude":33.0023,"longitude":-80.2267}}(window,'GeoPostal','US');

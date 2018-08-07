@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34489"]={"code":"34489","region":"FL","city":"Silver Springs","latitude":29.2152,"longitude":-82.0972}}(window,'GeoPostal','US');

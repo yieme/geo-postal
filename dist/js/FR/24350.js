@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24350"]={"code":"24350","region":"Nouvelle-Aquitaine","city":"Tocane-Saint-Apre","latitude":45.25404,"longitude":0.49682}}(window,'GeoPostal','FR');

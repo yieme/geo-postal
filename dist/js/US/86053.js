@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86053"]={"code":"86053","region":"AZ","city":"Kaibeto","latitude":36.4025,"longitude":-111.3518}}(window,'GeoPostal','US');

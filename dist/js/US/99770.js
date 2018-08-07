@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99770"]={"code":"99770","region":"AK","city":"Selawik","latitude":66.6039,"longitude":-160.0069}}(window,'GeoPostal','US');

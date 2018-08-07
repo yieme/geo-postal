@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP30 9QN"]={"code":"IP30 9QN","region":"England","city":"Woolpit","latitude":52.22454,"longitude":0.88826}}(window,'GeoPostal','GB');

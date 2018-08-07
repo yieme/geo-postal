@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91555"]={"code":"91555","region":"Bayern","city":"Heilbronn","latitude":49.1675,"longitude":10.3625}}(window,'GeoPostal','DE');

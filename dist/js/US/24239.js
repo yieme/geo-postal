@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24239"]={"code":"24239","region":"VA","city":"Davenport","latitude":37.1134,"longitude":-82.1501}}(window,'GeoPostal','US');

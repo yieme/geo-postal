@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78057"]={"code":"78057","region":"Texas","city":"Moore","latitude":29.00034,"longitude":-98.940145}}(window,'GeoPostal','US');

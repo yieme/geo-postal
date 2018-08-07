@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX44 9EJ"]={"code":"OX44 9EJ","region":"England","city":"Garsington","latitude":51.71623,"longitude":-1.16129}}(window,'GeoPostal','GB');

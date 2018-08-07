@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73627"]={"code":"73627","region":"Oklahoma","city":"Carter","latitude":35.21806,"longitude":-99.505}}(window,'GeoPostal','US');

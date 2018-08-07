@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66390"]={"code":"66390","region":"Occitanie","city":"Baixas","latitude":42.74969,"longitude":2.81002}}(window,'GeoPostal','FR');

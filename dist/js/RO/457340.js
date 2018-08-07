@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457340"]={"code":"457340","region":"Salaj","city":"Treznea","latitude":47.1,"longitude":23.11667}}(window,'GeoPostal','RO');

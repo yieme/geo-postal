@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IG9 6BH"]={"code":"IG9 6BH","region":"England","city":"Buckhurst Hill","latitude":51.62409,"longitude":0.03262}}(window,'GeoPostal','GB');

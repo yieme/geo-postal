@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90633"]={"code":"90633","region":"California","city":"La Habra","latitude":33.93228,"longitude":-117.945}}(window,'GeoPostal','US');

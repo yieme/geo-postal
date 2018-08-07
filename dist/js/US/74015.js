@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74015"]={"code":"74015","region":"OK","city":"Catoosa","latitude":36.1721,"longitude":-95.7273}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54021"]={"code":"54021","region":"Toscana","city":"Bagnone","latitude":44.31494,"longitude":9.99507}}(window,'GeoPostal','IT');

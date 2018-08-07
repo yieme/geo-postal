@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51003"]={"code":"51003","region":"IA","city":"Alton","latitude":42.9782,"longitude":-96.0173}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94410"]={"code":"94410","region":"Veracruz de Ignacio de la Llave","city":"Orizaba","latitude":18.85,"longitude":-97.1}}(window,'GeoPostal','MX');

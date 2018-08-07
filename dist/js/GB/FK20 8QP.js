@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK20 8QP"]={"code":"FK20 8QP","region":"Scotland","city":"Crianlarich","latitude":56.39243,"longitude":-4.61692}}(window,'GeoPostal','GB');

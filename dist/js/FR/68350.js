@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68350"]={"code":"68350","region":"Grand-Est","city":"Brunstatt","latitude":47.72004,"longitude":7.31784}}(window,'GeoPostal','FR');

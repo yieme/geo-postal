@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407 21"]={"code":"407 21","region":"Ustecky kraj","city":"Ceska Kamenice","latitude":50.7978,"longitude":14.41767}}(window,'GeoPostal','CZ');

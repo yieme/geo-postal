@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41400"]={"code":"41400","region":"Centre-Val de Loire","city":"Saint-Georges-sur-Cher","latitude":47.32996,"longitude":1.13261}}(window,'GeoPostal','FR');

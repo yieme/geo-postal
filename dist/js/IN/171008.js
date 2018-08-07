@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171008"]={"code":"171008","region":"Himachal Pradesh","city":"Jutogh","latitude":31.1,"longitude":77.11667}}(window,'GeoPostal','IN');

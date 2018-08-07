@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5173"]={"code":"5173","region":"South Australia","city":"Willunga","latitude":-35.27127,"longitude":138.55417}}(window,'GeoPostal','AU');

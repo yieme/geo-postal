@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24330"]={"code":"24330","region":"Virginia","city":"Fries","latitude":36.73214,"longitude":-81.029175}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4652"]={"code":"4652","region":"Noord-Brabant","city":"Steenbergen","latitude":51.58417,"longitude":4.31944}}(window,'GeoPostal','NL');

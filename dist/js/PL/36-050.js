@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-050"]={"code":"36-050","region":"Podkarpackie","city":"Sokolow Malopolski","latitude":50.22909,"longitude":22.11968}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452314"]={"code":"452314","region":"Bashkortostan, Respublika","city":"Semiletka","latitude":55.36028,"longitude":54.61528}}(window,'GeoPostal','RU');

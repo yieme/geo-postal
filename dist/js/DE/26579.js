@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26579"]={"code":"26579","region":"Niedersachsen","city":"Baltrum","latitude":53.73333,"longitude":7.36667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73835"]={"code":"73835","region":"OK","city":"Camargo","latitude":36.0212,"longitude":-99.2781}}(window,'GeoPostal','US');

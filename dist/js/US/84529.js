@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84529"]={"code":"84529","region":"UT","city":"Kenilworth","latitude":39.6884,"longitude":-110.8073}}(window,'GeoPostal','US');

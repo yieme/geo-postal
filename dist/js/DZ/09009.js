@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09009"]={"code":"09009","region":"Blida","city":"Chebli","latitude":36.57722,"longitude":3.00917}}(window,'GeoPostal','DZ');

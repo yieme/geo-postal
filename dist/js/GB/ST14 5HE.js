@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST14 5HE"]={"code":"ST14 5HE","region":"England","city":"Denstone","latitude":52.96334,"longitude":-1.85236}}(window,'GeoPostal','GB');

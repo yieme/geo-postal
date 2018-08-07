@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58760"]={"code":"58760","region":"Michoacan de Ocampo","city":"Purepero","latitude":19.91667,"longitude":-102.01667}}(window,'GeoPostal','MX');

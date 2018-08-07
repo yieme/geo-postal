@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62555"]={"code":"62555","region":"IL","city":"Owaneco","latitude":39.4775,"longitude":-89.1951}}(window,'GeoPostal','US');

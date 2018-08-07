@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71240"]={"code":"71240","region":"LA","city":"Fairbanks","latitude":32.6443,"longitude":-92.0365}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601326"]={"code":"601326","region":"Vladimirskaya oblast'","city":"Orgtrud","latitude":56.1832,"longitude":40.6149}}(window,'GeoPostal','RU');

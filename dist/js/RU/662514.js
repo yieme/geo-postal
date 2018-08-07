@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662514"]={"code":"662514","region":"Kemerovskaya oblast'","city":"Berezovskiy","latitude":55.6,"longitude":86.2}}(window,'GeoPostal','RU');

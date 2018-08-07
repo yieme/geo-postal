@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99780"]={"code":"99780","region":"AK","city":"Tok","latitude":63.3367,"longitude":-142.9856}}(window,'GeoPostal','US');

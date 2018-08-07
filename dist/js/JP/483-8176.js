@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["483-8176"]={"code":"483-8176","region":"Aichi","city":"Konan","latitude":35.333,"longitude":136.867}}(window,'GeoPostal','JP');

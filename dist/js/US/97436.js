@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97436"]={"code":"97436","region":"Oregon","city":"Elkton","latitude":43.635948,"longitude":-123.592631}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18840"]={"code":"18840","region":"Pennsylvania","city":"Sayre","latitude":41.97896,"longitude":-76.5155}}(window,'GeoPostal','US');

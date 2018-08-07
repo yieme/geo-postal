@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37809"]={"code":"37809","region":"Tennessee","city":"Midway","latitude":36.147185,"longitude":-83.031016}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07043"]={"code":"07043","region":"Sardegna","city":"Bonnanaro","latitude":40.53336,"longitude":8.76442}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84570"]={"code":"84570","region":"Provence-Alpes-Cote d'Azur","city":"Villes-sur-Auzon","latitude":44.05669,"longitude":5.2343}}(window,'GeoPostal','FR');

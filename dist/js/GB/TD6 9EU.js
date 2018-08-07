@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD6 9EU"]={"code":"TD6 9EU","region":"Scotland","city":"Maxton","latitude":55.55,"longitude":-2.61667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75273"]={"code":"75273","region":"Federacija Bosne i Hercegovine","city":"Dubrave Gornje","latitude":44.47139,"longitude":18.72972}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6467"]={"code":"6467","region":"Uri","city":"Attinghausen","latitude":46.86255,"longitude":8.63036}}(window,'GeoPostal','CH');

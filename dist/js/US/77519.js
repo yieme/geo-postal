@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77519"]={"code":"77519","region":"Texas","city":"Batson","latitude":30.233407,"longitude":-94.601785}}(window,'GeoPostal','US');

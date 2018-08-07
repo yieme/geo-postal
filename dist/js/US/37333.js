@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37333"]={"code":"37333","region":"Tennessee","city":"Farner","latitude":35.13806,"longitude":-84.32831}}(window,'GeoPostal','US');

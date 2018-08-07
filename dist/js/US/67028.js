@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67028"]={"code":"67028","region":"KS","city":"Coats","latitude":37.5125,"longitude":-98.8504}}(window,'GeoPostal','US');

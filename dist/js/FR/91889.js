@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91889"]={"code":"91889","region":"Ile-de-France","city":"Massy","latitude":48.72692,"longitude":2.28301}}(window,'GeoPostal','FR');

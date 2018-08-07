@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15400"]={"code":"15400","region":"Chernihivska oblast","city":"Semenivka","latitude":52.17827,"longitude":32.58183}}(window,'GeoPostal','UA');

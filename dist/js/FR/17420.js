@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17420"]={"code":"17420","region":"Nouvelle-Aquitaine","city":"Saint-Palais-sur-Mer","latitude":45.64255,"longitude":-1.0881}}(window,'GeoPostal','FR');

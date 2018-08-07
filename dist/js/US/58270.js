@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58270"]={"code":"58270","region":"North Dakota","city":"Park River","latitude":48.396708,"longitude":-97.744553}}(window,'GeoPostal','US');

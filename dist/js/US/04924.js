@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04924"]={"code":"04924","region":"Maine","city":"Canaan","latitude":44.76173,"longitude":-69.56144}}(window,'GeoPostal','US');

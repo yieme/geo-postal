@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6060"]={"code":"6060","region":"Obwalden","city":"Sarnen","latitude":46.89851,"longitude":8.25068}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-122"]={"code":"05-122","region":"Mazowieckie","city":"Legionowo","latitude":52.40149,"longitude":20.92664}}(window,'GeoPostal','PL');

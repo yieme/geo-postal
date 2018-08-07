@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["722307"]={"code":"722307","region":"Shaanxi","city":"Yingtou","latitude":34.16014,"longitude":107.75386}}(window,'GeoPostal','CN');

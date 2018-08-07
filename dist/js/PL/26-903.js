@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-903"]={"code":"26-903","region":"Malopolskie","city":"Krynica-Zdroj","latitude":49.42225,"longitude":20.95942}}(window,'GeoPostal','PL');

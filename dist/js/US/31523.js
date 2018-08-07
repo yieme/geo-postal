@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31523"]={"code":"31523","region":"Georgia","city":"Dock Junction","latitude":31.20245,"longitude":-81.51677}}(window,'GeoPostal','US');

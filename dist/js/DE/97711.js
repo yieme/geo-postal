@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97711"]={"code":"97711","region":"Bayern","city":"Poppenlauer","latitude":50.2158,"longitude":10.23599}}(window,'GeoPostal','DE');

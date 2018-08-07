@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50546"]={"code":"50546","region":"Iowa","city":"Havelock","latitude":42.833333,"longitude":-94.70167}}(window,'GeoPostal','US');

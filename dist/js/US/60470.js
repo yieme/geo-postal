@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60470"]={"code":"60470","region":"IL","city":"Ransom","latitude":41.153,"longitude":-88.6502}}(window,'GeoPostal','US');

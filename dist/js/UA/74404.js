@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74404"]={"code":"74404","region":"Khersonska oblast","city":"Verkhniy Rohachyk","latitude":47.25054,"longitude":34.33797}}(window,'GeoPostal','UA');

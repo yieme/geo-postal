@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64020"]={"code":"64020","region":"Abruzzo","city":"Morro d'Oro","latitude":42.66305,"longitude":13.9205}}(window,'GeoPostal','IT');

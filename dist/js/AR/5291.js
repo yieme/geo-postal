@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5291"]={"code":"5291","region":"Cordoba","city":"San Carlos","latitude":-31.17761,"longitude":-65.10245}}(window,'GeoPostal','AR');

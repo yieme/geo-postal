@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2080"]={"code":"2080","region":"Sofia","city":"Zlatitsa","latitude":42.71667,"longitude":24.13333}}(window,'GeoPostal','BG');

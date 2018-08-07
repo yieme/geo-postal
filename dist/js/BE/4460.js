@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4460"]={"code":"4460","region":"Liege","city":"Saint-Nicolas","latitude":50.62837,"longitude":5.53243}}(window,'GeoPostal','BE');

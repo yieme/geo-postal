@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80620"]={"code":"80620","region":"Colorado","city":"Evans","latitude":40.37637,"longitude":-104.69219}}(window,'GeoPostal','US');

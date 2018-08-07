@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43019"]={"code":"43019","region":"Auvergne-Rhone-Alpes","city":"Le Puy-en-Velay","latitude":45.04366,"longitude":3.88523}}(window,'GeoPostal','FR');

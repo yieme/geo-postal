@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-230"]={"code":"09-230","region":"Mazowieckie","city":"Bielsk","latitude":52.6718,"longitude":19.805}}(window,'GeoPostal','PL');

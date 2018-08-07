@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01380"]={"code":"01380","region":"Auvergne-Rhone-Alpes","city":"Bage-le-Chatel","latitude":46.3,"longitude":4.9333}}(window,'GeoPostal','FR');

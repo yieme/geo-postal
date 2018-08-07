@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["518165"]={"code":"518165","region":"Andhra Pradesh","city":"Nandyal","latitude":15.48333,"longitude":78.48333}}(window,'GeoPostal','IN');

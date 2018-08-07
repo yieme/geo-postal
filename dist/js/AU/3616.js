@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3616"]={"code":"3616","region":"Victoria","city":"Tatura","latitude":-36.43962,"longitude":145.22994}}(window,'GeoPostal','AU');

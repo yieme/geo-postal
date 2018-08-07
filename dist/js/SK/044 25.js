@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["044 25"]={"code":"044 25","region":"Kosicky kraj","city":"Medzev","latitude":48.70041,"longitude":20.89367}}(window,'GeoPostal','SK');

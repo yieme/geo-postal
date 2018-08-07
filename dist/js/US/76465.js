@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76465"]={"code":"76465","region":"TX","city":"Morgan Mill","latitude":32.3882,"longitude":-98.1673}}(window,'GeoPostal','US');

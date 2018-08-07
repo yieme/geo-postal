@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413270"]={"code":"413270","region":"Saratovskaya oblast'","city":"Rovnoye","latitude":50.7765,"longitude":46.05086}}(window,'GeoPostal','RU');

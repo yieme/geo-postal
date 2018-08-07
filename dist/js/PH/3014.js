@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3014"]={"code":"3014","region":"Bulacan","city":"Pandi","latitude":14.865,"longitude":120.95722}}(window,'GeoPostal','PH');

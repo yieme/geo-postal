@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML8 4DZ"]={"code":"ML8 4DZ","region":"Scotland","city":"Carluke","latitude":55.73595,"longitude":-3.83019}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04984"]={"code":"04984","region":"Maine","city":"Temple","latitude":44.696702,"longitude":-70.281201}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54800"]={"code":"54800","region":"Grand-Est","city":"Labry","latitude":49.17126,"longitude":5.88003}}(window,'GeoPostal','FR');

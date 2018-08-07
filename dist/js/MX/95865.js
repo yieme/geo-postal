@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95865"]={"code":"95865","region":"Veracruz de Ignacio de la Llave","city":"Hueyapan de Ocampo","latitude":18.14479,"longitude":-95.14873}}(window,'GeoPostal','MX');

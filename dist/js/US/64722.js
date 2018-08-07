@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64722"]={"code":"64722","region":"MO","city":"Amoret","latitude":38.2605,"longitude":-94.5734}}(window,'GeoPostal','US');

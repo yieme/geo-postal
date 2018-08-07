@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59454"]={"code":"59454","region":"Montana","city":"Kevin","latitude":48.747503,"longitude":-112.012972}}(window,'GeoPostal','US');

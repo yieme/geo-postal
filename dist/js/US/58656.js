@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58656"]={"code":"58656","region":"ND","city":"Taylor","latitude":46.9284,"longitude":-102.3756}}(window,'GeoPostal','US');

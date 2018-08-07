@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87018"]={"code":"87018","region":"Sabah","city":"Bandar Labuan","latitude":5.280272,"longitude":115.247312}}(window,'GeoPostal','MY');

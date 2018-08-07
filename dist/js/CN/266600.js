@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["266600"]={"code":"266600","region":"Shandong","city":"Laixi","latitude":36.85917,"longitude":120.52694}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38013"]={"code":"38013","region":"Trentino-Alto Adige","city":"Fondo","latitude":46.43821,"longitude":11.13747}}(window,'GeoPostal','IT');

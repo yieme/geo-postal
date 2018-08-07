@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21864"]={"code":"21864","region":"MD","city":"Stockton","latitude":38.0452,"longitude":-75.4108}}(window,'GeoPostal','US');

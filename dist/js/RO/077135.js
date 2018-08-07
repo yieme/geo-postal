@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["077135"]={"code":"077135","region":"Ilfov","city":"Mogosoaia","latitude":44.52917,"longitude":26}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J2S 4Y8"]={"code":"J2S 4Y8","region":"Quebec","city":"Saint-Hyacinthe","latitude":45.63343,"longitude":-72.959466}}(window,'GeoPostal','CA');

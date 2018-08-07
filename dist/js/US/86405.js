@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86405"]={"code":"86405","region":"AZ","city":"Lake Havasu City","latitude":34.4839,"longitude":-114.3225}}(window,'GeoPostal','US');

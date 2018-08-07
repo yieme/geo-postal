@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15312"]={"code":"15312","region":"PA","city":"Avella","latitude":40.2734,"longitude":-80.4565}}(window,'GeoPostal','US');

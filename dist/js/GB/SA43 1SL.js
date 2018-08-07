@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA43 1SL"]={"code":"SA43 1SL","region":"Wales","city":"Tremain","latitude":52.10891,"longitude":-4.57999}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31058"]={"code":"31058","region":"Georgia","city":"Mauk","latitude":32.501639,"longitude":-84.42111}}(window,'GeoPostal','US');

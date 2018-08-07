@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04068"]={"code":"04068","region":"ME","city":"Porter","latitude":43.8262,"longitude":-70.9243}}(window,'GeoPostal','US');

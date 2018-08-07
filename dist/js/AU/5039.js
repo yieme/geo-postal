@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5039"]={"code":"5039","region":"South Australia","city":"Melrose Park","latitude":-34.98526,"longitude":138.57874}}(window,'GeoPostal','AU');

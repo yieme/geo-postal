@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["401-0334"]={"code":"401-0334","region":"Yamanashi","city":"Fujikawaguchiko","latitude":35.5,"longitude":138.75}}(window,'GeoPostal','JP');

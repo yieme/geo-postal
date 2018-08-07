@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5534"]={"code":"5534","region":"Bekes","city":"Okany","latitude":46.9,"longitude":21.35}}(window,'GeoPostal','HU');

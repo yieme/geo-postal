@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO15 4BP"]={"code":"CO15 4BP","region":"England","city":"Great Clacton","latitude":51.8046,"longitude":1.15469}}(window,'GeoPostal','GB');

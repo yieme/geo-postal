@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3451"]={"code":"3451","region":"Badakhshan","city":"'Alaqahdari-ye Kiran wa Munjan","latitude":36.02866,"longitude":70.77258}}(window,'GeoPostal','AF');

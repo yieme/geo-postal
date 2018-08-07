@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41512"]={"code":"41512","region":"KY","city":"Ashcamp","latitude":37.2589,"longitude":-82.4613}}(window,'GeoPostal','US');

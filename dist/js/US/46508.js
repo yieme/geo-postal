@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46508"]={"code":"46508","region":"IN","city":"Burket","latitude":41.1547,"longitude":-85.9693}}(window,'GeoPostal','US');

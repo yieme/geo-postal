@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99772"]={"code":"99772","region":"AK","city":"Shishmaref","latitude":66.2306,"longitude":-166.1373}}(window,'GeoPostal','US');

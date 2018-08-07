@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50214"]={"code":"50214","region":"Iowa","city":"Otley","latitude":41.459188,"longitude":-93.039806}}(window,'GeoPostal','US');

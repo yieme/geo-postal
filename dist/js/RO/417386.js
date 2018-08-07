@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417386"]={"code":"417386","region":"Bihor","city":"Cimpani de Pomezeu","latitude":46.8,"longitude":22.31667}}(window,'GeoPostal','RO');

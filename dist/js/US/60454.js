@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60454"]={"code":"60454","region":"IL","city":"Oak Lawn","latitude":41.8119,"longitude":-87.6873}}(window,'GeoPostal','US');

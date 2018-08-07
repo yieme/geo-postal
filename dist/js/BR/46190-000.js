@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46190-000"]={"code":"46190-000","region":"Bahia","city":"Paramirim","latitude":-13.4425,"longitude":-42.23889}}(window,'GeoPostal','BR');

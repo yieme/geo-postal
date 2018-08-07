@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-320"]={"code":"72-320","region":"Zachodniopomorskie","city":"Trzebiatow","latitude":54.06147,"longitude":15.26475}}(window,'GeoPostal','PL');

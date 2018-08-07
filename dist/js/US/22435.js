@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22435"]={"code":"22435","region":"Virginia","city":"Callao","latitude":37.96917,"longitude":-76.55972}}(window,'GeoPostal','US');

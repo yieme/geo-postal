@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57523"]={"code":"57523","region":"South Dakota","city":"Burke","latitude":43.1825,"longitude":-99.29205}}(window,'GeoPostal','US');

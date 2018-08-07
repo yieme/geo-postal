@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75580-000"]={"code":"75580-000","region":"Goias","city":"Goiatuba","latitude":-18.0125,"longitude":-49.35472}}(window,'GeoPostal','BR');

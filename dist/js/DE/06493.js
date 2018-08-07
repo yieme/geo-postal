@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06493"]={"code":"06493","region":"Sachsen-Anhalt","city":"Alexisbad","latitude":51.65006,"longitude":11.11648}}(window,'GeoPostal','DE');

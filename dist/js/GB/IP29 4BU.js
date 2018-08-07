@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP29 4BU"]={"code":"IP29 4BU","region":"England","city":"Depden","latitude":52.18088,"longitude":0.60562}}(window,'GeoPostal','GB');

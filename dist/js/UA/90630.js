@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90630"]={"code":"90630","region":"Zakarpatska oblast","city":"Yasinya","latitude":48.27937,"longitude":24.36042}}(window,'GeoPostal','UA');

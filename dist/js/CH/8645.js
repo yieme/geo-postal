@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8645"]={"code":"8645","region":"Sankt Gallen","city":"Jona","latitude":47.22983,"longitude":8.83884}}(window,'GeoPostal','CH');

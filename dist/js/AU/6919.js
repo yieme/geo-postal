@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6919"]={"code":"6919","region":"Western Australia","city":"Joondalup","latitude":-31.74445,"longitude":115.76835}}(window,'GeoPostal','AU');

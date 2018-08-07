@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623650"]={"code":"623650","region":"Sverdlovskaya oblast'","city":"Tugulym","latitude":57.05906,"longitude":64.64251}}(window,'GeoPostal','RU');

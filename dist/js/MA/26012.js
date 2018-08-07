@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26012"]={"code":"26012","region":"Chaouia-Ouardigha","city":"Settat","latitude":33.0007,"longitude":-7.62035}}(window,'GeoPostal','MA');

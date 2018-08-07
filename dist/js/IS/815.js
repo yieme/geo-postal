@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["815"]={"code":"815","region":"Sudurland","city":"Torlakshofn","latitude":63.86093,"longitude":-21.37844}}(window,'GeoPostal','IS');

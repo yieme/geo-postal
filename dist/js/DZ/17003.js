@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17003"]={"code":"17003","region":"Djelfa","city":"Messaad","latitude":34.15429,"longitude":3.50309}}(window,'GeoPostal','DZ');

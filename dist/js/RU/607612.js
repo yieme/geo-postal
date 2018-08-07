@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607612"]={"code":"607612","region":"Nizhegorodskaya oblast'","city":"Burevestnik","latitude":56.14403,"longitude":43.78832}}(window,'GeoPostal','RU');

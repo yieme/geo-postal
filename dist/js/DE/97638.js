@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97638"]={"code":"97638","region":"Bayern","city":"Mellrichstadt","latitude":50.42849,"longitude":10.30334}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-330"]={"code":"17-330","region":"Podlaskie","city":"Nurzec-Stacja","latitude":52.46249,"longitude":23.08571}}(window,'GeoPostal','PL');

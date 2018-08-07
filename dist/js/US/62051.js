@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62051"]={"code":"62051","region":"Illinois","city":"Irving","latitude":39.204341,"longitude":-89.405937}}(window,'GeoPostal','US');

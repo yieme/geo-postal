@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36029"]={"code":"36029","region":"AL","city":"Fitzpatrick","latitude":32.2165,"longitude":-85.8888}}(window,'GeoPostal','US');

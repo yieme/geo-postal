@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5731"]={"code":"5731","region":"Hordaland","city":"Ulvik","latitude":60.57117,"longitude":6.91701}}(window,'GeoPostal','NO');

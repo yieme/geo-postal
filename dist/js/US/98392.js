@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98392"]={"code":"98392","region":"WA","city":"Suquamish","latitude":47.7343,"longitude":-122.5573}}(window,'GeoPostal','US');

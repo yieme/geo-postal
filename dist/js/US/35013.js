@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35013"]={"code":"35013","region":"AL","city":"Allgood","latitude":33.9222,"longitude":-86.4493}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68463"]={"code":"68463","region":"NE","city":"Weeping Water","latitude":40.8731,"longitude":-96.1528}}(window,'GeoPostal','US');

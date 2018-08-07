@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["810-0004"]={"code":"810-0004","region":"Fukuoka","city":"Fukuoka","latitude":33.583,"longitude":130.4}}(window,'GeoPostal','JP');

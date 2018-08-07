@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399430"]={"code":"399430","region":"Lipetskaya oblast'","city":"Dobrinka","latitude":52.16528,"longitude":40.47306}}(window,'GeoPostal','RU');

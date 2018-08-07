@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81082"]={"code":"81082","region":"Colorado","city":"Trinidad","latitude":37.16946,"longitude":-104.50054}}(window,'GeoPostal','US');

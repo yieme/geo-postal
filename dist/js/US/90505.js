@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90505"]={"code":"90505","region":"California","city":"Torrance","latitude":33.810605,"longitude":-118.34942}}(window,'GeoPostal','US');

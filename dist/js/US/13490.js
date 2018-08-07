@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13490"]={"code":"13490","region":"NY","city":"Westmoreland","latitude":43.1017,"longitude":-75.4533}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE23 9WW"]={"code":"NE23 9WW","region":"England","city":"Cramlington","latitude":55.08652,"longitude":-1.58598}}(window,'GeoPostal','GB');

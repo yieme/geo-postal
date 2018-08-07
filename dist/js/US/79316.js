@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79316"]={"code":"79316","region":"Texas","city":"Brownfield","latitude":33.1812,"longitude":-102.27435}}(window,'GeoPostal','US');

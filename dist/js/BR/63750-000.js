@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63750-000"]={"code":"63750-000","region":"Ceara","city":"Tamboril","latitude":-4.83222,"longitude":-40.32056}}(window,'GeoPostal','BR');

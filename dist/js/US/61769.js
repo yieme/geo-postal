@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61769"]={"code":"61769","region":"IL","city":"Saunemin","latitude":40.8885,"longitude":-88.4094}}(window,'GeoPostal','US');

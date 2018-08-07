@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57543"]={"code":"57543","region":"South Dakota","city":"Kadoka","latitude":43.83388,"longitude":-101.50987}}(window,'GeoPostal','US');

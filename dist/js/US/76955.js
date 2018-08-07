@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76955"]={"code":"76955","region":"TX","city":"Vancourt","latitude":31.3132,"longitude":-100.1328}}(window,'GeoPostal','US');

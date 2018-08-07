@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31403"]={"code":"31403","region":"Osjecko-baranjska zupanija","city":"Vuka","latitude":45.43389,"longitude":18.505}}(window,'GeoPostal','HR');

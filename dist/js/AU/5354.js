@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5354"]={"code":"5354","region":"South Australia","city":"Swan Reach","latitude":-34.56663,"longitude":139.5975}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56274"]={"code":"56274","region":"MN","city":"Norcross","latitude":45.8858,"longitude":-96.1342}}(window,'GeoPostal','US');

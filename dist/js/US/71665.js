@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71665"]={"code":"71665","region":"Arkansas","city":"Rison","latitude":34.00866,"longitude":-92.1411}}(window,'GeoPostal','US');

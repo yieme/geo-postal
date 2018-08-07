@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70470"]={"code":"70470","region":"Louisiana","city":"Mandeville","latitude":30.38851,"longitude":-90.08148}}(window,'GeoPostal','US');

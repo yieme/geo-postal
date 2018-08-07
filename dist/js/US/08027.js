@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08027"]={"code":"08027","region":"NJ","city":"Gibbstown","latitude":39.8231,"longitude":-75.2751}}(window,'GeoPostal','US');

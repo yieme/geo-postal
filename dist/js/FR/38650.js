@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38650"]={"code":"38650","region":"Auvergne-Rhone-Alpes","city":"Monestier-de-Clermont","latitude":44.9178,"longitude":5.6361}}(window,'GeoPostal','FR');

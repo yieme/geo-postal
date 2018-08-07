@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29007"]={"code":"29007","region":"Mascara","city":"Mascara","latitude":35.39664,"longitude":0.14027}}(window,'GeoPostal','DZ');

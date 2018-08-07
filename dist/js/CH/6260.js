@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6260"]={"code":"6260","region":"Luzern","city":"Reiden","latitude":47.24719,"longitude":7.97135}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452689"]={"code":"452689","region":"Bashkortostan, Respublika","city":"Neftekamsk","latitude":56.09199,"longitude":54.27032}}(window,'GeoPostal','RU');

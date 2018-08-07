@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77169"]={"code":"77169","region":"Ile-de-France","city":"Saint-Simeon","latitude":48.7983,"longitude":3.2033}}(window,'GeoPostal','FR');

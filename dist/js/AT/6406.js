@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6406"]={"code":"6406","region":"Tirol","city":"Oberhofen im Inntal","latitude":47.3,"longitude":11.08333}}(window,'GeoPostal','AT');

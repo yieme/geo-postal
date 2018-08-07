@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63135"]={"code":"63135","region":"Missouri","city":"Ferguson","latitude":38.74422,"longitude":-90.30539}}(window,'GeoPostal','US');

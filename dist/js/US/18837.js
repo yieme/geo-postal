@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18837"]={"code":"18837","region":"Pennsylvania","city":"Rome","latitude":41.85694,"longitude":-76.34167}}(window,'GeoPostal','US');

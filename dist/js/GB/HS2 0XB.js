@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 0XB"]={"code":"HS2 0XB","region":"Scotland","city":"Lionel","latitude":58.48898,"longitude":-6.2459}}(window,'GeoPostal','GB');

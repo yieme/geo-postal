@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08031"]={"code":"08031","region":"Illes Balears","city":"Consell","latitude":39.66861,"longitude":2.81267}}(window,'GeoPostal','ES');

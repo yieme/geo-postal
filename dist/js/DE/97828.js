@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97828"]={"code":"97828","region":"Bayern","city":"Marktheidenfeld","latitude":49.8454,"longitude":9.60359}}(window,'GeoPostal','DE');

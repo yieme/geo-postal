@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33054"]={"code":"33054","region":"Florida","city":"Opa-locka","latitude":25.90529,"longitude":-80.25716}}(window,'GeoPostal','US');

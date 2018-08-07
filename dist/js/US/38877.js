@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38877"]={"code":"38877","region":"MS","city":"Van Vleet","latitude":33.9871,"longitude":-88.8988}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5960000"]={"code":"5960000","region":"Aisen del General Carlos Ibanez del Campo","city":"La Junta","latitude":-43.96028,"longitude":-72.44028}}(window,'GeoPostal','CL');

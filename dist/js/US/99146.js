@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99146"]={"code":"99146","region":"WA","city":"Laurier","latitude":48.9753,"longitude":-118.2208}}(window,'GeoPostal','US');

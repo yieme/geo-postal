@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["067000"]={"code":"067000","region":"Hebei","city":"Chengde","latitude":40.9725,"longitude":117.93611}}(window,'GeoPostal','CN');

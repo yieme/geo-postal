@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49701"]={"code":"49701","region":"Michigan","city":"Mackinaw City","latitude":45.779616,"longitude":-84.752665}}(window,'GeoPostal','US');

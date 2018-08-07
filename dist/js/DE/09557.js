@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09557"]={"code":"09557","region":"Sachsen","city":"Plaue","latitude":50.84459,"longitude":13.0824}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41955"]={"code":"41955","region":"Guerrero","city":"Cuajinicuilapa","latitude":16.46667,"longitude":-98.41667}}(window,'GeoPostal','MX');

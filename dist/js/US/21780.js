@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21780"]={"code":"21780","region":"MD","city":"Sabillasville","latitude":39.6828,"longitude":-77.4693}}(window,'GeoPostal','US');

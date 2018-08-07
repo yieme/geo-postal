@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87510"]={"code":"87510","region":"New Mexico","city":"Abiquiu","latitude":36.154624,"longitude":-106.236127}}(window,'GeoPostal','US');

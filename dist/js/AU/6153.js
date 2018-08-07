@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6153"]={"code":"6153","region":"Western Australia","city":"Cannington","latitude":-32.01667,"longitude":115.95}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6758"]={"code":"6758","region":"Csongrad","city":"Roszke","latitude":46.18796,"longitude":20.03372}}(window,'GeoPostal','HU');

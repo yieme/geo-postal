@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40055"]={"code":"40055","region":"Emilia-Romagna","city":"Castenaso","latitude":44.50887,"longitude":11.46982}}(window,'GeoPostal','IT');

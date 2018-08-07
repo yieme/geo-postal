@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30160"]={"code":"30160","region":"Occitanie","city":"Besseges","latitude":44.2923,"longitude":4.0966}}(window,'GeoPostal','FR');

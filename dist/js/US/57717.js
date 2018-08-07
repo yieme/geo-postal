@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57717"]={"code":"57717","region":"South Dakota","city":"Belle Fourche","latitude":44.67137,"longitude":-103.85215}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 3DR"]={"code":"CA10 3DR","region":"England","city":"Great Strickland","latitude":54.6,"longitude":-2.68333}}(window,'GeoPostal','GB');

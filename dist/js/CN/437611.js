@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437611"]={"code":"437611","region":"Hubei","city":"Dalu","latitude":29.59938,"longitude":114.43179}}(window,'GeoPostal','CN');

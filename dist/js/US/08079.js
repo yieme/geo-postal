@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08079"]={"code":"08079","region":"New Jersey","city":"Salem","latitude":39.549988,"longitude":-75.452528}}(window,'GeoPostal','US');

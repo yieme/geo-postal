@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0M 2A0"]={"code":"K0M 2A0","region":"Ontario","city":"Kinmount","latitude":44.78342,"longitude":-78.64957}}(window,'GeoPostal','CA');

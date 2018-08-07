@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72278"]={"code":"72278","region":"Federacija Bosne i Hercegovine","city":"Travnik","latitude":44.22667,"longitude":17.67056}}(window,'GeoPostal','BA');

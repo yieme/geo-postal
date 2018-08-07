@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7742"]={"code":"7742","region":"Graubunden","city":"Poschiavo","latitude":46.3244,"longitude":10.05721}}(window,'GeoPostal','CH');

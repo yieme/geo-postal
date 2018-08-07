@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17600"]={"code":"17600","region":"Catalunya","city":"Figueres","latitude":42.26645,"longitude":2.96163}}(window,'GeoPostal','ES');

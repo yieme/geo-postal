@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48317"]={"code":"48317","region":"Koprivnicko-krizevacka zupanija","city":"Legrad","latitude":46.2975,"longitude":16.85667}}(window,'GeoPostal','HR');

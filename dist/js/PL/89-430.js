@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-430"]={"code":"89-430","region":"Kujawsko-pomorskie","city":"Kamien Krajenski","latitude":53.53352,"longitude":17.52019}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54944"]={"code":"54944","region":"WI","city":"Hortonville","latitude":44.3273,"longitude":-88.6281}}(window,'GeoPostal','US');

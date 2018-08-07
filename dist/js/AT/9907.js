@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9907"]={"code":"9907","region":"Tirol","city":"Tristach","latitude":46.81611,"longitude":12.78972}}(window,'GeoPostal','AT');

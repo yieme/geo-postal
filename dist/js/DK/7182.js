@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7182"]={"code":"7182","region":"Syddanmark","city":"Jelling","latitude":55.75588,"longitude":9.4258}}(window,'GeoPostal','DK');

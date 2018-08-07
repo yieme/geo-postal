@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32454"]={"code":"32454","region":"Galicia","city":"Cenlle","latitude":42.34183,"longitude":-8.08982}}(window,'GeoPostal','ES');

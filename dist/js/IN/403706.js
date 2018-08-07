@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403706"]={"code":"403706","region":"Goa","city":"Sanguem","latitude":15.23333,"longitude":74.16667}}(window,'GeoPostal','IN');

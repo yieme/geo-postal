@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6215"]={"code":"6215","region":"Divaca","city":"Divaca","latitude":45.68472,"longitude":13.97028}}(window,'GeoPostal','SI');

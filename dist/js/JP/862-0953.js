@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["862-0953"]={"code":"862-0953","region":"Kumamoto","city":"Kumamoto","latitude":32.783,"longitude":130.733}}(window,'GeoPostal','JP');

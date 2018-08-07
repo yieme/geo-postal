@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2190"]={"code":"2190","region":"Gafsa","city":"As Sanad","latitude":34.4628,"longitude":9.26404}}(window,'GeoPostal','TN');

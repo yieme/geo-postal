@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04944"]={"code":"04944","region":"ME","city":"Hinckley","latitude":44.6847,"longitude":-69.6425}}(window,'GeoPostal','US');

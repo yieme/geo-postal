@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12230"]={"code":"12230","region":"Occitanie","city":"La Cavalerie","latitude":44.00961,"longitude":3.1584}}(window,'GeoPostal','FR');

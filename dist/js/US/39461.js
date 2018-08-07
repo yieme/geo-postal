@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39461"]={"code":"39461","region":"Mississippi","city":"Neely","latitude":31.183528,"longitude":-88.739163}}(window,'GeoPostal','US');

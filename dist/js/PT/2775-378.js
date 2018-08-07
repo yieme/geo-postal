@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2775-378"]={"code":"2775-378","region":"Lisboa","city":"Estoril","latitude":38.70571,"longitude":-9.39773}}(window,'GeoPostal','PT');

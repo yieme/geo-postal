@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26409"]={"code":"26409","region":"Chiapas","city":"Jiquipilas","latitude":16.66667,"longitude":-93.65}}(window,'GeoPostal','MX');

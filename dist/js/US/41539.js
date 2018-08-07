@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41539"]={"code":"41539","region":"Kentucky","city":"Kimper","latitude":37.500058,"longitude":-82.310922}}(window,'GeoPostal','US');

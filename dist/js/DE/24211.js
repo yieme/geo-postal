@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24211"]={"code":"24211","region":"Schleswig-Holstein","city":"Preetz","latitude":54.2354,"longitude":10.27795}}(window,'GeoPostal','DE');

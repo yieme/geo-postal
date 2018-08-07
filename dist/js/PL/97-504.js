@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-504"]={"code":"97-504","region":"Lodzkie","city":"Radomsko","latitude":51.06713,"longitude":19.44477}}(window,'GeoPostal','PL');

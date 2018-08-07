@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23013"]={"code":"23013","region":"Lombardia","city":"Cosio Valtellino","latitude":46.13509,"longitude":9.55164}}(window,'GeoPostal','IT');

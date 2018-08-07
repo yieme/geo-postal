@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92770"]={"code":"92770","region":"Veracruz de Ignacio de la Llave","city":"Santiago de la Pena","latitude":20.95,"longitude":-97.4}}(window,'GeoPostal','MX');

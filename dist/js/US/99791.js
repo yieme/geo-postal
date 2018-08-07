@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99791"]={"code":"99791","region":"Alaska","city":"Atqasuk","latitude":70.471225,"longitude":-157.427945}}(window,'GeoPostal','US');

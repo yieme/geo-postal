@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25669"]={"code":"25669","region":"West Virginia","city":"Crum","latitude":37.941951,"longitude":-82.445821}}(window,'GeoPostal','US');

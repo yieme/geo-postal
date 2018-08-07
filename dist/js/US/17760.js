@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17760"]={"code":"17760","region":"PA","city":"North Bend","latitude":41.4083,"longitude":-77.6641}}(window,'GeoPostal','US');

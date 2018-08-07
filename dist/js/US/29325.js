@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29325"]={"code":"29325","region":"SC","city":"Clinton","latitude":34.4707,"longitude":-81.8772}}(window,'GeoPostal','US');

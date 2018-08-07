@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20833"]={"code":"20833","region":"Lombardia","city":"Giussano","latitude":45.69408,"longitude":9.21124}}(window,'GeoPostal','IT');

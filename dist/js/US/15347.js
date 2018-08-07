@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15347"]={"code":"15347","region":"Pennsylvania","city":"Meadow Lands","latitude":40.216858,"longitude":-80.228488}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393818"]={"code":"393818","region":"Tambovskaya oblast'","city":"Zavoronezhskoye","latitude":52.8801,"longitude":40.5526}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["549 54"]={"code":"549 54","region":"Kralovehradecky kraj","city":"Police nad Metuji","latitude":50.53687,"longitude":16.2335}}(window,'GeoPostal','CZ');

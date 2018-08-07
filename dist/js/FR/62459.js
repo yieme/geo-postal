@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62459"]={"code":"62459","region":"Hauts-de-France","city":"Bapaume","latitude":50.10379,"longitude":2.84966}}(window,'GeoPostal','FR');

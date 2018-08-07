@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MQB 9041"]={"code":"MQB 9041","region":"Mqabba","city":"Mqabba","latitude":35.84763,"longitude":14.46824}}(window,'GeoPostal','MT');

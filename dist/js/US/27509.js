@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27509"]={"code":"27509","region":"North Carolina","city":"Butner","latitude":36.136621,"longitude":-78.760405}}(window,'GeoPostal','US');

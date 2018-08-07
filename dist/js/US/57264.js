@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57264"]={"code":"57264","region":"SD","city":"Stockholm","latitude":45.1031,"longitude":-96.8106}}(window,'GeoPostal','US');

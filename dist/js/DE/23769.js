@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23769"]={"code":"23769","region":"Schleswig-Holstein","city":"Fehmarn","latitude":54.4378,"longitude":11.19352}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14861"]={"code":"14861","region":"NY","city":"Lowman","latitude":42.0694,"longitude":-76.693}}(window,'GeoPostal','US');

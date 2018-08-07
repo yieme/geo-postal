@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-500"]={"code":"26-500","region":"Mazowieckie","city":"Szydlowiec","latitude":51.22823,"longitude":20.86106}}(window,'GeoPostal','PL');

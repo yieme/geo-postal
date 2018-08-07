@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27259"]={"code":"27259","region":"NC","city":"Highfalls","latitude":35.4921,"longitude":-79.479}}(window,'GeoPostal','US');

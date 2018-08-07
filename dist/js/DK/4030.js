@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4030"]={"code":"4030","region":"Sjelland","city":"Tune","latitude":55.59528,"longitude":12.18319}}(window,'GeoPostal','DK');

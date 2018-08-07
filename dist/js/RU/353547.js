@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353547"]={"code":"353547","region":"Krasnodarskiy kray","city":"Kuchugury","latitude":45.40702,"longitude":36.95586}}(window,'GeoPostal','RU');

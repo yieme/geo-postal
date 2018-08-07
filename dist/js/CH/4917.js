@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4917"]={"code":"4917","region":"Bern","city":"Melchnau","latitude":47.18213,"longitude":7.85128}}(window,'GeoPostal','CH');

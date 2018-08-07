@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9700"]={"code":"9700","region":"Shumen","city":"Shumen","latitude":43.27064,"longitude":26.92286}}(window,'GeoPostal','BG');

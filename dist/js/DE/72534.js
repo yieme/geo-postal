@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72534"]={"code":"72534","region":"Baden-Wurttemberg","city":"Indelhausen","latitude":48.29329,"longitude":9.49244}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["591 01"]={"code":"591 01","region":"Kraj Vysocina","city":"Zd'ar nad Sazavou","latitude":49.56263,"longitude":15.93924}}(window,'GeoPostal','CZ');

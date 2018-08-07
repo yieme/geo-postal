@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54309"]={"code":"54309","region":"Grand-Est","city":"Luneville","latitude":48.6,"longitude":6.5}}(window,'GeoPostal','FR');

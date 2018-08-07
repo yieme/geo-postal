@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33103"]={"code":"33103","region":"Dhawalagiri","city":"Jomsom","latitude":28.78436,"longitude":83.73513}}(window,'GeoPostal','NP');

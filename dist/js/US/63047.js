@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63047"]={"code":"63047","region":"MO","city":"Hematite","latitude":38.202,"longitude":-90.481}}(window,'GeoPostal','US');

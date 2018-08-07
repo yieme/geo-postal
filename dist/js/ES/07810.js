@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07810"]={"code":"07810","region":"Illes Balears","city":"Sant Joan de Labritja","latitude":39.07891,"longitude":1.51397}}(window,'GeoPostal','ES');

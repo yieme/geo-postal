@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28459"]={"code":"28459","region":"North Carolina","city":"Shallotte","latitude":33.97323,"longitude":-78.38584}}(window,'GeoPostal','US');

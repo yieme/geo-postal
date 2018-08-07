@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43334"]={"code":"43334","region":"OH","city":"Marengo","latitude":40.3895,"longitude":-82.8121}}(window,'GeoPostal','US');

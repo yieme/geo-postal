@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71588"]={"code":"71588","region":"Oaxaca","city":"Ejutla de Crespo","latitude":16.56667,"longitude":-96.73333}}(window,'GeoPostal','MX');

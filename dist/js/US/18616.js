@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18616"]={"code":"18616","region":"Pennsylvania","city":"Forksville","latitude":41.49222,"longitude":-76.60528}}(window,'GeoPostal','US');

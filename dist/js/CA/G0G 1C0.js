@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0G 1C0"]={"code":"G0G 1C0","region":"Quebec","city":"Blanc-Sablon","latitude":51.427473,"longitude":-57.133266}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37355"]={"code":"37355","region":"Thuringen","city":"Niederorschel","latitude":51.36667,"longitude":10.43333}}(window,'GeoPostal','DE');

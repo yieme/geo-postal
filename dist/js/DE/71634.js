@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71634"]={"code":"71634","region":"Sachsen","city":"Ludwigsburg","latitude":50.53813,"longitude":12.40089}}(window,'GeoPostal','DE');

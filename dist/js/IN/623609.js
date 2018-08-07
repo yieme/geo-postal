@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623609"]={"code":"623609","region":"Tamil Nadu","city":"Kamudi","latitude":9.41667,"longitude":78.36667}}(window,'GeoPostal','IN');

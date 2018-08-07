@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37389"]={"code":"37389","region":"Tennessee","city":"Arnold Air Force Base","latitude":35.320722,"longitude":-86.066966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461119"]={"code":"461119","region":"Imo","city":"Orodo","latitude":5.61667,"longitude":7.03333}}(window,'GeoPostal','NG');

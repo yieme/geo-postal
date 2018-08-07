@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5203"]={"code":"5203","region":"Mindoro Oriental","city":"Balatero","latitude":13.5021,"longitude":120.9244}}(window,'GeoPostal','PH');

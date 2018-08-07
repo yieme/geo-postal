@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07570"]={"code":"07570","region":"Antalya","city":"Demre","latitude":36.2537,"longitude":29.9777}}(window,'GeoPostal','TR');

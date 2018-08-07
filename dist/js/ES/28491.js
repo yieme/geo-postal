@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28491"]={"code":"28491","region":"Madrid, Comunidad de","city":"Navacerrada","latitude":40.72905,"longitude":-4.01696}}(window,'GeoPostal','ES');

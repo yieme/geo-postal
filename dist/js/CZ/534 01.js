@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["534 01"]={"code":"534 01","region":"Pardubicky kraj","city":"Holice","latitude":50.06601,"longitude":15.9859}}(window,'GeoPostal','CZ');

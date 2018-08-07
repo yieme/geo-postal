@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["266 01"]={"code":"266 01","region":"Stredocesky kraj","city":"Beroun","latitude":49.96382,"longitude":14.072}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98642"]={"code":"98642","region":"Washington","city":"Ridgefield","latitude":45.790523,"longitude":-122.688461}}(window,'GeoPostal','US');

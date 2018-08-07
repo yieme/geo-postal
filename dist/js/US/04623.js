@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04623"]={"code":"04623","region":"Maine","city":"Columbia Falls","latitude":44.66444,"longitude":-67.71972}}(window,'GeoPostal','US');

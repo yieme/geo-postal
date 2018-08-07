@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 1V0"]={"code":"V0K 1V0","region":"British Columbia","city":"Lillooet","latitude":50.6856,"longitude":-121.942}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38079"]={"code":"38079","region":"Trentino-Alto Adige","city":"Tione di Trento","latitude":46.036,"longitude":10.72637}}(window,'GeoPostal','IT');

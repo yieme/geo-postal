@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH45 8QP"]={"code":"EH45 8QP","region":"Scotland","city":"Eddleston","latitude":55.7123,"longitude":-3.20655}}(window,'GeoPostal','GB');

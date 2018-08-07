@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 1XN"]={"code":"TD15 1XN","region":"Scotland","city":"Horndean","latitude":55.73333,"longitude":-2.16667}}(window,'GeoPostal','GB');

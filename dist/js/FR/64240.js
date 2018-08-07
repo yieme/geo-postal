@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64240"]={"code":"64240","region":"Nouvelle-Aquitaine","city":"Briscous","latitude":43.45958,"longitude":-1.33353}}(window,'GeoPostal','FR');

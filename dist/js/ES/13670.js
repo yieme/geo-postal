@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13670"]={"code":"13670","region":"Castilla-La Mancha","city":"Villarrubia de los Ojos","latitude":39.22085,"longitude":-3.60802}}(window,'GeoPostal','ES');

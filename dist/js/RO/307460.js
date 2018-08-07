@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307460"]={"code":"307460","region":"Timis","city":"Victor Vlad Delamarina","latitude":45.64056,"longitude":21.89278}}(window,'GeoPostal','RO');

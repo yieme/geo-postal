@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89155"]={"code":"89155","region":"Rheinland-Pfalz","city":"Erbach","latitude":50.03333,"longitude":7.68333}}(window,'GeoPostal','DE');

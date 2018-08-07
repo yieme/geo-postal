@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33180"]={"code":"33180","region":"Si Sa Ket","city":"Si Rattana","latitude":14.79328,"longitude":104.46922}}(window,'GeoPostal','TH');

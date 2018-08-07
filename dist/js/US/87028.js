@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87028"]={"code":"87028","region":"New Mexico","city":"La Joya","latitude":34.392337,"longitude":-106.803748}}(window,'GeoPostal','US');

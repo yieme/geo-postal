@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14869"]={"code":"14869","region":"New York","city":"Odessa","latitude":42.350656,"longitude":-76.779042}}(window,'GeoPostal','US');

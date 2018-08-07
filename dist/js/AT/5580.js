@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5580"]={"code":"5580","region":"Salzburg","city":"Tamsweg","latitude":47.12808,"longitude":13.81102}}(window,'GeoPostal','AT');

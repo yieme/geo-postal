@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32112"]={"code":"32112","region":"Khmelnytska oblast","city":"Yarmolyntsi","latitude":49.19236,"longitude":26.83725}}(window,'GeoPostal','UA');

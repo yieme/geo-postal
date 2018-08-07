@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT6 6PU"]={"code":"DT6 6PU","region":"England","city":"Charmouth","latitude":50.73889,"longitude":-2.90055}}(window,'GeoPostal','GB');

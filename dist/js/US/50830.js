@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50830"]={"code":"50830","region":"Iowa","city":"Afton","latitude":41.02806,"longitude":-94.19694}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1700000"]={"code":"1700000","region":"Coquimbo","city":"La Serena","latitude":-29.90778,"longitude":-71.25417}}(window,'GeoPostal','CL');

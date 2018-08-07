@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR12 9AE"]={"code":"NR12 9AE","region":"England","city":"Stalham","latitude":52.77079,"longitude":1.51783}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2503"]={"code":"2503","region":"La Union","city":"Aringay","latitude":16.394,"longitude":120.3545}}(window,'GeoPostal','PH');

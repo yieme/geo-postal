@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84772"]={"code":"84772","region":"UT","city":"Summit","latitude":37.8011,"longitude":-112.9363}}(window,'GeoPostal','US');

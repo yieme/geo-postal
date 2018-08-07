@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27350"]={"code":"27350","region":"NC","city":"Sophia","latitude":35.8298,"longitude":-79.8986}}(window,'GeoPostal','US');

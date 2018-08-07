@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606804"]={"code":"606804","region":"Tamil Nadu","city":"Vettavalam","latitude":12.1,"longitude":79.25}}(window,'GeoPostal','IN');

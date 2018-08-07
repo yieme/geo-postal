@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54612"]={"code":"54612","region":"Wisconsin","city":"Arcadia","latitude":44.251325,"longitude":-91.49523}}(window,'GeoPostal','US');

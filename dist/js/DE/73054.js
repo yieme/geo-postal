@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73054"]={"code":"73054","region":"Baden-Wurttemberg","city":"Eislingen","latitude":48.69515,"longitude":9.70676}}(window,'GeoPostal','DE');

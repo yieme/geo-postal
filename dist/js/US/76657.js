@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76657"]={"code":"76657","region":"Texas","city":"McGregor","latitude":31.440559,"longitude":-97.398009}}(window,'GeoPostal','US');

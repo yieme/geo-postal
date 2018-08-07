@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL27 7TY"]={"code":"PL27 7TY","region":"England","city":"Saint Ervan","latitude":50.48333,"longitude":-4.98333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53051"]={"code":"53051","region":"Wisconsin","city":"Menomonee Falls","latitude":43.1472,"longitude":-88.1182}}(window,'GeoPostal','US');

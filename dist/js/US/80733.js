@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80733"]={"code":"80733","region":"Colorado","city":"Hillrose","latitude":40.332188,"longitude":-103.513086}}(window,'GeoPostal','US');

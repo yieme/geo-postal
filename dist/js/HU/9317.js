@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9317"]={"code":"9317","region":"Gyor-Moson-Sopron","city":"Szany","latitude":47.46423,"longitude":17.30402}}(window,'GeoPostal','HU');

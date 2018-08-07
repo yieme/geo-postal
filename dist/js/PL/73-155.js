@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73-155"]={"code":"73-155","region":"Zachodniopomorskie","city":"Wegorzyno","latitude":53.54101,"longitude":15.55964}}(window,'GeoPostal','PL');

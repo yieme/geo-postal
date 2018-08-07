@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52538"]={"code":"52538","region":"Nordrhein-Westfalen","city":"Isenbruch","latitude":51.04117,"longitude":5.87941}}(window,'GeoPostal','DE');

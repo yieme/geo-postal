@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5592"]={"code":"5592","region":"Syddanmark","city":"Ejby","latitude":55.4301,"longitude":9.92973}}(window,'GeoPostal','DK');

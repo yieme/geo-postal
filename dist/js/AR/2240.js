@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2240"]={"code":"2240","region":"Santa Fe","city":"Coronda","latitude":-31.97263,"longitude":-60.91982}}(window,'GeoPostal','AR');

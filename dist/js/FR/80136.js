@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80136"]={"code":"80136","region":"Hauts-de-France","city":"Rivery","latitude":49.90328,"longitude":2.32235}}(window,'GeoPostal','FR');

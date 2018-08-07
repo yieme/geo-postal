@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85417"]={"code":"85417","region":"Bayern","city":"Marzling","latitude":48.40904,"longitude":11.79382}}(window,'GeoPostal','DE');

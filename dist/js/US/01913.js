@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01913"]={"code":"01913","region":"MA","city":"Amesbury","latitude":42.8559,"longitude":-70.9367}}(window,'GeoPostal','US');

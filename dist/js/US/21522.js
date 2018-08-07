@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21522"]={"code":"21522","region":"MD","city":"Bittinger","latitude":39.6023,"longitude":-79.2234}}(window,'GeoPostal','US');

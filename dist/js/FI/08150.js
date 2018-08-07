@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08150"]={"code":"08150","region":"Uusimaa","city":"Lohja","latitude":60.24859,"longitude":24.06534}}(window,'GeoPostal','FI');

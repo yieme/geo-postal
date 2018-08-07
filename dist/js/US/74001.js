@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74001"]={"code":"74001","region":"Oklahoma","city":"Avant","latitude":36.488584,"longitude":-96.060016}}(window,'GeoPostal','US');

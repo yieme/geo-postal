@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3127"]={"code":"3127","region":"Bay of Plenty","city":"Kawerau","latitude":-38.1,"longitude":176.7}}(window,'GeoPostal','NZ');

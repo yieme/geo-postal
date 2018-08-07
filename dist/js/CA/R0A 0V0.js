@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 0V0"]={"code":"R0A 0V0","region":"Manitoba","city":"Hochstadt","latitude":49.47419,"longitude":-96.87343}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12974"]={"code":"12974","region":"NY","city":"Port Henry","latitude":44.0465,"longitude":-73.4705}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64404"]={"code":"64404","region":"Nouvelle-Aquitaine","city":"Oloron-Sainte-Marie","latitude":43.19441,"longitude":-0.61069}}(window,'GeoPostal','FR');

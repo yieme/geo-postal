@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23024"]={"code":"23024","region":"VA","city":"Bumpass","latitude":37.8984,"longitude":-77.7966}}(window,'GeoPostal','US');

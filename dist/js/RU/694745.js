@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694745"]={"code":"694745","region":"Sakhalinskaya oblast'","city":"Nevel'sk","latitude":46.67333,"longitude":141.86333}}(window,'GeoPostal','RU');

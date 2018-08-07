@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7L 0A1"]={"code":"L7L 0A1","region":"Ontario","city":"Burlington","latitude":43.38621,"longitude":-79.83713}}(window,'GeoPostal','CA');

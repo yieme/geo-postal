@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3191"]={"code":"3191","region":"Victoria","city":"Sandringham","latitude":-37.95,"longitude":145}}(window,'GeoPostal','AU');

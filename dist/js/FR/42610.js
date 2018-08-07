@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42610"]={"code":"42610","region":"Auvergne-Rhone-Alpes","city":"Saint-Georges-Haute-Ville","latitude":45.55487,"longitude":4.09952}}(window,'GeoPostal','FR');

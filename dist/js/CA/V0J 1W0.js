@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 1W0"]={"code":"V0J 1W0","region":"British Columbia","city":"Granisle","latitude":54.886815,"longitude":-126.207027}}(window,'GeoPostal','CA');

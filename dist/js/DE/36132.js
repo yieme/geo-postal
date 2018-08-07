@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36132"]={"code":"36132","region":"Hessen","city":"Eiterfeld","latitude":50.76667,"longitude":9.8}}(window,'GeoPostal','DE');

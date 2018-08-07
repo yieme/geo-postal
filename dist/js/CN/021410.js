@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["021410"]={"code":"021410","region":"Nei Mongol","city":"Manzhouli","latitude":49.6,"longitude":117.43333}}(window,'GeoPostal','CN');

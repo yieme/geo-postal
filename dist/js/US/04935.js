@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04935"]={"code":"04935","region":"ME","city":"East Vassalboro","latitude":44.4478,"longitude":-69.6059}}(window,'GeoPostal','US');

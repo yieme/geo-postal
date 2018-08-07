@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86050"]={"code":"86050","region":"Donetska oblast","city":"Avdeyevka","latitude":48.13989,"longitude":37.74255}}(window,'GeoPostal','UA');

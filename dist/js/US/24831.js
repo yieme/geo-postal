@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24831"]={"code":"24831","region":"WV","city":"Elkhorn","latitude":37.3857,"longitude":-81.4109}}(window,'GeoPostal','US');

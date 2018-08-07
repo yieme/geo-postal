@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3301"]={"code":"3301","region":"Victoria","city":"Tarrington","latitude":-37.76667,"longitude":142.1}}(window,'GeoPostal','AU');

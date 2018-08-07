@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30568"]={"code":"30568","region":"Georgia","city":"Rabun Gap","latitude":34.959789,"longitude":-83.392809}}(window,'GeoPostal','US');

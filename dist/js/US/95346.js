@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95346"]={"code":"95346","region":"California","city":"Mi Wuk Village","latitude":38.06111,"longitude":-120.1875}}(window,'GeoPostal','US');

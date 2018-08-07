@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57472"]={"code":"57472","region":"SD","city":"Selby","latitude":45.4786,"longitude":-100.0541}}(window,'GeoPostal','US');

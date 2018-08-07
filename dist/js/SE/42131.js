@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42131"]={"code":"42131","region":"Hallands lan","city":"Kungsbacka","latitude":57.48719,"longitude":12.07612}}(window,'GeoPostal','SE');

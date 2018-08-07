@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8403"]={"code":"8403","region":"Surigao del Norte","city":"Placer","latitude":9.65417,"longitude":125.6025}}(window,'GeoPostal','PH');

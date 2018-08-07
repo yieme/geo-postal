@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05065"]={"code":"05065","region":"VT","city":"Sharon","latitude":43.7748,"longitude":-72.4243}}(window,'GeoPostal','US');

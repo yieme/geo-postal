@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07030"]={"code":"07030","region":"Sardegna","city":"Viddalba","latitude":40.91697,"longitude":8.89452}}(window,'GeoPostal','IT');

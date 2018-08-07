@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74372"]={"code":"74372","region":"Baden-Wurttemberg","city":"Sersheim","latitude":48.96667,"longitude":9.01667}}(window,'GeoPostal','DE');

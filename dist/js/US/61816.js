@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61816"]={"code":"61816","region":"IL","city":"Broadlands","latitude":39.9142,"longitude":-87.9948}}(window,'GeoPostal','US');

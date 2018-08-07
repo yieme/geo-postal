@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45142"]={"code":"45142","region":"Ohio","city":"Lynchburg","latitude":39.24173,"longitude":-83.79131}}(window,'GeoPostal','US');

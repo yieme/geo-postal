@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-250"]={"code":"17-250","region":"Podlaskie","city":"Kleszczele","latitude":52.57314,"longitude":23.32539}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73494"]={"code":"73494","region":"Baden-Wurttemberg","city":"Zollhof","latitude":49.02822,"longitude":9.99231}}(window,'GeoPostal','DE');

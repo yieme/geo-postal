@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43143"]={"code":"43143","region":"OH","city":"Mount Sterling","latitude":39.7175,"longitude":-83.2806}}(window,'GeoPostal','US');

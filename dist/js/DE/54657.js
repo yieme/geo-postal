@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54657"]={"code":"54657","region":"Rheinland-Pfalz","city":"Badem","latitude":50,"longitude":6.61667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA11 9SJ"]={"code":"CA11 9SJ","region":"England","city":"Ellonby","latitude":54.70896,"longitude":-2.8928}}(window,'GeoPostal','GB');

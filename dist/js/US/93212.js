@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93212"]={"code":"93212","region":"California","city":"Corcoran","latitude":36.09801,"longitude":-119.5604}}(window,'GeoPostal','US');

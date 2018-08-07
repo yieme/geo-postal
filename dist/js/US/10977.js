@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10977"]={"code":"10977","region":"New York","city":"Spring Valley","latitude":41.11315,"longitude":-74.04375}}(window,'GeoPostal','US');

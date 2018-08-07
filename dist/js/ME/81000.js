@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81000"]={"code":"81000","region":"Podgorica","city":"Podgorica","latitude":42.44111,"longitude":19.26361}}(window,'GeoPostal','ME');

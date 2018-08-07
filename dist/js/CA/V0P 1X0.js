@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0P 1X0"]={"code":"V0P 1X0","region":"British Columbia","city":"Tahsis","latitude":49.91629,"longitude":-126.6697}}(window,'GeoPostal','CA');

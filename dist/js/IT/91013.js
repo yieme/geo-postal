@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91013"]={"code":"91013","region":"Sicilia","city":"Calatafimi","latitude":37.91484,"longitude":12.86254}}(window,'GeoPostal','IT');

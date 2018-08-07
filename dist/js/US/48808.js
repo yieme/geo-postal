@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48808"]={"code":"48808","region":"Michigan","city":"Bath","latitude":42.818085,"longitude":-84.459265}}(window,'GeoPostal','US');

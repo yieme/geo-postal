@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43433"]={"code":"43433","region":"OH","city":"Gypsum","latitude":41.5038,"longitude":-82.8708}}(window,'GeoPostal','US');

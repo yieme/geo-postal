@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15712"]={"code":"15712","region":"PA","city":"Arcadia","latitude":40.7817,"longitude":-78.8536}}(window,'GeoPostal','US');

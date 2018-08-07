@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50118"]={"code":"50118","region":"IA","city":"Hartford","latitude":41.4596,"longitude":-93.4022}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65634"]={"code":"65634","region":"Missouri","city":"Cross Timbers","latitude":38.023039,"longitude":-93.200295}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571737"]={"code":"571737","region":"Hainan","city":"Danzhou","latitude":19.5,"longitude":109.583333}}(window,'GeoPostal','CN');

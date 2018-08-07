@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88023"]={"code":"88023","region":"New Mexico","city":"Bayard","latitude":32.76174,"longitude":-108.1306}}(window,'GeoPostal','US');

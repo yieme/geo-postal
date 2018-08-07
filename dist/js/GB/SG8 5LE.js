@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG8 5LE"]={"code":"SG8 5LE","region":"England","city":"Bassingbourn","latitude":52.07821,"longitude":-0.0539}}(window,'GeoPostal','GB');

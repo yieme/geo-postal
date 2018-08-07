@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34320"]={"code":"34320","region":"Hessen","city":"Wattenbach","latitude":51.21333,"longitude":9.59236}}(window,'GeoPostal','DE');

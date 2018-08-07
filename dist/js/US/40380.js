@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40380"]={"code":"40380","region":"Kentucky","city":"Stanton","latitude":37.850218,"longitude":-83.856166}}(window,'GeoPostal','US');

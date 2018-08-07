@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25015"]={"code":"25015","region":"Constantine","city":"'Ain Abid","latitude":36.23194,"longitude":6.94333}}(window,'GeoPostal','DZ');

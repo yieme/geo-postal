@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14047"]={"code":"14047","region":"NY","city":"Derby","latitude":42.6974,"longitude":-78.9834}}(window,'GeoPostal','US');

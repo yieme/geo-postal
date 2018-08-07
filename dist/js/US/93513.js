@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93513"]={"code":"93513","region":"California","city":"Big Pine","latitude":37.16493,"longitude":-118.28955}}(window,'GeoPostal','US');

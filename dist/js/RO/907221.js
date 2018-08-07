@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907221"]={"code":"907221","region":"Constanta","city":"Ostrov","latitude":44.11667,"longitude":27.36667}}(window,'GeoPostal','RO');

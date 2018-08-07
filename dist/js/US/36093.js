@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36093"]={"code":"36093","region":"Alabama","city":"Wetumpka","latitude":32.544192,"longitude":-86.201761}}(window,'GeoPostal','US');

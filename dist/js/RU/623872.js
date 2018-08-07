@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623872"]={"code":"623872","region":"Sverdlovskaya oblast'","city":"Baykalovo","latitude":57.39811,"longitude":63.76841}}(window,'GeoPostal','RU');

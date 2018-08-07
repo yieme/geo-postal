@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["530405"]={"code":"530405","region":"Guangxi","city":"Luxu","latitude":23.22378,"longitude":108.80216}}(window,'GeoPostal','CN');

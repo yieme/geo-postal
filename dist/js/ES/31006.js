@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31006"]={"code":"31006","region":"Navarra, Comunidad Foral de","city":"Pamplona","latitude":42.81687,"longitude":-1.64323}}(window,'GeoPostal','ES');

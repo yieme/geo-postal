@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87056"]={"code":"87056","region":"Calabria","city":"Santo Stefano di Rogliano","latitude":39.19249,"longitude":16.3182}}(window,'GeoPostal','IT');

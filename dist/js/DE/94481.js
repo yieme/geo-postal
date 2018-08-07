@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94481"]={"code":"94481","region":"Bayern","city":"Grafenau","latitude":48.85768,"longitude":13.3974}}(window,'GeoPostal','DE');

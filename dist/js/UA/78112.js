@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78112"]={"code":"78112","region":"Ivano-Frankivska oblast","city":"Chernelytsya","latitude":48.81207,"longitude":25.42477}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-065"]={"code":"62-065","region":"Wielkopolskie","city":"Grodzisk Wielkopolski","latitude":52.22762,"longitude":16.36534}}(window,'GeoPostal','PL');

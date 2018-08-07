@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE19 6RL"]={"code":"PE19 6RL","region":"England","city":"Great Paxton","latitude":52.26057,"longitude":-0.22818}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93449"]={"code":"93449","region":"Bayern","city":"Arnstein","latitude":49.4034,"longitude":12.72307}}(window,'GeoPostal','DE');

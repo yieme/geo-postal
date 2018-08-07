@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["513053"]={"code":"513053","region":"Guangdong","city":"Hengshishui","latitude":24.36501,"longitude":113.80136}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5570"]={"code":"5570","region":"Salzburg","city":"Mauterndorf","latitude":47.13451,"longitude":13.67884}}(window,'GeoPostal','AT');

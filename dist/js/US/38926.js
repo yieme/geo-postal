@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38926"]={"code":"38926","region":"Mississippi","city":"Elliott","latitude":33.78237,"longitude":-89.82801}}(window,'GeoPostal','US');

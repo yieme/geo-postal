@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827125"]={"code":"827125","region":"Tulcea","city":"Vacareni","latitude":45.32415,"longitude":28.19512}}(window,'GeoPostal','RO');

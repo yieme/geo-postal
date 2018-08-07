@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81250"]={"code":"81250","region":"Cetinje","city":"Cetinje","latitude":42.39063,"longitude":18.91417}}(window,'GeoPostal','ME');

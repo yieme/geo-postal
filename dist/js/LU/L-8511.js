@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-8511"]={"code":"L-8511","region":"Diekirch","city":"Redange-sur-Attert","latitude":49.76556,"longitude":5.89083}}(window,'GeoPostal','LU');

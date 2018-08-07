@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04485"]={"code":"04485","region":"ME","city":"Shirley Mills","latitude":45.3609,"longitude":-69.6202}}(window,'GeoPostal','US');

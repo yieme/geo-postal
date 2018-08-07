@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49370"]={"code":"49370","region":"Pays-de-la-Loire","city":"Becon-les-Granits","latitude":47.50134,"longitude":-0.8}}(window,'GeoPostal','FR');

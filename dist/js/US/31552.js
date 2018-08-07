@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31552"]={"code":"31552","region":"Georgia","city":"Millwood","latitude":31.27377,"longitude":-82.637948}}(window,'GeoPostal','US');

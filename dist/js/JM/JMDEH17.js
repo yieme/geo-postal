@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDEH17"]={"code":"JMDEH17","region":"Saint Elizabeth","city":"Nain","latitude":17.9612,"longitude":-77.59868}}(window,'GeoPostal','JM');

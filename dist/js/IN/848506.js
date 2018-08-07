@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["848506"]={"code":"848506","region":"West Bengal","city":"Kaliyaganj","latitude":25.63333,"longitude":88.31667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0H 2R0"]={"code":"N0H 2R0","region":"Ontario","city":"Tobermory","latitude":45.25007,"longitude":-81.66647}}(window,'GeoPostal','CA');

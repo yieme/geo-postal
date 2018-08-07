@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38700"]={"code":"38700","region":"Niedersachsen","city":"Braunlage","latitude":51.72651,"longitude":10.6109}}(window,'GeoPostal','DE');

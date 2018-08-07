@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12809"]={"code":"12809","region":"NY","city":"Argyle","latitude":43.2381,"longitude":-73.4641}}(window,'GeoPostal','US');

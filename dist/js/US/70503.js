@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70503"]={"code":"70503","region":"Louisiana","city":"Lafayette","latitude":30.187149,"longitude":-92.04637}}(window,'GeoPostal','US');

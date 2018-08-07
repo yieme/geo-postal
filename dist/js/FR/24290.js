@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24290"]={"code":"24290","region":"Nouvelle-Aquitaine","city":"Montignac","latitude":45.06429,"longitude":1.16196}}(window,'GeoPostal','FR');

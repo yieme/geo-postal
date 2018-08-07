@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69161"]={"code":"69161","region":"Auvergne-Rhone-Alpes","city":"Rillieux-la-Pape","latitude":45.81667,"longitude":4.9}}(window,'GeoPostal','FR');

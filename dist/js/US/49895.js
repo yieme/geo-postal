@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49895"]={"code":"49895","region":"Michigan","city":"Wetmore","latitude":46.33778,"longitude":-86.57139}}(window,'GeoPostal','US');

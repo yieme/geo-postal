@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54023"]={"code":"54023","region":"Toscana","city":"Filattiera","latitude":44.33005,"longitude":9.93308}}(window,'GeoPostal','IT');

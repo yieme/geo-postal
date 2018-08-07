@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117000"]={"code":"117000","region":"Liaoning","city":"Benxi","latitude":41.28861,"longitude":123.765}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12413"]={"code":"12413","region":"NY","city":"Cairo","latitude":42.3096,"longitude":-74.0115}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461115"]={"code":"461115","region":"Madhya Pradesh","city":"Babai","latitude":22.7,"longitude":77.93333}}(window,'GeoPostal','IN');

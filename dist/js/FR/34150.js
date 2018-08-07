@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34150"]={"code":"34150","region":"Occitanie","city":"Gignac","latitude":43.652,"longitude":3.5509}}(window,'GeoPostal','FR');

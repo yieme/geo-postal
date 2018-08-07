@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99837"]={"code":"99837","region":"Hessen","city":"Obersuhl","latitude":50.94982,"longitude":10.03308}}(window,'GeoPostal','DE');

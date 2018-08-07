@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83338"]={"code":"83338","region":"ID","city":"Jerome","latitude":42.7178,"longitude":-114.5012}}(window,'GeoPostal','US');

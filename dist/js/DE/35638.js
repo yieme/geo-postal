@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35638"]={"code":"35638","region":"Hessen","city":"Leun","latitude":50.55129,"longitude":8.35836}}(window,'GeoPostal','DE');

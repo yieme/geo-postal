@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HD3 4BQ"]={"code":"HD3 4BQ","region":"England","city":"Lindley","latitude":53.65,"longitude":-1.81667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23829"]={"code":"23829","region":"VA","city":"Capron","latitude":36.7243,"longitude":-77.2394}}(window,'GeoPostal','US');

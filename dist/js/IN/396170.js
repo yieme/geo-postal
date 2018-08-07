@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396170"]={"code":"396170","region":"Maharashtra","city":"Boisar","latitude":19.8,"longitude":72.75}}(window,'GeoPostal','IN');

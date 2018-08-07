@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31823"]={"code":"31823","region":"GA","city":"Pine Mountain Valley","latitude":32.8226,"longitude":-84.8204}}(window,'GeoPostal','US');

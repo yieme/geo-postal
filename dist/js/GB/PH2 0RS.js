@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 0RS"]={"code":"PH2 0RS","region":"Scotland","city":"Dunning","latitude":56.31201,"longitude":-3.58638}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01056"]={"code":"01056","region":"Massachusetts","city":"Ludlow","latitude":42.172924,"longitude":-72.470571}}(window,'GeoPostal','US');

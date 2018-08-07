@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66600"]={"code":"66600","region":"Occitanie","city":"Espira-de-l'Agly","latitude":42.7781,"longitude":2.8364}}(window,'GeoPostal','FR');

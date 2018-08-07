@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J6E 1E4"]={"code":"J6E 1E4","region":"Quebec","city":"Joliette","latitude":46.041317,"longitude":-73.437027}}(window,'GeoPostal','CA');

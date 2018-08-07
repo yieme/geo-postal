@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72417"]={"code":"72417","region":"Arkansas","city":"Brookland","latitude":35.902937,"longitude":-90.580177}}(window,'GeoPostal','US');

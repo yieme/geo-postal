@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70785"]={"code":"70785","region":"Louisiana","city":"Walker","latitude":30.519258,"longitude":-90.851375}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10500"]={"code":"10500","region":"Krung Thep Maha Nakhon","city":"Sathon","latitude":13.7085,"longitude":100.52619}}(window,'GeoPostal','TH');

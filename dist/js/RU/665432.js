@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665432"]={"code":"665432","region":"Irkutskaya oblast'","city":"Mishelevka","latitude":52.8575,"longitude":103.17194}}(window,'GeoPostal','RU');

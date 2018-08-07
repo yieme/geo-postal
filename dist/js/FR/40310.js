@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40310"]={"code":"40310","region":"Nouvelle-Aquitaine","city":"Gabarret","latitude":43.98779,"longitude":0.00978}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43300"]={"code":"43300","region":"Selangor","city":"Seri Kembangan","latitude":3.033333,"longitude":101.716667}}(window,'GeoPostal','MY');

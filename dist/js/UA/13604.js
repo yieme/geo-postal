@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13604"]={"code":"13604","region":"Zhytomyrska oblast","city":"Ruzhyn","latitude":49.7228,"longitude":29.20455}}(window,'GeoPostal','UA');

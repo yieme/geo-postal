@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15005"]={"code":"15005","region":"Pennsylvania","city":"Baden","latitude":40.63507,"longitude":-80.22812}}(window,'GeoPostal','US');

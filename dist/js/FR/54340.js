@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54340"]={"code":"54340","region":"Grand-Est","city":"Pompey","latitude":48.76653,"longitude":6.12162}}(window,'GeoPostal','FR');

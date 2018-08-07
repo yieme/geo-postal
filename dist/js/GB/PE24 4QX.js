@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE24 4QX"]={"code":"PE24 4QX","region":"England","city":"Thorpe Saint Peter","latitude":53.11667,"longitude":0.21667}}(window,'GeoPostal','GB');

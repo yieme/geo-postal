@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72955"]={"code":"72955","region":"AR","city":"Uniontown","latitude":35.5748,"longitude":-94.4349}}(window,'GeoPostal','US');

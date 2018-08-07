@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06905"]={"code":"06905","region":"Sachsen-Anhalt","city":"Bad Schmiedeberg","latitude":51.68516,"longitude":12.73482}}(window,'GeoPostal','DE');

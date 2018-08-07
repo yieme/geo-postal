@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89392"]={"code":"89392","region":"Vasternorrlands lan","city":"Bjasta","latitude":63.2,"longitude":18.5}}(window,'GeoPostal','SE');

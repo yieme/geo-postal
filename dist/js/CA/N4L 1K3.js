@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N4L 1K3"]={"code":"N4L 1K3","region":"Ontario","city":"Georgian Beach","latitude":44.6501,"longitude":-80.63301}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34399"]={"code":"34399","region":"Hessen","city":"Gieselwerder","latitude":51.59818,"longitude":9.55071}}(window,'GeoPostal','DE');

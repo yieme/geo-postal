@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST21 6JQ"]={"code":"ST21 6JQ","region":"England","city":"Ellenhall","latitude":52.83354,"longitude":-2.23552}}(window,'GeoPostal','GB');

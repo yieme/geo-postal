@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98059"]={"code":"98059","region":"Washington","city":"Newcastle","latitude":47.4831,"longitude":-122.12982}}(window,'GeoPostal','US');

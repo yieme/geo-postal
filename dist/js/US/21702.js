@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21702"]={"code":"21702","region":"Maryland","city":"Frederick","latitude":39.4944,"longitude":-77.45352}}(window,'GeoPostal','US');

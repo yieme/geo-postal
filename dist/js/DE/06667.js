@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06667"]={"code":"06667","region":"Sachsen-Anhalt","city":"Weissenfels","latitude":51.20148,"longitude":11.96843}}(window,'GeoPostal','DE');

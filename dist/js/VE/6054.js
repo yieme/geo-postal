@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6054"]={"code":"6054","region":"Anzoategui","city":"El Tigre","latitude":8.88752,"longitude":-64.24544}}(window,'GeoPostal','VE');

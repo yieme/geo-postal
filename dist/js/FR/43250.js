@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43250"]={"code":"43250","region":"Auvergne-Rhone-Alpes","city":"Sainte-Florine","latitude":45.40546,"longitude":3.31995}}(window,'GeoPostal','FR');

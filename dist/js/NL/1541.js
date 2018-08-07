@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1541"]={"code":"1541","region":"Noord-Holland","city":"Zaanstad","latitude":52.45313,"longitude":4.81356}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23015"]={"code":"23015","region":"VA","city":"Beaverdam","latitude":37.9038,"longitude":-77.6308}}(window,'GeoPostal','US');

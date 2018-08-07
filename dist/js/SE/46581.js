@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46581"]={"code":"46581","region":"Vastra Gotalands lan","city":"Nossebro","latitude":58.18808,"longitude":12.71599}}(window,'GeoPostal','SE');

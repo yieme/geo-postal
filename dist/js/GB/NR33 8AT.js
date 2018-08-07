@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR33 8AT"]={"code":"NR33 8AT","region":"England","city":"Carlton Colville","latitude":52.45209,"longitude":1.6937}}(window,'GeoPostal','GB');

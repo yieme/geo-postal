@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96756"]={"code":"96756","region":"Hawaii","city":"Koloa","latitude":21.90236,"longitude":-159.46416}}(window,'GeoPostal','US');

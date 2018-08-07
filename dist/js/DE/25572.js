@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25572"]={"code":"25572","region":"Schleswig-Holstein","city":"Heideducht","latitude":53.88404,"longitude":9.25853}}(window,'GeoPostal','DE');

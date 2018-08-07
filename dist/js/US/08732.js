@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08732"]={"code":"08732","region":"New Jersey","city":"Island Heights","latitude":39.94206,"longitude":-74.14986}}(window,'GeoPostal','US');

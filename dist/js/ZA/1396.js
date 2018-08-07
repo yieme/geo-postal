@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1396"]={"code":"1396","region":"Limpopo","city":"Phalaborwa","latitude":-23.94299,"longitude":31.14107}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0832"]={"code":"0832","region":"Northern Territory","city":"Rosebery","latitude":-12.51046,"longitude":130.9878}}(window,'GeoPostal','AU');

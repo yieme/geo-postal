@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632202"]={"code":"632202","region":"Novosibirskaya oblast'","city":"Chany","latitude":55.31205,"longitude":76.76468}}(window,'GeoPostal','RU');

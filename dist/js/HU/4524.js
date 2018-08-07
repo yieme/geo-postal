@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4524"]={"code":"4524","region":"Szabolcs-Szatmar-Bereg","city":"Ajak","latitude":48.17664,"longitude":22.06273}}(window,'GeoPostal','HU');

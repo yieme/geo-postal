@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47250"]={"code":"47250","region":"Castilla y Leon","city":"Mojados","latitude":41.43237,"longitude":-4.6649}}(window,'GeoPostal','ES');

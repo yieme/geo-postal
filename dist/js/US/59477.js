@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59477"]={"code":"59477","region":"Montana","city":"Simms","latitude":47.493859,"longitude":-111.928889}}(window,'GeoPostal','US');

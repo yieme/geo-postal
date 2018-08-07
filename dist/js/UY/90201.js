@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90201"]={"code":"90201","region":"Canelones","city":"Progreso","latitude":-34.665,"longitude":-56.21944}}(window,'GeoPostal','UY');

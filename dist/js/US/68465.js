@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68465"]={"code":"68465","region":"NE","city":"Wilber","latitude":40.4821,"longitude":-96.9757}}(window,'GeoPostal','US');

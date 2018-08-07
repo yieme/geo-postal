@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9140"]={"code":"9140","region":"Oost-Vlaanderen","city":"Temse","latitude":51.12794,"longitude":4.21372}}(window,'GeoPostal','BE');

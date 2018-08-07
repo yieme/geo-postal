@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3126"]={"code":"3126","region":"New South Wales","city":"Canterbury","latitude":-33.9167,"longitude":151.1}}(window,'GeoPostal','AU');

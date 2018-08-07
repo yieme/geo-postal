@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55569"]={"code":"55569","region":"Rheinland-Pfalz","city":"Monzingen","latitude":49.8,"longitude":7.58333}}(window,'GeoPostal','DE');

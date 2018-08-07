@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70037"]={"code":"70037","region":"Louisiana","city":"Belle Chasse","latitude":29.85493,"longitude":-89.99063}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70344"]={"code":"70344","region":"LA","city":"Chauvin","latitude":29.4634,"longitude":-90.598}}(window,'GeoPostal','US');

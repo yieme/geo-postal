@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["758079"]={"code":"758079","region":"Odisha","city":"Barbil","latitude":21.65685,"longitude":85.64349}}(window,'GeoPostal','IN');

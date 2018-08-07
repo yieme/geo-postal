@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48438"]={"code":"48438","region":"MI","city":"Goodrich","latitude":42.9147,"longitude":-83.4845}}(window,'GeoPostal','US');

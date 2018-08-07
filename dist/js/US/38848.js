@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38848"]={"code":"38848","region":"MS","city":"Greenwood Springs","latitude":33.8871,"longitude":-88.3089}}(window,'GeoPostal','US');

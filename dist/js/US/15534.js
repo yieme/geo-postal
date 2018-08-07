@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15534"]={"code":"15534","region":"Pennsylvania","city":"Buffalo Mills","latitude":39.922613,"longitude":-78.708845}}(window,'GeoPostal','US');

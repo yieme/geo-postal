@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71336"]={"code":"71336","region":"Louisiana","city":"Gilbert","latitude":32.04972,"longitude":-91.66}}(window,'GeoPostal','US');

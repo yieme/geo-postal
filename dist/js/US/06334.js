@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06334"]={"code":"06334","region":"CT","city":"Bozrah","latitude":41.5465,"longitude":-72.1711}}(window,'GeoPostal','US');

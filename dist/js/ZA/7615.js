@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7615"]={"code":"7615","region":"Western Cape","city":"Stellenbosch","latitude":-33.93462,"longitude":18.86676}}(window,'GeoPostal','ZA');

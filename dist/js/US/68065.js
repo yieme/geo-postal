@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68065"]={"code":"68065","region":"NE","city":"Valparaiso","latitude":41.0843,"longitude":-96.8091}}(window,'GeoPostal','US');

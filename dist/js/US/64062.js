@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64062"]={"code":"64062","region":"MO","city":"Lawson","latitude":39.4401,"longitude":-94.1966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 2415"]={"code":"AZ 2415","region":"Haciqabul","city":"Mughan","latitude":40.09902,"longitude":48.81886}}(window,'GeoPostal','AZ');

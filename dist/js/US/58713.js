@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58713"]={"code":"58713","region":"ND","city":"Bantry","latitude":48.5351,"longitude":-100.5954}}(window,'GeoPostal','US');

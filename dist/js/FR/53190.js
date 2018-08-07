@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53190"]={"code":"53190","region":"Pays-de-la-Loire","city":"Landivy","latitude":48.47868,"longitude":-1.0332}}(window,'GeoPostal','FR');

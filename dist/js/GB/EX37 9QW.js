@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX37 9QW"]={"code":"EX37 9QW","region":"England","city":"Chittlehampton","latitude":51.01248,"longitude":-3.94549}}(window,'GeoPostal','GB');

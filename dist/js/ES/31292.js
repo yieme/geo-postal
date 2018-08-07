@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31292"]={"code":"31292","region":"Navarra, Comunidad Foral de","city":"Yerri","latitude":42.70161,"longitude":-1.93806}}(window,'GeoPostal','ES');

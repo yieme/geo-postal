@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155048"]={"code":"155048","region":"Ivanovskaya oblast'","city":"Teykovo","latitude":56.85796,"longitude":40.53692}}(window,'GeoPostal','RU');

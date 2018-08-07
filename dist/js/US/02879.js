@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02879"]={"code":"02879","region":"Rhode Island","city":"Wakefield","latitude":41.422162,"longitude":-71.531376}}(window,'GeoPostal','US');

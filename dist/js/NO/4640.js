@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4640"]={"code":"4640","region":"Vest-Agder","city":"Sogne","latitude":58.08333,"longitude":7.81667}}(window,'GeoPostal','NO');

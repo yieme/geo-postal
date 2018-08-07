@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52701"]={"code":"52701","region":"IA","city":"Andover","latitude":41.9792,"longitude":-90.2518}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32033"]={"code":"32033","region":"FL","city":"Elkton","latitude":29.7882,"longitude":-81.462}}(window,'GeoPostal','US');

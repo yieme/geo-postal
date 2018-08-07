@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54430"]={"code":"54430","region":"Wisconsin","city":"Elton","latitude":45.149433,"longitude":-88.891394}}(window,'GeoPostal','US');

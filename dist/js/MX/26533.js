@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26533"]={"code":"26533","region":"Chiapas","city":"Tonala","latitude":16.08333,"longitude":-93.75}}(window,'GeoPostal','MX');

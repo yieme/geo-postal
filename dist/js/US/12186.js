@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12186"]={"code":"12186","region":"NY","city":"Voorheesville","latitude":42.6431,"longitude":-73.9448}}(window,'GeoPostal','US');

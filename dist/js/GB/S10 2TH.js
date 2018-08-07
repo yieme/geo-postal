@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S10 2TH"]={"code":"S10 2TH","region":"England","city":"Sheffield","latitude":53.38297,"longitude":-1.4659}}(window,'GeoPostal','GB');

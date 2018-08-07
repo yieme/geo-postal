@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75140"]={"code":"75140","region":"Puebla","city":"Soltepec","latitude":19.11667,"longitude":-97.7}}(window,'GeoPostal','MX');

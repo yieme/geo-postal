@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49630"]={"code":"49630","region":"Pays-de-la-Loire","city":"Maze","latitude":47.45632,"longitude":-0.27106}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3333"]={"code":"3333","region":"Victoria","city":"Meredith","latitude":-37.84539,"longitude":144.07738}}(window,'GeoPostal','AU');

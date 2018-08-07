@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43970"]={"code":"43970","region":"OH","city":"Wolf Run","latitude":40.4673,"longitude":-80.8893}}(window,'GeoPostal','US');

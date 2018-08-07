@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR7 4RQ"]={"code":"HR7 4RQ","region":"England","city":"Little Cowarne","latitude":52.1548,"longitude":-2.57936}}(window,'GeoPostal','GB');

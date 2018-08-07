@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6901"]={"code":"6901","region":"Western Australia","city":"Leederville","latitude":-31.93628,"longitude":115.8419}}(window,'GeoPostal','AU');

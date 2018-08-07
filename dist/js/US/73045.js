@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73045"]={"code":"73045","region":"OK","city":"Harrah","latitude":35.4833,"longitude":-97.1734}}(window,'GeoPostal','US');

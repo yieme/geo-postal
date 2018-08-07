@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73768"]={"code":"73768","region":"OK","city":"Ringwood","latitude":36.3753,"longitude":-98.2706}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 2QX"]={"code":"CA10 2QX","region":"England","city":"Rosgill","latitude":54.54499,"longitude":-2.71156}}(window,'GeoPostal','GB');

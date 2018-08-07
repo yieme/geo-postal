@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62349"]={"code":"62349","region":"IL","city":"Loraine","latitude":40.1532,"longitude":-91.213}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11689"]={"code":"11689","region":"Andalucia","city":"Zahara","latitude":36.84055,"longitude":-5.39128}}(window,'GeoPostal','ES');

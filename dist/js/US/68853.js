@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68853"]={"code":"68853","region":"Nebraska","city":"Loup City","latitude":41.277565,"longitude":-98.965892}}(window,'GeoPostal','US');

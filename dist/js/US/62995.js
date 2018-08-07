@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62995"]={"code":"62995","region":"Illinois","city":"Vienna","latitude":37.416727,"longitude":-88.898314}}(window,'GeoPostal','US');

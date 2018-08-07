@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35029"]={"code":"35029","region":"Boumerdes","city":"Draa Ben Khedda","latitude":36.73436,"longitude":3.96223}}(window,'GeoPostal','DZ');

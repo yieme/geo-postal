@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18500"]={"code":"18500","region":"Centre-Val de Loire","city":"Foecy","latitude":47.17618,"longitude":2.16257}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04476"]={"code":"04476","region":"Maine","city":"Penobscot","latitude":44.47102,"longitude":-68.70927}}(window,'GeoPostal','US');

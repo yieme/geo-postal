@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59529"]={"code":"59529","region":"Montana","city":"Hogeland","latitude":48.877351,"longitude":-108.7191}}(window,'GeoPostal','US');

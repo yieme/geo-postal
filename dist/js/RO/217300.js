@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217300"]={"code":"217300","region":"Arges","city":"Musetesti","latitude":45.15,"longitude":23.46667}}(window,'GeoPostal','RO');

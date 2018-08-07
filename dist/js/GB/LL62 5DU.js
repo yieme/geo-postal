@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL62 5DU"]={"code":"LL62 5DU","region":"Wales","city":"Llangristiolus","latitude":53.23412,"longitude":-4.35225}}(window,'GeoPostal','GB');

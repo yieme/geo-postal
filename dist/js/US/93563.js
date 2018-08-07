@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93563"]={"code":"93563","region":"CA","city":"Valyermo","latitude":34.3966,"longitude":-117.7604}}(window,'GeoPostal','US');

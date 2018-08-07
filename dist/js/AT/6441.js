@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6441"]={"code":"6441","region":"Tirol","city":"Umhausen","latitude":47.13333,"longitude":10.93333}}(window,'GeoPostal','AT');

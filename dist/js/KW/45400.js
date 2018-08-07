@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45400"]={"code":"45400","region":"Al 'Asimah","city":"Janub as Surrah","latitude":29.26917,"longitude":47.97806}}(window,'GeoPostal','KW');

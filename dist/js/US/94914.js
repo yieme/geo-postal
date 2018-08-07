@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94914"]={"code":"94914","region":"CA","city":"Kentfield","latitude":37.9521,"longitude":-122.5572}}(window,'GeoPostal','US');

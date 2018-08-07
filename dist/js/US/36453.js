@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36453"]={"code":"36453","region":"AL","city":"Kinston","latitude":31.1926,"longitude":-86.1514}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02060"]={"code":"02060","region":"Massachusetts","city":"North Scituate","latitude":42.190525,"longitude":-71.202833}}(window,'GeoPostal','US');

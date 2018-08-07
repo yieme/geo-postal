@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41751"]={"code":"41751","region":"Kentucky","city":"Jeff","latitude":37.20681,"longitude":-83.18771}}(window,'GeoPostal','US');

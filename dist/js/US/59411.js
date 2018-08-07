@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59411"]={"code":"59411","region":"Montana","city":"Babb","latitude":48.86028,"longitude":-113.43667}}(window,'GeoPostal','US');

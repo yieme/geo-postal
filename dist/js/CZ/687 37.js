@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687 37"]={"code":"687 37","region":"Zlinsky kraj","city":"Polesovice","latitude":49.0339,"longitude":17.34064}}(window,'GeoPostal','CZ');

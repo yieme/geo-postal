@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64628"]={"code":"64628","region":"Missouri","city":"Brookfield","latitude":39.7881,"longitude":-93.07704}}(window,'GeoPostal','US');

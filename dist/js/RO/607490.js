@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607490"]={"code":"607490","region":"Bacau","city":"Rachitoasa","latitude":46.43333,"longitude":27.36667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3425"]={"code":"3425","region":"Borsod-Abauj-Zemplen","city":"Saly","latitude":47.95,"longitude":20.66667}}(window,'GeoPostal','HU');

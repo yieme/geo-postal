@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR10 5PY"]={"code":"NR10 5PY","region":"England","city":"Marsham","latitude":52.76881,"longitude":1.2533}}(window,'GeoPostal','GB');

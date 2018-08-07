@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11760"]={"code":"11760","region":"NY","city":"Islandia","latitude":40.7934,"longitude":-73.4151}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95641"]={"code":"95641","region":"CA","city":"Isleton","latitude":38.157,"longitude":-121.6066}}(window,'GeoPostal','US');

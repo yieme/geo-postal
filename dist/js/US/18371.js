@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18371"]={"code":"18371","region":"Pennsylvania","city":"Saw Creek","latitude":41.11259,"longitude":-75.05073}}(window,'GeoPostal','US');

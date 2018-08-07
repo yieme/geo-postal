@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87315"]={"code":"87315","region":"NM","city":"Fence Lake","latitude":34.7344,"longitude":-108.6934}}(window,'GeoPostal','US');

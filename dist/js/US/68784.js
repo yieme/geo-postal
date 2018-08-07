@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68784"]={"code":"68784","region":"Nebraska","city":"Wakefield","latitude":42.26917,"longitude":-96.86504}}(window,'GeoPostal','US');

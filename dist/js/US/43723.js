@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43723"]={"code":"43723","region":"Ohio","city":"Byesville","latitude":39.96979,"longitude":-81.53651}}(window,'GeoPostal','US');

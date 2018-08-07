@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR6 6BN"]={"code":"WR6 6BN","region":"England","city":"Abberley","latitude":52.30798,"longitude":-2.36398}}(window,'GeoPostal','GB');

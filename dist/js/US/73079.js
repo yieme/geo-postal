@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73079"]={"code":"73079","region":"OK","city":"Pocasset","latitude":35.1544,"longitude":-97.979}}(window,'GeoPostal','US');

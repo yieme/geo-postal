@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38500"]={"code":"38500","region":"Yozgat","city":"Yerkoy","latitude":39.63806,"longitude":34.46722}}(window,'GeoPostal','TR');

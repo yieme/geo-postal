@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 2S0"]={"code":"T0C 2S0","region":"Alberta","city":"Veteran","latitude":52.00012,"longitude":-111.11841}}(window,'GeoPostal','CA');

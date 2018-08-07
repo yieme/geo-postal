@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72179"]={"code":"72179","region":"AR","city":"Wilburn","latitude":35.5106,"longitude":-91.8648}}(window,'GeoPostal','US');

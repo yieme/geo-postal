@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62150"]={"code":"62150","region":"Kamphaeng Phet","city":"Lan Krabue","latitude":16.60003,"longitude":99.84889}}(window,'GeoPostal','TH');

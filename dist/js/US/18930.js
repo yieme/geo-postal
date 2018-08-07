@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18930"]={"code":"18930","region":"Pennsylvania","city":"Kintnersville","latitude":40.508761,"longitude":-75.23757}}(window,'GeoPostal','US');

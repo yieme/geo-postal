@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73641"]={"code":"73641","region":"OK","city":"Dill City","latitude":35.2787,"longitude":-99.1537}}(window,'GeoPostal','US');

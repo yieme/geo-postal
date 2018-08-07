@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33508"]={"code":"33508","region":"Florida","city":"Brandon","latitude":27.9378,"longitude":-82.28592}}(window,'GeoPostal','US');

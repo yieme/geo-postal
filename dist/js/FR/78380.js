@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78380"]={"code":"78380","region":"Ile-de-France","city":"Bougival","latitude":48.86223,"longitude":2.14148}}(window,'GeoPostal','FR');

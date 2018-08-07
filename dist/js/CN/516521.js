@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516521"]={"code":"516521","region":"Guangdong","city":"Neihu","latitude":22.97683,"longitude":115.82798}}(window,'GeoPostal','CN');

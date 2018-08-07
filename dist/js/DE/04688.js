@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04688"]={"code":"04688","region":"Sachsen","city":"Mutzschen","latitude":51.26159,"longitude":12.89125}}(window,'GeoPostal','DE');

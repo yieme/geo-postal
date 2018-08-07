@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA18 6AR"]={"code":"PA18 6AR","region":"Scotland","city":"Wemyss Bay","latitude":55.87614,"longitude":-4.8895}}(window,'GeoPostal','GB');

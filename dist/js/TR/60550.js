@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60550"]={"code":"60550","region":"Sinop","city":"Turkeli","latitude":41.94764,"longitude":34.33861}}(window,'GeoPostal','TR');

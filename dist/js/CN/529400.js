@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["529400"]={"code":"529400","region":"Guangdong","city":"Encheng","latitude":22.18389,"longitude":112.3026}}(window,'GeoPostal','CN');

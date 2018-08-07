@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42565"]={"code":"42565","region":"Kentucky","city":"Windsor","latitude":37.179188,"longitude":-84.915635}}(window,'GeoPostal','US');

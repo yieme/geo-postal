@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56535"]={"code":"56535","region":"Minnesota","city":"Erskine","latitude":47.665033,"longitude":-96.008255}}(window,'GeoPostal','US');

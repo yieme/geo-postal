@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11790"]={"code":"11790","region":"New York","city":"Stony Brook","latitude":40.905648,"longitude":-73.127819}}(window,'GeoPostal','US');

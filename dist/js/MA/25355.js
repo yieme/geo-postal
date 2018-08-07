@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25355"]={"code":"25355","region":"Chaouia-Ouardigha","city":"Oued Zem","latitude":32.8627,"longitude":-6.57359}}(window,'GeoPostal','MA');

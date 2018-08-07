@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7081"]={"code":"7081","region":"Larnaka","city":"Pyla","latitude":35.02917,"longitude":33.69167}}(window,'GeoPostal','CY');

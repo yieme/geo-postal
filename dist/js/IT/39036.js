@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39036"]={"code":"39036","region":"Trentino-Alto Adige","city":"Badia","latitude":46.61012,"longitude":11.89349}}(window,'GeoPostal','IT');

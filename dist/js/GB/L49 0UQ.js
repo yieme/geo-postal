@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L49 0UQ"]={"code":"L49 0UQ","region":"England","city":"Wirral","latitude":53.37616,"longitude":-3.10501}}(window,'GeoPostal','GB');

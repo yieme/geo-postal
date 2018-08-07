@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26070"]={"code":"26070","region":"WV","city":"Wellsburg","latitude":40.2548,"longitude":-80.5961}}(window,'GeoPostal','US');

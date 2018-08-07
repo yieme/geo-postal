@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33195"]={"code":"33195","region":"FL","city":"First Union Bank","latitude":25.7729,"longitude":-80.187}}(window,'GeoPostal','US');

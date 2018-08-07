@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26521"]={"code":"26521","region":"WV","city":"Blacksville","latitude":39.7142,"longitude":-80.2265}}(window,'GeoPostal','US');

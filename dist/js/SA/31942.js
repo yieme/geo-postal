@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31942"]={"code":"31942","region":"Ash Sharqiyah","city":"Dhahran","latitude":26.30324,"longitude":50.13528}}(window,'GeoPostal','SA');

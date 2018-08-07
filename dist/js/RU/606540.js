@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606540"]={"code":"606540","region":"Nizhegorodskaya oblast'","city":"Chkalovsk","latitude":56.76472,"longitude":43.24333}}(window,'GeoPostal','RU');

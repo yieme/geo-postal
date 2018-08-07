@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54564"]={"code":"54564","region":"Wisconsin","city":"Tripoli","latitude":45.55528,"longitude":-89.99417}}(window,'GeoPostal','US');

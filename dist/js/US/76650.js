@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76650"]={"code":"76650","region":"TX","city":"Irene","latitude":31.9921,"longitude":-96.8714}}(window,'GeoPostal','US');

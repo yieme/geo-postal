@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84534"]={"code":"84534","region":"Utah","city":"Montezuma Creek","latitude":37.26011,"longitude":-109.31331}}(window,'GeoPostal','US');

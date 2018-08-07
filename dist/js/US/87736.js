@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87736"]={"code":"87736","region":"NM","city":"Rainsville","latitude":35.9786,"longitude":-105.2092}}(window,'GeoPostal','US');

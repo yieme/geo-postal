@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15057"]={"code":"15057","region":"Pennsylvania","city":"McDonald","latitude":40.363858,"longitude":-80.232378}}(window,'GeoPostal','US');

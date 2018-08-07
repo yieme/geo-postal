@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71972"]={"code":"71972","region":"Arkansas","city":"Vandervoort","latitude":34.376966,"longitude":-94.359667}}(window,'GeoPostal','US');

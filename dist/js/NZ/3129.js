@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3129"]={"code":"3129","region":"Bay of Plenty","city":"Katikati","latitude":-37.55,"longitude":175.91667}}(window,'GeoPostal','NZ');

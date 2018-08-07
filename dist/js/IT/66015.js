@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66015"]={"code":"66015","region":"Abruzzo","city":"Fara San Martino","latitude":42.09004,"longitude":14.20531}}(window,'GeoPostal','IT');

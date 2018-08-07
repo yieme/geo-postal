@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["322128"]={"code":"322128","region":"Delta","city":"Kwale","latitude":5.70632,"longitude":6.43741}}(window,'GeoPostal','NG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54643"]={"code":"54643","region":"WI","city":"Millston","latitude":44.1869,"longitude":-90.6358}}(window,'GeoPostal','US');

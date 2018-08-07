@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41232"]={"code":"41232","region":"Kentucky","city":"Lowmansville","latitude":38.000071,"longitude":-82.715116}}(window,'GeoPostal','US');

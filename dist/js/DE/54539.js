@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54539"]={"code":"54539","region":"Rheinland-Pfalz","city":"Urzig","latitude":49.97943,"longitude":7.0061}}(window,'GeoPostal','DE');

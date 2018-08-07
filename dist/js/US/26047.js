@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26047"]={"code":"26047","region":"WV","city":"New Cumberland","latitude":40.5228,"longitude":-80.5901}}(window,'GeoPostal','US');

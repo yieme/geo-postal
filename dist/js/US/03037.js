@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03037"]={"code":"03037","region":"New Hampshire","city":"Deerfield","latitude":44.23062,"longitude":-71.61703}}(window,'GeoPostal','US');

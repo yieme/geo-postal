@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8503"]={"code":"8503","region":"Wien","city":"Vienna","latitude":48.20849,"longitude":16.37208}}(window,'GeoPostal','AT');

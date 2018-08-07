@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08412"]={"code":"08412","region":"Kyivska oblast","city":"Pereyaslav-Khmel'nyts'kyy","latitude":50.08768,"longitude":31.4795}}(window,'GeoPostal','UA');

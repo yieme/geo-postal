@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12859"]={"code":"12859","region":"NY","city":"Porter Corners","latitude":43.1724,"longitude":-73.8839}}(window,'GeoPostal','US');

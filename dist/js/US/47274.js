@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47274"]={"code":"47274","region":"Indiana","city":"Seymour","latitude":38.958758,"longitude":-85.890537}}(window,'GeoPostal','US');

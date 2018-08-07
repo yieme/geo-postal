@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2035"]={"code":"2035","region":"New South Wales","city":"Maroubra","latitude":-33.95,"longitude":151.23333}}(window,'GeoPostal','AU');

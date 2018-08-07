@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18212"]={"code":"18212","region":"PA","city":"Ashfield","latitude":40.7841,"longitude":-75.7083}}(window,'GeoPostal','US');

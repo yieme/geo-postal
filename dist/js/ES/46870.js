@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46870"]={"code":"46870","region":"Valenciana, Comunidad","city":"Ontinyent","latitude":38.81667,"longitude":-0.61667}}(window,'GeoPostal','ES');

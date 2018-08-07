@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64331"]={"code":"64331","region":"Hessen","city":"Weiterstadt","latitude":49.9039,"longitude":8.58874}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01071"]={"code":"01071","region":"MA","city":"Russell","latitude":42.1471,"longitude":-72.8403}}(window,'GeoPostal','US');

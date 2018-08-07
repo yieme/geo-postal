@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74544"]={"code":"74544","region":"Baden-Wurttemberg","city":"Rauhenbretzingen","latitude":49.08221,"longitude":9.76689}}(window,'GeoPostal','DE');

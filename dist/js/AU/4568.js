@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4568"]={"code":"4568","region":"Queensland","city":"Pinbarren","latitude":-26.33333,"longitude":152.85}}(window,'GeoPostal','AU');

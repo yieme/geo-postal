@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG21 0PN"]={"code":"NG21 0PN","region":"England","city":"Blidworth","latitude":53.09849,"longitude":-1.11689}}(window,'GeoPostal','GB');

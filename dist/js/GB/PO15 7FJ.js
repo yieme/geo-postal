@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO15 7FJ"]={"code":"PO15 7FJ","region":"England","city":"Whiteley","latitude":50.88308,"longitude":-1.2437}}(window,'GeoPostal','GB');

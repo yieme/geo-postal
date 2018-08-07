@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2747"]={"code":"2747","region":"Pest","city":"Tortel","latitude":47.12209,"longitude":19.93714}}(window,'GeoPostal','HU');

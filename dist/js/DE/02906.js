@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02906"]={"code":"02906","region":"Sachsen","city":"Steinolsa","latitude":51.27775,"longitude":14.69888}}(window,'GeoPostal','DE');

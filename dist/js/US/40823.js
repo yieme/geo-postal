@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40823"]={"code":"40823","region":"Kentucky","city":"Cumberland","latitude":36.97815,"longitude":-82.9885}}(window,'GeoPostal','US');

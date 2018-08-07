@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16909"]={"code":"16909","region":"Brandenburg","city":"Berlinchen","latitude":53.21927,"longitude":12.58366}}(window,'GeoPostal','DE');

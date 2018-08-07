@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49417"]={"code":"49417","region":"Michigan","city":"Grand Haven","latitude":43.036749,"longitude":-86.186469}}(window,'GeoPostal','US');

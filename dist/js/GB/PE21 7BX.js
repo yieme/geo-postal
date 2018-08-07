@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE21 7BX"]={"code":"PE21 7BX","region":"England","city":"Wyberton","latitude":52.95164,"longitude":-0.04137}}(window,'GeoPostal','GB');

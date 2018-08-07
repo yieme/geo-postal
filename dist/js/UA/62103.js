@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62103"]={"code":"62103","region":"Kharkivska oblast","city":"Bohodukhiv","latitude":50.16466,"longitude":35.52765}}(window,'GeoPostal','UA');

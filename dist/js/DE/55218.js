@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55218"]={"code":"55218","region":"Rheinland-Pfalz","city":"Ingelheim am Rhein","latitude":49.97078,"longitude":8.05883}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4132"]={"code":"4132","region":"Basel-Landschaft","city":"Muttenz","latitude":47.52271,"longitude":7.64511}}(window,'GeoPostal','CH');

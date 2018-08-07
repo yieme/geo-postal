@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1256"]={"code":"1256","region":"Mpumalanga","city":"White River","latitude":-25.33177,"longitude":31.01166}}(window,'GeoPostal','ZA');

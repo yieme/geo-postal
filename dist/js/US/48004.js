@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48004"]={"code":"48004","region":"MI","city":"Anchorville","latitude":42.8241,"longitude":-82.6652}}(window,'GeoPostal','US');

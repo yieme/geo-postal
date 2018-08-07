@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137180"]={"code":"137180","region":"Dambovita","city":"Crevedia","latitude":44.6,"longitude":25.93333}}(window,'GeoPostal','RO');

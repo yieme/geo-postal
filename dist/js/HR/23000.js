@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23000"]={"code":"23000","region":"Zadarska zupanija","city":"Zadar","latitude":44.11972,"longitude":15.24222}}(window,'GeoPostal','HR');

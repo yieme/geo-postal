@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18360"]={"code":"18360","region":"Pennsylvania","city":"Stroudsburg","latitude":40.988761,"longitude":-75.224661}}(window,'GeoPostal','US');

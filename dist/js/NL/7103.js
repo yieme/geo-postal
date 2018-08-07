@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7103"]={"code":"7103","region":"Gelderland","city":"Winterswijk","latitude":51.9725,"longitude":6.71944}}(window,'GeoPostal','NL');

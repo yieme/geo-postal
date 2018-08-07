@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85347"]={"code":"85347","region":"Arizona","city":"Roll","latitude":32.7516,"longitude":-113.9874}}(window,'GeoPostal','US');

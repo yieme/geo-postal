@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93239"]={"code":"93239","region":"CA","city":"Kettleman City","latitude":36.0083,"longitude":-119.9618}}(window,'GeoPostal','US');

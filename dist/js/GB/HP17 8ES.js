@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP17 8ES"]={"code":"HP17 8ES","region":"England","city":"Haddenham","latitude":51.77326,"longitude":-0.92628}}(window,'GeoPostal','GB');

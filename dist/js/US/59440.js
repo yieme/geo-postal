@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59440"]={"code":"59440","region":"MT","city":"Floweree","latitude":47.6584,"longitude":-111.1214}}(window,'GeoPostal','US');

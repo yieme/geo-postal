@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2652"]={"code":"2652","region":"New South Wales","city":"Goolgowi","latitude":-33.97795,"longitude":145.71532}}(window,'GeoPostal','AU');

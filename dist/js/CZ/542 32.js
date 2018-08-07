@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["542 32"]={"code":"542 32","region":"Kralovehradecky kraj","city":"Upice","latitude":50.51237,"longitude":16.01607}}(window,'GeoPostal','CZ');

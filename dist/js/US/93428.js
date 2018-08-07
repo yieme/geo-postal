@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93428"]={"code":"93428","region":"CA","city":"Cambria","latitude":35.5566,"longitude":-121.084}}(window,'GeoPostal','US');

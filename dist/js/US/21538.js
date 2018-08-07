@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21538"]={"code":"21538","region":"Maryland","city":"Kitzmiller","latitude":39.379444,"longitude":-79.205}}(window,'GeoPostal','US');

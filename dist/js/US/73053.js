@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73053"]={"code":"73053","region":"OK","city":"Lookeba","latitude":35.3679,"longitude":-98.3898}}(window,'GeoPostal','US');

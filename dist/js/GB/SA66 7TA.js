@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA66 7TA"]={"code":"SA66 7TA","region":"Wales","city":"Llandissilio","latitude":51.85832,"longitude":-4.729}}(window,'GeoPostal','GB');

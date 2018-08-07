@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24864"]={"code":"24864","region":"Schleswig-Holstein","city":"Geelbyholz","latitude":54.55,"longitude":9.7}}(window,'GeoPostal','DE');

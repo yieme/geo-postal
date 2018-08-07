@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15175"]={"code":"15175","region":"Lima","city":"Pativilca","latitude":-10.7,"longitude":-77.78333}}(window,'GeoPostal','PE');

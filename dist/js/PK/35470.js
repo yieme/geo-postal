@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35470"]={"code":"35470","region":"Punjab","city":"Lalian","latitude":31.82414,"longitude":72.79971}}(window,'GeoPostal','PK');

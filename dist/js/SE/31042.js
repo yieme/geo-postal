@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31042"]={"code":"31042","region":"Hallands lan","city":"Haverdal","latitude":56.72222,"longitude":12.67194}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52077"]={"code":"52077","region":"Iowa","city":"Volga","latitude":42.803518,"longitude":-91.542592}}(window,'GeoPostal','US');

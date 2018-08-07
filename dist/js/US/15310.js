@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15310"]={"code":"15310","region":"Pennsylvania","city":"Aleppo","latitude":39.82123,"longitude":-80.46035}}(window,'GeoPostal','US');

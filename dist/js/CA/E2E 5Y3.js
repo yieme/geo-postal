@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E2E 5Y3"]={"code":"E2E 5Y3","region":"New Brunswick","city":"Rothesay","latitude":45.401159,"longitude":-65.975623}}(window,'GeoPostal','CA');

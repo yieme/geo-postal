@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["664 12"]={"code":"664 12","region":"Jihomoravsky kraj","city":"Oslavany","latitude":49.12335,"longitude":16.33653}}(window,'GeoPostal','CZ');

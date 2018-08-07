@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67470"]={"code":"67470","region":"Grand-Est","city":"Mothern","latitude":48.9331,"longitude":8.1547}}(window,'GeoPostal','FR');

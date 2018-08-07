@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF83 3GG"]={"code":"CF83 3GG","region":"Wales","city":"Caerphilly","latitude":51.57452,"longitude":-3.218}}(window,'GeoPostal','GB');

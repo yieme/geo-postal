@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47620"]={"code":"47620","region":"Indiana","city":"Mount Vernon","latitude":37.94466,"longitude":-87.86592}}(window,'GeoPostal','US');

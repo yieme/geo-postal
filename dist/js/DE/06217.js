@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06217"]={"code":"06217","region":"Sachsen-Anhalt","city":"Zscherben","latitude":51.33576,"longitude":11.96968}}(window,'GeoPostal','DE');

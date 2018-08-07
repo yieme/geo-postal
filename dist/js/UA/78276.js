@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78276"]={"code":"78276","region":"Ivano-Frankivska oblast","city":"Velykyy Klyuchiv","latitude":48.47092,"longitude":24.94678}}(window,'GeoPostal','UA');

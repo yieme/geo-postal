@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97722"]={"code":"97722","region":"Oregon","city":"Diamond","latitude":43.01249,"longitude":-118.66526}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28739"]={"code":"28739","region":"Chihuahua","city":"Valentin Gomez Farias","latitude":28.21667,"longitude":-106.58333}}(window,'GeoPostal','MX');

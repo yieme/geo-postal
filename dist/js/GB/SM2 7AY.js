@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SM2 7AY"]={"code":"SM2 7AY","region":"England","city":"Cheam","latitude":51.35788,"longitude":-0.21619}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85390"]={"code":"85390","region":"AZ","city":"Wickenburg","latitude":33.8944,"longitude":-112.8603}}(window,'GeoPostal','US');

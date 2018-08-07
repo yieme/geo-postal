@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72537"]={"code":"72537","region":"Baden-Wurttemberg","city":"Altes Lager","latitude":48.41939,"longitude":9.54925}}(window,'GeoPostal','DE');

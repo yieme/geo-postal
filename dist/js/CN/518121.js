@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["518121"]={"code":"518121","region":"Guangdong","city":"Nan'ao","latitude":22.53619,"longitude":114.48718}}(window,'GeoPostal','CN');

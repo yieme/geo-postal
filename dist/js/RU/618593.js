@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618593"]={"code":"618593","region":"Permskiy kray","city":"Krasnovishersk","latitude":60.40783,"longitude":57.08199}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8511"]={"code":"8511","region":"Steiermark","city":"Stainz","latitude":46.89444,"longitude":15.26722}}(window,'GeoPostal','AT');

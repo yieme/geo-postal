@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652800"]={"code":"652800","region":"Xinjiang","city":"Korla","latitude":41.75972,"longitude":86.14694}}(window,'GeoPostal','CN');

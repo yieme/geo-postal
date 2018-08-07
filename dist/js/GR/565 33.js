@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["565 33"]={"code":"565 33","region":"Kentriki Makedonia","city":"Polichni","latitude":40.66671,"longitude":22.94881}}(window,'GeoPostal','GR');

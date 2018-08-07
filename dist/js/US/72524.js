@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72524"]={"code":"72524","region":"AR","city":"Cord","latitude":35.8184,"longitude":-91.3375}}(window,'GeoPostal','US');

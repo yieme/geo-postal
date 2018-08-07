@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66219"]={"code":"66219","region":"Jawa Timur","city":"Tulungagung","latitude":-8.0657,"longitude":111.9025}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357820"]={"code":"357820","region":"Stavropol'skiy kray","city":"Georgiyevsk","latitude":44.15194,"longitude":43.46972}}(window,'GeoPostal','RU');

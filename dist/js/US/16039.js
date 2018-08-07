@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16039"]={"code":"16039","region":"Pennsylvania","city":"Herman","latitude":40.83714,"longitude":-79.811547}}(window,'GeoPostal','US');

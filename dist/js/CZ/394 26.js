@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394 26"]={"code":"394 26","region":"Kraj Vysocina","city":"Lukavec","latitude":49.56541,"longitude":14.99041}}(window,'GeoPostal','CZ');

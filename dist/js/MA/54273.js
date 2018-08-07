@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54273"]={"code":"54273","region":"Meknes-Tafilalet","city":"Sidi Yahya Ou Saad","latitude":32.68011,"longitude":-5.57738}}(window,'GeoPostal','MA');

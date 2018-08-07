@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28804"]={"code":"28804","region":"North Carolina","city":"Asheville","latitude":35.635838,"longitude":-82.558485}}(window,'GeoPostal','US');

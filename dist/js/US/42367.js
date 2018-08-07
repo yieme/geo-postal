@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42367"]={"code":"42367","region":"KY","city":"Powderly","latitude":37.2429,"longitude":-87.1549}}(window,'GeoPostal','US');

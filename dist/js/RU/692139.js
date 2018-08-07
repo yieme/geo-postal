@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692139"]={"code":"692139","region":"Primorskiy kray","city":"Dal'nerechensk","latitude":45.93389,"longitude":133.7225}}(window,'GeoPostal','RU');

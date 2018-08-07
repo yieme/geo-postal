@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32043"]={"code":"32043","region":"Florida","city":"Green Cove Springs","latitude":29.99191,"longitude":-81.67815}}(window,'GeoPostal','US');

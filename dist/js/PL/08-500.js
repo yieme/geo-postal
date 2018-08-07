@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-500"]={"code":"08-500","region":"Lubelskie","city":"Ryki","latitude":51.62574,"longitude":21.93274}}(window,'GeoPostal','PL');

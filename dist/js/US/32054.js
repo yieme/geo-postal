@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32054"]={"code":"32054","region":"Florida","city":"Lake Butler","latitude":30.020159,"longitude":-82.339762}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79506"]={"code":"79506","region":"Texas","city":"Blackwell","latitude":32.08556,"longitude":-100.31972}}(window,'GeoPostal','US');

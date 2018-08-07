@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14758"]={"code":"14758","region":"NY","city":"Niobe","latitude":42.0126,"longitude":-79.4495}}(window,'GeoPostal','US');

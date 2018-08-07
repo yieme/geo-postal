@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37770"]={"code":"37770","region":"Pirkanmaa","city":"Valkeakoski","latitude":61.26421,"longitude":24.03122}}(window,'GeoPostal','FI');

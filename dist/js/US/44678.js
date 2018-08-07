@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44678"]={"code":"44678","region":"OH","city":"Somerdale","latitude":40.5649,"longitude":-81.3524}}(window,'GeoPostal','US');

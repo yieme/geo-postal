@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39071"]={"code":"39071","region":"MS","city":"Flora","latitude":32.5578,"longitude":-90.3235}}(window,'GeoPostal','US');

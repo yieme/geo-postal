@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06439"]={"code":"06439","region":"CT","city":"Hadlyme","latitude":41.4212,"longitude":-72.4141}}(window,'GeoPostal','US');

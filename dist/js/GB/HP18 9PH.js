@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP18 9PH"]={"code":"HP18 9PH","region":"England","city":"Aylesbury","latitude":51.81665,"longitude":-0.81458}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29223"]={"code":"29223","region":"Coahuila de Zaragoza","city":"Sabinas","latitude":27.85,"longitude":-101.11667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16928"]={"code":"16928","region":"Pennsylvania","city":"Knoxville","latitude":41.95836,"longitude":-77.43852}}(window,'GeoPostal','US');

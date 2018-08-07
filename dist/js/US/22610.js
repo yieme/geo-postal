@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22610"]={"code":"22610","region":"VA","city":"Bentonville","latitude":38.8187,"longitude":-78.2757}}(window,'GeoPostal','US');

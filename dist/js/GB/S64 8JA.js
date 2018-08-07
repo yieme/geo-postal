@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S64 8JA"]={"code":"S64 8JA","region":"England","city":"Swinton","latitude":53.48333,"longitude":-1.31667}}(window,'GeoPostal','GB');

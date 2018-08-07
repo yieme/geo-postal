@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75789"]={"code":"75789","region":"TX","city":"Troup","latitude":32.1117,"longitude":-95.1155}}(window,'GeoPostal','US');

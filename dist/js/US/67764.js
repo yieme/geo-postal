@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67764"]={"code":"67764","region":"KS","city":"Winona","latitude":39.061,"longitude":-101.2216}}(window,'GeoPostal','US');

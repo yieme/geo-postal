@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29710"]={"code":"29710","region":"South Carolina","city":"Clover","latitude":35.105612,"longitude":-81.183056}}(window,'GeoPostal','US');

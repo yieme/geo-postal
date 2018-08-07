@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78541"]={"code":"78541","region":"Texas","city":"Edinburg","latitude":26.29592,"longitude":-98.164071}}(window,'GeoPostal','US');

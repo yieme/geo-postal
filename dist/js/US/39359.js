@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39359"]={"code":"39359","region":"MS","city":"Sebastopol","latitude":32.5729,"longitude":-89.3351}}(window,'GeoPostal','US');

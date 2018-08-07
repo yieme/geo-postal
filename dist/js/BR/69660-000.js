@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69660-000"]={"code":"69660-000","region":"Amazonas","city":"Jutai","latitude":-5.18333,"longitude":-68.9}}(window,'GeoPostal','BR');

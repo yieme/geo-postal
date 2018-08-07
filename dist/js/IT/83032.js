@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83032"]={"code":"83032","region":"Campania","city":"Bonito","latitude":41.09772,"longitude":15.00134}}(window,'GeoPostal','IT');

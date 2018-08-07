@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0P 1J0"]={"code":"J0P 1J0","region":"Quebec","city":"Hudson Heights","latitude":45.46838,"longitude":-74.16362}}(window,'GeoPostal','CA');

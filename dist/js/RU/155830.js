@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155830"]={"code":"155830","region":"Ivanovskaya oblast'","city":"Navoloki","latitude":57.46572,"longitude":41.96344}}(window,'GeoPostal','RU');

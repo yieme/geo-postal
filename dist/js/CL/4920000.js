@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4920000"]={"code":"4920000","region":"La Araucania","city":"Pucon","latitude":-39.28223,"longitude":-71.95427}}(window,'GeoPostal','CL');

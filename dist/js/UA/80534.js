@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80534"]={"code":"80534","region":"Lvivska oblast","city":"Olesko","latitude":49.96233,"longitude":24.89336}}(window,'GeoPostal','UA');

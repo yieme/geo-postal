@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0E 1V0"]={"code":"A0E 1V0","region":"Newfoundland and Labrador","city":"Southport","latitude":48.04989,"longitude":-53.63139}}(window,'GeoPostal','CA');

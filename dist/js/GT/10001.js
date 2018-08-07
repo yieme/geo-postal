@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10001"]={"code":"10001","region":"Suchitepequez","city":"Mazatenango","latitude":14.53333,"longitude":-91.5}}(window,'GeoPostal','GT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["052360"]={"code":"052360","region":"Hebei","city":"Xinji","latitude":37.90278,"longitude":115.20361}}(window,'GeoPostal','CN');

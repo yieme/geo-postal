@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22743"]={"code":"22743","region":"VA","city":"Syria","latitude":38.4972,"longitude":-78.3229}}(window,'GeoPostal','US');

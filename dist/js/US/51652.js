@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51652"]={"code":"51652","region":"Iowa","city":"Sidney","latitude":40.74833,"longitude":-95.6475}}(window,'GeoPostal','US');

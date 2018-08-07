@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA10 0LE"]={"code":"BA10 0LE","region":"England","city":"South Brewham","latitude":51.12306,"longitude":-2.40167}}(window,'GeoPostal','GB');

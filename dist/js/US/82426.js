@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82426"]={"code":"82426","region":"Wyoming","city":"Greybull","latitude":44.48912,"longitude":-108.05621}}(window,'GeoPostal','US');

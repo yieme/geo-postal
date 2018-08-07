@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07250"]={"code":"07250","region":"Auvergne-Rhone-Alpes","city":"Le Pouzin","latitude":44.75173,"longitude":4.74798}}(window,'GeoPostal','FR');

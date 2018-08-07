@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90245"]={"code":"90245","region":"California","city":"El Segundo","latitude":33.922235,"longitude":-118.405515}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57279"]={"code":"57279","region":"South Dakota","city":"Wilmot","latitude":45.415408,"longitude":-96.866118}}(window,'GeoPostal','US');

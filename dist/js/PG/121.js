@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["121"]={"code":"121","region":"National Capital District (Port Moresby)","city":"Port Moresby","latitude":-9.44314,"longitude":147.17972}}(window,'GeoPostal','PG');

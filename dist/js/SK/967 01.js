@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["967 01"]={"code":"967 01","region":"Banskobystricky kraj","city":"Kremnica","latitude":48.70519,"longitude":18.91834}}(window,'GeoPostal','SK');

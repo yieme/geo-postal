@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63833"]={"code":"63833","region":"Marche","city":"Montegiorgio","latitude":43.13225,"longitude":13.53638}}(window,'GeoPostal','IT');

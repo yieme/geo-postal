@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38554"]={"code":"38554","region":"TN","city":"Crawford","latitude":36.2361,"longitude":-85.1688}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L3K 4P6"]={"code":"L3K 4P6","region":"Ontario","city":"Port Colborne","latitude":42.894274,"longitude":-79.254969}}(window,'GeoPostal','CA');

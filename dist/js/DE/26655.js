@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26655"]={"code":"26655","region":"Niedersachsen","city":"Westerstede","latitude":53.25682,"longitude":7.92737}}(window,'GeoPostal','DE');

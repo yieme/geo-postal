@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25024"]={"code":"25024","region":"Lombardia","city":"Leno","latitude":45.37248,"longitude":10.21657}}(window,'GeoPostal','IT');

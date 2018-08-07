@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 2P0"]={"code":"G0X 2P0","region":"Quebec","city":"Saint-Etienne-des-Gres","latitude":46.43335,"longitude":-72.76583}}(window,'GeoPostal','CA');

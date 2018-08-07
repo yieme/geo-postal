@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99960"]={"code":"99960","region":"Zacatecas","city":"Juchipila","latitude":21.41667,"longitude":-103.11667}}(window,'GeoPostal','MX');

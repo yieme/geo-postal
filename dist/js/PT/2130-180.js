@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2130-180"]={"code":"2130-180","region":"Santarem","city":"Poceirao","latitude":38.83095,"longitude":-8.79365}}(window,'GeoPostal','PT');

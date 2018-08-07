@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85000"]={"code":"85000","region":"Pays-de-la-Loire","city":"Mouilleron-le-Captif","latitude":46.71898,"longitude":-1.45462}}(window,'GeoPostal','FR');

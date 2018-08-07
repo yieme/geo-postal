@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR34 8DF"]={"code":"NR34 8DF","region":"England","city":"Shadingfield","latitude":52.39483,"longitude":1.57658}}(window,'GeoPostal','GB');

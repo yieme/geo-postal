@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5160"]={"code":"5160","region":"Mahdia","city":"El Jem","latitude":35.3,"longitude":10.71667}}(window,'GeoPostal','TN');

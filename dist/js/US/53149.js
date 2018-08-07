@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53149"]={"code":"53149","region":"Wisconsin","city":"Mukwonago","latitude":42.865787,"longitude":-88.337054}}(window,'GeoPostal','US');

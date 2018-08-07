@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659820"]={"code":"659820","region":"Altayskiy kray","city":"Kosikha","latitude":53.36167,"longitude":84.58222}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21140"]={"code":"21140","region":"Rayong","city":"Pluak Daeng","latitude":12.97122,"longitude":101.21463}}(window,'GeoPostal','TH');

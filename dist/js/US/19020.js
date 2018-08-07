@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19020"]={"code":"19020","region":"Pennsylvania","city":"Bensalem","latitude":40.10238,"longitude":-74.93136}}(window,'GeoPostal','US');

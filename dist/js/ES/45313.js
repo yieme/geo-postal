@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45313"]={"code":"45313","region":"Castilla-La Mancha","city":"Yepes","latitude":39.90198,"longitude":-3.62517}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57656"]={"code":"57656","region":"South Dakota","city":"Timber Lake","latitude":45.42915,"longitude":-101.07403}}(window,'GeoPostal','US');

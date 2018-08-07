@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G63 0XQ"]={"code":"G63 0XQ","region":"Scotland","city":"Fintry","latitude":56.05,"longitude":-4.2}}(window,'GeoPostal','GB');

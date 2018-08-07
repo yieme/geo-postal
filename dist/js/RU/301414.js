@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301414"]={"code":"301414","region":"Tul'skaya oblast'","city":"Chekalin","latitude":54.09685,"longitude":36.24499}}(window,'GeoPostal','RU');

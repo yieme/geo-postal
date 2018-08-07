@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 7RT"]={"code":"IP13 7RT","region":"England","city":"Earl Soham","latitude":52.22028,"longitude":1.26575}}(window,'GeoPostal','GB');

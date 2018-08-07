@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35400"]={"code":"35400","region":"Perak","city":"Tapah Road","latitude":4.16667,"longitude":101.2}}(window,'GeoPostal','MY');

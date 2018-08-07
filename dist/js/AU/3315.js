@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3315"]={"code":"3315","region":"Victoria","city":"Coleraine","latitude":-37.59827,"longitude":141.69124}}(window,'GeoPostal','AU');

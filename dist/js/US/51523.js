@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51523"]={"code":"51523","region":"IA","city":"Blencoe","latitude":41.9237,"longitude":-96.0827}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35198-000"]={"code":"35198-000","region":"Minas Gerais","city":"Ipaba","latitude":-19.41361,"longitude":-42.41944}}(window,'GeoPostal','BR');

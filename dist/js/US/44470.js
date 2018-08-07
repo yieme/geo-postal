@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44470"]={"code":"44470","region":"OH","city":"Southington","latitude":41.2983,"longitude":-80.9485}}(window,'GeoPostal','US');

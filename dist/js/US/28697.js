@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28697"]={"code":"28697","region":"North Carolina","city":"Wilkesboro","latitude":36.138184,"longitude":-81.157912}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO21 1BH"]={"code":"SO21 1BH","region":"England","city":"Itchen Abbas","latitude":51.09336,"longitude":-1.23828}}(window,'GeoPostal','GB');

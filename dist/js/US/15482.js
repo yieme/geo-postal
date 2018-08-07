@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15482"]={"code":"15482","region":"PA","city":"Star Junction","latitude":40.0651,"longitude":-79.769}}(window,'GeoPostal','US');

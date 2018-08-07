@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16865"]={"code":"16865","region":"Stockholms lan","city":"Bromma","latitude":59.34,"longitude":17.94}}(window,'GeoPostal','SE');

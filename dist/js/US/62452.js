@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62452"]={"code":"62452","region":"IL","city":"Parkersburg","latitude":38.59,"longitude":-88.0647}}(window,'GeoPostal','US');

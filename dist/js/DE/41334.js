@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41334"]={"code":"41334","region":"Nordrhein-Westfalen","city":"Nettetal","latitude":51.31667,"longitude":6.28333}}(window,'GeoPostal','DE');

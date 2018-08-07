@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90160"]={"code":"90160","region":"Songkhla","city":"Sadao","latitude":6.63883,"longitude":100.42342}}(window,'GeoPostal','TH');

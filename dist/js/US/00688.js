@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00688"]={"code":"00688","region":"PR","city":"Sabana Hoyos","latitude":18.38,"longitude":-66.62}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24200"]={"code":"24200","region":"Castilla y Leon","city":"Valencia de Don Juan","latitude":42.29374,"longitude":-5.5172}}(window,'GeoPostal','ES');

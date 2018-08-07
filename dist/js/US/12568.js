@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12568"]={"code":"12568","region":"NY","city":"Plattekill","latitude":41.6412,"longitude":-74.0781}}(window,'GeoPostal','US');

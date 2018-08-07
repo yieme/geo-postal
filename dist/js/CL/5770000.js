@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5770000"]={"code":"5770000","region":"Los Lagos","city":"Chonchi","latitude":-42.61278,"longitude":-73.80917}}(window,'GeoPostal','CL');

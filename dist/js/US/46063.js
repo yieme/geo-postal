@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46063"]={"code":"46063","region":"IN","city":"Orestes","latitude":40.2715,"longitude":-85.7281}}(window,'GeoPostal','US');

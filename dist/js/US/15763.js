@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15763"]={"code":"15763","region":"PA","city":"Northpoint","latitude":40.9037,"longitude":-79.1257}}(window,'GeoPostal','US');

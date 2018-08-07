@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56350"]={"code":"56350","region":"Bretagne","city":"Saint-Jean-la-Poterie","latitude":47.63581,"longitude":-2.1242}}(window,'GeoPostal','FR');

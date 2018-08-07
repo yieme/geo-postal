@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15800"]={"code":"15800","region":"Auvergne-Rhone-Alpes","city":"Vic-sur-Cere","latitude":44.97929,"longitude":2.62485}}(window,'GeoPostal','FR');

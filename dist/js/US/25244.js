@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25244"]={"code":"25244","region":"WV","city":"Gay","latitude":38.7706,"longitude":-81.5532}}(window,'GeoPostal','US');

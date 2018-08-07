@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2161"]={"code":"2161","region":"Sofia","city":"Pravets","latitude":42.88333,"longitude":23.91667}}(window,'GeoPostal','BG');

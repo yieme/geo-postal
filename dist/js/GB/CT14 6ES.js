@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT14 6ES"]={"code":"CT14 6ES","region":"England","city":"Deal","latitude":51.22322,"longitude":1.40432}}(window,'GeoPostal','GB');

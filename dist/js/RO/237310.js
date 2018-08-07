@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237310"]={"code":"237310","region":"Olt","city":"Osica de Sus","latitude":44.25,"longitude":24.31667}}(window,'GeoPostal','RO');

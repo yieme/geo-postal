@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG11 6BF"]={"code":"NG11 6BF","region":"England","city":"Ruddington","latitude":52.89254,"longitude":-1.14953}}(window,'GeoPostal','GB');

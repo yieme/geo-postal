@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346934"]={"code":"346934","region":"Rostovskaya oblast'","city":"Sambek","latitude":47.74306,"longitude":39.83083}}(window,'GeoPostal','RU');

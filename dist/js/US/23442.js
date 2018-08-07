@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23442"]={"code":"23442","region":"VA","city":"Temperanceville","latitude":37.8954,"longitude":-75.5528}}(window,'GeoPostal','US');

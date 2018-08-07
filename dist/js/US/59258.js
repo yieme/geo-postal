@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59258"]={"code":"59258","region":"MT","city":"Reserve","latitude":48.5905,"longitude":-104.6279}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70533"]={"code":"70533","region":"LA","city":"Erath","latitude":29.9522,"longitude":-92.0343}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["200 02"]={"code":"200 02","region":"Peloponnisos","city":"Vrakhation","latitude":37.95895,"longitude":22.80573}}(window,'GeoPostal','GR');

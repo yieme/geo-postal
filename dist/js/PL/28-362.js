@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-362"]={"code":"28-362","region":"Swietokrzyskie","city":"Naglowice","latitude":50.67835,"longitude":20.10661}}(window,'GeoPostal','PL');

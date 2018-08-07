@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31794"]={"code":"31794","region":"Georgia","city":"Tifton","latitude":31.458098,"longitude":-83.51129}}(window,'GeoPostal','US');

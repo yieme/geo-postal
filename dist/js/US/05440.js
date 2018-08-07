@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05440"]={"code":"05440","region":"Vermont","city":"Alburgh","latitude":44.975039,"longitude":-73.300131}}(window,'GeoPostal','US');

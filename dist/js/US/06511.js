@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06511"]={"code":"06511","region":"Connecticut","city":"North Haven","latitude":41.3255,"longitude":-72.93826}}(window,'GeoPostal','US');

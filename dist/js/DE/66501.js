@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66501"]={"code":"66501","region":"Rheinland-Pfalz","city":"Oberauerbach","latitude":49.27594,"longitude":7.42393}}(window,'GeoPostal','DE');

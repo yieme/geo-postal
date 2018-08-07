@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05444"]={"code":"05444","region":"VT","city":"Cambridge","latitude":44.6222,"longitude":-72.8812}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P2B 0A1"]={"code":"P2B 0A1","region":"Ontario","city":"Sturgeon Falls","latitude":46.36679,"longitude":-79.91636}}(window,'GeoPostal','CA');

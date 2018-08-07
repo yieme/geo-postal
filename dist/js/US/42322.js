@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42322"]={"code":"42322","region":"KY","city":"Beech Grove","latitude":37.6162,"longitude":-87.3964}}(window,'GeoPostal','US');

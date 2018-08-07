@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39829"]={"code":"39829","region":"GA","city":"Calvary","latitude":30.7462,"longitude":-84.3125}}(window,'GeoPostal','US');

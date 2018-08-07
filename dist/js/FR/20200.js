@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20200"]={"code":"20200","region":"Corse","city":"Santa-Maria-di-Lota","latitude":42.74783,"longitude":9.43202}}(window,'GeoPostal','FR');

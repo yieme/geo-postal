@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-550"]={"code":"37-550","region":"Podkarpackie","city":"Radymno","latitude":49.9472,"longitude":22.82375}}(window,'GeoPostal','PL');

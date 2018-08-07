@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64480"]={"code":"64480","region":"MO","city":"Rea","latitude":40.0593,"longitude":-94.7002}}(window,'GeoPostal','US');

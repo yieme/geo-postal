@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47728"]={"code":"47728","region":"Jalisco","city":"San Jose de Gracia","latitude":20.66667,"longitude":-102.58333}}(window,'GeoPostal','MX');

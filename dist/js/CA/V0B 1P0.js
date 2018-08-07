@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 1P0"]={"code":"V0B 1P0","region":"British Columbia","city":"Galloway","latitude":49.37181,"longitude":-115.22495}}(window,'GeoPostal','CA');

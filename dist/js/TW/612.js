@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612"]={"code":"612","region":"Chiayi","city":"Taibao","latitude":23.45944,"longitude":120.33222}}(window,'GeoPostal','TW');

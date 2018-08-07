@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95014"]={"code":"95014","region":"California","city":"Cupertino","latitude":37.323,"longitude":-122.03218}}(window,'GeoPostal','US');

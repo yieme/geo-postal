@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73645"]={"code":"73645","region":"Oklahoma","city":"Erick","latitude":35.21533,"longitude":-99.86649}}(window,'GeoPostal','US');

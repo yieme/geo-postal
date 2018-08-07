@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22191"]={"code":"22191","region":"Virginia","city":"Woodbridge","latitude":38.6301,"longitude":-77.2726}}(window,'GeoPostal','US');
