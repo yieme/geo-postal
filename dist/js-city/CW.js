@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Curacao',c:'Willemstad'}, AN470:'', AN5999:''};

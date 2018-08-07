@@ -1,0 +1,1 @@
+window.Postal={GY5: {r:'Guernsey (general)',c:'Saint Peter Port'}};

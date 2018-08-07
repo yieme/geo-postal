@@ -1,0 +1,1 @@
+window.Postal={'1000':{r:'Montserrado',c:'Monrovia'},'1010':{r:'Montserrado',c:'Bensonville'},'3000':{r:'Bong',c:'Gbarnga'},'':{r:'Margibi',c:'Kakata'}};

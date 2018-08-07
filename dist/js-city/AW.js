@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Aruba (general)',c:'Oranjestad'}};

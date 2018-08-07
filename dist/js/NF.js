@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["NF"]={id:'NF',country:'Norfolk Island', postal:{'':{code:'',region:'Norfolk Island',city:'Kingston',latitude:-29.05459,longitude:167.96628}}};

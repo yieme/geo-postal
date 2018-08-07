@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["ET"]={id:'ET',country:'Ethiopia', postal:{'':{code:'',region:'Adis Abeba',city:'Addis Ababa',latitude:9.02497,longitude:38.74689}}};

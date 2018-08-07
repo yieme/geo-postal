@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Haut-Katanga',c:'Lubumbashi'}};

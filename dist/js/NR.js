@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["NR"]={id:'NR',country:'Nauru', postal:{'':{code:'',region:'Yaren',city:'Yaren',latitude:-0.5477,longitude:166.920867}}};

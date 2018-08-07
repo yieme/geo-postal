@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Viangchan',c:'Vientiane'},'01000':''};

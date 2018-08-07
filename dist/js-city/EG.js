@@ -1,0 +1,1 @@
+window.Postal={'11371':{r:'Al Qahirah',c:'Cairo'},'11735':'11371', '12577':'11371', '':{r:'Al Jizah',c:'Al Jizah'}};

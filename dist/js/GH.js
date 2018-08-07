@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["GH"]={id:'GH',country:'Ghana', postal:{'':{code:'',region:'Greater Accra',city:'Accra',latitude:5.55602,longitude:-0.1969}}};

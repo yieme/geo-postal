@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["TT"]={id:'TT',country:'Trinidad and Tobago', postal:{'':{code:'',region:'Port of Spain',city:'Port of Spain',latitude:10.66617,longitude:-61.51657}}};

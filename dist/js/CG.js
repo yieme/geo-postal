@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["CG"]={id:'CG',country:'Congo', postal:{'':{code:'',region:'Pointe-Noire',city:'Pointe-Noire',latitude:-4.77609,longitude:11.86352}}};

@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["DM"]={id:'DM',country:'Dominica', postal:{'':{code:'',region:'Saint George',city:'Roseau',latitude:15.30174,longitude:-61.38808}}};

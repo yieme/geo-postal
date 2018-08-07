@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["SO"]={id:'SO',country:'Somalia', postal:{'':{code:'',region:'Banaadir',city:'Mogadishu',latitude:2.03711,longitude:45.34375}}};

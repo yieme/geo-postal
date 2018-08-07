@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["ZW"]={id:'ZW',country:'Zimbabwe', postal:{'':{code:'',region:'Harare',city:'Harare',latitude:-17.82935,longitude:31.05389}}};

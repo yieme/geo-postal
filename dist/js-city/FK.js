@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Falkland Islands',c:'Stanley'}};

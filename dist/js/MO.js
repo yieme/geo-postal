@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["MO"]={id:'MO',country:'Macao', postal:{'':{code:'',region:'Macau',city:'Macau',latitude:22.20056,longitude:113.54611}}};

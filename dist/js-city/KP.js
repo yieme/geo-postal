@@ -1,0 +1,1 @@
+window.Postal={'':{r:'P\'yongyang',c:'Kangdong-up'}};

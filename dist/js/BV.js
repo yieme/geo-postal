@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["BV"]={id:'BV',country:'Bouvet Island', postal:{'':{code:'',region:'',city:'',latitude:-54.4667,longitude:3.48333}}};

@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["NI"]={id:'NI',country:'Nicaragua', postal:{'':{code:'',region:'Managua',city:'Managua',latitude:12.13282,longitude:-86.2504}}};

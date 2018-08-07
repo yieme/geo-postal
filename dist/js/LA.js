@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["LA"]={id:'LA',country:'Lao People\'s Democratic Republic', postal:{'':{code:'',region:'Viangchan',city:'Vientiane',latitude:17.96667,longitude:102.6},'01000':{code:'01000',region:'Viangchan',city:'Vientiane',latitude:17.96667,longitude:102.6}}};

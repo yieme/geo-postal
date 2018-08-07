@@ -1,0 +1,1 @@
+window.Postal={'103':{r:'Saint George',c:'Kingstown'}, VC0120:'103', VC0212: {r:'Charlotte',c:'Georgetown'},'':{r:'Saint David',c:'Rosehall'}, VC: {r:'Saint George',c:'Kingstown'}, VC0260: {r:'Charlotte',c:'Biabou'}};

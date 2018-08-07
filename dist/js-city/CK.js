@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Cook Islands',c:'Avarua'}};

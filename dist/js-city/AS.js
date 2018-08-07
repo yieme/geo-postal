@@ -1,0 +1,1 @@
+window.Postal={'96799':{r:'Eastern District',c:'Pago Pago'}};

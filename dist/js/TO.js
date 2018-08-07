@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["TO"]={id:'TO',country:'Tonga', postal:{'':{code:'',region:'Tongatapu',city:'Nuku\'alofa',latitude:-21.13333,longitude:-175.2}}};

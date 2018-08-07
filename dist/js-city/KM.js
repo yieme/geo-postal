@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Grande Comore',c:'Moroni'}};

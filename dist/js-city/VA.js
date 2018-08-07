@@ -1,0 +1,1 @@
+window.Postal={'00120':{r:'Vatican City',c:'Vatican City'}};

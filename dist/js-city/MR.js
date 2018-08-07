@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Nouakchott Nord',c:'Nouakchott'}};

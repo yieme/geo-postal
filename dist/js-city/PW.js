@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Melekeok',c:'Melekeok - Palau State Capital'}};

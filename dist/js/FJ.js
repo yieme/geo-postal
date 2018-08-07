@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["FJ"]={id:'FJ',country:'Fiji', postal:{'':{code:'',region:'Central',city:'Suva',latitude:-18.14161,longitude:178.44149}}};

@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["SL"]={id:'SL',country:'Sierra Leone', postal:{'':{code:'',region:'Western Area',city:'Freetown',latitude:8.484,longitude:-13.22994}}};

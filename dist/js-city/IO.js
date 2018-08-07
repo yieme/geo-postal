@@ -1,0 +1,1 @@
+window.Postal={'':{r:'British Indian Ocean Territory',c:'Diego Garcia'}};

@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["WS"]={id:'WS',country:'Samoa', postal:{'':{code:'',region:'Tuamasaga',city:'Apia',latitude:-13.83333,longitude:-171.76666}}};

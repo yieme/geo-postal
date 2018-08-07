@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Beyrouth',c:'Beirut'}};

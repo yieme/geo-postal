@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Greater Accra',c:'Accra'}};

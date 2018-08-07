@@ -1,0 +1,1 @@
+window.Postal={'10101':{r:'Lusaka',c:'Lusaka'},'22149':{r:'Copperbelt',c:'Kitwe'},'31596':{r:'Lusaka',c:'Lusaka'},'35681':'31596', '71630':{r:'Copperbelt',c:'Ndola'},'':{r:'',c:''}};

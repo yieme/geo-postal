@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["YE"]={id:'YE',country:'Yemen', postal:{'':{code:'',region:'Hadramawt',city:'Sana\'',latitude:15.4,longitude:47.76667}}};

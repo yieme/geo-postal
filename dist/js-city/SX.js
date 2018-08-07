@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Sint Maarten',c:'Philipsburg'}};

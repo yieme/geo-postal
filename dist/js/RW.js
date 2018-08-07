@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["RW"]={id:'RW',country:'Rwanda', postal:{'':{code:'',region:'Ville de Kigali',city:'Kigali',latitude:-1.94995,longitude:30.05885}}};

@@ -1,0 +1,1 @@
+window.Postal={'22100':{r:'Mariehamn',c:'Mariehamn'},'22101':'22100', '22410':{r:'Finstroem',c:'Finstrom'}};

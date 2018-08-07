@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Al Awsat',c:'Asmara'}};

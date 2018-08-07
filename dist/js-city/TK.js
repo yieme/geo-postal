@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Tokelau',c:'Fale old settlement'}};

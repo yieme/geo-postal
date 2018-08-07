@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Cocos Islands and Keeling Islands',c:'West Island'}};

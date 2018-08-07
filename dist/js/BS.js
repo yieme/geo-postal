@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["BS"]={id:'BS',country:'Bahamas', postal:{'':{code:'',region:'New Providence',city:'Nassau',latitude:25.05823,longitude:-77.34306}}};

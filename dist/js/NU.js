@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["NU"]={id:'NU',country:'Niue', postal:{'':{code:'',region:'Niue',city:'Alofi',latitude:-19.05952,longitude:-169.91867}}};

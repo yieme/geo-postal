@@ -1,6 +1,6 @@
 {
   "name": "geo-postal",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Geographic data by ISO Country Code and Postal code",
   "main": "dist/geo-postal.min.js",
   "scripts": {

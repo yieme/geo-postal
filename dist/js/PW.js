@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["PW"]={id:'PW',country:'Palau', postal:{'':{code:'',region:'Melekeok',city:'Melekeok - Palau State Capital',latitude:7.50043,longitude:134.62355}}};

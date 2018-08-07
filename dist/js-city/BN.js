@@ -1,0 +1,1 @@
+window.Postal={BS8311: {r:'Brunei-Muara',c:'Bandar Seri Begawan'}, KC2935: {r:'Belait',c:'Kuala Belait'}, TA1141: {r:'Tutong',c:'Tutong'}, PA1551: {r:'Temburong',c:'Bangar'},'BS 8811':{r:'Brunei-Muara',c:'Bandar Seri Begawan'}, KB2933: {r:'Belait',c:'Kuala Belait'}, BS8671: {r:'Brunei-Muara',c:'Bandar Seri Begawan'}, BB3510:'BS8671'};

@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["NE"]={id:'NE',country:'Niger', postal:{'':{code:'',region:'Niamey',city:'Niamey',latitude:13.51366,longitude:2.1098}}};

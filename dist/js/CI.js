@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["CI"]={id:'CI',country:'Cote D\'ivoire', postal:{'':{code:'',region:'Abidjan',city:'Abidjan',latitude:5.30943,longitude:-4.01972}}};

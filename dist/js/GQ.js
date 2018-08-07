@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["GQ"]={id:'GQ',country:'Equatorial Guinea', postal:{'':{code:'',region:'Bioko Norte',city:'Malabo',latitude:3.75,longitude:8.78333}}};

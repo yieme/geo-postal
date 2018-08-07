@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["MW"]={id:'MW',country:'Malawi', postal:{'':{code:'',region:'Zomba',city:'Zomba',latitude:-15.38596,longitude:35.3188}}};

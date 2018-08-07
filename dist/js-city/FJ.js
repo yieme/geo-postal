@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Central',c:'Suva'}};

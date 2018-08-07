@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["TV"]={id:'TV',country:'Tuvalu', postal:{'':{code:'',region:'Funafuti',city:'Funafuti',latitude:-8.52425,longitude:179.19417}}};

@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Christmas Island',c:'Flying Fish Cove'}};

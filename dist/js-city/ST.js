@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Sao Tome',c:'Sao Tome'}};

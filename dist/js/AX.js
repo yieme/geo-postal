@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["AX"]={id:'AX',country:'Aland Islands', postal:{'22100':{code:'22100',region:'Mariehamn',city:'Mariehamn',latitude:60.09726,longitude:19.93481},'22101':{code:'22101',region:'Mariehamn',city:'Mariehamn',latitude:60.09726,longitude:19.93481},'22410':{code:'22410',region:'Finstroem',city:'Finstrom',latitude:60.26667,longitude:19.93333}}};

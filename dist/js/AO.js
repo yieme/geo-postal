@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["AO"]={id:'AO',country:'Angola', postal:{'':{code:'',region:'Luanda',city:'Luanda',latitude:-8.83682,longitude:13.23432}}};

@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["SB"]={id:'SB',country:'Solomon Islands', postal:{'':{code:'',region:'Guadalcanal',city:'Honiara',latitude:-9.43333,longitude:159.95}}};

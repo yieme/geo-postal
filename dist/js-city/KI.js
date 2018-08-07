@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Gilbert Islands',c:'Tarawa'}};

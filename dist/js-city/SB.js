@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Guadalcanal',c:'Honiara'}};

@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["GM"]={id:'GM',country:'Gambia', postal:{'':{code:'',region:'Banjul',city:'Banjul',latitude:13.45274,longitude:-16.57803}}};

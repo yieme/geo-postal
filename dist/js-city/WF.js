@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Uvea',c:'Mata\'utu'}};

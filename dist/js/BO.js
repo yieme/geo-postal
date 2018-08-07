@@ -1,0 +1,1 @@
+window.Postal=window.Postal||{};Postal["BO"]={id:'BO',country:'Bolivia, Plurinational State of', postal:{'':{code:'',region:'La Paz',city:'La Paz',latitude:-16.5,longitude:-68.15}}};

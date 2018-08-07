@@ -1,0 +1,1 @@
+window.Postal={'97500':{r:'Saint Pierre and Miquelon',c:'Saint-Pierre'}};

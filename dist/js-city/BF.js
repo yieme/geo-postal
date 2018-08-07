@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Kadiogo',c:'Ouagadougou'}};

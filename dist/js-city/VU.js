@@ -1,0 +1,1 @@
+window.Postal={'':{r:'Shefa',c:'Port-Vila'}};

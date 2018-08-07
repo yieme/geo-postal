@@ -1,0 +1,1 @@
+window.Postal={'734002':{r:'Dushanbe',c:'Dushanbe'},'734003':'734002', '734012':'734002', '734018':'734002', '734025':'734002', '734060':'734002', '735701':{r:'Sughd',c:'Khujand'},'735730':{r:'Sughd',c:'Chkalovsk'},'736000':{r:'Kuhistoni Badakhshon',c:'Khorugh'},'':{r:'Sughd',c:'Istaravshan'}};
