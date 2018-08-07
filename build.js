@@ -131,7 +131,7 @@ for (var i in files) {
           .replace("Wyoming", "WY")
         }
         if (data[i].r == priorR && data[i].c == priorC) {
-          data[i] = priorI
+          data[i] = priorI;
         } else {
           priorI = i;
           priorR = data[i].r;
