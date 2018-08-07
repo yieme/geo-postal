@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75028"]={"code":"75028","region":"Texas","city":"Flower Mound","latitude":33.033405,"longitude":-97.067657}}(window,'GeoPostal','US');

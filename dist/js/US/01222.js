@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01222"]={"code":"01222","region":"MA","city":"Ashley Falls","latitude":42.0596,"longitude":-73.3202}}(window,'GeoPostal','US');

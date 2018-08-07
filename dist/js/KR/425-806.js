@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425-806"]={"code":"425-806","region":"Gyeonggi-do","city":"Ansan","latitude":37.32361,"longitude":126.82194}}(window,'GeoPostal','KR');

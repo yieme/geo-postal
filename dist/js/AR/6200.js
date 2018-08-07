@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6200"]={"code":"6200","region":"La Pampa","city":"Realico","latitude":-35.03658,"longitude":-64.2447}}(window,'GeoPostal','AR');

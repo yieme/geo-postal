@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD13 5YL"]={"code":"TD13 5YL","region":"Scotland","city":"Nether Monynut","latitude":55.86667,"longitude":-2.43333}}(window,'GeoPostal','GB');

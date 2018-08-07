@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0R 1Z0"]={"code":"V0R 1Z0","region":"British Columbia","city":"Hornby Island","latitude":49.53524,"longitude":-124.67834}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE12 6EH"]={"code":"PE12 6EH","region":"Scotland","city":"Keith","latitude":57.53633,"longitude":-2.94811}}(window,'GeoPostal','GB');

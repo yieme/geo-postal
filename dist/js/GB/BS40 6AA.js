@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS40 6AA"]={"code":"BS40 6AA","region":"England","city":"East Harptree","latitude":51.30111,"longitude":-2.62167}}(window,'GeoPostal','GB');

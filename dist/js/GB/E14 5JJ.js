@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E14 5JJ"]={"code":"E14 5JJ","region":"England","city":"London","latitude":51.50853,"longitude":-0.12574}}(window,'GeoPostal','GB');

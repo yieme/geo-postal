@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37821"]={"code":"37821","region":"Tennessee","city":"Newport","latitude":35.963552,"longitude":-83.189789}}(window,'GeoPostal','US');

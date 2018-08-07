@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M1W 2M3"]={"code":"M1W 2M3","region":"Ontario","city":"Scarborough","latitude":43.793007,"longitude":-79.316681}}(window,'GeoPostal','CA');

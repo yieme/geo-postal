@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18354"]={"code":"18354","region":"PA","city":"Sciota","latitude":40.9257,"longitude":-75.325}}(window,'GeoPostal','US');

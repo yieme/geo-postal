@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29336"]={"code":"29336","region":"SC","city":"Fairforest","latitude":34.9565,"longitude":-82.0101}}(window,'GeoPostal','US');

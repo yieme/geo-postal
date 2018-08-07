@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16360"]={"code":"16360","region":"Pennsylvania","city":"Townville","latitude":41.679951,"longitude":-79.874882}}(window,'GeoPostal','US');

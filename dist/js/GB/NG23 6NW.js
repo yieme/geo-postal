@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 6NW"]={"code":"NG23 6NW","region":"England","city":"Carlton on Trent","latitude":53.16524,"longitude":-0.80691}}(window,'GeoPostal','GB');

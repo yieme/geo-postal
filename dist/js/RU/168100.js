@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["168100"]={"code":"168100","region":"Komi, Respublika","city":"Vizinga","latitude":61.07493,"longitude":50.10311}}(window,'GeoPostal','RU');

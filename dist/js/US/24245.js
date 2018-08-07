@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24245"]={"code":"24245","region":"VA","city":"Dungannon","latitude":36.8242,"longitude":-82.496}}(window,'GeoPostal','US');

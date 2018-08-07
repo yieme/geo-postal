@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5019"]={"code":"5019","region":"Iloilo","city":"Guinticgan","latitude":11.5641,"longitude":123.1236}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24066"]={"code":"24066","region":"Virginia","city":"Buchanan","latitude":37.5318,"longitude":-79.68372}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["625547"]={"code":"625547","region":"Tyumenskaya oblast'","city":"Onokhino","latitude":56.92501,"longitude":65.5394}}(window,'GeoPostal','RU');

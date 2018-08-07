@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["281 29"]={"code":"281 29","region":"Stredocesky kraj","city":"Zizelice","latitude":50.13192,"longitude":15.3932}}(window,'GeoPostal','CZ');

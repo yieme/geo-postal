@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15233"]={"code":"15233","region":"Macvanski okrug","city":"Bukor","latitude":44.5,"longitude":19.59139}}(window,'GeoPostal','RS');

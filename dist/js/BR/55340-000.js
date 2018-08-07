@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55340-000"]={"code":"55340-000","region":"Pernambuco","city":"Aguas Belas","latitude":-9.11139,"longitude":-37.12306}}(window,'GeoPostal','BR');

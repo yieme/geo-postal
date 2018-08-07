@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02340"]={"code":"02340","region":"MA","city":"Hanover","latitude":42.1137,"longitude":-70.8161}}(window,'GeoPostal','US');

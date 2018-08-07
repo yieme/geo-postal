@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["473215"]={"code":"473215","region":"Henan","city":"Dushu","latitude":33.32543,"longitude":113.15969}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47527"]={"code":"47527","region":"Indiana","city":"Dubois","latitude":38.36,"longitude":-86.88}}(window,'GeoPostal','US');

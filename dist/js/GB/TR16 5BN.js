@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR16 5BN"]={"code":"TR16 5BN","region":"England","city":"Scorrier","latitude":50.25472,"longitude":-5.19627}}(window,'GeoPostal','GB');

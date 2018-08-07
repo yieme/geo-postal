@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53910"]={"code":"53910","region":"WI","city":"Adams","latitude":43.8967,"longitude":-89.8219}}(window,'GeoPostal','US');

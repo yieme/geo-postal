@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60942"]={"code":"60942","region":"Illinois","city":"Hoopeston","latitude":40.466604,"longitude":-87.669959}}(window,'GeoPostal','US');

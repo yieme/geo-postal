@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2540-999"]={"code":"2540-999","region":"Leiria","city":"Bombarral","latitude":39.26723,"longitude":-9.15795}}(window,'GeoPostal','PT');

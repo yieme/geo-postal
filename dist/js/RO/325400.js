@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["325400"]={"code":"325400","region":"Caras-Severin","city":"Caransebes","latitude":45.41667,"longitude":22.21667}}(window,'GeoPostal','RO');

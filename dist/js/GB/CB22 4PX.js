@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB22 4PX"]={"code":"CB22 4PX","region":"England","city":"Duxford","latitude":52.09393,"longitude":0.15917}}(window,'GeoPostal','GB');

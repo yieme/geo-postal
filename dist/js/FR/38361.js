@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38361"]={"code":"38361","region":"Auvergne-Rhone-Alpes","city":"Sassenage","latitude":45.20531,"longitude":5.66515}}(window,'GeoPostal','FR');

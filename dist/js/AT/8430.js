@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8430"]={"code":"8430","region":"Steiermark","city":"Leibnitz","latitude":46.78161,"longitude":15.53836}}(window,'GeoPostal','AT');

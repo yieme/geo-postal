@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35230"]={"code":"35230","region":"Bretagne","city":"Bourgbarre","latitude":47.99515,"longitude":-1.61419}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["699-2213"]={"code":"699-2213","region":"Shimane","city":"Oda","latitude":35.183,"longitude":132.5}}(window,'GeoPostal','JP');

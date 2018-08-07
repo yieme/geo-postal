@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["124113"]={"code":"124113","region":"Haryana","city":"Kalanaur","latitude":28.83333,"longitude":76.4}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38453"]={"code":"38453","region":"TN","city":"Dellrose","latitude":35.1214,"longitude":-86.8121}}(window,'GeoPostal','US');

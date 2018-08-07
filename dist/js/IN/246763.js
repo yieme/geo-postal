@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["246763"]={"code":"246763","region":"Uttar Pradesh","city":"Mandawar","latitude":29.5,"longitude":78.13333}}(window,'GeoPostal','IN');

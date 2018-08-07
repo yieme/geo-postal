@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61470"]={"code":"61470","region":"IL","city":"Prairie City","latitude":40.618,"longitude":-90.4727}}(window,'GeoPostal','US');

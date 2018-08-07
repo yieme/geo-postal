@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13290-000"]={"code":"13290-000","region":"Sao Paulo","city":"Louveira","latitude":-23.08639,"longitude":-46.95056}}(window,'GeoPostal','BR');

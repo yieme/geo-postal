@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03096"]={"code":"03096","region":"Brandenburg","city":"Werben","latitude":51.81667,"longitude":14.18333}}(window,'GeoPostal','DE');

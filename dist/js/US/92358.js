@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92358"]={"code":"92358","region":"CA","city":"Lytle Creek","latitude":34.2558,"longitude":-117.5186}}(window,'GeoPostal','US');

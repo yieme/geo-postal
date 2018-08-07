@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14370"]={"code":"14370","region":"Normandie","city":"Moult","latitude":49.11494,"longitude":-0.16472}}(window,'GeoPostal','FR');

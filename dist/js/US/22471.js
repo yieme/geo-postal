@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22471"]={"code":"22471","region":"VA","city":"Hartwood","latitude":38.3993,"longitude":-77.5814}}(window,'GeoPostal','US');

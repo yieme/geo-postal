@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-061"]={"code":"64-061","region":"Wielkopolskie","city":"Kamieniec","latitude":52.16614,"longitude":16.46164}}(window,'GeoPostal','PL');

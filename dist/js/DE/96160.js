@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96160"]={"code":"96160","region":"Bayern","city":"Rehweiler","latitude":49.76448,"longitude":10.43416}}(window,'GeoPostal','DE');

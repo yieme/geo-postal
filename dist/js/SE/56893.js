@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56893"]={"code":"56893","region":"Jonkopings lan","city":"Skillingaryd","latitude":57.43333,"longitude":14.08333}}(window,'GeoPostal','SE');

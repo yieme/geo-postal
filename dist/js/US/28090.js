@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28090"]={"code":"28090","region":"North Carolina","city":"Lawndale","latitude":35.46546,"longitude":-81.53244}}(window,'GeoPostal','US');

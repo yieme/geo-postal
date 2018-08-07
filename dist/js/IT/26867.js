@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26867"]={"code":"26867","region":"Lombardia","city":"Somaglia","latitude":45.14947,"longitude":9.63346}}(window,'GeoPostal','IT');

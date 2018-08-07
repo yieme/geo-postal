@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60062"]={"code":"60062","region":"Illinois","city":"Northbrook","latitude":42.12753,"longitude":-87.82895}}(window,'GeoPostal','US');

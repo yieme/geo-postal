@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8107"]={"code":"8107","region":"Zurich","city":"Dietikon","latitude":47.40165,"longitude":8.40015}}(window,'GeoPostal','CH');

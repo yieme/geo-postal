@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95236"]={"code":"95236","region":"Bayern","city":"Stammbach","latitude":50.14551,"longitude":11.69129}}(window,'GeoPostal','DE');

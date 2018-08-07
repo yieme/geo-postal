@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA16 0JU"]={"code":"PA16 0JU","region":"Scotland","city":"Larkfield","latitude":55.94343,"longitude":-4.81858}}(window,'GeoPostal','GB');

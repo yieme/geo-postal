@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29328"]={"code":"29328","region":"Andalucia","city":"Sierra de Yeguas","latitude":37.1242,"longitude":-4.86773}}(window,'GeoPostal','ES');

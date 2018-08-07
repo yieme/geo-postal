@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["841000"]={"code":"841000","region":"Xinjiang","city":"Bayingol","latitude":39.33,"longitude":87.61}}(window,'GeoPostal','CN');

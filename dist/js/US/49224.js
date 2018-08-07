@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49224"]={"code":"49224","region":"Michigan","city":"Albion","latitude":42.25996,"longitude":-84.761278}}(window,'GeoPostal','US');

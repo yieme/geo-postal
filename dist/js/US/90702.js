@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90702"]={"code":"90702","region":"CA","city":"Artesia","latitude":33.8658,"longitude":-118.0831}}(window,'GeoPostal','US');

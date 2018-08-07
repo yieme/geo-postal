@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63601"]={"code":"63601","region":"Missouri","city":"Park Hills","latitude":37.85422,"longitude":-90.51818}}(window,'GeoPostal','US');

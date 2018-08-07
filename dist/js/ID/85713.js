@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85713"]={"code":"85713","region":"Nusa Tenggara Timur","city":"Atambua","latitude":-9.10611,"longitude":124.8925}}(window,'GeoPostal','ID');

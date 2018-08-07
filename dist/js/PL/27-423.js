@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-423"]={"code":"27-423","region":"Swietokrzyskie","city":"Baltow","latitude":51.01845,"longitude":21.54385}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45684"]={"code":"45684","region":"OH","city":"Stout","latitude":38.6546,"longitude":-83.209}}(window,'GeoPostal','US');

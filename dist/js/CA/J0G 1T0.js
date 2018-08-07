@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0G 1T0"]={"code":"J0G 1T0","region":"Quebec","city":"Sainte-Victoire-de-Sorel","latitude":45.95007,"longitude":-73.08244}}(window,'GeoPostal','CA');

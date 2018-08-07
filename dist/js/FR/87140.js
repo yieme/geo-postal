@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87140"]={"code":"87140","region":"Nouvelle-Aquitaine","city":"Nantiat","latitude":46.0091,"longitude":1.17308}}(window,'GeoPostal','FR');

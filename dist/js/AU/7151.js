@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7151"]={"code":"7151","region":"Tasmania","city":"Derwent","latitude":-42.7,"longitude":146.9}}(window,'GeoPostal','AU');

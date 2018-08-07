@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55311"]={"code":"55311","region":"Minnesota","city":"Maple Grove","latitude":45.07246,"longitude":-93.45579}}(window,'GeoPostal','US');

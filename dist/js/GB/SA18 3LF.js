@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA18 3LF"]={"code":"SA18 3LF","region":"Wales","city":"Capel Hendre","latitude":51.78278,"longitude":-4.04194}}(window,'GeoPostal','GB');

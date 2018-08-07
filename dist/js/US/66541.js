@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66541"]={"code":"66541","region":"KS","city":"Summerfield","latitude":39.9798,"longitude":-96.3279}}(window,'GeoPostal','US');

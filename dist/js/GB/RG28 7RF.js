@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG28 7RF"]={"code":"RG28 7RF","region":"England","city":"Tufton","latitude":51.21723,"longitude":-1.34522}}(window,'GeoPostal','GB');

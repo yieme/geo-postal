@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11374"]={"code":"11374","region":"New York","city":"Rego Park","latitude":40.72332,"longitude":-73.86204}}(window,'GeoPostal','US');

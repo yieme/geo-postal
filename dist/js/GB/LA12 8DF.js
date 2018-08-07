@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 8DF"]={"code":"LA12 8DF","region":"England","city":"High Nibthwaite","latitude":54.3,"longitude":-3.08333}}(window,'GeoPostal','GB');

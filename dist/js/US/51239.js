@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51239"]={"code":"51239","region":"Iowa","city":"Hull","latitude":43.190526,"longitude":-96.133902}}(window,'GeoPostal','US');

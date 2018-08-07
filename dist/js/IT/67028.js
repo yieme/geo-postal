@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67028"]={"code":"67028","region":"Abruzzo","city":"San Demetrio ne' Vestini","latitude":42.28964,"longitude":13.5552}}(window,'GeoPostal','IT');

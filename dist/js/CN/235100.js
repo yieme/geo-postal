@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["235100"]={"code":"235100","region":"Anhui","city":"Suixi","latitude":33.89067,"longitude":116.77472}}(window,'GeoPostal','CN');

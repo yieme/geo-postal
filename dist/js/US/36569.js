@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36569"]={"code":"36569","region":"Alabama","city":"Saint Stephens","latitude":31.538986,"longitude":-88.053875}}(window,'GeoPostal','US');

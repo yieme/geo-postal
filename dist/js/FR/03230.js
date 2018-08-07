@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03230"]={"code":"03230","region":"Auvergne-Rhone-Alpes","city":"Beaulon","latitude":46.60178,"longitude":3.67262}}(window,'GeoPostal','FR');

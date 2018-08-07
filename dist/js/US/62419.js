@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62419"]={"code":"62419","region":"IL","city":"Calhoun","latitude":38.6351,"longitude":-88.0037}}(window,'GeoPostal','US');

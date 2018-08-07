@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53504"]={"code":"53504","region":"Dnipropetrovska oblast","city":"Tomakivka","latitude":47.81569,"longitude":34.74137}}(window,'GeoPostal','UA');

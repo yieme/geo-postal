@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55346"]={"code":"55346","region":"Minnesota","city":"Eden Prairie","latitude":44.8803,"longitude":-93.4833}}(window,'GeoPostal','US');

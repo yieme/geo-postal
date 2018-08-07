@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21150"]={"code":"21150","region":"Bourgogne-Franche-Comte","city":"Venarey-les-Laumes","latitude":47.54202,"longitude":4.46022}}(window,'GeoPostal','FR');

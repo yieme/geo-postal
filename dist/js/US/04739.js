@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04739"]={"code":"04739","region":"ME","city":"Eagle Lake","latitude":47.01,"longitude":-68.691}}(window,'GeoPostal','US');

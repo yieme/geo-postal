@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22480"]={"code":"22480","region":"Virginia","city":"Irvington","latitude":37.66111,"longitude":-76.41944}}(window,'GeoPostal','US');

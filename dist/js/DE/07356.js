@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07356"]={"code":"07356","region":"Thuringen","city":"Moorbad Lobenstein","latitude":50.45169,"longitude":11.64031}}(window,'GeoPostal','DE');

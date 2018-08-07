@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57033"]={"code":"57033","region":"SD","city":"Hartford","latitude":43.6155,"longitude":-96.9501}}(window,'GeoPostal','US');

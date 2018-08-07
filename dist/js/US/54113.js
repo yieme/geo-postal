@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54113"]={"code":"54113","region":"WI","city":"Combined Locks","latitude":44.2666,"longitude":-88.3133}}(window,'GeoPostal','US');

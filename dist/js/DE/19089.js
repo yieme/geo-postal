@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19089"]={"code":"19089","region":"Mecklenburg-Vorpommern","city":"Barnin","latitude":53.6,"longitude":11.7}}(window,'GeoPostal','DE');

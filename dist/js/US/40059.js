@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40059"]={"code":"40059","region":"Kentucky","city":"Prospect","latitude":38.337625,"longitude":-85.611757}}(window,'GeoPostal','US');

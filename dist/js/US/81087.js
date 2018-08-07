@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81087"]={"code":"81087","region":"CO","city":"Vilas","latitude":37.373,"longitude":-102.4437}}(window,'GeoPostal','US');

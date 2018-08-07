@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33621"]={"code":"33621","region":"Nouvelle-Aquitaine","city":"Cestas","latitude":44.74345,"longitude":-0.67905}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-610"]={"code":"37-610","region":"Podkarpackie","city":"Narol","latitude":50.34925,"longitude":23.32679}}(window,'GeoPostal','PL');

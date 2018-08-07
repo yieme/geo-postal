@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8820"]={"code":"8820","region":"Concepcion","city":"Horqueta","latitude":-23.34278,"longitude":-57.05972}}(window,'GeoPostal','PY');

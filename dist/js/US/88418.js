@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88418"]={"code":"88418","region":"New Mexico","city":"Des Moines","latitude":36.76028,"longitude":-103.83528}}(window,'GeoPostal','US');

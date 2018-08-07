@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80180"]={"code":"80180","region":"Nakhon Si Thammarat","city":"Cha-uat","latitude":7.96773,"longitude":99.99985}}(window,'GeoPostal','TH');

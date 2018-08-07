@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13897"]={"code":"13897","region":"Piemonte","city":"Occhieppo Inferiore","latitude":45.55006,"longitude":8.02102}}(window,'GeoPostal','IT');

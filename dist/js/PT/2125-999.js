@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2125-999"]={"code":"2125-999","region":"Santarem","city":"Marinhais","latitude":39.0473,"longitude":-8.70236}}(window,'GeoPostal','PT');

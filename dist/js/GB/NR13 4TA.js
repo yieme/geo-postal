@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR13 4TA"]={"code":"NR13 4TA","region":"England","city":"North Burlingham","latitude":52.63624,"longitude":1.49629}}(window,'GeoPostal','GB');

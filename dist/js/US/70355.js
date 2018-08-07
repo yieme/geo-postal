@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70355"]={"code":"70355","region":"LA","city":"Gheens","latitude":29.7076,"longitude":-90.4849}}(window,'GeoPostal','US');

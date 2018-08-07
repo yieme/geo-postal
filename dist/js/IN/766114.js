@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["766114"]={"code":"766114","region":"Odisha","city":"Bhawanipatna","latitude":19.9,"longitude":83.16667}}(window,'GeoPostal','IN');

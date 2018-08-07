@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63763"]={"code":"63763","region":"MO","city":"Mc Gee","latitude":37.1196,"longitude":-90.445}}(window,'GeoPostal','US');

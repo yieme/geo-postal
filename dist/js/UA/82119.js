@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82119"]={"code":"82119","region":"Lvivska oblast","city":"Drogobych","latitude":49.34991,"longitude":23.50561}}(window,'GeoPostal','UA');

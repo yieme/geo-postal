@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14980"]={"code":"14980","region":"Normandie","city":"Rots","latitude":49.21235,"longitude":-0.47319}}(window,'GeoPostal','FR');

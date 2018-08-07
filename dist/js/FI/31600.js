@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31600"]={"code":"31600","region":"Kanta-Hame","city":"Jokioinen","latitude":60.80162,"longitude":23.48004}}(window,'GeoPostal','FI');

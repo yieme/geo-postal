@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH22 9BP"]={"code":"BH22 9BP","region":"England","city":"Longham","latitude":50.7863,"longitude":-1.90673}}(window,'GeoPostal','GB');

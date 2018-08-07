@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30298"]={"code":"30298","region":"GA","city":"Forest Park","latitude":33.5007,"longitude":-84.3513}}(window,'GeoPostal','US');

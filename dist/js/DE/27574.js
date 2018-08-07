@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27574"]={"code":"27574","region":"Bremen","city":"Bremerhaven","latitude":53.55021,"longitude":8.57674}}(window,'GeoPostal','DE');

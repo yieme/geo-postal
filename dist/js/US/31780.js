@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31780"]={"code":"31780","region":"GA","city":"Plains","latitude":32.0339,"longitude":-84.3586}}(window,'GeoPostal','US');

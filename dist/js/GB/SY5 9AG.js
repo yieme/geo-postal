@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY5 9AG"]={"code":"SY5 9AG","region":"England","city":"Alberbury","latitude":52.72234,"longitude":-2.95074}}(window,'GeoPostal','GB');

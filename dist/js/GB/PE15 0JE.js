@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE15 0JE"]={"code":"PE15 0JE","region":"England","city":"Manea","latitude":52.48304,"longitude":0.17857}}(window,'GeoPostal','GB');

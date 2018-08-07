@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66426"]={"code":"66426","region":"KS","city":"Fostoria","latitude":39.4398,"longitude":-96.5068}}(window,'GeoPostal','US');

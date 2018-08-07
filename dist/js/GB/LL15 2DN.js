@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL15 2DN"]={"code":"LL15 2DN","region":"Wales","city":"Cyffylliog","latitude":53.10859,"longitude":-3.40615}}(window,'GeoPostal','GB');

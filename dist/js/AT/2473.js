@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2473"]={"code":"2473","region":"Burgenland","city":"Potzneusiedl","latitude":48.03333,"longitude":16.93333}}(window,'GeoPostal','AT');

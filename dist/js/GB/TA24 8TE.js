@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA24 8TE"]={"code":"TA24 8TE","region":"England","city":"Luccombe","latitude":51.18941,"longitude":-3.5591}}(window,'GeoPostal','GB');

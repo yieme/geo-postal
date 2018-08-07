@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19464"]={"code":"19464","region":"Pennsylvania","city":"Pottstown","latitude":40.24537,"longitude":-75.64963}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83143"]={"code":"83143","region":"Provence-Alpes-Cote d'Azur","city":"Le Val","latitude":43.43865,"longitude":6.07295}}(window,'GeoPostal','FR');

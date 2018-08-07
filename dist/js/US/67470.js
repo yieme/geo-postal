@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67470"]={"code":"67470","region":"KS","city":"New Cambria","latitude":38.896,"longitude":-97.523}}(window,'GeoPostal','US');

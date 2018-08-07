@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6464"]={"code":"6464","region":"Hainaut","city":"Chimay","latitude":50.04856,"longitude":4.31712}}(window,'GeoPostal','BE');

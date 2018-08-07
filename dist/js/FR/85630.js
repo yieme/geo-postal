@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85630"]={"code":"85630","region":"Pays-de-la-Loire","city":"Barbatre","latitude":46.94116,"longitude":-2.17752}}(window,'GeoPostal','FR');

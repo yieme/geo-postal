@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59630"]={"code":"59630","region":"Hauts-de-France","city":"Cappelle-Brouck","latitude":50.9025,"longitude":2.2233}}(window,'GeoPostal','FR');

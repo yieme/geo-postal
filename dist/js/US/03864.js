@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03864"]={"code":"03864","region":"New Hampshire","city":"Ossipee","latitude":43.68536,"longitude":-71.11673}}(window,'GeoPostal','US');

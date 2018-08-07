@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59062"]={"code":"59062","region":"MT","city":"Otter","latitude":45.0903,"longitude":-106.1499}}(window,'GeoPostal','US');

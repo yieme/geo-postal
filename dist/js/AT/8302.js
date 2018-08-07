@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8302"]={"code":"8302","region":"Steiermark","city":"Raaba","latitude":47.03333,"longitude":15.5}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11782"]={"code":"11782","region":"New York","city":"Sayville","latitude":40.716,"longitude":-73.0878}}(window,'GeoPostal','US');

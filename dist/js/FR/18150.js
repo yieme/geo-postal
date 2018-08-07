@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18150"]={"code":"18150","region":"Centre-Val de Loire","city":"Cuffy","latitude":46.96275,"longitude":3.05238}}(window,'GeoPostal','FR');

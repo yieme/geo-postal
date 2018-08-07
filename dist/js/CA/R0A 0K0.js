@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 0K0"]={"code":"R0A 0K0","region":"Manitoba","city":"Dufrost","latitude":49.35829,"longitude":-97.05234}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40018"]={"code":"40018","region":"KY","city":"Eastwood","latitude":38.2331,"longitude":-85.4558}}(window,'GeoPostal','US');

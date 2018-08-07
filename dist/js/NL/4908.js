@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4908"]={"code":"4908","region":"Noord-Brabant","city":"Oosterhout","latitude":51.645,"longitude":4.85972}}(window,'GeoPostal','NL');

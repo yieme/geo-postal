@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11027"]={"code":"11027","region":"Valle d'Aosta","city":"Saint-Vincent","latitude":45.75126,"longitude":7.64861}}(window,'GeoPostal','IT');

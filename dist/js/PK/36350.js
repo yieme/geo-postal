@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36350"]={"code":"36350","region":"Punjab","city":"Kamalia","latitude":30.73333,"longitude":72.65}}(window,'GeoPostal','PK');

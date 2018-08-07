@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77971"]={"code":"77971","region":"Texas","city":"Lolita","latitude":28.818377,"longitude":-96.442836}}(window,'GeoPostal','US');

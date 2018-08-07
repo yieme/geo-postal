@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39346"]={"code":"39346","region":"Mississippi","city":"Noxapater","latitude":32.99222,"longitude":-89.06389}}(window,'GeoPostal','US');

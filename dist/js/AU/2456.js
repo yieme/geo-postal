@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2456"]={"code":"2456","region":"New South Wales","city":"Upper Corindi","latitude":-30.05,"longitude":153.13333}}(window,'GeoPostal','AU');

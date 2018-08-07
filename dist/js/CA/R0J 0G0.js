@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 0G0"]={"code":"R0J 0G0","region":"Manitoba","city":"Binscarth","latitude":50.62669,"longitude":-101.28371}}(window,'GeoPostal','CA');

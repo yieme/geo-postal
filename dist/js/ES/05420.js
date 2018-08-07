@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05420"]={"code":"05420","region":"Castilla y Leon","city":"Sotillo de la Adrada","latitude":40.2912,"longitude":-4.58385}}(window,'GeoPostal','ES');

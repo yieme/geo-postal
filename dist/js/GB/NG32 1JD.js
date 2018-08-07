@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG32 1JD"]={"code":"NG32 1JD","region":"England","city":"Harlaxton","latitude":52.88446,"longitude":-0.68802}}(window,'GeoPostal','GB');

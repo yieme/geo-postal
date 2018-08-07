@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H4R 1V6"]={"code":"H4R 1V6","region":"Quebec","city":"Saint-Laurent","latitude":45.496915,"longitude":-73.712919}}(window,'GeoPostal','CA');

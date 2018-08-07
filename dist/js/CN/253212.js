@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["253212"]={"code":"253212","region":"Shandong","city":"Xiliguantun","latitude":37.07833,"longitude":115.94139}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 7RW"]={"code":"DN22 7RW","region":"England","city":"Ordsall","latitude":53.30853,"longitude":-0.94904}}(window,'GeoPostal','GB');

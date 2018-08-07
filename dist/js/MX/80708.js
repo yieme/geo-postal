@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80708"]={"code":"80708","region":"Sinaloa","city":"Cosala","latitude":24.4125,"longitude":-106.69083}}(window,'GeoPostal','MX');

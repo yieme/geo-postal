@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW17 2BB"]={"code":"KW17 2BB","region":"Scotland","city":"Templehall","latitude":59.25477,"longitude":-2.56061}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2736"]={"code":"2736","region":"Victoria","city":"Natya","latitude":-34.95,"longitude":143.21667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49618"]={"code":"49618","region":"Michigan","city":"Boon","latitude":44.30139,"longitude":-85.64333}}(window,'GeoPostal','US');

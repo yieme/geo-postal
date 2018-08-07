@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68560"]={"code":"68560","region":"Grand-Est","city":"Hirsingue","latitude":47.58655,"longitude":7.2513}}(window,'GeoPostal','FR');

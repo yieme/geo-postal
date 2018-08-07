@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71047"]={"code":"71047","region":"LA","city":"Keithville","latitude":32.3161,"longitude":-93.8881}}(window,'GeoPostal','US');

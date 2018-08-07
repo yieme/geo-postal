@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2902"]={"code":"2902","region":"Australian Capital Territory","city":"Kambah","latitude":-35.38624,"longitude":149.05804}}(window,'GeoPostal','AU');

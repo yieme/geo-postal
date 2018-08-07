@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628113"]={"code":"628113","region":"Sichuan","city":"Magong","latitude":32.32771,"longitude":105.03234}}(window,'GeoPostal','CN');

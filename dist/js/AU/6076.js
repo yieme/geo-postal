@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6076"]={"code":"6076","region":"Western Australia","city":"Pickering Brook","latitude":-32.03333,"longitude":116.1}}(window,'GeoPostal','AU');

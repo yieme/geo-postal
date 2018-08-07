@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27948"]={"code":"27948","region":"North Carolina","city":"Kill Devil Hills","latitude":36.03072,"longitude":-75.67601}}(window,'GeoPostal','US');

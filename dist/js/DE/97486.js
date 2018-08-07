@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97486"]={"code":"97486","region":"Bayern","city":"Konigsberg in Bayern","latitude":50.0808,"longitude":10.56761}}(window,'GeoPostal','DE');

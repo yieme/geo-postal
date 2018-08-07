@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48335"]={"code":"48335","region":"Michigan","city":"Farmington Hills","latitude":42.461932,"longitude":-83.4037}}(window,'GeoPostal','US');

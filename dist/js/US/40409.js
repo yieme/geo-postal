@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40409"]={"code":"40409","region":"KY","city":"Brodhead","latitude":37.3815,"longitude":-84.4336}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20709"]={"code":"20709","region":"MD","city":"Laurel","latitude":39.0993,"longitude":-76.8483}}(window,'GeoPostal','US');

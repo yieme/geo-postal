@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64061"]={"code":"64061","region":"MO","city":"Kingsville","latitude":38.8178,"longitude":-94.0462}}(window,'GeoPostal','US');

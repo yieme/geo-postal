@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38865"]={"code":"38865","region":"Mississippi","city":"Rienzi","latitude":34.76472,"longitude":-88.52917}}(window,'GeoPostal','US');

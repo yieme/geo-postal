@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71540"]={"code":"71540","region":"Baden-Wurttemberg","city":"Wolkenhof","latitude":48.98605,"longitude":9.57514}}(window,'GeoPostal','DE');

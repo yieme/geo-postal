@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601 00"]={"code":"601 00","region":"Kentriki Makedonia","city":"Nea Efesos","latitude":40.23,"longitude":22.49639}}(window,'GeoPostal','GR');

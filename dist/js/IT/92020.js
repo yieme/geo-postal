@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92020"]={"code":"92020","region":"Sicilia","city":"Santo Stefano Quisquina","latitude":37.62554,"longitude":13.49125}}(window,'GeoPostal','IT');

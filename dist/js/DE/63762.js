@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63762"]={"code":"63762","region":"Bayern","city":"Grossostheim","latitude":49.91986,"longitude":9.07596}}(window,'GeoPostal','DE');

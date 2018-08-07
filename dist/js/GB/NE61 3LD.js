@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE61 3LD"]={"code":"NE61 3LD","region":"England","city":"Hebron","latitude":55.18333,"longitude":-1.68333}}(window,'GeoPostal','GB');

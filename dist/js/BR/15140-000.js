@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15140-000"]={"code":"15140-000","region":"Sao Paulo","city":"Tanabi","latitude":-20.62639,"longitude":-49.64917}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29339"]={"code":"29339","region":"Niedersachsen","city":"Wathlingen","latitude":52.5369,"longitude":10.15069}}(window,'GeoPostal','DE');

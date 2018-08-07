@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67033"]={"code":"67033","region":"Abruzzo","city":"Pescocostanzo","latitude":41.88633,"longitude":14.06561}}(window,'GeoPostal','IT');

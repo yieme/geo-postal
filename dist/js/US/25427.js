@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25427"]={"code":"25427","region":"WV","city":"Hedgesville","latitude":39.5214,"longitude":-78.0912}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA33 1AA"]={"code":"PA33 1AA","region":"Scotland","city":"Dalmally","latitude":56.40223,"longitude":-4.9778}}(window,'GeoPostal','GB');

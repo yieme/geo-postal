@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99832"]={"code":"99832","region":"AK","city":"Pelican","latitude":57.9608,"longitude":-136.2275}}(window,'GeoPostal','US');

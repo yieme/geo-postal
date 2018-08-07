@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98739"]={"code":"98739","region":"Thuringen","city":"Wallendorf","latitude":50.52868,"longitude":11.19194}}(window,'GeoPostal','DE');

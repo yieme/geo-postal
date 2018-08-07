@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20610"]={"code":"20610","region":"MD","city":"Barstow","latitude":38.5254,"longitude":-76.6161}}(window,'GeoPostal','US');

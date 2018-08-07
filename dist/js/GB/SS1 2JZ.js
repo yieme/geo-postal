@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SS1 2JZ"]={"code":"SS1 2JZ","region":"England","city":"Southend-on-Sea","latitude":51.53782,"longitude":0.71433}}(window,'GeoPostal','GB');

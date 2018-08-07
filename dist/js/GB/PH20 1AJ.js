@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH20 1AJ"]={"code":"PH20 1AJ","region":"Scotland","city":"Shirramore","latitude":57.03333,"longitude":-4.4}}(window,'GeoPostal','GB');

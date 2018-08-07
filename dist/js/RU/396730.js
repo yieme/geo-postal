@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396730"]={"code":"396730","region":"Voronezhskaya oblast'","city":"Kantemirovka","latitude":49.70887,"longitude":39.85922}}(window,'GeoPostal','RU');

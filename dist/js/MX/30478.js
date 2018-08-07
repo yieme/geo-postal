@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30478"]={"code":"30478","region":"Coahuila de Zaragoza","city":"Villa Union","latitude":28.21667,"longitude":-100.71667}}(window,'GeoPostal','MX');

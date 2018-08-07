@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07046"]={"code":"07046","region":"Sardegna","city":"Porto Torres","latitude":40.835,"longitude":8.39722}}(window,'GeoPostal','IT');

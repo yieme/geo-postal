@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34265"]={"code":"34265","region":"Florida","city":"Arcadia","latitude":27.21588,"longitude":-81.85842}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28710"]={"code":"28710","region":"NC","city":"Bat Cave","latitude":35.4515,"longitude":-82.2871}}(window,'GeoPostal','US');

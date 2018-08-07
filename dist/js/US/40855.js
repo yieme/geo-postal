@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40855"]={"code":"40855","region":"KY","city":"Lynch","latitude":36.9603,"longitude":-82.9198}}(window,'GeoPostal','US');

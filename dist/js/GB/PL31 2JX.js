@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL31 2JX"]={"code":"PL31 2JX","region":"England","city":"Bodmin","latitude":50.47151,"longitude":-4.7243}}(window,'GeoPostal','GB');

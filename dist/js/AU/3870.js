@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3870"]={"code":"3870","region":"Victoria","city":"Boolarra","latitude":-38.37937,"longitude":146.27527}}(window,'GeoPostal','AU');

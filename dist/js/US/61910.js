@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61910"]={"code":"61910","region":"Illinois","city":"Arcola","latitude":39.684048,"longitude":-88.305819}}(window,'GeoPostal','US');

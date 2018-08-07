@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2000-339"]={"code":"2000-339","region":"Santarem","city":"Tramagal","latitude":39.45,"longitude":-8.25}}(window,'GeoPostal','PT');

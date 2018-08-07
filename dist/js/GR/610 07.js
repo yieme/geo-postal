@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["610 07"]={"code":"610 07","region":"Kentriki Makedonia","city":"Agios Petros","latitude":40.86472,"longitude":22.57639}}(window,'GeoPostal','GR');

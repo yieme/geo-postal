@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7630-579"]={"code":"7630-579","region":"Beja","city":"Sao Teotonio","latitude":37.51282,"longitude":-8.70708}}(window,'GeoPostal','PT');

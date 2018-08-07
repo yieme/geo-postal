@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74594"]={"code":"74594","region":"Baden-Wurttemberg","city":"Marktlustenau","latitude":49.13252,"longitude":10.23579}}(window,'GeoPostal','DE');

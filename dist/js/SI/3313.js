@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3313"]={"code":"3313","region":"Polzela","city":"Polzela","latitude":46.28333,"longitude":15.06667}}(window,'GeoPostal','SI');

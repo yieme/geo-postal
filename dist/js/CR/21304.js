@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21304"]={"code":"21304","region":"Alajuela","city":"Bijagua","latitude":10.7328,"longitude":-85.05676}}(window,'GeoPostal','CR');

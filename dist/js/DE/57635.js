@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57635"]={"code":"57635","region":"Nordrhein-Westfalen","city":"Niederalsen","latitude":50.76106,"longitude":7.54806}}(window,'GeoPostal','DE');

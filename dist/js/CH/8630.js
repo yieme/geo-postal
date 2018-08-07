@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8630"]={"code":"8630","region":"Zurich","city":"Rueti / Oberdorf","latitude":47.25894,"longitude":8.86512}}(window,'GeoPostal','CH');

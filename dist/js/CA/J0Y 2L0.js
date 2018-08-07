@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Y 2L0"]={"code":"J0Y 2L0","region":"Quebec","city":"Sainte-Gertrude-Manneville","latitude":48.53348,"longitude":-78.36626}}(window,'GeoPostal','CA');

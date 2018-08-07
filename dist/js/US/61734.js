@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61734"]={"code":"61734","region":"IL","city":"Delavan","latitude":40.369,"longitude":-89.5321}}(window,'GeoPostal','US');

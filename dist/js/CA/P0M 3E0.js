@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0M 3E0"]={"code":"P0M 3E0","region":"Ontario","city":"Whitefish","latitude":46.38338,"longitude":-81.31646}}(window,'GeoPostal','CA');

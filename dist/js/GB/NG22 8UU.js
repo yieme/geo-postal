@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG22 8UU"]={"code":"NG22 8UU","region":"England","city":"Farnsfield","latitude":53.10223,"longitude":-1.0332}}(window,'GeoPostal','GB');

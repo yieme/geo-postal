@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL11 7JL"]={"code":"DL11 7JL","region":"England","city":"Whashton","latitude":54.45034,"longitude":-1.76848}}(window,'GeoPostal','GB');

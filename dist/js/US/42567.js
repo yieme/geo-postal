@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42567"]={"code":"42567","region":"Kentucky","city":"Eubank","latitude":37.25658,"longitude":-84.59826}}(window,'GeoPostal','US');

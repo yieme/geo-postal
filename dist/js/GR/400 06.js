@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400 06"]={"code":"400 06","region":"Thessalia","city":"Makrikhorion","latitude":39.8,"longitude":22.48333}}(window,'GeoPostal','GR');

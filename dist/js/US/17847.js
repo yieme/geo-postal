@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17847"]={"code":"17847","region":"Pennsylvania","city":"Milton","latitude":41.014205,"longitude":-76.846353}}(window,'GeoPostal','US');

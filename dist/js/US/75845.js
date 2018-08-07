@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75845"]={"code":"75845","region":"Texas","city":"Groveton","latitude":31.05491,"longitude":-95.12577}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW17 2LY"]={"code":"KW17 2LY","region":"Scotland","city":"Birsay","latitude":59.12777,"longitude":-3.30331}}(window,'GeoPostal','GB');

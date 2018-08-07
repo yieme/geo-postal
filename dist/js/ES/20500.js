@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20500"]={"code":"20500","region":"Pais Vasco","city":"Arrasate-Mondragon","latitude":43.06441,"longitude":-2.48977}}(window,'GeoPostal','ES');

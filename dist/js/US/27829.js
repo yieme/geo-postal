@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27829"]={"code":"27829","region":"NC","city":"Fountain","latitude":35.674,"longitude":-77.64}}(window,'GeoPostal','US');

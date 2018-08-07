@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39501"]={"code":"39501","region":"Punjab","city":"Chuhar Kana","latitude":31.75,"longitude":73.8}}(window,'GeoPostal','PK');

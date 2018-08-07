@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98272"]={"code":"98272","region":"Washington","city":"Monroe","latitude":47.85538,"longitude":-121.97096}}(window,'GeoPostal','US');

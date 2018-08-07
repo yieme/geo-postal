@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75968"]={"code":"75968","region":"Texas","city":"Pineland","latitude":31.24806,"longitude":-93.97472}}(window,'GeoPostal','US');

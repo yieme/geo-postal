@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23177"]={"code":"23177","region":"VA","city":"Walkerton","latitude":37.7554,"longitude":-77.0185}}(window,'GeoPostal','US');

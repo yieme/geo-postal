@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184021"]={"code":"184021","region":"Murmanskaya oblast'","city":"Zelenoborskiy","latitude":66.845,"longitude":32.36222}}(window,'GeoPostal','RU');

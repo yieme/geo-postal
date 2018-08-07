@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42045"]={"code":"42045","region":"KY","city":"Grand Rivers","latitude":37.0762,"longitude":-88.2647}}(window,'GeoPostal','US');

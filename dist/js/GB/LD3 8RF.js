@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD3 8RF"]={"code":"LD3 8RF","region":"Wales","city":"Llywel","latitude":51.95704,"longitude":-3.64648}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG1 4SU"]={"code":"DG1 4SU","region":"Scotland","city":"Kingholm Quay","latitude":55.04539,"longitude":-3.60572}}(window,'GeoPostal','GB');

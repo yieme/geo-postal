@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23966"]={"code":"23966","region":"Mecklenburg-Vorpommern","city":"Wismar","latitude":53.89314,"longitude":11.45286}}(window,'GeoPostal','DE');

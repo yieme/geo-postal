@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65167"]={"code":"65167","region":"Jawa Timur","city":"Wates","latitude":-8.2538,"longitude":112.3763}}(window,'GeoPostal','ID');

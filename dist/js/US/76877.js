@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76877"]={"code":"76877","region":"Texas","city":"San Saba","latitude":31.19572,"longitude":-98.7181}}(window,'GeoPostal','US');

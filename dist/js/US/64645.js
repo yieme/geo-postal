@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64645"]={"code":"64645","region":"MO","city":"Harris","latitude":40.3075,"longitude":-93.3501}}(window,'GeoPostal','US');

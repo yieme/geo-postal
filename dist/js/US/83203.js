@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83203"]={"code":"83203","region":"ID","city":"Fort Hall","latitude":43.0331,"longitude":-112.4285}}(window,'GeoPostal','US');

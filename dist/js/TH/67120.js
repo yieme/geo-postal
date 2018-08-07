@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67120"]={"code":"67120","region":"Phetchabun","city":"Lom Kao","latitude":16.88614,"longitude":101.22894}}(window,'GeoPostal','TH');

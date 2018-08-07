@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66740"]={"code":"66740","region":"Occitanie","city":"Saint-Genis-des-Fontaines","latitude":42.54325,"longitude":2.9206}}(window,'GeoPostal','FR');

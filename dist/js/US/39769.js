@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39769"]={"code":"39769","region":"MS","city":"Sturgis","latitude":33.357,"longitude":-89.0473}}(window,'GeoPostal','US');

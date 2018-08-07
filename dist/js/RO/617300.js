@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617300"]={"code":"617300","region":"Neamt","city":"Pastraveni","latitude":47.16667,"longitude":26.56667}}(window,'GeoPostal','RO');

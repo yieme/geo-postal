@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7738"]={"code":"7738","region":"Nord-Trondelag","city":"Steinkjer","latitude":64.01487,"longitude":11.49537}}(window,'GeoPostal','NO');

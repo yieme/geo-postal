@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA38 9QG"]={"code":"SA38 9QG","region":"Wales","city":"Bettws-Evan","latitude":52.08333,"longitude":-4.48333}}(window,'GeoPostal','GB');

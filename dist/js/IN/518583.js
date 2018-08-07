@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["518583"]={"code":"518583","region":"Andhra Pradesh","city":"Proddatur","latitude":14.73333,"longitude":78.55}}(window,'GeoPostal','IN');

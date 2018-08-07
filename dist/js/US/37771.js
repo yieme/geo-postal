@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37771"]={"code":"37771","region":"Tennessee","city":"Lenoir City","latitude":35.7973,"longitude":-84.25603}}(window,'GeoPostal','US');

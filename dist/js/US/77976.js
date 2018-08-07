@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77976"]={"code":"77976","region":"Texas","city":"Nursery","latitude":28.951136,"longitude":-96.984406}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69355"]={"code":"69355","region":"NE","city":"Melbeta","latitude":41.7816,"longitude":-103.5177}}(window,'GeoPostal','US');

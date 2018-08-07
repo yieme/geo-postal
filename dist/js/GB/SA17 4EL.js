@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA17 4EL"]={"code":"SA17 4EL","region":"Wales","city":"Llandyry","latitude":51.72107,"longitude":-4.26896}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16307"]={"code":"16307","region":"Brandenburg","city":"Gartz","latitude":53.20829,"longitude":14.39226}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453115"]={"code":"453115","region":"Madhya Pradesh","city":"Depalpur","latitude":22.85,"longitude":75.55}}(window,'GeoPostal','IN');

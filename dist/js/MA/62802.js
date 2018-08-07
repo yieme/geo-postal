@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62802"]={"code":"62802","region":"L'Oriental","city":"Tiztoutine","latitude":34.97159,"longitude":-3.15273}}(window,'GeoPostal','MA');

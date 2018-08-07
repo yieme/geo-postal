@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TW7 5AW"]={"code":"TW7 5AW","region":"England","city":"Isleworth","latitude":51.47518,"longitude":-0.34246}}(window,'GeoPostal','GB');

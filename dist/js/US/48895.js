@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48895"]={"code":"48895","region":"Michigan","city":"Williamston","latitude":42.691124,"longitude":-84.284895}}(window,'GeoPostal','US');

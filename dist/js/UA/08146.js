@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08146"]={"code":"08146","region":"Kyivska oblast","city":"Knyazhichi","latitude":50.46275,"longitude":30.78369}}(window,'GeoPostal','UA');

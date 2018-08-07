@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22620"]={"code":"22620","region":"VA","city":"Boyce","latitude":39.0698,"longitude":-78.0203}}(window,'GeoPostal','US');

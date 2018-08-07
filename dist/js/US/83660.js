@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83660"]={"code":"83660","region":"ID","city":"Parma","latitude":43.7896,"longitude":-116.9401}}(window,'GeoPostal','US');

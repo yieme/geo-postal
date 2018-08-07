@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23412"]={"code":"23412","region":"VA","city":"Modest Town","latitude":37.7904,"longitude":-75.6035}}(window,'GeoPostal','US');

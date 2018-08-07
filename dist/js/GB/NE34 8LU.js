@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE34 8LU"]={"code":"NE34 8LU","region":"England","city":"South Shields","latitude":54.99859,"longitude":-1.4323}}(window,'GeoPostal','GB');

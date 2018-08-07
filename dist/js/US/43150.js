@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43150"]={"code":"43150","region":"OH","city":"Rushville","latitude":39.7674,"longitude":-82.428}}(window,'GeoPostal','US');

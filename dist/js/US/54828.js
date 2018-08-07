@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54828"]={"code":"54828","region":"WI","city":"Couderay","latitude":45.838,"longitude":-91.2918}}(window,'GeoPostal','US');

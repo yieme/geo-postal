@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK8 3RF"]={"code":"FK8 3RF","region":"Scotland","city":"Gartmore","latitude":56.14499,"longitude":-4.38002}}(window,'GeoPostal','GB');

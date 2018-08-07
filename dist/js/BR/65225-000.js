@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65225-000"]={"code":"65225-000","region":"Maranhao","city":"Sao Joao Batista","latitude":-2.95528,"longitude":-44.80694}}(window,'GeoPostal','BR');

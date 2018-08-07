@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06010"]={"code":"06010","region":"Umbria","city":"Monte Santa Maria Tiberina","latitude":43.43595,"longitude":12.16225}}(window,'GeoPostal','IT');

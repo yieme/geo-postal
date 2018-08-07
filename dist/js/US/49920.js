@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49920"]={"code":"49920","region":"Michigan","city":"Crystal Falls","latitude":46.105091,"longitude":-88.350889}}(window,'GeoPostal','US');

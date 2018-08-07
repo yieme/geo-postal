@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56440"]={"code":"56440","region":"MN","city":"Clarissa","latitude":46.1373,"longitude":-94.9572}}(window,'GeoPostal','US');

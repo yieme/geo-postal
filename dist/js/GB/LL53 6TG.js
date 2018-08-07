@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL53 6TG"]={"code":"LL53 6TG","region":"Wales","city":"Chwilog","latitude":52.91992,"longitude":-4.3319}}(window,'GeoPostal','GB');

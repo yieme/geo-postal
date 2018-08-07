@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26835"]={"code":"26835","region":"Niedersachsen","city":"Neuemoor","latitude":53.32981,"longitude":7.62874}}(window,'GeoPostal','DE');

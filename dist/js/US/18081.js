@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18081"]={"code":"18081","region":"PA","city":"Springtown","latitude":40.5565,"longitude":-75.2893}}(window,'GeoPostal','US');

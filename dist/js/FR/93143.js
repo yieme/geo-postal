@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93143"]={"code":"93143","region":"Ile-de-France","city":"Bondy","latitude":48.9018,"longitude":2.48931}}(window,'GeoPostal','FR');

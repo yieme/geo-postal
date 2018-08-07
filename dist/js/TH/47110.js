@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47110"]={"code":"47110","region":"Udon Thani","city":"Phibun Rak","latitude":17.55312,"longitude":103.05794}}(window,'GeoPostal','TH');

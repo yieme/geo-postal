@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626110"]={"code":"626110","region":"Tyumenskaya oblast'","city":"Mendeleyevo","latitude":58.16667,"longitude":68.3}}(window,'GeoPostal','RU');

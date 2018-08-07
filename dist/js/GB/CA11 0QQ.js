@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA11 0QQ"]={"code":"CA11 0QQ","region":"England","city":"Glenridding","latitude":54.54429,"longitude":-2.95773}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58385"]={"code":"58385","region":"ND","city":"Wolford","latitude":48.4809,"longitude":-99.6628}}(window,'GeoPostal','US');

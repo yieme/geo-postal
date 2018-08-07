@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["160150"]={"code":"160150","region":"Pastaza","city":"Puyo","latitude":-1.46667,"longitude":-77.98333}}(window,'GeoPostal','EC');

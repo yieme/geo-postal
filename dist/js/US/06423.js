@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06423"]={"code":"06423","region":"Connecticut","city":"East Haddam","latitude":41.45315,"longitude":-72.4612}}(window,'GeoPostal','US');

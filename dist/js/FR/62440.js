@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62440"]={"code":"62440","region":"Hauts-de-France","city":"Harnes","latitude":50.44643,"longitude":2.90481}}(window,'GeoPostal','FR');

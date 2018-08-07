@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8125"]={"code":"8125","region":"Fejer","city":"Sarkeresztur","latitude":47.0054,"longitude":18.54391}}(window,'GeoPostal','HU');

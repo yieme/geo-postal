@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05862"]={"code":"05862","region":"Vermont","city":"Peacham","latitude":44.338056,"longitude":-72.157778}}(window,'GeoPostal','US');

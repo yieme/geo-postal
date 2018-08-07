@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61937"]={"code":"61937","region":"Illinois","city":"Lovington","latitude":39.712128,"longitude":-88.638051}}(window,'GeoPostal','US');

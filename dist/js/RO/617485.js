@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617485"]={"code":"617485","region":"Neamt","city":"Tibucani","latitude":47.1,"longitude":26.53333}}(window,'GeoPostal','RO');

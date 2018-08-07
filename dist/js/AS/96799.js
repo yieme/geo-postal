@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96799"]={"code":"96799","region":"Eastern District","city":"Pago Pago","latitude":-14.27806,"longitude":-170.7025}}(window,'GeoPostal','AS');

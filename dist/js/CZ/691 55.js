@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["691 55"]={"code":"691 55","region":"Jihomoravsky kraj","city":"Moravska Nova Ves","latitude":48.80304,"longitude":17.01371}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38610-000"]={"code":"38610-000","region":"Minas Gerais","city":"Unai","latitude":-16.3575,"longitude":-46.90611}}(window,'GeoPostal','BR');

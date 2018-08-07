@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 1J0"]={"code":"R0J 1J0","region":"Manitoba","city":"Ozerna","latitude":50.43082,"longitude":-100.09364}}(window,'GeoPostal','CA');

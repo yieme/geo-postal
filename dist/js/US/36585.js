@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36585"]={"code":"36585","region":"AL","city":"Wagarville","latitude":31.4102,"longitude":-88.0705}}(window,'GeoPostal','US');

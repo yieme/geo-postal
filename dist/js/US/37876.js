@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37876"]={"code":"37876","region":"Tennessee","city":"Sevierville","latitude":35.83981,"longitude":-83.481787}}(window,'GeoPostal','US');

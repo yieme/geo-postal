@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55435"]={"code":"55435","region":"Rheinland-Pfalz","city":"Gau-Algesheim","latitude":49.95669,"longitude":8.01569}}(window,'GeoPostal','DE');

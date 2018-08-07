@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 18"]={"code":"696 18","region":"Jihomoravsky kraj","city":"Luzice","latitude":48.84098,"longitude":17.07104}}(window,'GeoPostal','CZ');

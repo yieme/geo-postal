@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11004"]={"code":"11004","region":"NY","city":"Glen Oaks","latitude":40.7481,"longitude":-73.7114}}(window,'GeoPostal','US');

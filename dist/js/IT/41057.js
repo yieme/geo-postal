@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41057"]={"code":"41057","region":"Emilia-Romagna","city":"Spilamberto","latitude":44.53426,"longitude":11.0195}}(window,'GeoPostal','IT');

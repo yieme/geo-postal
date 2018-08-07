@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5413"]={"code":"5413","region":"South Australia","city":"Saddleworth","latitude":-34.08257,"longitude":138.78059}}(window,'GeoPostal','AU');

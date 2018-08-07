@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05100"]={"code":"05100","region":"Umbria","city":"Terni","latitude":42.56713,"longitude":12.64987}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363029"]={"code":"363029","region":"Severnaya Osetiya, Respublika","city":"Beslan","latitude":43.19217,"longitude":44.54313}}(window,'GeoPostal','RU');

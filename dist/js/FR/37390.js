@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37390"]={"code":"37390","region":"Centre-Val de Loire","city":"Mettray","latitude":47.45251,"longitude":0.64939}}(window,'GeoPostal','FR');

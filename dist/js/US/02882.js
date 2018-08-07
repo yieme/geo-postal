@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02882"]={"code":"02882","region":"Rhode Island","city":"Narragansett","latitude":41.43702,"longitude":-71.4735}}(window,'GeoPostal','US');

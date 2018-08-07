@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107"]={"code":"107","region":"Hofudborgarsvaedi","city":"Reykjavik","latitude":64.13548,"longitude":-21.89541}}(window,'GeoPostal','IS');

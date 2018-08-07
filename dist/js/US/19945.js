@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19945"]={"code":"19945","region":"Delaware","city":"Frankford","latitude":38.5175,"longitude":-75.23583}}(window,'GeoPostal','US');

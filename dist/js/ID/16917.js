@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16917"]={"code":"16917","region":"Jawa Barat","city":"Cileunyi","latitude":-6.93889,"longitude":107.75278}}(window,'GeoPostal','ID');

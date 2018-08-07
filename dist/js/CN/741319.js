@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["741319"]={"code":"741319","region":"Gansu","city":"Tange Zhen","latitude":34.62764,"longitude":104.84062}}(window,'GeoPostal','CN');

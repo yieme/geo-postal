@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56588"]={"code":"56588","region":"Minnesota","city":"Vining","latitude":46.238609,"longitude":-95.582979}}(window,'GeoPostal','US');

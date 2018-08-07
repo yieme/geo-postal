@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["811 09"]={"code":"811 09","region":"Kentriki Makedonia","city":"Polykastron","latitude":40.99361,"longitude":22.56583}}(window,'GeoPostal','GR');

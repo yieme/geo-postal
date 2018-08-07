@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4484"]={"code":"4484","region":"Szabolcs-Szatmar-Bereg","city":"Ibrany","latitude":48.13333,"longitude":21.71667}}(window,'GeoPostal','HU');

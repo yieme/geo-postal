@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307156"]={"code":"307156","region":"Kurskaya oblast'","city":"Zheleznogorsk","latitude":52.331,"longitude":35.3711}}(window,'GeoPostal','RU');

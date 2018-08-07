@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3357"]={"code":"3357","region":"Vratsa","city":"Khayredin","latitude":43.6,"longitude":23.66667}}(window,'GeoPostal','BG');

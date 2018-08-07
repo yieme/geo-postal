@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HA3 7AY"]={"code":"HA3 7AY","region":"England","city":"Wealdstone","latitude":51.59398,"longitude":-0.33362}}(window,'GeoPostal','GB');

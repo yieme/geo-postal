@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3460000"]={"code":"3460000","region":"Maule","city":"Talca","latitude":-35.43333,"longitude":-71.66667}}(window,'GeoPostal','CL');

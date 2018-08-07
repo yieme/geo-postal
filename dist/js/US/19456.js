@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19456"]={"code":"19456","region":"Pennsylvania","city":"Oaks","latitude":40.134635,"longitude":-75.456804}}(window,'GeoPostal','US');

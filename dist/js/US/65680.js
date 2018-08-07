@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65680"]={"code":"65680","region":"MO","city":"Kissee Mills","latitude":36.6704,"longitude":-93.0377}}(window,'GeoPostal','US');

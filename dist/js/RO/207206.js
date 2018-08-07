@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207206"]={"code":"207206","region":"Prahova","city":"Piatra","latitude":43.81667,"longitude":25.16667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV49 9AB"]={"code":"IV49 9AB","region":"Scotland","city":"Broadford","latitude":57.24176,"longitude":-5.91114}}(window,'GeoPostal','GB');

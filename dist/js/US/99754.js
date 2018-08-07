@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99754"]={"code":"99754","region":"AK","city":"Koyukuk","latitude":64.8803,"longitude":-157.7008}}(window,'GeoPostal','US');

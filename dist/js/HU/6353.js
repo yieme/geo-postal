@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6353"]={"code":"6353","region":"Bacs-Kiskun","city":"Dusnok","latitude":46.39085,"longitude":18.96296}}(window,'GeoPostal','HU');

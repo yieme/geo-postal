@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65053"]={"code":"65053","region":"MO","city":"Lohman","latitude":38.5484,"longitude":-92.3842}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07035"]={"code":"07035","region":"New Jersey","city":"Lincoln Park","latitude":40.9239,"longitude":-74.3048}}(window,'GeoPostal','US');

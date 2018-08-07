@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95365"]={"code":"95365","region":"CA","city":"Planada","latitude":37.2908,"longitude":-120.3185}}(window,'GeoPostal','US');

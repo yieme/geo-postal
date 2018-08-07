@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99650"]={"code":"99650","region":"Alaska","city":"Pilot Station","latitude":61.681284,"longitude":-163.184782}}(window,'GeoPostal','US');

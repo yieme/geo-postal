@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676875"]={"code":"676875","region":"Amurskaya oblast'","city":"Zavitinsk","latitude":50.11667,"longitude":129.45}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606425"]={"code":"606425","region":"Nizhegorodskaya oblast'","city":"Gidrotorf","latitude":56.47444,"longitude":43.54139}}(window,'GeoPostal','RU');

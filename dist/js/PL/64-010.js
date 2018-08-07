@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-010"]={"code":"64-010","region":"Wielkopolskie","city":"Krzywin","latitude":51.96296,"longitude":16.81985}}(window,'GeoPostal','PL');

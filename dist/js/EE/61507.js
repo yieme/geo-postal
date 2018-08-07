@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61507"]={"code":"61507","region":"Tartumaa","city":"Elva","latitude":58.2225,"longitude":26.42111}}(window,'GeoPostal','EE');

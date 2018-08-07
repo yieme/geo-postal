@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47464"]={"code":"47464","region":"IN","city":"Stinesville","latitude":39.2998,"longitude":-86.6482}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49837"]={"code":"49837","region":"Michigan","city":"Gladstone","latitude":45.85274,"longitude":-87.0218}}(window,'GeoPostal','US');

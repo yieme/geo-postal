@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33010"]={"code":"33010","region":"Friuli-Venezia Giulia","city":"Venzone","latitude":46.33306,"longitude":13.14222}}(window,'GeoPostal','IT');

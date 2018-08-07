@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL42 1PG"]={"code":"LL42 1PG","region":"Wales","city":"Barmouth","latitude":52.72377,"longitude":-4.05748}}(window,'GeoPostal','GB');

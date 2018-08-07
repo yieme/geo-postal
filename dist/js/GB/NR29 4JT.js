@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR29 4JT"]={"code":"NR29 4JT","region":"England","city":"Hemsby","latitude":52.69714,"longitude":1.69181}}(window,'GeoPostal','GB');

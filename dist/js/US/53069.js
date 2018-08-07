@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53069"]={"code":"53069","region":"WI","city":"Okauchee","latitude":43.113,"longitude":-88.4323}}(window,'GeoPostal','US');

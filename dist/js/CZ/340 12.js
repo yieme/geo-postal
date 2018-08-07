@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340 12"]={"code":"340 12","region":"Plzensky kraj","city":"Mecin","latitude":49.48009,"longitude":13.40289}}(window,'GeoPostal','CZ');

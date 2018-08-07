@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65451"]={"code":"65451","region":"Hessen","city":"Kelsterbach","latitude":50.06135,"longitude":8.52916}}(window,'GeoPostal','DE');

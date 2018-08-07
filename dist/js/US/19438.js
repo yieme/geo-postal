@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19438"]={"code":"19438","region":"Pennsylvania","city":"Harleysville","latitude":40.266099,"longitude":-75.385748}}(window,'GeoPostal','US');

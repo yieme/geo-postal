@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76475"]={"code":"76475","region":"TX","city":"Strawn","latitude":32.5945,"longitude":-98.4995}}(window,'GeoPostal','US');

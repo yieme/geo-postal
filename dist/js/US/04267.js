@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04267"]={"code":"04267","region":"ME","city":"North Waterford","latitude":44.2317,"longitude":-70.7687}}(window,'GeoPostal','US');

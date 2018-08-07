@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35660"]={"code":"35660","region":"Bretagne","city":"Renac","latitude":47.7203,"longitude":-1.975}}(window,'GeoPostal','FR');

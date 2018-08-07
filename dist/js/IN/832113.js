@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["832113"]={"code":"832113","region":"Jharkhand","city":"Chakulia","latitude":22.48333,"longitude":86.71667}}(window,'GeoPostal','IN');

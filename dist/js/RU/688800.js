@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["688800"]={"code":"688800","region":"Kamchatskiy kray","city":"Tilichiki","latitude":60.46667,"longitude":166.1}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45680"]={"code":"45680","region":"Centre-Val de Loire","city":"Dordives","latitude":48.14253,"longitude":2.76775}}(window,'GeoPostal','FR');

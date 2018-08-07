@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24092"]={"code":"24092","region":"VA","city":"Glade Hill","latitude":36.9859,"longitude":-79.773}}(window,'GeoPostal','US');

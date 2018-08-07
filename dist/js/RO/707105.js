@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707105"]={"code":"707105","region":"Iasi","city":"Schitu-Duca","latitude":47.03333,"longitude":27.76667}}(window,'GeoPostal','RO');

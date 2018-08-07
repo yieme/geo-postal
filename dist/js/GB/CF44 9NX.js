@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF44 9NX"]={"code":"CF44 9NX","region":"Wales","city":"Rhigos","latitude":51.74231,"longitude":-3.56185}}(window,'GeoPostal','GB');

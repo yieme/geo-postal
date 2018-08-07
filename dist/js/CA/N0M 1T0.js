@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0M 1T0"]={"code":"N0M 1T0","region":"Ontario","city":"Grand Bend","latitude":43.31678,"longitude":-81.74978}}(window,'GeoPostal','CA');

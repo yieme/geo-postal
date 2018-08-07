@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0H 2E0"]={"code":"P0H 2E0","region":"Ontario","city":"Rutherglen","latitude":46.26681,"longitude":-79.04959}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4800"]={"code":"4800","region":"Aargau","city":"Zofingen","latitude":47.28779,"longitude":7.94586}}(window,'GeoPostal','CH');

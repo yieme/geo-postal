@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["271 00"]={"code":"271 00","region":"Dytiki Ellada","city":"Pyrgos","latitude":37.67513,"longitude":21.44102}}(window,'GeoPostal','GR');

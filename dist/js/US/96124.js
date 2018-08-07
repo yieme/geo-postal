@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96124"]={"code":"96124","region":"California","city":"Calpine","latitude":39.6531,"longitude":-120.51462}}(window,'GeoPostal','US');

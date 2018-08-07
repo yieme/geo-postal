@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["532265"]={"code":"532265","region":"Andhra Pradesh","city":"Sompeta","latitude":18.93333,"longitude":84.6}}(window,'GeoPostal','IN');

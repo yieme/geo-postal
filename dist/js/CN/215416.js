@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215416"]={"code":"215416","region":"Jiangsu","city":"Shuangfeng","latitude":31.51417,"longitude":121.03093}}(window,'GeoPostal','CN');

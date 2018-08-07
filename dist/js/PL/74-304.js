@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74-304"]={"code":"74-304","region":"Zachodniopomorskie","city":"Nowogrodek Pomorski","latitude":52.91149,"longitude":15.02947}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63860"]={"code":"63860","region":"Bayern","city":"Rothenbuch","latitude":49.96528,"longitude":9.39389}}(window,'GeoPostal','DE');

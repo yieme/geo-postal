@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02420"]={"code":"02420","region":"Massachusetts","city":"Lexington","latitude":42.45713,"longitude":-71.21661}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42372"]={"code":"42372","region":"KY","city":"Sacramento","latitude":37.4177,"longitude":-87.2736}}(window,'GeoPostal','US');

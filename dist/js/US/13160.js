@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13160"]={"code":"13160","region":"New York","city":"Union Springs","latitude":42.83979,"longitude":-76.69328}}(window,'GeoPostal','US');

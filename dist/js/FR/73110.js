@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73110"]={"code":"73110","region":"Auvergne-Rhone-Alpes","city":"La Rochette","latitude":45.46025,"longitude":6.12065}}(window,'GeoPostal','FR');

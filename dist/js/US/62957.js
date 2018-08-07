@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62957"]={"code":"62957","region":"Illinois","city":"McClure","latitude":37.294555,"longitude":-89.496358}}(window,'GeoPostal','US');

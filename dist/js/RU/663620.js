@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663620"]={"code":"663620","region":"Krasnoyarskiy kray","city":"Filimonovo","latitude":56.20111,"longitude":95.46111}}(window,'GeoPostal','RU');

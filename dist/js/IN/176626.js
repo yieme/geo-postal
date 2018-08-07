@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["176626"]={"code":"176626","region":"Himachal Pradesh","city":"Kangra","latitude":32.1,"longitude":76.26667}}(window,'GeoPostal','IN');

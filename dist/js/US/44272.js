@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44272"]={"code":"44272","region":"Ohio","city":"Rootstown","latitude":41.094886,"longitude":-81.215902}}(window,'GeoPostal','US');

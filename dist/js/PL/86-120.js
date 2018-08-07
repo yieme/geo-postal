@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-120"]={"code":"86-120","region":"Kujawsko-pomorskie","city":"Pruszcz","latitude":53.33021,"longitude":18.19894}}(window,'GeoPostal','PL');

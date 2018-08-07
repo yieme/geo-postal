@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["200112"]={"code":"200112","region":"Oyo","city":"Ibadan","latitude":7.38778,"longitude":3.89639}}(window,'GeoPostal','NG');

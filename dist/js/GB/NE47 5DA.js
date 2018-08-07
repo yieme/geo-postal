@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE47 5DA"]={"code":"NE47 5DA","region":"England","city":"Fourstones","latitude":55.00581,"longitude":-2.1757}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84049"]={"code":"84049","region":"Utah","city":"Midway","latitude":40.519268,"longitude":-111.469815}}(window,'GeoPostal','US');

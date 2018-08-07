@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41135"]={"code":"41135","region":"Kentucky","city":"Emerson","latitude":38.382535,"longitude":-83.261298}}(window,'GeoPostal','US');

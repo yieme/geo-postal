@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08786"]={"code":"08786","region":"Catalunya","city":"Capellades","latitude":41.53005,"longitude":1.68651}}(window,'GeoPostal','ES');

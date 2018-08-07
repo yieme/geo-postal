@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28391"]={"code":"28391","region":"Madrid, Comunidad de","city":"Belmonte de Tajo","latitude":40.13162,"longitude":-3.3358}}(window,'GeoPostal','ES');

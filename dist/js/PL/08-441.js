@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-441"]={"code":"08-441","region":"Mazowieckie","city":"Parysow","latitude":51.97584,"longitude":21.68006}}(window,'GeoPostal','PL');

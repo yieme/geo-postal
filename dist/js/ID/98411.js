@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98411"]={"code":"98411","region":"Papua Barat","city":"Sorong","latitude":-0.88333,"longitude":131.25}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87660"]={"code":"87660","region":"Donetska oblast","city":"Bezimenne","latitude":47.10716,"longitude":37.93815}}(window,'GeoPostal','UA');

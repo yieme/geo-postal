@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54835"]={"code":"54835","region":"Wisconsin","city":"Exeland","latitude":45.677736,"longitude":-91.233904}}(window,'GeoPostal','US');

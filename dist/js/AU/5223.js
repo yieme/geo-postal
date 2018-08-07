@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5223"]={"code":"5223","region":"South Australia","city":"Kingscote","latitude":-35.6559,"longitude":137.6393}}(window,'GeoPostal','AU');

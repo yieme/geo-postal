@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69740-000"]={"code":"69740-000","region":"Amazonas","city":"Santa Isabel do Rio Negro","latitude":-0.41389,"longitude":-65.01917}}(window,'GeoPostal','BR');

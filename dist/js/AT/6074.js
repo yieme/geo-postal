@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6074"]={"code":"6074","region":"Tirol","city":"Rinn","latitude":47.25,"longitude":11.5}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-630"]={"code":"63-630","region":"Wielkopolskie","city":"Rychtal","latitude":51.14533,"longitude":17.85132}}(window,'GeoPostal','PL');

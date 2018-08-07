@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["PM"]={id:'PM',country:'Saint Pierre and Miquelon', postal:{'97500':{code:'97500',region:'Saint Pierre and Miquelon',city:'Saint-Pierre',latitude:46.76544,longitude:-56.16949}}};

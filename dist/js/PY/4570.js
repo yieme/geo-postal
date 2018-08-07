@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4570"]={"code":"4570","region":"Paraguari","city":"Pirayu","latitude":-25.48333,"longitude":-57.23333}}(window,'GeoPostal','PY');

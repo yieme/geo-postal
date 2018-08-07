@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86994"]={"code":"86994","region":"Tabasco","city":"Emiliano Zapata","latitude":17.75,"longitude":-91.76667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04359"]={"code":"04359","region":"ME","city":"South Gardiner","latitude":44.1801,"longitude":-69.7567}}(window,'GeoPostal','US');

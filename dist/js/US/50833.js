@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50833"]={"code":"50833","region":"Iowa","city":"Bedford","latitude":40.66693,"longitude":-94.72136}}(window,'GeoPostal','US');

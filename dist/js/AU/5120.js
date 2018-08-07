@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5120"]={"code":"5120","region":"South Australia","city":"Virginia","latitude":-34.6663,"longitude":138.56027}}(window,'GeoPostal','AU');

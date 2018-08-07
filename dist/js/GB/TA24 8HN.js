@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA24 8HN"]={"code":"TA24 8HN","region":"England","city":"Allerford","latitude":51.21157,"longitude":-3.57017}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52745"]={"code":"52745","region":"Iowa","city":"Dixon","latitude":41.770278,"longitude":-90.826111}}(window,'GeoPostal','US');

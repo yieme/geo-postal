@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21667"]={"code":"21667","region":"MD","city":"Still Pond","latitude":39.3293,"longitude":-76.0455}}(window,'GeoPostal','US');

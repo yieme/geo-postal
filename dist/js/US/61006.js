@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61006"]={"code":"61006","region":"IL","city":"Ashton","latitude":41.8643,"longitude":-89.2086}}(window,'GeoPostal','US');

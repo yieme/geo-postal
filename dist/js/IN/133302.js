@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133302"]={"code":"133302","region":"Uttar Pradesh","city":"Bulandshahr","latitude":28.4,"longitude":77.85}}(window,'GeoPostal','IN');

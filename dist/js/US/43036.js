@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43036"]={"code":"43036","region":"OH","city":"Magnetic Springs","latitude":40.3528,"longitude":-83.2634}}(window,'GeoPostal','US');

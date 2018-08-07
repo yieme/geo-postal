@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63456"]={"code":"63456","region":"Missouri","city":"Monroe City","latitude":39.65365,"longitude":-91.73461}}(window,'GeoPostal','US');

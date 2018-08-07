@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80832"]={"code":"80832","region":"Colorado","city":"Ramah","latitude":39.087326,"longitude":-104.083253}}(window,'GeoPostal','US');

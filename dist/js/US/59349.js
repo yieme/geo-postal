@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59349"]={"code":"59349","region":"Montana","city":"Terry","latitude":46.79306,"longitude":-105.31221}}(window,'GeoPostal','US');

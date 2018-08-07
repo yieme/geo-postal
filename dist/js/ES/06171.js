@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06171"]={"code":"06171","region":"Extremadura","city":"Almendral","latitude":38.61418,"longitude":-6.82096}}(window,'GeoPostal','ES');

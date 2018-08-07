@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16200-000"]={"code":"16200-000","region":"Sao Paulo","city":"Aracatuba","latitude":-21.20889,"longitude":-50.43278}}(window,'GeoPostal','BR');

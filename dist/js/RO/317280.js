@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317280"]={"code":"317280","region":"Mures","city":"Sintana","latitude":46.35,"longitude":21.5}}(window,'GeoPostal','RO');

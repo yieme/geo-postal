@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL11 7ES"]={"code":"DL11 7ES","region":"England","city":"Ravensworth","latitude":54.46667,"longitude":-1.78333}}(window,'GeoPostal','GB');

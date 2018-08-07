@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34570"]={"code":"34570","region":"Occitanie","city":"Pignan","latitude":43.58365,"longitude":3.75981}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43300"]={"code":"43300","region":"Hidalgo","city":"Atotonilco el Grande","latitude":20.28333,"longitude":-98.66667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41839"]={"code":"41839","region":"KY","city":"Mousie","latitude":37.4331,"longitude":-82.9018}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99550"]={"code":"99550","region":"Alaska","city":"Port Lions","latitude":57.821274,"longitude":-153.076961}}(window,'GeoPostal','US');

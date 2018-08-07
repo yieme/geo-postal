@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE8 0PT"]={"code":"LE8 0PT","region":"England","city":"Kibworth Harcourt","latitude":52.54439,"longitude":-0.99491}}(window,'GeoPostal','GB');

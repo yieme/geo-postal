@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68666"]={"code":"68666","region":"NE","city":"Stromsburg","latitude":41.1118,"longitude":-97.5742}}(window,'GeoPostal','US');

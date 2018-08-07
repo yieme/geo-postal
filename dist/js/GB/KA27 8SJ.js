@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA27 8SJ"]={"code":"KA27 8SJ","region":"Scotland","city":"Lagg","latitude":55.43333,"longitude":-5.21667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137385"]={"code":"137385","region":"Dambovita","city":"Racari","latitude":44.63333,"longitude":25.73333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06520"]={"code":"06520","region":"Provence-Alpes-Cote d'Azur","city":"Grasse","latitude":43.66667,"longitude":6.91667}}(window,'GeoPostal','FR');

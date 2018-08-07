@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G1R 5V7"]={"code":"G1R 5V7","region":"Quebec","city":"Quebec","latitude":46.808475,"longitude":-71.218305}}(window,'GeoPostal','CA');

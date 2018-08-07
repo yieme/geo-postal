@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73951"]={"code":"73951","region":"Oklahoma","city":"Tyrone","latitude":36.952352,"longitude":-101.026133}}(window,'GeoPostal','US');

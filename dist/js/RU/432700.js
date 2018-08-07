@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["432700"]={"code":"432700","region":"Ul'yanovskaya oblast'","city":"Ul'yanovsk","latitude":54.33333,"longitude":48.4}}(window,'GeoPostal','RU');

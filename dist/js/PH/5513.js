@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5513"]={"code":"5513","region":"Pampanga","city":"San Fernando","latitude":15.0286,"longitude":120.6898}}(window,'GeoPostal','PH');

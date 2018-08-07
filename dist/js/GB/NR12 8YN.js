@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR12 8YN"]={"code":"NR12 8YN","region":"England","city":"Ashmanhaugh","latitude":52.73546,"longitude":1.42615}}(window,'GeoPostal','GB');

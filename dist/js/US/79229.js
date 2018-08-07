@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79229"]={"code":"79229","region":"Texas","city":"Dickens","latitude":33.62175,"longitude":-100.83652}}(window,'GeoPostal','US');

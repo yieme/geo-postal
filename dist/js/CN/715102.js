@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["715102"]={"code":"715102","region":"Shaanxi","city":"Boshi","latitude":34.77018,"longitude":110.05078}}(window,'GeoPostal','CN');

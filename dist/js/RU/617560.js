@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617560"]={"code":"617560","region":"Permskiy kray","city":"Suksun","latitude":57.1431,"longitude":57.3949}}(window,'GeoPostal','RU');

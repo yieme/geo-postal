@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3080"]={"code":"3080","region":"Santa Fe","city":"Esperanza","latitude":-31.4488,"longitude":-60.93173}}(window,'GeoPostal','AR');

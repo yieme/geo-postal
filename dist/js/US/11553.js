@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11553"]={"code":"11553","region":"New York","city":"Uniondale","latitude":40.704258,"longitude":-73.594233}}(window,'GeoPostal','US');

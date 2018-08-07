@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98632"]={"code":"98632","region":"Washington","city":"Longview","latitude":46.13817,"longitude":-122.93817}}(window,'GeoPostal','US');

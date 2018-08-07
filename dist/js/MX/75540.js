@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75540"]={"code":"75540","region":"Puebla","city":"Atzitzintla","latitude":18.9,"longitude":-97.31667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52169"]={"code":"52169","region":"Iowa","city":"Wadena","latitude":42.840127,"longitude":-91.654474}}(window,'GeoPostal','US');

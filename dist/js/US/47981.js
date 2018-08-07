@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47981"]={"code":"47981","region":"IN","city":"Romney","latitude":40.258,"longitude":-86.9208}}(window,'GeoPostal','US');

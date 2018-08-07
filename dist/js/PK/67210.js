@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67210"]={"code":"67210","region":"Sindh","city":"Sakrand","latitude":26.13839,"longitude":68.27361}}(window,'GeoPostal','PK');

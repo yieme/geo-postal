@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58750"]={"code":"58750","region":"ND","city":"Lansford","latitude":48.6254,"longitude":-101.3858}}(window,'GeoPostal','US');

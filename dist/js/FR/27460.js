@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27460"]={"code":"27460","region":"Normandie","city":"Alizay","latitude":49.32158,"longitude":1.17854}}(window,'GeoPostal','FR');

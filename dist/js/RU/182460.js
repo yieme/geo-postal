@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182460"]={"code":"182460","region":"Pskovskaya oblast'","city":"Vybor","latitude":57.22716,"longitude":29.1663}}(window,'GeoPostal','RU');

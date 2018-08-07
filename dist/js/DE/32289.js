@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32289"]={"code":"32289","region":"Niedersachsen","city":"Bruchmuhlen","latitude":52.20053,"longitude":8.456}}(window,'GeoPostal','DE');

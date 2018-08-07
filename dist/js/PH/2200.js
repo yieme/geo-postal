@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2200"]={"code":"2200","region":"Zambales","city":"Olongapo","latitude":14.82917,"longitude":120.28278}}(window,'GeoPostal','PH');

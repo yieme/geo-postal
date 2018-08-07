@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88836"]={"code":"88836","region":"Calabria","city":"Cotronei","latitude":39.15819,"longitude":16.78091}}(window,'GeoPostal','IT');

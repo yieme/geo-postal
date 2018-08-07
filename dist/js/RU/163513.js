@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["163513"]={"code":"163513","region":"Arkhangel'skaya oblast'","city":"Katunino","latitude":64.3862,"longitude":40.6298}}(window,'GeoPostal','RU');

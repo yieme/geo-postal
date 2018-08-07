@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP24 2RL"]={"code":"IP24 2RL","region":"England","city":"Kilverstone","latitude":52.42386,"longitude":0.77907}}(window,'GeoPostal','GB');

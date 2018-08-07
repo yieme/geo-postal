@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67516"]={"code":"67516","region":"KS","city":"Bazine","latitude":38.4565,"longitude":-99.7016}}(window,'GeoPostal','US');

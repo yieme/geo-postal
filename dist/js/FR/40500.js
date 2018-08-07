@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40500"]={"code":"40500","region":"Nouvelle-Aquitaine","city":"Banos","latitude":43.7375,"longitude":-0.6219}}(window,'GeoPostal','FR');

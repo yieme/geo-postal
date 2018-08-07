@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83873"]={"code":"83873","region":"Idaho","city":"Wallace","latitude":47.47409,"longitude":-115.92794}}(window,'GeoPostal','US');

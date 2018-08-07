@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54139"]={"code":"54139","region":"Grand-Est","city":"Saint-Max","latitude":48.70429,"longitude":6.20999}}(window,'GeoPostal','FR');

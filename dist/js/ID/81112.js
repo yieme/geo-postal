@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81112"]={"code":"81112","region":"Bali","city":"Singaraja","latitude":-8.112,"longitude":115.08818}}(window,'GeoPostal','ID');

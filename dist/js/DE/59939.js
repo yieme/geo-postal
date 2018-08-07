@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59939"]={"code":"59939","region":"Nordrhein-Westfalen","city":"Olsberg","latitude":51.35613,"longitude":8.48899}}(window,'GeoPostal','DE');

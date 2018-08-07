@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19034"]={"code":"19034","region":"Setif","city":"Setif","latitude":36.19112,"longitude":5.41373}}(window,'GeoPostal','DZ');

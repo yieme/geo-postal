@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-730"]={"code":"11-730","region":"Warminsko-mazurskie","city":"Mikolajki","latitude":53.80288,"longitude":21.57011}}(window,'GeoPostal','PL');

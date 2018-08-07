@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61021"]={"code":"61021","region":"Illinois","city":"Dixon","latitude":41.83892,"longitude":-89.47955}}(window,'GeoPostal','US');

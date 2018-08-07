@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64154"]={"code":"64154","region":"Jawa Timur","city":"Kertosono","latitude":-7.58333,"longitude":112.1}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07-310"]={"code":"07-310","region":"Mazowieckie","city":"Ostrow Mazowiecka","latitude":52.80245,"longitude":21.89507}}(window,'GeoPostal','PL');

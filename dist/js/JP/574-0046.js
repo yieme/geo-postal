@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["574-0046"]={"code":"574-0046","region":"Osaka","city":"Daito","latitude":34.717,"longitude":135.617}}(window,'GeoPostal','JP');

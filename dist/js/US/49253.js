@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49253"]={"code":"49253","region":"MI","city":"Manitou Beach","latitude":41.9671,"longitude":-84.2767}}(window,'GeoPostal','US');

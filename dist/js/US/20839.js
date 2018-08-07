@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20839"]={"code":"20839","region":"MD","city":"Beallsville","latitude":39.179,"longitude":-77.4128}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA24 7TU"]={"code":"TA24 7TU","region":"England","city":"Timberscombe","latitude":51.16857,"longitude":-3.49511}}(window,'GeoPostal','GB');

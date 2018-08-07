@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364208"]={"code":"364208","region":"Fujian","city":"Shangcai Zhongxing","latitude":25.26398,"longitude":116.41621}}(window,'GeoPostal','CN');

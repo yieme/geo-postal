@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["686 04"]={"code":"686 04","region":"Zlinsky kraj","city":"Popovice","latitude":49.05255,"longitude":17.52712}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5163"]={"code":"5163","region":"Salzburg","city":"Mattsee","latitude":47.96667,"longitude":13.1}}(window,'GeoPostal','AT');

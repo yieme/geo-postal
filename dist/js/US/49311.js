@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49311"]={"code":"49311","region":"MI","city":"Bradley","latitude":42.633,"longitude":-85.643}}(window,'GeoPostal','US');

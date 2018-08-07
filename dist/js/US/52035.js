@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52035"]={"code":"52035","region":"Iowa","city":"Colesburg","latitude":42.637856,"longitude":-91.200925}}(window,'GeoPostal','US');

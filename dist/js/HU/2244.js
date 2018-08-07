@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2244"]={"code":"2244","region":"Pest","city":"Uri","latitude":47.41429,"longitude":19.52762}}(window,'GeoPostal','HU');

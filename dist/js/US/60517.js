@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60517"]={"code":"60517","region":"Illinois","city":"Woodridge","latitude":41.75424,"longitude":-88.06104}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["797108"]={"code":"797108","region":"Nagaland","city":"Kohima","latitude":25.66667,"longitude":94.11667}}(window,'GeoPostal','IN');

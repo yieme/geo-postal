@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H9X 3T1"]={"code":"H9X 3T1","region":"Quebec","city":"Baie-D'Urfe","latitude":45.423369,"longitude":-73.913397}}(window,'GeoPostal','CA');

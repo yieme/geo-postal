@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15938"]={"code":"15938","region":"PA","city":"Lilly","latitude":40.4238,"longitude":-78.6231}}(window,'GeoPostal','US');

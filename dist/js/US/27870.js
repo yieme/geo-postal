@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27870"]={"code":"27870","region":"North Carolina","city":"Roanoke Rapids","latitude":36.46154,"longitude":-77.65415}}(window,'GeoPostal','US');

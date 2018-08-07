@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391140"]={"code":"391140","region":"Ryazanskaya oblast'","city":"Pronsk","latitude":54.1048,"longitude":39.6092}}(window,'GeoPostal','RU');

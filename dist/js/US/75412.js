@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75412"]={"code":"75412","region":"TX","city":"Bagwell","latitude":33.8361,"longitude":-95.1487}}(window,'GeoPostal','US');

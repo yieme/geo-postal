@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-403"]={"code":"37-403","region":"Podkarpackie","city":"Pysznica","latitude":50.56999,"longitude":22.12913}}(window,'GeoPostal','PL');

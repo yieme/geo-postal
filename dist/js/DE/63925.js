@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63925"]={"code":"63925","region":"Bayern","city":"Laudenbach","latitude":49.74583,"longitude":9.17611}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3944"]={"code":"3944","region":"Victoria","city":"Portsea","latitude":-38.31667,"longitude":144.71667}}(window,'GeoPostal','AU');

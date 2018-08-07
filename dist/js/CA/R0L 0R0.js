@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 0R0"]={"code":"R0L 0R0","region":"Manitoba","city":"Ebb and Flow","latitude":51.047796,"longitude":-99.018976}}(window,'GeoPostal','CA');

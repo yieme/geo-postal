@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15870"]={"code":"15870","region":"Lima","city":"Chilca","latitude":-12.52111,"longitude":-76.73722}}(window,'GeoPostal','PE');

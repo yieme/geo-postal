@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12491"]={"code":"12491","region":"NY","city":"West Hurley","latitude":41.9973,"longitude":-74.1049}}(window,'GeoPostal','US');

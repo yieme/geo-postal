@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366309"]={"code":"366309","region":"Fujian","city":"Cewu","latitude":25.72843,"longitude":116.34792}}(window,'GeoPostal','CN');

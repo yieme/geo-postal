@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44230-000"]={"code":"44230-000","region":"Bahia","city":"Conceicao do Jacuipe","latitude":-12.31667,"longitude":-38.76667}}(window,'GeoPostal','BR');

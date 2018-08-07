@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31840"]={"code":"31840","region":"Occitanie","city":"Seilh","latitude":43.69469,"longitude":1.35509}}(window,'GeoPostal','FR');

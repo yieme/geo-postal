@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04780"]={"code":"04780","region":"ME","city":"Smyrna Mills","latitude":46.1464,"longitude":-68.2064}}(window,'GeoPostal','US');

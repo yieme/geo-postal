@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45679"]={"code":"45679","region":"Ohio","city":"Seaman","latitude":38.93889,"longitude":-83.57306}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11709"]={"code":"11709","region":"Zhytomyrska oblast","city":"Novohrad-Volyns'kyy","latitude":50.59412,"longitude":27.6165}}(window,'GeoPostal','UA');

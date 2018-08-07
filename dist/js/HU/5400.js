@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5400"]={"code":"5400","region":"Jasz-Nagykun-Szolnok","city":"Mezotur","latitude":47,"longitude":20.63333}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56481"]={"code":"56481","region":"Minnesota","city":"Verndale","latitude":46.4,"longitude":-95.017}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37373"]={"code":"37373","region":"TN","city":"Sale Creek","latitude":35.3858,"longitude":-85.1023}}(window,'GeoPostal','US');

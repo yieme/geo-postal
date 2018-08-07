@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50843"]={"code":"50843","region":"Iowa","city":"Cumberland","latitude":41.244695,"longitude":-94.871005}}(window,'GeoPostal','US');

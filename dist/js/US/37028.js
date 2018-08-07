@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37028"]={"code":"37028","region":"Tennessee","city":"Bumpus Mills","latitude":36.660074,"longitude":-87.829183}}(window,'GeoPostal','US');

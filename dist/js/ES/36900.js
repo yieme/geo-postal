@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36900"]={"code":"36900","region":"Galicia","city":"Marin","latitude":42.38333,"longitude":-8.7}}(window,'GeoPostal','ES');

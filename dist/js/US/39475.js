@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39475"]={"code":"39475","region":"MS","city":"Purvis","latitude":31.1496,"longitude":-89.4623}}(window,'GeoPostal','US');

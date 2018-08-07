@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29388"]={"code":"29388","region":"South Carolina","city":"Woodruff","latitude":34.73957,"longitude":-82.03705}}(window,'GeoPostal','US');

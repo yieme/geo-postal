@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86746"]={"code":"86746","region":"Chiapas","city":"Salto de Agua","latitude":17.61667,"longitude":-92.36667}}(window,'GeoPostal','MX');

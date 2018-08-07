@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2085"]={"code":"2085","region":"New South Wales","city":"Belrose","latitude":-33.73954,"longitude":151.21033}}(window,'GeoPostal','AU');

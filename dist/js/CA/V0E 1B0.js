@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 1B0"]={"code":"V0E 1B0","region":"British Columbia","city":"Armstrong","latitude":50.44979,"longitude":-119.20235}}(window,'GeoPostal','CA');

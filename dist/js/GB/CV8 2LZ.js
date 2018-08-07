@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV8 2LZ"]={"code":"CV8 2LZ","region":"England","city":"Kenilworth","latitude":52.34286,"longitude":-1.58015}}(window,'GeoPostal','GB');

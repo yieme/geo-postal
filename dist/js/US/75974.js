@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75974"]={"code":"75974","region":"Texas","city":"Tenaha","latitude":31.94378,"longitude":-94.24409}}(window,'GeoPostal','US');

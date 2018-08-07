@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3160"]={"code":"3160","region":"Niederosterreich","city":"Traisen","latitude":48.03333,"longitude":15.6}}(window,'GeoPostal','AT');

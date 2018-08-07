@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17358"]={"code":"17358","region":"Mecklenburg-Vorpommern","city":"Spechtberg","latitude":53.63668,"longitude":14.03325}}(window,'GeoPostal','DE');

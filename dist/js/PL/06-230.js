@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-230"]={"code":"06-230","region":"Mazowieckie","city":"Rozan","latitude":52.88757,"longitude":21.39105}}(window,'GeoPostal','PL');

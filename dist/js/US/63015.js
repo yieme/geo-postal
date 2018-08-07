@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63015"]={"code":"63015","region":"MO","city":"Catawissa","latitude":38.4047,"longitude":-90.7806}}(window,'GeoPostal','US');

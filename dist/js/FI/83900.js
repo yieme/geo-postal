@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83900"]={"code":"83900","region":"Pohjois-Karjala","city":"Juuka","latitude":63.23333,"longitude":29.25}}(window,'GeoPostal','FI');

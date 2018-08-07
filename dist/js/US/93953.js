@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93953"]={"code":"93953","region":"California","city":"Pebble Beach","latitude":36.57916,"longitude":-121.94703}}(window,'GeoPostal','US');

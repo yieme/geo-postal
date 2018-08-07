@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2205"]={"code":"2205","region":"New South Wales","city":"Arncliffe","latitude":-33.93627,"longitude":151.14819}}(window,'GeoPostal','AU');

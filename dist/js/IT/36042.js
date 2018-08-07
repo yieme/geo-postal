@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36042"]={"code":"36042","region":"Veneto","city":"Breganze","latitude":45.7057,"longitude":11.5668}}(window,'GeoPostal','IT');

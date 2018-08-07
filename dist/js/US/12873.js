@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12873"]={"code":"12873","region":"NY","city":"Shushan","latitude":43.1106,"longitude":-73.3231}}(window,'GeoPostal','US');

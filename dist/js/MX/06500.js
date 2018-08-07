@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06500"]={"code":"06500","region":"Ciudad de Mexico","city":"Cuauhtemoc","latitude":19.41722,"longitude":-99.15694}}(window,'GeoPostal','MX');

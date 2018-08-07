@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30600"]={"code":"30600","region":"Occitanie","city":"Vauvert","latitude":43.69529,"longitude":4.27705}}(window,'GeoPostal','FR');

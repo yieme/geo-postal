@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11540"]={"code":"11540","region":"Andalucia","city":"Sanlucar de Barrameda","latitude":36.77889,"longitude":-6.35389}}(window,'GeoPostal','ES');

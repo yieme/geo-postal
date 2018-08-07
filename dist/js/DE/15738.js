@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15738"]={"code":"15738","region":"Brandenburg","city":"Zeuthen","latitude":52.36667,"longitude":13.61667}}(window,'GeoPostal','DE');

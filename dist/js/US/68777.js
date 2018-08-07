@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68777"]={"code":"68777","region":"Nebraska","city":"Spencer","latitude":42.902739,"longitude":-98.718943}}(window,'GeoPostal','US');

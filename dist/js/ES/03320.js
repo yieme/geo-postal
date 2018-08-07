@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03320"]={"code":"03320","region":"Valenciana, Comunidad","city":"Santa Pola","latitude":38.19165,"longitude":-0.5658}}(window,'GeoPostal','ES');

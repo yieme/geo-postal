@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44612"]={"code":"44612","region":"Ohio","city":"Bolivar","latitude":40.65,"longitude":-81.455}}(window,'GeoPostal','US');

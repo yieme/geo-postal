@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-160"]={"code":"86-160","region":"Kujawsko-pomorskie","city":"Nowe","latitude":53.64906,"longitude":18.72716}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68433"]={"code":"68433","region":"NE","city":"Salem","latitude":40.062,"longitude":-95.7273}}(window,'GeoPostal','US');

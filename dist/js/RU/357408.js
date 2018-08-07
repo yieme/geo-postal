@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357408"]={"code":"357408","region":"Stavropol'skiy kray","city":"Zheleznovodsk","latitude":44.13944,"longitude":43.01972}}(window,'GeoPostal','RU');

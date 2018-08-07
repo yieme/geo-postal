@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68972"]={"code":"68972","region":"NE","city":"Riverton","latitude":40.1016,"longitude":-98.7858}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437245"]={"code":"437245","region":"Maramures","city":"Rona de Jos","latitude":47.91667,"longitude":24.01667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU15 1QE"]={"code":"HU15 1QE","region":"England","city":"Brantingham","latitude":53.75181,"longitude":-0.57704}}(window,'GeoPostal','GB');

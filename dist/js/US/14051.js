@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14051"]={"code":"14051","region":"NY","city":"East Amherst","latitude":43.0429,"longitude":-78.6988}}(window,'GeoPostal','US');

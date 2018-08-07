@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64637"]={"code":"64637","region":"MO","city":"Cowgill","latitude":39.5643,"longitude":-93.9295}}(window,'GeoPostal','US');

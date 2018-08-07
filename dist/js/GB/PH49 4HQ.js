@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH49 4HQ"]={"code":"PH49 4HQ","region":"Scotland","city":"Invercoe","latitude":56.68333,"longitude":-5.1}}(window,'GeoPostal','GB');

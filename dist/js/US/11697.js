@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11697"]={"code":"11697","region":"NY","city":"Breezy Point","latitude":40.5594,"longitude":-73.9067}}(window,'GeoPostal','US');

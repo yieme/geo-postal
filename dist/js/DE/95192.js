@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95192"]={"code":"95192","region":"Thuringen","city":"Dorschenmuehle","latitude":50.39387,"longitude":11.67412}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98356"]={"code":"98356","region":"Washington","city":"Morton","latitude":46.55844,"longitude":-122.2751}}(window,'GeoPostal','US');

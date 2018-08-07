@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0J 1G0"]={"code":"P0J 1G0","region":"Ontario","city":"Elk Lake","latitude":47.73003,"longitude":-80.33083}}(window,'GeoPostal','CA');

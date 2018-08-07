@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6401"]={"code":"6401","region":"Delta Amacuro","city":"Tucupita","latitude":9.06222,"longitude":-62.05102}}(window,'GeoPostal','VE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68346"]={"code":"68346","region":"NE","city":"Dunbar","latitude":40.6592,"longitude":-96.0136}}(window,'GeoPostal','US');

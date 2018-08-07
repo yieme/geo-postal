@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04462"]={"code":"04462","region":"Maine","city":"Millinocket","latitude":45.65727,"longitude":-68.70976}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59419"]={"code":"59419","region":"Hauts-de-France","city":"Anzin","latitude":50.37201,"longitude":3.50387}}(window,'GeoPostal','FR');

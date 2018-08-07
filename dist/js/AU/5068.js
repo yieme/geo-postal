@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5068"]={"code":"5068","region":"New South Wales","city":"Kensington","latitude":-33.91667,"longitude":151.21667}}(window,'GeoPostal','AU');

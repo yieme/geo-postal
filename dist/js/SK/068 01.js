@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["068 01"]={"code":"068 01","region":"Presovsky kraj","city":"Medzilaborce","latitude":49.27195,"longitude":21.90073}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79991"]={"code":"79991","region":"San Luis Potosi","city":"Tamazunchale","latitude":21.26667,"longitude":-98.78333}}(window,'GeoPostal','MX');

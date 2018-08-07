@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44611"]={"code":"44611","region":"OH","city":"Big Prairie","latitude":40.6188,"longitude":-82.072}}(window,'GeoPostal','US');

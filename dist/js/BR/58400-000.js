@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58400-000"]={"code":"58400-000","region":"Paraiba","city":"Aroeiras","latitude":-7.54528,"longitude":-35.7075}}(window,'GeoPostal','BR');

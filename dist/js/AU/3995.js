@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3995"]={"code":"3995","region":"Victoria","city":"Powlett River","latitude":-38.56667,"longitude":145.58333}}(window,'GeoPostal','AU');

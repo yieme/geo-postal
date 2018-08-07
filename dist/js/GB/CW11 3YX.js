@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW11 3YX"]={"code":"CW11 3YX","region":"England","city":"Sandbach","latitude":53.14515,"longitude":-2.36251}}(window,'GeoPostal','GB');

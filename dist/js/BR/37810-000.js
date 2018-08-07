@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37810-000"]={"code":"37810-000","region":"Minas Gerais","city":"Guaranesia","latitude":-21.29917,"longitude":-46.8025}}(window,'GeoPostal','BR');

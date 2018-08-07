@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59749"]={"code":"59749","region":"MT","city":"Sheridan","latitude":45.423,"longitude":-112.1735}}(window,'GeoPostal','US');

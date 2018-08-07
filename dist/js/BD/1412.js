@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1412"]={"code":"1412","region":"Dhaka","city":"Narayanganj","latitude":23.62333,"longitude":90.50111}}(window,'GeoPostal','BD');

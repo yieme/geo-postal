@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84430-000"]={"code":"84430-000","region":"Parana","city":"Imbituva","latitude":-25.23,"longitude":-50.60444}}(window,'GeoPostal','BR');

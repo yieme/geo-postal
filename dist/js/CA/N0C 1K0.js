@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0C 1K0"]={"code":"N0C 1K0","region":"Ontario","city":"Priceville","latitude":44.2001,"longitude":-80.63301}}(window,'GeoPostal','CA');

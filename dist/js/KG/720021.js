@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["720021"]={"code":"720021","region":"Bishkek","city":"Bishkek","latitude":42.87,"longitude":74.59}}(window,'GeoPostal','KG');

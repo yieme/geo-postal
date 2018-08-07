@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["350 08"]={"code":"350 08","region":"Sterea Ellada","city":"Kamena Vourla","latitude":38.77844,"longitude":22.78573}}(window,'GeoPostal','GR');

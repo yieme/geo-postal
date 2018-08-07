@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624502"]={"code":"624502","region":"Gansu","city":"Dianga","latitude":34.06363,"longitude":103.21358}}(window,'GeoPostal','CN');

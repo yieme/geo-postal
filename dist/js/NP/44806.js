@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44806"]={"code":"44806","region":"Bagmati","city":"Banepa","latitude":27.62979,"longitude":85.52138}}(window,'GeoPostal','NP');

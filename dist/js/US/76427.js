@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76427"]={"code":"76427","region":"Texas","city":"Bryson","latitude":33.131608,"longitude":-98.34303}}(window,'GeoPostal','US');

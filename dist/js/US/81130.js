@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81130"]={"code":"81130","region":"Colorado","city":"Creede","latitude":37.84917,"longitude":-106.92643}}(window,'GeoPostal','US');

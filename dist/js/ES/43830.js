@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43830"]={"code":"43830","region":"Catalunya","city":"Torredembarra","latitude":41.14505,"longitude":1.39861}}(window,'GeoPostal','ES');

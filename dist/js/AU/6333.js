@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6333"]={"code":"6333","region":"Western Australia","city":"Denmark","latitude":-34.96067,"longitude":117.35321}}(window,'GeoPostal','AU');

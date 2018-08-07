@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2324"]={"code":"2324","region":"New South Wales","city":"Tea Gardens","latitude":-32.66351,"longitude":152.15404}}(window,'GeoPostal','AU');

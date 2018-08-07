@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72129"]={"code":"72129","region":"AR","city":"Prattsville","latitude":34.3079,"longitude":-92.5131}}(window,'GeoPostal','US');

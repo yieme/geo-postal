@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83328"]={"code":"83328","region":"Idaho","city":"Filer","latitude":42.55962,"longitude":-114.62256}}(window,'GeoPostal','US');

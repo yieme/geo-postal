@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144509"]={"code":"144509","region":"Punjab","city":"Banga","latitude":31.18694,"longitude":75.99222}}(window,'GeoPostal','IN');

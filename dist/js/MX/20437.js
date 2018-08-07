@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20437"]={"code":"20437","region":"Aguascalientes","city":"Pabellon de Arteaga","latitude":22.16667,"longitude":-102.35}}(window,'GeoPostal','MX');

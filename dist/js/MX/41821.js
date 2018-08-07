@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41821"]={"code":"41821","region":"Guerrero","city":"Taxco de Alarcon","latitude":18.55,"longitude":-99.6}}(window,'GeoPostal','MX');

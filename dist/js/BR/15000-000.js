@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15000-000"]={"code":"15000-000","region":"Sao Paulo","city":"Sao Jose do Rio Preto","latitude":-20.81972,"longitude":-49.37944}}(window,'GeoPostal','BR');

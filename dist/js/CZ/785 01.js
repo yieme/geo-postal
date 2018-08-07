@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["785 01"]={"code":"785 01","region":"Olomoucky kraj","city":"Sternberk","latitude":49.73044,"longitude":17.29889}}(window,'GeoPostal','CZ');

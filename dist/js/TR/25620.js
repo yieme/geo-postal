@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25620"]={"code":"25620","region":"Erzurum","city":"Hinis","latitude":39.3606,"longitude":41.70222}}(window,'GeoPostal','TR');

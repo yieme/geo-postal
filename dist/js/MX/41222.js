@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41222"]={"code":"41222","region":"Guerrero","city":"Huamuxtitlan","latitude":17.81667,"longitude":-98.56667}}(window,'GeoPostal','MX');

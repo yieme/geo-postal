@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399510"]={"code":"399510","region":"Lipetskaya oblast'","city":"Dolgorukovo","latitude":52.31945,"longitude":38.34527}}(window,'GeoPostal','RU');

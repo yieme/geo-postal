@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98942"]={"code":"98942","region":"WA","city":"Selah","latitude":46.6767,"longitude":-120.5408}}(window,'GeoPostal','US');

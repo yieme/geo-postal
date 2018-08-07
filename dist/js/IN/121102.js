@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["121102"]={"code":"121102","region":"Haryana","city":"Maham","latitude":28.98333,"longitude":76.3}}(window,'GeoPostal','IN');

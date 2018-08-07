@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58356-000"]={"code":"58356-000","region":"Paraiba","city":"Gurinhem","latitude":-7.12389,"longitude":-35.42444}}(window,'GeoPostal','BR');

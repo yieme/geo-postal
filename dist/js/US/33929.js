@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33929"]={"code":"33929","region":"FL","city":"Estero","latitude":26.4381,"longitude":-81.8068}}(window,'GeoPostal','US');

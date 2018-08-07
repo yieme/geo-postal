@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57020"]={"code":"57020","region":"SD","city":"Crooks","latitude":43.6669,"longitude":-96.8221}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G6V 7R4"]={"code":"G6V 7R4","region":"Quebec","city":"Levis","latitude":46.815704,"longitude":-71.14054}}(window,'GeoPostal','CA');

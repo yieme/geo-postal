@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26808"]={"code":"26808","region":"West Virginia","city":"High View","latitude":39.211192,"longitude":-78.436529}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12511"]={"code":"12511","region":"NY","city":"Castle Point","latitude":41.5462,"longitude":-73.9596}}(window,'GeoPostal','US');

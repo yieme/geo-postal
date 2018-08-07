@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49250"]={"code":"49250","region":"Krapinsko-zagorska zupanija","city":"Zlatar","latitude":46.09417,"longitude":16.07083}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39012"]={"code":"39012","region":"Trentino-Alto Adige","city":"Merano","latitude":46.66817,"longitude":11.15953}}(window,'GeoPostal','IT');

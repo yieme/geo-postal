@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2768"]={"code":"2768","region":"Pest","city":"Ujszilvas","latitude":47.27477,"longitude":19.92477}}(window,'GeoPostal','HU');

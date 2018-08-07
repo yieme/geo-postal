@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74632"]={"code":"74632","region":"Baden-Wurttemberg","city":"Neuenstein","latitude":49.2049,"longitude":9.58}}(window,'GeoPostal','DE');

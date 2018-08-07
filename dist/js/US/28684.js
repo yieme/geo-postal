@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28684"]={"code":"28684","region":"NC","city":"Todd","latitude":36.3245,"longitude":-81.5874}}(window,'GeoPostal','US');

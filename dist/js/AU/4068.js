@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4068"]={"code":"4068","region":"Queensland","city":"Indooroopilly","latitude":-27.50302,"longitude":152.97518}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54680"]={"code":"54680","region":"Grand-Est","city":"Crusnes","latitude":49.43359,"longitude":5.91536}}(window,'GeoPostal','FR');

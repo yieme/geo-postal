@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75620-000"]={"code":"75620-000","region":"Goias","city":"Pontalina","latitude":-17.525,"longitude":-49.44722}}(window,'GeoPostal','BR');

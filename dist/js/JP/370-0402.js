@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["370-0402"]={"code":"370-0402","region":"Gunma","city":"Ota","latitude":36.3,"longitude":139.36667}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624420"]={"code":"624420","region":"Sverdlovskaya oblast'","city":"Lobva","latitude":59.18538,"longitude":60.51846}}(window,'GeoPostal','RU');

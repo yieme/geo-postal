@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2503"]={"code":"2503","region":"Tirane","city":"Rrogozhine","latitude":41.07639,"longitude":19.66528}}(window,'GeoPostal','AL');

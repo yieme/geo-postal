@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84747"]={"code":"84747","region":"Utah","city":"Loa","latitude":38.40276,"longitude":-111.64296}}(window,'GeoPostal','US');

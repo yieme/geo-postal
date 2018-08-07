@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57246"]={"code":"57246","region":"SD","city":"Labolt","latitude":45.0415,"longitude":-96.6892}}(window,'GeoPostal','US');

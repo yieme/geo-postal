@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-231"]={"code":"34-231","region":"Malopolskie","city":"Bialka","latitude":49.69306,"longitude":19.67033}}(window,'GeoPostal','PL');

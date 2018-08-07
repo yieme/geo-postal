@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["691 01"]={"code":"691 01","region":"Jihomoravsky kraj","city":"Moravsky Zizkov","latitude":48.83285,"longitude":16.9314}}(window,'GeoPostal','CZ');

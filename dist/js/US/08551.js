@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08551"]={"code":"08551","region":"New Jersey","city":"Ringoes","latitude":40.43904,"longitude":-74.82738}}(window,'GeoPostal','US');

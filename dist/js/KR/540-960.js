@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["540-960"]={"code":"540-960","region":"Jeollanam-do","city":"Sunchun","latitude":34.94808,"longitude":127.48947}}(window,'GeoPostal','KR');

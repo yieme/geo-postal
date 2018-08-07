@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["725400"]={"code":"725400","region":"Suceava","city":"Radowce","latitude":47.85,"longitude":25.91667}}(window,'GeoPostal','RO');

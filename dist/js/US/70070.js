@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70070"]={"code":"70070","region":"Louisiana","city":"Luling","latitude":29.9252,"longitude":-90.3739}}(window,'GeoPostal','US');

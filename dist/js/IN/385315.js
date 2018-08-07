@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385315"]={"code":"385315","region":"Gujarat","city":"Dhanera","latitude":24.51667,"longitude":72.01667}}(window,'GeoPostal','IN');

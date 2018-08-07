@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02929"]={"code":"02929","region":"Sachsen","city":"Klein Priebus","latitude":51.45384,"longitude":14.9563}}(window,'GeoPostal','DE');

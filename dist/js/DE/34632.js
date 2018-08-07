@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34632"]={"code":"34632","region":"Hessen","city":"Densberg","latitude":50.99331,"longitude":9.09279}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346080"]={"code":"346080","region":"Rostovskaya oblast'","city":"Krasnovka","latitude":48.81769,"longitude":40.09226}}(window,'GeoPostal','RU');

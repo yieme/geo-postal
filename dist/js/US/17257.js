@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17257"]={"code":"17257","region":"Pennsylvania","city":"Shippensburg","latitude":40.041288,"longitude":-77.553478}}(window,'GeoPostal','US');

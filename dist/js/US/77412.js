@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77412"]={"code":"77412","region":"TX","city":"Altair","latitude":29.5714,"longitude":-96.4541}}(window,'GeoPostal','US');

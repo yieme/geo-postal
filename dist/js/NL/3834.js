@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3834"]={"code":"3834","region":"Utrecht","city":"Leusden","latitude":52.1325,"longitude":5.43194}}(window,'GeoPostal','NL');

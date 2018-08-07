@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46393"]={"code":"46393","region":"Valenciana, Comunidad","city":"Loriguilla","latitude":39.68333,"longitude":-0.91667}}(window,'GeoPostal','ES');

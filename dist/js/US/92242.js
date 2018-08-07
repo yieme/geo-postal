@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92242"]={"code":"92242","region":"California","city":"Earp","latitude":34.15302,"longitude":-114.37782}}(window,'GeoPostal','US');

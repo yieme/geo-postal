@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125044"]={"code":"125044","region":"Haryana","city":"Hisar","latitude":29.16667,"longitude":75.71667}}(window,'GeoPostal','IN');

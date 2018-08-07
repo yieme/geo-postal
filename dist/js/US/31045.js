@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31045"]={"code":"31045","region":"Georgia","city":"Jewell","latitude":33.29639,"longitude":-82.77722}}(window,'GeoPostal','US');

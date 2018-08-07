@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH10 6RQ"]={"code":"PH10 6RQ","region":"Scotland","city":"Clunie","latitude":56.57783,"longitude":-3.45022}}(window,'GeoPostal','GB');

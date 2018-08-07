@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G84 0RF"]={"code":"G84 0RF","region":"Scotland","city":"Rosneath","latitude":56.00985,"longitude":-4.80151}}(window,'GeoPostal','GB');

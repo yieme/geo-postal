@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["725014"]={"code":"725014","region":"Chuy","city":"Kant","latitude":42.89106,"longitude":74.85077}}(window,'GeoPostal','KG');

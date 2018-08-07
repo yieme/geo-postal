@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48657"]={"code":"48657","region":"Michigan","city":"Sanford","latitude":43.67278,"longitude":-84.38056}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST11 9TT"]={"code":"ST11 9TT","region":"England","city":"Fulford","latitude":52.95,"longitude":-2.06667}}(window,'GeoPostal','GB');

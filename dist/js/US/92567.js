@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92567"]={"code":"92567","region":"California","city":"Nuevo","latitude":33.834435,"longitude":-117.107956}}(window,'GeoPostal','US');

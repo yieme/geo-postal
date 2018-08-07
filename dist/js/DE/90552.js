@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90552"]={"code":"90552","region":"Bayern","city":"Renzenhof","latitude":49.47186,"longitude":11.26871}}(window,'GeoPostal','DE');

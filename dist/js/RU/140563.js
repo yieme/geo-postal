@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140563"]={"code":"140563","region":"Moskovskaya oblast'","city":"Ozery","latitude":54.85998,"longitude":38.55062}}(window,'GeoPostal','RU');

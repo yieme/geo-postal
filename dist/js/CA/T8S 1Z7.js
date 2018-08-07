@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T8S 1Z7"]={"code":"T8S 1Z7","region":"Alberta","city":"Roma Junction","latitude":56.23339,"longitude":-117.486}}(window,'GeoPostal','CA');

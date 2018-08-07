@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92442"]={"code":"92442","region":"Ile-de-France","city":"Issy-les-Moulineaux","latitude":48.82104,"longitude":2.27718}}(window,'GeoPostal','FR');

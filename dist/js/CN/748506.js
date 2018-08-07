@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["748506"]={"code":"748506","region":"Gansu","city":"Jiahe","latitude":34.09187,"longitude":104.37974}}(window,'GeoPostal','CN');

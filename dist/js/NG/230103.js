@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["230103"]={"code":"230103","region":"Osun","city":"Ilobu","latitude":7.83333,"longitude":4.48333}}(window,'GeoPostal','NG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47864"]={"code":"47864","region":"IN","city":"New Lebanon","latitude":39.11,"longitude":-87.42}}(window,'GeoPostal','US');

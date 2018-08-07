@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50436"]={"code":"50436","region":"Iowa","city":"Forest City","latitude":43.26246,"longitude":-93.63716}}(window,'GeoPostal','US');

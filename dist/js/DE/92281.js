@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92281"]={"code":"92281","region":"Bayern","city":"Sackdilling","latitude":49.64683,"longitude":11.63695}}(window,'GeoPostal','DE');

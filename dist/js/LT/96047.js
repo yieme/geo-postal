@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96047"]={"code":"96047","region":"Klaipedos apskritis","city":"Priekule","latitude":55.55361,"longitude":21.32667}}(window,'GeoPostal','LT');

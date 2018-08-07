@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97344"]={"code":"97344","region":"OR","city":"Falls City","latitude":44.8706,"longitude":-123.4461}}(window,'GeoPostal','US');

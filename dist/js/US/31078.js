@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31078"]={"code":"31078","region":"GA","city":"Roberta","latitude":32.7222,"longitude":-84.0451}}(window,'GeoPostal','US');

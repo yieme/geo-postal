@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH14 7BN"]={"code":"EH14 7BN","region":"Scotland","city":"Balerno","latitude":55.88437,"longitude":-3.33975}}(window,'GeoPostal','GB');

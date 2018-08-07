@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF7 8YW"]={"code":"CF7 8YW","region":"Wales","city":"Llantrisant","latitude":51.54028,"longitude":-3.37389}}(window,'GeoPostal','GB');

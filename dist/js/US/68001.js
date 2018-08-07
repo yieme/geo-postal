@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68001"]={"code":"68001","region":"NE","city":"Abie","latitude":41.3479,"longitude":-96.9563}}(window,'GeoPostal','US');

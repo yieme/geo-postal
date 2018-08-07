@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37795-000"]={"code":"37795-000","region":"Minas Gerais","city":"Andradas","latitude":-22.06806,"longitude":-46.56917}}(window,'GeoPostal','BR');

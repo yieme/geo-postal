@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55927"]={"code":"55927","region":"MN","city":"Dodge Center","latitude":44.0325,"longitude":-92.8554}}(window,'GeoPostal','US');

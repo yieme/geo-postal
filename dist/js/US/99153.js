@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99153"]={"code":"99153","region":"Washington","city":"Metaline Falls","latitude":48.86139,"longitude":-117.37083}}(window,'GeoPostal','US');

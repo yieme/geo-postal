@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE17 6HG"]={"code":"LE17 6HG","region":"England","city":"North Kilworth","latitude":52.44424,"longitude":-1.0958}}(window,'GeoPostal','GB');

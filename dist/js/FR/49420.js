@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49420"]={"code":"49420","region":"Pays-de-la-Loire","city":"Pouance","latitude":47.74167,"longitude":-1.17366}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 1A0"]={"code":"N0G 1A0","region":"Ontario","city":"Olivet","latitude":43.8501,"longitude":-80.66641}}(window,'GeoPostal','CA');

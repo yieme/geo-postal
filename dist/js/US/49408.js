@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49408"]={"code":"49408","region":"MI","city":"Fennville","latitude":42.5777,"longitude":-86.1249}}(window,'GeoPostal','US');

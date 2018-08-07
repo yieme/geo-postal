@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 3B0"]={"code":"T0H 3B0","region":"Alberta","city":"St. Isidore","latitude":56.2001,"longitude":-117.10267}}(window,'GeoPostal','CA');

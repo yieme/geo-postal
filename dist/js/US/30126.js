@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30126"]={"code":"30126","region":"Georgia","city":"Mableton","latitude":33.81332,"longitude":-84.55055}}(window,'GeoPostal','US');

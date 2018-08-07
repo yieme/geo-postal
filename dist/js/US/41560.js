@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41560"]={"code":"41560","region":"KY","city":"Robinson Creek","latitude":37.3799,"longitude":-82.5616}}(window,'GeoPostal','US');

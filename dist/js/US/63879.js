@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63879"]={"code":"63879","region":"MO","city":"Wardell","latitude":36.3478,"longitude":-89.8181}}(window,'GeoPostal','US');

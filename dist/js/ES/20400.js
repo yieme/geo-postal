@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20400"]={"code":"20400","region":"Pais Vasco","city":"Tolosa","latitude":43.13484,"longitude":-2.07801}}(window,'GeoPostal','ES');

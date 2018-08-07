@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96216"]={"code":"96216","region":"Gorontalo","city":"Isimu","latitude":0.6446,"longitude":122.8614}}(window,'GeoPostal','ID');

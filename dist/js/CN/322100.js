@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["322100"]={"code":"322100","region":"Zhejiang","city":"Dongyang","latitude":29.26778,"longitude":120.22528}}(window,'GeoPostal','CN');

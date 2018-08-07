@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80643"]={"code":"80643","region":"Colorado","city":"Keenesburg","latitude":40.096544,"longitude":-104.505167}}(window,'GeoPostal','US');

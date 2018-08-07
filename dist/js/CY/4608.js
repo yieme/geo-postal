@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4608"]={"code":"4608","region":"Lemesos","city":"Pissouri","latitude":34.67083,"longitude":32.70833}}(window,'GeoPostal','CY');

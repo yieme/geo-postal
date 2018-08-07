@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76270"]={"code":"76270","region":"Normandie","city":"Neufchatel-en-Bray","latitude":49.73316,"longitude":1.43956}}(window,'GeoPostal','FR');

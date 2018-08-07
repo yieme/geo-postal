@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66002"]={"code":"66002","region":"Kansas","city":"Atchison","latitude":39.564148,"longitude":-95.128352}}(window,'GeoPostal','US');

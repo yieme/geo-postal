@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["972 71"]={"code":"972 71","region":"Nitriansky kraj","city":"Novaky","latitude":48.71106,"longitude":18.53389}}(window,'GeoPostal','SK');

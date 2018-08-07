@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72670"]={"code":"72670","region":"Arkansas","city":"Ponca","latitude":36.05124,"longitude":-93.41069}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16500"]={"code":"16500","region":"Castilla-La Mancha","city":"Huete","latitude":40.14526,"longitude":-2.69026}}(window,'GeoPostal','ES');

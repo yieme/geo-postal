@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10088"]={"code":"10088","region":"Piemonte","city":"Volpiano","latitude":45.20145,"longitude":7.77822}}(window,'GeoPostal','IT');

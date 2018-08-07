@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33077"]={"code":"33077","region":"Friuli-Venezia Giulia","city":"Sacile","latitude":45.95412,"longitude":12.50274}}(window,'GeoPostal','IT');

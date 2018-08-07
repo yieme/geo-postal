@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51400"]={"code":"51400","region":"Mexico","city":"Toluca","latitude":19.28833,"longitude":-99.66722}}(window,'GeoPostal','MX');

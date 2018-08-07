@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["345023"]={"code":"345023","region":"Rajasthan","city":"Pokaran","latitude":26.91667,"longitude":71.91667}}(window,'GeoPostal','IN');

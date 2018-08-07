@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08809"]={"code":"08809","region":"New Jersey","city":"Clinton","latitude":40.6521,"longitude":-74.9266}}(window,'GeoPostal','US');

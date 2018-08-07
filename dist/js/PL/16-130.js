@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-130"]={"code":"16-130","region":"Podlaskie","city":"Janow","latitude":53.46747,"longitude":23.23052}}(window,'GeoPostal','PL');

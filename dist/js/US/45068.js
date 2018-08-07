@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45068"]={"code":"45068","region":"Ohio","city":"Waynesville","latitude":39.52002,"longitude":-84.07392}}(window,'GeoPostal','US');

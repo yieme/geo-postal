@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29930-000"]={"code":"29930-000","region":"Espirito Santo","city":"Sao Mateus","latitude":-18.71611,"longitude":-39.85889}}(window,'GeoPostal','BR');

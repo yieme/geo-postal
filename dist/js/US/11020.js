@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11020"]={"code":"11020","region":"New York","city":"Lake Success","latitude":40.77066,"longitude":-73.71763}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5694"]={"code":"5694","region":"Noord-Brabant","city":"Breugel","latitude":51.5175,"longitude":5.51111}}(window,'GeoPostal','NL');

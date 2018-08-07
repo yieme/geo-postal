@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-117"]={"code":"08-117","region":"Mazowieckie","city":"Wodynie","latitude":52.0404,"longitude":21.95575}}(window,'GeoPostal','PL');

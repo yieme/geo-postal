@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83737"]={"code":"83737","region":"Bayern","city":"Irschenberg","latitude":47.83333,"longitude":11.91667}}(window,'GeoPostal','DE');

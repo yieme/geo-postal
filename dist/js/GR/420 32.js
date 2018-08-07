@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["420 32"]={"code":"420 32","region":"Thessalia","city":"Pyli","latitude":39.45806,"longitude":21.61889}}(window,'GeoPostal','GR');

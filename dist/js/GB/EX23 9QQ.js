@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX23 9QQ"]={"code":"EX23 9QQ","region":"England","city":"Kilkhampton","latitude":50.87566,"longitude":-4.48392}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67041"]={"code":"67041","region":"Abruzzo","city":"Aielli","latitude":42.08083,"longitude":13.5906}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67035"]={"code":"67035","region":"Abruzzo","city":"Pratola Peligna","latitude":42.09833,"longitude":13.8739}}(window,'GeoPostal','IT');

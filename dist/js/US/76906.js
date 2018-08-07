@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76906"]={"code":"76906","region":"TX","city":"San Angelo","latitude":31.4638,"longitude":-100.437}}(window,'GeoPostal','US');

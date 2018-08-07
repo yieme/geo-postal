@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20641"]={"code":"20641","region":"Piura","city":"La Union","latitude":-5.4,"longitude":-80.75}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 0B0"]={"code":"T0A 0B0","region":"Alberta","city":"Beaverdam","latitude":54.20018,"longitude":-110.30168}}(window,'GeoPostal','CA');

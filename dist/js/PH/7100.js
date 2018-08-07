@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7100"]={"code":"7100","region":"Zamboanga del Norte","city":"Dipolog","latitude":8.58944,"longitude":123.34139}}(window,'GeoPostal','PH');

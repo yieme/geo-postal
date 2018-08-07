@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83460"]={"code":"83460","region":"Provence-Alpes-Cote d'Azur","city":"Les Arcs","latitude":43.45702,"longitude":6.47905}}(window,'GeoPostal','FR');

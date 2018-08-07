@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24315"]={"code":"24315","region":"Virginia","city":"Bland","latitude":37.139404,"longitude":-81.013999}}(window,'GeoPostal','US');

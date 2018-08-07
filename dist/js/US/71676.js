@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71676"]={"code":"71676","region":"AR","city":"Wilmot","latitude":33.0576,"longitude":-91.5723}}(window,'GeoPostal','US');

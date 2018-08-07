@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29760"]={"code":"29760","region":"Bretagne","city":"Penmarch","latitude":47.8127,"longitude":-4.3366}}(window,'GeoPostal','FR');

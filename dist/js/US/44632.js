@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44632"]={"code":"44632","region":"Ohio","city":"Hartville","latitude":40.959148,"longitude":-81.326183}}(window,'GeoPostal','US');

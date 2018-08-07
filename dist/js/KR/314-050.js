@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["314-050"]={"code":"314-050","region":"Chungcheongnam-do","city":"Kongju","latitude":36.45556,"longitude":127.12472}}(window,'GeoPostal','KR');

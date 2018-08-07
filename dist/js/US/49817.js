@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49817"]={"code":"49817","region":"MI","city":"Cooks","latitude":45.8997,"longitude":-86.5307}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5189"]={"code":"5189","region":"Cordoba","city":"Despenaderos","latitude":-31.81626,"longitude":-64.28989}}(window,'GeoPostal','AR');

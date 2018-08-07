@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692994"]={"code":"692994","region":"Primorskiy kray","city":"Lazo","latitude":43.38167,"longitude":133.90139}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59448"]={"code":"59448","region":"MT","city":"Heart Butte","latitude":48.2777,"longitude":-112.8456}}(window,'GeoPostal','US');

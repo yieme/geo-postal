@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91235"]={"code":"91235","region":"Bayern","city":"Lungsdorf","latitude":49.60729,"longitude":11.49933}}(window,'GeoPostal','DE');

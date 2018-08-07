@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92665"]={"code":"92665","region":"Hessen","city":"Altenstadt","latitude":50.28333,"longitude":8.95}}(window,'GeoPostal','DE');

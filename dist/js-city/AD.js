@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["AD"]={AD100: {r:'Encamp',c:'Pas de la Casa'}, AD200: {r:'Canillo',c:'Canillo'}, AD500: {r:'Andorra la Vella',c:'Andorra la Vella'}, AD700: {r:'Escaldes-Engordany',c:'Les Escaldes'}, AD400: {r:'Ordino',c:'Ordino'}, AD600: {r:'Sant Julia de Loria',c:'Sant Julia de Loria'}, AD300: {r:'Ordino',c:'El Serrat'}};

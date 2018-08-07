@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9903"]={"code":"9903","region":"Groningen","city":"Appingedam","latitude":53.32167,"longitude":6.85833}}(window,'GeoPostal','NL');

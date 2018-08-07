@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8110"]={"code":"8110","region":"Jendouba","city":"Tabarka","latitude":36.95442,"longitude":8.75801}}(window,'GeoPostal','TN');

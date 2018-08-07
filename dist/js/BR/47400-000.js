@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47400-000"]={"code":"47400-000","region":"Bahia","city":"Xique Xique","latitude":-10.82167,"longitude":-42.73111}}(window,'GeoPostal','BR');

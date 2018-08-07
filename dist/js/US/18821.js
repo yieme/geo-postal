@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18821"]={"code":"18821","region":"PA","city":"Great Bend","latitude":41.9717,"longitude":-75.7432}}(window,'GeoPostal','US');

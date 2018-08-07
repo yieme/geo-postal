@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80228"]={"code":"80228","region":"Colorado","city":"Lakewood","latitude":39.69798,"longitude":-105.15588}}(window,'GeoPostal','US');

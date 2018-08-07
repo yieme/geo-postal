@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143185"]={"code":"143185","region":"Moskovskaya oblast'","city":"Zvenigorod","latitude":55.73402,"longitude":36.85918}}(window,'GeoPostal','RU');

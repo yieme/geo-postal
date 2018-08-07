@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66088"]={"code":"66088","region":"KS","city":"Valley Falls","latitude":39.3484,"longitude":-95.467}}(window,'GeoPostal','US');

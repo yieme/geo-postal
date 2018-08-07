@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 8PP"]={"code":"DN22 8PP","region":"England","city":"Sutton-cum-Lound","latitude":53.35475,"longitude":-0.97848}}(window,'GeoPostal','GB');

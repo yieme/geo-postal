@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46129"]={"code":"46129","region":"Valenciana, Comunidad","city":"Alboraya","latitude":39.5,"longitude":-0.35}}(window,'GeoPostal','ES');

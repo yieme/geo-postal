@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07032"]={"code":"07032","region":"New Jersey","city":"Kearny","latitude":40.76843,"longitude":-74.14542}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08158"]={"code":"08158","region":"Kyivska oblast","city":"Ivankiv","latitude":50.93864,"longitude":29.89426}}(window,'GeoPostal','UA');

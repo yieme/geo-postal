@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45325"]={"code":"45325","region":"Ohio","city":"Germantown","latitude":39.62617,"longitude":-84.36939}}(window,'GeoPostal','US');

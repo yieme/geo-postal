@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83526"]={"code":"83526","region":"ID","city":"Ferdinand","latitude":46.1349,"longitude":-116.3982}}(window,'GeoPostal','US');

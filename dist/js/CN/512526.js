@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512526"]={"code":"512526","region":"Guangdong","city":"Luoba","latitude":24.8625,"longitude":114.20825}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV11 8YR"]={"code":"IV11 8YR","region":"Scotland","city":"Cromarty","latitude":57.68095,"longitude":-4.0341}}(window,'GeoPostal','GB');

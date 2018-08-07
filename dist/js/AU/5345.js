@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5345"]={"code":"5345","region":"South Australia","city":"Barmera","latitude":-34.25562,"longitude":140.46147}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21911"]={"code":"21911","region":"Maryland","city":"Rising Sun","latitude":39.690754,"longitude":-76.047482}}(window,'GeoPostal','US');

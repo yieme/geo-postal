@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3115"]={"code":"3115","region":"Nueva Ecija","city":"Cavite","latitude":15.6655,"longitude":120.7693}}(window,'GeoPostal','PH');

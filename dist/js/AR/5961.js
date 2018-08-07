@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5961"]={"code":"5961","region":"Cordoba","city":"Costa Sacate","latitude":-31.6477,"longitude":-63.75935}}(window,'GeoPostal','AR');

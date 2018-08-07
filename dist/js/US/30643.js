@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30643"]={"code":"30643","region":"Georgia","city":"Hartwell","latitude":34.35288,"longitude":-82.93209}}(window,'GeoPostal','US');

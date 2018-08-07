@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17365"]={"code":"17365","region":"PA","city":"Wellsville","latitude":40.0557,"longitude":-76.9443}}(window,'GeoPostal','US');

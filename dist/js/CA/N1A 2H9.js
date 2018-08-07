@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N1A 2H9"]={"code":"N1A 2H9","region":"Ontario","city":"Dunnville","latitude":42.904329,"longitude":-79.619072}}(window,'GeoPostal','CA');

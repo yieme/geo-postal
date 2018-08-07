@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7316"]={"code":"7316","region":"Resen","city":"Grncari","latitude":41.01722,"longitude":21.05333}}(window,'GeoPostal','MK');

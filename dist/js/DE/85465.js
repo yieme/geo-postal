@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85465"]={"code":"85465","region":"Bayern","city":"Langenpreising","latitude":48.43333,"longitude":11.96667}}(window,'GeoPostal','DE');

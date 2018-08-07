@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68351"]={"code":"68351","region":"NE","city":"Exeter","latitude":40.6341,"longitude":-97.4424}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9320"]={"code":"9320","region":"Oost-Vlaanderen","city":"Aalst","latitude":50.93604,"longitude":4.0355}}(window,'GeoPostal','BE');

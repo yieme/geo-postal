@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58351"]={"code":"58351","region":"North Dakota","city":"Minnewaukan","latitude":48.07139,"longitude":-99.25236}}(window,'GeoPostal','US');

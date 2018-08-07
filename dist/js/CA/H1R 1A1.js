@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H1R 1A1"]={"code":"H1R 1A1","region":"Quebec","city":"Saint-Vincent-de-Paul","latitude":45.587714,"longitude":-73.620179}}(window,'GeoPostal','CA');

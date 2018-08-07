@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45000"]={"code":"45000","region":"Manisa","city":"Manisa","latitude":38.61202,"longitude":27.42646}}(window,'GeoPostal','TR');

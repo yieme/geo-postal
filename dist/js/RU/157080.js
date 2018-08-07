@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157080"]={"code":"157080","region":"Kostromskaya oblast'","city":"Susanino","latitude":58.14611,"longitude":41.58722}}(window,'GeoPostal','RU');

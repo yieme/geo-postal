@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46110"]={"code":"46110","region":"Occitanie","city":"Les Quatre-Routes-du-Lot","latitude":44.9981,"longitude":1.6461}}(window,'GeoPostal','FR');

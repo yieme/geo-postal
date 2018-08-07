@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-263"]={"code":"47-263","region":"Opolskie","city":"Polska Cerekiew","latitude":50.22827,"longitude":18.12675}}(window,'GeoPostal','PL');

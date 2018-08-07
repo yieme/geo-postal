@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83367"]={"code":"83367","region":"Bayern","city":"Emmering","latitude":47.90213,"longitude":12.87604}}(window,'GeoPostal','DE');

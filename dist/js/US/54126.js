@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54126"]={"code":"54126","region":"WI","city":"Greenleaf","latitude":44.2937,"longitude":-88.0275}}(window,'GeoPostal','US');

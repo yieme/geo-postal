@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64443"]={"code":"64443","region":"MO","city":"Easton","latitude":39.7517,"longitude":-94.6582}}(window,'GeoPostal','US');

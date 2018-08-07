@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40152"]={"code":"40152","region":"Jawa Barat","city":"Surabaya","latitude":-7.0259,"longitude":108.0209}}(window,'GeoPostal','ID');

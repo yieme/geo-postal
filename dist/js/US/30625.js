@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30625"]={"code":"30625","region":"GA","city":"Buckhead","latitude":33.5368,"longitude":-83.3435}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0B 1B0"]={"code":"C0B 1B0","region":"Prince Edward Island","city":"Central Kildare","latitude":46.86684,"longitude":-63.99872}}(window,'GeoPostal','CA');

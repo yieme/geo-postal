@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74737"]={"code":"74737","region":"Oklahoma","city":"Golden","latitude":34.03397,"longitude":-94.89563}}(window,'GeoPostal','US');

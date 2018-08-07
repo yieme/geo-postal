@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41011"]={"code":"41011","region":"Emilia-Romagna","city":"Campogalliano","latitude":44.69157,"longitude":10.842}}(window,'GeoPostal','IT');

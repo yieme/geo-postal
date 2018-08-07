@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR21 7AD"]={"code":"NR21 7AD","region":"England","city":"West Raynham","latitude":52.79266,"longitude":0.77641}}(window,'GeoPostal','GB');

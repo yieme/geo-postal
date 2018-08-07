@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["567-806"]={"code":"567-806","region":"Jeollabuk-do","city":"jin-angun","latitude":35.79167,"longitude":127.42528}}(window,'GeoPostal','KR');

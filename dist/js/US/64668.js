@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64668"]={"code":"64668","region":"Missouri","city":"Norborne","latitude":39.30222,"longitude":-93.67611}}(window,'GeoPostal','US');

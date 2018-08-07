@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692264"]={"code":"692264","region":"Primorskiy kray","city":"Khorol'","latitude":44.42611,"longitude":132.0725}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59268"]={"code":"59268","region":"Hauts-de-France","city":"Abancourt","latitude":50.2347,"longitude":3.2142}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56057"]={"code":"56057","region":"MN","city":"Le Center","latitude":44.3853,"longitude":-93.7214}}(window,'GeoPostal','US');

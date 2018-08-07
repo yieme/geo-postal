@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28047"]={"code":"28047","region":"Madrid, Comunidad de","city":"Madrid","latitude":40.4165,"longitude":-3.70256}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27112"]={"code":"27112","region":"Galicia","city":"Trabada","latitude":43.44475,"longitude":-7.19527}}(window,'GeoPostal','ES');

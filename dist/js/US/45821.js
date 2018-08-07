@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45821"]={"code":"45821","region":"Ohio","city":"Cecil","latitude":41.218825,"longitude":-84.602646}}(window,'GeoPostal','US');

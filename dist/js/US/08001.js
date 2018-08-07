@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08001"]={"code":"08001","region":"NJ","city":"Alloway","latitude":39.5591,"longitude":-75.3506}}(window,'GeoPostal','US');

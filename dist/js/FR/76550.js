@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76550"]={"code":"76550","region":"Normandie","city":"Offranville","latitude":49.87208,"longitude":1.04817}}(window,'GeoPostal','FR');

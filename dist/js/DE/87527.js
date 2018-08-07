@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87527"]={"code":"87527","region":"Bayern","city":"Sonthofen","latitude":47.51821,"longitude":10.28262}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37304"]={"code":"37304","region":"TN","city":"Bakewell","latitude":35.3452,"longitude":-85.138}}(window,'GeoPostal','US');

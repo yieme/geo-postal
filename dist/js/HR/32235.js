@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32235"]={"code":"32235","region":"Vukovarsko-srijemska zupanija","city":"Bapska","latitude":45.1975,"longitude":19.26}}(window,'GeoPostal','HR');

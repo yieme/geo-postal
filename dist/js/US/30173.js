@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30173"]={"code":"30173","region":"GA","city":"Silver Creek","latitude":34.1593,"longitude":-85.1429}}(window,'GeoPostal','US');

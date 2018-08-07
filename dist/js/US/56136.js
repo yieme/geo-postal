@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56136"]={"code":"56136","region":"Minnesota","city":"Hendricks","latitude":44.5067,"longitude":-96.4233}}(window,'GeoPostal','US');

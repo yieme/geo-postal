@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL7 9NG"]={"code":"DL7 9NG","region":"England","city":"Gatenby","latitude":54.28588,"longitude":-1.50228}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94625"]={"code":"94625","region":"CA","city":"Naval Supply Center","latitude":37.8,"longitude":-122.31}}(window,'GeoPostal','US');

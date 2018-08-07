@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25637"]={"code":"25637","region":"West Virginia","city":"Mount Gay","latitude":37.84128,"longitude":-82.00878}}(window,'GeoPostal','US');

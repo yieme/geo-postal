@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57840"]={"code":"57840","region":"Grand-Est","city":"Ottange","latitude":49.44191,"longitude":6.01734}}(window,'GeoPostal','FR');

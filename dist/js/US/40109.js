@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40109"]={"code":"40109","region":"KY","city":"Brooks","latitude":38.0546,"longitude":-85.7713}}(window,'GeoPostal','US');

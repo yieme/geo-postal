@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30427"]={"code":"30427","region":"Georgia","city":"Glennville","latitude":31.936206,"longitude":-81.925525}}(window,'GeoPostal','US');

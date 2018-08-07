@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65715"]={"code":"65715","region":"MO","city":"Noble","latitude":36.7441,"longitude":-92.5769}}(window,'GeoPostal','US');

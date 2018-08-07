@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31070"]={"code":"31070","region":"GA","city":"Pinehurst","latitude":32.1967,"longitude":-83.7209}}(window,'GeoPostal','US');

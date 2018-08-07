@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV47 2BY"]={"code":"CV47 2BY","region":"England","city":"Ladbroke","latitude":52.2253,"longitude":-1.38878}}(window,'GeoPostal','GB');

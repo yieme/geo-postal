@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75104"]={"code":"75104","region":"Texas","city":"Cedar Hill","latitude":32.58847,"longitude":-96.95612}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58316"]={"code":"58316","region":"North Dakota","city":"Belcourt","latitude":48.83917,"longitude":-99.74487}}(window,'GeoPostal','US');

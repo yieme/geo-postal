@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85850-000"]={"code":"85850-000","region":"Parana","city":"Foz do Iguacu","latitude":-25.54778,"longitude":-54.58806}}(window,'GeoPostal','BR');

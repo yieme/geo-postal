@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 2112"]={"code":"HT 2112","region":"Nord-Est","city":"Fort Liberte","latitude":19.66778,"longitude":-71.83972}}(window,'GeoPostal','HT');

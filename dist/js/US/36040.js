@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36040"]={"code":"36040","region":"Alabama","city":"Hayneville","latitude":32.20548,"longitude":-86.66022}}(window,'GeoPostal','US');

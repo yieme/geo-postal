@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06064"]={"code":"06064","region":"CT","city":"Poquonock","latitude":41.9048,"longitude":-72.6787}}(window,'GeoPostal','US');

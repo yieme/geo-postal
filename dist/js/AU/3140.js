@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3140"]={"code":"3140","region":"Victoria","city":"Lilydale","latitude":-37.75,"longitude":145.35}}(window,'GeoPostal','AU');

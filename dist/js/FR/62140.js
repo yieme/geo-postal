@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62140"]={"code":"62140","region":"Hauts-de-France","city":"Marconnelle","latitude":50.37588,"longitude":2.01108}}(window,'GeoPostal','FR');

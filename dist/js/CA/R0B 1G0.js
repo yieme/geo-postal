@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 1G0"]={"code":"R0B 1G0","region":"Manitoba","city":"Pukatawagan","latitude":55.74239,"longitude":-101.31649}}(window,'GeoPostal','CA');

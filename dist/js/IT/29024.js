@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29024"]={"code":"29024","region":"Emilia-Romagna","city":"Ferriere","latitude":44.64385,"longitude":9.49657}}(window,'GeoPostal','IT');

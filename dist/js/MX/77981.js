@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77981"]={"code":"77981","region":"Quintana Roo","city":"Nicolas Bravo","latitude":18.45,"longitude":-88.91667}}(window,'GeoPostal','MX');

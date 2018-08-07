@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13122"]={"code":"13122","region":"Provence-Alpes-Cote d'Azur","city":"Ventabren","latitude":43.53847,"longitude":5.29541}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7570"]={"code":"7570","region":"Alto Parana","city":"Santa Rita","latitude":-25.78333,"longitude":-55.06667}}(window,'GeoPostal','PY');

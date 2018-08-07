@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25517"]={"code":"25517","region":"WV","city":"Genoa","latitude":38.1321,"longitude":-82.4183}}(window,'GeoPostal','US');

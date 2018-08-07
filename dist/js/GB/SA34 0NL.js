@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA34 0NL"]={"code":"SA34 0NL","region":"Wales","city":"Tavernspite","latitude":51.78194,"longitude":-4.64111}}(window,'GeoPostal','GB');

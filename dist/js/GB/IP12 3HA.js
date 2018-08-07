@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP12 3HA"]={"code":"IP12 3HA","region":"England","city":"Shottisham","latitude":52.05159,"longitude":1.38282}}(window,'GeoPostal','GB');

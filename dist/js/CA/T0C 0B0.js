@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 0B0"]={"code":"T0C 0B0","region":"Alberta","city":"Alix","latitude":52.40012,"longitude":-113.18525}}(window,'GeoPostal','CA');

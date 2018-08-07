@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627429"]={"code":"627429","region":"Tyumenskaya oblast'","city":"Novoseleznevo","latitude":55.68207,"longitude":69.20562}}(window,'GeoPostal','RU');

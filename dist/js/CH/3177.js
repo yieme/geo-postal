@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3177"]={"code":"3177","region":"Bern","city":"Laupen","latitude":46.90214,"longitude":7.23973}}(window,'GeoPostal','CH');

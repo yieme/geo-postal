@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50626"]={"code":"50626","region":"IA","city":"Dunkerton","latitude":42.578,"longitude":-92.1588}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50552"]={"code":"50552","region":"IA","city":"Knierim","latitude":42.4555,"longitude":-94.4569}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14130"]={"code":"14130","region":"Ang Thong","city":"Pa Mok","latitude":14.48989,"longitude":100.44847}}(window,'GeoPostal','TH');

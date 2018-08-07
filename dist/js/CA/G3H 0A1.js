@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G3H 0A1"]={"code":"G3H 0A1","region":"Quebec","city":"Pont-Rouge","latitude":46.75468,"longitude":-71.69566}}(window,'GeoPostal','CA');

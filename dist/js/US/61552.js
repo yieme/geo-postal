@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61552"]={"code":"61552","region":"IL","city":"Mossville","latitude":40.818,"longitude":-89.568}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337040"]={"code":"337040","region":"Hunedoara","city":"Bacia","latitude":45.8,"longitude":23.01667}}(window,'GeoPostal','RO');

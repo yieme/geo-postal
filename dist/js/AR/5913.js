@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5913"]={"code":"5913","region":"Cordoba","city":"Pozo del Molle","latitude":-32.0186,"longitude":-62.91984}}(window,'GeoPostal','AR');

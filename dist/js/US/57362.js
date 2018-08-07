@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57362"]={"code":"57362","region":"South Dakota","city":"Miller","latitude":44.51831,"longitude":-98.98843}}(window,'GeoPostal','US');

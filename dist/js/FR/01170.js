@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01170"]={"code":"01170","region":"Auvergne-Rhone-Alpes","city":"Segny","latitude":46.29601,"longitude":6.07536}}(window,'GeoPostal','FR');

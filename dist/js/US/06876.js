@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06876"]={"code":"06876","region":"CT","city":"Redding Ridge","latitude":41.314,"longitude":-73.3504}}(window,'GeoPostal','US');

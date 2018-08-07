@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2143"]={"code":"2143","region":"Queensland","city":"Regents Park","latitude":-27.67664,"longitude":153.04165}}(window,'GeoPostal','AU');

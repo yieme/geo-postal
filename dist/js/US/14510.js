@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14510"]={"code":"14510","region":"New York","city":"Mount Morris","latitude":42.72562,"longitude":-77.87417}}(window,'GeoPostal','US');

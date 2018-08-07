@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31522"]={"code":"31522","region":"Georgia","city":"Saint Simons Island","latitude":31.16111,"longitude":-81.38694}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49107"]={"code":"49107","region":"Michigan","city":"Buchanan","latitude":41.82727,"longitude":-86.36112}}(window,'GeoPostal','US');

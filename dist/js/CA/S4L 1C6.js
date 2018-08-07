@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S4L 1C6"]={"code":"S4L 1C6","region":"Saskatchewan","city":"Tobin Lake","latitude":53.51679,"longitude":-103.7342}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22941"]={"code":"22941","region":"Schleswig-Holstein","city":"Allee","latitude":53.75,"longitude":10.21667}}(window,'GeoPostal','DE');

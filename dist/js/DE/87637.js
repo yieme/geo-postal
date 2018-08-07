@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87637"]={"code":"87637","region":"Bayern","city":"Hof","latitude":47.58332,"longitude":10.63164}}(window,'GeoPostal','DE');

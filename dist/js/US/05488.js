@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05488"]={"code":"05488","region":"Vermont","city":"Swanton","latitude":44.9181,"longitude":-73.1243}}(window,'GeoPostal','US');

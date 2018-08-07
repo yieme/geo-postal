@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94542"]={"code":"94542","region":"Bayern","city":"Haarbacherloh","latitude":48.51166,"longitude":13.13306}}(window,'GeoPostal','DE');

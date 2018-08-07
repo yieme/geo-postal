@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24630"]={"code":"24630","region":"Nouvelle-Aquitaine","city":"Jumilhac-le-Grand","latitude":45.49432,"longitude":1.06339}}(window,'GeoPostal','FR');

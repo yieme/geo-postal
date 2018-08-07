@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50654"]={"code":"50654","region":"IA","city":"Masonville","latitude":42.4794,"longitude":-91.5913}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65707"]={"code":"65707","region":"Missouri","city":"Miller","latitude":37.230593,"longitude":-93.851922}}(window,'GeoPostal','US');

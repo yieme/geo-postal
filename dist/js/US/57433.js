@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57433"]={"code":"57433","region":"SD","city":"Columbia","latitude":45.6512,"longitude":-98.3158}}(window,'GeoPostal','US');

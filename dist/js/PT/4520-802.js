@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4520-802"]={"code":"4520-802","region":"Aveiro","city":"Espinho","latitude":41.00763,"longitude":-8.64125}}(window,'GeoPostal','PT');

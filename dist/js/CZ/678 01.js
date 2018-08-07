@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678 01"]={"code":"678 01","region":"Jihomoravsky kraj","city":"Blansko","latitude":49.36304,"longitude":16.64446}}(window,'GeoPostal','CZ');

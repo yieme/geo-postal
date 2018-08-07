@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["210 53"]={"code":"210 53","region":"Peloponnisos","city":"Argos","latitude":37.63333,"longitude":22.73333}}(window,'GeoPostal','GR');

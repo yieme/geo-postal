@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62501"]={"code":"62501","region":"IL","city":"Argenta","latitude":39.934,"longitude":-88.8052}}(window,'GeoPostal','US');

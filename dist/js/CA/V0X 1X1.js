@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0X 1X1"]={"code":"V0X 1X1","region":"British Columbia","city":"Popkum","latitude":49.20366,"longitude":-121.73813}}(window,'GeoPostal','CA');

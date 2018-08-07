@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3507"]={"code":"3507","region":"Cagayan","city":"Afusing Centro","latitude":17.8526,"longitude":121.6269}}(window,'GeoPostal','PH');

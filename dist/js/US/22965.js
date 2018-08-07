@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22965"]={"code":"22965","region":"VA","city":"Quinque","latitude":38.3301,"longitude":-78.475}}(window,'GeoPostal','US');

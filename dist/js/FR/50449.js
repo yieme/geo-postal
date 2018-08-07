@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50449"]={"code":"50449","region":"Normandie","city":"Beaumont-Hague","latitude":49.66387,"longitude":-1.83822}}(window,'GeoPostal','FR');

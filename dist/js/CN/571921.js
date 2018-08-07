@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571921"]={"code":"571921","region":"Hainan","city":"Fushan","latitude":19.83611,"longitude":109.92625}}(window,'GeoPostal','CN');

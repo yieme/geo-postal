@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20024"]={"code":"20024","region":"District of Columbia","city":"Washington","latitude":38.877718,"longitude":-77.018485}}(window,'GeoPostal','US');

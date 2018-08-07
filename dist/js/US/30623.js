@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30623"]={"code":"30623","region":"GA","city":"Bostwick","latitude":33.7373,"longitude":-83.5143}}(window,'GeoPostal','US');

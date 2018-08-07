@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38551"]={"code":"38551","region":"TN","city":"Celina","latitude":36.5475,"longitude":-85.4966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-500"]={"code":"16-500","region":"Podlaskie","city":"Sejny","latitude":54.10802,"longitude":23.34698}}(window,'GeoPostal','PL');

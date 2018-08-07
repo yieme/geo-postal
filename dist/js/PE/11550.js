@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11550"]={"code":"11550","region":"Ica","city":"Paracas","latitude":-13.86667,"longitude":-76.26667}}(window,'GeoPostal','PE');

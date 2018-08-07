@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FRN 9021"]={"code":"FRN 9021","region":"Floriana","city":"Floriana","latitude":35.89583,"longitude":14.50833}}(window,'GeoPostal','MT');

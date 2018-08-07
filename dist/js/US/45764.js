@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45764"]={"code":"45764","region":"Ohio","city":"Nelsonville","latitude":39.44516,"longitude":-82.225752}}(window,'GeoPostal','US');

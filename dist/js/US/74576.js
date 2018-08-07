@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74576"]={"code":"74576","region":"OK","city":"Wardville","latitude":34.6695,"longitude":-96.0258}}(window,'GeoPostal','US');

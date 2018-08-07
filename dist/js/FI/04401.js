@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04401"]={"code":"04401","region":"Pohjois-Pohjanmaa","city":"Jarvenpaa","latitude":65.63333,"longitude":27.41667}}(window,'GeoPostal','FI');

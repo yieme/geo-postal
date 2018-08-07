@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AL7 7QB"]={"code":"AL7 7QB","region":"England","city":"Welwyn Garden City","latitude":51.80174,"longitude":-0.20691}}(window,'GeoPostal','GB');

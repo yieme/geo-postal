@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31157"]={"code":"31157","region":"Niedersachsen","city":"Sarstedt","latitude":52.23495,"longitude":9.85411}}(window,'GeoPostal','DE');

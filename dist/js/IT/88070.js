@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88070"]={"code":"88070","region":"Calabria","city":"Botricello","latitude":38.93199,"longitude":16.85831}}(window,'GeoPostal','IT');

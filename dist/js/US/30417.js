@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30417"]={"code":"30417","region":"Georgia","city":"Claxton","latitude":32.162106,"longitude":-81.909797}}(window,'GeoPostal','US');

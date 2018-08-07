@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["216401"]={"code":"216401","region":"Smolenskaya oblast'","city":"Desnogorsk","latitude":54.15077,"longitude":33.28151}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J6E 8R6"]={"code":"J6E 8R6","region":"Quebec","city":"Saint-Pierre","latitude":46.017,"longitude":-73.467}}(window,'GeoPostal','CA');

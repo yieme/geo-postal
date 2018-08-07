@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25033"]={"code":"25033","region":"Lombardia","city":"Cologne","latitude":45.58138,"longitude":9.94136}}(window,'GeoPostal','IT');

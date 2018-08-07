@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32800"]={"code":"32800","region":"Satakunta","city":"Kokemaki","latitude":61.25647,"longitude":22.35643}}(window,'GeoPostal','FI');

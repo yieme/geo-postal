@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307160"]={"code":"307160","region":"Brasov","city":"Dumbravita","latitude":45.76667,"longitude":25.43333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95328"]={"code":"95328","region":"CA","city":"Keyes","latitude":37.5591,"longitude":-120.9148}}(window,'GeoPostal','US');

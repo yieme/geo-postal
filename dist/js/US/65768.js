@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65768"]={"code":"65768","region":"Missouri","city":"Vanzant","latitude":36.971092,"longitude":-92.19932}}(window,'GeoPostal','US');

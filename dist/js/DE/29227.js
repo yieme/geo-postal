@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29227"]={"code":"29227","region":"Niedersachsen","city":"Altencelle","latitude":52.60461,"longitude":10.11721}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8294"]={"code":"8294","region":"Sevnica","city":"Sevnica","latitude":46.00778,"longitude":15.31556}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80200"]={"code":"80200","region":"Hauts-de-France","city":"Cartigny","latitude":49.9147,"longitude":3.0106}}(window,'GeoPostal','FR');

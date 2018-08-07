@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52361"]={"code":"52361","region":"Iowa","city":"Williamsburg","latitude":41.660879,"longitude":-92.01389}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL32 9XT"]={"code":"PL32 9XT","region":"England","city":"Davidstow","latitude":50.65571,"longitude":-4.61599}}(window,'GeoPostal','GB');

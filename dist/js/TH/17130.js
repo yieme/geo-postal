@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17130"]={"code":"17130","region":"Chai Nat","city":"Hankha","latitude":14.98122,"longitude":100.0147}}(window,'GeoPostal','TH');

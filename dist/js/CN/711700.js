@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["711700"]={"code":"711700","region":"Shaanxi","city":"Doucun","latitude":34.74808,"longitude":109.17968}}(window,'GeoPostal','CN');

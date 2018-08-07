@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7207"]={"code":"7207","region":"Gelderland","city":"Zutphen","latitude":52.13833,"longitude":6.20139}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26219"]={"code":"26219","region":"Niedersachsen","city":"Sudkamp","latitude":52.99132,"longitude":7.95271}}(window,'GeoPostal','DE');

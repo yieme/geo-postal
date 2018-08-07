@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91420"]={"code":"91420","region":"Ile-de-France","city":"Morangis","latitude":48.70383,"longitude":2.33908}}(window,'GeoPostal','FR');

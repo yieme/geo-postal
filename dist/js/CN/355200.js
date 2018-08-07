@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["355200"]={"code":"355200","region":"Fujian","city":"Fuding","latitude":27.32734,"longitude":120.214}}(window,'GeoPostal','CN');

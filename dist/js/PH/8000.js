@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8000"]={"code":"8000","region":"Davao del Sur","city":"Davao","latitude":7.07306,"longitude":125.61278}}(window,'GeoPostal','PH');

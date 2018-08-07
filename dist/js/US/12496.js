@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12496"]={"code":"12496","region":"New York","city":"Windham","latitude":42.31008,"longitude":-74.28888}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["975-0039"]={"code":"975-0039","region":"Fukushima","city":"Minamisoma","latitude":37.633,"longitude":140.95}}(window,'GeoPostal','JP');

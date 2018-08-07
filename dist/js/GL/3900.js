@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3900"]={"code":"3900","region":"Kommuneqarfik Sermersooq","city":"Nuuk","latitude":64.18347,"longitude":-51.72157}}(window,'GeoPostal','GL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62923"]={"code":"62923","region":"IL","city":"Cypress","latitude":37.365,"longitude":-88.9747}}(window,'GeoPostal','US');

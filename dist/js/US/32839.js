@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32839"]={"code":"32839","region":"Florida","city":"Oak Ridge","latitude":28.47112,"longitude":-81.42452}}(window,'GeoPostal','US');

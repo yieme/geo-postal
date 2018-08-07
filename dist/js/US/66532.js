@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66532"]={"code":"66532","region":"Kansas","city":"Robinson","latitude":39.8169,"longitude":-95.39382}}(window,'GeoPostal','US');

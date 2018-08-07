@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56100"]={"code":"56100","region":"Bretagne","city":"Lorient","latitude":47.75,"longitude":-3.36667}}(window,'GeoPostal','FR');

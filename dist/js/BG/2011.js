@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2011"]={"code":"2011","region":"Sofia","city":"Samokov","latitude":42.33333,"longitude":23.55}}(window,'GeoPostal','BG');

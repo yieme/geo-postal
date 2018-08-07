@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP20 0ET"]={"code":"IP20 0ET","region":"England","city":"Homersfield","latitude":52.42035,"longitude":1.35909}}(window,'GeoPostal','GB');

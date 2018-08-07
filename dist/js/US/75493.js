@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75493"]={"code":"75493","region":"Texas","city":"Winfield","latitude":33.166461,"longitude":-95.108829}}(window,'GeoPostal','US');

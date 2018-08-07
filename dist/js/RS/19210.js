@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19210"]={"code":"19210","region":"Borski okrug","city":"Bor","latitude":44.07833,"longitude":22.09528}}(window,'GeoPostal','RS');

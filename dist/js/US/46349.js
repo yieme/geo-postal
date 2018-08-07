@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46349"]={"code":"46349","region":"IN","city":"Lake Village","latitude":41.1387,"longitude":-87.4454}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62250-000"]={"code":"62250-000","region":"Ceara","city":"Ipu","latitude":-4.32222,"longitude":-40.71083}}(window,'GeoPostal','BR');

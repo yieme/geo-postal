@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612020"]={"code":"612020","region":"Kirovskaya oblast'","city":"Leninskoye","latitude":58.31637,"longitude":47.08856}}(window,'GeoPostal','RU');

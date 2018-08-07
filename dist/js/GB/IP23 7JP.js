@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP23 7JP"]={"code":"IP23 7JP","region":"England","city":"Thorndon","latitude":52.28333,"longitude":1.13333}}(window,'GeoPostal','GB');

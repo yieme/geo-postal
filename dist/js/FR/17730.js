@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17730"]={"code":"17730","region":"Nouvelle-Aquitaine","city":"Port-des-Barques","latitude":45.94763,"longitude":-1.07795}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP11 6BD"]={"code":"SP11 6BD","region":"England","city":"Saint Mary Bourne","latitude":51.2511,"longitude":-1.3965}}(window,'GeoPostal','GB');

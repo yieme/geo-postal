@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65140"]={"code":"65140","region":"Phitsanulok","city":"Bang Rakam","latitude":16.75847,"longitude":100.11742}}(window,'GeoPostal','TH');

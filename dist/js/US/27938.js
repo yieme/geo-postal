@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27938"]={"code":"27938","region":"NC","city":"Gatesville","latitude":36.4072,"longitude":-76.7325}}(window,'GeoPostal','US');

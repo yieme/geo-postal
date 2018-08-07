@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63708"]={"code":"63708","region":"Nayarit","city":"Las Varas","latitude":21.16667,"longitude":-105.16667}}(window,'GeoPostal','MX');

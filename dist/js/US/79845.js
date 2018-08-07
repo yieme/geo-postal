@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79845"]={"code":"79845","region":"Texas","city":"Presidio","latitude":29.56074,"longitude":-104.37215}}(window,'GeoPostal','US');

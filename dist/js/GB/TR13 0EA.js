@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR13 0EA"]={"code":"TR13 0EA","region":"England","city":"Wendron","latitude":50.13333,"longitude":-5.25}}(window,'GeoPostal','GB');

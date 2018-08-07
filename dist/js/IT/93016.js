@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93016"]={"code":"93016","region":"Sicilia","city":"Riesi","latitude":37.28194,"longitude":14.08227}}(window,'GeoPostal','IT');

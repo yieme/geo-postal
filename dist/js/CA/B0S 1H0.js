@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0S 1H0"]={"code":"B0S 1H0","region":"Nova Scotia","city":"Cornwallis","latitude":44.65229,"longitude":-65.62992}}(window,'GeoPostal','CA');

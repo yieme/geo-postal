@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601787"]={"code":"601787","region":"Vladimirskaya oblast'","city":"Kol'chugino","latitude":56.29929,"longitude":39.38304}}(window,'GeoPostal','RU');

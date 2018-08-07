@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40129"]={"code":"40129","region":"KY","city":"Hillview","latitude":38.0764,"longitude":-85.6774}}(window,'GeoPostal','US');

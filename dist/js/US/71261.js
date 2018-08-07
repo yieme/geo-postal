@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71261"]={"code":"71261","region":"LA","city":"Mer Rouge","latitude":32.7718,"longitude":-91.7716}}(window,'GeoPostal','US');

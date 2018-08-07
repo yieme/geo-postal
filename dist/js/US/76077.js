@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76077"]={"code":"76077","region":"TX","city":"Rainbow","latitude":32.2812,"longitude":-97.7065}}(window,'GeoPostal','US');

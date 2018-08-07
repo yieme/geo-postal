@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA27 8ES"]={"code":"KA27 8ES","region":"Scotland","city":"Blackwaterfoot","latitude":55.50155,"longitude":-5.3315}}(window,'GeoPostal','GB');

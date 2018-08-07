@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49903"]={"code":"49903","region":"MI","city":"Amasa","latitude":46.2321,"longitude":-88.4508}}(window,'GeoPostal','US');

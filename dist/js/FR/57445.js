@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57445"]={"code":"57445","region":"Grand-Est","city":"Reding","latitude":48.75177,"longitude":7.10747}}(window,'GeoPostal','FR');

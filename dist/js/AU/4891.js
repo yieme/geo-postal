@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4891"]={"code":"4891","region":"Queensland","city":"Karumba","latitude":-17.48882,"longitude":140.8382}}(window,'GeoPostal','AU');

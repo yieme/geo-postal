@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311-4165"]={"code":"311-4165","region":"Ibaraki","city":"Mito","latitude":36.367,"longitude":140.467}}(window,'GeoPostal','JP');

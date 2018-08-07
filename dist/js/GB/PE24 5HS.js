@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE24 5HS"]={"code":"PE24 5HS","region":"England","city":"Orby","latitude":53.18142,"longitude":0.23211}}(window,'GeoPostal','GB');

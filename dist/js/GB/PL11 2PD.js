@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL11 2PD"]={"code":"PL11 2PD","region":"England","city":"Torpoint","latitude":50.37505,"longitude":-4.19566}}(window,'GeoPostal','GB');

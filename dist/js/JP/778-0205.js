@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["778-0205"]={"code":"778-0205","region":"Tokushima","city":"Miyoshi","latitude":34.02333,"longitude":133.81083}}(window,'GeoPostal','JP');

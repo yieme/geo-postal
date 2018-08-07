@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49637"]={"code":"49637","region":"Michigan","city":"Grawn","latitude":44.655,"longitude":-85.64667}}(window,'GeoPostal','US');

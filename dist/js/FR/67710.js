@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67710"]={"code":"67710","region":"Grand-Est","city":"Wangenbourg-Engenthal","latitude":48.62805,"longitude":7.30471}}(window,'GeoPostal','FR');

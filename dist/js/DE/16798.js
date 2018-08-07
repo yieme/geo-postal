@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16798"]={"code":"16798","region":"Brandenburg","city":"Gramzow","latitude":53.11278,"longitude":13.17361}}(window,'GeoPostal','DE');

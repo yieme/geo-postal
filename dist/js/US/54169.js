@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54169"]={"code":"54169","region":"Wisconsin","city":"Sherwood","latitude":44.1736,"longitude":-88.25983}}(window,'GeoPostal','US');

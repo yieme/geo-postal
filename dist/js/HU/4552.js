@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4552"]={"code":"4552","region":"Szabolcs-Szatmar-Bereg","city":"Napkor","latitude":47.93797,"longitude":21.86763}}(window,'GeoPostal','HU');

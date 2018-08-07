@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["276800"]={"code":"276800","region":"Shandong","city":"Rizhao","latitude":35.4275,"longitude":119.45528}}(window,'GeoPostal','CN');

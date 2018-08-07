@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24219"]={"code":"24219","region":"Virginia","city":"Big Stone Gap","latitude":36.86771,"longitude":-82.77447}}(window,'GeoPostal','US');

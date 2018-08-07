@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47012"]={"code":"47012","region":"IN","city":"Brookville","latitude":39.4213,"longitude":-84.9994}}(window,'GeoPostal','US');

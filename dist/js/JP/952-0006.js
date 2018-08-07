@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["952-0006"]={"code":"952-0006","region":"Niigata","city":"Ryotsu","latitude":38.08333,"longitude":138.43333}}(window,'GeoPostal','JP');

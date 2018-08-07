@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG32 1PL"]={"code":"NG32 1PL","region":"England","city":"Woolsthorpe","latitude":52.88333,"longitude":-0.75}}(window,'GeoPostal','GB');

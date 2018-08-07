@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53946"]={"code":"53946","region":"Wisconsin","city":"Markesan","latitude":43.707929,"longitude":-88.987593}}(window,'GeoPostal','US');

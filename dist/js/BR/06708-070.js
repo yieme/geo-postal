@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06708-070"]={"code":"06708-070","region":"Sao Paulo","city":"Cotia","latitude":-23.60389,"longitude":-46.91917}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95379"]={"code":"95379","region":"California","city":"Tuolumne City","latitude":37.9627,"longitude":-120.2413}}(window,'GeoPostal','US');

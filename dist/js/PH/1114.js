@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1114"]={"code":"1114","region":"Bulacan","city":"Balasing","latitude":14.8545,"longitude":121.0127}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75973"]={"code":"75973","region":"Texas","city":"Shelbyville","latitude":31.72152,"longitude":-93.93258}}(window,'GeoPostal','US');

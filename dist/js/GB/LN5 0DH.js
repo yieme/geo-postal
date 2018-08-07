@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN5 0DH"]={"code":"LN5 0DH","region":"England","city":"Brauncewell","latitude":53.05556,"longitude":-0.49078}}(window,'GeoPostal','GB');

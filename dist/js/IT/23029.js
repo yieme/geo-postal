@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23029"]={"code":"23029","region":"Lombardia","city":"Villa di Chiavenna","latitude":46.3307,"longitude":9.48114}}(window,'GeoPostal','IT');

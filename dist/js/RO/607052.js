@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607052"]={"code":"607052","region":"Arges","city":"Cotmeana","latitude":44.96667,"longitude":24.61667}}(window,'GeoPostal','RO');

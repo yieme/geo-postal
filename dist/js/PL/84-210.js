@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-210"]={"code":"84-210","region":"Pomorskie","city":"Choczewo","latitude":54.73993,"longitude":17.89175}}(window,'GeoPostal','PL');

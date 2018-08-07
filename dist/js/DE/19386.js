@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19386"]={"code":"19386","region":"Mecklenburg-Vorpommern","city":"Benzin","latitude":53.44032,"longitude":12.08273}}(window,'GeoPostal','DE');

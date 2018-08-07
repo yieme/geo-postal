@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907099"]={"code":"907099","region":"Neamt","city":"Horia","latitude":44.63333,"longitude":28.11667}}(window,'GeoPostal','RO');

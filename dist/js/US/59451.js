@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59451"]={"code":"59451","region":"Montana","city":"Hilger","latitude":47.468715,"longitude":-109.356248}}(window,'GeoPostal','US');

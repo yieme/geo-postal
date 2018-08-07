@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62011"]={"code":"62011","region":"Marche","city":"Cingoli","latitude":43.37326,"longitude":13.20247}}(window,'GeoPostal','IT');

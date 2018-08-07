@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57536"]={"code":"57536","region":"SD","city":"Harrold","latitude":44.5215,"longitude":-99.7382}}(window,'GeoPostal','US');

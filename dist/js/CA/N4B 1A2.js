@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N4B 1A2"]={"code":"N4B 1A2","region":"Ontario","city":"Andy's Corners","latitude":42.7579,"longitude":-80.53828}}(window,'GeoPostal','CA');

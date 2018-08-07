@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82009"]={"code":"82009","region":"Wyoming","city":"Cheyenne","latitude":41.205491,"longitude":-104.827828}}(window,'GeoPostal','US');

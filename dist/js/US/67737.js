@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67737"]={"code":"67737","region":"Kansas","city":"Grainfield","latitude":39.11417,"longitude":-100.4675}}(window,'GeoPostal','US');

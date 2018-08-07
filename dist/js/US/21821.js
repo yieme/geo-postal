@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21821"]={"code":"21821","region":"MD","city":"Deal Island","latitude":38.1533,"longitude":-75.9496}}(window,'GeoPostal','US');

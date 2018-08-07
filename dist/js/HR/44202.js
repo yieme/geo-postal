@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44202"]={"code":"44202","region":"Sisacko-moslavacka zupanija","city":"Budasevo","latitude":45.47472,"longitude":16.43667}}(window,'GeoPostal','HR');

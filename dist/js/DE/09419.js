@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09419"]={"code":"09419","region":"Sachsen","city":"Thum","latitude":50.67081,"longitude":12.9509}}(window,'GeoPostal','DE');

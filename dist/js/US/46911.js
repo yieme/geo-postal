@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46911"]={"code":"46911","region":"IN","city":"Amboy","latitude":40.6105,"longitude":-85.9497}}(window,'GeoPostal','US');

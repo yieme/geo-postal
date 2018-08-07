@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["501 00"]={"code":"501 00","region":"Dytiki Makedonia","city":"Kozani","latitude":40.30111,"longitude":21.78639}}(window,'GeoPostal','GR');

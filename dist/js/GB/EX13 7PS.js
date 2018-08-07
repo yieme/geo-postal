@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX13 7PS"]={"code":"EX13 7PS","region":"England","city":"Shute","latitude":50.76667,"longitude":-3.06667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0N 1A0"]={"code":"A0N 1A0","region":"Newfoundland and Labrador","city":"Port au Port East","latitude":48.55001,"longitude":-58.71521}}(window,'GeoPostal','CA');

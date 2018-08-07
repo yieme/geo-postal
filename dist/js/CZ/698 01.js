@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["698 01"]={"code":"698 01","region":"Jihomoravsky kraj","city":"Veseli nad Moravou","latitude":48.95363,"longitude":17.37648}}(window,'GeoPostal','CZ');

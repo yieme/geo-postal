@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62548"]={"code":"62548","region":"Illinois","city":"Mount Pulaski","latitude":40.009726,"longitude":-89.283968}}(window,'GeoPostal','US');

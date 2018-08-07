@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97121"]={"code":"97121","region":"Guadeloupe","city":"Anse-Bertrand","latitude":16.47206,"longitude":-61.50778}}(window,'GeoPostal','GP');

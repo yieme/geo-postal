@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17366"]={"code":"17366","region":"PA","city":"Windsor","latitude":39.9233,"longitude":-76.5591}}(window,'GeoPostal','US');

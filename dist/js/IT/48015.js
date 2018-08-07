@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48015"]={"code":"48015","region":"Emilia-Romagna","city":"Cervia","latitude":44.26204,"longitude":12.34812}}(window,'GeoPostal','IT');

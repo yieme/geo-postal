@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44065"]={"code":"44065","region":"Ohio","city":"Newbury","latitude":41.467201,"longitude":-81.241706}}(window,'GeoPostal','US');

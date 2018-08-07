@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMCAN02"]={"code":"JMCAN02","region":"Saint Ann","city":"Bamboo","latitude":18.39216,"longitude":-77.26429}}(window,'GeoPostal','JM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461639"]={"code":"461639","region":"Orenburgskaya oblast'","city":"Buguruslan","latitude":53.6554,"longitude":52.442}}(window,'GeoPostal','RU');

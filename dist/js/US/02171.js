@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02171"]={"code":"02171","region":"Massachusetts","city":"Quincy","latitude":42.283619,"longitude":-71.024959}}(window,'GeoPostal','US');

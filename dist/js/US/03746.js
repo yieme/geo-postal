@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03746"]={"code":"03746","region":"NH","city":"Cornish Flat","latitude":43.4973,"longitude":-72.2795}}(window,'GeoPostal','US');

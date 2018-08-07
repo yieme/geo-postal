@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82560"]={"code":"82560","region":"Sinaloa","city":"Teacapan","latitude":22.55,"longitude":-105.75}}(window,'GeoPostal','MX');

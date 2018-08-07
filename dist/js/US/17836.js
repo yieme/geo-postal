@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17836"]={"code":"17836","region":"PA","city":"Leck Kill","latitude":40.7101,"longitude":-76.6271}}(window,'GeoPostal','US');

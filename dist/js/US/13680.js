@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13680"]={"code":"13680","region":"New York","city":"Rensselaer Falls","latitude":44.59068,"longitude":-75.32658}}(window,'GeoPostal','US');

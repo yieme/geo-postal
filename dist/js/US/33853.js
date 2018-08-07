@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33853"]={"code":"33853","region":"Florida","city":"Lake Wales","latitude":27.90141,"longitude":-81.58591}}(window,'GeoPostal','US');

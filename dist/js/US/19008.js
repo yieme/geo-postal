@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19008"]={"code":"19008","region":"Pennsylvania","city":"Radnor","latitude":40.04622,"longitude":-75.35991}}(window,'GeoPostal','US');

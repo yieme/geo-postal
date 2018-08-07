@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4225"]={"code":"4225","region":"Basel-Landschaft","city":"Brislach","latitude":47.41763,"longitude":7.5434}}(window,'GeoPostal','CH');

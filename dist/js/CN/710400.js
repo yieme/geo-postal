@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["710400"]={"code":"710400","region":"Shaanxi","city":"Erqu","latitude":34.15278,"longitude":108.20639}}(window,'GeoPostal','CN');

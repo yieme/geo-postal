@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25491"]={"code":"25491","region":"Schleswig-Holstein","city":"Hetlingen","latitude":53.60712,"longitude":9.63718}}(window,'GeoPostal','DE');

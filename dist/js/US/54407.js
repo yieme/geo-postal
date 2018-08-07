@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54407"]={"code":"54407","region":"WI","city":"Amherst Junction","latitude":44.5065,"longitude":-89.3038}}(window,'GeoPostal','US');

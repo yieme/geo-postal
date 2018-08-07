@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE24 4HZ"]={"code":"NE24 4HZ","region":"England","city":"Bebside","latitude":55.12943,"longitude":-1.55783}}(window,'GeoPostal','GB');

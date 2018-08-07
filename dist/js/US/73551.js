@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73551"]={"code":"73551","region":"OK","city":"Hollister","latitude":34.3525,"longitude":-98.8814}}(window,'GeoPostal','US');

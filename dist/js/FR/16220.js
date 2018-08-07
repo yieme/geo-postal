@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16220"]={"code":"16220","region":"Nouvelle-Aquitaine","city":"Montbron","latitude":45.66667,"longitude":0.5}}(window,'GeoPostal','FR');

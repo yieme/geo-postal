@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05142"]={"code":"05142","region":"VT","city":"Cavendish","latitude":43.3766,"longitude":-72.6092}}(window,'GeoPostal','US');

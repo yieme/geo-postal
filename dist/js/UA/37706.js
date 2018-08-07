@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37706"]={"code":"37706","region":"Poltavska oblast","city":"Orzhytsya","latitude":49.79182,"longitude":32.70122}}(window,'GeoPostal','UA');

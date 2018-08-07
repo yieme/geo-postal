@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52236"]={"code":"52236","region":"IA","city":"Homestead","latitude":41.7339,"longitude":-91.8795}}(window,'GeoPostal','US');

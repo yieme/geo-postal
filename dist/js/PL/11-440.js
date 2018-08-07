@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-440"]={"code":"11-440","region":"Warminsko-mazurskie","city":"Reszel","latitude":54.05042,"longitude":21.14585}}(window,'GeoPostal','PL');

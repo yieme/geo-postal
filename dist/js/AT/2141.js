@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2141"]={"code":"2141","region":"Niederosterreich","city":"Staatz","latitude":48.66667,"longitude":16.48333}}(window,'GeoPostal','AT');

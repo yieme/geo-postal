@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36681"]={"code":"36681","region":"Galicia","city":"A Estrada","latitude":42.68333,"longitude":-8.48333}}(window,'GeoPostal','ES');

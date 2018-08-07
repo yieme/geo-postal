@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74020"]={"code":"74020","region":"Puglia","city":"Avetrana","latitude":40.35292,"longitude":17.73491}}(window,'GeoPostal','IT');

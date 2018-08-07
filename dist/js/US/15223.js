@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15223"]={"code":"15223","region":"Pennsylvania","city":"Pittsburgh","latitude":40.46874,"longitude":-79.9572}}(window,'GeoPostal','US');

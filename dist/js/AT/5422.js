@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5422"]={"code":"5422","region":"Salzburg","city":"Hallein","latitude":47.68333,"longitude":13.1}}(window,'GeoPostal','AT');

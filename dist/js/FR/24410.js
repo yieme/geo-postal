@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24410"]={"code":"24410","region":"Nouvelle-Aquitaine","city":"Saint-Aulaye","latitude":45.2,"longitude":0.13333}}(window,'GeoPostal','FR');

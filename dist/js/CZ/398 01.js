@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["398 01"]={"code":"398 01","region":"Jihocesky kraj","city":"Mirotice","latitude":49.42908,"longitude":14.03697}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98133"]={"code":"98133","region":"Washington","city":"Shoreline","latitude":47.73966,"longitude":-122.33334}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36039"]={"code":"36039","region":"AL","city":"Hardaway","latitude":32.3129,"longitude":-85.8838}}(window,'GeoPostal','US');

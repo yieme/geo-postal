@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45732"]={"code":"45732","region":"Ohio","city":"Glouster","latitude":39.50313,"longitude":-82.08459}}(window,'GeoPostal','US');

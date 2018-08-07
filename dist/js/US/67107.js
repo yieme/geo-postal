@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67107"]={"code":"67107","region":"Kansas","city":"Moundridge","latitude":38.202901,"longitude":-97.51876}}(window,'GeoPostal','US');

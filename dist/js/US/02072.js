@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02072"]={"code":"02072","region":"Massachusetts","city":"Stoughton","latitude":42.124641,"longitude":-71.108911}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97038"]={"code":"97038","region":"Oregon","city":"Molalla","latitude":45.120058,"longitude":-122.569392}}(window,'GeoPostal','US');

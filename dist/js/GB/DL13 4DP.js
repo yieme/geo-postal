@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL13 4DP"]={"code":"DL13 4DP","region":"England","city":"Tow Law","latitude":54.74456,"longitude":-1.81434}}(window,'GeoPostal','GB');

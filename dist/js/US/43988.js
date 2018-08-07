@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43988"]={"code":"43988","region":"OH","city":"Scio","latitude":40.4012,"longitude":-81.1016}}(window,'GeoPostal','US');

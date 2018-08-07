@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R8A 0A1"]={"code":"R8A 0A1","region":"Manitoba","city":"Flin Flon","latitude":54.76824,"longitude":-101.86497}}(window,'GeoPostal','CA');

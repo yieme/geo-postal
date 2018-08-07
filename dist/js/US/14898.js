@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14898"]={"code":"14898","region":"New York","city":"Woodhull","latitude":42.07764,"longitude":-77.408205}}(window,'GeoPostal','US');

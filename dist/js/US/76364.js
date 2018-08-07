@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76364"]={"code":"76364","region":"TX","city":"Harrold","latitude":34.0806,"longitude":-99.0323}}(window,'GeoPostal','US');

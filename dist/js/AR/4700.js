@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4700"]={"code":"4700","region":"Catamarca","city":"San Fernando del Valle de Catamarca","latitude":-28.46957,"longitude":-65.78524}}(window,'GeoPostal','AR');

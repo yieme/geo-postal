@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577543"]={"code":"577543","region":"Andhra Pradesh","city":"Rayadrug","latitude":14.7,"longitude":76.86667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58700"]={"code":"58700","region":"Bourgogne-Franche-Comte","city":"Premery","latitude":47.16952,"longitude":3.32743}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50514"]={"code":"50514","region":"Iowa","city":"Armstrong","latitude":43.39583,"longitude":-94.48083}}(window,'GeoPostal','US');

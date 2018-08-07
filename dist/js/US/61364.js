@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61364"]={"code":"61364","region":"Illinois","city":"Streator","latitude":41.17326,"longitude":-88.82256}}(window,'GeoPostal','US');

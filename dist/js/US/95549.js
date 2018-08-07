@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95549"]={"code":"95549","region":"CA","city":"Kneeland","latitude":40.6405,"longitude":-123.8826}}(window,'GeoPostal','US');

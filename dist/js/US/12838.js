@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12838"]={"code":"12838","region":"New York","city":"Hartford","latitude":43.334763,"longitude":-73.402038}}(window,'GeoPostal','US');

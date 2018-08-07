@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437005"]={"code":"437005","region":"Maramures","city":"Ardusat","latitude":47.65,"longitude":23.36667}}(window,'GeoPostal','RO');

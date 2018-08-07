@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72428"]={"code":"72428","region":"AR","city":"Etowah","latitude":35.7337,"longitude":-90.1838}}(window,'GeoPostal','US');

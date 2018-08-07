@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50216"]={"code":"50216","region":"Iowa","city":"Panora","latitude":41.69235,"longitude":-94.36562}}(window,'GeoPostal','US');

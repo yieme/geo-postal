@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67202"]={"code":"67202","region":"Grand-Est","city":"Wolfisheim","latitude":48.58723,"longitude":7.66708}}(window,'GeoPostal','FR');

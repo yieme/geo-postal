@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50259"]={"code":"50259","region":"Nordrhein-Westfalen","city":"Pulheim","latitude":50.99965,"longitude":6.80632}}(window,'GeoPostal','DE');

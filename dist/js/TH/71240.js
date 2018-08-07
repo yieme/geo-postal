@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71240"]={"code":"71240","region":"Kanchanaburi","city":"Thong Pha Phum","latitude":14.74345,"longitude":98.63101}}(window,'GeoPostal','TH');

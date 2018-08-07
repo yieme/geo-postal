@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K6A 0A1"]={"code":"K6A 0A1","region":"Ontario","city":"Hawkesbury","latitude":45.60009,"longitude":-74.61595}}(window,'GeoPostal','CA');

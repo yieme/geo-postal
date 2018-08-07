@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84145-000"]={"code":"84145-000","region":"Parana","city":"Carambei","latitude":-24.91778,"longitude":-50.09722}}(window,'GeoPostal','BR');

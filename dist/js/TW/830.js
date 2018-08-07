@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["830"]={"code":"830","region":"Kaohsiung","city":"Fengshan","latitude":22.62659,"longitude":120.36126}}(window,'GeoPostal','TW');

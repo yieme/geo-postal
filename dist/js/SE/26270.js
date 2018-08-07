@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26270"]={"code":"26270","region":"Skane lan","city":"Strovelstorp","latitude":56.15,"longitude":12.81667}}(window,'GeoPostal','SE');

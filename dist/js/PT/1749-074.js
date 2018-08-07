@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1749-074"]={"code":"1749-074","region":"Lisboa","city":"Olival do Basto","latitude":38.79079,"longitude":-9.16621}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO4 4WN"]={"code":"CO4 4WN","region":"England","city":"Colchester","latitude":51.88921,"longitude":0.90421}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21150"]={"code":"21150","region":"Maryland","city":"Simpsonville","latitude":39.174925,"longitude":-76.869264}}(window,'GeoPostal','US');

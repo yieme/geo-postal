@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1216"]={"code":"1216","region":"Brvenica","city":"Brvenica","latitude":41.96722,"longitude":20.98083}}(window,'GeoPostal','MK');

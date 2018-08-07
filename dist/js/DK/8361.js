@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8361"]={"code":"8361","region":"Midtjylland","city":"Tranbjerg","latitude":56.0901,"longitude":10.11937}}(window,'GeoPostal','DK');

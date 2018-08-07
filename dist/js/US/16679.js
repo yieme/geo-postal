@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16679"]={"code":"16679","region":"PA","city":"Six Mile Run","latitude":40.1576,"longitude":-78.2108}}(window,'GeoPostal','US');

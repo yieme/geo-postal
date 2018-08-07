@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28320"]={"code":"28320","region":"Madrid, Comunidad de","city":"Pinto","latitude":40.24147,"longitude":-3.69999}}(window,'GeoPostal','ES');

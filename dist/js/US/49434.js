@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49434"]={"code":"49434","region":"MI","city":"Macatawa","latitude":42.7697,"longitude":-86.2055}}(window,'GeoPostal','US');

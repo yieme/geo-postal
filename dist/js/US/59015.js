@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59015"]={"code":"59015","region":"MT","city":"Broadview","latitude":46.0821,"longitude":-108.8091}}(window,'GeoPostal','US');

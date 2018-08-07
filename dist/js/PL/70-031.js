@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70-031"]={"code":"70-031","region":"Zachodniopomorskie","city":"Szczecin","latitude":53.42894,"longitude":14.55302}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5080"]={"code":"5080","region":"Aargau","city":"Laufenburg","latitude":47.55985,"longitude":8.06225}}(window,'GeoPostal','CH');

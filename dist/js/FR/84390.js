@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84390"]={"code":"84390","region":"Provence-Alpes-Cote d'Azur","city":"Sault","latitude":44.08333,"longitude":5.41667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15821"]={"code":"15821","region":"Pennsylvania","city":"Benezett","latitude":41.317829,"longitude":-78.331967}}(window,'GeoPostal','US');

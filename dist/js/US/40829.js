@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40829"]={"code":"40829","region":"Kentucky","city":"Grays Knob","latitude":36.842537,"longitude":-83.321393}}(window,'GeoPostal','US');

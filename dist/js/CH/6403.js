@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6403"]={"code":"6403","region":"Schwyz","city":"Kussnacht","latitude":47.08557,"longitude":8.44206}}(window,'GeoPostal','CH');

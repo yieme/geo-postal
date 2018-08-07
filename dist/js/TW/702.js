@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["702"]={"code":"702","region":"Tainan","city":"Tainan","latitude":22.99083,"longitude":120.21333}}(window,'GeoPostal','TW');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88930-000"]={"code":"88930-000","region":"Santa Catarina","city":"Turvo","latitude":-28.925833,"longitude":-49.678889}}(window,'GeoPostal','BR');

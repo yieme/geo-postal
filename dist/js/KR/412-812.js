@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412-812"]={"code":"412-812","region":"Gyeonggi-do","city":"Goyang","latitude":37.65639,"longitude":126.835}}(window,'GeoPostal','KR');

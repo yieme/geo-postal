@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["029412"]={"code":"029412","region":"Nei Mongol","city":"Bayan Huxu","latitude":45.15,"longitude":121.4}}(window,'GeoPostal','CN');

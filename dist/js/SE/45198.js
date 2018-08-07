@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45198"]={"code":"45198","region":"Vastra Gotalands lan","city":"Uddevalla","latitude":58.34784,"longitude":11.9424}}(window,'GeoPostal','SE');

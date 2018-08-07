@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6900"]={"code":"6900","region":"Midtjylland","city":"Skjern","latitude":55.95,"longitude":8.5}}(window,'GeoPostal','DK');

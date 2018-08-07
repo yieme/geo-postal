@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0M 1E0"]={"code":"B0M 1E0","region":"Nova Scotia","city":"Farmington","latitude":45.56685,"longitude":-63.89874}}(window,'GeoPostal','CA');

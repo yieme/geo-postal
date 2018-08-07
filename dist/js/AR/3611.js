@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3611"]={"code":"3611","region":"Formosa","city":"Riacho Eh-Eh","latitude":-25.36209,"longitude":-58.2775}}(window,'GeoPostal','AR');

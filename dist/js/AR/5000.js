@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5000"]={"code":"5000","region":"Cordoba","city":"Cordoba","latitude":-31.4135,"longitude":-64.18105}}(window,'GeoPostal','AR');

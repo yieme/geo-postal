@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51044"]={"code":"51044","region":"IA","city":"Oto","latitude":42.2646,"longitude":-95.8616}}(window,'GeoPostal','US');

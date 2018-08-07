@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0W 3B0"]={"code":"G0W 3B0","region":"Quebec","city":"Obedjiwan","latitude":48.65905,"longitude":-74.93337}}(window,'GeoPostal','CA');

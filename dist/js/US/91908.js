@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91908"]={"code":"91908","region":"CA","city":"Bonita","latitude":32.6578,"longitude":-117.03}}(window,'GeoPostal','US');

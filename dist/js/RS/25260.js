@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25260"]={"code":"25260","region":"Zapadnobacki okrug","city":"Apatin","latitude":45.67111,"longitude":18.98472}}(window,'GeoPostal','RS');

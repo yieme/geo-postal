@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL6 3HY"]={"code":"DL6 3HY","region":"England","city":"Swainby","latitude":54.41264,"longitude":-1.26669}}(window,'GeoPostal','GB');

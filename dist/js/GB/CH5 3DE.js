@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH5 3DE"]={"code":"CH5 3DE","region":"Wales","city":"Hawarden","latitude":53.18478,"longitude":-3.02578}}(window,'GeoPostal','GB');

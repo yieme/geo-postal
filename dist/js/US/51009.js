@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51009"]={"code":"51009","region":"IA","city":"Calumet","latitude":42.9444,"longitude":-95.5515}}(window,'GeoPostal','US');

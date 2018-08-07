@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81750"]={"code":"81750","region":"Duzce","city":"Duzce","latitude":40.83889,"longitude":31.16389}}(window,'GeoPostal','TR');

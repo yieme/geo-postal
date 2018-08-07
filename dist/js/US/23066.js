@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23066"]={"code":"23066","region":"Virginia","city":"Gwynn","latitude":37.50417,"longitude":-76.28861}}(window,'GeoPostal','US');

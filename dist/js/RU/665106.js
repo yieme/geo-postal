@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665106"]={"code":"665106","region":"Irkutskaya oblast'","city":"Nizhneudinsk","latitude":54.9076,"longitude":99.0276}}(window,'GeoPostal','RU');

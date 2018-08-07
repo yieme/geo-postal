@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-020"]={"code":"36-020","region":"Podkarpackie","city":"Tyczyn","latitude":49.96384,"longitude":22.03398}}(window,'GeoPostal','PL');

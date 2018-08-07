@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6943"]={"code":"6943","region":"Western Australia","city":"Morley","latitude":-31.88775,"longitude":115.9099}}(window,'GeoPostal','AU');

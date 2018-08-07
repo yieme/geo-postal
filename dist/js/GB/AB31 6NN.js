@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB31 6NN"]={"code":"AB31 6NN","region":"Scotland","city":"Strachan","latitude":57.02048,"longitude":-2.53839}}(window,'GeoPostal','GB');

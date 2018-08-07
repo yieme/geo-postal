@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32830"]={"code":"32830","region":"Florida","city":"Lake Buena Vista","latitude":28.3775,"longitude":-81.52167}}(window,'GeoPostal','US');

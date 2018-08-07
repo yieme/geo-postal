@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99001"]={"code":"99001","region":"Washington","city":"Airway Heights","latitude":47.649575,"longitude":-117.616079}}(window,'GeoPostal','US');

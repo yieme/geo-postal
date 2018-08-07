@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY4 1BA"]={"code":"SY4 1BA","region":"England","city":"Kinton","latitude":52.76667,"longitude":-2.93333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW3 6AJ"]={"code":"KW3 6AJ","region":"Scotland","city":"Lybster","latitude":58.29894,"longitude":-3.28464}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80830"]={"code":"80830","region":"CO","city":"Matheson","latitude":39.132,"longitude":-103.9132}}(window,'GeoPostal','US');

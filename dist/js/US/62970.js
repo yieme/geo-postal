@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62970"]={"code":"62970","region":"Illinois","city":"Olmsted","latitude":37.210771,"longitude":-89.098237}}(window,'GeoPostal','US');

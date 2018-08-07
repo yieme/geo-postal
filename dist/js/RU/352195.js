@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352195"]={"code":"352195","region":"Krasnodarskiy kray","city":"Gul'kevichi","latitude":45.35383,"longitude":40.69465}}(window,'GeoPostal','RU');

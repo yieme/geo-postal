@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39818-000"]={"code":"39818-000","region":"Minas Gerais","city":"Padre Paraiso","latitude":-17.07417,"longitude":-41.48444}}(window,'GeoPostal','BR');

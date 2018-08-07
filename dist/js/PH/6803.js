@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6803"]={"code":"6803","region":"Eastern Samar","city":"Llorente","latitude":11.41194,"longitude":125.54583}}(window,'GeoPostal','PH');

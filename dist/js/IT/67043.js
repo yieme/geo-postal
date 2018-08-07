@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67043"]={"code":"67043","region":"Abruzzo","city":"Celano","latitude":42.08553,"longitude":13.5398}}(window,'GeoPostal','IT');

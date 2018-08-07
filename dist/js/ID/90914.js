@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90914"]={"code":"90914","region":"Sulawesi Selatan","city":"Tancung","latitude":-4.0525,"longitude":120.0288}}(window,'GeoPostal','ID');

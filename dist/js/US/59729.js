@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59729"]={"code":"59729","region":"Montana","city":"Ennis","latitude":45.34611,"longitude":-111.73222}}(window,'GeoPostal','US');

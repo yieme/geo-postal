@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26739"]={"code":"26739","region":"West Virginia","city":"Mount Storm","latitude":39.21214,"longitude":-79.252323}}(window,'GeoPostal','US');

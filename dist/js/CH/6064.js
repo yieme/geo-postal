@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6064"]={"code":"6064","region":"Obwalden","city":"Kerns","latitude":46.90088,"longitude":8.27652}}(window,'GeoPostal','CH');

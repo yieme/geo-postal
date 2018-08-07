@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17517"]={"code":"17517","region":"Pennsylvania","city":"Denver","latitude":40.23315,"longitude":-76.13717}}(window,'GeoPostal','US');

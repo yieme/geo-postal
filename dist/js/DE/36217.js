@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36217"]={"code":"36217","region":"Hessen","city":"Ziebach","latitude":50.94305,"longitude":9.88427}}(window,'GeoPostal','DE');

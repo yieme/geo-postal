@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32015"]={"code":"32015","region":"Veneto","city":"Puos d'Alpago","latitude":46.14278,"longitude":12.36361}}(window,'GeoPostal','IT');

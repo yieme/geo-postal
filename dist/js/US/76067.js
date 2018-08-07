@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76067"]={"code":"76067","region":"Texas","city":"Mineral Wells","latitude":32.80846,"longitude":-98.11282}}(window,'GeoPostal','US');

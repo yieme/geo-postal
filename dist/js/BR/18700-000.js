@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18700-000"]={"code":"18700-000","region":"Sao Paulo","city":"Avare","latitude":-23.09861,"longitude":-48.92583}}(window,'GeoPostal','BR');

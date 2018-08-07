@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19053"]={"code":"19053","region":"Pennsylvania","city":"Trevose","latitude":40.152617,"longitude":-74.981974}}(window,'GeoPostal','US');

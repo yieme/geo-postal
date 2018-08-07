@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49929"]={"code":"49929","region":"Michigan","city":"Greenland","latitude":46.780632,"longitude":-89.097564}}(window,'GeoPostal','US');

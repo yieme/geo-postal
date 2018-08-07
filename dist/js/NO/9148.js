@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9148"]={"code":"9148","region":"Troms","city":"Olderdalen","latitude":69.60407,"longitude":20.53272}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34261"]={"code":"34261","region":"Kronobergs lan","city":"Moheda","latitude":57,"longitude":14.56667}}(window,'GeoPostal','SE');

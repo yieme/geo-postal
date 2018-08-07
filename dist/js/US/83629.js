@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83629"]={"code":"83629","region":"Idaho","city":"Horseshoe Bend","latitude":43.929505,"longitude":-116.290906}}(window,'GeoPostal','US');

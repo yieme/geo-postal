@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29520"]={"code":"29520","region":"South Carolina","city":"Cheraw","latitude":34.692074,"longitude":-79.903336}}(window,'GeoPostal','US');

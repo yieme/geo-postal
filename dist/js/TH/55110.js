@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55110"]={"code":"55110","region":"Nan","city":"Wiang Sa","latitude":18.59856,"longitude":100.74103}}(window,'GeoPostal','TH');

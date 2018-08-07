@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR4 3YA"]={"code":"PR4 3YA","region":"England","city":"Fylde","latitude":53.83333,"longitude":-2.91667}}(window,'GeoPostal','GB');

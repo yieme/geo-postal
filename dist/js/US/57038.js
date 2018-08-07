@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57038"]={"code":"57038","region":"South Dakota","city":"Jefferson","latitude":42.574747,"longitude":-96.540923}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR26 2NJ"]={"code":"TR26 2NJ","region":"England","city":"Carbis Bay","latitude":50.19595,"longitude":-5.46628}}(window,'GeoPostal','GB');

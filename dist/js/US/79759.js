@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79759"]={"code":"79759","region":"TX","city":"Notrees","latitude":31.8599,"longitude":-102.7413}}(window,'GeoPostal','US');

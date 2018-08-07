@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86700"]={"code":"86700","region":"Nouvelle-Aquitaine","city":"Couhe","latitude":46.29911,"longitude":0.18174}}(window,'GeoPostal','FR');

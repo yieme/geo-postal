@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2550"]={"code":"2550","region":"Antwerpen","city":"Kontich","latitude":51.13213,"longitude":4.44706}}(window,'GeoPostal','BE');

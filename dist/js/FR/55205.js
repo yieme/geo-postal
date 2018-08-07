@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55205"]={"code":"55205","region":"Grand-Est","city":"Commercy","latitude":48.76128,"longitude":5.59067}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL7 0JG"]={"code":"DL7 0JG","region":"England","city":"South Cowton","latitude":54.41667,"longitude":-1.55}}(window,'GeoPostal','GB');

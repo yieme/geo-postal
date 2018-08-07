@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29741"]={"code":"29741","region":"SC","city":"Ruby","latitude":34.7379,"longitude":-80.191}}(window,'GeoPostal','US');

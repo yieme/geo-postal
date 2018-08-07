@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59740"]={"code":"59740","region":"Montana","city":"McAllister","latitude":45.446506,"longitude":-111.784791}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["989-6402"]={"code":"989-6402","region":"Miyagi","city":"Osaki","latitude":38.567,"longitude":140.95}}(window,'GeoPostal','JP');

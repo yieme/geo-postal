@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31620"]={"code":"31620","region":"Occitanie","city":"Cepet","latitude":43.74885,"longitude":1.43168}}(window,'GeoPostal','FR');

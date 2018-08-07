@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97884"]={"code":"97884","region":"Oregon","city":"Unity","latitude":44.438294,"longitude":-118.190733}}(window,'GeoPostal','US');

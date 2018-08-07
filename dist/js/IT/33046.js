@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33046"]={"code":"33046","region":"Friuli-Venezia Giulia","city":"Pulfero","latitude":46.175,"longitude":13.48472}}(window,'GeoPostal','IT');

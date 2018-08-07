@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76539"]={"code":"76539","region":"TX","city":"Kempner","latitude":31.0887,"longitude":-98.0099}}(window,'GeoPostal','US');

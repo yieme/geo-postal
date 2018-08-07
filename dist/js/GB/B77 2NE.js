@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B77 2NE"]={"code":"B77 2NE","region":"England","city":"Belgrave","latitude":52.65,"longitude":-1.11667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15753"]={"code":"15753","region":"PA","city":"La Jose","latitude":40.7876,"longitude":-78.6514}}(window,'GeoPostal','US');

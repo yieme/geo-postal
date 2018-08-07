@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX34 0JF"]={"code":"EX34 0JF","region":"England","city":"Combe Martin","latitude":51.19873,"longitude":-4.02343}}(window,'GeoPostal','GB');

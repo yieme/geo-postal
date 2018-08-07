@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67112"]={"code":"67112","region":"Rheinland-Pfalz","city":"Mutterstadt","latitude":49.44139,"longitude":8.35611}}(window,'GeoPostal','DE');

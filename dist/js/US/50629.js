@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50629"]={"code":"50629","region":"IA","city":"Fairbank","latitude":42.6162,"longitude":-92.0326}}(window,'GeoPostal','US');

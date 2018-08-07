@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17052"]={"code":"17052","region":"PA","city":"Mapleton Depot","latitude":40.3864,"longitude":-77.9604}}(window,'GeoPostal','US');

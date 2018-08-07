@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02051"]={"code":"02051","region":"MA","city":"Marshfield Hills","latitude":42.1512,"longitude":-70.7341}}(window,'GeoPostal','US');

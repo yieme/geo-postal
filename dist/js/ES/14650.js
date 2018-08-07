@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14650"]={"code":"14650","region":"Andalucia","city":"Higuera de Arjona","latitude":37.97064,"longitude":-3.99061}}(window,'GeoPostal','ES');

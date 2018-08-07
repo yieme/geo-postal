@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4140"]={"code":"4140","region":"Hawke's Bay","city":"Napier","latitude":-39.48333,"longitude":176.91667}}(window,'GeoPostal','NZ');

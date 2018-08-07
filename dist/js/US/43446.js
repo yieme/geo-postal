@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43446"]={"code":"43446","region":"Ohio","city":"Port Clinton","latitude":41.512,"longitude":-82.93769}}(window,'GeoPostal','US');

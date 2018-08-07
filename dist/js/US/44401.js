@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44401"]={"code":"44401","region":"OH","city":"Berlin Center","latitude":41.0243,"longitude":-80.9341}}(window,'GeoPostal','US');

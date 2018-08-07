@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["743440"]={"code":"743440","region":"West Bengal","city":"Baduria","latitude":22.74167,"longitude":88.78583}}(window,'GeoPostal','IN');

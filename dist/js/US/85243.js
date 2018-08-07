@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85243"]={"code":"85243","region":"AZ","city":"Queen Creek","latitude":33.15,"longitude":-111.54}}(window,'GeoPostal','US');

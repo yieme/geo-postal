@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1226"]={"code":"1226","region":"Zelino","city":"Strimnica","latitude":41.9675,"longitude":21.03472}}(window,'GeoPostal','MK');

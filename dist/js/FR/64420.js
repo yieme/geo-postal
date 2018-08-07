@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64420"]={"code":"64420","region":"Nouvelle-Aquitaine","city":"Soumoulou","latitude":43.26667,"longitude":-0.18333}}(window,'GeoPostal','FR');

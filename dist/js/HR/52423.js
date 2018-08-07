@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52423"]={"code":"52423","region":"Istarska zupanija","city":"Karojba","latitude":45.30083,"longitude":13.82306}}(window,'GeoPostal','HR');

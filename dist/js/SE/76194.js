@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76194"]={"code":"76194","region":"Stockholms lan","city":"Norrtalje","latitude":59.75799,"longitude":18.70496}}(window,'GeoPostal','SE');

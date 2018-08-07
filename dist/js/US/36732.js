@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36732"]={"code":"36732","region":"Alabama","city":"Demopolis","latitude":32.508103,"longitude":-87.838018}}(window,'GeoPostal','US');

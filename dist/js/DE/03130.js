@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03130"]={"code":"03130","region":"Brandenburg","city":"Bohsdorf","latitude":51.62183,"longitude":14.53763}}(window,'GeoPostal','DE');

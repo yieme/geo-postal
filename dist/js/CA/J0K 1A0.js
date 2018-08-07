@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 1A0"]={"code":"J0K 1A0","region":"Quebec","city":"Berthierville","latitude":46.08336,"longitude":-73.18245}}(window,'GeoPostal','CA');

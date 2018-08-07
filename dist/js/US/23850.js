@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23850"]={"code":"23850","region":"VA","city":"Ford","latitude":37.1349,"longitude":-77.7364}}(window,'GeoPostal','US');

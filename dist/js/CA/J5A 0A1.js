@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J5A 0A1"]={"code":"J5A 0A1","region":"Quebec","city":"Saint-Constant","latitude":45.36678,"longitude":-73.56588}}(window,'GeoPostal','CA');

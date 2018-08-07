@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["235613"]={"code":"235613","region":"Vrancea","city":"Urechesti","latitude":45.6,"longitude":27.06667}}(window,'GeoPostal','RO');

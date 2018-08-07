@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3308"]={"code":"3308","region":"Syunik'","city":"Kapan","latitude":39.20754,"longitude":46.40576}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 3JT"]={"code":"LN8 3JT","region":"England","city":"Middle Rasen","latitude":53.38722,"longitude":-0.36202}}(window,'GeoPostal','GB');

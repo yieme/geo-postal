@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70560"]={"code":"70560","region":"Louisiana","city":"New Iberia","latitude":29.999769,"longitude":-91.817764}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63445"]={"code":"63445","region":"Missouri","city":"Kahoka","latitude":40.42032,"longitude":-91.71961}}(window,'GeoPostal','US');

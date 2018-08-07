@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28529"]={"code":"28529","region":"Madrid, Comunidad de","city":"Vaciamadrid","latitude":40.32605,"longitude":-3.51088}}(window,'GeoPostal','ES');

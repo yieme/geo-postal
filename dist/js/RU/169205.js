@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169205"]={"code":"169205","region":"Komi, Respublika","city":"Yemva","latitude":62.58999,"longitude":50.85939}}(window,'GeoPostal','RU');

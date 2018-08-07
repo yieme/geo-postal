@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7770"]={"code":"7770","region":"Nord-Trondelag","city":"Lauvsnes","latitude":64.50061,"longitude":10.89396}}(window,'GeoPostal','NO');

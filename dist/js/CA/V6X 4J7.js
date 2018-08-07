@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V6X 4J7"]={"code":"V6X 4J7","region":"British Columbia","city":"Richmond","latitude":49.183445,"longitude":-123.133424}}(window,'GeoPostal','CA');

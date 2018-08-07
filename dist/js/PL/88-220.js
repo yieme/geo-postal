@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-220"]={"code":"88-220","region":"Kujawsko-pomorskie","city":"Osieciny","latitude":52.62926,"longitude":18.72208}}(window,'GeoPostal','PL');

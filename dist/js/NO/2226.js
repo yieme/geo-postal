@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2226"]={"code":"2226","region":"Hedmark","city":"Kongsvinger","latitude":60.19049,"longitude":11.99772}}(window,'GeoPostal','NO');

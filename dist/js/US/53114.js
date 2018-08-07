@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53114"]={"code":"53114","region":"WI","city":"Darien","latitude":42.5973,"longitude":-88.7508}}(window,'GeoPostal','US');

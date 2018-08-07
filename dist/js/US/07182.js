@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07182"]={"code":"07182","region":"NJ","city":"Shared Firm Zip","latitude":40.73,"longitude":-74.17}}(window,'GeoPostal','US');

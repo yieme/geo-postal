@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22208"]={"code":"22208","region":"Central Province","city":"Nuwara Eliya","latitude":6.97078,"longitude":80.78286}}(window,'GeoPostal','LK');

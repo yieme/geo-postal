@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31370"]={"code":"31370","region":"Occitanie","city":"Rieumes","latitude":43.41143,"longitude":1.11702}}(window,'GeoPostal','FR');

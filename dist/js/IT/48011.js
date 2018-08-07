@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48011"]={"code":"48011","region":"Emilia-Romagna","city":"Alfonsine","latitude":44.50611,"longitude":12.05639}}(window,'GeoPostal','IT');

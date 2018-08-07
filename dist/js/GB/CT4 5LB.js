@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT4 5LB"]={"code":"CT4 5LB","region":"England","city":"Bridge","latitude":51.24513,"longitude":1.1264}}(window,'GeoPostal','GB');

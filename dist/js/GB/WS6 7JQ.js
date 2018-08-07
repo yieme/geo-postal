@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WS6 7JQ"]={"code":"WS6 7JQ","region":"England","city":"Walsall","latitude":52.58528,"longitude":-1.98396}}(window,'GeoPostal','GB');

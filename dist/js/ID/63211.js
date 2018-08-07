@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63211"]={"code":"63211","region":"Jawa Barat","city":"Ngawi","latitude":-7.4038,"longitude":111.4461}}(window,'GeoPostal','ID');

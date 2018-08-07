@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3312"]={"code":"3312","region":"Bern","city":"Fraubrunnen","latitude":47.0862,"longitude":7.52727}}(window,'GeoPostal','CH');

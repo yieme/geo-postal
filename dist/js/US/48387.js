@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48387"]={"code":"48387","region":"MI","city":"Union Lake","latitude":42.6148,"longitude":-83.4469}}(window,'GeoPostal','US');

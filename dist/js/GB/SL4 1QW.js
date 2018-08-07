@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL4 1QW"]={"code":"SL4 1QW","region":"England","city":"Bournemouth","latitude":50.72048,"longitude":-1.8795}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE28 4DW"]={"code":"PE28 4DW","region":"England","city":"Alconbury","latitude":52.369,"longitude":-0.26009}}(window,'GeoPostal','GB');

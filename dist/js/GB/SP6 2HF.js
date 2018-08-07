@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP6 2HF"]={"code":"SP6 2HF","region":"England","city":"Stuckton","latitude":50.92172,"longitude":-1.77318}}(window,'GeoPostal','GB');

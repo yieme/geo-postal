@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28763"]={"code":"28763","region":"North Carolina","city":"Otto","latitude":35.048328,"longitude":-83.39788}}(window,'GeoPostal','US');

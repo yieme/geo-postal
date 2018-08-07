@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8900"]={"code":"8900","region":"Zala","city":"Zalaegerszeg","latitude":46.84,"longitude":16.84389}}(window,'GeoPostal','HU');

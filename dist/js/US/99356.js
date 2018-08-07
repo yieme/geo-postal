@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99356"]={"code":"99356","region":"Washington","city":"Roosevelt","latitude":45.74472,"longitude":-120.21028}}(window,'GeoPostal','US');

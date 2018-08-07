@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48612"]={"code":"48612","region":"Nordrhein-Westfalen","city":"Horstmar","latitude":51.59979,"longitude":7.55396}}(window,'GeoPostal','DE');

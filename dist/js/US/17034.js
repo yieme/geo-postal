@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17034"]={"code":"17034","region":"PA","city":"Highspire","latitude":40.2083,"longitude":-76.7853}}(window,'GeoPostal','US');

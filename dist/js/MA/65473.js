@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65473"]={"code":"65473","region":"L'Oriental","city":"Taourirt","latitude":34.4073,"longitude":-2.89732}}(window,'GeoPostal','MA');

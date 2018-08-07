@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45034"]={"code":"45034","region":"Veneto","city":"Canaro","latitude":44.93718,"longitude":11.67611}}(window,'GeoPostal','IT');

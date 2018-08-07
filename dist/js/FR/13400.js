@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13400"]={"code":"13400","region":"Provence-Alpes-Cote d'Azur","city":"Aubagne","latitude":43.29276,"longitude":5.57067}}(window,'GeoPostal','FR');

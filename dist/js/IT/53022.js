@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53022"]={"code":"53022","region":"Toscana","city":"Buonconvento","latitude":43.13364,"longitude":11.48344}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5277"]={"code":"5277","region":"South Australia","city":"Penola","latitude":-37.3752,"longitude":140.83678}}(window,'GeoPostal','AU');

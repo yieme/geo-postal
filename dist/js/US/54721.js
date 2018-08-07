@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54721"]={"code":"54721","region":"Wisconsin","city":"Arkansaw","latitude":44.621833,"longitude":-92.069747}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38430-000"]={"code":"38430-000","region":"Minas Gerais","city":"Tupaciguara","latitude":-18.59222,"longitude":-48.705}}(window,'GeoPostal','BR');

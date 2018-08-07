@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48026"]={"code":"48026","region":"Emilia-Romagna","city":"Russi","latitude":44.3725,"longitude":12.03222}}(window,'GeoPostal','IT');

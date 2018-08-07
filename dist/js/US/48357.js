@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48357"]={"code":"48357","region":"MI","city":"Highland","latitude":42.6595,"longitude":-83.637}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54546"]={"code":"54546","region":"Wisconsin","city":"Mellen","latitude":46.325215,"longitude":-90.657151}}(window,'GeoPostal','US');

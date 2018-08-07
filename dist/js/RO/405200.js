@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["405200"]={"code":"405200","region":"Cluj","city":"Dej","latitude":47.15,"longitude":23.86667}}(window,'GeoPostal','RO');

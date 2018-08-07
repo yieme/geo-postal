@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH18 5JR"]={"code":"RH18 5JR","region":"England","city":"Forest Row","latitude":51.09641,"longitude":0.03262}}(window,'GeoPostal','GB');

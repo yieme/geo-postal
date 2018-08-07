@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67416"]={"code":"67416","region":"KS","city":"Assaria","latitude":38.6676,"longitude":-97.6203}}(window,'GeoPostal','US');

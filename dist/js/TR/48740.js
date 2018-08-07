@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48740"]={"code":"48740","region":"Mugla","city":"Marmaris","latitude":36.855,"longitude":28.27417}}(window,'GeoPostal','TR');

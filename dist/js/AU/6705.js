@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6705"]={"code":"6705","region":"Western Australia","city":"Bangemall","latitude":-24.2,"longitude":116.46667}}(window,'GeoPostal','AU');

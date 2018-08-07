@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39481"]={"code":"39481","region":"MS","city":"Stringer","latitude":31.8447,"longitude":-89.2621}}(window,'GeoPostal','US');

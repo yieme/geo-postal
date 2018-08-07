@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["725000"]={"code":"725000","region":"Shaanxi","city":"Ankang","latitude":32.68,"longitude":109.01722}}(window,'GeoPostal','CN');

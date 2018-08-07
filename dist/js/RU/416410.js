@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416410"]={"code":"416410","region":"Astrakhanskaya oblast'","city":"Liman","latitude":45.78457,"longitude":47.22405}}(window,'GeoPostal','RU');

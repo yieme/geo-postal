@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9586"]={"code":"9586","region":"Finnmark","city":"Oksfjord","latitude":70.23957,"longitude":22.34786}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62373"]={"code":"62373","region":"IL","city":"Sutter","latitude":40.2865,"longitude":-91.3726}}(window,'GeoPostal','US');

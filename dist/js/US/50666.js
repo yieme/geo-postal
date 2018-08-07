@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50666"]={"code":"50666","region":"Iowa","city":"Plainfield","latitude":42.843302,"longitude":-92.534447}}(window,'GeoPostal','US');

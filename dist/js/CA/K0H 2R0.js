@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0H 2R0"]={"code":"K0H 2R0","region":"Ontario","city":"Lavant","latitude":45.06681,"longitude":-76.64941}}(window,'GeoPostal','CA');

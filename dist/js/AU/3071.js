@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3071"]={"code":"3071","region":"Victoria","city":"Thornbury","latitude":-37.75829,"longitude":145.00514}}(window,'GeoPostal','AU');

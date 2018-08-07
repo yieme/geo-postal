@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65279"]={"code":"65279","region":"Missouri","city":"Rocheport","latitude":39.000103,"longitude":-92.516532}}(window,'GeoPostal','US');

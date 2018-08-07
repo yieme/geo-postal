@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624170"]={"code":"624170","region":"Sverdlovskaya oblast'","city":"Novoural'sk","latitude":57.24389,"longitude":60.08389}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15752"]={"code":"15752","region":"Brandenburg","city":"Prieros","latitude":52.22398,"longitude":13.77078}}(window,'GeoPostal','DE');

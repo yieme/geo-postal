@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35006"]={"code":"35006","region":"Boumerdes","city":"Beni Amrane","latitude":36.66774,"longitude":3.59115}}(window,'GeoPostal','DZ');

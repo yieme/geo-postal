@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02147"]={"code":"02147","region":"Massachusetts","city":"Brookline","latitude":42.18,"longitude":-71.0892}}(window,'GeoPostal','US');

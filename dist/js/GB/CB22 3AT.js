@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB22 3AT"]={"code":"CB22 3AT","region":"England","city":"Babraham","latitude":52.13212,"longitude":0.2096}}(window,'GeoPostal','GB');

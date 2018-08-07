@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92380"]={"code":"92380","region":"Ile-de-France","city":"Garches","latitude":48.84226,"longitude":2.18232}}(window,'GeoPostal','FR');

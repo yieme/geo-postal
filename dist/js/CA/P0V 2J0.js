@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0V 2J0"]={"code":"P0V 2J0","region":"Ontario","city":"Oxdrift","latitude":49.81364,"longitude":-92.98094}}(window,'GeoPostal','CA');

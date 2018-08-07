@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10705"]={"code":"10705","region":"NY","city":"Yonkers","latitude":40.9177,"longitude":-73.895}}(window,'GeoPostal','US');

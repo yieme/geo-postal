@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35-304"]={"code":"35-304","region":"Podkarpackie","city":"Rzeszow","latitude":50.04132,"longitude":21.99901}}(window,'GeoPostal','PL');

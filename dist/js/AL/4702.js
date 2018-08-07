@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4702"]={"code":"4702","region":"Lezhe","city":"Lac","latitude":41.63556,"longitude":19.71306}}(window,'GeoPostal','AL');

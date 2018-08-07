@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46792"]={"code":"46792","region":"Indiana","city":"Warren","latitude":40.685342,"longitude":-85.423863}}(window,'GeoPostal','US');

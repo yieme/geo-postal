@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J4V 2H8"]={"code":"J4V 2H8","region":"Quebec","city":"Greenfield Park","latitude":45.48922,"longitude":-73.473261}}(window,'GeoPostal','CA');

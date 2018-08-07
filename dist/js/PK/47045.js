@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47045"]={"code":"47045","region":"Punjab","city":"Khanewal","latitude":30.3,"longitude":71.93333}}(window,'GeoPostal','PK');

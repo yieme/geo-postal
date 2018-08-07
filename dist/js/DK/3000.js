@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3000"]={"code":"3000","region":"Hovedstaden","city":"Helsingor","latitude":56.03606,"longitude":12.6136}}(window,'GeoPostal','DK');

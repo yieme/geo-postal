@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46400"]={"code":"46400","region":"Valenciana, Comunidad","city":"Cullera","latitude":39.16667,"longitude":-0.25}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76684"]={"code":"76684","region":"TX","city":"Ross","latitude":31.7173,"longitude":-97.1188}}(window,'GeoPostal','US');

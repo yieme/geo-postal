@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65041"]={"code":"65041","region":"Sindh","city":"Mirpur Mathelo","latitude":28.02271,"longitude":69.54886}}(window,'GeoPostal','PK');

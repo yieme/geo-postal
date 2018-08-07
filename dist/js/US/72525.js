@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72525"]={"code":"72525","region":"Arkansas","city":"Hardy","latitude":36.32056,"longitude":-91.48056}}(window,'GeoPostal','US');

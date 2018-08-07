@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67363"]={"code":"67363","region":"Kansas","city":"Sycamore","latitude":37.3269,"longitude":-95.71518}}(window,'GeoPostal','US');

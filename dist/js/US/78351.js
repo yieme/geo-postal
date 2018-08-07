@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78351"]={"code":"78351","region":"TX","city":"Driscoll","latitude":27.6745,"longitude":-97.7486}}(window,'GeoPostal','US');

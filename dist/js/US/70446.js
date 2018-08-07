@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70446"]={"code":"70446","region":"LA","city":"Loranger","latitude":30.5884,"longitude":-90.3567}}(window,'GeoPostal','US');

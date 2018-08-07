@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97442"]={"code":"97442","region":"OR","city":"Glendale","latitude":42.7518,"longitude":-123.3943}}(window,'GeoPostal','US');

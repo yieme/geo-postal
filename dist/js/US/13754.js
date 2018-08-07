@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13754"]={"code":"13754","region":"New York","city":"Deposit","latitude":42.06008,"longitude":-75.42768}}(window,'GeoPostal','US');

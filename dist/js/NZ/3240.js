@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3240"]={"code":"3240","region":"Waikato","city":"Hamilton","latitude":-37.78333,"longitude":175.28333}}(window,'GeoPostal','NZ');

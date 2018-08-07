@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507262"]={"code":"507262","region":"Harghita","city":"Beclean","latitude":45.83333,"longitude":24.91667}}(window,'GeoPostal','RO');

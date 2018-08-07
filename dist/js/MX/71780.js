@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71780"]={"code":"71780","region":"Oaxaca","city":"Santiago Jamiltepec","latitude":16.28333,"longitude":-97.81667}}(window,'GeoPostal','MX');

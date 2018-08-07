@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53596"]={"code":"53596","region":"Wisconsin","city":"Sun Prairie","latitude":43.19253,"longitude":-89.26201}}(window,'GeoPostal','US');

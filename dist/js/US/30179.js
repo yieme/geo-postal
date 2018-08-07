@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30179"]={"code":"30179","region":"Georgia","city":"Temple","latitude":33.73705,"longitude":-85.03244}}(window,'GeoPostal','US');

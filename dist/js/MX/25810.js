@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25810"]={"code":"25810","region":"Chiapas","city":"Paredon","latitude":16.03333,"longitude":-93.86667}}(window,'GeoPostal','MX');

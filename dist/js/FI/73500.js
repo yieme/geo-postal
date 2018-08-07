@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73500"]={"code":"73500","region":"Pohjois-Savo","city":"Juankoski","latitude":63.06667,"longitude":28.35}}(window,'GeoPostal','FI');

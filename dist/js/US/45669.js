@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45669"]={"code":"45669","region":"Ohio","city":"Proctorville","latitude":38.43806,"longitude":-82.38194}}(window,'GeoPostal','US');

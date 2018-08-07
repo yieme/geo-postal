@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694496"]={"code":"694496","region":"Sakhalinskaya oblast'","city":"Okha","latitude":53.57389,"longitude":142.94778}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90029"]={"code":"90029","region":"Sicilia","city":"Valledolmo","latitude":37.74745,"longitude":13.82786}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35478"]={"code":"35478","region":"AL","city":"Peterson","latitude":33.3066,"longitude":-87.4532}}(window,'GeoPostal','US');

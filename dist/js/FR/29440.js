@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29440"]={"code":"29440","region":"Bretagne","city":"Plouzevede","latitude":48.6,"longitude":-4.11667}}(window,'GeoPostal','FR');

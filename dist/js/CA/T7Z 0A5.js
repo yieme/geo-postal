@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7Z 0A5"]={"code":"T7Z 0A5","region":"Alberta","city":"Spring Lake","latitude":53.51683,"longitude":-114.11876}}(window,'GeoPostal','CA');

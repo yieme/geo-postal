@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["320-070"]={"code":"320-070","region":"Chungcheongnam-do","city":"Nonsan","latitude":36.20389,"longitude":127.08472}}(window,'GeoPostal','KR');

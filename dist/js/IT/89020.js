@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89020"]={"code":"89020","region":"Calabria","city":"Sinopoli","latitude":38.26377,"longitude":15.8785}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62808"]={"code":"62808","region":"Illinois","city":"Ashley","latitude":38.32833,"longitude":-89.18889}}(window,'GeoPostal','US');

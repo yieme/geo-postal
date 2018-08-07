@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15132"]={"code":"15132","region":"Tizi Ouzou","city":"Tizi-n-Tleta","latitude":36.54569,"longitude":4.05712}}(window,'GeoPostal','DZ');

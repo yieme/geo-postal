@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA10 8HD"]={"code":"SA10 8HD","region":"Wales","city":"Aberdulais","latitude":51.68317,"longitude":-3.7755}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95423"]={"code":"95423","region":"California","city":"Clearlake Oaks","latitude":39.02628,"longitude":-122.67193}}(window,'GeoPostal','US');

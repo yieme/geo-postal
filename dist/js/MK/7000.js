@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7000"]={"code":"7000","region":"Bitola","city":"Bitola","latitude":41.03111,"longitude":21.34028}}(window,'GeoPostal','MK');

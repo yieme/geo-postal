@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0W 1H0"]={"code":"G0W 1H0","region":"Quebec","city":"Chapais","latitude":49.78344,"longitude":-74.84919}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6246"]={"code":"6246","region":"Luzern","city":"Altishofen","latitude":47.19916,"longitude":7.96964}}(window,'GeoPostal','CH');

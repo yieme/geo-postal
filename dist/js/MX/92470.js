@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92470"]={"code":"92470","region":"Veracruz de Ignacio de la Llave","city":"Tamalin","latitude":21.35,"longitude":-97.8}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6262"]={"code":"6262","region":"Western Australia","city":"Northcliffe","latitude":-34.63289,"longitude":116.12236}}(window,'GeoPostal','AU');

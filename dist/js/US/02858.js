@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02858"]={"code":"02858","region":"RI","city":"Oakland","latitude":41.9573,"longitude":-71.6478}}(window,'GeoPostal','US');

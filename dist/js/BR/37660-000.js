@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37660-000"]={"code":"37660-000","region":"Minas Gerais","city":"Paraisopolis","latitude":-22.55417,"longitude":-45.78}}(window,'GeoPostal','BR');

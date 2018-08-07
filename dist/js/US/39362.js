@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39362"]={"code":"39362","region":"Mississippi","city":"State Line","latitude":31.43778,"longitude":-88.47611}}(window,'GeoPostal','US');

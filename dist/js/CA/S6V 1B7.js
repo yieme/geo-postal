@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S6V 1B7"]={"code":"S6V 1B7","region":"Saskatchewan","city":"Prince Albert","latitude":53.202084,"longitude":-105.751313}}(window,'GeoPostal','CA');

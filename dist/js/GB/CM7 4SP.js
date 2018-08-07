@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM7 4SP"]={"code":"CM7 4SP","region":"England","city":"Great Bardfield","latitude":51.94813,"longitude":0.43645}}(window,'GeoPostal','GB');

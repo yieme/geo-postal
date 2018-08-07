@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68640"]={"code":"68640","region":"NE","city":"Genoa","latitude":41.4468,"longitude":-97.764}}(window,'GeoPostal','US');

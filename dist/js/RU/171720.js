@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171720"]={"code":"171720","region":"Tverskaya oblast'","city":"Ves'yegonsk","latitude":58.66398,"longitude":37.2604}}(window,'GeoPostal','RU');

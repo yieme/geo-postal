@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE13 4NL"]={"code":"PE13 4NL","region":"England","city":"Gorfield","latitude":52.68715,"longitude":0.09527}}(window,'GeoPostal','GB');

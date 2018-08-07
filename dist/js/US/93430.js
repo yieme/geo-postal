@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93430"]={"code":"93430","region":"CA","city":"Cayucos","latitude":35.4446,"longitude":-120.8908}}(window,'GeoPostal','US');

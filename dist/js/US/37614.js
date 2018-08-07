@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37614"]={"code":"37614","region":"Tennessee","city":"Johnson City","latitude":36.3314,"longitude":-82.368724}}(window,'GeoPostal','US');

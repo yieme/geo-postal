@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06249"]={"code":"06249","region":"CT","city":"Lebanon","latitude":41.633,"longitude":-72.244}}(window,'GeoPostal','US');

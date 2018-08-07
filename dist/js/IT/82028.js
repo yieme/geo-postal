@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82028"]={"code":"82028","region":"Campania","city":"San Bartolomeo in Galdo","latitude":41.41643,"longitude":15.01744}}(window,'GeoPostal','IT');

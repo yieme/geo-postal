@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16640"]={"code":"16640","region":"Castilla-La Mancha","city":"Belmonte","latitude":39.55746,"longitude":-2.70461}}(window,'GeoPostal','ES');

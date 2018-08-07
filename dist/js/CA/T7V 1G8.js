@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7V 1G8"]={"code":"T7V 1G8","region":"Alberta","city":"Hinton","latitude":53.418903,"longitude":-117.560301}}(window,'GeoPostal','CA');

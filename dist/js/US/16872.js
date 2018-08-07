@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16872"]={"code":"16872","region":"Pennsylvania","city":"Rebersburg","latitude":40.952761,"longitude":-77.402399}}(window,'GeoPostal','US');

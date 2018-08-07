@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-208"]={"code":"18-208","region":"Podlaskie","city":"Rutki-Kossaki","latitude":53.08932,"longitude":22.44011}}(window,'GeoPostal','PL');

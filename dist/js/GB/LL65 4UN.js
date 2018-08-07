@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL65 4UN"]={"code":"LL65 4UN","region":"Wales","city":"Llanfachraeth","latitude":53.31206,"longitude":-4.53092}}(window,'GeoPostal','GB');

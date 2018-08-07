@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02045"]={"code":"02045","region":"MA","city":"Hull","latitude":42.2853,"longitude":-70.8754}}(window,'GeoPostal','US');

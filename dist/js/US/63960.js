@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63960"]={"code":"63960","region":"MO","city":"Puxico","latitude":36.9422,"longitude":-90.1623}}(window,'GeoPostal','US');

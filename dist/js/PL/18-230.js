@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-230"]={"code":"18-230","region":"Podlaskie","city":"Ciechanowiec","latitude":52.67828,"longitude":22.49815}}(window,'GeoPostal','PL');

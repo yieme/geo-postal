@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676730"]={"code":"676730","region":"Amurskaya oblast'","city":"Talakan","latitude":50.31667,"longitude":130.36667}}(window,'GeoPostal','RU');

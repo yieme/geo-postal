@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70113"]={"code":"70113","region":"Kalimantan Selatan","city":"Banjarmasin","latitude":-3.32442,"longitude":114.591}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65380"]={"code":"65380","region":"Nouvelle-Aquitaine","city":"Pontacq","latitude":43.18333,"longitude":-0.11667}}(window,'GeoPostal','FR');

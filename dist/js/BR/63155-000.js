@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63155-000"]={"code":"63155-000","region":"Ceara","city":"Campos Sales","latitude":-7.07444,"longitude":-40.37611}}(window,'GeoPostal','BR');

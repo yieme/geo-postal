@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13840"]={"code":"13840","region":"NY","city":"Smithboro","latitude":42.0395,"longitude":-76.4004}}(window,'GeoPostal','US');

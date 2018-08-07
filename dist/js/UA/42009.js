@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42009"]={"code":"42009","region":"Sumska oblast","city":"Romny","latitude":50.75104,"longitude":33.47471}}(window,'GeoPostal','UA');

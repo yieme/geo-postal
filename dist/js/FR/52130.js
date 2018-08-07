@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52130"]={"code":"52130","region":"Grand-Est","city":"Wassy","latitude":48.49811,"longitude":4.94775}}(window,'GeoPostal','FR');

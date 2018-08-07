@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95663"]={"code":"95663","region":"CA","city":"Penryn","latitude":38.8567,"longitude":-121.1791}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80444"]={"code":"80444","region":"Colorado","city":"Georgetown","latitude":39.7061,"longitude":-105.6975}}(window,'GeoPostal','US');

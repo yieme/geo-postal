@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33870"]={"code":"33870","region":"Nouvelle-Aquitaine","city":"Vayres","latitude":44.9,"longitude":-0.31667}}(window,'GeoPostal','FR');

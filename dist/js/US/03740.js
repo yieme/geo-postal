@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03740"]={"code":"03740","region":"NH","city":"Bath","latitude":44.1808,"longitude":-71.9828}}(window,'GeoPostal','US');

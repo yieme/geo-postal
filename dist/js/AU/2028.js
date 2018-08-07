@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2028"]={"code":"2028","region":"New South Wales","city":"Double Bay","latitude":-33.87782,"longitude":151.24354}}(window,'GeoPostal','AU');

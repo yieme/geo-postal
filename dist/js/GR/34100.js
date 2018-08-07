@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34100"]={"code":"34100","region":"Sterea Ellada","city":"Chalkida","latitude":38.46361,"longitude":23.59944}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["213115"]={"code":"213115","region":"Hunan","city":"Sanhekou","latitude":29.62674,"longitude":110.82416}}(window,'GeoPostal','CN');

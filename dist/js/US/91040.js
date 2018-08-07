@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91040"]={"code":"91040","region":"CA","city":"Sunland","latitude":34.2618,"longitude":-118.3371}}(window,'GeoPostal','US');

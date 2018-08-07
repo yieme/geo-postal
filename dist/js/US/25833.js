@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25833"]={"code":"25833","region":"WV","city":"Dothan","latitude":38.0413,"longitude":-81.0648}}(window,'GeoPostal','US');

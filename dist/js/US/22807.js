@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22807"]={"code":"22807","region":"Virginia","city":"Harrisonburg","latitude":38.436724,"longitude":-78.873976}}(window,'GeoPostal','US');

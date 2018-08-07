@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN21 3DF"]={"code":"DN21 3DF","region":"England","city":"Walkerith","latitude":53.42743,"longitude":-0.81645}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 1220"]={"code":"HT 1220","region":"Nord","city":"Plaine du Nord","latitude":19.68333,"longitude":-72.26667}}(window,'GeoPostal','HT');

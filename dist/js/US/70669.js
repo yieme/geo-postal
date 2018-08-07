@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70669"]={"code":"70669","region":"LA","city":"Westlake","latitude":30.2613,"longitude":-93.2688}}(window,'GeoPostal','US');

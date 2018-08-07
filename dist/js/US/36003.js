@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36003"]={"code":"36003","region":"Alabama","city":"Autaugaville","latitude":32.45868,"longitude":-86.71458}}(window,'GeoPostal','US');

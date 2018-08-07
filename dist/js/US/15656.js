@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15656"]={"code":"15656","region":"PA","city":"Leechburg","latitude":40.6344,"longitude":-79.6201}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4123"]={"code":"4123","region":"Queensland","city":"Rochedale","latitude":-27.56667,"longitude":153.13333}}(window,'GeoPostal','AU');

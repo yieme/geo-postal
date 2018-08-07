@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629200"]={"code":"629200","region":"Sichuan","city":"Taihe","latitude":30.87123,"longitude":105.38454}}(window,'GeoPostal','CN');

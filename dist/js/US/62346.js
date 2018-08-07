@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62346"]={"code":"62346","region":"IL","city":"La Prairie","latitude":40.1572,"longitude":-90.9844}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39116"]={"code":"39116","region":"Mississippi","city":"Mize","latitude":31.850003,"longitude":-89.566148}}(window,'GeoPostal','US');

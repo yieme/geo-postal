@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3976"]={"code":"3976","region":"Victoria","city":"Hampton Park","latitude":-38.03333,"longitude":145.25}}(window,'GeoPostal','AU');

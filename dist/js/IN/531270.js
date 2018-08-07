@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["531270"]={"code":"531270","region":"Andhra Pradesh","city":"Bhimunipatnam","latitude":17.88333,"longitude":83.43333}}(window,'GeoPostal','IN');

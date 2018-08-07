@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18911"]={"code":"18911","region":"PA","city":"Blooming Glen","latitude":40.3695,"longitude":-75.2482}}(window,'GeoPostal','US');

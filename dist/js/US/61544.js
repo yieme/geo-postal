@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61544"]={"code":"61544","region":"IL","city":"London Mills","latitude":40.695,"longitude":-90.2616}}(window,'GeoPostal','US');

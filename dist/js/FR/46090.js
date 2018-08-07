@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46090"]={"code":"46090","region":"Occitanie","city":"Pradines","latitude":44.48341,"longitude":1.40105}}(window,'GeoPostal','FR');

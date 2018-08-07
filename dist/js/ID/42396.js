@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42396"]={"code":"42396","region":"Banten","city":"Jatiraya","latitude":-6.80823,"longitude":106.01761}}(window,'GeoPostal','ID');

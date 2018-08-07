@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95389"]={"code":"95389","region":"California","city":"Yosemite National Park","latitude":37.745203,"longitude":-119.598221}}(window,'GeoPostal','US');

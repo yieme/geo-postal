@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53925"]={"code":"53925","region":"Nordrhein-Westfalen","city":"Roder","latitude":50.46486,"longitude":6.53153}}(window,'GeoPostal','DE');

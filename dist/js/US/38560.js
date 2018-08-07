@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38560"]={"code":"38560","region":"TN","city":"Elmwood","latitude":36.2355,"longitude":-85.8808}}(window,'GeoPostal','US');

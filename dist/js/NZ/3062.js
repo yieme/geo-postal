@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3062"]={"code":"3062","region":"Bay of Plenty","city":"Murupara","latitude":-38.46667,"longitude":176.7}}(window,'GeoPostal','NZ');

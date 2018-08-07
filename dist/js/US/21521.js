@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21521"]={"code":"21521","region":"MD","city":"Barton","latitude":39.5331,"longitude":-79.0281}}(window,'GeoPostal','US');

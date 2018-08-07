@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717410"]={"code":"717410","region":"Botosani","city":"Tudora","latitude":47.51667,"longitude":26.63333}}(window,'GeoPostal','RO');

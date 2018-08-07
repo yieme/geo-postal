@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04011"]={"code":"04011","region":"Maine","city":"Brunswick","latitude":43.91452,"longitude":-69.96533}}(window,'GeoPostal','US');

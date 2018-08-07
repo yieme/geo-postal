@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6140"]={"code":"6140","region":"Cordoba","city":"Vicuna Mackenna","latitude":-33.91965,"longitude":-64.39215}}(window,'GeoPostal','AR');

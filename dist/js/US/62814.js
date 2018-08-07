@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62814"]={"code":"62814","region":"Illinois","city":"Bluford","latitude":38.3275,"longitude":-88.73556}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 1V0"]={"code":"R0A 1V0","region":"Manitoba","city":"St-Pierre-Jolys","latitude":49.44029,"longitude":-96.98504}}(window,'GeoPostal','CA');

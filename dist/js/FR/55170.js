@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55170"]={"code":"55170","region":"Grand-Est","city":"Ancerville","latitude":48.63574,"longitude":5.02091}}(window,'GeoPostal','FR');

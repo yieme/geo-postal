@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5847"]={"code":"5847","region":"Cordoba","city":"Coronel Moldes","latitude":-33.6227,"longitude":-64.59711}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71468"]={"code":"71468","region":"LA","city":"Provencal","latitude":31.5157,"longitude":-93.1488}}(window,'GeoPostal','US');

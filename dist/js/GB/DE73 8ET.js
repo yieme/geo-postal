@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE73 8ET"]={"code":"DE73 8ET","region":"England","city":"Melbourne","latitude":52.8219,"longitude":-1.42522}}(window,'GeoPostal','GB');

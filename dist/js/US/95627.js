@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95627"]={"code":"95627","region":"California","city":"Esparto","latitude":38.6932,"longitude":-122.016804}}(window,'GeoPostal','US');

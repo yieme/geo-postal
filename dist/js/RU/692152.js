@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692152"]={"code":"692152","region":"Primorskiy kray","city":"Plastun","latitude":44.75611,"longitude":136.29389}}(window,'GeoPostal','RU');

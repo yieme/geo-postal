@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673410"]={"code":"673410","region":"Zabaykal'skiy kray","city":"Priiskovyy","latitude":51.93333,"longitude":116.63333}}(window,'GeoPostal','RU');

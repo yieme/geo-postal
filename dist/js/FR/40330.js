@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40330"]={"code":"40330","region":"Nouvelle-Aquitaine","city":"Amou","latitude":43.59258,"longitude":-0.74676}}(window,'GeoPostal','FR');

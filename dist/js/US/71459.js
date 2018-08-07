@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71459"]={"code":"71459","region":"Louisiana","city":"Fort Polk","latitude":30.99582,"longitude":-93.2469}}(window,'GeoPostal','US');

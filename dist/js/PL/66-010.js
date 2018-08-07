@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-010"]={"code":"66-010","region":"Lubuskie","city":"Nowogrod Bobrzanski","latitude":51.79856,"longitude":15.2352}}(window,'GeoPostal','PL');

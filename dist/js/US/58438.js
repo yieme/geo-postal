@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58438"]={"code":"58438","region":"North Dakota","city":"Fessenden","latitude":47.64917,"longitude":-99.62929}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46410"]={"code":"46410","region":"Kayseri","city":"Incesu","latitude":38.6224,"longitude":35.18261}}(window,'GeoPostal','TR');

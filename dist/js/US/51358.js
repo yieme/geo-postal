@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51358"]={"code":"51358","region":"Iowa","city":"Ruthven","latitude":43.130246,"longitude":-94.899472}}(window,'GeoPostal','US');

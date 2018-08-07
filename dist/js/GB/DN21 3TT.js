@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN21 3TT"]={"code":"DN21 3TT","region":"England","city":"Scotter","latitude":53.49652,"longitude":-0.67429}}(window,'GeoPostal','GB');

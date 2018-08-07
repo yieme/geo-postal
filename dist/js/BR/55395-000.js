@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55395-000"]={"code":"55395-000","region":"Pernambuco","city":"Jupi","latitude":-8.716667,"longitude":-36.416667}}(window,'GeoPostal','BR');

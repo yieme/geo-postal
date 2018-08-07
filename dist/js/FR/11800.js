@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11800"]={"code":"11800","region":"Occitanie","city":"Trebes","latitude":43.21064,"longitude":2.44165}}(window,'GeoPostal','FR');

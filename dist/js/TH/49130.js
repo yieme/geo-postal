@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49130"]={"code":"49130","region":"Mukdahan","city":"Nikhom Kham Soi","latitude":16.37167,"longitude":104.55147}}(window,'GeoPostal','TH');

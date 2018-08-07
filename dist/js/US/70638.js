@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70638"]={"code":"70638","region":"Louisiana","city":"Elizabeth","latitude":30.8675,"longitude":-92.79444}}(window,'GeoPostal','US');

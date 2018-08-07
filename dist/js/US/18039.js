@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18039"]={"code":"18039","region":"PA","city":"Durham","latitude":40.5757,"longitude":-75.2232}}(window,'GeoPostal','US');

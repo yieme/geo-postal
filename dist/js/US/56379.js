@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56379"]={"code":"56379","region":"MN","city":"Sauk Rapids","latitude":45.604,"longitude":-94.1591}}(window,'GeoPostal','US');

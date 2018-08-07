@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S3N 4A4"]={"code":"S3N 4A4","region":"Saskatchewan","city":"Calley","latitude":51.2,"longitude":-102.40095}}(window,'GeoPostal','CA');

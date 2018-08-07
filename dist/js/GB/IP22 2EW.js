@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP22 2EW"]={"code":"IP22 2EW","region":"England","city":"Winfarthing","latitude":52.43056,"longitude":1.0979}}(window,'GeoPostal','GB');

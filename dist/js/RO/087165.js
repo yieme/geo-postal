@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087165"]={"code":"087165","region":"Giurgiu","city":"Mihai Bravu","latitude":44.14056,"longitude":26.06278}}(window,'GeoPostal','RO');

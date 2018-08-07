@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30174"]={"code":"30174","region":"Georgia","city":"Suwanee","latitude":34.0554,"longitude":-84.0803}}(window,'GeoPostal','US');

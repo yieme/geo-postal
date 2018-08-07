@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32101"]={"code":"32101","region":"Kanta-Hame","city":"Ypaja","latitude":60.8,"longitude":23.28333}}(window,'GeoPostal','FI');

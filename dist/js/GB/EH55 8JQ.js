@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH55 8JQ"]={"code":"EH55 8JQ","region":"Scotland","city":"Crofthead","latitude":55.81667,"longitude":-3.66667}}(window,'GeoPostal','GB');

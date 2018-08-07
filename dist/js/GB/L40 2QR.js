@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L40 2QR"]={"code":"L40 2QR","region":"England","city":"Mawdesley","latitude":53.62861,"longitude":-2.76796}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS12 2EN"]={"code":"LS12 2EN","region":"Scotland","city":"Farnell","latitude":56.68973,"longitude":-2.61219}}(window,'GeoPostal','GB');

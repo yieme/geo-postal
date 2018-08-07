@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92539"]={"code":"92539","region":"Bayern","city":"Schonsee","latitude":49.5103,"longitude":12.54763}}(window,'GeoPostal','DE');

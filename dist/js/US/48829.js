@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48829"]={"code":"48829","region":"MI","city":"Edmore","latitude":43.4116,"longitude":-85.028}}(window,'GeoPostal','US');

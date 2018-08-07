@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3310"]={"code":"3310","region":"Victoria","city":"Merino","latitude":-37.72046,"longitude":141.54826}}(window,'GeoPostal','AU');

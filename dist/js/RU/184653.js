@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184653"]={"code":"184653","region":"Murmanskaya oblast'","city":"Snezhnogorsk","latitude":69.19333,"longitude":33.25314}}(window,'GeoPostal','RU');

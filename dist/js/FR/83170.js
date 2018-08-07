@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83170"]={"code":"83170","region":"Provence-Alpes-Cote d'Azur","city":"La Celle","latitude":43.39391,"longitude":6.03484}}(window,'GeoPostal','FR');

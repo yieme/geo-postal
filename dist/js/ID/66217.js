@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66217"]={"code":"66217","region":"Jawa Timur","city":"Sumberkemuning","latitude":-8.0014,"longitude":113.8351}}(window,'GeoPostal','ID');

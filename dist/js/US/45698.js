@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45698"]={"code":"45698","region":"OH","city":"Zaleski","latitude":39.283,"longitude":-82.3977}}(window,'GeoPostal','US');

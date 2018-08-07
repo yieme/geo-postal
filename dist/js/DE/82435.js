@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82435"]={"code":"82435","region":"Bayern","city":"Bayersoien","latitude":47.69189,"longitude":10.99365}}(window,'GeoPostal','DE');

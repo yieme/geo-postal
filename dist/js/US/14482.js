@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14482"]={"code":"14482","region":"New York","city":"Le Roy","latitude":42.96432,"longitude":-77.9808}}(window,'GeoPostal','US');

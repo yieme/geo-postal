@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413835"]={"code":"413835","region":"Saratovskaya oblast'","city":"Kormezhka","latitude":51.9005,"longitude":48.0163}}(window,'GeoPostal','RU');

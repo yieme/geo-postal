@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42724"]={"code":"42724","region":"KY","city":"Cecilia","latitude":37.669,"longitude":-86.0545}}(window,'GeoPostal','US');

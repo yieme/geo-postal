@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57661"]={"code":"57661","region":"South Dakota","city":"Whitehorse","latitude":45.270556,"longitude":-100.886111}}(window,'GeoPostal','US');

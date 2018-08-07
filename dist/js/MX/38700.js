@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38700"]={"code":"38700","region":"Guanajuato","city":"Tarimoro","latitude":20.28333,"longitude":-100.75}}(window,'GeoPostal','MX');

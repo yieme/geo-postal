@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["349 61"]={"code":"349 61","region":"Plzensky kraj","city":"Kladruby","latitude":49.7153,"longitude":12.97991}}(window,'GeoPostal','CZ');

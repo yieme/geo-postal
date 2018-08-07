@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["BM"]={'HM HX':{r:'Hamilton',c:'Hamilton'}, HM11:'HM HX', 'HM 11':'HM HX', 'HM NX':'HM HX', 'HM 12':'HM HX', HM12:'HM HX', 'GE 05':{r:'Saint George',c:'Saint George'}, HM09: {r:'Hamilton',c:'Hamilton'}, HM08:'HM09', HMJX:'HM09', 'HM GX':'HM09'};

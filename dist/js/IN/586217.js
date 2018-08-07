@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["586217"]={"code":"586217","region":"Karnataka","city":"Indi","latitude":17.16667,"longitude":75.96667}}(window,'GeoPostal','IN');

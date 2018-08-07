@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59010"]={"code":"59010","region":"Sanliurfa","city":"Pekmezli","latitude":36.75361,"longitude":39.45}}(window,'GeoPostal','TR');

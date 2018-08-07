@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA30 9AD"]={"code":"KA30 9AD","region":"Scotland","city":"Largs","latitude":55.79629,"longitude":-4.86337}}(window,'GeoPostal','GB');

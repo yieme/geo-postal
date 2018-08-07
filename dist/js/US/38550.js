@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38550"]={"code":"38550","region":"Tennessee","city":"Campaign","latitude":35.710471,"longitude":-85.603806}}(window,'GeoPostal','US');

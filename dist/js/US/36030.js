@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36030"]={"code":"36030","region":"Alabama","city":"Forest Home","latitude":31.876035,"longitude":-86.794445}}(window,'GeoPostal','US');

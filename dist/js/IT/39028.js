@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39028"]={"code":"39028","region":"Trentino-Alto Adige","city":"Silandro","latitude":46.62842,"longitude":10.77116}}(window,'GeoPostal','IT');

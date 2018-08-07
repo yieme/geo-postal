@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71530"]={"code":"71530","region":"Bourgogne-Franche-Comte","city":"Crissey","latitude":46.81652,"longitude":4.88185}}(window,'GeoPostal','FR');

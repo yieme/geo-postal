@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91901"]={"code":"91901","region":"California","city":"Alpine","latitude":32.8288,"longitude":-116.7554}}(window,'GeoPostal','US');

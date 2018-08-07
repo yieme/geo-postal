@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4321"]={"code":"4321","region":"Santiago del Estero","city":"Los Telares","latitude":-28.98479,"longitude":-63.44889}}(window,'GeoPostal','AR');

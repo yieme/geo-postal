@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62252"]={"code":"62252","region":"IL","city":"Huey","latitude":38.6018,"longitude":-89.2915}}(window,'GeoPostal','US');

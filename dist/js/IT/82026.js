@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82026"]={"code":"82026","region":"Campania","city":"Morcone","latitude":41.34312,"longitude":14.66763}}(window,'GeoPostal','IT');

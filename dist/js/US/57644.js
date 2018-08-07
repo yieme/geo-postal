@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57644"]={"code":"57644","region":"SD","city":"Meadow","latitude":45.3538,"longitude":-102.2844}}(window,'GeoPostal','US');

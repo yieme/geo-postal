@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95991"]={"code":"95991","region":"California","city":"Yuba City","latitude":39.14045,"longitude":-121.61691}}(window,'GeoPostal','US');

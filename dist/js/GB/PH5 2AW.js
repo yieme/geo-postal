@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH5 2AW"]={"code":"PH5 2AW","region":"Scotland","city":"Muthill","latitude":56.33206,"longitude":-3.83291}}(window,'GeoPostal','GB');

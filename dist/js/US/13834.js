@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13834"]={"code":"13834","region":"NY","city":"Portlandville","latitude":42.5304,"longitude":-74.9671}}(window,'GeoPostal','US');

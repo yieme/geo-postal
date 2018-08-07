@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP11 6NR"]={"code":"SP11 6NR","region":"England","city":"Forton","latitude":51.18333,"longitude":-1.4}}(window,'GeoPostal','GB');

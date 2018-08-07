@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47430"]={"code":"47430","region":"IN","city":"Fort Ritner","latitude":38.77,"longitude":-86.28}}(window,'GeoPostal','US');

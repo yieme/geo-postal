@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71250"]={"code":"71250","region":"Federacija Bosne i Hercegovine","city":"Kiseljak","latitude":43.9425,"longitude":18.07667}}(window,'GeoPostal','BA');

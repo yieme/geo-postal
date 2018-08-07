@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8670"]={"code":"8670","region":"Midtjylland","city":"Galten","latitude":56.15902,"longitude":9.91691}}(window,'GeoPostal','DK');

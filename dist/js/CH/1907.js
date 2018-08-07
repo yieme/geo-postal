@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1907"]={"code":"1907","region":"Valais","city":"Saxon","latitude":46.15005,"longitude":7.18074}}(window,'GeoPostal','CH');

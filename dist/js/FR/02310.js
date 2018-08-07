@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02310"]={"code":"02310","region":"Hauts-de-France","city":"Charly-sur-Marne","latitude":48.97749,"longitude":3.28464}}(window,'GeoPostal','FR');

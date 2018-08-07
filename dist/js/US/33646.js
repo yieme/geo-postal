@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33646"]={"code":"33646","region":"Florida","city":"Tampa","latitude":28.094,"longitude":-82.4021}}(window,'GeoPostal','US');

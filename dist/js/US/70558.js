@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70558"]={"code":"70558","region":"LA","city":"Milton","latitude":30.1038,"longitude":-92.0765}}(window,'GeoPostal','US');

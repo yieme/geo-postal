@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49630"]={"code":"49630","region":"Castilla y Leon","city":"Villalpando","latitude":41.86517,"longitude":-5.41231}}(window,'GeoPostal','ES');

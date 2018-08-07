@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04650"]={"code":"04650","region":"Maine","city":"Little Deer Isle","latitude":44.28639,"longitude":-68.69583}}(window,'GeoPostal','US');

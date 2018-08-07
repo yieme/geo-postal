@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Z 3R0"]={"code":"J0Z 3R0","region":"Quebec","city":"Temiscaming","latitude":46.72122,"longitude":-79.09712}}(window,'GeoPostal','CA');

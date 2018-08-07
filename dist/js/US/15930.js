@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15930"]={"code":"15930","region":"PA","city":"Dunlo","latitude":40.2939,"longitude":-78.7192}}(window,'GeoPostal','US');

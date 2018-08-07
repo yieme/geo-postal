@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53955"]={"code":"53955","region":"WI","city":"Poynette","latitude":43.4013,"longitude":-89.4189}}(window,'GeoPostal','US');

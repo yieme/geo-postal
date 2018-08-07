@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36580"]={"code":"36580","region":"AL","city":"Summerdale","latitude":30.4752,"longitude":-87.6992}}(window,'GeoPostal','US');

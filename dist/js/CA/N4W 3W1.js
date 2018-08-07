@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N4W 3W1"]={"code":"N4W 3W1","region":"Ontario","city":"North Perth","latitude":43.7251,"longitude":-80.96723}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63736"]={"code":"63736","region":"MO","city":"Benton","latitude":37.0697,"longitude":-89.5664}}(window,'GeoPostal','US');

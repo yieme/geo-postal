@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64630"]={"code":"64630","region":"MO","city":"Browning","latitude":40.029,"longitude":-93.1607}}(window,'GeoPostal','US');

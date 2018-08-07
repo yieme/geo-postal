@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SPB 2841"]={"code":"SPB 2841","region":"Saint Paul's Bay","city":"San Pawl il-Bahar","latitude":35.95064,"longitude":14.41561}}(window,'GeoPostal','MT');

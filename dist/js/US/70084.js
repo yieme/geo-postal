@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70084"]={"code":"70084","region":"Louisiana","city":"Reserve","latitude":30.0693,"longitude":-90.5568}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12220"]={"code":"12220","region":"Occitanie","city":"Montbazens","latitude":44.47807,"longitude":2.2298}}(window,'GeoPostal','FR');

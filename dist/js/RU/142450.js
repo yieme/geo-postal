@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142450"]={"code":"142450","region":"Moskovskaya oblast'","city":"Staraya Kupavna","latitude":55.80799,"longitude":38.1805}}(window,'GeoPostal','RU');

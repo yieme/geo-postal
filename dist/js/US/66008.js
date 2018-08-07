@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66008"]={"code":"66008","region":"KS","city":"Bendena","latitude":39.7174,"longitude":-95.1765}}(window,'GeoPostal','US');

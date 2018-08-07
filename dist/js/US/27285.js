@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27285"]={"code":"27285","region":"NC","city":"Kernersville","latitude":36.1199,"longitude":-80.0737}}(window,'GeoPostal','US');

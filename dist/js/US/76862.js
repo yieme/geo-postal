@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76862"]={"code":"76862","region":"TX","city":"Millersview","latitude":31.4167,"longitude":-99.7171}}(window,'GeoPostal','US');

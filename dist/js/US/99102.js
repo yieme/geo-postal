@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99102"]={"code":"99102","region":"WA","city":"Albion","latitude":46.792,"longitude":-117.2503}}(window,'GeoPostal','US');

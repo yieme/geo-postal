@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184152"]={"code":"184152","region":"Jammu and Kashmir","city":"Hiranagar","latitude":32.45,"longitude":75.26667}}(window,'GeoPostal','IN');

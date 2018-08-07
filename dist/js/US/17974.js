@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17974"]={"code":"17974","region":"PA","city":"Seltzer","latitude":40.6954,"longitude":-76.2338}}(window,'GeoPostal','US');

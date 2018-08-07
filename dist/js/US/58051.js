@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58051"]={"code":"58051","region":"ND","city":"Kindred","latitude":46.6543,"longitude":-97.0049}}(window,'GeoPostal','US');

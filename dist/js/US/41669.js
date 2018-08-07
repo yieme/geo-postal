@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41669"]={"code":"41669","region":"KY","city":"Wheelwright","latitude":37.3314,"longitude":-82.7156}}(window,'GeoPostal','US');

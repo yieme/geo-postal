@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38626"]={"code":"38626","region":"MS","city":"Dundee","latitude":34.5357,"longitude":-90.3693}}(window,'GeoPostal','US');

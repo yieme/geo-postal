@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59871"]={"code":"59871","region":"MT","city":"Sula","latitude":45.8433,"longitude":-113.8748}}(window,'GeoPostal','US');

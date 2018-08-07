@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90018"]={"code":"90018","region":"Telsiu apskritis","city":"Rietavas","latitude":55.71944,"longitude":21.93111}}(window,'GeoPostal','LT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45203"]={"code":"45203","region":"Bagmati","city":"Panaoti","latitude":27.58138,"longitude":85.5124}}(window,'GeoPostal','NP');

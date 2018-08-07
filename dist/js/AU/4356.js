@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4356"]={"code":"4356","region":"Queensland","city":"Pittsworth","latitude":-27.71638,"longitude":151.63399}}(window,'GeoPostal','AU');

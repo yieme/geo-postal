@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB55 5HY"]={"code":"AB55 5HY","region":"Scotland","city":"Auchindachy","latitude":57.5,"longitude":-3}}(window,'GeoPostal','GB');

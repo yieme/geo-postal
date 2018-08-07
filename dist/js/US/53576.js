@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53576"]={"code":"53576","region":"Wisconsin","city":"Orfordville","latitude":42.624098,"longitude":-89.243387}}(window,'GeoPostal','US');

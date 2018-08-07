@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72469"]={"code":"72469","region":"AR","city":"Strawberry","latitude":35.9673,"longitude":-91.2935}}(window,'GeoPostal','US');

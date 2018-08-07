@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6330"]={"code":"6330","region":"Western Australia","city":"Emu Point","latitude":-34.99833,"longitude":117.93806}}(window,'GeoPostal','AU');

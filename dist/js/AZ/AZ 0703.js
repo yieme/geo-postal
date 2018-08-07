@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0703"]={"code":"AZ 0703","region":"Astara","city":"Astara","latitude":38.45598,"longitude":48.87498}}(window,'GeoPostal','AZ');

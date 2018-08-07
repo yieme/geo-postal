@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30806"]={"code":"30806","region":"Georgia","city":"Boneville","latitude":33.527853,"longitude":-82.514448}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH20 7LD"]={"code":"BH20 7LD","region":"England","city":"Bere Regis","latitude":50.75371,"longitude":-2.21553}}(window,'GeoPostal','GB');

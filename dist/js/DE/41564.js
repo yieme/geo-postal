@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41564"]={"code":"41564","region":"Nordrhein-Westfalen","city":"Kaarst","latitude":51.22929,"longitude":6.61882}}(window,'GeoPostal','DE');

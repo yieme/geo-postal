@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01525"]={"code":"01525","region":"MA","city":"Linwood","latitude":42.0973,"longitude":-71.6448}}(window,'GeoPostal','US');

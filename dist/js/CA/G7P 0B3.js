@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G7P 0B3"]={"code":"G7P 0B3","region":"Quebec","city":"Jonquiere","latitude":48.41648,"longitude":-71.24884}}(window,'GeoPostal','CA');

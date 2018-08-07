@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4070"]={"code":"4070","region":"Queensland","city":"Moggill","latitude":-27.58333,"longitude":152.86667}}(window,'GeoPostal','AU');

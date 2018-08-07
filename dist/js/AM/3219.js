@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3219"]={"code":"3219","region":"Syunik'","city":"Tegh","latitude":39.55792,"longitude":46.47723}}(window,'GeoPostal','AM');

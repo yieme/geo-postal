@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04027"]={"code":"04027","region":"ME","city":"Lebanon","latitude":43.4597,"longitude":-70.9152}}(window,'GeoPostal','US');

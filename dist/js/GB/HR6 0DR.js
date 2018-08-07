@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR6 0DR"]={"code":"HR6 0DR","region":"England","city":"Eye","latitude":52.26667,"longitude":-2.73333}}(window,'GeoPostal','GB');

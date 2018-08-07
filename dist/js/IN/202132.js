@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202132"]={"code":"202132","region":"Uttar Pradesh","city":"Jahangirpur","latitude":28.18333,"longitude":77.71667}}(window,'GeoPostal','IN');

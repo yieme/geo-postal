@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84062"]={"code":"84062","region":"Utah","city":"Pleasant Grove","latitude":40.36412,"longitude":-111.73854}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["269 02"]={"code":"269 02","region":"Stredocesky kraj","city":"Rakovnik","latitude":50.1037,"longitude":13.7334}}(window,'GeoPostal','CZ');

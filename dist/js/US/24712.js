@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24712"]={"code":"24712","region":"West Virginia","city":"Athens","latitude":37.455944,"longitude":-80.995019}}(window,'GeoPostal','US');

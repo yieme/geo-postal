@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26378"]={"code":"26378","region":"WV","city":"Jane Lew","latitude":39.11,"longitude":-80.4311}}(window,'GeoPostal','US');

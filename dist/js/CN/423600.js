@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423600"]={"code":"423600","region":"Hunan","city":"Anren","latitude":26.6863,"longitude":113.28037}}(window,'GeoPostal','CN');

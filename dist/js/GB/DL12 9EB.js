@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL12 9EB"]={"code":"DL12 9EB","region":"England","city":"Romaldkirk","latitude":54.5944,"longitude":-2.01058}}(window,'GeoPostal','GB');

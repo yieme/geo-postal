@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95938"]={"code":"95938","region":"California","city":"Durham","latitude":39.64143,"longitude":-121.785294}}(window,'GeoPostal','US');

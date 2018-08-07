@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5270"]={"code":"5270","region":"Ajdovscina","city":"Ajdovscina","latitude":45.88601,"longitude":13.90946}}(window,'GeoPostal','SI');

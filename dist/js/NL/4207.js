@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4207"]={"code":"4207","region":"Zuid-Holland","city":"Gorinchem","latitude":51.83652,"longitude":4.97243}}(window,'GeoPostal','NL');

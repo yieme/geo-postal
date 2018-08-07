@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA21 4AZ"]={"code":"BA21 4AZ","region":"England","city":"Yeovil","latitude":50.94159,"longitude":-2.63211}}(window,'GeoPostal','GB');

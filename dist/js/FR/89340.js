@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89340"]={"code":"89340","region":"Bourgogne-Franche-Comte","city":"Villeblevin","latitude":48.32446,"longitude":3.08038}}(window,'GeoPostal','FR');

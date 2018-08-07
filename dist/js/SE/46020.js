@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46020"]={"code":"46020","region":"Vastra Gotalands lan","city":"Sjuntorp","latitude":58.2,"longitude":12.21667}}(window,'GeoPostal','SE');

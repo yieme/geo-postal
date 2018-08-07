@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82130"]={"code":"82130","region":"Occitanie","city":"Lafrancaise","latitude":44.12791,"longitude":1.24141}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3260"]={"code":"3260","region":"Victoria","city":"Camperdown","latitude":-38.23392,"longitude":143.14983}}(window,'GeoPostal','AU');

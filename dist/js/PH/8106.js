@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8106"]={"code":"8106","region":"Davao del Sur","city":"Nabunturan","latitude":7.60778,"longitude":125.96639}}(window,'GeoPostal','PH');

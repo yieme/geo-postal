@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20812"]={"code":"20812","region":"MD","city":"Glen Echo","latitude":38.9693,"longitude":-77.1435}}(window,'GeoPostal','US');

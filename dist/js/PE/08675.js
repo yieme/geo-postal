@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08675"]={"code":"08675","region":"Cusco","city":"Ollantaytambo","latitude":-13.25722,"longitude":-72.26306}}(window,'GeoPostal','PE');

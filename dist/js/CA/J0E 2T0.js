@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0E 2T0"]={"code":"J0E 2T0","region":"Quebec","city":"Bolton-Ouest","latitude":45.23338,"longitude":-72.44911}}(window,'GeoPostal','CA');

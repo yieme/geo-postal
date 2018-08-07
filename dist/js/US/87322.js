@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87322"]={"code":"87322","region":"NM","city":"Rehoboth","latitude":35.5289,"longitude":-108.6548}}(window,'GeoPostal','US');

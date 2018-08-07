@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30880"]={"code":"30880","region":"Murcia, Region de","city":"Aguilas","latitude":37.4063,"longitude":-1.58289}}(window,'GeoPostal','ES');

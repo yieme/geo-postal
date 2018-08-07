@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62817"]={"code":"62817","region":"Illinois","city":"Broughton","latitude":37.93417,"longitude":-88.46306}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31007"]={"code":"31007","region":"GA","city":"Byromville","latitude":32.189,"longitude":-83.9332}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61953"]={"code":"61953","region":"IL","city":"Tuscola","latitude":39.7995,"longitude":-88.2816}}(window,'GeoPostal','US');

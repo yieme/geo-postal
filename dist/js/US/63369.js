@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63369"]={"code":"63369","region":"MO","city":"Old Monroe","latitude":38.9346,"longitude":-90.7782}}(window,'GeoPostal','US');

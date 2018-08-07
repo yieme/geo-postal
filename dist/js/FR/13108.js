@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13108"]={"code":"13108","region":"Nouvelle-Aquitaine","city":"Saint-Paul","latitude":45.75114,"longitude":1.43238}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-141"]={"code":"59-141","region":"Dolnoslaskie","city":"Chocianow","latitude":51.41867,"longitude":15.90172}}(window,'GeoPostal','PL');

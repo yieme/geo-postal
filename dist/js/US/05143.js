@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05143"]={"code":"05143","region":"Vermont","city":"Chester","latitude":43.279407,"longitude":-72.575483}}(window,'GeoPostal','US');

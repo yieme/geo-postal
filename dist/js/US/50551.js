@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50551"]={"code":"50551","region":"IA","city":"Jolley","latitude":42.4871,"longitude":-94.757}}(window,'GeoPostal','US');

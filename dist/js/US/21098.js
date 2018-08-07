@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21098"]={"code":"21098","region":"MD","city":"Hanover","latitude":39.19,"longitude":-76.72}}(window,'GeoPostal','US');

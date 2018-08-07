@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72384"]={"code":"72384","region":"AR","city":"Turrell","latitude":35.3439,"longitude":-90.2978}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35011"]={"code":"35011","region":"Veneto","city":"Campodarsego","latitude":45.5061,"longitude":11.92091}}(window,'GeoPostal','IT');

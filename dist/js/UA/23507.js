@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23507"]={"code":"23507","region":"Vinnytska oblast","city":"Sharhorod","latitude":48.73835,"longitude":28.08497}}(window,'GeoPostal','UA');

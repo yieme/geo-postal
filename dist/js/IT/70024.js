@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70024"]={"code":"70024","region":"Puglia","city":"Gravina in Puglia","latitude":40.81972,"longitude":16.42278}}(window,'GeoPostal','IT');

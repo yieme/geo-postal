@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29846"]={"code":"29846","region":"SC","city":"Sycamore","latitude":33.0241,"longitude":-81.2258}}(window,'GeoPostal','US');

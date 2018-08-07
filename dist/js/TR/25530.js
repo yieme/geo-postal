@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25530"]={"code":"25530","region":"Erzurum","city":"Narman","latitude":40.34653,"longitude":41.87027}}(window,'GeoPostal','TR');

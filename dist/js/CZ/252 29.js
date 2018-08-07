@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 29"]={"code":"252 29","region":"Stredocesky kraj","city":"Dobrichovice","latitude":49.92749,"longitude":14.27469}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37879"]={"code":"37879","region":"Tennessee","city":"Tazewell","latitude":36.45425,"longitude":-83.56935}}(window,'GeoPostal','US');

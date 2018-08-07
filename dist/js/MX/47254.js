@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47254"]={"code":"47254","region":"Jalisco","city":"Tequila","latitude":20.88333,"longitude":-103.83333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29260"]={"code":"29260","region":"South Carolina","city":"Abbeville","latitude":34.02659,"longitude":-80.96543}}(window,'GeoPostal','US');

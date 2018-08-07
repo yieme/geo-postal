@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96943"]={"code":"96943","region":"FM","city":"Yap","latitude":9.5,"longitude":138.14}}(window,'GeoPostal','US');

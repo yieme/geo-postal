@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA17 4QW"]={"code":"CA17 4QW","region":"England","city":"Kirkby Stephen","latitude":54.47229,"longitude":-2.34865}}(window,'GeoPostal','GB');

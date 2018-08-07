@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["462800"]={"code":"462800","region":"Orenburgskaya oblast'","city":"Novoorsk","latitude":51.381,"longitude":58.9813}}(window,'GeoPostal','RU');

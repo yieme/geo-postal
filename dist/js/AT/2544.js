@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2544"]={"code":"2544","region":"Niederosterreich","city":"Leobersdorf","latitude":47.92796,"longitude":16.21651}}(window,'GeoPostal','AT');

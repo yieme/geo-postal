@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EN4 0DR"]={"code":"EN4 0DR","region":"England","city":"Barnet","latitude":51.65,"longitude":-0.2}}(window,'GeoPostal','GB');

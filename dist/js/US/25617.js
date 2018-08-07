@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25617"]={"code":"25617","region":"West Virginia","city":"Davin","latitude":37.713578,"longitude":-81.787373}}(window,'GeoPostal','US');

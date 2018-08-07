@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH8 9DX"]={"code":"CH8 9DX","region":"Wales","city":"Llannerch-y-mor","latitude":53.3,"longitude":-3.23333}}(window,'GeoPostal','GB');

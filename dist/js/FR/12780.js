@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12780"]={"code":"12780","region":"Occitanie","city":"Saint-Leons","latitude":44.2164,"longitude":2.9867}}(window,'GeoPostal','FR');

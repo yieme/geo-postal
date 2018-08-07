@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 4922"]={"code":"AZ 4922","region":"Saatli","city":"Tel'mankend","latitude":39.87867,"longitude":48.39902}}(window,'GeoPostal','AZ');

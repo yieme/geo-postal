@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5680"]={"code":"5680","region":"Namur","city":"Doische","latitude":50.13356,"longitude":4.73545}}(window,'GeoPostal','BE');

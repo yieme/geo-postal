@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98647"]={"code":"98647","region":"Avtonomna Respublika Krym","city":"Nikita","latitude":44.51564,"longitude":34.2384}}(window,'GeoPostal','UA');

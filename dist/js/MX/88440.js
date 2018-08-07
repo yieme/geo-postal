@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88440"]={"code":"88440","region":"Tamaulipas","city":"Camargo","latitude":26.25,"longitude":-98.83333}}(window,'GeoPostal','MX');

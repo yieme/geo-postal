@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17243"]={"code":"17243","region":"PA","city":"Orbisonia","latitude":40.2389,"longitude":-77.9069}}(window,'GeoPostal','US');

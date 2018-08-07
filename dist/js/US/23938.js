@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23938"]={"code":"23938","region":"VA","city":"Dundas","latitude":36.9053,"longitude":-78.01}}(window,'GeoPostal','US');

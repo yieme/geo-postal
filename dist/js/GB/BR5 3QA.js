@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BR5 3QA"]={"code":"BR5 3QA","region":"England","city":"Mendlesham","latitude":52.25014,"longitude":1.0813}}(window,'GeoPostal','GB');

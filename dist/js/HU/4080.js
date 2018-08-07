@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4080"]={"code":"4080","region":"Hajdu-Bihar","city":"Hajdunanas","latitude":47.85,"longitude":21.43333}}(window,'GeoPostal','HU');

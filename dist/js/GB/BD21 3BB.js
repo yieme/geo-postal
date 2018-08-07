@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD21 3BB"]={"code":"BD21 3BB","region":"England","city":"Keighley","latitude":53.86791,"longitude":-1.90664}}(window,'GeoPostal','GB');

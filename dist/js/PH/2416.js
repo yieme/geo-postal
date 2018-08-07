@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2416"]={"code":"2416","region":"Pangasinan","city":"Bugallon","latitude":15.9528,"longitude":120.2155}}(window,'GeoPostal','PH');

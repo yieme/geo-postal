@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15736"]={"code":"15736","region":"PA","city":"Elderton","latitude":40.6922,"longitude":-79.3422}}(window,'GeoPostal','US');

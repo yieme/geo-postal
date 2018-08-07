@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36830-000"]={"code":"36830-000","region":"Minas Gerais","city":"Espera Feliz","latitude":-20.65028,"longitude":-41.90722}}(window,'GeoPostal','BR');

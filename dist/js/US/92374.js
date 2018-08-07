@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92374"]={"code":"92374","region":"California","city":"Redlands","latitude":34.064569,"longitude":-117.165208}}(window,'GeoPostal','US');

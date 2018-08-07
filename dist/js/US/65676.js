@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65676"]={"code":"65676","region":"MO","city":"Isabella","latitude":36.5749,"longitude":-92.6053}}(window,'GeoPostal','US');

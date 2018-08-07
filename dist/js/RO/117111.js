@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117111"]={"code":"117111","region":"Arges","city":"Beleti","latitude":44.9,"longitude":25.08333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["424502"]={"code":"424502","region":"Hunan","city":"Jiahe","latitude":25.55936,"longitude":112.36352}}(window,'GeoPostal','CN');

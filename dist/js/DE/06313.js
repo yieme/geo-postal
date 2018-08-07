@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06313"]={"code":"06313","region":"Sachsen-Anhalt","city":"Ahlsdorf","latitude":51.54543,"longitude":11.46655}}(window,'GeoPostal','DE');

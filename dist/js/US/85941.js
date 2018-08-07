@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85941"]={"code":"85941","region":"Arizona","city":"Whiteriver","latitude":33.83699,"longitude":-109.96427}}(window,'GeoPostal','US');

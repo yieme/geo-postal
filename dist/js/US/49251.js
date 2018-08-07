@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49251"]={"code":"49251","region":"Michigan","city":"Leslie","latitude":42.467143,"longitude":-84.419431}}(window,'GeoPostal','US');

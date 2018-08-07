@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38014"]={"code":"38014","region":"TN","city":"Brunswick","latitude":35.2673,"longitude":-89.7687}}(window,'GeoPostal','US');

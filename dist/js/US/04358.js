@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04358"]={"code":"04358","region":"ME","city":"South China","latitude":44.3953,"longitude":-69.5804}}(window,'GeoPostal','US');

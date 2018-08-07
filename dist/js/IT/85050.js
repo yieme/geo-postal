@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85050"]={"code":"85050","region":"Basilicata","city":"Marsico Vetere","latitude":40.37821,"longitude":15.82527}}(window,'GeoPostal','IT');

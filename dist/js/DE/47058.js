@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47058"]={"code":"47058","region":"Nordrhein-Westfalen","city":"Duissern","latitude":51.43634,"longitude":6.78977}}(window,'GeoPostal','DE');

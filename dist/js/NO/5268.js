@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5268"]={"code":"5268","region":"Hordaland","city":"Espeland","latitude":60.38333,"longitude":5.46667}}(window,'GeoPostal','NO');

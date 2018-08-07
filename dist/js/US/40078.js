@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40078"]={"code":"40078","region":"KY","city":"Willisburg","latitude":37.8373,"longitude":-85.1362}}(window,'GeoPostal','US');

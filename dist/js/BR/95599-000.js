@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95599-000"]={"code":"95599-000","region":"Rio Grande do Sul","city":"Cidreira","latitude":-30.18111,"longitude":-50.20556}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6874"]={"code":"6874","region":"Vorarlberg","city":"Bezau","latitude":47.385,"longitude":9.90167}}(window,'GeoPostal','AT');

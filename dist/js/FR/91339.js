@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91339"]={"code":"91339","region":"Ile-de-France","city":"Yerres","latitude":48.71785,"longitude":2.49338}}(window,'GeoPostal','FR');

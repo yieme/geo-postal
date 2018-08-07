@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30683"]={"code":"30683","region":"Georgia","city":"Winterville","latitude":33.957936,"longitude":-83.290201}}(window,'GeoPostal','US');

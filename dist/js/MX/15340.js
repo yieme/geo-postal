@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15340"]={"code":"15340","region":"Ciudad de Mexico","city":"Venustiano Carranza","latitude":19.43,"longitude":-99.09917}}(window,'GeoPostal','MX');

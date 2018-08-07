@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50130"]={"code":"50130","region":"Lamphun","city":"Ban Thi","latitude":18.63186,"longitude":99.11661}}(window,'GeoPostal','TH');

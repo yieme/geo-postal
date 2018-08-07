@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67120"]={"code":"67120","region":"Grand-Est","city":"Altorf","latitude":48.52166,"longitude":7.52787}}(window,'GeoPostal','FR');

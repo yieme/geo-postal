@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42800"]={"code":"42800","region":"Auvergne-Rhone-Alpes","city":"Chateauneuf","latitude":45.52457,"longitude":4.64044}}(window,'GeoPostal','FR');

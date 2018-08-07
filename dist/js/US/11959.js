@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11959"]={"code":"11959","region":"NY","city":"Quogue","latitude":40.8226,"longitude":-72.6012}}(window,'GeoPostal','US');

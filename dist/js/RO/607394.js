@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607394"]={"code":"607394","region":"Vrancea","city":"Palanca","latitude":46.53333,"longitude":26.11667}}(window,'GeoPostal','RO');

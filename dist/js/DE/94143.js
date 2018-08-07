@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94143"]={"code":"94143","region":"Bayern","city":"Hobelsberg","latitude":48.79476,"longitude":13.66809}}(window,'GeoPostal','DE');

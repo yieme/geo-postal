@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77451"]={"code":"77451","region":"TX","city":"Kendleton","latitude":29.447,"longitude":-96.0036}}(window,'GeoPostal','US');

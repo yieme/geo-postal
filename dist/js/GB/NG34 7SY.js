@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 7SY"]={"code":"NG34 7SY","region":"England","city":"Sleaford","latitude":52.99826,"longitude":-0.40941}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04219"]={"code":"04219","region":"ME","city":"Bryant Pond","latitude":44.3957,"longitude":-70.6435}}(window,'GeoPostal','US');

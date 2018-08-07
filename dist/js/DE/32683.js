@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32683"]={"code":"32683","region":"Nordrhein-Westfalen","city":"Sibbentrup","latitude":52.01389,"longitude":9.08887}}(window,'GeoPostal','DE');

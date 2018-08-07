@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55420-000"]={"code":"55420-000","region":"Pernambuco","city":"Canhotinho","latitude":-8.88222,"longitude":-36.19111}}(window,'GeoPostal','BR');

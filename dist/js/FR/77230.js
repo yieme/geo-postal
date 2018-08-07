@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77230"]={"code":"77230","region":"Ile-de-France","city":"Juilly","latitude":49.01375,"longitude":2.70563}}(window,'GeoPostal','FR');

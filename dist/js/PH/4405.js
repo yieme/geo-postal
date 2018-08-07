@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4405"]={"code":"4405","region":"Camarines Sur","city":"Calabanga","latitude":13.7068,"longitude":123.2087}}(window,'GeoPostal','PH');

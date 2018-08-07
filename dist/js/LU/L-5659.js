@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-5659"]={"code":"L-5659","region":"Grevenmacher","city":"Mondorf-les-Bains","latitude":49.505,"longitude":6.28111}}(window,'GeoPostal','LU');

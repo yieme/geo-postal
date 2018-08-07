@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58700-000"]={"code":"58700-000","region":"Paraiba","city":"Patos","latitude":-7.02444,"longitude":-37.28}}(window,'GeoPostal','BR');

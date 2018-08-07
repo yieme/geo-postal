@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["181152"]={"code":"181152","region":"Jammu and Kashmir","city":"Jammu","latitude":32.73333,"longitude":74.86667}}(window,'GeoPostal','IN');

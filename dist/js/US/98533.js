@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98533"]={"code":"98533","region":"Washington","city":"Cinebar","latitude":46.581117,"longitude":-122.540697}}(window,'GeoPostal','US');

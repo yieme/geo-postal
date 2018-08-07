@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18087"]={"code":"18087","region":"Pennsylvania","city":"Trexlertown","latitude":40.550199,"longitude":-75.59807}}(window,'GeoPostal','US');

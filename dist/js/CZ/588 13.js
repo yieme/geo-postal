@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["588 13"]={"code":"588 13","region":"Kraj Vysocina","city":"Polna","latitude":49.487,"longitude":15.71881}}(window,'GeoPostal','CZ');

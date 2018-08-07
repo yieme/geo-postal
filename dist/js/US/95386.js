@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95386"]={"code":"95386","region":"California","city":"Waterford","latitude":37.655096,"longitude":-120.734745}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43822"]={"code":"43822","region":"OH","city":"Frazeysburg","latitude":40.1316,"longitude":-82.1293}}(window,'GeoPostal','US');

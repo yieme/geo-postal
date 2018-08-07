@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88560"]={"code":"88560","region":"Grand-Est","city":"Saint-Maurice-sur-Moselle","latitude":47.85889,"longitude":6.82478}}(window,'GeoPostal','FR');

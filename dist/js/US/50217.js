@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50217"]={"code":"50217","region":"IA","city":"Paton","latitude":42.1658,"longitude":-94.273}}(window,'GeoPostal','US');

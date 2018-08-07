@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41976"]={"code":"41976","region":"Centre-Val de Loire","city":"Blois","latitude":47.58333,"longitude":1.33333}}(window,'GeoPostal','FR');

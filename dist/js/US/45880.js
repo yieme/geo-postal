@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45880"]={"code":"45880","region":"Ohio","city":"Payne","latitude":41.07755,"longitude":-84.72718}}(window,'GeoPostal','US');

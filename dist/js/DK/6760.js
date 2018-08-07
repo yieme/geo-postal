@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6760"]={"code":"6760","region":"Syddanmark","city":"Ribe","latitude":55.33051,"longitude":8.76966}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627300"]={"code":"627300","region":"Tyumenskaya oblast'","city":"Golyshmanovo","latitude":56.3979,"longitude":68.37279}}(window,'GeoPostal','RU');

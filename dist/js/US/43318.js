@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43318"]={"code":"43318","region":"Ohio","city":"De Graff","latitude":40.330538,"longitude":-83.91676}}(window,'GeoPostal','US');

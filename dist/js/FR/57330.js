@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57330"]={"code":"57330","region":"Grand-Est","city":"Entrange","latitude":49.4159,"longitude":6.1062}}(window,'GeoPostal','FR');

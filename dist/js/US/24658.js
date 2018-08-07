@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24658"]={"code":"24658","region":"Virginia","city":"Wolford","latitude":37.35403,"longitude":-81.9895}}(window,'GeoPostal','US');

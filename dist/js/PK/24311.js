@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24311"]={"code":"24311","region":"Sindh","city":"Shikarpur","latitude":27.95706,"longitude":68.63789}}(window,'GeoPostal','PK');

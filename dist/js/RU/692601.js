@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692601"]={"code":"692601","region":"Primorskiy kray","city":"Chuguyevka","latitude":44.16528,"longitude":133.86333}}(window,'GeoPostal','RU');

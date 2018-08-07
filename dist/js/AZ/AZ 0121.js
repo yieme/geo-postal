@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0121"]={"code":"AZ 0121","region":"Abseron","city":"Saray","latitude":40.53222,"longitude":49.71639}}(window,'GeoPostal','AZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127595"]={"code":"127595","region":"Buzau","city":"Smeeni","latitude":44.98333,"longitude":26.85}}(window,'GeoPostal','RO');

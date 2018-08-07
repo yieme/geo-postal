@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20064"]={"code":"20064","region":"Lombardia","city":"Gorgonzola","latitude":45.53157,"longitude":9.40465}}(window,'GeoPostal','IT');

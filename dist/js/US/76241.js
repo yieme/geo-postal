@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76241"]={"code":"76241","region":"TX","city":"Gainesville","latitude":33.6104,"longitude":-97.0369}}(window,'GeoPostal','US');

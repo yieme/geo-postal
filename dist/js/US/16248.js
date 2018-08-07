@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16248"]={"code":"16248","region":"Pennsylvania","city":"Rimersburg","latitude":41.04167,"longitude":-79.5025}}(window,'GeoPostal','US');

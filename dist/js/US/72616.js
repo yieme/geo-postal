@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72616"]={"code":"72616","region":"Arkansas","city":"Berryville","latitude":36.36702,"longitude":-93.58014}}(window,'GeoPostal','US');

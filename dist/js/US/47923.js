@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47923"]={"code":"47923","region":"Indiana","city":"Brookston","latitude":40.600336,"longitude":-86.864464}}(window,'GeoPostal','US');

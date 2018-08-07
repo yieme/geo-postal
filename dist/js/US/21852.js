@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21852"]={"code":"21852","region":"MD","city":"Powellville","latitude":38.3287,"longitude":-75.3755}}(window,'GeoPostal','US');

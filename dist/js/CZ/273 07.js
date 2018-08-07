@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273 07"]={"code":"273 07","region":"Stredocesky kraj","city":"Vinarice","latitude":50.17585,"longitude":14.09106}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97899"]={"code":"97899","region":"Yucatan","city":"Santa Elena","latitude":20.33333,"longitude":-89.65}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 66"]={"code":"252 66","region":"Stredocesky kraj","city":"Libcice nad Vltavou","latitude":50.19778,"longitude":14.36385}}(window,'GeoPostal','CZ');

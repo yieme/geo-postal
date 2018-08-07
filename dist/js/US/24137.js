@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24137"]={"code":"24137","region":"VA","city":"Penhook","latitude":36.9201,"longitude":-79.6645}}(window,'GeoPostal','US');

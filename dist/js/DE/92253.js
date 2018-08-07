@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92253"]={"code":"92253","region":"Bayern","city":"Neuersdorf","latitude":49.56446,"longitude":12.06121}}(window,'GeoPostal','DE');

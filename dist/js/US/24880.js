@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24880"]={"code":"24880","region":"WV","city":"Rock View","latitude":37.6179,"longitude":-81.539}}(window,'GeoPostal','US');

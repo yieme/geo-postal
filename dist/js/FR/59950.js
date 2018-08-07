@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59950"]={"code":"59950","region":"Hauts-de-France","city":"Auby","latitude":50.41457,"longitude":3.05396}}(window,'GeoPostal','FR');

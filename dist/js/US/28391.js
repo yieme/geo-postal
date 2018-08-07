@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28391"]={"code":"28391","region":"NC","city":"Stedman","latitude":35.0347,"longitude":-78.6949}}(window,'GeoPostal','US');

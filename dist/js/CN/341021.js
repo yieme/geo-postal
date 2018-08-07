@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["341021"]={"code":"341021","region":"Anhui","city":"Huicheng","latitude":29.86925,"longitude":118.43364}}(window,'GeoPostal','CN');

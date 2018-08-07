@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10931"]={"code":"10931","region":"NY","city":"Hillburn","latitude":41.124,"longitude":-74.1702}}(window,'GeoPostal','US');

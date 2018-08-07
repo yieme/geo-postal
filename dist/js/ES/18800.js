@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18800"]={"code":"18800","region":"Andalucia","city":"Baza","latitude":37.49073,"longitude":-2.77259}}(window,'GeoPostal','ES');

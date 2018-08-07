@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96044"]={"code":"96044","region":"California","city":"Hornbrook","latitude":41.93982,"longitude":-122.53002}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207243"]={"code":"207243","region":"Uttar Pradesh","city":"Aliganj","latitude":27.5,"longitude":79.18333}}(window,'GeoPostal','IN');

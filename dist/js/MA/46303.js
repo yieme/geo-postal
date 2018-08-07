@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46303"]={"code":"46303","region":"Doukhala-Abda","city":"Youssoufia","latitude":32.24634,"longitude":-8.52941}}(window,'GeoPostal','MA');

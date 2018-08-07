@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80602"]={"code":"80602","region":"Colorado","city":"Henderson","latitude":39.9604,"longitude":-104.90949}}(window,'GeoPostal','US');

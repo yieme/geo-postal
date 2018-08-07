@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84068"]={"code":"84068","region":"Utah","city":"Park City","latitude":40.668909,"longitude":-111.502553}}(window,'GeoPostal','US');

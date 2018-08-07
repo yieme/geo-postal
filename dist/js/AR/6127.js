@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6127"]={"code":"6127","region":"Cordoba","city":"Santa Magdalena","latitude":-34.51776,"longitude":-63.94409}}(window,'GeoPostal','AR');

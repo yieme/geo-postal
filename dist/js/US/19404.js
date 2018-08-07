@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19404"]={"code":"19404","region":"Pennsylvania","city":"Norristown","latitude":40.14277,"longitude":-75.36968}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0C 1X0"]={"code":"K0C 1X0","region":"Ontario","city":"Morrisburg","latitude":44.9001,"longitude":-75.18261}}(window,'GeoPostal','CA');

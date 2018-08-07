@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04774"]={"code":"04774","region":"Sachsen","city":"Malkwitz","latitude":51.33269,"longitude":12.99381}}(window,'GeoPostal','DE');

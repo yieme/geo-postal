@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15553"]={"code":"15553","region":"PA","city":"New Baltimore","latitude":39.9828,"longitude":-78.7719}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666305"]={"code":"666305","region":"Irkutskaya oblast'","city":"Sayansk","latitude":54.1088,"longitude":102.1648}}(window,'GeoPostal','RU');

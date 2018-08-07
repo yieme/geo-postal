@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68419"]={"code":"68419","region":"NE","city":"Panama","latitude":40.5998,"longitude":-96.5129}}(window,'GeoPostal','US');

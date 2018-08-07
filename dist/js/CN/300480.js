@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300480"]={"code":"300480","region":"Tianjin","city":"Binhai","latitude":39.003333,"longitude":117.710833}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37874"]={"code":"37874","region":"TN","city":"Sweetwater","latitude":35.6015,"longitude":-84.461}}(window,'GeoPostal','US');

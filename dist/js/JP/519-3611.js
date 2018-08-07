@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["519-3611"]={"code":"519-3611","region":"Mie","city":"Owase","latitude":34.067,"longitude":136.183}}(window,'GeoPostal','JP');

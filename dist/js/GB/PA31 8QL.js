@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA31 8QL"]={"code":"PA31 8QL","region":"Scotland","city":"Kilbride","latitude":56.1,"longitude":-5.45}}(window,'GeoPostal','GB');

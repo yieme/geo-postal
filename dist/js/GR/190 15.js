@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["190 15"]={"code":"190 15","region":"Sterea Ellada","city":"Amarinthos","latitude":38.4,"longitude":23.88333}}(window,'GeoPostal','GR');

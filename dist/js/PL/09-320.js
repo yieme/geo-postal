@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-320"]={"code":"09-320","region":"Mazowieckie","city":"Biezun","latitude":52.96107,"longitude":19.88976}}(window,'GeoPostal','PL');

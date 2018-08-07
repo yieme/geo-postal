@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70776"]={"code":"70776","region":"Louisiana","city":"Saint Gabriel","latitude":30.2577,"longitude":-91.09927}}(window,'GeoPostal','US');

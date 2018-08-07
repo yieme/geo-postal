@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39662"]={"code":"39662","region":"MS","city":"Ruth","latitude":31.3795,"longitude":-90.2867}}(window,'GeoPostal','US');

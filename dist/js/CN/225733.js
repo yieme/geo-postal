@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["225733"]={"code":"225733","region":"Jiangsu","city":"Taozhuang","latitude":32.86667,"longitude":120.13889}}(window,'GeoPostal','CN');

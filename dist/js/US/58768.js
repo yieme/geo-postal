@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58768"]={"code":"58768","region":"ND","city":"Norwich","latitude":48.2491,"longitude":-100.9712}}(window,'GeoPostal','US');

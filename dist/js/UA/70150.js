@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70150"]={"code":"70150","region":"Zaporizka oblast","city":"Ternuvate","latitude":47.83049,"longitude":36.12761}}(window,'GeoPostal','UA');

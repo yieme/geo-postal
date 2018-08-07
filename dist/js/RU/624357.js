@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624357"]={"code":"624357","region":"Sverdlovskaya oblast'","city":"Kachkanar","latitude":58.69999,"longitude":59.49482}}(window,'GeoPostal','RU');

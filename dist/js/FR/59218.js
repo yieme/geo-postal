@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59218"]={"code":"59218","region":"Hauts-de-France","city":"Poix-du-Nord","latitude":50.18927,"longitude":3.60956}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74521"]={"code":"74521","region":"Uppsala lan","city":"Enkoping","latitude":59.63607,"longitude":17.07768}}(window,'GeoPostal','SE');

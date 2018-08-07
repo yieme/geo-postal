@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45700"]={"code":"45700","region":"Castilla-La Mancha","city":"Consuegra","latitude":39.46246,"longitude":-3.608}}(window,'GeoPostal','ES');

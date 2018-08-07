@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42022"]={"code":"42022","region":"KY","city":"Bandana","latitude":37.1459,"longitude":-88.9455}}(window,'GeoPostal','US');

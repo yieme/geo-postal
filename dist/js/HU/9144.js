@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9144"]={"code":"9144","region":"Gyor-Moson-Sopron","city":"Kony","latitude":47.63053,"longitude":17.35717}}(window,'GeoPostal','HU');

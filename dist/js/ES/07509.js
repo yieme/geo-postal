@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07509"]={"code":"07509","region":"Illes Balears","city":"Manacor","latitude":39.56964,"longitude":3.20955}}(window,'GeoPostal','ES');

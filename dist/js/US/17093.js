@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17093"]={"code":"17093","region":"Pennsylvania","city":"Summerdale","latitude":40.294821,"longitude":-76.929346}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26486"]={"code":"26486","region":"Niedersachsen","city":"Wangerooge","latitude":53.79002,"longitude":7.89938}}(window,'GeoPostal','DE');

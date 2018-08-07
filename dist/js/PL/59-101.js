@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-101"]={"code":"59-101","region":"Dolnoslaskie","city":"Polkowice","latitude":51.50391,"longitude":16.07261}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["390528"]={"code":"390528","region":"Ryazanskaya oblast'","city":"Murmino","latitude":54.6043,"longitude":40.0549}}(window,'GeoPostal','RU');

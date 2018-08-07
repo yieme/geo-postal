@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6369"]={"code":"6369","region":"La Pampa","city":"Trenel","latitude":-35.69837,"longitude":-64.13218}}(window,'GeoPostal','AR');

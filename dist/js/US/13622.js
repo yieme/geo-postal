@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13622"]={"code":"13622","region":"New York","city":"Chaumont","latitude":44.067222,"longitude":-76.133889}}(window,'GeoPostal','US');

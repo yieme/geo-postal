@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63446"]={"code":"63446","region":"Missouri","city":"Knox City","latitude":40.14472,"longitude":-92.01056}}(window,'GeoPostal','US');

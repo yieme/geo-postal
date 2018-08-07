@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29780"]={"code":"29780","region":"Bretagne","city":"Plouhinec","latitude":48.01667,"longitude":-4.48333}}(window,'GeoPostal','FR');

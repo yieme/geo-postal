@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74709"]={"code":"74709","region":"Auvergne-Rhone-Alpes","city":"Sallanches","latitude":45.94423,"longitude":6.63162}}(window,'GeoPostal','FR');

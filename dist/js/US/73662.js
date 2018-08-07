@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73662"]={"code":"73662","region":"Oklahoma","city":"Sayre","latitude":35.29116,"longitude":-99.6401}}(window,'GeoPostal','US');

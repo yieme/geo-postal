@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 1RN"]={"code":"CA10 1RN","region":"England","city":"Kirkland","latitude":54.68574,"longitude":-2.5514}}(window,'GeoPostal','GB');

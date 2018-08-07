@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68453"]={"code":"68453","region":"NE","city":"Tobias","latitude":40.4262,"longitude":-97.3184}}(window,'GeoPostal','US');

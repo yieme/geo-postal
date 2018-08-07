@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30464"]={"code":"30464","region":"GA","city":"Stillmore","latitude":32.4421,"longitude":-82.2151}}(window,'GeoPostal','US');

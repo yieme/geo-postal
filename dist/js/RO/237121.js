@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237121"]={"code":"237121","region":"Olt","city":"Curtisoara","latitude":44.5,"longitude":24.33333}}(window,'GeoPostal','RO');

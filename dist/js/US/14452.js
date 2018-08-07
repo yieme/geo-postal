@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14452"]={"code":"14452","region":"New York","city":"Fancher","latitude":43.24307,"longitude":-78.089056}}(window,'GeoPostal','US');

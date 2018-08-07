@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6226"]={"code":"6226","region":"Zambales","city":"San Juan","latitude":9.1603,"longitude":123.4926}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207220"]={"code":"207220","region":"Dolj","city":"Dabuleni","latitude":43.8,"longitude":24.08333}}(window,'GeoPostal','RO');

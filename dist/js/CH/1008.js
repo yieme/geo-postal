@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1008"]={"code":"1008","region":"Vaud","city":"Prilly","latitude":46.53938,"longitude":6.59266}}(window,'GeoPostal','CH');

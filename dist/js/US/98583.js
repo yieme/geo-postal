@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98583"]={"code":"98583","region":"WA","city":"Satsop","latitude":47.0022,"longitude":-123.4836}}(window,'GeoPostal','US');

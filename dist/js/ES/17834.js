@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17834"]={"code":"17834","region":"Catalunya","city":"Porqueres","latitude":42.11682,"longitude":2.74143}}(window,'GeoPostal','ES');

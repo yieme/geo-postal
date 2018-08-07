@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38370"]={"code":"38370","region":"Auvergne-Rhone-Alpes","city":"Les Roches-de-Condrieu","latitude":45.45107,"longitude":4.76738}}(window,'GeoPostal','FR');

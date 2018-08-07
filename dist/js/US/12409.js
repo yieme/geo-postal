@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12409"]={"code":"12409","region":"NY","city":"Bearsville","latitude":42.0406,"longitude":-74.1551}}(window,'GeoPostal','US');

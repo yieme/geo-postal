@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66113"]={"code":"66113","region":"Occitanie","city":"els Banys d'Arles","latitude":42.47289,"longitude":2.66916}}(window,'GeoPostal','FR');

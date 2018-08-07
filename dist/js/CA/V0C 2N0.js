@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0C 2N0"]={"code":"V0C 2N0","region":"British Columbia","city":"Kobes","latitude":56.63874,"longitude":-121.65293}}(window,'GeoPostal','CA');

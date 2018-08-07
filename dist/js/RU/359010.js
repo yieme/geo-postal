@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["359010"]={"code":"359010","region":"Kalmykiya, Respublika","city":"Yashalta","latitude":46.3395,"longitude":42.2762}}(window,'GeoPostal','RU');

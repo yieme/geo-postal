@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40060"]={"code":"40060","region":"KY","city":"Raywick","latitude":37.538,"longitude":-85.43}}(window,'GeoPostal','US');

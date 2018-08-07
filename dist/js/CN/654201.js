@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["654201"]={"code":"654201","region":"Yunnan","city":"Jinzhong","latitude":26.37595,"longitude":103.30639}}(window,'GeoPostal','CN');

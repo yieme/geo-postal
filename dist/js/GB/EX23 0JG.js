@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX23 0JG"]={"code":"EX23 0JG","region":"England","city":"Crackington Haven","latitude":50.74159,"longitude":-4.63385}}(window,'GeoPostal','GB');

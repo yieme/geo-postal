@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72246"]={"code":"72246","region":"Federacija Bosne i Hercegovine","city":"Kakanj","latitude":44.12722,"longitude":18.11806}}(window,'GeoPostal','BA');

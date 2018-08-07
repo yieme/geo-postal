@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01540"]={"code":"01540","region":"Massachusetts","city":"Oxford","latitude":42.11676,"longitude":-71.86479}}(window,'GeoPostal','US');

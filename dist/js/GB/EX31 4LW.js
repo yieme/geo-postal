@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX31 4LW"]={"code":"EX31 4LW","region":"England","city":"Arlington","latitude":51.15,"longitude":-3.98333}}(window,'GeoPostal','GB');

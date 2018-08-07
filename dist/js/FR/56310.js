@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56310"]={"code":"56310","region":"Bretagne","city":"Bubry","latitude":47.96336,"longitude":-3.17108}}(window,'GeoPostal','FR');

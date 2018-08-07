@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48190"]={"code":"48190","region":"MI","city":"Whittaker","latitude":42.1244,"longitude":-83.5946}}(window,'GeoPostal','US');

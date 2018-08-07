@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6980"]={"code":"6980","region":"Itapua","city":"Fram","latitude":-26.98333,"longitude":-55.88333}}(window,'GeoPostal','PY');

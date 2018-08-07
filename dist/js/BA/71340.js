@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71340"]={"code":"71340","region":"Federacija Bosne i Hercegovine","city":"Olovo","latitude":44.13,"longitude":18.58278}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22066"]={"code":"22066","region":"Virginia","city":"Great Falls","latitude":39.001105,"longitude":-77.301036}}(window,'GeoPostal','US');

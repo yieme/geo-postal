@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107352"]={"code":"107352","region":"Prahova","city":"Magureni","latitude":45.06667,"longitude":25.73333}}(window,'GeoPostal','RO');

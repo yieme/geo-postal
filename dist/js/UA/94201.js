@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94201"]={"code":"94201","region":"Luhanska oblast","city":"Luhans'k","latitude":48.56705,"longitude":39.31706}}(window,'GeoPostal','UA');

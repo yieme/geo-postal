@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0G 1G0"]={"code":"P0G 1G0","region":"Ontario","city":"Nobel","latitude":45.4168,"longitude":-80.09967}}(window,'GeoPostal','CA');

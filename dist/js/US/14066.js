@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14066"]={"code":"14066","region":"New York","city":"Gainesville","latitude":42.63711,"longitude":-78.189109}}(window,'GeoPostal','US');

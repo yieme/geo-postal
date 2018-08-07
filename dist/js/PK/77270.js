@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77270"]={"code":"77270","region":"Sindh","city":"Miro Khan","latitude":27.75991,"longitude":68.09212}}(window,'GeoPostal','PK');

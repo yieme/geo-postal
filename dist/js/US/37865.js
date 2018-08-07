@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37865"]={"code":"37865","region":"Tennessee","city":"Seymour","latitude":35.89064,"longitude":-83.72462}}(window,'GeoPostal','US');

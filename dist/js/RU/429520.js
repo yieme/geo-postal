@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429520"]={"code":"429520","region":"Chuvashskaya Respublika","city":"Ishley","latitude":56.02317,"longitude":47.05054}}(window,'GeoPostal','RU');

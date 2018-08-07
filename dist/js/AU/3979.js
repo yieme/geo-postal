@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3979"]={"code":"3979","region":"Victoria","city":"Woodleigh","latitude":-38.4,"longitude":145.63333}}(window,'GeoPostal','AU');

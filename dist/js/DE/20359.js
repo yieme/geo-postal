@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20359"]={"code":"20359","region":"Hamburg","city":"St. Pauli","latitude":53.557,"longitude":9.964}}(window,'GeoPostal','DE');

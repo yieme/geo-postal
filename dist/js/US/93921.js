@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93921"]={"code":"93921","region":"California","city":"Carmel","latitude":36.565395,"longitude":-121.899279}}(window,'GeoPostal','US');

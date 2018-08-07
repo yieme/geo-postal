@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13069"]={"code":"13069","region":"New York","city":"Fulton","latitude":43.32285,"longitude":-76.41716}}(window,'GeoPostal','US');

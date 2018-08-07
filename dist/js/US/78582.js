@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78582"]={"code":"78582","region":"Texas","city":"Rio Grande City","latitude":26.37979,"longitude":-98.8203}}(window,'GeoPostal','US');

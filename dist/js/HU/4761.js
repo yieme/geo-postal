@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4761"]={"code":"4761","region":"Szabolcs-Szatmar-Bereg","city":"Porcsalma","latitude":47.88333,"longitude":22.56667}}(window,'GeoPostal','HU');

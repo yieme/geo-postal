@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617418"]={"code":"617418","region":"Iasi","city":"Trifesti","latitude":46.91667,"longitude":26.81667}}(window,'GeoPostal','RO');

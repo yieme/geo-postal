@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18416"]={"code":"18416","region":"PA","city":"Elmhurst","latitude":41.3756,"longitude":-75.548}}(window,'GeoPostal','US');

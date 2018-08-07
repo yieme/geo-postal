@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54240"]={"code":"54240","region":"Grand-Est","city":"Joeuf","latitude":49.23333,"longitude":6.01667}}(window,'GeoPostal','FR');

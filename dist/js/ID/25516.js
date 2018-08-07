@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25516"]={"code":"25516","region":"Sumatera Barat","city":"Pariaman","latitude":-0.61898,"longitude":100.11997}}(window,'GeoPostal','ID');

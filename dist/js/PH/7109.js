@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7109"]={"code":"7109","region":"Zamboanga del Norte","city":"Olingan","latitude":8.53139,"longitude":123.31944}}(window,'GeoPostal','PH');

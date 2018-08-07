@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43749"]={"code":"43749","region":"OH","city":"Kimbolton","latitude":40.1589,"longitude":-81.549}}(window,'GeoPostal','US');

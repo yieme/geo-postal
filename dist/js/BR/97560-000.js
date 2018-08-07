@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97560-000"]={"code":"97560-000","region":"Rio Grande do Sul","city":"Quarai","latitude":-30.3875,"longitude":-56.45139}}(window,'GeoPostal','BR');

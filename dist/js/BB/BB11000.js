@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB11000"]={"code":"BB11000","region":"Saint Peter","city":"Speightstown","latitude":13.25,"longitude":-59.65}}(window,'GeoPostal','BB');

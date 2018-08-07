@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87034"]={"code":"87034","region":"Calabria","city":"Grimaldi","latitude":39.14199,"longitude":16.23569}}(window,'GeoPostal','IT');

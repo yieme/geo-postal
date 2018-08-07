@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9155"]={"code":"9155","region":"Karnten","city":"Neuhaus","latitude":46.63333,"longitude":14.88333}}(window,'GeoPostal','AT');

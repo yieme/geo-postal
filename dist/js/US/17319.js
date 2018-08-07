@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17319"]={"code":"17319","region":"Pennsylvania","city":"Etters","latitude":40.152,"longitude":-76.80204}}(window,'GeoPostal','US');

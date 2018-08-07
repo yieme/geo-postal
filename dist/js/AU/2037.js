@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2037"]={"code":"2037","region":"Tasmania","city":"Glebe","latitude":-42.87471,"longitude":147.32813}}(window,'GeoPostal','AU');

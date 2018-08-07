@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18239"]={"code":"18239","region":"Mecklenburg-Vorpommern","city":"Gorow","latitude":54.02948,"longitude":11.95384}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75422"]={"code":"75422","region":"Texas","city":"Campbell","latitude":33.13362,"longitude":-95.94752}}(window,'GeoPostal','US');

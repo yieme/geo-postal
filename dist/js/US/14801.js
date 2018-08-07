@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14801"]={"code":"14801","region":"NY","city":"Addison","latitude":42.0983,"longitude":-77.266}}(window,'GeoPostal','US');

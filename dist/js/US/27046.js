@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27046"]={"code":"27046","region":"NC","city":"Sandy Ridge","latitude":36.49,"longitude":-80.0859}}(window,'GeoPostal','US');

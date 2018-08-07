@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["271 01"]={"code":"271 01","region":"Stredocesky kraj","city":"Nove Straseci","latitude":50.15272,"longitude":13.90043}}(window,'GeoPostal','CZ');

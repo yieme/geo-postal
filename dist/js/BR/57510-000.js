@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57510-000"]={"code":"57510-000","region":"Alagoas","city":"Poco das Trincheiras","latitude":-9.3125,"longitude":-37.28556}}(window,'GeoPostal','BR');

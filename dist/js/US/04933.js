@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04933"]={"code":"04933","region":"ME","city":"East Newport","latitude":44.8209,"longitude":-69.2225}}(window,'GeoPostal','US');

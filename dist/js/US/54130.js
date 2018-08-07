@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54130"]={"code":"54130","region":"Wisconsin","city":"Kaukauna","latitude":44.289972,"longitude":-88.272666}}(window,'GeoPostal','US');

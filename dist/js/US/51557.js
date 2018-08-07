@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51557"]={"code":"51557","region":"Iowa","city":"Mondamin","latitude":41.70972,"longitude":-96.02111}}(window,'GeoPostal','US');

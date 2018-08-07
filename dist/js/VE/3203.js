@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3203"]={"code":"3203","region":"Yaracuy","city":"Yaritagua","latitude":10.08,"longitude":-69.12611}}(window,'GeoPostal','VE');

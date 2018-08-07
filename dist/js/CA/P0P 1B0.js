@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0P 1B0"]={"code":"P0P 1B0","region":"Ontario","city":"Cutler","latitude":46.20007,"longitude":-82.46655}}(window,'GeoPostal','CA');

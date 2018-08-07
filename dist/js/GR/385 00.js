@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385 00"]={"code":"385 00","region":"Thessalia","city":"Kanalia","latitude":39.5,"longitude":22.88333}}(window,'GeoPostal','GR');

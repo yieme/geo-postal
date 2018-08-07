@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4825"]={"code":"4825","region":"Queensland","city":"Mount Isa","latitude":-20.72523,"longitude":139.49727}}(window,'GeoPostal','AU');

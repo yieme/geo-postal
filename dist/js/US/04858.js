@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04858"]={"code":"04858","region":"ME","city":"South Thomaston","latitude":44.0378,"longitude":-69.1359}}(window,'GeoPostal','US');

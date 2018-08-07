@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62550"]={"code":"62550","region":"Hauts-de-France","city":"Pernes","latitude":50.48437,"longitude":2.41253}}(window,'GeoPostal','FR');

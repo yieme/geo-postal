@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1610000"]={"code":"1610000","region":"Atacama","city":"Vallenar","latitude":-28.57083,"longitude":-70.75806}}(window,'GeoPostal','CL');

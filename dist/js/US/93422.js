@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93422"]={"code":"93422","region":"California","city":"Atascadero","latitude":35.480881,"longitude":-120.671021}}(window,'GeoPostal','US');

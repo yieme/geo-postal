@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["091150"]={"code":"091150","region":"Guayas","city":"Naranjal","latitude":-2.66667,"longitude":-79.61667}}(window,'GeoPostal','EC');

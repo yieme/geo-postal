@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13428"]={"code":"13428","region":"NY","city":"Palatine Bridge","latitude":42.9221,"longitude":-74.5708}}(window,'GeoPostal','US');

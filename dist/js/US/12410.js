@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12410"]={"code":"12410","region":"New York","city":"Big Indian","latitude":42.09294,"longitude":-74.46186}}(window,'GeoPostal','US');

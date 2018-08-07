@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307000"]={"code":"307000","region":"Kurskaya oblast'","city":"Manturovo","latitude":51.4547,"longitude":37.1282}}(window,'GeoPostal','RU');

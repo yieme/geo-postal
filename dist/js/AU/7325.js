@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7325"]={"code":"7325","region":"Tasmania","city":"Sisters Beach","latitude":-40.91971,"longitude":145.55969}}(window,'GeoPostal','AU');

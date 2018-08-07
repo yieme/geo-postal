@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS21 1EZ"]={"code":"TS21 1EZ","region":"England","city":"Bishopton","latitude":54.58333,"longitude":-1.43333}}(window,'GeoPostal','GB');

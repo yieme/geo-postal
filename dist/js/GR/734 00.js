@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["734 00"]={"code":"734 00","region":"Kriti","city":"Kissamos","latitude":35.49389,"longitude":23.65694}}(window,'GeoPostal','GR');

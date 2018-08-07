@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81090"]={"code":"81090","region":"CO","city":"Walsh","latitude":37.3521,"longitude":-102.2537}}(window,'GeoPostal','US');

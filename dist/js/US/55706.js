@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55706"]={"code":"55706","region":"Minnesota","city":"Babbitt","latitude":47.70853,"longitude":-91.9446}}(window,'GeoPostal','US');

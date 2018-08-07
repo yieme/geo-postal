@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42003"]={"code":"42003","region":"Tipaza","city":"Kolea","latitude":36.63888,"longitude":2.76845}}(window,'GeoPostal','DZ');

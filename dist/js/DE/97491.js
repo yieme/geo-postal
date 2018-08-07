@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97491"]={"code":"97491","region":"Bayern","city":"Aidhausen","latitude":50.15,"longitude":10.43333}}(window,'GeoPostal','DE');

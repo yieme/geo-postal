@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39058"]={"code":"39058","region":"Trentino-Alto Adige","city":"Sarentino","latitude":46.64352,"longitude":11.35577}}(window,'GeoPostal','IT');

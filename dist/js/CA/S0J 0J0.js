@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0J 0J0"]={"code":"S0J 0J0","region":"Saskatchewan","city":"Blaine Lake","latitude":52.8334,"longitude":-106.90117}}(window,'GeoPostal','CA');

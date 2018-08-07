@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67382"]={"code":"67382","region":"Jawa Timur","city":"Jombang","latitude":-8.2329,"longitude":113.3026}}(window,'GeoPostal','ID');

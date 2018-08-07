@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353971"]={"code":"353971","region":"Krasnodarskiy kray","city":"Verkhnebakanskiy","latitude":44.84917,"longitude":37.65722}}(window,'GeoPostal','RU');

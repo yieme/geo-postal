@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48230"]={"code":"48230","region":"Michigan","city":"Grosse Pointe","latitude":42.394584,"longitude":-82.918482}}(window,'GeoPostal','US');

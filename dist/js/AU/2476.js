@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2476"]={"code":"2476","region":"New South Wales","city":"Woodenbong","latitude":-28.38923,"longitude":152.61148}}(window,'GeoPostal','AU');

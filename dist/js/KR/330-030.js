@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330-030"]={"code":"330-030","region":"Chungcheongnam-do","city":"Tenan","latitude":36.8065,"longitude":127.1522}}(window,'GeoPostal','KR');

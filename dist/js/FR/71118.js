@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71118"]={"code":"71118","region":"Bourgogne-Franche-Comte","city":"Saint-Martin-Belle-Roche","latitude":46.38312,"longitude":4.85539}}(window,'GeoPostal','FR');

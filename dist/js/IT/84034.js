@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84034"]={"code":"84034","region":"Campania","city":"Padula","latitude":40.33691,"longitude":15.65507}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61471"]={"code":"61471","region":"Jawa Timur","city":"Diwek","latitude":-7.57897,"longitude":112.23109}}(window,'GeoPostal','ID');

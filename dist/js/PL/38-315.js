@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-315"]={"code":"38-315","region":"Malopolskie","city":"Uscie Gorlickie","latitude":49.52192,"longitude":21.13821}}(window,'GeoPostal','PL');

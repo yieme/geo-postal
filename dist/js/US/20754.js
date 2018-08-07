@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20754"]={"code":"20754","region":"Maryland","city":"Dunkirk","latitude":38.734025,"longitude":-76.658978}}(window,'GeoPostal','US');

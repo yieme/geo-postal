@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53942"]={"code":"53942","region":"WI","city":"Lime Ridge","latitude":43.4682,"longitude":-90.1615}}(window,'GeoPostal','US');

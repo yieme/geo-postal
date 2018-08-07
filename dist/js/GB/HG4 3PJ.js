@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG4 3PJ"]={"code":"HG4 3PJ","region":"England","city":"Grantley","latitude":54.12489,"longitude":-1.64513}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207"]={"code":"207","region":"Antsiranana","city":"Andoany","latitude":-13.4,"longitude":48.26667}}(window,'GeoPostal','MG');

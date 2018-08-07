@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34970"]={"code":"34970","region":"Occitanie","city":"Lattes","latitude":43.56752,"longitude":3.9046}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12822"]={"code":"12822","region":"New York","city":"Corinth","latitude":43.24452,"longitude":-73.83234}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98566"]={"code":"98566","region":"Washington","city":"Neilton","latitude":47.413056,"longitude":-123.879167}}(window,'GeoPostal','US');

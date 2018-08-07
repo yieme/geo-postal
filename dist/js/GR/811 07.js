@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["811 07"]={"code":"811 07","region":"Voreio Aigaio","city":"Kalloni","latitude":39.23278,"longitude":26.20806}}(window,'GeoPostal','GR');

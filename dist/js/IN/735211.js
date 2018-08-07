@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735211"]={"code":"735211","region":"West Bengal","city":"Dhupgari","latitude":26.58575,"longitude":89.0145}}(window,'GeoPostal','IN');

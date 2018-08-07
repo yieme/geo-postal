@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33956"]={"code":"33956","region":"Florida","city":"Saint James City","latitude":26.49758,"longitude":-82.07843}}(window,'GeoPostal','US');

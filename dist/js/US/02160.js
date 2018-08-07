@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02160"]={"code":"02160","region":"Massachusetts","city":"Newtonville","latitude":42.4464,"longitude":-71.4594}}(window,'GeoPostal','US');

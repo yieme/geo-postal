@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94273"]={"code":"94273","region":"Veracruz de Ignacio de la Llave","city":"El Tejar","latitude":19.05,"longitude":-96.16667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA23 8RE"]={"code":"PA23 8RE","region":"Scotland","city":"Clachaig","latitude":55.98954,"longitude":-5.0183}}(window,'GeoPostal','GB');

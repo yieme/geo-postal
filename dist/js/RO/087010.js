@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087010"]={"code":"087010","region":"Constanta","city":"Baneasa","latitude":44.04611,"longitude":26.06417}}(window,'GeoPostal','RO');

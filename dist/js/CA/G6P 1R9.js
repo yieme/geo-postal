@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G6P 1R9"]={"code":"G6P 1R9","region":"Quebec","city":"Victoriaville","latitude":46.058676,"longitude":-71.968455}}(window,'GeoPostal','CA');

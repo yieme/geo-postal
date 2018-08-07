@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["840-0812"]={"code":"840-0812","region":"Saga","city":"Saga","latitude":33.267,"longitude":130.3}}(window,'GeoPostal','JP');

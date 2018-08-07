@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0R 1H0"]={"code":"G0R 1H0","region":"Quebec","city":"Cap-Saint-Ignace","latitude":47.0353,"longitude":-70.46}}(window,'GeoPostal','CA');

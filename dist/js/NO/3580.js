@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3580"]={"code":"3580","region":"Buskerud","city":"Geilo","latitude":60.53331,"longitude":8.20765}}(window,'GeoPostal','NO');

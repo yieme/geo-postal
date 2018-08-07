@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FY3 9RS"]={"code":"FY3 9RS","region":"England","city":"Great Marton","latitude":53.81185,"longitude":-3.02261}}(window,'GeoPostal','GB');

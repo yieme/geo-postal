@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96737"]={"code":"96737","region":"HI","city":"Ocean View","latitude":19.1002,"longitude":-155.7258}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH12 8RJ"]={"code":"PH12 8RJ","region":"Scotland","city":"Ruthven","latitude":56.61667,"longitude":-3.15}}(window,'GeoPostal','GB');

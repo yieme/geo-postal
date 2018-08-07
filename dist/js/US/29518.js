@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29518"]={"code":"29518","region":"SC","city":"Cades","latitude":33.7886,"longitude":-79.848}}(window,'GeoPostal','US');

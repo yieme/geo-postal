@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28663"]={"code":"28663","region":"North Carolina","city":"Piney Creek","latitude":36.56168,"longitude":-81.28213}}(window,'GeoPostal','US');

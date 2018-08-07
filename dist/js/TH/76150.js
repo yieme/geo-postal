@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76150"]={"code":"76150","region":"Phetchaburi","city":"Ban Lat","latitude":13.05003,"longitude":99.91908}}(window,'GeoPostal','TH');

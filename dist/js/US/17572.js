@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17572"]={"code":"17572","region":"PA","city":"Ronks","latitude":40.0208,"longitude":-76.1661}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["376-0011"]={"code":"376-0011","region":"Gunma","city":"Kiryu","latitude":36.4,"longitude":139.333}}(window,'GeoPostal','JP');

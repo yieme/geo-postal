@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14290"]={"code":"14290","region":"Normandie","city":"Saint-Martin-de-Bienfaite-la-Cressonniere","latitude":49.0461,"longitude":0.3631}}(window,'GeoPostal','FR');

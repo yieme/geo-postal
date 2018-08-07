@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0L 1E0"]={"code":"T0L 1E0","region":"Alberta","city":"Lake Louise","latitude":51.40435,"longitude":-116.28479}}(window,'GeoPostal','CA');

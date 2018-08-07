@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["729-3212"]={"code":"729-3212","region":"Hiroshima","city":"Fuchu","latitude":34.565,"longitude":133.24194}}(window,'GeoPostal','JP');

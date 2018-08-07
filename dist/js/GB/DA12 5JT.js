@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DA12 5JT"]={"code":"DA12 5JT","region":"England","city":"Ifield","latitude":51.11645,"longitude":-0.22513}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27416"]={"code":"27416","region":"Galicia","city":"Monforte de Lemos","latitude":42.52165,"longitude":-7.51422}}(window,'GeoPostal','ES');

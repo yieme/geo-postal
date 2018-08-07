@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52322"]={"code":"52322","region":"IA","city":"Oxford","latitude":41.6507,"longitude":-91.7724}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68385-000"]={"code":"68385-000","region":"Para","city":"Sao Felix do Xingu","latitude":-6.64472,"longitude":-51.995}}(window,'GeoPostal','BR');

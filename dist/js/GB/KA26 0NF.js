@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA26 0NF"]={"code":"KA26 0NF","region":"Scotland","city":"Ballantrae","latitude":55.09861,"longitude":-5.00427}}(window,'GeoPostal','GB');

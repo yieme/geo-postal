@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03574"]={"code":"03574","region":"New Hampshire","city":"Bethlehem","latitude":44.28028,"longitude":-71.68806}}(window,'GeoPostal','US');

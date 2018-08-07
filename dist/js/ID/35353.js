@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35353"]={"code":"35353","region":"Lampung","city":"Sidorejo","latitude":-5.58471,"longitude":105.52364}}(window,'GeoPostal','ID');

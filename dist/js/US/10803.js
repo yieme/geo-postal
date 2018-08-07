@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10803"]={"code":"10803","region":"New York","city":"Pelham","latitude":40.90368,"longitude":-73.80726}}(window,'GeoPostal','US');

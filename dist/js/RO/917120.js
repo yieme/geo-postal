@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["917120"]={"code":"917120","region":"Calarasi","city":"Gurbanesti","latitude":44.38333,"longitude":26.7}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624766"]={"code":"624766","region":"Sverdlovskaya oblast'","city":"Verkhnyaya Salda","latitude":58.04556,"longitude":60.55333}}(window,'GeoPostal','RU');

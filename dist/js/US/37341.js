@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37341"]={"code":"37341","region":"TN","city":"Harrison","latitude":35.1679,"longitude":-85.0945}}(window,'GeoPostal','US');

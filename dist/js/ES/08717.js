@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08717"]={"code":"08717","region":"Catalunya","city":"Sant Guim de Freixenet","latitude":41.65573,"longitude":1.42024}}(window,'GeoPostal','ES');

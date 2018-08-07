@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89690"]={"code":"89690","region":"Bourgogne-Franche-Comte","city":"Cheroy","latitude":48.20076,"longitude":3.00011}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["244100"]={"code":"244100","region":"Anhui","city":"Tongling","latitude":30.933333,"longitude":117.766667}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35111"]={"code":"35111","region":"Alabama","city":"McCalla","latitude":33.267503,"longitude":-87.14556}}(window,'GeoPostal','US');

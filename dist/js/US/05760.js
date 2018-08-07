@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05760"]={"code":"05760","region":"VT","city":"Orwell","latitude":43.7837,"longitude":-73.2949}}(window,'GeoPostal','US');

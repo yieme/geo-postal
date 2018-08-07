@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-651"]={"code":"78-651","region":"Zachodniopomorskie","city":"Miroslawiec","latitude":53.34071,"longitude":16.08793}}(window,'GeoPostal','PL');

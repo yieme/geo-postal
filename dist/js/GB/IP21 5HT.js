@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP21 5HT"]={"code":"IP21 5HT","region":"England","city":"Stradbroke","latitude":52.31819,"longitude":1.27278}}(window,'GeoPostal','GB');

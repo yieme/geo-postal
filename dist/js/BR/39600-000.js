@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39600-000"]={"code":"39600-000","region":"Minas Gerais","city":"Aracuai","latitude":-16.84972,"longitude":-42.07028}}(window,'GeoPostal','BR');

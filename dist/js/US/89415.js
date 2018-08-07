@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89415"]={"code":"89415","region":"Nevada","city":"Hawthorne","latitude":38.52464,"longitude":-118.62458}}(window,'GeoPostal','US');

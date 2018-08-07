@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18000-000"]={"code":"18000-000","region":"Sao Paulo","city":"Sorocaba","latitude":-23.50167,"longitude":-47.45806}}(window,'GeoPostal','BR');

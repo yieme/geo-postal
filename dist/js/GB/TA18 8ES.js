@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA18 8ES"]={"code":"TA18 8ES","region":"England","city":"Crewkerne","latitude":50.88298,"longitude":-2.79588}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62949"]={"code":"62949","region":"IL","city":"Hurst","latitude":37.8366,"longitude":-89.1424}}(window,'GeoPostal','US');

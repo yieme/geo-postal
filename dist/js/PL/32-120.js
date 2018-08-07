@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-120"]={"code":"32-120","region":"Malopolskie","city":"Nowe Brzesko","latitude":50.13222,"longitude":20.37663}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49325"]={"code":"49325","region":"MI","city":"Freeport","latitude":42.7661,"longitude":-85.3133}}(window,'GeoPostal','US');

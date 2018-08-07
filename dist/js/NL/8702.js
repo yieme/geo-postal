@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8702"]={"code":"8702","region":"Fryslan","city":"Bolsward","latitude":53.06554,"longitude":5.53176}}(window,'GeoPostal','NL');

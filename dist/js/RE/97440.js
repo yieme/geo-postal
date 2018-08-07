@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97440"]={"code":"97440","region":"Reunion","city":"Saint-Andre","latitude":-20.96333,"longitude":55.65031}}(window,'GeoPostal','RE');

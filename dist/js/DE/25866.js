@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25866"]={"code":"25866","region":"Schleswig-Holstein","city":"Mildstedt","latitude":54.46667,"longitude":9.1}}(window,'GeoPostal','DE');

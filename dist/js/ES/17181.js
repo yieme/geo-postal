@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17181"]={"code":"17181","region":"Catalunya","city":"Vilablareix","latitude":41.95746,"longitude":2.77377}}(window,'GeoPostal','ES');

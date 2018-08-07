@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE43 7HJ"]={"code":"NE43 7HJ","region":"England","city":"Stocksfield","latitude":54.94633,"longitude":-1.91723}}(window,'GeoPostal','GB');

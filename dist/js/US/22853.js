@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22853"]={"code":"22853","region":"VA","city":"Timberville","latitude":38.6476,"longitude":-78.7717}}(window,'GeoPostal','US');

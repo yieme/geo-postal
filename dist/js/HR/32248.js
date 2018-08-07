@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32248"]={"code":"32248","region":"Vukovarsko-srijemska zupanija","city":"Ilaca","latitude":45.18139,"longitude":19.09583}}(window,'GeoPostal','HR');

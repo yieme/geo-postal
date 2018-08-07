@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18375"]={"code":"18375","region":"Mecklenburg-Vorpommern","city":"Ostseebad Prerow","latitude":54.44469,"longitude":12.57677}}(window,'GeoPostal','DE');

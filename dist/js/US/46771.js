@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46771"]={"code":"46771","region":"Indiana","city":"Mongo","latitude":41.6847,"longitude":-85.27968}}(window,'GeoPostal','US');

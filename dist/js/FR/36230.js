@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36230"]={"code":"36230","region":"Centre-Val de Loire","city":"Neuvy-Saint-Sepulchre","latitude":46.59781,"longitude":1.80601}}(window,'GeoPostal','FR');

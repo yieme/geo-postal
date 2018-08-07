@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59780-000"]={"code":"59780-000","region":"Rio Grande do Norte","city":"Caraubas","latitude":-5.7925,"longitude":-37.55667}}(window,'GeoPostal','BR');

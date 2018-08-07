@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59300-000"]={"code":"59300-000","region":"Rio Grande do Norte","city":"Caico","latitude":-6.45833,"longitude":-37.09778}}(window,'GeoPostal','BR');

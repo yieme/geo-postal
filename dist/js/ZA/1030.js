@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1030"]={"code":"1030","region":"Mpumalanga","city":"Siyabuswa","latitude":-25.11319,"longitude":29.04454}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33469"]={"code":"33469","region":"Nouvelle-Aquitaine","city":"Margaux","latitude":45.04012,"longitude":-0.67892}}(window,'GeoPostal','FR');

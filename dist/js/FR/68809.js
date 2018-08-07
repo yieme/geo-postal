@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68809"]={"code":"68809","region":"Grand-Est","city":"Vieux-Thann","latitude":47.80347,"longitude":7.12068}}(window,'GeoPostal','FR');

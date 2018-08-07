@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97470"]={"code":"97470","region":"Reunion","city":"Saint-Benoit","latitude":-21.03801,"longitude":55.71937}}(window,'GeoPostal','RE');

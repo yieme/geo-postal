@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13360"]={"code":"13360","region":"NY","city":"Inlet","latitude":43.748,"longitude":-74.7846}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27910"]={"code":"27910","region":"North Carolina","city":"Ahoskie","latitude":36.28682,"longitude":-76.98468}}(window,'GeoPostal','US');

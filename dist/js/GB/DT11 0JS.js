@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT11 0JS"]={"code":"DT11 0JS","region":"England","city":"Milborne Saint Andrew","latitude":50.76667,"longitude":-2.28333}}(window,'GeoPostal','GB');

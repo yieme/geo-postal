@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53360"]={"code":"53360","region":"Rize","city":"Guneysu","latitude":40.97762,"longitude":40.61359}}(window,'GeoPostal','TR');

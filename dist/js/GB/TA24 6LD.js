@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA24 6LD"]={"code":"TA24 6LD","region":"England","city":"Blue Anchor","latitude":51.18111,"longitude":-3.40139}}(window,'GeoPostal','GB');

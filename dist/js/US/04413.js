@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04413"]={"code":"04413","region":"Maine","city":"Brookton","latitude":45.577624,"longitude":-67.72503}}(window,'GeoPostal','US');

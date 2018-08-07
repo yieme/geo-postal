@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73022"]={"code":"73022","region":"Puglia","city":"Corigliano d'Otranto","latitude":40.15962,"longitude":18.25943}}(window,'GeoPostal','IT');

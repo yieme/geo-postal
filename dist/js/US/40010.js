@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40010"]={"code":"40010","region":"KY","city":"Buckner","latitude":38.3735,"longitude":-85.4507}}(window,'GeoPostal','US');

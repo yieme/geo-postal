@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA26 0TL"]={"code":"KA26 0TL","region":"Scotland","city":"Barr","latitude":55.2,"longitude":-4.7}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2567"]={"code":"2567","region":"New South Wales","city":"Narellan","latitude":-34.03333,"longitude":150.73333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20901"]={"code":"20901","region":"Alajuela","city":"Orotina","latitude":9.91197,"longitude":-84.52337}}(window,'GeoPostal','CR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68404"]={"code":"68404","region":"NE","city":"Martell","latitude":40.6514,"longitude":-96.7442}}(window,'GeoPostal','US');

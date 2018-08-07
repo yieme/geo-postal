@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH37 4LT"]={"code":"PH37 4LT","region":"Scotland","city":"Glenfinnan","latitude":56.87051,"longitude":-5.45051}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5061"]={"code":"5061","region":"Jasz-Nagykun-Szolnok","city":"Tiszasuly","latitude":47.38333,"longitude":20.4}}(window,'GeoPostal','HU');

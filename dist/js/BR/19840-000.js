@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19840-000"]={"code":"19840-000","region":"Sao Paulo","city":"Maracai","latitude":-22.61056,"longitude":-50.66722}}(window,'GeoPostal','BR');

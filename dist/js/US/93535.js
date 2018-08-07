@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93535"]={"code":"93535","region":"California","city":"Lancaster","latitude":34.7127,"longitude":-117.90416}}(window,'GeoPostal','US');

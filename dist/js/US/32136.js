@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32136"]={"code":"32136","region":"FL","city":"Flagler Beach","latitude":29.475,"longitude":-81.1303}}(window,'GeoPostal','US');

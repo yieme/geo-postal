@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91072"]={"code":"91072","region":"Tanger-Tetouan","city":"Tamorot","latitude":34.93632,"longitude":-4.7794}}(window,'GeoPostal','MA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16240"]={"code":"16240","region":"Nouvelle-Aquitaine","city":"Villefagnan","latitude":46.0114,"longitude":0.07936}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78250"]={"code":"78250","region":"Ile-de-France","city":"Meulan-en-Yvelines","latitude":49.00768,"longitude":1.90602}}(window,'GeoPostal','FR');

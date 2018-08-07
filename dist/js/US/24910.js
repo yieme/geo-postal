@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24910"]={"code":"24910","region":"West Virginia","city":"Alderson","latitude":37.72595,"longitude":-80.64202}}(window,'GeoPostal','US');

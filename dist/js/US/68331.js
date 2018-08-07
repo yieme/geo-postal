@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68331"]={"code":"68331","region":"NE","city":"Cortland","latitude":40.4976,"longitude":-96.7166}}(window,'GeoPostal','US');

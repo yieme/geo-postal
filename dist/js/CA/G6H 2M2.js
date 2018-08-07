@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G6H 2M2"]={"code":"G6H 2M2","region":"Quebec","city":"Irlande","latitude":46.06677,"longitude":-71.48238}}(window,'GeoPostal','CA');

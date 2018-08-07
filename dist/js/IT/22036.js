@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22036"]={"code":"22036","region":"Lombardia","city":"Erba","latitude":45.80958,"longitude":9.23124}}(window,'GeoPostal','IT');

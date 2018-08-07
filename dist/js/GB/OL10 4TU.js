@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OL10 4TU"]={"code":"OL10 4TU","region":"England","city":"Heywood","latitude":53.59245,"longitude":-2.21941}}(window,'GeoPostal','GB');

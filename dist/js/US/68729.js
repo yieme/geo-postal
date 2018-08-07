@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68729"]={"code":"68729","region":"Nebraska","city":"Creighton","latitude":42.46667,"longitude":-97.90618}}(window,'GeoPostal','US');

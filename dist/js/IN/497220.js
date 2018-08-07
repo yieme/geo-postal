@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["497220"]={"code":"497220","region":"Chhattisgarh","city":"Ramanuj Ganj","latitude":23.8,"longitude":83.7}}(window,'GeoPostal','IN');

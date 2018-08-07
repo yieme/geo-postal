@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56038"]={"code":"56038","region":"Toscana","city":"Ponsacco","latitude":43.62384,"longitude":10.62911}}(window,'GeoPostal','IT');

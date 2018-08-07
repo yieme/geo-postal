@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["653205"]={"code":"653205","region":"Yunnan","city":"Dalongtan","latitude":24.43583,"longitude":102.10832}}(window,'GeoPostal','CN');

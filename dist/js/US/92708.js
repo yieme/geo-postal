@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92708"]={"code":"92708","region":"California","city":"Fountain Valley","latitude":33.71665,"longitude":-117.944594}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41861"]={"code":"41861","region":"KY","city":"Raven","latitude":37.4043,"longitude":-82.8261}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38047"]={"code":"38047","region":"TN","city":"Lenox","latitude":36.0892,"longitude":-89.4984}}(window,'GeoPostal','US');

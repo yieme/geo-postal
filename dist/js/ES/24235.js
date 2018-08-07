@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24235"]={"code":"24235","region":"Castilla y Leon","city":"Villaquejida","latitude":42.145,"longitude":-5.59699}}(window,'GeoPostal','ES');

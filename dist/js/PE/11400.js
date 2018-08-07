@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11400"]={"code":"11400","region":"Ica","city":"Nazca","latitude":-14.83333,"longitude":-74.95}}(window,'GeoPostal','PE');

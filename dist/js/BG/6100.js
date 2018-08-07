@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6100"]={"code":"6100","region":"Stara Zagora","city":"Kazanluk","latitude":42.61667,"longitude":25.4}}(window,'GeoPostal','BG');

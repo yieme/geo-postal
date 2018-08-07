@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301635"]={"code":"301635","region":"Tul'skaya oblast'","city":"Brusyanka","latitude":53.98492,"longitude":38.03593}}(window,'GeoPostal','RU');

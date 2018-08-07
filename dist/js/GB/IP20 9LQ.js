@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP20 9LQ"]={"code":"IP20 9LQ","region":"England","city":"Needham","latitude":52.38576,"longitude":1.27068}}(window,'GeoPostal','GB');

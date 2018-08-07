@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["277 01"]={"code":"277 01","region":"Stredocesky kraj","city":"Dolni Berkovice","latitude":50.39313,"longitude":14.45024}}(window,'GeoPostal','CZ');

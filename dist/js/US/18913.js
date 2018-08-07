@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18913"]={"code":"18913","region":"PA","city":"Carversville","latitude":40.3865,"longitude":-75.0627}}(window,'GeoPostal','US');

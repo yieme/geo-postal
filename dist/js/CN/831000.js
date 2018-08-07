@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["831000"]={"code":"831000","region":"Shaanxi","city":"Huashan","latitude":34.483333,"longitude":110.083333}}(window,'GeoPostal','CN');

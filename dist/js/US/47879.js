@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47879"]={"code":"47879","region":"IN","city":"Shelburn","latitude":39.1784,"longitude":-87.3936}}(window,'GeoPostal','US');

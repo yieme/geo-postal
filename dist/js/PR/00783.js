@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00783"]={"code":"00783","region":"Corozal","city":"Corozal","latitude":18.34106,"longitude":-66.31684}}(window,'GeoPostal','PR');

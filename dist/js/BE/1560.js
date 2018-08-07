@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1560"]={"code":"1560","region":"Vlaams-Brabant","city":"Hoeilaart","latitude":50.7673,"longitude":4.46835}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7630-099"]={"code":"7630-099","region":"Beja","city":"Odemira","latitude":37.59798,"longitude":-8.63972}}(window,'GeoPostal','PT');

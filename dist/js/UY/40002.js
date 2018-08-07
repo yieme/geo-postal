@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40002"]={"code":"40002","region":"Rivera","city":"Minas de Corrales","latitude":-31.58333,"longitude":-55.46667}}(window,'GeoPostal','UY');

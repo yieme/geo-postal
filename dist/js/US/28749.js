@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28749"]={"code":"28749","region":"NC","city":"Little Switzerland","latitude":35.8493,"longitude":-82.0904}}(window,'GeoPostal','US');

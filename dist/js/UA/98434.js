@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98434"]={"code":"98434","region":"Avtonomna Respublika Krym","city":"Viline","latitude":44.8456,"longitude":33.67161}}(window,'GeoPostal','UA');

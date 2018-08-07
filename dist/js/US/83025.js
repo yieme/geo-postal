@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83025"]={"code":"83025","region":"Wyoming","city":"Teton Village","latitude":43.58639,"longitude":-110.82667}}(window,'GeoPostal','US');

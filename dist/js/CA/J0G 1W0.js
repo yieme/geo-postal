@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0G 1W0"]={"code":"J0G 1W0","region":"Quebec","city":"Yamaska","latitude":46.00006,"longitude":-72.9158}}(window,'GeoPostal','CA');

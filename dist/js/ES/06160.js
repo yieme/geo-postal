@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06160"]={"code":"06160","region":"Extremadura","city":"Barcarrota","latitude":38.51473,"longitude":-6.84923}}(window,'GeoPostal','ES');

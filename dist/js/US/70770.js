@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70770"]={"code":"70770","region":"LA","city":"Pride","latitude":30.6133,"longitude":-90.9943}}(window,'GeoPostal','US');

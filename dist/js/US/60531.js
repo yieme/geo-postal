@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60531"]={"code":"60531","region":"Illinois","city":"Somonauk","latitude":41.600014,"longitude":-88.780922}}(window,'GeoPostal','US');

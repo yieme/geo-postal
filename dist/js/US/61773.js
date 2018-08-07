@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61773"]={"code":"61773","region":"IL","city":"Sibley","latitude":40.5823,"longitude":-88.3815}}(window,'GeoPostal','US');

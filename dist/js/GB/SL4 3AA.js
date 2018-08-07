@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL4 3AA"]={"code":"SL4 3AA","region":"England","city":"Harley","latitude":52.6,"longitude":-2.6}}(window,'GeoPostal','GB');

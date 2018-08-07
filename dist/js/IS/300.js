@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300"]={"code":"300","region":"Vesturland","city":"Akranes","latitude":64.32179,"longitude":-22.0749}}(window,'GeoPostal','IS');

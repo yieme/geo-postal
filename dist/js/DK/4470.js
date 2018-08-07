@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4470"]={"code":"4470","region":"Sjelland","city":"Svebolle","latitude":55.65183,"longitude":11.28658}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23131"]={"code":"23131","region":"VA","city":"Ordinary","latitude":37.3122,"longitude":-76.5188}}(window,'GeoPostal','US');

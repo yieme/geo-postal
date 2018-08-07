@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422204"]={"code":"422204","region":"Hunan","city":"Liuduzhai","latitude":27.36611,"longitude":110.935}}(window,'GeoPostal','CN');

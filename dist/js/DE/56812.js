@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56812"]={"code":"56812","region":"Rheinland-Pfalz","city":"Dohr","latitude":50.13333,"longitude":7.11667}}(window,'GeoPostal','DE');

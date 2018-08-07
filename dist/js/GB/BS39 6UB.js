@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS39 6UB"]={"code":"BS39 6UB","region":"England","city":"Farrington Gurney","latitude":51.29774,"longitude":-2.52913}}(window,'GeoPostal','GB');

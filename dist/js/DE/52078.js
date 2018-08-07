@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52078"]={"code":"52078","region":"Nordrhein-Westfalen","city":"Aachen","latitude":50.77664,"longitude":6.08342}}(window,'GeoPostal','DE');

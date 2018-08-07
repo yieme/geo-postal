@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96257"]={"code":"96257","region":"Bayern","city":"Marktgraitz","latitude":50.18358,"longitude":11.19441}}(window,'GeoPostal','DE');

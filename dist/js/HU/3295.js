@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3295"]={"code":"3295","region":"Heves","city":"Tarnaoers","latitude":47.59499,"longitude":20.05254}}(window,'GeoPostal','HU');

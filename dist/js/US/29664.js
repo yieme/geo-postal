@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29664"]={"code":"29664","region":"South Carolina","city":"Mountain Rest","latitude":34.86917,"longitude":-83.15333}}(window,'GeoPostal','US');

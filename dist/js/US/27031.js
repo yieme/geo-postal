@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27031"]={"code":"27031","region":"North Carolina","city":"White Plains","latitude":36.44569,"longitude":-80.6334}}(window,'GeoPostal','US');

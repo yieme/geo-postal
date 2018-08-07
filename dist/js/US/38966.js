@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38966"]={"code":"38966","region":"Mississippi","city":"Webb","latitude":33.947742,"longitude":-90.346984}}(window,'GeoPostal','US');

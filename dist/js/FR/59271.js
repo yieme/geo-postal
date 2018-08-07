@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59271"]={"code":"59271","region":"Hauts-de-France","city":"Viesly","latitude":50.15345,"longitude":3.46236}}(window,'GeoPostal','FR');

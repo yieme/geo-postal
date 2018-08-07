@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93671"]={"code":"93671","region":"Sulawesi Tenggara","city":"Lasehao","latitude":-5.0068,"longitude":122.4943}}(window,'GeoPostal','ID');

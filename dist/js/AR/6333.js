@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6333"]={"code":"6333","region":"La Pampa","city":"Quemu Quemu","latitude":-36.05463,"longitude":-63.56428}}(window,'GeoPostal','AR');

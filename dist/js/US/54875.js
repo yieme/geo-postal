@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54875"]={"code":"54875","region":"Wisconsin","city":"Springbrook","latitude":45.986727,"longitude":-91.676451}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19543"]={"code":"19543","region":"Pennsylvania","city":"Morgantown","latitude":40.166419,"longitude":-75.887117}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29689"]={"code":"29689","region":"SC","city":"Townville","latitude":34.5226,"longitude":-82.8963}}(window,'GeoPostal','US');

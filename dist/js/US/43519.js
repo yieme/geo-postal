@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43519"]={"code":"43519","region":"Ohio","city":"Stryker","latitude":41.50366,"longitude":-84.41412}}(window,'GeoPostal','US');

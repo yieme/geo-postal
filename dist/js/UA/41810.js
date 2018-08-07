@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41810"]={"code":"41810","region":"Sumska oblast","city":"Bilopillya","latitude":51.15016,"longitude":34.31287}}(window,'GeoPostal','UA');

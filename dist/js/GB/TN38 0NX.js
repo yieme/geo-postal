@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN38 0NX"]={"code":"TN38 0NX","region":"England","city":"Saint Leonards-on-Sea","latitude":50.85565,"longitude":0.5452}}(window,'GeoPostal','GB');

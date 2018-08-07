@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363334"]={"code":"363334","region":"Severnaya Osetiya, Respublika","city":"Ardon","latitude":43.17,"longitude":44.29}}(window,'GeoPostal','RU');

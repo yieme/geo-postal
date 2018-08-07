@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72722"]={"code":"72722","region":"AR","city":"Decatur","latitude":36.3347,"longitude":-94.4534}}(window,'GeoPostal','US');

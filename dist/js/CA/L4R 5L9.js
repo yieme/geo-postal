@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L4R 5L9"]={"code":"L4R 5L9","region":"Ontario","city":"Ogden's Beach","latitude":44.7529,"longitude":-79.84856}}(window,'GeoPostal','CA');

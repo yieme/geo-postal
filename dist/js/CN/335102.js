@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["335102"]={"code":"335102","region":"Jiangxi","city":"Shegeng","latitude":28.43566,"longitude":116.66346}}(window,'GeoPostal','CN');

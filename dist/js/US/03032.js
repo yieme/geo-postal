@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03032"]={"code":"03032","region":"New Hampshire","city":"Auburn","latitude":42.995074,"longitude":-71.349119}}(window,'GeoPostal','US');

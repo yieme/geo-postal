@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0L 1T0"]={"code":"P0L 1T0","region":"Ontario","city":"Mattice","latitude":49.61692,"longitude":-83.26651}}(window,'GeoPostal','CA');

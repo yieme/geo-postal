@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56724"]={"code":"56724","region":"Minnesota","city":"Gatzke","latitude":48.41448,"longitude":-95.79468}}(window,'GeoPostal','US');

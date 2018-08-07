@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP20 7YB"]={"code":"NP20 7YB","region":"Wales","city":"Bettws","latitude":51.78333,"longitude":-3.98333}}(window,'GeoPostal','GB');

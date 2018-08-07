@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84645"]={"code":"84645","region":"UT","city":"Mona","latitude":39.8382,"longitude":-111.848}}(window,'GeoPostal','US');

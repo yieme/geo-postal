@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20684"]={"code":"20684","region":"MD","city":"Saint Inigoes","latitude":38.1441,"longitude":-76.4083}}(window,'GeoPostal','US');

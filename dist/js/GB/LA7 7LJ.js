@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA7 7LJ"]={"code":"LA7 7LJ","region":"England","city":"Sandside","latitude":54.21667,"longitude":-2.8}}(window,'GeoPostal','GB');

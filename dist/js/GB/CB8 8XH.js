@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB8 8XH"]={"code":"CB8 8XH","region":"England","city":"Wickhambrook","latitude":52.16132,"longitude":0.56022}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2330"]={"code":"2330","region":"New South Wales","city":"Bulga","latitude":-32.66667,"longitude":151.01667}}(window,'GeoPostal','AU');

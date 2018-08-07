@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4723"]={"code":"4723","region":"Queensland","city":"Capella","latitude":-23.08531,"longitude":148.02428}}(window,'GeoPostal','AU');

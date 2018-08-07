@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA9 1AU"]={"code":"SA9 1AU","region":"Wales","city":"Ystradgynlais","latitude":51.76667,"longitude":-3.76667}}(window,'GeoPostal','GB');

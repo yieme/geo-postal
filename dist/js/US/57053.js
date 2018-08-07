@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57053"]={"code":"57053","region":"South Dakota","city":"Parker","latitude":43.39748,"longitude":-97.13645}}(window,'GeoPostal','US');

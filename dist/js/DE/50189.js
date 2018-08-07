@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50189"]={"code":"50189","region":"Nordrhein-Westfalen","city":"Lich","latitude":50.93333,"longitude":6.48333}}(window,'GeoPostal','DE');

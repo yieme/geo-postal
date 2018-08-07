@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453733"]={"code":"453733","region":"Bashkortostan, Respublika","city":"Akhunovo","latitude":54.2079,"longitude":59.6017}}(window,'GeoPostal','RU');

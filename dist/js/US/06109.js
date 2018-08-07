@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06109"]={"code":"06109","region":"Connecticut","city":"Wethersfield","latitude":41.70476,"longitude":-72.66767}}(window,'GeoPostal','US');

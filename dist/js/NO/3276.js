@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3276"]={"code":"3276","region":"Vestfold","city":"Svarstad","latitude":59.399,"longitude":9.96985}}(window,'GeoPostal','NO');

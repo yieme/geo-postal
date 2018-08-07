@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98477"]={"code":"98477","region":"WA","city":"Weyerhaeuser Co","latitude":47.25,"longitude":-122.44}}(window,'GeoPostal','US');

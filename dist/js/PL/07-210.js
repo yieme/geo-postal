@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07-210"]={"code":"07-210","region":"Mazowieckie","city":"Dlugosiodlo","latitude":52.75998,"longitude":21.59183}}(window,'GeoPostal','PL');

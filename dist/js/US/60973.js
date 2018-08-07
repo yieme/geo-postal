@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60973"]={"code":"60973","region":"IL","city":"Wellington","latitude":40.5339,"longitude":-87.6561}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68870"]={"code":"68870","region":"Grand-Est","city":"Bartenheim","latitude":47.63354,"longitude":7.47712}}(window,'GeoPostal','FR');

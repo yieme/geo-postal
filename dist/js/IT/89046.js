@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89046"]={"code":"89046","region":"Calabria","city":"Marina di Gioiosa Ionica","latitude":38.30728,"longitude":16.32061}}(window,'GeoPostal','IT');

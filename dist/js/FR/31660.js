@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31660"]={"code":"31660","region":"Occitanie","city":"Bessieres","latitude":43.79861,"longitude":1.60624}}(window,'GeoPostal','FR');

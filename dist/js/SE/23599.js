@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23599"]={"code":"23599","region":"Skane lan","city":"Vellinge","latitude":55.47124,"longitude":13.01971}}(window,'GeoPostal','SE');

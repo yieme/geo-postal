@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01480"]={"code":"01480","region":"Auvergne-Rhone-Alpes","city":"Jassans-Riottier","latitude":45.98352,"longitude":4.76004}}(window,'GeoPostal','FR');

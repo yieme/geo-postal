@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9810"]={"code":"9810","region":"Oost-Vlaanderen","city":"Nazareth","latitude":50.95686,"longitude":3.59426}}(window,'GeoPostal','BE');

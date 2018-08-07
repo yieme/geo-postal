@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61201"]={"code":"61201","region":"Punjab","city":"Mailsi","latitude":29.80028,"longitude":72.17583}}(window,'GeoPostal','PK');

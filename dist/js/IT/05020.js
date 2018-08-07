@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05020"]={"code":"05020","region":"Umbria","city":"Avigliano","latitude":42.65483,"longitude":12.42616}}(window,'GeoPostal','IT');

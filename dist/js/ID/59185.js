@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59185"]={"code":"59185","region":"Jawa Tengah","city":"Growong Lor","latitude":-6.7115,"longitude":111.1413}}(window,'GeoPostal','ID');

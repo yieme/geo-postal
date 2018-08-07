@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FY2 0EL"]={"code":"FY2 0EL","region":"England","city":"Bispham","latitude":53.85251,"longitude":-3.03631}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["776-0015"]={"code":"776-0015","region":"Tokushima","city":"Yoshinogawa","latitude":34.06306,"longitude":134.36139}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57750-000"]={"code":"57750-000","region":"Alagoas","city":"Quebrangulo","latitude":-9.31889,"longitude":-36.47111}}(window,'GeoPostal','BR');

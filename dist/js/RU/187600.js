@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187600"]={"code":"187600","region":"Leningradskaya oblast'","city":"Pikalevo","latitude":59.51833,"longitude":34.16639}}(window,'GeoPostal','RU');

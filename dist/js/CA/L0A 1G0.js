@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0A 1G0"]={"code":"L0A 1G0","region":"Ontario","city":"Millbrook","latitude":44.15012,"longitude":-78.44954}}(window,'GeoPostal','CA');

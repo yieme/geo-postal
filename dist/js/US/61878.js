@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61878"]={"code":"61878","region":"IL","city":"Thomasboro","latitude":40.2402,"longitude":-88.183}}(window,'GeoPostal','US');

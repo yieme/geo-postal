@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99114"]={"code":"99114","region":"Washington","city":"Colville","latitude":48.54657,"longitude":-117.90554}}(window,'GeoPostal','US');

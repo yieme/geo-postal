@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4640"]={"code":"4640","region":"Taranaki","city":"Hawera","latitude":-39.59167,"longitude":174.28333}}(window,'GeoPostal','NZ');

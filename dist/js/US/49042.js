@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49042"]={"code":"49042","region":"MI","city":"Constantine","latitude":41.846,"longitude":-85.6571}}(window,'GeoPostal','US');

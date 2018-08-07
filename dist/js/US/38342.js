@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38342"]={"code":"38342","region":"TN","city":"Hollow Rock","latitude":36.0381,"longitude":-88.2737}}(window,'GeoPostal','US');

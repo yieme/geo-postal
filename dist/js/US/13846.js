@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13846"]={"code":"13846","region":"NY","city":"Treadwell","latitude":42.363,"longitude":-75.0588}}(window,'GeoPostal','US');

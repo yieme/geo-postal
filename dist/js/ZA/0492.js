@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0492"]={"code":"0492","region":"Limpopo","city":"Warmbaths","latitude":-24.88333,"longitude":28.28333}}(window,'GeoPostal','ZA');

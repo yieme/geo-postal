@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4101"]={"code":"4101","region":"Falcon","city":"Coro","latitude":11.4045,"longitude":-69.67344}}(window,'GeoPostal','VE');

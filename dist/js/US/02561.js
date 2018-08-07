@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02561"]={"code":"02561","region":"MA","city":"Sagamore","latitude":41.7703,"longitude":-70.5337}}(window,'GeoPostal','US');

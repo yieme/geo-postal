@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB10 2TG"]={"code":"CB10 2TG","region":"England","city":"Radwinter","latitude":52.01104,"longitude":0.33976}}(window,'GeoPostal','GB');

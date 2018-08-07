@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25621"]={"code":"25621","region":"West Virginia","city":"Gilbert","latitude":37.577587,"longitude":-81.87713}}(window,'GeoPostal','US');

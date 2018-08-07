@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6726"]={"code":"6726","region":"Csongrad","city":"Szeged","latitude":46.253,"longitude":20.14824}}(window,'GeoPostal','HU');

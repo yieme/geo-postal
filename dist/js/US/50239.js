@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50239"]={"code":"50239","region":"IA","city":"Saint Anthony","latitude":42.152,"longitude":-93.1824}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30411"]={"code":"30411","region":"GA","city":"Alamo","latitude":32.133,"longitude":-82.7944}}(window,'GeoPostal','US');

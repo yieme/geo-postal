@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10535"]={"code":"10535","region":"New York","city":"Jefferson Valley","latitude":41.336326,"longitude":-73.799987}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WN6 8BZ"]={"code":"WN6 8BZ","region":"England","city":"Shevington","latitude":53.57236,"longitude":-2.69316}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83346"]={"code":"83346","region":"Idaho","city":"Oakley","latitude":42.303,"longitude":-113.99628}}(window,'GeoPostal','US');

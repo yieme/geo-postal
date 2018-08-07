@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14914"]={"code":"14914","region":"Andalucia","city":"Palenciana","latitude":37.24851,"longitude":-4.58261}}(window,'GeoPostal','ES');

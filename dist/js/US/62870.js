@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62870"]={"code":"62870","region":"IL","city":"Odin","latitude":38.6088,"longitude":-89.0552}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP17 2AZ"]={"code":"IP17 2AZ","region":"England","city":"Rendham","latitude":52.22873,"longitude":1.43899}}(window,'GeoPostal','GB');

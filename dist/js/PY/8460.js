@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8460"]={"code":"8460","region":"San Pedro","city":"Tacuati","latitude":-23.45,"longitude":-56.58333}}(window,'GeoPostal','PY');

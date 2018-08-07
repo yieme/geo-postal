@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6105"]={"code":"6105","region":"Western Australia","city":"Cloverdale","latitude":-31.96281,"longitude":115.94428}}(window,'GeoPostal','AU');

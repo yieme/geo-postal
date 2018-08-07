@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81844"]={"code":"81844","region":"Tarabulus","city":"Tripoli","latitude":32.87519,"longitude":13.18746}}(window,'GeoPostal','LY');

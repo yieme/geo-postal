@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43570"]={"code":"43570","region":"Ohio","city":"West Unity","latitude":41.58616,"longitude":-84.43495}}(window,'GeoPostal','US');

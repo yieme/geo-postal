@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54655"]={"code":"54655","region":"Wisconsin","city":"Soldiers Grove","latitude":43.39583,"longitude":-90.77222}}(window,'GeoPostal','US');

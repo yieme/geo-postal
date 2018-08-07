@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357014"]={"code":"357014","region":"Rostovskaya oblast'","city":"Zavetnoye","latitude":47.11944,"longitude":43.89028}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50168"]={"code":"50168","region":"IA","city":"Mingo","latitude":41.7898,"longitude":-93.288}}(window,'GeoPostal','US');

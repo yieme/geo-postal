@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16301"]={"code":"16301","region":"Paijat-Hame","city":"Orimattila","latitude":60.80487,"longitude":25.72964}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12981"]={"code":"12981","region":"NY","city":"Saranac","latitude":44.7032,"longitude":-73.7481}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-305"]={"code":"18-305","region":"Podlaskie","city":"Szumowo","latitude":52.91884,"longitude":22.08449}}(window,'GeoPostal','PL');

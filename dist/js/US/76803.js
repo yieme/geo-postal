@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76803"]={"code":"76803","region":"TX","city":"Brownwood","latitude":31.7421,"longitude":-98.9456}}(window,'GeoPostal','US');

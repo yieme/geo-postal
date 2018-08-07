@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217540"]={"code":"217540","region":"Gorj","city":"Urdari","latitude":44.8,"longitude":23.3}}(window,'GeoPostal','RO');

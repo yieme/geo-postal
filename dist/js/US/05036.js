@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05036"]={"code":"05036","region":"Vermont","city":"Brookfield","latitude":44.03412,"longitude":-72.6024}}(window,'GeoPostal','US');

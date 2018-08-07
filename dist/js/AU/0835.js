@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0835"]={"code":"0835","region":"Northern Territory","city":"Howard Springs","latitude":-12.49576,"longitude":131.04446}}(window,'GeoPostal','AU');

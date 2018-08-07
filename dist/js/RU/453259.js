@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453259"]={"code":"453259","region":"Bashkortostan, Respublika","city":"Salavat","latitude":53.38365,"longitude":55.90773}}(window,'GeoPostal','RU');

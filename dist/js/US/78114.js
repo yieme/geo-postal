@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78114"]={"code":"78114","region":"Texas","city":"Floresville","latitude":29.159828,"longitude":-98.180197}}(window,'GeoPostal','US');

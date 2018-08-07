@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11001"]={"code":"11001","region":"Tamanrasset","city":"I-n-Salah","latitude":27.19351,"longitude":2.46069}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54590"]={"code":"54590","region":"Grand-Est","city":"Hussigny-Godbrange","latitude":49.49119,"longitude":5.86683}}(window,'GeoPostal','FR');

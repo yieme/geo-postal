@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47918"]={"code":"47918","region":"Jalisco","city":"La Barca","latitude":20.28333,"longitude":-102.56667}}(window,'GeoPostal','MX');

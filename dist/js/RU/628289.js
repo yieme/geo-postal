@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628289"]={"code":"628289","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Uray","latitude":60.12472,"longitude":64.77583}}(window,'GeoPostal','RU');

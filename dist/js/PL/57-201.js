@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57-201"]={"code":"57-201","region":"Dolnoslaskie","city":"Zabkowice Slaskie","latitude":50.58969,"longitude":16.81239}}(window,'GeoPostal','PL');

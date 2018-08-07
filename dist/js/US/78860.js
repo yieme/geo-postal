@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78860"]={"code":"78860","region":"TX","city":"El Indio","latitude":28.5119,"longitude":-100.3112}}(window,'GeoPostal','US');

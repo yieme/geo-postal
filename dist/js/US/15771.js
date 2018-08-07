@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15771"]={"code":"15771","region":"PA","city":"Rochester Mills","latitude":40.8308,"longitude":-78.9892}}(window,'GeoPostal','US');

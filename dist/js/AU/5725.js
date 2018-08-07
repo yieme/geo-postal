@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5725"]={"code":"5725","region":"South Australia","city":"Roxby Downs","latitude":-30.56305,"longitude":136.89546}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49520"]={"code":"49520","region":"Pays-de-la-Loire","city":"Chatelais","latitude":47.7583,"longitude":-0.9261}}(window,'GeoPostal','FR');

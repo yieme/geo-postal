@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3390"]={"code":"3390","region":"Niederosterreich","city":"Melk","latitude":48.22737,"longitude":15.33186}}(window,'GeoPostal','AT');

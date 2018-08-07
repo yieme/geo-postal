@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47440"]={"code":"47440","region":"Nouvelle-Aquitaine","city":"Casseneuil","latitude":44.4431,"longitude":0.62095}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44100"]={"code":"44100","region":"Aragon","city":"Albarracin","latitude":40.40818,"longitude":-1.44375}}(window,'GeoPostal','ES');

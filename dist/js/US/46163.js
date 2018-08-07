@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46163"]={"code":"46163","region":"IN","city":"New Palestine","latitude":39.7233,"longitude":-85.9052}}(window,'GeoPostal','US');

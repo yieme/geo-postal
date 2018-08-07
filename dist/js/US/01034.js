@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01034"]={"code":"01034","region":"MA","city":"Granville","latitude":42.1127,"longitude":-72.952}}(window,'GeoPostal','US');

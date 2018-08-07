@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23417"]={"code":"23417","region":"Virginia","city":"Onancock","latitude":37.7118,"longitude":-75.7491}}(window,'GeoPostal','US');

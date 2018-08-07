@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47017"]={"code":"47017","region":"Emilia-Romagna","city":"Rocca San Casciano","latitude":44.05916,"longitude":11.84313}}(window,'GeoPostal','IT');

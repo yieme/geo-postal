@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57075"]={"code":"57075","region":"SD","city":"Wentworth","latitude":43.9852,"longitude":-96.9615}}(window,'GeoPostal','US');

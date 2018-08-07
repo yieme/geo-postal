@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25501"]={"code":"25501","region":"WV","city":"Alkol","latitude":38.1609,"longitude":-81.984}}(window,'GeoPostal','US');

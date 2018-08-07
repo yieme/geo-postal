@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37354"]={"code":"37354","region":"Tennessee","city":"Madisonville","latitude":35.520401,"longitude":-84.36476}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5630"]={"code":"5630","region":"Salzburg","city":"Bad Hofgastein","latitude":47.16667,"longitude":13.1}}(window,'GeoPostal','AT');

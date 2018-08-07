@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44430"]={"code":"44430","region":"OH","city":"Leavittsburg","latitude":41.2445,"longitude":-80.8869}}(window,'GeoPostal','US');

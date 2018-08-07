@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7551"]={"code":"7551","region":"Sor-Trondelag","city":"Hommelvik","latitude":63.41083,"longitude":10.79424}}(window,'GeoPostal','NO');

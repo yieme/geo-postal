@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9233"]={"code":"9233","region":"Odranci","city":"Odranci","latitude":46.58667,"longitude":16.28028}}(window,'GeoPostal','SI');

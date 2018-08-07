@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80000-000"]={"code":"80000-000","region":"Parana","city":"Curitiba","latitude":-25.42778,"longitude":-49.27306}}(window,'GeoPostal','BR');

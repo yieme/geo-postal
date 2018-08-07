@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82030"]={"code":"82030","region":"Campania","city":"San Salvatore Telesino","latitude":41.23602,"longitude":14.49913}}(window,'GeoPostal','IT');

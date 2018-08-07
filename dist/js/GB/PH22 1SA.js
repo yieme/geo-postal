@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH22 1SA"]={"code":"PH22 1SA","region":"Scotland","city":"Aviemore","latitude":57.19553,"longitude":-3.8259}}(window,'GeoPostal','GB');

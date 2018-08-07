@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89704"]={"code":"89704","region":"NV","city":"Washoe Valley","latitude":39.2669,"longitude":-119.8174}}(window,'GeoPostal','US');

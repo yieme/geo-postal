@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26237"]={"code":"26237","region":"Chiapas","city":"Venustiano Carranza","latitude":16.35,"longitude":-92.55}}(window,'GeoPostal','MX');

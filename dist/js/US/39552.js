@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39552"]={"code":"39552","region":"MS","city":"Escatawpa","latitude":30.4411,"longitude":-88.6345}}(window,'GeoPostal','US');

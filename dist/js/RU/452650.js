@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452650"]={"code":"452650","region":"Bashkortostan, Respublika","city":"Bakaly","latitude":55.17889,"longitude":53.80278}}(window,'GeoPostal','RU');

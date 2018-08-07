@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92382"]={"code":"92382","region":"California","city":"Running Springs","latitude":34.20768,"longitude":-117.1083}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1489"]={"code":"1489","region":"Gevgelija","city":"Miravci","latitude":41.30778,"longitude":22.435}}(window,'GeoPostal','MK');

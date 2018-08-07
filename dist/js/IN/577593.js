@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577593"]={"code":"577593","region":"Karnataka","city":"Chitradurga","latitude":14.23333,"longitude":76.4}}(window,'GeoPostal','IN');

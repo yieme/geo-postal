@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71721"]={"code":"71721","region":"AR","city":"Beirne","latitude":33.8887,"longitude":-93.2041}}(window,'GeoPostal','US');

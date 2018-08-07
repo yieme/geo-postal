@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85550"]={"code":"85550","region":"AZ","city":"San Carlos","latitude":33.3456,"longitude":-110.455}}(window,'GeoPostal','US');

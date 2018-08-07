@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147116"]={"code":"147116","region":"Teleorman","city":"Dobrotesti","latitude":44.28333,"longitude":24.88333}}(window,'GeoPostal','RO');

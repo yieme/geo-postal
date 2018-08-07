@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15235"]={"code":"15235","region":"Macvanski okrug","city":"Bogosavac","latitude":44.71889,"longitude":19.59528}}(window,'GeoPostal','RS');

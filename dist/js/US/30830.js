@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30830"]={"code":"30830","region":"Georgia","city":"Waynesboro","latitude":33.08987,"longitude":-82.01567}}(window,'GeoPostal','US');

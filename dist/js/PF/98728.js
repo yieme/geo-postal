@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98728"]={"code":"98728","region":"Iles du Vent","city":"Paopao","latitude":-17.5,"longitude":-149.81667}}(window,'GeoPostal','PF');

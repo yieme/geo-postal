@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89230"]={"code":"89230","region":"Bourgogne-Franche-Comte","city":"Villeneuve-Saint-Salves","latitude":47.8556,"longitude":3.6517}}(window,'GeoPostal','FR');

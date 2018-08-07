@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646160"]={"code":"646160","region":"Omskaya oblast'","city":"Lyubinskiy","latitude":55.15421,"longitude":72.69247}}(window,'GeoPostal','RU');

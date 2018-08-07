@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71655"]={"code":"71655","region":"Arkansas","city":"Monticello","latitude":33.629,"longitude":-91.79096}}(window,'GeoPostal','US');

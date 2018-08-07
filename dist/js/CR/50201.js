@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50201"]={"code":"50201","region":"Guanacaste","city":"Nicoya","latitude":10.14828,"longitude":-85.45201}}(window,'GeoPostal','CR');

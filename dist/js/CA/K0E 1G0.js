@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0E 1G0"]={"code":"K0E 1G0","region":"Ontario","city":"Lansdowne","latitude":44.608157,"longitude":-76.122598}}(window,'GeoPostal','CA');

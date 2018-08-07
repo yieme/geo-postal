@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20225"]={"code":"20225","region":"Dubrovacko-neretvanska zupanija","city":"Blato","latitude":42.7625,"longitude":17.48222}}(window,'GeoPostal','HR');

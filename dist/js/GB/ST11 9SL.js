@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST11 9SL"]={"code":"ST11 9SL","region":"England","city":"Draycott in the Moors","latitude":52.95766,"longitude":-2.02663}}(window,'GeoPostal','GB');

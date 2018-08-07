@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73838"]={"code":"73838","region":"OK","city":"Chester","latitude":36.2621,"longitude":-98.8838}}(window,'GeoPostal','US');

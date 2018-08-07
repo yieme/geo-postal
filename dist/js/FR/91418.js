@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91418"]={"code":"91418","region":"Ile-de-France","city":"Dourdan","latitude":48.52772,"longitude":2.01113}}(window,'GeoPostal','FR');

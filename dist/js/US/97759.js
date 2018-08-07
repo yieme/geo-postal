@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97759"]={"code":"97759","region":"OR","city":"Sisters","latitude":44.3165,"longitude":-121.5091}}(window,'GeoPostal','US');

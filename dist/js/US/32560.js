@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32560"]={"code":"32560","region":"FL","city":"Gonzalez","latitude":30.5818,"longitude":-87.2929}}(window,'GeoPostal','US');

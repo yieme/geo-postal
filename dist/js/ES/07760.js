@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07760"]={"code":"07760","region":"Illes Balears","city":"Ciutadella","latitude":40.00112,"longitude":3.84144}}(window,'GeoPostal','ES');

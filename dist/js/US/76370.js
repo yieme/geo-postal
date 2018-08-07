@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76370"]={"code":"76370","region":"Texas","city":"Megargel","latitude":33.361329,"longitude":-98.761078}}(window,'GeoPostal','US');

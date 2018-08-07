@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA41 7AA"]={"code":"PA41 7AA","region":"Scotland","city":"Isle of Gigha","latitude":55.68097,"longitude":-5.73967}}(window,'GeoPostal','GB');

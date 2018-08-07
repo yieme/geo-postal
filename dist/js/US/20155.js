@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20155"]={"code":"20155","region":"Virginia","city":"Gainesville","latitude":38.79567,"longitude":-77.61388}}(window,'GeoPostal','US');

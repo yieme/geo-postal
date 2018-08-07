@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340 15"]={"code":"340 15","region":"Sterea Ellada","city":"Nea Stira","latitude":38.18333,"longitude":24.2}}(window,'GeoPostal','GR');

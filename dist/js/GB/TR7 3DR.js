@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR7 3DR"]={"code":"TR7 3DR","region":"England","city":"Porth","latitude":50.42345,"longitude":-5.05616}}(window,'GeoPostal','GB');

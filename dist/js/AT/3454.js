@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3454"]={"code":"3454","region":"Niederosterreich","city":"Herzogenburg","latitude":48.28137,"longitude":15.69431}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63935"]={"code":"63935","region":"Missouri","city":"Doniphan","latitude":36.62089,"longitude":-90.82346}}(window,'GeoPostal','US');

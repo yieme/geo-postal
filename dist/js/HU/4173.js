@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4173"]={"code":"4173","region":"Hajdu-Bihar","city":"Nagyrabe","latitude":47.2,"longitude":21.33333}}(window,'GeoPostal','HU');

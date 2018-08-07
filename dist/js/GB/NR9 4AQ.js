@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR9 4AQ"]={"code":"NR9 4AQ","region":"England","city":"Scoulton","latitude":52.56838,"longitude":0.92588}}(window,'GeoPostal','GB');

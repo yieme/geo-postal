@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59828"]={"code":"59828","region":"Montana","city":"Corvallis","latitude":46.315,"longitude":-114.11472}}(window,'GeoPostal','US');

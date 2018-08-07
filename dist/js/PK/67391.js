@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67391"]={"code":"67391","region":"Punjab","city":"Sargodha","latitude":32.08361,"longitude":72.67111}}(window,'GeoPostal','PK');

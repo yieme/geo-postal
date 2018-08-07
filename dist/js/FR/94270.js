@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94270"]={"code":"94270","region":"Ile-de-France","city":"Le Kremlin-Bicetre","latitude":48.81471,"longitude":2.36073}}(window,'GeoPostal','FR');

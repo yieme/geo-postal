@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39455-000"]={"code":"39455-000","region":"Minas Gerais","city":"Varzelandia","latitude":-15.70139,"longitude":-44.0275}}(window,'GeoPostal','BR');

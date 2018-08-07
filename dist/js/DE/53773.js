@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53773"]={"code":"53773","region":"Nordrhein-Westfalen","city":"Hennef","latitude":50.77555,"longitude":7.28308}}(window,'GeoPostal','DE');

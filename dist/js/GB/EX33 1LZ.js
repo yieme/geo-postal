@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX33 1LZ"]={"code":"EX33 1LZ","region":"England","city":"Croyde","latitude":51.13002,"longitude":-4.22454}}(window,'GeoPostal','GB');

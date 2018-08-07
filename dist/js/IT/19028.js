@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19028"]={"code":"19028","region":"Liguria","city":"Varese Ligure","latitude":44.37635,"longitude":9.59418}}(window,'GeoPostal','IT');

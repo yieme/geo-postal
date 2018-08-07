@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78070"]={"code":"78070","region":"Texas","city":"Spring Branch","latitude":29.8416,"longitude":-98.4099}}(window,'GeoPostal','US');

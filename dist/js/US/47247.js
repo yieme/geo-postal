@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47247"]={"code":"47247","region":"IN","city":"Jonesville","latitude":39.0593,"longitude":-85.8886}}(window,'GeoPostal','US');

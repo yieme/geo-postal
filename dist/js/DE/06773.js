@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06773"]={"code":"06773","region":"Sachsen-Anhalt","city":"Radis","latitude":51.75226,"longitude":12.51453}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50222"]={"code":"50222","region":"IA","city":"Peru","latitude":41.2145,"longitude":-93.9437}}(window,'GeoPostal','US');

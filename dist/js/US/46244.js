@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46244"]={"code":"46244","region":"IN","city":"Indianapolis","latitude":39.7795,"longitude":-86.1328}}(window,'GeoPostal','US');

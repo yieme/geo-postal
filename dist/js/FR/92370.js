@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92370"]={"code":"92370","region":"Ile-de-France","city":"Chaville","latitude":48.80565,"longitude":2.18864}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA5 2BH"]={"code":"TA5 2BH","region":"England","city":"Chilton Trinity","latitude":51.14798,"longitude":-3.00871}}(window,'GeoPostal','GB');

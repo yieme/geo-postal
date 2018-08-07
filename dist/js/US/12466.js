@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12466"]={"code":"12466","region":"New York","city":"Port Ewen","latitude":41.904204,"longitude":-73.979042}}(window,'GeoPostal','US');

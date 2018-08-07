@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42207"]={"code":"42207","region":"KY","city":"Bee Spring","latitude":37.2975,"longitude":-86.2794}}(window,'GeoPostal','US');

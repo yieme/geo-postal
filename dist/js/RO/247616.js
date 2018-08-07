@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247616"]={"code":"247616","region":"Valcea","city":"Balcesti","latitude":44.61667,"longitude":23.95}}(window,'GeoPostal','RO');

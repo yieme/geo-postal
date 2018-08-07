@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33002"]={"code":"33002","region":"Treinta y Tres","city":"Vergara","latitude":-32.93333,"longitude":-53.95}}(window,'GeoPostal','UY');

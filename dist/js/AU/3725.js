@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3725"]={"code":"3725","region":"Victoria","city":"Goorambat","latitude":-36.41667,"longitude":145.91667}}(window,'GeoPostal','AU');

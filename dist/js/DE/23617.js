@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23617"]={"code":"23617","region":"Schleswig-Holstein","city":"Mori","latitude":53.88333,"longitude":10.63333}}(window,'GeoPostal','DE');

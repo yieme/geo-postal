@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3906"]={"code":"3906","region":"Tavus","city":"Dilijan","latitude":40.74103,"longitude":44.86362}}(window,'GeoPostal','AM');

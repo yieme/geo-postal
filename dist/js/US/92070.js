@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92070"]={"code":"92070","region":"CA","city":"Santa Ysabel","latitude":33.1476,"longitude":-116.6963}}(window,'GeoPostal','US');

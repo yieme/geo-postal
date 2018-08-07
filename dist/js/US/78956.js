@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78956"]={"code":"78956","region":"Texas","city":"Schulenburg","latitude":29.6819,"longitude":-96.90304}}(window,'GeoPostal','US');

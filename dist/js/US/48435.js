@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48435"]={"code":"48435","region":"MI","city":"Fostoria","latitude":43.2645,"longitude":-83.3796}}(window,'GeoPostal','US');

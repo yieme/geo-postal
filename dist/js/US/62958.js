@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62958"]={"code":"62958","region":"IL","city":"Makanda","latitude":37.6176,"longitude":-89.209}}(window,'GeoPostal','US');

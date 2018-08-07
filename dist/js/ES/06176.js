@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06176"]={"code":"06176","region":"Extremadura","city":"Santa Marta","latitude":38.61421,"longitude":-6.62799}}(window,'GeoPostal','ES');

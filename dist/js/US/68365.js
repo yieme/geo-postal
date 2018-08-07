@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68365"]={"code":"68365","region":"NE","city":"Grafton","latitude":40.6402,"longitude":-97.7403}}(window,'GeoPostal','US');

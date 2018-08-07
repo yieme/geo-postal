@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17121"]={"code":"17121","region":"Mecklenburg-Vorpommern","city":"Zeitlow","latitude":53.95396,"longitude":13.11098}}(window,'GeoPostal','DE');

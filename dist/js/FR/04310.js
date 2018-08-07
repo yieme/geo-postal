@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04310"]={"code":"04310","region":"Provence-Alpes-Cote d'Azur","city":"Peyruis","latitude":44.02959,"longitude":5.94262}}(window,'GeoPostal','FR');

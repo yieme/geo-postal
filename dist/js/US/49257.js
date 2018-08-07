@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49257"]={"code":"49257","region":"MI","city":"Moscow","latitude":42.0548,"longitude":-84.5039}}(window,'GeoPostal','US');

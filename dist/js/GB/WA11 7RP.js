@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA11 7RP"]={"code":"WA11 7RP","region":"England","city":"Saint Helens","latitude":50.69776,"longitude":-1.11194}}(window,'GeoPostal','GB');

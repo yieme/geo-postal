@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48117"]={"code":"48117","region":"Michigan","city":"Carleton","latitude":42.053383,"longitude":-83.410692}}(window,'GeoPostal','US');

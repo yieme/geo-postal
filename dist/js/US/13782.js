@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13782"]={"code":"13782","region":"NY","city":"Hamden","latitude":42.1787,"longitude":-74.9984}}(window,'GeoPostal','US');

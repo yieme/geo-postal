@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA11 0UD"]={"code":"CA11 0UD","region":"England","city":"Greystoke","latitude":54.66907,"longitude":-2.87275}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363 01"]={"code":"363 01","region":"Karlovarsky kraj","city":"Ostrov","latitude":50.30592,"longitude":12.93907}}(window,'GeoPostal','CZ');

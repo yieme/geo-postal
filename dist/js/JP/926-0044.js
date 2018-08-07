@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["926-0044"]={"code":"926-0044","region":"Ishikawa","city":"Nanao","latitude":37.033,"longitude":136.967}}(window,'GeoPostal','JP');

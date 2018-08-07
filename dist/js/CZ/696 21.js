@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 21"]={"code":"696 21","region":"Jihomoravsky kraj","city":"Prusanky","latitude":48.8284,"longitude":16.98068}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04769"]={"code":"04769","region":"Andalucia","city":"Berja","latitude":36.84693,"longitude":-2.94966}}(window,'GeoPostal','ES');

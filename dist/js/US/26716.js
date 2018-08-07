@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26716"]={"code":"26716","region":"West Virginia","city":"Eglon","latitude":39.30139,"longitude":-79.51917}}(window,'GeoPostal','US');

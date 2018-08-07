@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70713"]={"code":"70713","region":"Oaxaca","city":"Jalapa","latitude":16.5,"longitude":-95.46667}}(window,'GeoPostal','MX');

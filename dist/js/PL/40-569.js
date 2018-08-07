@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40-569"]={"code":"40-569","region":"Slaskie","city":"Katowice","latitude":50.25842,"longitude":19.02754}}(window,'GeoPostal','PL');

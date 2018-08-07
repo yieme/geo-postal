@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32370"]={"code":"32370","region":"Galicia","city":"La Rua","latitude":42.40048,"longitude":-7.10268}}(window,'GeoPostal','ES');

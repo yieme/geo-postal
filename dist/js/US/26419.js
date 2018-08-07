@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26419"]={"code":"26419","region":"WV","city":"Pine Grove","latitude":39.5755,"longitude":-80.6667}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70639"]={"code":"70639","region":"Louisiana","city":"Evans","latitude":30.997895,"longitude":-93.447774}}(window,'GeoPostal','US');

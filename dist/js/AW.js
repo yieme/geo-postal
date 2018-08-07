@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["AW"]={id:'AW',country:'Aruba', postal:{'':{code:'',region:'Aruba (general)',city:'Oranjestad',latitude:12.52398,longitude:-70.02703}}};

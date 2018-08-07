@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2831"]={"code":"2831","region":"Niederosterreich","city":"Warth","latitude":47.65,"longitude":16.11667}}(window,'GeoPostal','AT');

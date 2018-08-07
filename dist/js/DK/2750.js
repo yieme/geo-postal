@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2750"]={"code":"2750","region":"Hovedstaden","city":"Ballerup","latitude":55.73165,"longitude":12.36328}}(window,'GeoPostal','DK');

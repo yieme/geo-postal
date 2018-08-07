@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1641"]={"code":"1641","region":"Ostfold","city":"Karlshus","latitude":59.35195,"longitude":10.87226}}(window,'GeoPostal','NO');

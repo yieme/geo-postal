@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75-620"]={"code":"75-620","region":"Zachodniopomorskie","city":"Koszalin","latitude":54.19438,"longitude":16.17222}}(window,'GeoPostal','PL');

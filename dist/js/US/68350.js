@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68350"]={"code":"68350","region":"Nebraska","city":"Endicott","latitude":40.081543,"longitude":-97.094095}}(window,'GeoPostal','US');

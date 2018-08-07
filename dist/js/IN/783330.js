@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783330"]={"code":"783330","region":"Assam","city":"Dhuburi","latitude":26.03333,"longitude":89.96667}}(window,'GeoPostal','IN');

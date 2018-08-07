@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["090701"]={"code":"090701","region":"Guayas","city":"Duran","latitude":-2.2,"longitude":-79.83333}}(window,'GeoPostal','EC');

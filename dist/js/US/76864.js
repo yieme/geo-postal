@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76864"]={"code":"76864","region":"TX","city":"Mullin","latitude":31.5748,"longitude":-98.6635}}(window,'GeoPostal','US');

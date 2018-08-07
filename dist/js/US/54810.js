@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54810"]={"code":"54810","region":"Wisconsin","city":"Balsam Lake","latitude":45.45218,"longitude":-92.45464}}(window,'GeoPostal','US');

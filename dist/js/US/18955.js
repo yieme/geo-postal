@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18955"]={"code":"18955","region":"PA","city":"Richlandtown","latitude":40.4796,"longitude":-75.3146}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT13 9NL"]={"code":"CT13 9NL","region":"England","city":"Richborough","latitude":51.31054,"longitude":1.34943}}(window,'GeoPostal','GB');

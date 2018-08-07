@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49870"]={"code":"49870","region":"Jalisco","city":"Pihuamo","latitude":19.24991,"longitude":-103.38275}}(window,'GeoPostal','MX');

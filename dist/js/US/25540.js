@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25540"]={"code":"25540","region":"WV","city":"Midkiff","latitude":38.1762,"longitude":-82.1788}}(window,'GeoPostal','US');

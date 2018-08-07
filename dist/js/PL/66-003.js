@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-003"]={"code":"66-003","region":"Lubuskie","city":"Zabor","latitude":51.95194,"longitude":15.71676}}(window,'GeoPostal','PL');

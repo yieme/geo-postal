@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15110"]={"code":"15110","region":"Lop Buri","city":"Ban Mi","latitude":15.04428,"longitude":100.53681}}(window,'GeoPostal','TH');

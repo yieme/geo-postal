@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04448"]={"code":"04448","region":"Maine","city":"Howland","latitude":45.23867,"longitude":-68.66364}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4655"]={"code":"4655","region":"Queensland","city":"Hervey Bay","latitude":-25.2833,"longitude":152.8333}}(window,'GeoPostal','AU');

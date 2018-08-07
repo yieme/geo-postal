@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95676"]={"code":"95676","region":"Bayern","city":"Kornthan","latitude":49.9008,"longitude":12.16283}}(window,'GeoPostal','DE');

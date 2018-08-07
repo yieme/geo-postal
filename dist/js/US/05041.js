@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05041"]={"code":"05041","region":"Vermont","city":"East Randolph","latitude":43.973889,"longitude":-72.556389}}(window,'GeoPostal','US');

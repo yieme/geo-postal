@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98249"]={"code":"98249","region":"WA","city":"Freeland","latitude":48.0342,"longitude":-122.5641}}(window,'GeoPostal','US');

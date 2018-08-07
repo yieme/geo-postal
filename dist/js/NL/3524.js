@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3524"]={"code":"3524","region":"Utrecht","city":"Lunetten","latitude":52.06178,"longitude":5.13474}}(window,'GeoPostal','NL');

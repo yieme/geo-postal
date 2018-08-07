@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["493773"]={"code":"493773","region":"Chhattisgarh","city":"Dhamtari","latitude":20.70722,"longitude":81.54972}}(window,'GeoPostal','IN');

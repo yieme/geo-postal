@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99366"]={"code":"99366","region":"Papua","city":"Jayapura","latitude":-2.53333,"longitude":140.7}}(window,'GeoPostal','ID');

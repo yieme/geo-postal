@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2549"]={"code":"2549","region":"New South Wales","city":"Lochiel","latitude":-36.95,"longitude":149.8}}(window,'GeoPostal','AU');

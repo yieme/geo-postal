@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-7425"]={"code":"MD-7425","region":"Taraclia","city":"Taraclia","latitude":45.9,"longitude":28.66889}}(window,'GeoPostal','MD');

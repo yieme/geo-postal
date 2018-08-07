@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91598"]={"code":"91598","region":"Bayern","city":"Binzwangen","latitude":49.38407,"longitude":10.37146}}(window,'GeoPostal','DE');

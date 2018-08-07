@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83446"]={"code":"83446","region":"ID","city":"Spencer","latitude":44.3605,"longitude":-112.1869}}(window,'GeoPostal','US');

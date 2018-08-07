@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45881"]={"code":"45881","region":"OH","city":"Rawson","latitude":40.9589,"longitude":-83.7841}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56511"]={"code":"56511","region":"Minnesota","city":"Audubon","latitude":46.86167,"longitude":-95.97806}}(window,'GeoPostal','US');

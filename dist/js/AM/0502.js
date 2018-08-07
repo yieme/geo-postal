@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0502"]={"code":"0502","region":"Aragacotn","city":"Ashnak","latitude":40.32887,"longitude":43.91848}}(window,'GeoPostal','AM');

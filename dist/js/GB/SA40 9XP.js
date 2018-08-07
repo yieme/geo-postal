@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA40 9XP"]={"code":"SA40 9XP","region":"Wales","city":"Llanybydder","latitude":52.07476,"longitude":-4.15764}}(window,'GeoPostal','GB');

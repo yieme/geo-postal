@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61475"]={"code":"61475","region":"Michoacan de Ocampo","city":"Heroica Zitacuaro","latitude":19.4,"longitude":-100.36667}}(window,'GeoPostal','MX');

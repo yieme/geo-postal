@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["BZ"]={id:'BZ',country:'Belize', postal:{'':{code:'',region:'Cayo',city:'Belmopan',latitude:17.25,longitude:-88.76667}}};

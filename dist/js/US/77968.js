@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77968"]={"code":"77968","region":"TX","city":"Inez","latitude":28.8994,"longitude":-96.8003}}(window,'GeoPostal','US');

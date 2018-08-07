@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-233"]={"code":"42-233","region":"Slaskie","city":"Mykanow","latitude":50.9236,"longitude":19.2005}}(window,'GeoPostal','PL');

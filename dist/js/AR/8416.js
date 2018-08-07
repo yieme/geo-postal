@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8416"]={"code":"8416","region":"Rio Negro","city":"Comallo","latitude":-41.02993,"longitude":-70.26784}}(window,'GeoPostal','AR');

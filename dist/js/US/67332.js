@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67332"]={"code":"67332","region":"KS","city":"Bartlett","latitude":37.0601,"longitude":-95.2115}}(window,'GeoPostal','US');

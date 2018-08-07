@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13750"]={"code":"13750","region":"Castilla-La Mancha","city":"Castellar de Santiago","latitude":38.53928,"longitude":-3.27573}}(window,'GeoPostal','ES');

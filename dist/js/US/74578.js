@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74578"]={"code":"74578","region":"Oklahoma","city":"Wilburton","latitude":34.91871,"longitude":-95.30914}}(window,'GeoPostal','US');

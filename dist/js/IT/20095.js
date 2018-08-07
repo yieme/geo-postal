@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20095"]={"code":"20095","region":"Lombardia","city":"Cusano Milanino","latitude":45.55307,"longitude":9.18344}}(window,'GeoPostal','IT');

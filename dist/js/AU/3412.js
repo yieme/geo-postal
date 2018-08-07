@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3412"]={"code":"3412","region":"Victoria","city":"Goroke","latitude":-36.71788,"longitude":141.47305}}(window,'GeoPostal','AU');

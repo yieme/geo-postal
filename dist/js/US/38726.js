@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38726"]={"code":"38726","region":"MS","city":"Beulah","latitude":33.788,"longitude":-90.9795}}(window,'GeoPostal','US');

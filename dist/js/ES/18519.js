@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18519"]={"code":"18519","region":"Andalucia","city":"Purullena","latitude":37.31763,"longitude":-3.19056}}(window,'GeoPostal','ES');

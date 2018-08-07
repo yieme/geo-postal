@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37016"]={"code":"37016","region":"TN","city":"Auburntown","latitude":35.9338,"longitude":-86.1126}}(window,'GeoPostal','US');

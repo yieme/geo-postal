@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 1H0"]={"code":"T0J 1H0","region":"Alberta","city":"Esther","latitude":51.70012,"longitude":-110.26831}}(window,'GeoPostal','CA');

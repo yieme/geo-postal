@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["822 00"]={"code":"822 00","region":"Voreio Aigaio","city":"Vrontados","latitude":38.40889,"longitude":26.13278}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707455"]={"code":"707455","region":"Iasi","city":"Siretel","latitude":47.4,"longitude":26.73333}}(window,'GeoPostal','RO');

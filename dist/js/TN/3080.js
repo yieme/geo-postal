@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3080"]={"code":"3080","region":"Sfax","city":"Jabinyanah","latitude":35.035,"longitude":10.90809}}(window,'GeoPostal','TN');

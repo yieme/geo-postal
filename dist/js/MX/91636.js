@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91636"]={"code":"91636","region":"Veracruz de Ignacio de la Llave","city":"Paso del Macho","latitude":18.96667,"longitude":-96.71667}}(window,'GeoPostal','MX');

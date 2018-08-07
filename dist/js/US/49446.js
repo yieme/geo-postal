@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49446"]={"code":"49446","region":"MI","city":"New Era","latitude":43.5556,"longitude":-86.3448}}(window,'GeoPostal','US');

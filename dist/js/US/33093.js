@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33093"]={"code":"33093","region":"Florida","city":"Margate","latitude":26.25279,"longitude":-80.20792}}(window,'GeoPostal','US');

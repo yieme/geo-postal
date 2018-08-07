@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32152"]={"code":"32152","region":"Taza-Al Hoceima-Taounate","city":"Senada","latitude":35.07452,"longitude":-4.21583}}(window,'GeoPostal','MA');

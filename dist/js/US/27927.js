@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27927"]={"code":"27927","region":"NC","city":"Corolla","latitude":36.3206,"longitude":-75.8132}}(window,'GeoPostal','US');

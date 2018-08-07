@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65783"]={"code":"65783","region":"Missouri","city":"Windyville","latitude":37.713257,"longitude":-92.934536}}(window,'GeoPostal','US');

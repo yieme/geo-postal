@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["UM"]={'96799':{r:'Palmyra Atoll',c:'Palmyra Atoll'},'96898':'96799'};

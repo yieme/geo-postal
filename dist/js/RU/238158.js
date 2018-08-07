@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238158"]={"code":"238158","region":"Kaliningradskaya oblast'","city":"Chernyakhovsk","latitude":54.63345,"longitude":21.81557}}(window,'GeoPostal','RU');

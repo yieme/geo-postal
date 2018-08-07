@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22490"]={"code":"22490","region":"Edirne","city":"Enez","latitude":40.72472,"longitude":26.0825}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59190-000"]={"code":"59190-000","region":"Rio Grande do Norte","city":"Canguaretama","latitude":-6.38,"longitude":-35.12889}}(window,'GeoPostal','BR');

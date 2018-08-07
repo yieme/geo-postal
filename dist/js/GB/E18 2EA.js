@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E18 2EA"]={"code":"E18 2EA","region":"England","city":"Snaresbrook","latitude":51.58432,"longitude":0.01923}}(window,'GeoPostal','GB');

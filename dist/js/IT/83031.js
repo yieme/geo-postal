@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83031"]={"code":"83031","region":"Campania","city":"Avellino","latitude":40.91442,"longitude":14.78874}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25262"]={"code":"25262","region":"West Virginia","city":"Millwood","latitude":38.88194,"longitude":-81.86167}}(window,'GeoPostal','US');

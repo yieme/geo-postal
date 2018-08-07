@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 6JZ"]={"code":"EX22 6JZ","region":"England","city":"Pyworthy","latitude":50.80157,"longitude":-4.39444}}(window,'GeoPostal','GB');

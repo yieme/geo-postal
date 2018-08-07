@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37340"]={"code":"37340","region":"TN","city":"Guild","latitude":35.0178,"longitude":-85.5116}}(window,'GeoPostal','US');

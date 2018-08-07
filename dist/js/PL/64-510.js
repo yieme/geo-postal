@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-510"]={"code":"64-510","region":"Wielkopolskie","city":"Wronki","latitude":52.71051,"longitude":16.38044}}(window,'GeoPostal','PL');

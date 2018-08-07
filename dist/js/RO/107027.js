@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107027"]={"code":"107027","region":"Prahova","city":"Aricestii-Rahtivani","latitude":44.95,"longitude":25.83333}}(window,'GeoPostal','RO');

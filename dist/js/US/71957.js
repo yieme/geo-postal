@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71957"]={"code":"71957","region":"Arkansas","city":"Mount Ida","latitude":34.55676,"longitude":-93.63408}}(window,'GeoPostal','US');

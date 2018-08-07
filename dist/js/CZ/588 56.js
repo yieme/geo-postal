@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["588 56"]={"code":"588 56","region":"Kraj Vysocina","city":"Telc","latitude":49.18418,"longitude":15.45275}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85120"]={"code":"85120","region":"Bayern","city":"Hepberg","latitude":48.81667,"longitude":11.46667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9646"]={"code":"9646","region":"Groningen","city":"Veendam","latitude":53.10667,"longitude":6.87917}}(window,'GeoPostal','NL');

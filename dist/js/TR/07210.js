@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07210"]={"code":"07210","region":"Izmir","city":"Hypaepa","latitude":38.2278,"longitude":27.96955}}(window,'GeoPostal','TR');

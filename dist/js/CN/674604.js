@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674604"]={"code":"674604","region":"Yunnan","city":"Kangpu","latitude":27.5955,"longitude":99.10143}}(window,'GeoPostal','CN');

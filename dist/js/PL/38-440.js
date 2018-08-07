@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-440"]={"code":"38-440","region":"Podkarpackie","city":"Iwonicz-Zdroj","latitude":49.56319,"longitude":21.78992}}(window,'GeoPostal','PL');

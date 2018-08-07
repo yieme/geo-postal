@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13628"]={"code":"13628","region":"NY","city":"Deferiet","latitude":44.0356,"longitude":-75.6838}}(window,'GeoPostal','US');

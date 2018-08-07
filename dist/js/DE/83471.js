@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83471"]={"code":"83471","region":"Bayern","city":"Obersalzberg","latitude":47.63293,"longitude":13.04806}}(window,'GeoPostal','DE');

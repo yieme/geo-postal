@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86440"]={"code":"86440","region":"Chiapas","city":"Pueblo Juarez","latitude":17.65,"longitude":-93.15}}(window,'GeoPostal','MX');

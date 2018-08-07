@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31787"]={"code":"31787","region":"GA","city":"Smithville","latitude":31.8847,"longitude":-84.2271}}(window,'GeoPostal','US');

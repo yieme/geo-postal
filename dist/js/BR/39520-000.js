@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39520-000"]={"code":"39520-000","region":"Minas Gerais","city":"Porteirinha","latitude":-15.74333,"longitude":-43.02833}}(window,'GeoPostal','BR');

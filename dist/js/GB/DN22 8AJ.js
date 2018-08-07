@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 8AJ"]={"code":"DN22 8AJ","region":"England","city":"Elkesley","latitude":53.27282,"longitude":-0.97076}}(window,'GeoPostal','GB');

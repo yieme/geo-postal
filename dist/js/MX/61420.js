@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61420"]={"code":"61420","region":"Michoacan de Ocampo","city":"Tuxpan","latitude":19.56667,"longitude":-100.46667}}(window,'GeoPostal','MX');

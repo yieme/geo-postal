@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 1N0"]={"code":"G0X 1N0","region":"Quebec","city":"Saint-Mathieu-du-Parc","latitude":46.56676,"longitude":-72.91584}}(window,'GeoPostal','CA');

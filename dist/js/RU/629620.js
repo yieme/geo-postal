@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629620"]={"code":"629620","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Aksarka","latitude":66.56056,"longitude":67.7975}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62219"]={"code":"62219","region":"Hauts-de-France","city":"Longuenesse","latitude":50.73395,"longitude":2.2352}}(window,'GeoPostal','FR');

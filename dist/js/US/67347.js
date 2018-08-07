@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67347"]={"code":"67347","region":"KS","city":"Havana","latitude":37.0917,"longitude":-95.9414}}(window,'GeoPostal','US');

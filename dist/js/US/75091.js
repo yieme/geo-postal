@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75091"]={"code":"75091","region":"TX","city":"Sherman","latitude":33.6357,"longitude":-96.6089}}(window,'GeoPostal','US');

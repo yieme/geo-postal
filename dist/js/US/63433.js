@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63433"]={"code":"63433","region":"MO","city":"Ashburn","latitude":39.561,"longitude":-91.1844}}(window,'GeoPostal','US');

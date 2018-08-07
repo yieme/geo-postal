@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78370-000"]={"code":"78370-000","region":"Mato Grosso","city":"Nova Olimpia","latitude":-14.79722,"longitude":-57.28806}}(window,'GeoPostal','BR');

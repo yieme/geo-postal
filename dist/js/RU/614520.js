@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["614520"]={"code":"614520","region":"Permskiy kray","city":"Kultayevo","latitude":57.89435,"longitude":55.93916}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61025"]={"code":"61025","region":"Illinois","city":"East Dubuque","latitude":42.46638,"longitude":-90.57102}}(window,'GeoPostal','US');

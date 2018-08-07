@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3180"]={"code":"3180","region":"Victoria","city":"Knoxfield","latitude":-37.88978,"longitude":145.24962}}(window,'GeoPostal','AU');

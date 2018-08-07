@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Z 1M0"]={"code":"J0Z 1M0","region":"Quebec","city":"Sainte-Germaine-Boule","latitude":48.60018,"longitude":-79.11633}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66843"]={"code":"66843","region":"KS","city":"Cedar Point","latitude":38.26,"longitude":-96.8228}}(window,'GeoPostal','US');

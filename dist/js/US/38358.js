@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38358"]={"code":"38358","region":"Tennessee","city":"Milan","latitude":35.924013,"longitude":-88.766779}}(window,'GeoPostal','US');

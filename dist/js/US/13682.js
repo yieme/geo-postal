@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13682"]={"code":"13682","region":"NY","city":"Rodman","latitude":43.8622,"longitude":-75.8719}}(window,'GeoPostal','US');

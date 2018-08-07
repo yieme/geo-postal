@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54472"]={"code":"54472","region":"Rheinland-Pfalz","city":"Hinzerath","latitude":49.84736,"longitude":7.17812}}(window,'GeoPostal','DE');

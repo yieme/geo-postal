@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL19 9NX"]={"code":"PL19 9NX","region":"England","city":"Marytavy","latitude":50.58333,"longitude":-4.1}}(window,'GeoPostal','GB');

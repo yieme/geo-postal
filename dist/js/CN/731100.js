@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["731100"]={"code":"731100","region":"Gansu","city":"Linxia","latitude":35.60028,"longitude":103.20639}}(window,'GeoPostal','CN');

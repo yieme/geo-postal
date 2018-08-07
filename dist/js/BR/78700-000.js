@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78700-000"]={"code":"78700-000","region":"Mato Grosso","city":"Rondonopolis","latitude":-16.47083,"longitude":-54.63556}}(window,'GeoPostal','BR');

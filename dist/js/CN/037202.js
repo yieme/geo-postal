@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["037202"]={"code":"037202","region":"Shanxi","city":"Weiyuan","latitude":39.94856,"longitude":112.34148}}(window,'GeoPostal','CN');

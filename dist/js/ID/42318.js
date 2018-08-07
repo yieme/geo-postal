@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42318"]={"code":"42318","region":"Banten","city":"Rangkasbitung","latitude":-6.3591,"longitude":106.2494}}(window,'GeoPostal','ID');

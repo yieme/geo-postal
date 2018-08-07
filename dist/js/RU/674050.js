@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674050"]={"code":"674050","region":"Zabaykal'skiy kray","city":"Ulety","latitude":51.3572,"longitude":112.4849}}(window,'GeoPostal','RU');

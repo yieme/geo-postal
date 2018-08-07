@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55944"]={"code":"55944","region":"Minnesota","city":"Kasson","latitude":44.034741,"longitude":-92.751743}}(window,'GeoPostal','US');

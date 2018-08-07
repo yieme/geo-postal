@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30127"]={"code":"30127","region":"Occitanie","city":"Bellegarde","latitude":43.75329,"longitude":4.51654}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74352"]={"code":"74352","region":"OK","city":"Locust Grove","latitude":36.1819,"longitude":-95.1689}}(window,'GeoPostal','US');

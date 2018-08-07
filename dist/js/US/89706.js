@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89706"]={"code":"89706","region":"Nevada","city":"Carson City","latitude":39.187257,"longitude":-119.747063}}(window,'GeoPostal','US');

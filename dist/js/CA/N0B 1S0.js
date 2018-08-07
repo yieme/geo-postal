@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0B 1S0"]={"code":"N0B 1S0","region":"Ontario","city":"Elora","latitude":43.6834,"longitude":-80.43299}}(window,'GeoPostal','CA');

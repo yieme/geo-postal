@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0G 3A0"]={"code":"A0G 3A0","region":"Newfoundland and Labrador","city":"Lewisporte","latitude":49.24993,"longitude":-55.04816}}(window,'GeoPostal','CA');

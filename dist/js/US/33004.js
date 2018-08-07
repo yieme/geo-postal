@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33004"]={"code":"33004","region":"Florida","city":"Dania Beach","latitude":26.05231,"longitude":-80.14393}}(window,'GeoPostal','US');

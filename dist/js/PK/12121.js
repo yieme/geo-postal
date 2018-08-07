@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12121"]={"code":"12121","region":"Sindh","city":"Jacobabad","latitude":28.281,"longitude":68.43876}}(window,'GeoPostal','PK');

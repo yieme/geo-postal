@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01906"]={"code":"01906","region":"Sachsen","city":"Burkau","latitude":51.18333,"longitude":14.18333}}(window,'GeoPostal','DE');

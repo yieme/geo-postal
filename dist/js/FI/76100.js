@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76100"]={"code":"76100","region":"Etela-Savo","city":"Pieksamaki","latitude":62.3,"longitude":27.13333}}(window,'GeoPostal','FI');

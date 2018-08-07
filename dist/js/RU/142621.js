@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142621"]={"code":"142621","region":"Moskovskaya oblast'","city":"Kurovskoye","latitude":55.58183,"longitude":38.91994}}(window,'GeoPostal','RU');

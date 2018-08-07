@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31758"]={"code":"31758","region":"GA","city":"Thomasville","latitude":30.8366,"longitude":-83.9788}}(window,'GeoPostal','US');

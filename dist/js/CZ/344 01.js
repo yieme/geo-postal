@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344 01"]={"code":"344 01","region":"Plzensky kraj","city":"Domazlice","latitude":49.44049,"longitude":12.92976}}(window,'GeoPostal','CZ');

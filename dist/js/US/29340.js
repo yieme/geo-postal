@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29340"]={"code":"29340","region":"South Carolina","city":"Gaffney","latitude":35.063073,"longitude":-81.644157}}(window,'GeoPostal','US');

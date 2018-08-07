@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2678"]={"code":"2678","region":"Zuid-Holland","city":"De Lier","latitude":51.975,"longitude":4.24861}}(window,'GeoPostal','NL');

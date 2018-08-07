@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76044"]={"code":"76044","region":"TX","city":"Godley","latitude":32.4282,"longitude":-97.5349}}(window,'GeoPostal','US');

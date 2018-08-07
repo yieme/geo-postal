@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5040-054"]={"code":"5040-054","region":"Porto","city":"Vila Nova de Gaia","latitude":41.13363,"longitude":-8.61742}}(window,'GeoPostal','PT');

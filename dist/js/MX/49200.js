@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49200"]={"code":"49200","region":"Jalisco","city":"Atoyac","latitude":20.01667,"longitude":-103.53333}}(window,'GeoPostal','MX');

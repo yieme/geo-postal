@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT18 8AD"]={"code":"CT18 8AD","region":"England","city":"Paddlesworth","latitude":51.1157,"longitude":1.13537}}(window,'GeoPostal','GB');

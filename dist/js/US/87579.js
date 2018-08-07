@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87579"]={"code":"87579","region":"New Mexico","city":"Vadito","latitude":36.18915,"longitude":-105.688015}}(window,'GeoPostal','US');

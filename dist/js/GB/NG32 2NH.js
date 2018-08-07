@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG32 2NH"]={"code":"NG32 2NH","region":"England","city":"Barkston","latitude":52.96425,"longitude":-0.61592}}(window,'GeoPostal','GB');

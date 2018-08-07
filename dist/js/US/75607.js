@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75607"]={"code":"75607","region":"Texas","city":"Lewisville","latitude":32.577214,"longitude":-94.779132}}(window,'GeoPostal','US');

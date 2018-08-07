@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19483"]={"code":"19483","region":"PA","city":"Allstate Insurance Co","latitude":40.08,"longitude":-75.41}}(window,'GeoPostal','US');

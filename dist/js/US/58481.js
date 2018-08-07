@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58481"]={"code":"58481","region":"ND","city":"Spiritwood","latitude":46.9865,"longitude":-98.5219}}(window,'GeoPostal','US');

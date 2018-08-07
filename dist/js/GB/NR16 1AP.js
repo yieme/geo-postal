@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR16 1AP"]={"code":"NR16 1AP","region":"England","city":"Tibenham","latitude":52.4637,"longitude":1.14451}}(window,'GeoPostal','GB');

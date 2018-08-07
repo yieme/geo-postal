@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07230"]={"code":"07230","region":"Bursa","city":"Kursunlu","latitude":40.03361,"longitude":29.66472}}(window,'GeoPostal','TR');

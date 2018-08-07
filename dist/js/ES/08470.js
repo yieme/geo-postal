@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08470"]={"code":"08470","region":"Catalunya","city":"Sant Celoni","latitude":41.68333,"longitude":2.48333}}(window,'GeoPostal','ES');

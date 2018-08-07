@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34266"]={"code":"34266","region":"Hessen","city":"Heiligenrode","latitude":51.30785,"longitude":9.57561}}(window,'GeoPostal','DE');

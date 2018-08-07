@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85748"]={"code":"85748","region":"Bayern","city":"Garching bei Munchen","latitude":48.24896,"longitude":11.65101}}(window,'GeoPostal','DE');

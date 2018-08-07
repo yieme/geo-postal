@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75752"]={"code":"75752","region":"TX","city":"Athens","latitude":32.2151,"longitude":-95.79}}(window,'GeoPostal','US');

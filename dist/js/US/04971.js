@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04971"]={"code":"04971","region":"Maine","city":"Saint Albans","latitude":44.91006,"longitude":-69.41005}}(window,'GeoPostal','US');

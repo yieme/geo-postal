@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97341"]={"code":"97341","region":"Oregon","city":"Depoe Bay","latitude":44.80845,"longitude":-124.06317}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73469"]={"code":"73469","region":"Baden-Wurttemberg","city":"Utzmemmingen","latitude":48.82801,"longitude":10.43619}}(window,'GeoPostal','DE');

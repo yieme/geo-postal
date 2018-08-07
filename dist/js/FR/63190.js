@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63190"]={"code":"63190","region":"Auvergne-Rhone-Alpes","city":"Orleat","latitude":45.86163,"longitude":3.42194}}(window,'GeoPostal','FR');

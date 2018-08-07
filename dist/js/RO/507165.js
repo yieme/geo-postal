@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507165"]={"code":"507165","region":"Brasov","city":"Prejmer","latitude":45.71667,"longitude":25.76667}}(window,'GeoPostal','RO');

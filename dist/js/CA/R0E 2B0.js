@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0E 2B0"]={"code":"R0E 2B0","region":"Manitoba","city":"Tyndall","latitude":50.0828,"longitude":-96.6589}}(window,'GeoPostal','CA');

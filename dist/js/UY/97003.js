@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97003"]={"code":"97003","region":"Durazno","city":"Carlos Reyles","latitude":-33.01667,"longitude":-56.48333}}(window,'GeoPostal','UY');

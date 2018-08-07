@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42107"]={"code":"42107","region":"Nordrhein-Westfalen","city":"Wuppertal","latitude":51.27027,"longitude":7.16755}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38525"]={"code":"38525","region":"Kalmar lan","city":"Torsas","latitude":56.41251,"longitude":15.99844}}(window,'GeoPostal','SE');

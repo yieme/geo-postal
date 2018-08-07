@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["859500"]={"code":"859500","region":"Xizang","city":"Ngari","latitude":32.5,"longitude":80.101389}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70533"]={"code":"70533","region":"Oaxaca","city":"Asuncion Ixtaltepec","latitude":16.5,"longitude":-95.05}}(window,'GeoPostal','MX');

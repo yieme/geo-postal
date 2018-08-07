@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30552"]={"code":"30552","region":"Georgia","city":"Lakemont","latitude":34.752568,"longitude":-83.396635}}(window,'GeoPostal','US');

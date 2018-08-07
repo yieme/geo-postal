@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368322"]={"code":"368322","region":"Dagestan, Respublika","city":"Urma","latitude":42.53894,"longitude":47.28639}}(window,'GeoPostal','RU');

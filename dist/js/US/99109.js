@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99109"]={"code":"99109","region":"Washington","city":"Chewelah","latitude":48.27629,"longitude":-117.71552}}(window,'GeoPostal','US');

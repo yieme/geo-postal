@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25276"]={"code":"25276","region":"West Virginia","city":"Spencer","latitude":38.80203,"longitude":-81.35095}}(window,'GeoPostal','US');

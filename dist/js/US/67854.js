@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67854"]={"code":"67854","region":"KS","city":"Jetmore","latitude":38.0738,"longitude":-99.9327}}(window,'GeoPostal','US');

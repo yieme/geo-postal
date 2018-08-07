@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-014"]={"code":"86-014","region":"Kujawsko-pomorskie","city":"Sicienko","latitude":53.20387,"longitude":17.80051}}(window,'GeoPostal','PL');

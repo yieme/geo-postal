@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82441"]={"code":"82441","region":"Wyoming","city":"Shell","latitude":44.53556,"longitude":-107.77917}}(window,'GeoPostal','US');

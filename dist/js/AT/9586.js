@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9586"]={"code":"9586","region":"Steiermark","city":"Fernitz","latitude":46.97389,"longitude":15.50111}}(window,'GeoPostal','AT');

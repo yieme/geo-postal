@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78062"]={"code":"78062","region":"Texas","city":"Peggy","latitude":28.739444,"longitude":-98.178333}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37840"]={"code":"37840","region":"TN","city":"Oliver Springs","latitude":36.0366,"longitude":-84.3486}}(window,'GeoPostal','US');

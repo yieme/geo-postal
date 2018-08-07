@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0928"]={"code":"0928","region":"Armavir","city":"Lukashin","latitude":40.17583,"longitude":44.01861}}(window,'GeoPostal','AM');

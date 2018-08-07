@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1950"]={"code":"1950","region":"Dhaka","city":"Sakhipur","latitude":24.3,"longitude":90.18333}}(window,'GeoPostal','BD');

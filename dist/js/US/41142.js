@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41142"]={"code":"41142","region":"Kentucky","city":"Grahn","latitude":38.283611,"longitude":-83.075278}}(window,'GeoPostal','US');

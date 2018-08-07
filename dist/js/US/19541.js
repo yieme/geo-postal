@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19541"]={"code":"19541","region":"PA","city":"Mohrsville","latitude":40.4783,"longitude":-76.0125}}(window,'GeoPostal','US');

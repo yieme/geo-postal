@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43107"]={"code":"43107","region":"OH","city":"Bremen","latitude":39.6909,"longitude":-82.4096}}(window,'GeoPostal','US');

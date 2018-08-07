@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML11 8SS"]={"code":"ML11 8SS","region":"Scotland","city":"Pettinain","latitude":55.66912,"longitude":-3.66377}}(window,'GeoPostal','GB');

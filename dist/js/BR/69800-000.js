@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69800-000"]={"code":"69800-000","region":"Amazonas","city":"Humaita","latitude":-7.50611,"longitude":-63.02083}}(window,'GeoPostal','BR');

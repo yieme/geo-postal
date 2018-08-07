@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80451"]={"code":"80451","region":"Colorado","city":"Hot Sulphur Springs","latitude":40.07304,"longitude":-106.1028}}(window,'GeoPostal','US');

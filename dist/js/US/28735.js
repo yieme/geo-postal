@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28735"]={"code":"28735","region":"NC","city":"Gerton","latitude":35.4759,"longitude":-82.3505}}(window,'GeoPostal','US');

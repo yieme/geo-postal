@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU28 0LZ"]={"code":"GU28 0LZ","region":"England","city":"Waltham","latitude":50.9,"longitude":-0.66667}}(window,'GeoPostal','GB');

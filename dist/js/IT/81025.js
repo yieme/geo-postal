@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81025"]={"code":"81025","region":"Campania","city":"Marcianise","latitude":41.03221,"longitude":14.30093}}(window,'GeoPostal','IT');

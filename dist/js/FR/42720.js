@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42720"]={"code":"42720","region":"Auvergne-Rhone-Alpes","city":"Pouilly-sous-Charlieu","latitude":46.14566,"longitude":4.1089}}(window,'GeoPostal','FR');

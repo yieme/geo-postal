@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72339"]={"code":"72339","region":"AR","city":"Gilmore","latitude":35.4057,"longitude":-90.2714}}(window,'GeoPostal','US');

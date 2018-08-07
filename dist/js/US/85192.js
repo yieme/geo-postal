@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85192"]={"code":"85192","region":"Arizona","city":"Winkelman","latitude":32.98806,"longitude":-110.77028}}(window,'GeoPostal','US');

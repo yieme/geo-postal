@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62165"]={"code":"62165","region":"Jawa Tengah","city":"Gondel","latitude":-7.2293,"longitude":111.4947}}(window,'GeoPostal','ID');

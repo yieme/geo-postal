@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13670"]={"code":"13670","region":"New York","city":"Oswegatchie","latitude":44.183139,"longitude":-75.079902}}(window,'GeoPostal','US');

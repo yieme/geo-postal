@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["732 00"]={"code":"732 00","region":"Kriti","city":"Tsikalaria","latitude":35.48333,"longitude":24.06667}}(window,'GeoPostal','GR');

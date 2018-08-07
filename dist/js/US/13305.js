@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13305"]={"code":"13305","region":"NY","city":"Beaver Falls","latitude":43.887,"longitude":-75.4274}}(window,'GeoPostal','US');

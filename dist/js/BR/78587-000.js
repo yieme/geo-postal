@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78587-000"]={"code":"78587-000","region":"Mato Grosso","city":"Alta Floresta","latitude":-9.9,"longitude":-55.9}}(window,'GeoPostal','BR');

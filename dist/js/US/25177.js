@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25177"]={"code":"25177","region":"West Virginia","city":"Saint Albans","latitude":38.379398,"longitude":-81.826976}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39159"]={"code":"39159","region":"Mississippi","city":"Rolling Fork","latitude":32.90652,"longitude":-90.87816}}(window,'GeoPostal','US');

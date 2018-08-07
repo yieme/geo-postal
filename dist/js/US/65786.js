@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65786"]={"code":"65786","region":"Missouri","city":"Macks Creek","latitude":37.96611,"longitude":-92.97222}}(window,'GeoPostal','US');

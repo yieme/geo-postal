@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81117"]={"code":"81117","region":"Bali","city":"Banjar Dauhmargi","latitude":-8.1367,"longitude":115.0653}}(window,'GeoPostal','ID');

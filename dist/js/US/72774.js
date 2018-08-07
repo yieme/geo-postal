@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72774"]={"code":"72774","region":"AR","city":"West Fork","latitude":35.9082,"longitude":-94.2304}}(window,'GeoPostal','US');

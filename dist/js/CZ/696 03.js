@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 03"]={"code":"696 03","region":"Jihomoravsky kraj","city":"Dubnany","latitude":48.91694,"longitude":17.09004}}(window,'GeoPostal','CZ');

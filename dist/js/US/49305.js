@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49305"]={"code":"49305","region":"MI","city":"Barryton","latitude":43.7507,"longitude":-85.1547}}(window,'GeoPostal','US');

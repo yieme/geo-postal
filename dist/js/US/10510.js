@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10510"]={"code":"10510","region":"New York","city":"Briarcliff Manor","latitude":41.145199,"longitude":-73.835141}}(window,'GeoPostal','US');

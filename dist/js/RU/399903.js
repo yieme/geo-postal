@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399903"]={"code":"399903","region":"Lipetskaya oblast'","city":"Chaplygin","latitude":53.24319,"longitude":39.96288}}(window,'GeoPostal','RU');

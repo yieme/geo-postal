@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80302"]={"code":"80302","region":"Colorado","city":"Boulder","latitude":40.034107,"longitude":-105.305454}}(window,'GeoPostal','US');

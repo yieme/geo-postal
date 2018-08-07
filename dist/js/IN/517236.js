@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517236"]={"code":"517236","region":"Andhra Pradesh","city":"Rayachoti","latitude":14.05,"longitude":78.75}}(window,'GeoPostal','IN');

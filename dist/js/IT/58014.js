@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58014"]={"code":"58014","region":"Toscana","city":"Manciano","latitude":42.58792,"longitude":11.51625}}(window,'GeoPostal','IT');

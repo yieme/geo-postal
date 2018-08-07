@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47006"]={"code":"47006","region":"Indiana","city":"Batesville","latitude":39.30005,"longitude":-85.22218}}(window,'GeoPostal','US');

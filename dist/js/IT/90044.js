@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90044"]={"code":"90044","region":"Sicilia","city":"Carini","latitude":38.15665,"longitude":13.17764}}(window,'GeoPostal','IT');

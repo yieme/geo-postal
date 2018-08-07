@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51230"]={"code":"51230","region":"Grand-Est","city":"Fere-Champenoise","latitude":48.75432,"longitude":3.99069}}(window,'GeoPostal','FR');

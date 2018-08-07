@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62231"]={"code":"62231","region":"Illinois","city":"Carlyle","latitude":38.61033,"longitude":-89.37258}}(window,'GeoPostal','US');

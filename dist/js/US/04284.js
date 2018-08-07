@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04284"]={"code":"04284","region":"ME","city":"Wayne","latitude":44.3493,"longitude":-70.0712}}(window,'GeoPostal','US');

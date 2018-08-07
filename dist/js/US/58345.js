@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58345"]={"code":"58345","region":"ND","city":"Lawton","latitude":48.3033,"longitude":-98.4142}}(window,'GeoPostal','US');

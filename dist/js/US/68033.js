@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68033"]={"code":"68033","region":"NE","city":"Ithaca","latitude":41.1748,"longitude":-96.5298}}(window,'GeoPostal','US');

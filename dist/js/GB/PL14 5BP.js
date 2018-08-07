@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 5BP"]={"code":"PL14 5BP","region":"England","city":"Henwood","latitude":50.53333,"longitude":-4.45}}(window,'GeoPostal','GB');

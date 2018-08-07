@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA3 7SY"]={"code":"TA3 7SY","region":"England","city":"Angersleigh","latitude":50.96185,"longitude":-3.14322}}(window,'GeoPostal','GB');

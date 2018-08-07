@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22125"]={"code":"22125","region":"VA","city":"Occoquan","latitude":38.6816,"longitude":-77.2605}}(window,'GeoPostal','US');

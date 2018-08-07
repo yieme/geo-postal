@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60072"]={"code":"60072","region":"IL","city":"Ringwood","latitude":42.4048,"longitude":-88.3054}}(window,'GeoPostal','US');

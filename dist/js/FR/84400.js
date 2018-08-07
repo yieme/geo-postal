@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84400"]={"code":"84400","region":"Provence-Alpes-Cote d'Azur","city":"Gargas","latitude":43.90199,"longitude":5.35781}}(window,'GeoPostal','FR');

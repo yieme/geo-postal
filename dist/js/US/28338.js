@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28338"]={"code":"28338","region":"North Carolina","city":"Ellerbe","latitude":35.07126,"longitude":-79.76144}}(window,'GeoPostal','US');

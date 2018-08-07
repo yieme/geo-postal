@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44373"]={"code":"44373","region":"Vastra Gotalands lan","city":"Olstorp","latitude":57.82277,"longitude":12.27696}}(window,'GeoPostal','SE');

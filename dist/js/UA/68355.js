@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68355"]={"code":"68355","region":"Odeska oblast","city":"Vylkove","latitude":45.40214,"longitude":29.58595}}(window,'GeoPostal','UA');

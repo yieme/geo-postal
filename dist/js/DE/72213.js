@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72213"]={"code":"72213","region":"Bayern","city":"Altensteig","latitude":48.00898,"longitude":10.53691}}(window,'GeoPostal','DE');

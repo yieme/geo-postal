@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35614"]={"code":"35614","region":"Hessen","city":"Asslar","latitude":50.59163,"longitude":8.46273}}(window,'GeoPostal','DE');

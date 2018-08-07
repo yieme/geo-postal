@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-825"]={"code":"05-825","region":"Mazowieckie","city":"Grodzisk Mazowiecki","latitude":52.10387,"longitude":20.6337}}(window,'GeoPostal','PL');

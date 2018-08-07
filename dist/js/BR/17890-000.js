@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17890-000"]={"code":"17890-000","region":"Sao Paulo","city":"Junqueiropolis","latitude":-21.51472,"longitude":-51.43361}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51280"]={"code":"51280","region":"Primorsko-goranska zupanija","city":"Banjol","latitude":44.75,"longitude":14.78333}}(window,'GeoPostal','HR');

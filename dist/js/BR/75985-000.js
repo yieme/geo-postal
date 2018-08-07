@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75985-000"]={"code":"75985-000","region":"Goias","city":"Parauna","latitude":-16.94778,"longitude":-50.44861}}(window,'GeoPostal','BR');

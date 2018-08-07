@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N1 5EE"]={"code":"N1 5EE","region":"England","city":"Hoxton","latitude":51.53544,"longitude":-0.08841}}(window,'GeoPostal','GB');

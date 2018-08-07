@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25550"]={"code":"25550","region":"Bourgogne-Franche-Comte","city":"Bavans","latitude":47.48528,"longitude":6.73324}}(window,'GeoPostal','FR');

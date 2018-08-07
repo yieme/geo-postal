@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6500"]={"code":"6500","region":"Syddanmark","city":"Vojens","latitude":55.24639,"longitude":9.30604}}(window,'GeoPostal','DK');

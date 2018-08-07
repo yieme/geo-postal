@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04692"]={"code":"04692","region":"Andalucia","city":"Taberno","latitude":37.4688,"longitude":-2.07736}}(window,'GeoPostal','ES');

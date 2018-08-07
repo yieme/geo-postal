@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72540"]={"code":"72540","region":"AR","city":"Guion","latitude":35.9266,"longitude":-91.9103}}(window,'GeoPostal','US');

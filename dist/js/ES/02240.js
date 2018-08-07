@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02240"]={"code":"02240","region":"Castilla-La Mancha","city":"Mahora","latitude":39.21667,"longitude":-1.73333}}(window,'GeoPostal','ES');

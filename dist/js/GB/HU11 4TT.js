@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU11 4TT"]={"code":"HU11 4TT","region":"England","city":"Withernwick","latitude":53.84886,"longitude":-0.18742}}(window,'GeoPostal','GB');

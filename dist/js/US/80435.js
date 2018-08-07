@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80435"]={"code":"80435","region":"Colorado","city":"Dillon","latitude":39.62778,"longitude":-106.04417}}(window,'GeoPostal','US');

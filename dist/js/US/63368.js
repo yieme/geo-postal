@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63368"]={"code":"63368","region":"Missouri","city":"O'Fallon","latitude":38.757,"longitude":-90.7247}}(window,'GeoPostal','US');

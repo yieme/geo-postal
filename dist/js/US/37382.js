@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37382"]={"code":"37382","region":"TN","city":"Summitville","latitude":35.5595,"longitude":-85.9925}}(window,'GeoPostal','US');

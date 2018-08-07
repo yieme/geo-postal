@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24538"]={"code":"24538","region":"VA","city":"Concord","latitude":37.337,"longitude":-78.9804}}(window,'GeoPostal','US');

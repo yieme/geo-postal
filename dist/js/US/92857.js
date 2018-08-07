@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92857"]={"code":"92857","region":"CA","city":"Orange","latitude":33.8317,"longitude":-117.8491}}(window,'GeoPostal','US');

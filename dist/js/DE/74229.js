@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74229"]={"code":"74229","region":"Baden-Wurttemberg","city":"Oedheim","latitude":49.24028,"longitude":9.25333}}(window,'GeoPostal','DE');

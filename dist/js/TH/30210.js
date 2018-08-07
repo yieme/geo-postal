@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30210"]={"code":"30210","region":"Nakhon Ratchasima","city":"Dan Khun Thot","latitude":15.2085,"longitude":101.77138}}(window,'GeoPostal','TH');

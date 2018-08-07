@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675900"]={"code":"675900","region":"Yunnan","city":"Fengshan","latitude":24.58333,"longitude":99.9}}(window,'GeoPostal','CN');

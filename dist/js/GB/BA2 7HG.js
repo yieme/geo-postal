@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA2 7HG"]={"code":"BA2 7HG","region":"England","city":"Combe","latitude":51.34632,"longitude":-1.46762}}(window,'GeoPostal','GB');

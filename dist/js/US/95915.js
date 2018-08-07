@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95915"]={"code":"95915","region":"CA","city":"Belden","latitude":40.006,"longitude":-121.2491}}(window,'GeoPostal','US');

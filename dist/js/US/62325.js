@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62325"]={"code":"62325","region":"IL","city":"Coatsburg","latitude":40.0554,"longitude":-91.1747}}(window,'GeoPostal','US');

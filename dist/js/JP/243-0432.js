@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243-0432"]={"code":"243-0432","region":"Kanagawa","city":"Ebina","latitude":35.44639,"longitude":139.39083}}(window,'GeoPostal','JP');

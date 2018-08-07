@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E3L 0A7"]={"code":"E3L 0A7","region":"New Brunswick","city":"St. Stephen","latitude":45.18044,"longitude":-67.29529}}(window,'GeoPostal','CA');

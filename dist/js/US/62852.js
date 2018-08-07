@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62852"]={"code":"62852","region":"IL","city":"Keensburg","latitude":38.3514,"longitude":-87.8661}}(window,'GeoPostal','US');

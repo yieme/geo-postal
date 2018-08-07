@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB53 8QW"]={"code":"AB53 8QW","region":"Scotland","city":"Fyvie","latitude":57.43236,"longitude":-2.39187}}(window,'GeoPostal','GB');

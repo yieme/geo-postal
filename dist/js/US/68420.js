@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68420"]={"code":"68420","region":"Nebraska","city":"Pawnee City","latitude":40.10833,"longitude":-96.15445}}(window,'GeoPostal','US');

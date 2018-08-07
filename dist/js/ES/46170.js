@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46170"]={"code":"46170","region":"Valenciana, Comunidad","city":"Villar del Arzobispo","latitude":39.73333,"longitude":-0.81667}}(window,'GeoPostal','ES');

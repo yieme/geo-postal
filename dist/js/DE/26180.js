@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26180"]={"code":"26180","region":"Niedersachsen","city":"Delfshausen","latitude":53.2847,"longitude":8.24905}}(window,'GeoPostal','DE');

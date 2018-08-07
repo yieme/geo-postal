@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19033"]={"code":"19033","region":"Pennsylvania","city":"Folsom","latitude":39.891014,"longitude":-75.328215}}(window,'GeoPostal','US');

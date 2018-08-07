@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368565"]={"code":"368565","region":"Dagestan, Respublika","city":"Druzhba","latitude":42.24108,"longitude":47.99798}}(window,'GeoPostal','RU');

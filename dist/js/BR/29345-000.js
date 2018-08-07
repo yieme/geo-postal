@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29345-000"]={"code":"29345-000","region":"Espirito Santo","city":"Itapemirim","latitude":-21.01111,"longitude":-40.83389}}(window,'GeoPostal','BR');

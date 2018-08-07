@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30859"]={"code":"30859","region":"Murcia, Region de","city":"Aledo","latitude":37.79341,"longitude":-1.57356}}(window,'GeoPostal','ES');

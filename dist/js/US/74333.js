@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74333"]={"code":"74333","region":"Oklahoma","city":"Bluejacket","latitude":36.805197,"longitude":-95.123136}}(window,'GeoPostal','US');

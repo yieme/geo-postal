@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31318"]={"code":"31318","region":"GA","city":"Meldrim","latitude":32.1499,"longitude":-81.3722}}(window,'GeoPostal','US');

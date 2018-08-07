@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447360"]={"code":"447360","region":"Satu Mare","city":"Viile Satu Mare","latitude":47.66667,"longitude":22.95}}(window,'GeoPostal','RO');

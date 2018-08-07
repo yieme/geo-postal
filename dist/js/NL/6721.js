@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6721"]={"code":"6721","region":"Gelderland","city":"Bennekom","latitude":51.99833,"longitude":5.67639}}(window,'GeoPostal','NL');

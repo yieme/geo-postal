@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94255"]={"code":"94255","region":"Bayern","city":"Kronhammer","latitude":49.04923,"longitude":13.03971}}(window,'GeoPostal','DE');

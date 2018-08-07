@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78039"]={"code":"78039","region":"TX","city":"La Coste","latitude":29.3082,"longitude":-98.8125}}(window,'GeoPostal','US');

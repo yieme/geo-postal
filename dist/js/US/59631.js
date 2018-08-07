@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59631"]={"code":"59631","region":"MT","city":"Basin","latitude":46.3296,"longitude":-112.1967}}(window,'GeoPostal','US');

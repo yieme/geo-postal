@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86034"]={"code":"86034","region":"Molise","city":"Guglionesi","latitude":41.91444,"longitude":14.91723}}(window,'GeoPostal','IT');

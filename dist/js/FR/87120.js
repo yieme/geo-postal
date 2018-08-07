@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87120"]={"code":"87120","region":"Nouvelle-Aquitaine","city":"Eymoutiers","latitude":45.7379,"longitude":1.74189}}(window,'GeoPostal','FR');

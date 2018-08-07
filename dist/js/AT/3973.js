@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3973"]={"code":"3973","region":"Niederosterreich","city":"Langschlag","latitude":48.56667,"longitude":14.88333}}(window,'GeoPostal','AT');

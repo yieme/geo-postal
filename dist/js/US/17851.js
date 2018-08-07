@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17851"]={"code":"17851","region":"Pennsylvania","city":"Mount Carmel","latitude":40.79703,"longitude":-76.4119}}(window,'GeoPostal','US');

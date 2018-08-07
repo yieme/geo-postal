@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14585"]={"code":"14585","region":"NY","city":"West Bloomfield","latitude":42.9063,"longitude":-77.5531}}(window,'GeoPostal','US');

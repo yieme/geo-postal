@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16968"]={"code":"16968","region":"Jawa Barat","city":"Bogor","latitude":-6.59444,"longitude":106.78917}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 3P0"]={"code":"S0H 3P0","region":"Saskatchewan","city":"Riverhurst","latitude":50.90006,"longitude":-106.86797}}(window,'GeoPostal','CA');

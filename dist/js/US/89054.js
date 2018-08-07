@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89054"]={"code":"89054","region":"Nevada","city":"Sloan","latitude":35.935,"longitude":-115.2058}}(window,'GeoPostal','US');

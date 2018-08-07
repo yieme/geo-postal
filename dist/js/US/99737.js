@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99737"]={"code":"99737","region":"Alaska","city":"Delta Junction","latitude":64.02228,"longitude":-145.51608}}(window,'GeoPostal','US');

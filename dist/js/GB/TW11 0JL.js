@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TW11 0JL"]={"code":"TW11 0JL","region":"England","city":"Teddington","latitude":51.42233,"longitude":-0.33053}}(window,'GeoPostal','GB');

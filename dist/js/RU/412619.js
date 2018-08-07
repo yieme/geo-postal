@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412619"]={"code":"412619","region":"Saratovskaya oblast'","city":"Bazarnyy Karabulak","latitude":52.26833,"longitude":46.41444}}(window,'GeoPostal','RU');

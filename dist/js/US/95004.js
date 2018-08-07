@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95004"]={"code":"95004","region":"CA","city":"Aromas","latitude":36.8769,"longitude":-121.6324}}(window,'GeoPostal','US');

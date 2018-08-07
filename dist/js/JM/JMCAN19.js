@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMCAN19"]={"code":"JMCAN19","region":"Saint Ann","city":"Ocho Rios","latitude":18.4025,"longitude":-77.1048}}(window,'GeoPostal','JM');

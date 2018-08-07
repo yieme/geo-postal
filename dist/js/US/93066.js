@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93066"]={"code":"93066","region":"CA","city":"Somis","latitude":34.2798,"longitude":-119.0115}}(window,'GeoPostal','US');

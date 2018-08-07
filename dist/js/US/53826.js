@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53826"]={"code":"53826","region":"Wisconsin","city":"Wauzeka","latitude":43.111208,"longitude":-90.855212}}(window,'GeoPostal','US');

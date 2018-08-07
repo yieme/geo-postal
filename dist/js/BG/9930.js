@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9930"]={"code":"9930","region":"Shumen","city":"Kaspichan","latitude":43.31667,"longitude":27.16667}}(window,'GeoPostal','BG');

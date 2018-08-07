@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-7130"]={"code":"MD-7130","region":"Ocnita","city":"Ocnita","latitude":48.38528,"longitude":27.43917}}(window,'GeoPostal','MD');

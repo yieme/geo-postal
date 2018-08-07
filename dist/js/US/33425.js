@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33425"]={"code":"33425","region":"Florida","city":"Boynton Beach","latitude":26.518755,"longitude":-80.128943}}(window,'GeoPostal','US');

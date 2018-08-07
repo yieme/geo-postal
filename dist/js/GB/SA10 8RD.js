@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA10 8RD"]={"code":"SA10 8RD","region":"Wales","city":"Crynant","latitude":51.72889,"longitude":-3.74806}}(window,'GeoPostal','GB');

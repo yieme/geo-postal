@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75094"]={"code":"75094","region":"Texas","city":"Murphy","latitude":33.01776,"longitude":-96.62442}}(window,'GeoPostal','US');

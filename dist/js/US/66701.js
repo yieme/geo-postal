@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66701"]={"code":"66701","region":"Kansas","city":"Fort Scott","latitude":37.82274,"longitude":-94.70154}}(window,'GeoPostal','US');

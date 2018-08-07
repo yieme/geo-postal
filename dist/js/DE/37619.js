@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37619"]={"code":"37619","region":"Niedersachsen","city":"Bodenwerder","latitude":51.97156,"longitude":9.51931}}(window,'GeoPostal','DE');

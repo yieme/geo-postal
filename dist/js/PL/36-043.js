@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-043"]={"code":"36-043","region":"Podkarpackie","city":"Lecka","latitude":49.8786,"longitude":22.01368}}(window,'GeoPostal','PL');

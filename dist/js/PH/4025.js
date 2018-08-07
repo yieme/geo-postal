@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4025"]={"code":"4025","region":"Laguna","city":"Santa Cruz","latitude":14.27917,"longitude":121.08528}}(window,'GeoPostal','PH');

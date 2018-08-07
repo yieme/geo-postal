@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24395"]={"code":"24395","region":"Schleswig-Holstein","city":"Gelting","latitude":54.75,"longitude":9.9}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25-671"]={"code":"25-671","region":"Swietokrzyskie","city":"Kielce","latitude":50.87033,"longitude":20.62752}}(window,'GeoPostal','PL');

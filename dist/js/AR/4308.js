@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4308"]={"code":"4308","region":"Santiago del Estero","city":"Beltran","latitude":-27.82913,"longitude":-64.06098}}(window,'GeoPostal','AR');

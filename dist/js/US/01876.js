@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01876"]={"code":"01876","region":"Massachusetts","city":"Tewksbury","latitude":42.61065,"longitude":-71.23422}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA18 7RD"]={"code":"TA18 7RD","region":"England","city":"Haselbury Plucknett","latitude":50.89462,"longitude":-2.75197}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38040"]={"code":"38040","region":"Tennessee","city":"Halls","latitude":35.876713,"longitude":-89.397405}}(window,'GeoPostal','US');

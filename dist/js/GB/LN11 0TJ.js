@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 0TJ"]={"code":"LN11 0TJ","region":"England","city":"North Ormsby","latitude":53.41989,"longitude":-0.06141}}(window,'GeoPostal','GB');

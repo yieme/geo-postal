@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4117"]={"code":"4117","region":"Laguna","city":"Alaminos","latitude":14.06391,"longitude":121.24649}}(window,'GeoPostal','PH');

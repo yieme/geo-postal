@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2729"]={"code":"2729","region":"New South Wales","city":"Adelong","latitude":-35.31667,"longitude":148.05}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 7LH"]={"code":"NE65 7LH","region":"England","city":"Hepple","latitude":55.29986,"longitude":-2.02517}}(window,'GeoPostal','GB');

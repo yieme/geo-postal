@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36061"]={"code":"36061","region":"Veneto","city":"Bassano del Grappa","latitude":45.7676,"longitude":11.7357}}(window,'GeoPostal','IT');

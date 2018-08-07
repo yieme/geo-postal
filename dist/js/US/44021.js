@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44021"]={"code":"44021","region":"Ohio","city":"Burton","latitude":41.451466,"longitude":-81.158418}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40153"]={"code":"40153","region":"Kentucky","city":"McQuady","latitude":37.708333,"longitude":-86.518889}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL14 4DN"]={"code":"LL14 4DN","region":"Wales","city":"Rhostyllen","latitude":53.02939,"longitude":-3.02285}}(window,'GeoPostal','GB');

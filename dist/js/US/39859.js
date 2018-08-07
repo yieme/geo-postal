@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39859"]={"code":"39859","region":"Georgia","city":"Iron City","latitude":30.982334,"longitude":-84.786098}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32794"]={"code":"32794","region":"FL","city":"Maitland","latitude":28.6278,"longitude":-81.3631}}(window,'GeoPostal','US');

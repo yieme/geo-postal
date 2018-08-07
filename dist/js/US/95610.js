@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95610"]={"code":"95610","region":"California","city":"Citrus Heights","latitude":38.70712,"longitude":-121.28106}}(window,'GeoPostal','US');

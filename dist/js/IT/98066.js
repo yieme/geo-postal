@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98066"]={"code":"98066","region":"Sicilia","city":"Patti","latitude":38.14676,"longitude":14.96958}}(window,'GeoPostal','IT');

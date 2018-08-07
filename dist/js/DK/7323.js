@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7323"]={"code":"7323","region":"Syddanmark","city":"Give","latitude":55.83977,"longitude":9.24998}}(window,'GeoPostal','DK');

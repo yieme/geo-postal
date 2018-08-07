@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0E 2W0"]={"code":"B0E 2W0","region":"Nova Scotia","city":"Port Hood","latitude":46.01684,"longitude":-61.53185}}(window,'GeoPostal','CA');

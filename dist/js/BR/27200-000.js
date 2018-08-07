@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27200-000"]={"code":"27200-000","region":"Rio de Janeiro","city":"Volta Redonda","latitude":-22.52306,"longitude":-44.10417}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81643"]={"code":"81643","region":"CO","city":"Mesa","latitude":39.1612,"longitude":-108.1044}}(window,'GeoPostal','US');

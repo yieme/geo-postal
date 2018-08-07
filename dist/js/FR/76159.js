@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76159"]={"code":"76159","region":"Normandie","city":"Maromme","latitude":49.47925,"longitude":1.02375}}(window,'GeoPostal','FR');

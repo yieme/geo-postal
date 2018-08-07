@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01092"]={"code":"01092","region":"MA","city":"West Warren","latitude":42.2029,"longitude":-72.229}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71051"]={"code":"71051","region":"LA","city":"Elm Grove","latitude":32.3886,"longitude":-93.5026}}(window,'GeoPostal','US');

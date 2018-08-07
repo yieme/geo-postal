@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90540"]={"code":"90540","region":"Zakarpatska oblast","city":"Neresnytsya","latitude":48.11814,"longitude":23.76588}}(window,'GeoPostal','UA');

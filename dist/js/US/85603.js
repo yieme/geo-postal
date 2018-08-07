@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85603"]={"code":"85603","region":"Arizona","city":"Bisbee","latitude":31.45884,"longitude":-109.9458}}(window,'GeoPostal','US');

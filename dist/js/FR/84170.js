@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84170"]={"code":"84170","region":"Provence-Alpes-Cote d'Azur","city":"Monteux","latitude":44.0348,"longitude":4.99719}}(window,'GeoPostal','FR');

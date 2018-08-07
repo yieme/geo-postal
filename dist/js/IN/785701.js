@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["785701"]={"code":"785701","region":"Assam","city":"Jorhat","latitude":26.75,"longitude":94.21667}}(window,'GeoPostal','IN');

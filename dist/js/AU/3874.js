@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3874"]={"code":"3874","region":"Victoria","city":"Woodside","latitude":-38.52377,"longitude":146.87514}}(window,'GeoPostal','AU');

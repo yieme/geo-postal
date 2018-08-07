@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55983"]={"code":"55983","region":"MN","city":"Wanamingo","latitude":44.3121,"longitude":-92.8103}}(window,'GeoPostal','US');

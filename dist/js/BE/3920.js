@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3920"]={"code":"3920","region":"Limburg","city":"Lommel","latitude":51.23074,"longitude":5.31349}}(window,'GeoPostal','BE');

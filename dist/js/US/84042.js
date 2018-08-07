@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84042"]={"code":"84042","region":"Utah","city":"Lindon","latitude":40.346182,"longitude":-111.731797}}(window,'GeoPostal','US');

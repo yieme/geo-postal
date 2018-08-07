@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14544"]={"code":"14544","region":"New York","city":"Rushville","latitude":42.745985,"longitude":-77.243033}}(window,'GeoPostal','US');

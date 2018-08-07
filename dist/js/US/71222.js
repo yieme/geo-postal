@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71222"]={"code":"71222","region":"LA","city":"Bernice","latitude":32.8221,"longitude":-92.6579}}(window,'GeoPostal','US');

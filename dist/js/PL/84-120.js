@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-120"]={"code":"84-120","region":"Pomorskie","city":"Wladyslawowo","latitude":54.79086,"longitude":18.4009}}(window,'GeoPostal','PL');

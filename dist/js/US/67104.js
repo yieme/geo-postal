@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67104"]={"code":"67104","region":"Kansas","city":"Medicine Lodge","latitude":37.28527,"longitude":-98.577433}}(window,'GeoPostal','US');

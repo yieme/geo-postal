@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM22 7HJ"]={"code":"CM22 7HJ","region":"England","city":"Hatfield Broad Oak","latitude":51.82655,"longitude":0.24651}}(window,'GeoPostal','GB');

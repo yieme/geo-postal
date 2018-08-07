@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30555"]={"code":"30555","region":"Georgia","city":"McCaysville","latitude":34.98619,"longitude":-84.37131}}(window,'GeoPostal','US');

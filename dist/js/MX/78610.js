@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78610"]={"code":"78610","region":"San Luis Potosi","city":"Salinas de Hidalgo","latitude":22.63333,"longitude":-101.71667}}(window,'GeoPostal','MX');

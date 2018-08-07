@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570 04"]={"code":"570 04","region":"Kentriki Makedonia","city":"Nea Michaniona","latitude":40.46444,"longitude":22.86083}}(window,'GeoPostal','GR');

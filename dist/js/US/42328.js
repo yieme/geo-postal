@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42328"]={"code":"42328","region":"KY","city":"Centertown","latitude":37.4079,"longitude":-87.009}}(window,'GeoPostal','US');

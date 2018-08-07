@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7735"]={"code":"7735","region":"Larnaka","city":"Kophinou","latitude":34.825,"longitude":33.3875}}(window,'GeoPostal','CY');

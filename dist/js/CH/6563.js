@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6563"]={"code":"6563","region":"Graubunden","city":"Mesocco","latitude":46.39037,"longitude":9.23323}}(window,'GeoPostal','CH');

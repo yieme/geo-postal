@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87001"]={"code":"87001","region":"Telsiu apskritis","city":"Telsiai","latitude":55.98139,"longitude":22.24722}}(window,'GeoPostal','LT');

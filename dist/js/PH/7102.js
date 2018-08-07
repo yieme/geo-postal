@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7102"]={"code":"7102","region":"Capiz","city":"Roxas City","latitude":11.58528,"longitude":122.75111}}(window,'GeoPostal','PH');

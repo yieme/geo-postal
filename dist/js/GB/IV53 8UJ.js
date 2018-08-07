@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV53 8UJ"]={"code":"IV53 8UJ","region":"Scotland","city":"Stromeferry","latitude":57.35239,"longitude":-5.55212}}(window,'GeoPostal','GB');

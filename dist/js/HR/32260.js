@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32260"]={"code":"32260","region":"Vukovarsko-srijemska zupanija","city":"Gunja","latitude":44.88,"longitude":18.85333}}(window,'GeoPostal','HR');

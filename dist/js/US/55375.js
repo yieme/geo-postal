@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55375"]={"code":"55375","region":"Minnesota","city":"Minnetrista","latitude":44.9383,"longitude":-93.71774}}(window,'GeoPostal','US');

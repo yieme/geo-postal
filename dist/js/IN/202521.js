@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202521"]={"code":"202521","region":"Uttar Pradesh","city":"Dibai","latitude":28.21667,"longitude":78.25}}(window,'GeoPostal','IN');

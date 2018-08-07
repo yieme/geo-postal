@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL12 8NE"]={"code":"LL12 8NE","region":"Wales","city":"Gresford","latitude":53.08539,"longitude":-2.97062}}(window,'GeoPostal','GB');

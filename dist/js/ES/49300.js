@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49300"]={"code":"49300","region":"Castilla y Leon","city":"Puebla de Sanabria","latitude":42.05272,"longitude":-6.6355}}(window,'GeoPostal','ES');

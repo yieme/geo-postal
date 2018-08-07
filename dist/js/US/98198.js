@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98198"]={"code":"98198","region":"Washington","city":"SeaTac","latitude":47.40394,"longitude":-122.31224}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31327"]={"code":"31327","region":"Georgia","city":"Sapelo Island","latitude":31.441944,"longitude":-81.263369}}(window,'GeoPostal','US');

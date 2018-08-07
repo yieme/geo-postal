@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA5 1AR"]={"code":"TA5 1AR","region":"England","city":"Aisholt","latitude":51.11391,"longitude":-3.15311}}(window,'GeoPostal','GB');

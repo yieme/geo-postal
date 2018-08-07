@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08087"]={"code":"08087","region":"New Jersey","city":"Tuckerton","latitude":39.590206,"longitude":-74.354102}}(window,'GeoPostal','US');

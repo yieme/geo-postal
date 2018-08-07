@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW3 5UE"]={"code":"SW3 5UE","region":"England","city":"Chelsea","latitude":51.48755,"longitude":-0.16936}}(window,'GeoPostal','GB');

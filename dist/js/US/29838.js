@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29838"]={"code":"29838","region":"SC","city":"Modoc","latitude":33.7052,"longitude":-82.2187}}(window,'GeoPostal','US');

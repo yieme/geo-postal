@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY7 0NE"]={"code":"SY7 0NE","region":"England","city":"Adforton","latitude":52.3342,"longitude":-2.8794}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76461"]={"code":"76461","region":"TX","city":"Lingleville","latitude":32.2446,"longitude":-98.3775}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75356"]={"code":"75356","region":"Federacija Bosne i Hercegovine","city":"Srebrenik","latitude":44.70778,"longitude":18.48806}}(window,'GeoPostal','BA');

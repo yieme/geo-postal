@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67052"]={"code":"67052","region":"Abruzzo","city":"Balsorano","latitude":41.80982,"longitude":13.5598}}(window,'GeoPostal','IT');

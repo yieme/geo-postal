@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32423"]={"code":"32423","region":"FL","city":"Bascom","latitude":30.9514,"longitude":-85.0972}}(window,'GeoPostal','US');

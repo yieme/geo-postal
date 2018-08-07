@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32040"]={"code":"32040","region":"Florida","city":"Glen Saint Mary","latitude":30.290422,"longitude":-82.161872}}(window,'GeoPostal','US');

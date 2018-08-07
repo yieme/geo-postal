@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57031"]={"code":"57031","region":"South Dakota","city":"Gayville","latitude":42.888219,"longitude":-97.172783}}(window,'GeoPostal','US');

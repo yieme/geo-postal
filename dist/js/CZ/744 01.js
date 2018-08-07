@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["744 01"]={"code":"744 01","region":"Moravskoslezsky kraj","city":"Frenstat pod Radhostem","latitude":49.54835,"longitude":18.21078}}(window,'GeoPostal','CZ');

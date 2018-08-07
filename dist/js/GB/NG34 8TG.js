@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 8TG"]={"code":"NG34 8TG","region":"England","city":"Swarby","latitude":52.95257,"longitude":-0.4434}}(window,'GeoPostal','GB');

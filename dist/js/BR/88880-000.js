@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88880-000"]={"code":"88880-000","region":"Santa Catarina","city":"Lauro Muller","latitude":-28.39278,"longitude":-49.39667}}(window,'GeoPostal','BR');

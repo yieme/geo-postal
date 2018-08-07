@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27400-000"]={"code":"27400-000","region":"Rio de Janeiro","city":"Quatis","latitude":-22.40722,"longitude":-44.25806}}(window,'GeoPostal','BR');

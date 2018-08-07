@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-230"]={"code":"63-230","region":"Wielkopolskie","city":"Golina","latitude":51.91489,"longitude":17.48268}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86704"]={"code":"86704","region":"Parnumaa","city":"Sindi","latitude":58.40056,"longitude":24.6675}}(window,'GeoPostal','EE');

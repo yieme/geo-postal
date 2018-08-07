@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32725"]={"code":"32725","region":"Florida","city":"Deltona","latitude":28.90054,"longitude":-81.26367}}(window,'GeoPostal','US');

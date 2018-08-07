@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA46 0AW"]={"code":"SA46 0AW","region":"Wales","city":"Aberaeron","latitude":52.24247,"longitude":-4.25871}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76021"]={"code":"76021","region":"Texas","city":"Bedford","latitude":32.84402,"longitude":-97.14307}}(window,'GeoPostal','US');

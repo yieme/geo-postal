@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54634"]={"code":"54634","region":"Rheinland-Pfalz","city":"Bitburg","latitude":49.96794,"longitude":6.52734}}(window,'GeoPostal','DE');

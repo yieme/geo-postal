@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05400"]={"code":"05400","region":"Castilla y Leon","city":"Arenas de San Pedro","latitude":40.21042,"longitude":-5.08694}}(window,'GeoPostal','ES');

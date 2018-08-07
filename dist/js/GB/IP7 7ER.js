@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP7 7ER"]={"code":"IP7 7ER","region":"England","city":"Bildeston","latitude":52.10658,"longitude":0.90916}}(window,'GeoPostal','GB');

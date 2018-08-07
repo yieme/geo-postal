@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97380"]={"code":"97380","region":"Yucatan","city":"Acanceh","latitude":20.81667,"longitude":-89.45}}(window,'GeoPostal','MX');

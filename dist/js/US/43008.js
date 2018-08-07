@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43008"]={"code":"43008","region":"OH","city":"Buckeye Lake","latitude":39.9337,"longitude":-82.4724}}(window,'GeoPostal','US');

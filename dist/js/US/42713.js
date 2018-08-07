@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42713"]={"code":"42713","region":"KY","city":"Bonnieville","latitude":37.3741,"longitude":-85.896}}(window,'GeoPostal','US');

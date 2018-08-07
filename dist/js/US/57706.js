@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57706"]={"code":"57706","region":"SD","city":"Ellsworth Afb","latitude":44.1447,"longitude":-103.0759}}(window,'GeoPostal','US');

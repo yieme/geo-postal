@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["999-5602"]={"code":"999-5602","region":"Akita","city":"Kakudate","latitude":39.58333,"longitude":140.56667}}(window,'GeoPostal','JP');

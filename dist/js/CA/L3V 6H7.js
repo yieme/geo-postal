@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L3V 6H7"]={"code":"L3V 6H7","region":"Ontario","city":"Bayshore Village","latitude":44.55011,"longitude":-79.28291}}(window,'GeoPostal','CA');

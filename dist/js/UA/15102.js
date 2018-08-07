@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15102"]={"code":"15102","region":"Chernihivska oblast","city":"Horodnya","latitude":51.89085,"longitude":31.59741}}(window,'GeoPostal','UA');

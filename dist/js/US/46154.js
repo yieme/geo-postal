@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46154"]={"code":"46154","region":"IN","city":"Maxwell","latitude":39.8568,"longitude":-85.7684}}(window,'GeoPostal','US');

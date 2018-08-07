@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-4571"]={"code":"MD-4571","region":"Dubasari","city":"Cocieri","latitude":47.3075,"longitude":29.11028}}(window,'GeoPostal','MD');

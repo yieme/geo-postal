@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN15 7NJ"]={"code":"DN15 7NJ","region":"England","city":"Frodingham","latitude":53.59481,"longitude":-0.65513}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89602"]={"code":"89602","region":"Tamaulipas","city":"Soto la Marina","latitude":23.76667,"longitude":-98.21667}}(window,'GeoPostal','MX');

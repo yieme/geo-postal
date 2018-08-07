@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98571"]={"code":"98571","region":"Washington","city":"Pacific Beach","latitude":47.201111,"longitude":-124.166667}}(window,'GeoPostal','US');

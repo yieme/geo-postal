@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4C 1A5"]={"code":"T4C 1A5","region":"Alberta","city":"Cochrane","latitude":51.188192,"longitude":-114.46402}}(window,'GeoPostal','CA');

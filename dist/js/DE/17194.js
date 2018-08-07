@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17194"]={"code":"17194","region":"Mecklenburg-Vorpommern","city":"Steinhagen","latitude":53.66667,"longitude":12.46667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92536"]={"code":"92536","region":"CA","city":"Aguanga","latitude":33.4473,"longitude":-116.7997}}(window,'GeoPostal','US');

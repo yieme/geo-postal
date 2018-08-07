@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE10 0QG"]={"code":"LE10 0QG","region":"England","city":"Hinckley","latitude":52.5389,"longitude":-1.37613}}(window,'GeoPostal','GB');

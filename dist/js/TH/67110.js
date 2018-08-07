@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67110"]={"code":"67110","region":"Phetchabun","city":"Lom Sak","latitude":16.77983,"longitude":101.24225}}(window,'GeoPostal','TH');

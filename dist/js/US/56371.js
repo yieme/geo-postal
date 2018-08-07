@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56371"]={"code":"56371","region":"Minnesota","city":"Roscoe","latitude":45.433312,"longitude":-94.636923}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47060"]={"code":"47060","region":"Al 'Asimah","city":"Al Funaytis","latitude":29.22528,"longitude":48.10167}}(window,'GeoPostal','KW');

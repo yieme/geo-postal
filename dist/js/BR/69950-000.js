@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69950-000"]={"code":"69950-000","region":"Acre","city":"Manoel Urbano","latitude":-8.83889,"longitude":-69.25972}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37112"]={"code":"37112","region":"Jambi","city":"Sungaipenuh","latitude":-2.08333,"longitude":101.38333}}(window,'GeoPostal','ID');

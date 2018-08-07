@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23395"]={"code":"23395","region":"Virginia","city":"Horntown","latitude":37.970834,"longitude":-75.475189}}(window,'GeoPostal','US');

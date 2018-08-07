@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP8 5BJ"]={"code":"SP8 5BJ","region":"England","city":"Bourton","latitude":51.07444,"longitude":-2.32778}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83420"]={"code":"83420","region":"ID","city":"Ashton","latitude":44.0153,"longitude":-111.4253}}(window,'GeoPostal','US');

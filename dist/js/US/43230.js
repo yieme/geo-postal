@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43230"]={"code":"43230","region":"Ohio","city":"Gahanna","latitude":40.01923,"longitude":-82.87934}}(window,'GeoPostal','US');

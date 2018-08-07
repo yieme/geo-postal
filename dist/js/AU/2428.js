@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2428"]={"code":"2428","region":"New South Wales","city":"Tuncurry","latitude":-32.17443,"longitude":152.49876}}(window,'GeoPostal','AU');

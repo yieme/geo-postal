@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80100"]={"code":"80100","region":"San Jose","city":"Libertad","latitude":-34.63333,"longitude":-56.61917}}(window,'GeoPostal','UY');

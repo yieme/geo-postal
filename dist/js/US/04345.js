@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04345"]={"code":"04345","region":"Maine","city":"Gardiner","latitude":44.230649,"longitude":-69.779545}}(window,'GeoPostal','US');

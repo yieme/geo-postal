@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17347"]={"code":"17347","region":"PA","city":"Mount Wolf","latitude":40.0711,"longitude":-76.6966}}(window,'GeoPostal','US');

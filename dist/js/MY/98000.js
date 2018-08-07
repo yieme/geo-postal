@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98000"]={"code":"98000","region":"Sarawak","city":"Miri","latitude":4.4148,"longitude":114.0089}}(window,'GeoPostal','MY');

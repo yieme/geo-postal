@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03621"]={"code":"03621","region":"Uusimaa","city":"Karkkila","latitude":60.53418,"longitude":24.20977}}(window,'GeoPostal','FI');

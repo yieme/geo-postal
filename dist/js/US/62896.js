@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62896"]={"code":"62896","region":"Illinois","city":"West Frankfort","latitude":37.898691,"longitude":-88.919986}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27054"]={"code":"27054","region":"NC","city":"Woodleaf","latitude":35.7901,"longitude":-80.6051}}(window,'GeoPostal','US');

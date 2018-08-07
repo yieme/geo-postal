@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA11 6PA"]={"code":"BA11 6PA","region":"England","city":"Rode","latitude":51.2839,"longitude":-2.28141}}(window,'GeoPostal','GB');

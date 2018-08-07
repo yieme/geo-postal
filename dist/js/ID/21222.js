@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21222"]={"code":"21222","region":"Sumatera Utara","city":"Kisaran","latitude":2.9845,"longitude":99.6158}}(window,'GeoPostal','ID');

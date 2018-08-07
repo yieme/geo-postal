@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40764"]={"code":"40764","region":"Thuringen","city":"Langenfeld","latitude":50.79076,"longitude":10.21018}}(window,'GeoPostal','DE');

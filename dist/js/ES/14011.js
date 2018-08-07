@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14011"]={"code":"14011","region":"Andalucia","city":"Villarrubia","latitude":37.85,"longitude":-4.9}}(window,'GeoPostal','ES');

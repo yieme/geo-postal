@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73083"]={"code":"73083","region":"Oklahoma","city":"Edmond","latitude":35.73916,"longitude":-97.478827}}(window,'GeoPostal','US');

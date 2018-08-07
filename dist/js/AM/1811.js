@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1811"]={"code":"1811","region":"Lori","city":"Jrashen","latitude":40.79028,"longitude":44.18664}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57620"]={"code":"57620","region":"South Dakota","city":"Bison","latitude":45.522281,"longitude":-102.472626}}(window,'GeoPostal','US');

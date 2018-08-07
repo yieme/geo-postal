@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["136000"]={"code":"136000","region":"Jilin","city":"Siping","latitude":43.16333,"longitude":124.36861}}(window,'GeoPostal','CN');

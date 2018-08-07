@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30149"]={"code":"30149","region":"Georgia","city":"Rome","latitude":34.25704,"longitude":-85.16467}}(window,'GeoPostal','US');

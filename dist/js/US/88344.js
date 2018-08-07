@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88344"]={"code":"88344","region":"NM","city":"Pinon","latitude":32.6396,"longitude":-105.4157}}(window,'GeoPostal','US');

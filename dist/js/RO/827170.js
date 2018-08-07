@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827170"]={"code":"827170","region":"Tulcea","city":"Nufaru","latitude":45.15,"longitude":28.91667}}(window,'GeoPostal','RO');

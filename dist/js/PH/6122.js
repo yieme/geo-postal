@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6122"]={"code":"6122","region":"Negros Occidental","city":"Sagay","latitude":10.94472,"longitude":123.42417}}(window,'GeoPostal','PH');

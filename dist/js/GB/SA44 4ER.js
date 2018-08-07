@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 4ER"]={"code":"SA44 4ER","region":"Wales","city":"Tal-gareg","latitude":52.13333,"longitude":-4.3}}(window,'GeoPostal','GB');

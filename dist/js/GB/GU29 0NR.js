@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU29 0NR"]={"code":"GU29 0NR","region":"England","city":"Stedham","latitude":50.99447,"longitude":-0.77119}}(window,'GeoPostal','GB');

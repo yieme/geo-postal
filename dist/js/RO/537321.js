@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537321"]={"code":"537321","region":"Calarasi","city":"Fundulea","latitude":44.46667,"longitude":26.51667}}(window,'GeoPostal','RO');

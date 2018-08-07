@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8K 2P8"]={"code":"G8K 2P8","region":"Quebec","city":"Saint-Felicien","latitude":48.654348,"longitude":-72.448588}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39330"]={"code":"39330","region":"Cantabria","city":"Santillana","latitude":43.38903,"longitude":-4.10844}}(window,'GeoPostal','ES');

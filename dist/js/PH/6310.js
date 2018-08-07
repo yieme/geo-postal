@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6310"]={"code":"6310","region":"Bohol","city":"Catungawan Sur","latitude":9.7817,"longitude":124.4693}}(window,'GeoPostal','PH');

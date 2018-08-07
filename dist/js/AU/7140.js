@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7140"]={"code":"7140","region":"Tasmania","city":"Ouse","latitude":-42.46667,"longitude":146.71667}}(window,'GeoPostal','AU');

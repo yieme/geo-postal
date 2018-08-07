@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14141"]={"code":"14141","region":"New York","city":"Springville","latitude":42.5084,"longitude":-78.66725}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-210"]={"code":"63-210","region":"Wielkopolskie","city":"Nowe Miasto nad Warta","latitude":52.09007,"longitude":17.41114}}(window,'GeoPostal','PL');

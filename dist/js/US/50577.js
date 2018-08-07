@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50577"]={"code":"50577","region":"IA","city":"Renwick","latitude":42.8491,"longitude":-94.0074}}(window,'GeoPostal','US');

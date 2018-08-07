@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72735"]={"code":"72735","region":"AR","city":"Goshen","latitude":36.0876,"longitude":-93.9666}}(window,'GeoPostal','US');

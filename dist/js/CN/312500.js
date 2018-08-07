@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["312500"]={"code":"312500","region":"Zhejiang","city":"Xinchang","latitude":29.50528,"longitude":120.90017}}(window,'GeoPostal','CN');

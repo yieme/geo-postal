@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57150"]={"code":"57150","region":"Chiang Rai","city":"Mae Fa Luang","latitude":20.26628,"longitude":99.79846}}(window,'GeoPostal','TH');

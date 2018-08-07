@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00830"]={"code":"00830","region":"VI","city":"St John","latitude":18.33,"longitude":-64.79}}(window,'GeoPostal','US');

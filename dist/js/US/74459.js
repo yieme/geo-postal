@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74459"]={"code":"74459","region":"OK","city":"Rentiesville","latitude":35.5214,"longitude":-95.495}}(window,'GeoPostal','US');

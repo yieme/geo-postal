@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33470"]={"code":"33470","region":"Nouvelle-Aquitaine","city":"Gujan-Mestras","latitude":44.63333,"longitude":-1.06667}}(window,'GeoPostal','FR');

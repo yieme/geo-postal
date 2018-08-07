@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24632"]={"code":"24632","region":"Schleswig-Holstein","city":"Lentfohrden","latitude":53.86667,"longitude":9.88333}}(window,'GeoPostal','DE');

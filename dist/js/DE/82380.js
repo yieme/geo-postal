@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82380"]={"code":"82380","region":"Bayern","city":"Peissenberg","latitude":47.80466,"longitude":11.0699}}(window,'GeoPostal','DE');

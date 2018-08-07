@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29477"]={"code":"29477","region":"South Carolina","city":"Saint George","latitude":33.186567,"longitude":-80.578213}}(window,'GeoPostal','US');

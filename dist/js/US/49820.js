@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49820"]={"code":"49820","region":"Michigan","city":"Curtis","latitude":46.196509,"longitude":-85.820124}}(window,'GeoPostal','US');

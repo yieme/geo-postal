@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35746"]={"code":"35746","region":"Alabama","city":"Fackler","latitude":34.82772,"longitude":-85.98762}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47861"]={"code":"47861","region":"IN","city":"Merom","latitude":39.0564,"longitude":-87.5675}}(window,'GeoPostal','US');

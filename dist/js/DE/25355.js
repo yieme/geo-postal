@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25355"]={"code":"25355","region":"Schleswig-Holstein","city":"Barmstedt","latitude":53.79209,"longitude":9.76739}}(window,'GeoPostal','DE');

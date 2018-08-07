@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21654"]={"code":"21654","region":"MD","city":"Oxford","latitude":38.6864,"longitude":-76.1538}}(window,'GeoPostal','US');

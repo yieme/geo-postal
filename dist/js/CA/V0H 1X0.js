@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0H 1X0"]={"code":"V0H 1X0","region":"British Columbia","city":"Peachland","latitude":49.76647,"longitude":-119.73568}}(window,'GeoPostal','CA');

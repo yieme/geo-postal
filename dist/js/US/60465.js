@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60465"]={"code":"60465","region":"Illinois","city":"Palos Hills","latitude":41.700238,"longitude":-87.828416}}(window,'GeoPostal','US');

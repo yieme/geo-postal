@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["633456"]={"code":"633456","region":"Novosibirskaya oblast'","city":"Toguchin","latitude":55.23528,"longitude":84.38583}}(window,'GeoPostal','RU');

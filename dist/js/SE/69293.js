@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69293"]={"code":"69293","region":"Orebro lan","city":"Kumla","latitude":59.1277,"longitude":15.14341}}(window,'GeoPostal','SE');

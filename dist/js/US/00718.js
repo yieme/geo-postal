@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00718"]={"code":"00718","region":"PR","city":"Naguabo","latitude":18.21,"longitude":-65.73}}(window,'GeoPostal','US');

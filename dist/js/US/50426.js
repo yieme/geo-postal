@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50426"]={"code":"50426","region":"IA","city":"Carpenter","latitude":43.415,"longitude":-93.0149}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70201"]={"code":"70201","region":"Colonia","city":"Nueva Helvecia","latitude":-34.3,"longitude":-57.23333}}(window,'GeoPostal','UY');

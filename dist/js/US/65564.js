@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65564"]={"code":"65564","region":"MO","city":"Solo","latitude":37.2428,"longitude":-91.9624}}(window,'GeoPostal','US');

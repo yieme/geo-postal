@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91400"]={"code":"91400","region":"Veracruz de Ignacio de la Llave","city":"Naolinco","latitude":19.65,"longitude":-96.85}}(window,'GeoPostal','MX');

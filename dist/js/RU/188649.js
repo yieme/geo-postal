@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188649"]={"code":"188649","region":"Leningradskaya oblast'","city":"Vsevolozhsk","latitude":60.02043,"longitude":30.63716}}(window,'GeoPostal','RU');

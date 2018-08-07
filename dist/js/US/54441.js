@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54441"]={"code":"54441","region":"WI","city":"Hewitt","latitude":44.6437,"longitude":-90.1031}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99580"]={"code":"99580","region":"AK","city":"Ekwok","latitude":59.3628,"longitude":-157.4782}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WD3 2YS"]={"code":"WD3 2YS","region":"England","city":"Rickmansworth","latitude":51.63928,"longitude":-0.47295}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93160"]={"code":"93160","region":"Phatthalung","city":"Pa Bon","latitude":7.26942,"longitude":100.17036}}(window,'GeoPostal','TH');

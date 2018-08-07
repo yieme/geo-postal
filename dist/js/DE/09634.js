@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09634"]={"code":"09634","region":"Sachsen","city":"Kleinvoigtsberg","latitude":50.99918,"longitude":13.30422}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55010"]={"code":"55010","region":"Al Ahmadi","city":"Al Ahmadi","latitude":29.083333,"longitude":48.083333}}(window,'GeoPostal','KW');

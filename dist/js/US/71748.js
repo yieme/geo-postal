@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71748"]={"code":"71748","region":"AR","city":"Ivan","latitude":33.9118,"longitude":-92.4246}}(window,'GeoPostal','US');

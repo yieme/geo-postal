@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO19 7TB"]={"code":"SO19 7TB","region":"England","city":"Itchen","latitude":50.90451,"longitude":-1.36936}}(window,'GeoPostal','GB');

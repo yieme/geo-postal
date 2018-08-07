@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72134"]={"code":"72134","region":"Arkansas","city":"Roe","latitude":34.603333,"longitude":-91.341667}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35380"]={"code":"35380","region":"Bretagne","city":"Plelan-le-Grand","latitude":48.00124,"longitude":-2.09914}}(window,'GeoPostal','FR');

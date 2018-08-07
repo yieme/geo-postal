@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18229"]={"code":"18229","region":"PA","city":"Jim Thorpe","latitude":40.87,"longitude":-75.7397}}(window,'GeoPostal','US');

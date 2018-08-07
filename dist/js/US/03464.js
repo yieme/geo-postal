@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03464"]={"code":"03464","region":"NH","city":"Stoddard","latitude":43.0739,"longitude":-72.1088}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["795133"]={"code":"795133","region":"Manipur","city":"Moirang","latitude":24.5,"longitude":93.76667}}(window,'GeoPostal','IN');

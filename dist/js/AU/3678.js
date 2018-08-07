@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3678"]={"code":"3678","region":"Victoria","city":"Edi","latitude":-36.65,"longitude":146.43333}}(window,'GeoPostal','AU');

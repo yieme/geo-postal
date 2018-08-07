@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60536"]={"code":"60536","region":"IL","city":"Millbrook","latitude":41.5984,"longitude":-88.5529}}(window,'GeoPostal','US');

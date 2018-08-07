@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69151"]={"code":"69151","region":"NE","city":"Maxwell","latitude":41.0588,"longitude":-100.527}}(window,'GeoPostal','US');

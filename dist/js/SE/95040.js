@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95040"]={"code":"95040","region":"Norrbottens lan","city":"Toere","latitude":65.91243,"longitude":22.65128}}(window,'GeoPostal','SE');

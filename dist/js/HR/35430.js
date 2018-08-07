@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35430"]={"code":"35430","region":"Brodsko-posavska zupanija","city":"Okucani","latitude":45.25833,"longitude":17.20167}}(window,'GeoPostal','HR');

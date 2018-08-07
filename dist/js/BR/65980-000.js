@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65980-000"]={"code":"65980-000","region":"Maranhao","city":"Santa Luzia","latitude":-7.63333,"longitude":-47.2}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37352"]={"code":"37352","region":"Tennessee","city":"Lynchburg","latitude":35.28314,"longitude":-86.37416}}(window,'GeoPostal','US');

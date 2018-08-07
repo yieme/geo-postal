@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 1Y0"]={"code":"S0C 1Y0","region":"Saskatchewan","city":"Ogema","latitude":49.58337,"longitude":-104.91779}}(window,'GeoPostal','CA');

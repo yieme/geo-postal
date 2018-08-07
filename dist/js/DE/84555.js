@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84555"]={"code":"84555","region":"Bayern","city":"Asbach","latitude":48.18703,"longitude":12.39086}}(window,'GeoPostal','DE');

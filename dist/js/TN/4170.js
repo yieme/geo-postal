@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4170"]={"code":"4170","region":"Medenine","city":"Zarzis","latitude":33.50398,"longitude":11.11216}}(window,'GeoPostal','TN');

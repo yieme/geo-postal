@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137173"]={"code":"137173","region":"Dambovita","city":"Cringurile de Sus","latitude":44.76667,"longitude":25.23333}}(window,'GeoPostal','RO');

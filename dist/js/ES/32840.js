@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32840"]={"code":"32840","region":"Galicia","city":"Bande","latitude":42.0312,"longitude":-7.97489}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30000-000"]={"code":"30000-000","region":"Minas Gerais","city":"Belo Horizonte","latitude":-19.92083,"longitude":-43.93778}}(window,'GeoPostal','BR');

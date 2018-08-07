@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95963"]={"code":"95963","region":"CA","city":"Orland","latitude":39.7314,"longitude":-122.2534}}(window,'GeoPostal','US');

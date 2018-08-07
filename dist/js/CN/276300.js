@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["276300"]={"code":"276300","region":"Shandong","city":"Jiehu","latitude":35.54278,"longitude":118.455}}(window,'GeoPostal','CN');

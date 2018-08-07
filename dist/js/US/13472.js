@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13472"]={"code":"13472","region":"NY","city":"Thendara","latitude":43.7001,"longitude":-75.0018}}(window,'GeoPostal','US');

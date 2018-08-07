@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56660"]={"code":"56660","region":"MN","city":"Mizpah","latitude":47.9495,"longitude":-94.1467}}(window,'GeoPostal','US');

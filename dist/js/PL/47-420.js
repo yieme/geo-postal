@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-420"]={"code":"47-420","region":"Slaskie","city":"Kuznia Raciborska","latitude":50.20058,"longitude":18.31146}}(window,'GeoPostal','PL');

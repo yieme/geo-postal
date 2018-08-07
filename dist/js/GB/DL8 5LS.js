@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 5LS"]={"code":"DL8 5LS","region":"England","city":"East Hauxwell","latitude":54.33903,"longitude":-1.74311}}(window,'GeoPostal','GB');

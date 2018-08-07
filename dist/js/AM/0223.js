@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0223"]={"code":"0223","region":"Aragacotn","city":"Nor Sasunik","latitude":40.24869,"longitude":44.33957}}(window,'GeoPostal','AM');

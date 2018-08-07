@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83645"]={"code":"83645","region":"Idaho","city":"Midvale","latitude":44.391137,"longitude":-116.611438}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91080"]={"code":"91080","region":"Ile-de-France","city":"Courcouronnes","latitude":48.61429,"longitude":2.40762}}(window,'GeoPostal','FR');

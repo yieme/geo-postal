@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38751"]={"code":"38751","region":"MS","city":"Indianola","latitude":33.451,"longitude":-90.6551}}(window,'GeoPostal','US');

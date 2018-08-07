@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO38 2AH"]={"code":"PO38 2AH","region":"England","city":"Saint Lawrence","latitude":50.58565,"longitude":-1.25467}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Z 3C0"]={"code":"J0Z 3C0","region":"Quebec","city":"Palmarolle","latitude":48.66688,"longitude":-79.19964}}(window,'GeoPostal','CA');

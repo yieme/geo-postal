@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82301"]={"code":"82301","region":"Pohjois-Karjala","city":"Raakkyla","latitude":62.31667,"longitude":29.61667}}(window,'GeoPostal','FI');

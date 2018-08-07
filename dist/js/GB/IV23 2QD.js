@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV23 2QD"]={"code":"IV23 2QD","region":"Scotland","city":"Achanalt","latitude":57.61162,"longitude":-4.91276}}(window,'GeoPostal','GB');

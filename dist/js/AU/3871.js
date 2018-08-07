@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3871"]={"code":"3871","region":"Victoria","city":"Mirboo North","latitude":-38.40101,"longitude":146.16135}}(window,'GeoPostal','AU');

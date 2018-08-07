@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-042"]={"code":"11-042","region":"Warminsko-mazurskie","city":"Jonkowo","latitude":53.82817,"longitude":20.31054}}(window,'GeoPostal','PL');

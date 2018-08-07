@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15023"]={"code":"15023","region":"Piemonte","city":"Felizzano","latitude":44.89935,"longitude":8.43584}}(window,'GeoPostal','IT');

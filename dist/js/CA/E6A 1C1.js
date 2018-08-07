@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E6A 1C1"]={"code":"E6A 1C1","region":"New Brunswick","city":"Boiestown","latitude":46.45578,"longitude":-66.41982}}(window,'GeoPostal','CA');

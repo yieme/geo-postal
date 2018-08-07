@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37292"]={"code":"37292","region":"Blekinge lan","city":"Kallinge","latitude":56.23333,"longitude":15.28333}}(window,'GeoPostal','SE');

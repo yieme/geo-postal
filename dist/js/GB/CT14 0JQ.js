@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT14 0JQ"]={"code":"CT14 0JQ","region":"England","city":"Tilmanstone","latitude":51.21473,"longitude":1.29398}}(window,'GeoPostal','GB');

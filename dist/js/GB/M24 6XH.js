@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M24 6XH"]={"code":"M24 6XH","region":"England","city":"Hopwood","latitude":52.38333,"longitude":-1.95}}(window,'GeoPostal','GB');

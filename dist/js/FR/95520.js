@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95520"]={"code":"95520","region":"Ile-de-France","city":"Osny","latitude":49.05937,"longitude":2.06183}}(window,'GeoPostal','FR');

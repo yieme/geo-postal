@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83075"]={"code":"83075","region":"Bayern","city":"Bad Feilnbach","latitude":47.77331,"longitude":12.00973}}(window,'GeoPostal','DE');

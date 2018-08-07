@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 3QQ"]={"code":"LN8 3QQ","region":"England","city":"Linwood","latitude":53.35,"longitude":-0.33333}}(window,'GeoPostal','GB');

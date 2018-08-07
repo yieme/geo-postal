@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2228"]={"code":"2228","region":"New South Wales","city":"Miranda","latitude":-34.03333,"longitude":151.1}}(window,'GeoPostal','AU');

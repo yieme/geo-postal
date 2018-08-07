@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671945"]={"code":"671945","region":"Buryatiya, Respublika","city":"Bayangol","latitude":50.6977,"longitude":103.4656}}(window,'GeoPostal','RU');

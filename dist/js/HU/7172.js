@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7172"]={"code":"7172","region":"Tolna","city":"Szentgalpuszta","latitude":46.37479,"longitude":18.62601}}(window,'GeoPostal','HU');

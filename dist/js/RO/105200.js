@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["105200"]={"code":"105200","region":"Prahova","city":"Baicoi","latitude":45.03333,"longitude":25.85}}(window,'GeoPostal','RO');

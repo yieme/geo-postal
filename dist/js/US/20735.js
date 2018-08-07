@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20735"]={"code":"20735","region":"Maryland","city":"Clinton","latitude":38.756569,"longitude":-76.903906}}(window,'GeoPostal','US');

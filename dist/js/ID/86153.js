@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86153"]={"code":"86153","region":"Nusa Tenggara Timur","city":"Masebewa","latitude":-8.7273,"longitude":122.0223}}(window,'GeoPostal','ID');

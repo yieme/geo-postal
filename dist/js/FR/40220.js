@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40220"]={"code":"40220","region":"Nouvelle-Aquitaine","city":"Tarnos","latitude":43.5417,"longitude":-1.46281}}(window,'GeoPostal','FR');

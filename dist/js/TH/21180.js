@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21180"]={"code":"21180","region":"Rayong","city":"Nikhom Phattana","latitude":12.82736,"longitude":101.20273}}(window,'GeoPostal','TH');

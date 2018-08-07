@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69221"]={"code":"69221","region":"Nebraska","city":"Wood Lake","latitude":42.629146,"longitude":-100.301947}}(window,'GeoPostal','US');

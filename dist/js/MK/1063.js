@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1063"]={"code":"1063","region":"Skopje","city":"Bukovik","latitude":41.96833,"longitude":21.23694}}(window,'GeoPostal','MK');

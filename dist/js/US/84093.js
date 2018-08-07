@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84093"]={"code":"84093","region":"UT","city":"Sandy","latitude":40.5927,"longitude":-111.831}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Z 3K0"]={"code":"J0Z 3K0","region":"Quebec","city":"Roquemaure","latitude":48.60018,"longitude":-79.39965}}(window,'GeoPostal','CA');

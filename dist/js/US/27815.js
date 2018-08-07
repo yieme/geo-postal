@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27815"]={"code":"27815","region":"NC","city":"Rocky Mount","latitude":35.8979,"longitude":-77.7935}}(window,'GeoPostal','US');

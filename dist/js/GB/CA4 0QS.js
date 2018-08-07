@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA4 0QS"]={"code":"CA4 0QS","region":"England","city":"Brisco","latitude":54.85834,"longitude":-2.90394}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["362 34"]={"code":"362 34","region":"Karlovarsky kraj","city":"Merklin","latitude":50.32808,"longitude":12.8635}}(window,'GeoPostal','CZ');

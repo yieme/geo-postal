@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82701"]={"code":"82701","region":"Wyoming","city":"Newcastle","latitude":43.8547,"longitude":-104.20494}}(window,'GeoPostal','US');

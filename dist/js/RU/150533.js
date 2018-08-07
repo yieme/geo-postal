@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150533"]={"code":"150533","region":"Yaroslavskaya oblast'","city":"Kurba","latitude":57.56097,"longitude":39.4981}}(window,'GeoPostal','RU');

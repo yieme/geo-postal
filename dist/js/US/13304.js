@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13304"]={"code":"13304","region":"NY","city":"Barneveld","latitude":43.2237,"longitude":-75.1612}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1165"]={"code":"1165","region":"Vargas","city":"Caraballeda","latitude":10.61119,"longitude":-66.85215}}(window,'GeoPostal','VE');

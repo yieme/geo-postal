@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663065"]={"code":"663065","region":"Krasnoyarskiy kray","city":"Predivinsk","latitude":57.06694,"longitude":93.43778}}(window,'GeoPostal','RU');

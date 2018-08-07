@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827235"]={"code":"827235","region":"Tulcea","city":"Valea Nucarilor","latitude":45.03333,"longitude":28.93333}}(window,'GeoPostal','RO');

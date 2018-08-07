@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EN6 5RP"]={"code":"EN6 5RP","region":"Scotland","city":"Barr","latitude":55.2,"longitude":-4.7}}(window,'GeoPostal','GB');

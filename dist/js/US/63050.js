@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63050"]={"code":"63050","region":"Missouri","city":"Hillsboro","latitude":38.262987,"longitude":-90.567531}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24794"]={"code":"24794","region":"Schleswig-Holstein","city":"Mohr","latitude":54.35,"longitude":9.71667}}(window,'GeoPostal','DE');

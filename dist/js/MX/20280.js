@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20280"]={"code":"20280","region":"Aguascalientes","city":"Tepezala","latitude":22.21667,"longitude":-102.16667}}(window,'GeoPostal','MX');

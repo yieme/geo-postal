@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 64"]={"code":"696 64","region":"Jihomoravsky kraj","city":"Knezdub","latitude":48.88666,"longitude":17.39546}}(window,'GeoPostal','CZ');

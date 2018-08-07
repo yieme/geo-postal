@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["513333"]={"code":"513333","region":"Guangdong","city":"Daping","latitude":24.64944,"longitude":112.16861}}(window,'GeoPostal','CN');

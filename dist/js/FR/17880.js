@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17880"]={"code":"17880","region":"Nouvelle-Aquitaine","city":"Les Portes-en-Re","latitude":46.2508,"longitude":-1.4972}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58360-000"]={"code":"58360-000","region":"Paraiba","city":"Itabaiana","latitude":-7.32861,"longitude":-35.3325}}(window,'GeoPostal','BR');

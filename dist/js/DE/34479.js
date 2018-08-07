@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34479"]={"code":"34479","region":"Hessen","city":"Wettesingen","latitude":51.45039,"longitude":9.18584}}(window,'GeoPostal','DE');

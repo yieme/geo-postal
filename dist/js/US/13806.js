@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13806"]={"code":"13806","region":"NY","city":"Meridale","latitude":42.3734,"longitude":-74.965}}(window,'GeoPostal','US');

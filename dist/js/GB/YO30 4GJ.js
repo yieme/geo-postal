@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO30 4GJ"]={"code":"YO30 4GJ","region":"England","city":"York","latitude":53.95763,"longitude":-1.08271}}(window,'GeoPostal','GB');

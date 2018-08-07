@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01518"]={"code":"01518","region":"MA","city":"Fiskdale","latitude":42.1228,"longitude":-72.1178}}(window,'GeoPostal','US');

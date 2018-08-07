@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65629"]={"code":"65629","region":"MO","city":"Chadwick","latitude":36.922,"longitude":-93.0451}}(window,'GeoPostal','US');

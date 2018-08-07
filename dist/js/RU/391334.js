@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391334"]={"code":"391334","region":"Ryazanskaya oblast'","city":"Lashma","latitude":54.9321,"longitude":41.14379}}(window,'GeoPostal','RU');

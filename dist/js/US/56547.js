@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56547"]={"code":"56547","region":"MN","city":"Glyndon","latitude":46.882,"longitude":-96.5583}}(window,'GeoPostal','US');

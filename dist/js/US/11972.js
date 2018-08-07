@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11972"]={"code":"11972","region":"NY","city":"Speonk","latitude":40.8195,"longitude":-72.7054}}(window,'GeoPostal','US');

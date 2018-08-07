@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75181"]={"code":"75181","region":"Baden-Wurttemberg","city":"Strietweg","latitude":48.88333,"longitude":8.73333}}(window,'GeoPostal','DE');

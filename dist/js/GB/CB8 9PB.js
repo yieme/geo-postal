@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB8 9PB"]={"code":"CB8 9PB","region":"England","city":"Kirtling","latitude":52.18619,"longitude":0.4725}}(window,'GeoPostal','GB');

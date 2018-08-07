@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3560000"]={"code":"3560000","region":"Maule","city":"Constitucion","latitude":-35.33333,"longitude":-72.41667}}(window,'GeoPostal','CL');

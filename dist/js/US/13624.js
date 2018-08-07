@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13624"]={"code":"13624","region":"New York","city":"Clayton","latitude":44.23949,"longitude":-76.08578}}(window,'GeoPostal','US');

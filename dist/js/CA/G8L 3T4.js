@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8L 3T4"]={"code":"G8L 3T4","region":"Quebec","city":"Mistassini","latitude":48.88893,"longitude":-72.2049}}(window,'GeoPostal','CA');

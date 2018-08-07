@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62601"]={"code":"62601","region":"IL","city":"Alexander","latitude":39.7517,"longitude":-90.0458}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR27 4QL"]={"code":"TR27 4QL","region":"England","city":"Phillack","latitude":50.19717,"longitude":-5.40414}}(window,'GeoPostal','GB');

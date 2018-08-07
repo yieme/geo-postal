@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29910"]={"code":"29910","region":"Bretagne","city":"Tregunc","latitude":47.85,"longitude":-3.85}}(window,'GeoPostal','FR');

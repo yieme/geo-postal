@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56583"]={"code":"56583","region":"Minnesota","city":"Tintah","latitude":45.98628,"longitude":-96.40578}}(window,'GeoPostal','US');

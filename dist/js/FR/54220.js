@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54220"]={"code":"54220","region":"Grand-Est","city":"Malzeville","latitude":48.71181,"longitude":6.18176}}(window,'GeoPostal','FR');

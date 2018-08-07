@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV17 0PT"]={"code":"IV17 0PT","region":"Scotland","city":"Alness","latitude":57.69596,"longitude":-4.2551}}(window,'GeoPostal','GB');

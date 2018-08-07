@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15410"]={"code":"15410","region":"PA","city":"Adah","latitude":39.8965,"longitude":-79.922}}(window,'GeoPostal','US');

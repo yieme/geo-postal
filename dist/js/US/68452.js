@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68452"]={"code":"68452","region":"NE","city":"Ong","latitude":40.3968,"longitude":-97.861}}(window,'GeoPostal','US');

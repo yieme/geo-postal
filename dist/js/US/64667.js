@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64667"]={"code":"64667","region":"MO","city":"Newtown","latitude":40.3612,"longitude":-93.3073}}(window,'GeoPostal','US');

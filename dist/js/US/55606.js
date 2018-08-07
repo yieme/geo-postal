@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55606"]={"code":"55606","region":"Minnesota","city":"Hovland","latitude":47.874166,"longitude":-89.962484}}(window,'GeoPostal','US');

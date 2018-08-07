@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86490"]={"code":"86490","region":"Tabasco","city":"Cardenas","latitude":17.98333,"longitude":-93.36667}}(window,'GeoPostal','MX');

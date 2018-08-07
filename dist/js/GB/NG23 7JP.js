@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 7JP"]={"code":"NG23 7JP","region":"England","city":"South Scarle","latitude":53.16659,"longitude":-0.73608}}(window,'GeoPostal','GB');

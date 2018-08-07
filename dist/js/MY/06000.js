@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06000"]={"code":"06000","region":"Kedah","city":"Jitra","latitude":6.26812,"longitude":100.42167}}(window,'GeoPostal','MY');

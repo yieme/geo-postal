@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE9 4HH"]={"code":"LE9 4HH","region":"England","city":"Sapcote","latitude":52.53707,"longitude":-1.279}}(window,'GeoPostal','GB');

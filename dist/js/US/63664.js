@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63664"]={"code":"63664","region":"Missouri","city":"Potosi","latitude":37.93644,"longitude":-90.78791}}(window,'GeoPostal','US');

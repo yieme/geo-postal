@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18216"]={"code":"18216","region":"PA","city":"Beaver Meadows","latitude":40.9281,"longitude":-75.9146}}(window,'GeoPostal','US');

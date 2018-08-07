@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 3NF"]={"code":"LN8 3NF","region":"England","city":"Newton by Toft","latitude":53.37288,"longitude":-0.42298}}(window,'GeoPostal','GB');

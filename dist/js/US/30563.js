@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30563"]={"code":"30563","region":"GA","city":"Mount Airy","latitude":34.5678,"longitude":-83.4713}}(window,'GeoPostal','US');

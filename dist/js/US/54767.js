@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54767"]={"code":"54767","region":"Wisconsin","city":"Spring Valley","latitude":44.84524,"longitude":-92.2388}}(window,'GeoPostal','US');

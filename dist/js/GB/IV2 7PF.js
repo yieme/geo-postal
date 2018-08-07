@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV2 7PF"]={"code":"IV2 7PF","region":"Scotland","city":"Smithton","latitude":57.47956,"longitude":-4.15141}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78946"]={"code":"78946","region":"Texas","city":"Ledbetter","latitude":30.2319,"longitude":-96.77562}}(window,'GeoPostal','US');

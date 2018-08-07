@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67556"]={"code":"67556","region":"KS","city":"Mc Cracken","latitude":38.5957,"longitude":-99.554}}(window,'GeoPostal','US');

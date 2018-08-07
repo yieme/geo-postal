@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77542"]={"code":"77542","region":"Texas","city":"Freeport","latitude":28.951365,"longitude":-95.364284}}(window,'GeoPostal','US');

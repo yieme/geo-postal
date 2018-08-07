@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01370"]={"code":"01370","region":"Massachusetts","city":"Shelburne Falls","latitude":42.58338,"longitude":-72.77154}}(window,'GeoPostal','US');

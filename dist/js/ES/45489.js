@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45489"]={"code":"45489","region":"Castilla-La Mancha","city":"Urda","latitude":39.4118,"longitude":-3.71493}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46249"]={"code":"46249","region":"Valenciana, Comunidad","city":"Carlet","latitude":39.23333,"longitude":-0.51667}}(window,'GeoPostal','ES');

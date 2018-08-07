@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["529223"]={"code":"529223","region":"Guangdong","city":"Chonglou","latitude":22.12948,"longitude":112.80747}}(window,'GeoPostal','CN');

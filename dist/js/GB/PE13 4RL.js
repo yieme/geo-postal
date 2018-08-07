@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE13 4RL"]={"code":"PE13 4RL","region":"England","city":"Wisbech Saint Mary","latitude":52.65218,"longitude":0.09768}}(window,'GeoPostal','GB');

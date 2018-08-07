@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59132"]={"code":"59132","region":"Hauts-de-France","city":"Trelon","latitude":50.05805,"longitude":4.102}}(window,'GeoPostal','FR');

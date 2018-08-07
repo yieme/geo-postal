@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17450"]={"code":"17450","region":"Nouvelle-Aquitaine","city":"Fouras","latitude":45.98736,"longitude":-1.09275}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07022"]={"code":"07022","region":"New Jersey","city":"Fairview","latitude":40.817173,"longitude":-74.004145}}(window,'GeoPostal','US');

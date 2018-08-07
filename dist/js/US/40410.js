@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40410"]={"code":"40410","region":"KY","city":"Bryantsville","latitude":37.7145,"longitude":-84.6491}}(window,'GeoPostal','US');

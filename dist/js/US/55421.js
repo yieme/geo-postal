@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55421"]={"code":"55421","region":"Minnesota","city":"Columbia Heights","latitude":45.0408,"longitude":-93.263}}(window,'GeoPostal','US');

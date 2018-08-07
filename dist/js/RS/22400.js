@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22400"]={"code":"22400","region":"Sremski okrug","city":"Ruma","latitude":45.00806,"longitude":19.82222}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77837"]={"code":"77837","region":"TX","city":"Calvert","latitude":30.9782,"longitude":-96.6711}}(window,'GeoPostal','US');

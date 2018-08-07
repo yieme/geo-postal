@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7100"]={"code":"7100","region":"Buenos Aires","city":"Dolores","latitude":-36.31322,"longitude":-57.67918}}(window,'GeoPostal','AR');

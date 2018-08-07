@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3322"]={"code":"3322","region":"Bern","city":"Urtenen","latitude":47.02667,"longitude":7.50081}}(window,'GeoPostal','CH');

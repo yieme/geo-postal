@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11311"]={"code":"11311","region":"Andalucia","city":"San Roque","latitude":36.21067,"longitude":-5.38415}}(window,'GeoPostal','ES');

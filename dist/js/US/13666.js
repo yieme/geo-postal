@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13666"]={"code":"13666","region":"NY","city":"Newton Falls","latitude":44.2177,"longitude":-74.9423}}(window,'GeoPostal','US');

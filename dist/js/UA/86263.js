@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86263"]={"code":"86263","region":"Donetska oblast","city":"Rassypnoye","latitude":48.14966,"longitude":38.57618}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2840"]={"code":"2840","region":"Hovedstaden","city":"Glostrup","latitude":55.66667,"longitude":12.4}}(window,'GeoPostal','DK');

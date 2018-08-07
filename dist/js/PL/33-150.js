@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-150"]={"code":"33-150","region":"Malopolskie","city":"Jodlowka-Walki","latitude":50.04992,"longitude":21.13332}}(window,'GeoPostal','PL');

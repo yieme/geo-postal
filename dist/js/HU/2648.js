@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2648"]={"code":"2648","region":"Nograd","city":"Ersekvadkert","latitude":47.99619,"longitude":19.20231}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["561 53"]={"code":"561 53","region":"Pardubicky kraj","city":"Dolni Cermna","latitude":49.97954,"longitude":16.56475}}(window,'GeoPostal','CZ');

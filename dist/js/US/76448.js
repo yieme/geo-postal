@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76448"]={"code":"76448","region":"Texas","city":"Eastland","latitude":32.40152,"longitude":-98.81756}}(window,'GeoPostal','US');

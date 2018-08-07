@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67373"]={"code":"67373","region":"Jawa Timur","city":"Krajanjugosari","latitude":-8.2219,"longitude":113.0597}}(window,'GeoPostal','ID');

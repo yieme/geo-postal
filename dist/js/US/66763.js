@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66763"]={"code":"66763","region":"Kansas","city":"Frontenac","latitude":37.455,"longitude":-94.6935}}(window,'GeoPostal','US');

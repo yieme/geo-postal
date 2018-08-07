@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97040"]={"code":"97040","region":"Oregon","city":"Mosier","latitude":45.664102,"longitude":-121.373852}}(window,'GeoPostal','US');

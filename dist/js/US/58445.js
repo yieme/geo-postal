@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58445"]={"code":"58445","region":"North Dakota","city":"Grace City","latitude":47.543904,"longitude":-98.819485}}(window,'GeoPostal','US');

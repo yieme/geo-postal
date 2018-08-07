@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0P 0B0"]={"code":"S0P 0B0","region":"Saskatchewan","city":"Denare Beach","latitude":54.66683,"longitude":-102.08408}}(window,'GeoPostal','CA');

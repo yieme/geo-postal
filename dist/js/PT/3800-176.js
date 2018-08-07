@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3800-176"]={"code":"3800-176","region":"Aveiro","city":"Aveiro","latitude":40.64427,"longitude":-8.64554}}(window,'GeoPostal','PT');

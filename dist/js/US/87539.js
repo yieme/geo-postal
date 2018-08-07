@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87539"]={"code":"87539","region":"New Mexico","city":"La Madera","latitude":36.38639,"longitude":-106.04111}}(window,'GeoPostal','US');

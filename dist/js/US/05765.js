@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05765"]={"code":"05765","region":"Vermont","city":"Proctor","latitude":43.656183,"longitude":-73.036287}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50076"]={"code":"50076","region":"IA","city":"Exira","latitude":41.5768,"longitude":-94.8571}}(window,'GeoPostal','US');

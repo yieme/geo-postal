@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72120"]={"code":"72120","region":"Arkansas","city":"Sherwood","latitude":34.81509,"longitude":-92.22432}}(window,'GeoPostal','US');

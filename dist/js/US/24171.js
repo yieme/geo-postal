@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24171"]={"code":"24171","region":"Virginia","city":"Stuart","latitude":36.64097,"longitude":-80.26561}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["509227"]={"code":"509227","region":"Telangana","city":"Mahbubabad","latitude":17.61667,"longitude":80.01667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31001"]={"code":"31001","region":"Georgia","city":"Abbeville","latitude":31.99212,"longitude":-83.30682}}(window,'GeoPostal','US');

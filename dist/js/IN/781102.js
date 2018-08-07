@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["781102"]={"code":"781102","region":"Assam","city":"Hajo","latitude":26.25,"longitude":91.53333}}(window,'GeoPostal','IN');

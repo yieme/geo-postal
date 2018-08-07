@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23694"]={"code":"23694","region":"VA","city":"Lackey","latitude":37.2232,"longitude":-76.559}}(window,'GeoPostal','US');

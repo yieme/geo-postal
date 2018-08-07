@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53818"]={"code":"53818","region":"Wisconsin","city":"Platteville","latitude":42.73416,"longitude":-90.47846}}(window,'GeoPostal','US');

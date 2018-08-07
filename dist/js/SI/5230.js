@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5230"]={"code":"5230","region":"Bovec","city":"Bovec","latitude":46.3375,"longitude":13.55278}}(window,'GeoPostal','SI');

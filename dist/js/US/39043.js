@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39043"]={"code":"39043","region":"MS","city":"Brandon","latitude":32.269,"longitude":-89.9875}}(window,'GeoPostal','US');

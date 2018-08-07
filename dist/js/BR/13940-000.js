@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13940-000"]={"code":"13940-000","region":"Sao Paulo","city":"Aguas de Lindoia","latitude":-22.47639,"longitude":-46.63278}}(window,'GeoPostal','BR');

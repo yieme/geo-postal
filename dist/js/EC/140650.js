@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140650"]={"code":"140650","region":"Morona Santiago","city":"Sucua","latitude":-2.46667,"longitude":-78.16667}}(window,'GeoPostal','EC');

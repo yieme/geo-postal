@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570 17"]={"code":"570 17","region":"Kentriki Makedonia","city":"Xilopolis","latitude":40.92713,"longitude":23.17944}}(window,'GeoPostal','GR');

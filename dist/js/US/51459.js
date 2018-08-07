@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51459"]={"code":"51459","region":"IA","city":"Ralston","latitude":42.0414,"longitude":-94.6321}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628013"]={"code":"628013","region":"Sichuan","city":"Zhongzi","latitude":32.69119,"longitude":106.0319}}(window,'GeoPostal','CN');

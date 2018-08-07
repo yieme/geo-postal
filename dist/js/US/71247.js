@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71247"]={"code":"71247","region":"LA","city":"Hodge","latitude":32.2768,"longitude":-92.7235}}(window,'GeoPostal','US');

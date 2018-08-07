@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60130"]={"code":"60130","region":"Hauts-de-France","city":"Ravenel","latitude":49.51523,"longitude":2.50192}}(window,'GeoPostal','FR');

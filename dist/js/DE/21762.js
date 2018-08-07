@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21762"]={"code":"21762","region":"Niedersachsen","city":"Otterndorf","latitude":53.80908,"longitude":8.90068}}(window,'GeoPostal','DE');

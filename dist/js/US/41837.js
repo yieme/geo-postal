@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41837"]={"code":"41837","region":"KY","city":"Mayking","latitude":37.1302,"longitude":-82.7427}}(window,'GeoPostal','US');

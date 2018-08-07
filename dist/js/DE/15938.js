@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15938"]={"code":"15938","region":"Brandenburg","city":"Falkenhain","latitude":51.93805,"longitude":13.59632}}(window,'GeoPostal','DE');

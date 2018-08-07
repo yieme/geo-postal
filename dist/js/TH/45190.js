@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45190"]={"code":"45190","region":"Roi Et","city":"Pathum Rat","latitude":15.6345,"longitude":103.34325}}(window,'GeoPostal','TH');

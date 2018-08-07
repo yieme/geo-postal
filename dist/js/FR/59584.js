@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59584"]={"code":"59584","region":"Grand-Est","city":"Marly","latitude":49.06667,"longitude":6.15}}(window,'GeoPostal','FR');

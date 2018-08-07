@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783 55"]={"code":"783 55","region":"Olomoucky kraj","city":"Velky Ujezd","latitude":49.57858,"longitude":17.48347}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42454"]={"code":"42454","region":"Banten","city":"Pangarengan","latitude":-5.95714,"longitude":106.07266}}(window,'GeoPostal','ID');

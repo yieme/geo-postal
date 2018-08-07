@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6426"]={"code":"6426","region":"Tirol","city":"Roppen","latitude":47.21667,"longitude":10.81667}}(window,'GeoPostal','AT');

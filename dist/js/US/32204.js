@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32204"]={"code":"32204","region":"Florida","city":"Jacksonville","latitude":30.324119,"longitude":-81.680908}}(window,'GeoPostal','US');

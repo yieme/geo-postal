@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35988"]={"code":"35988","region":"Alabama","city":"Sylvania","latitude":34.56231,"longitude":-85.81247}}(window,'GeoPostal','US');

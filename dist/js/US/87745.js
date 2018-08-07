@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87745"]={"code":"87745","region":"New Mexico","city":"Sapello","latitude":35.593889,"longitude":-105.216667}}(window,'GeoPostal','US');

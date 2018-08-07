@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL22 7DZ"]={"code":"LL22 7DZ","region":"Wales","city":"Conwy","latitude":53.28077,"longitude":-3.83039}}(window,'GeoPostal','GB');

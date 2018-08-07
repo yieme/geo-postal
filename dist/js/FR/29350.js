@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29350"]={"code":"29350","region":"Bretagne","city":"Moelan-sur-Mer","latitude":47.81418,"longitude":-3.62892}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577425"]={"code":"577425","region":"Karnataka","city":"Hosanagara","latitude":13.91667,"longitude":75.06667}}(window,'GeoPostal','IN');

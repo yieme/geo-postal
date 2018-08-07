@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH42 4RL"]={"code":"PH42 4RL","region":"Scotland","city":"Isle of Eigg","latitude":56.89958,"longitude":-6.14076}}(window,'GeoPostal','GB');

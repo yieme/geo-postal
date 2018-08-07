@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23326"]={"code":"23326","region":"Severnobanatski okrug","city":"Ostojicevo","latitude":45.89083,"longitude":20.16417}}(window,'GeoPostal','RS');

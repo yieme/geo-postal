@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4815"]={"code":"4815","region":"Queensland","city":"Kelso","latitude":-19.38932,"longitude":146.71912}}(window,'GeoPostal','AU');

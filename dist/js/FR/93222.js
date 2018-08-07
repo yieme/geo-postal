@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93222"]={"code":"93222","region":"Ile-de-France","city":"Gagny","latitude":48.88333,"longitude":2.53333}}(window,'GeoPostal','FR');

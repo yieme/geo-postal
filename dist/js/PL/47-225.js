@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-225"]={"code":"47-225","region":"Slaskie","city":"Blachownia","latitude":50.78015,"longitude":18.96389}}(window,'GeoPostal','PL');

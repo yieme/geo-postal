@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60129"]={"code":"60129","region":"Hauts-de-France","city":"Gilocourt","latitude":49.2928,"longitude":2.8803}}(window,'GeoPostal','FR');

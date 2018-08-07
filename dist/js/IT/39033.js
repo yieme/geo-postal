@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39033"]={"code":"39033","region":"Trentino-Alto Adige","city":"Corvara in Badia","latitude":46.55162,"longitude":11.87019}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84332"]={"code":"84332","region":"Utah","city":"Providence","latitude":41.70037,"longitude":-111.806791}}(window,'GeoPostal','US');

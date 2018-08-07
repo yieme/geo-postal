@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP19 8BX"]={"code":"IP19 8BX","region":"England","city":"Halesworth","latitude":52.3464,"longitude":1.5029}}(window,'GeoPostal','GB');

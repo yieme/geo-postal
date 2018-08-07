@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 3C0"]={"code":"T0H 3C0","region":"Alberta","city":"Sexsmith","latitude":55.34998,"longitude":-118.78602}}(window,'GeoPostal','CA');

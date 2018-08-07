@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84624"]={"code":"84624","region":"Utah","city":"Delta","latitude":39.35218,"longitude":-112.57717}}(window,'GeoPostal','US');

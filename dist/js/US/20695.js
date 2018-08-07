@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20695"]={"code":"20695","region":"Maryland","city":"White Plains","latitude":38.5921,"longitude":-76.9573}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8330"]={"code":"8330","region":"North-West","city":"Christiana","latitude":-27.91402,"longitude":25.16111}}(window,'GeoPostal','ZA');

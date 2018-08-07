@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA3 4GR"]={"code":"BA3 4GR","region":"England","city":"Chewton Mendip","latitude":51.27639,"longitude":-2.57694}}(window,'GeoPostal','GB');

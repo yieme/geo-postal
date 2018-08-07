@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA4 3SJ"]={"code":"SA4 3SJ","region":"Wales","city":"Crofty","latitude":51.63448,"longitude":-4.12937}}(window,'GeoPostal','GB');

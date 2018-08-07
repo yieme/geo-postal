@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30177"]={"code":"30177","region":"GA","city":"Tate","latitude":34.4027,"longitude":-84.3785}}(window,'GeoPostal','US');

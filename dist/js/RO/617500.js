@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617500"]={"code":"617500","region":"Iasi","city":"Vinatori-Neamt","latitude":47.2,"longitude":26.31667}}(window,'GeoPostal','RO');

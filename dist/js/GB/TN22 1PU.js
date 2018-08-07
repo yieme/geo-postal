@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN22 1PU"]={"code":"TN22 1PU","region":"England","city":"Uckfield","latitude":50.96948,"longitude":0.09589}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52657"]={"code":"52657","region":"IA","city":"Saint Paul","latitude":40.7695,"longitude":-91.5171}}(window,'GeoPostal','US');

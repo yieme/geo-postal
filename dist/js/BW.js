@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["BW"]={id:'BW',country:'Botswana', postal:{'':{code:'',region:'North West',city:'Kasane',latitude:-17.81667,longitude:25.15}}};

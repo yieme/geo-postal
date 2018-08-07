@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["450106"]={"code":"450106","region":"Kurganskaya oblast'","city":"Kurtamysh","latitude":54.91028,"longitude":64.43194}}(window,'GeoPostal','RU');

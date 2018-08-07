@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04622"]={"code":"04622","region":"Maine","city":"Cherryfield","latitude":44.6073,"longitude":-67.92584}}(window,'GeoPostal','US');

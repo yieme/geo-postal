@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4290"]={"code":"4290","region":"Trzic","city":"Trzic","latitude":46.36357,"longitude":14.31046}}(window,'GeoPostal','SI');

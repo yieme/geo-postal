@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-307"]={"code":"38-307","region":"Malopolskie","city":"Sekowa","latitude":49.62217,"longitude":21.19769}}(window,'GeoPostal','PL');

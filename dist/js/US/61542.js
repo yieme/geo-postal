@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61542"]={"code":"61542","region":"Illinois","city":"Lewistown","latitude":40.3931,"longitude":-90.15484}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7520-999"]={"code":"7520-999","region":"Setubal","city":"Santo Andre","latitude":38.05444,"longitude":-8.75212}}(window,'GeoPostal','PT');

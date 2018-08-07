@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53093"]={"code":"53093","region":"WI","city":"Waldo","latitude":43.6571,"longitude":-87.9722}}(window,'GeoPostal','US');

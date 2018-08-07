@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84002"]={"code":"84002","region":"Guelmim-Es Semara","city":"Tata","latitude":29.74409,"longitude":-7.973}}(window,'GeoPostal','MA');

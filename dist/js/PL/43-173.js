@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-173"]={"code":"43-173","region":"Slaskie","city":"Laziska Gorne","latitude":50.14952,"longitude":18.84215}}(window,'GeoPostal','PL');

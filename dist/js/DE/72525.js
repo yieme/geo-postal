@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72525"]={"code":"72525","region":"Baden-Wurttemberg","city":"Munsingen","latitude":48.41126,"longitude":9.49704}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41385"]={"code":"41385","region":"Kentucky","city":"Vancleve","latitude":37.629484,"longitude":-83.413939}}(window,'GeoPostal','US');

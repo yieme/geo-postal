@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61739"]={"code":"61739","region":"Illinois","city":"Fairbury","latitude":40.74726,"longitude":-88.51478}}(window,'GeoPostal','US');

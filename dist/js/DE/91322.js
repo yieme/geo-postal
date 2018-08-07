@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91322"]={"code":"91322","region":"Nordrhein-Westfalen","city":"Grafenberg","latitude":51.23989,"longitude":6.83357}}(window,'GeoPostal','DE');

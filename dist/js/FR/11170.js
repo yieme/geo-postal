@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11170"]={"code":"11170","region":"Occitanie","city":"Montolieu","latitude":43.31,"longitude":2.2158}}(window,'GeoPostal','FR');

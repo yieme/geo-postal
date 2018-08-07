@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67770"]={"code":"67770","region":"Nuevo Leon","city":"Linares","latitude":24.85778,"longitude":-99.56778}}(window,'GeoPostal','MX');

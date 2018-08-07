@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44960"]={"code":"44960","region":"Nevsehir","city":"Derinkuyu","latitude":38.3751,"longitude":34.73419}}(window,'GeoPostal','TR');

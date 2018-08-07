@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24070"]={"code":"24070","region":"VA","city":"Catawba","latitude":37.3696,"longitude":-80.1284}}(window,'GeoPostal','US');

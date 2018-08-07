@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29525"]={"code":"29525","region":"Niedersachsen","city":"Uelzen","latitude":52.96572,"longitude":10.56111}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2312"]={"code":"2312","region":"Dobrepolje","city":"Cesta","latitude":45.8619,"longitude":14.6886}}(window,'GeoPostal','SI');

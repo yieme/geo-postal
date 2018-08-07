@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97762"]={"code":"97762","region":"Maluku Utara","city":"Tobelo","latitude":1.72837,"longitude":128.00948}}(window,'GeoPostal','ID');

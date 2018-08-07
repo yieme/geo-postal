@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35039"]={"code":"35039","region":"Hessen","city":"Marburg an der Lahn","latitude":50.80904,"longitude":8.77069}}(window,'GeoPostal','DE');

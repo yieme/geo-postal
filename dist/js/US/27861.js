@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27861"]={"code":"27861","region":"NC","city":"Parmele","latitude":35.8165,"longitude":-77.3141}}(window,'GeoPostal','US');

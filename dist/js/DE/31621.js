@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31621"]={"code":"31621","region":"Niedersachsen","city":"Sudholz","latitude":52.64463,"longitude":9.00055}}(window,'GeoPostal','DE');

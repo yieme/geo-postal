@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628309"]={"code":"628309","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Nefteyugansk","latitude":61.09979,"longitude":72.60349}}(window,'GeoPostal','RU');

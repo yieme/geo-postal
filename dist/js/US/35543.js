@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35543"]={"code":"35543","region":"Alabama","city":"Bear Creek","latitude":34.27482,"longitude":-87.70058}}(window,'GeoPostal','US');

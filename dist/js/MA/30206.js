@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30206"]={"code":"30206","region":"Fes-Boulemane","city":"Fes","latitude":34.03715,"longitude":-4.9998}}(window,'GeoPostal','MA');

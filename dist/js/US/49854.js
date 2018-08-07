@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49854"]={"code":"49854","region":"Michigan","city":"Manistique","latitude":45.95775,"longitude":-86.24625}}(window,'GeoPostal','US');

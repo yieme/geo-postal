@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357 35"]={"code":"357 35","region":"Karlovarsky kraj","city":"Chodov","latitude":50.24018,"longitude":12.74551}}(window,'GeoPostal','CZ');

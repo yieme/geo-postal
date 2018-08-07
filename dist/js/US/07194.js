@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07194"]={"code":"07194","region":"NJ","city":"Midlantic National Bank","latitude":40.73,"longitude":-74.17}}(window,'GeoPostal','US');

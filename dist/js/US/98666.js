@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98666"]={"code":"98666","region":"Washington","city":"Vancouver","latitude":45.715353,"longitude":-122.598082}}(window,'GeoPostal','US');

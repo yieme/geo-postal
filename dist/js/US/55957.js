@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55957"]={"code":"55957","region":"MN","city":"Millville","latitude":44.2359,"longitude":-92.2672}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44190"]={"code":"44190","region":"Maha Sarakham","city":"Kae Dam","latitude":16.02397,"longitude":103.38444}}(window,'GeoPostal','TH');

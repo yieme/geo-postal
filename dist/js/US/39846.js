@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39846"]={"code":"39846","region":"Georgia","city":"Edison","latitude":31.55823,"longitude":-84.73825}}(window,'GeoPostal','US');

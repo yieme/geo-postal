@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8786"]={"code":"8786","region":"Steiermark","city":"Rottenmann","latitude":47.51667,"longitude":14.35}}(window,'GeoPostal','AT');

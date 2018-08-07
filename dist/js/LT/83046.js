@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83046"]={"code":"83046","region":"Siauliu apskritis","city":"Linkuva","latitude":56.08556,"longitude":23.9725}}(window,'GeoPostal','LT');

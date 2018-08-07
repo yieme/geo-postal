@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31634"]={"code":"31634","region":"Niedersachsen","city":"Lichtenhorst","latitude":52.71893,"longitude":9.40172}}(window,'GeoPostal','DE');

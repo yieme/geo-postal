@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73792"]={"code":"73792","region":"Vastmanlands lan","city":"Fagersta","latitude":60.00418,"longitude":15.79316}}(window,'GeoPostal','SE');

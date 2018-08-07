@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16130"]={"code":"16130","region":"PA","city":"Hadley","latitude":41.4432,"longitude":-80.2153}}(window,'GeoPostal','US');

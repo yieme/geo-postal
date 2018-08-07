@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86502"]={"code":"86502","region":"Arizona","city":"Chambers","latitude":35.18861,"longitude":-109.43306}}(window,'GeoPostal','US');

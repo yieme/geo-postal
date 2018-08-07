@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59544"]={"code":"59544","region":"Hauts-de-France","city":"Caudry","latitude":50.1249,"longitude":3.41186}}(window,'GeoPostal','FR');

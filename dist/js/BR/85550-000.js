@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85550-000"]={"code":"85550-000","region":"Parana","city":"Coronel Vivida","latitude":-25.97972,"longitude":-52.56778}}(window,'GeoPostal','BR');

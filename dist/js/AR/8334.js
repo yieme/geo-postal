@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8334"]={"code":"8334","region":"Rio Negro","city":"Ingeniero Luis A. Huergo","latitude":-39.08333,"longitude":-67.23333}}(window,'GeoPostal','AR');

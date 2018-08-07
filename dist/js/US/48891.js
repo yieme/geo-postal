@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48891"]={"code":"48891","region":"MI","city":"Vestaburg","latitude":43.387,"longitude":-84.9082}}(window,'GeoPostal','US');

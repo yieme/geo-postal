@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73644"]={"code":"73644","region":"Oklahoma","city":"Elk City","latitude":35.410012,"longitude":-99.414184}}(window,'GeoPostal','US');

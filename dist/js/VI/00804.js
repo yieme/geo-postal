@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00804"]={"code":"00804","region":"Virgin Islands","city":"Charlotte Amalie","latitude":18.3419,"longitude":-64.9307}}(window,'GeoPostal','VI');

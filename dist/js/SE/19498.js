@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19498"]={"code":"19498","region":"Stockholms lan","city":"Upplands Vaesby","latitude":59.51839,"longitude":17.91128}}(window,'GeoPostal','SE');

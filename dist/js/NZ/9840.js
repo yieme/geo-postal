@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9840"]={"code":"9840","region":"Southland","city":"Invercargill","latitude":-46.4,"longitude":168.35}}(window,'GeoPostal','NZ');

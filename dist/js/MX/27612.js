@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27612"]={"code":"27612","region":"Chiapas","city":"San Fernando","latitude":16.86667,"longitude":-93.21667}}(window,'GeoPostal','MX');

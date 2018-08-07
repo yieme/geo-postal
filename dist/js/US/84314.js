@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84314"]={"code":"84314","region":"UT","city":"Honeyville","latitude":41.652,"longitude":-112.105}}(window,'GeoPostal','US');

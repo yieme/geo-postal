@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["582115"]={"code":"582115","region":"Karnataka","city":"Gadag","latitude":15.41667,"longitude":75.61667}}(window,'GeoPostal','IN');

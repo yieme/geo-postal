@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["312400"]={"code":"312400","region":"Zhejiang","city":"Shengzhou Shi","latitude":29.59583,"longitude":120.81667}}(window,'GeoPostal','CN');

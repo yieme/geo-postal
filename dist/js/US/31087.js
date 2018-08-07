@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31087"]={"code":"31087","region":"Georgia","city":"Sparta","latitude":33.277491,"longitude":-82.971183}}(window,'GeoPostal','US');

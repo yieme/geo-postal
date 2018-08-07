@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89828"]={"code":"89828","region":"NV","city":"Lamoille","latitude":40.7505,"longitude":-115.3631}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2036"]={"code":"2036","region":"Akershus","city":"Maura","latitude":60.25,"longitude":11.01667}}(window,'GeoPostal','NO');

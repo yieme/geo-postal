@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84764"]={"code":"84764","region":"Utah","city":"Bryce Canyon","latitude":37.6283,"longitude":-112.16766}}(window,'GeoPostal','US');

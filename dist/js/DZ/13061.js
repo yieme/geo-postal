@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13061"]={"code":"13061","region":"Tlemcen","city":"Beni Mester","latitude":34.87045,"longitude":-1.42319}}(window,'GeoPostal','DZ');

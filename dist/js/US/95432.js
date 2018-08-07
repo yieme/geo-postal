@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95432"]={"code":"95432","region":"California","city":"Elk","latitude":39.143715,"longitude":-123.712819}}(window,'GeoPostal','US');

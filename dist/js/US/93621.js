@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93621"]={"code":"93621","region":"CA","city":"Dunlap","latitude":36.7446,"longitude":-119.0899}}(window,'GeoPostal','US');

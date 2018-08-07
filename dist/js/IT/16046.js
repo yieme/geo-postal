@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16046"]={"code":"16046","region":"Liguria","city":"Mezzanego","latitude":44.38275,"longitude":9.37667}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79756"]={"code":"79756","region":"Texas","city":"Monahans","latitude":31.582094,"longitude":-102.898061}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1500"]={"code":"1500","region":"Smarje pri Jelsah","city":"Stranje","latitude":46.2207,"longitude":15.5633}}(window,'GeoPostal','SI');

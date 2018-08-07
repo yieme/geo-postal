@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR26 8RR"]={"code":"NR26 8RR","region":"England","city":"Sheringham","latitude":52.94078,"longitude":1.20931}}(window,'GeoPostal','GB');

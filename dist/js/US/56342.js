@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56342"]={"code":"56342","region":"Minnesota","city":"Isle","latitude":46.14056,"longitude":-93.466667}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM0 7QN"]={"code":"CM0 7QN","region":"England","city":"Bradwell on Sea","latitude":51.7248,"longitude":0.89985}}(window,'GeoPostal','GB');

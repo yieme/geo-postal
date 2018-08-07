@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41390"]={"code":"41390","region":"Kentucky","city":"Whick","latitude":37.409271,"longitude":-83.37068}}(window,'GeoPostal','US');

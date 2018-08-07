@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59514"]={"code":"59514","region":"Nordrhein-Westfalen","city":"Kreggenfeld","latitude":51.61667,"longitude":7.95}}(window,'GeoPostal','DE');

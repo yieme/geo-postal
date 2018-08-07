@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["810"]={"code":"810","region":"Thimphu","city":"Thimphu","latitude":27.46609,"longitude":89.64191}}(window,'GeoPostal','BT');

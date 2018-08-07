@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55720"]={"code":"55720","region":"Minnesota","city":"Cloquet","latitude":46.72938,"longitude":-92.45922}}(window,'GeoPostal','US');

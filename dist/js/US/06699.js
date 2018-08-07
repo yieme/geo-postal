@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06699"]={"code":"06699","region":"CT","city":"Bridgeport","latitude":41.167,"longitude":-73.2048}}(window,'GeoPostal','US');

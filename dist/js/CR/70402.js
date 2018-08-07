@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70402"]={"code":"70402","region":"Limon","city":"Sixaola","latitude":9.52766,"longitude":-82.62185}}(window,'GeoPostal','CR');

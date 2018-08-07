@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94014"]={"code":"94014","region":"California","city":"Daly City","latitude":37.70577,"longitude":-122.46192}}(window,'GeoPostal','US');

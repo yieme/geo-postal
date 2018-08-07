@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15722"]={"code":"15722","region":"Pennsylvania","city":"Carrolltown","latitude":40.60278,"longitude":-78.70917}}(window,'GeoPostal','US');

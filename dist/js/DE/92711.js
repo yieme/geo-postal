@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92711"]={"code":"92711","region":"Bayern","city":"Parkstein","latitude":49.7292,"longitude":12.06755}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1742"]={"code":"1742","region":"Noord-Holland","city":"Schagen","latitude":52.7875,"longitude":4.79861}}(window,'GeoPostal','NL');

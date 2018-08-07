@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05038"]={"code":"05038","region":"Vermont","city":"Chelsea","latitude":43.98979,"longitude":-72.4476}}(window,'GeoPostal','US');

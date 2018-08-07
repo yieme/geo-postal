@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16316"]={"code":"16316","region":"Pennsylvania","city":"Conneaut Lake","latitude":41.62218,"longitude":-80.30952}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18617"]={"code":"18617","region":"PA","city":"Glen Lyon","latitude":41.1746,"longitude":-76.0746}}(window,'GeoPostal','US');

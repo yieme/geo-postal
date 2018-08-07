@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24325"]={"code":"24325","region":"Campeche","city":"Palizada","latitude":18.25,"longitude":-92.08333}}(window,'GeoPostal','MX');

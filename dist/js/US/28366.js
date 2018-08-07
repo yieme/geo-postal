@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28366"]={"code":"28366","region":"NC","city":"Newton Grove","latitude":35.2301,"longitude":-78.3594}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10450"]={"code":"10450","region":"Extremadura","city":"Jarandilla de la Vera","latitude":40.12915,"longitude":-5.66079}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4000"]={"code":"4000","region":"Laguna","city":"San Pablo","latitude":14.066667,"longitude":121.333333}}(window,'GeoPostal','PH');

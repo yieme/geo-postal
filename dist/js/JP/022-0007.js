@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["022-0007"]={"code":"022-0007","region":"Iwate","city":"Ofunato","latitude":39.067,"longitude":141.717}}(window,'GeoPostal','JP');

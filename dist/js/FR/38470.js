@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38470"]={"code":"38470","region":"Auvergne-Rhone-Alpes","city":"Teche","latitude":45.1836,"longitude":5.3822}}(window,'GeoPostal','FR');

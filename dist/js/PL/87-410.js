@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-410"]={"code":"87-410","region":"Kujawsko-pomorskie","city":"Kowalewo Pomorskie","latitude":53.15432,"longitude":18.89868}}(window,'GeoPostal','PL');

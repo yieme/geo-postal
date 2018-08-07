@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-506"]={"code":"05-506","region":"Mazowieckie","city":"Lesznowola","latitude":52.09095,"longitude":20.93479}}(window,'GeoPostal','PL');

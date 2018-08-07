@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78275"]={"code":"78275","region":"TX","city":"Alliance Data Systems","latitude":29.53,"longitude":-98.42}}(window,'GeoPostal','US');

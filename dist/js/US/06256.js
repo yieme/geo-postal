@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06256"]={"code":"06256","region":"CT","city":"North Windham","latitude":41.7451,"longitude":-72.1601}}(window,'GeoPostal','US');

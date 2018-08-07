@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31791"]={"code":"31791","region":"GA","city":"Sylvester","latitude":31.5393,"longitude":-83.8607}}(window,'GeoPostal','US');

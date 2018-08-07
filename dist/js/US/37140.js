@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37140"]={"code":"37140","region":"TN","city":"Only","latitude":35.8679,"longitude":-87.6655}}(window,'GeoPostal','US');

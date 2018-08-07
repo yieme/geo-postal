@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88348"]={"code":"88348","region":"Baden-Wurttemberg","city":"Bernhausen","latitude":48.02853,"longitude":9.52025}}(window,'GeoPostal','DE');

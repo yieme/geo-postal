@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59913"]={"code":"59913","region":"MT","city":"Coram","latitude":48.4342,"longitude":-114.0584}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL15 8DD"]={"code":"DL15 8DD","region":"England","city":"Fir Tree","latitude":54.70406,"longitude":-1.78187}}(window,'GeoPostal','GB');

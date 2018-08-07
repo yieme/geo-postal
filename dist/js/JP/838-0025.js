@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["838-0025"]={"code":"838-0025","region":"Fukuoka","city":"Asakura","latitude":33.417,"longitude":130.667}}(window,'GeoPostal','JP');

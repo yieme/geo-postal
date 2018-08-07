@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA8 0RY"]={"code":"BA8 0RY","region":"England","city":"Henstridge","latitude":50.96667,"longitude":-2.4}}(window,'GeoPostal','GB');

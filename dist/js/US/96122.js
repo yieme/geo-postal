@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96122"]={"code":"96122","region":"California","city":"Portola","latitude":39.81046,"longitude":-120.4691}}(window,'GeoPostal','US');

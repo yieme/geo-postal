@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38430"]={"code":"38430","region":"Auvergne-Rhone-Alpes","city":"Saint-Jean-de-Moirans","latitude":45.34262,"longitude":5.58615}}(window,'GeoPostal','FR');

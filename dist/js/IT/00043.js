@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00043"]={"code":"00043","region":"Lazio","city":"Ciampino","latitude":41.80162,"longitude":12.60658}}(window,'GeoPostal','IT');

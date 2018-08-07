@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM22 7AE"]={"code":"CM22 7AE","region":"England","city":"Hatfield Heath","latitude":51.81233,"longitude":0.21243}}(window,'GeoPostal','GB');

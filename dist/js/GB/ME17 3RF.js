@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ME17 3RF"]={"code":"ME17 3RF","region":"England","city":"Sutton Valence","latitude":51.21323,"longitude":0.59107}}(window,'GeoPostal','GB');

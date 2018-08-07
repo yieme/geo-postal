@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6270-999"]={"code":"6270-999","region":"Guarda","city":"Manteigas","latitude":40.4028,"longitude":-7.53977}}(window,'GeoPostal','PT');

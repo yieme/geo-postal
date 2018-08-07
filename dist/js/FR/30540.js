@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30540"]={"code":"30540","region":"Occitanie","city":"Milhaud","latitude":43.78978,"longitude":4.31035}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA10 0RA"]={"code":"TA10 0RA","region":"England","city":"Aller","latitude":51.06028,"longitude":-2.85806}}(window,'GeoPostal','GB');

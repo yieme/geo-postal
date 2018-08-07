@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91011"]={"code":"91011","region":"Sicilia","city":"Alcamo","latitude":37.99835,"longitude":12.95654}}(window,'GeoPostal','IT');

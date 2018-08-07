@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09190"]={"code":"09190","region":"Occitanie","city":"Saint-Lizier","latitude":43.00183,"longitude":1.13686}}(window,'GeoPostal','FR');

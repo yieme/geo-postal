@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["073-0403"]={"code":"073-0403","region":"Hokkaido","city":"Utashinai","latitude":43.517,"longitude":142.033}}(window,'GeoPostal','JP');

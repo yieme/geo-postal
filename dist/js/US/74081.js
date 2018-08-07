@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74081"]={"code":"74081","region":"OK","city":"Terlton","latitude":36.1889,"longitude":-96.4876}}(window,'GeoPostal','US');

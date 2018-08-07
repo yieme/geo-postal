@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96038"]={"code":"96038","region":"California","city":"Grenada","latitude":41.64444,"longitude":-122.52278}}(window,'GeoPostal','US');

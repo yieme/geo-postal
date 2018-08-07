@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40955"]={"code":"40955","region":"KY","city":"Ingram","latitude":36.7692,"longitude":-83.7082}}(window,'GeoPostal','US');

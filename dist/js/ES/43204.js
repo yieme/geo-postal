@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43204"]={"code":"43204","region":"Catalunya","city":"Reus","latitude":41.15612,"longitude":1.10687}}(window,'GeoPostal','ES');

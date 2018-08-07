@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19958"]={"code":"19958","region":"Delaware","city":"Lewes","latitude":38.7258,"longitude":-75.17418}}(window,'GeoPostal','US');

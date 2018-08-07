@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56336"]={"code":"56336","region":"Minnesota","city":"Grey Eagle","latitude":45.824247,"longitude":-94.748954}}(window,'GeoPostal','US');

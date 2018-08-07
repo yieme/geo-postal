@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE9 4LQ"]={"code":"LE9 4LQ","region":"England","city":"Stoney Stanton","latitude":52.54839,"longitude":-1.2793}}(window,'GeoPostal','GB');

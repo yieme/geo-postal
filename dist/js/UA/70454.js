@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70454"]={"code":"70454","region":"Zaporizka oblast","city":"Malokaterynivka","latitude":47.6555,"longitude":35.25649}}(window,'GeoPostal','UA');

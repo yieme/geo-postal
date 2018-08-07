@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8500"]={"code":"8500","region":"Thurgau","city":"Frauenfeld","latitude":47.55816,"longitude":8.89854}}(window,'GeoPostal','CH');

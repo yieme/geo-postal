@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV11 8XX"]={"code":"IV11 8XX","region":"Scotland","city":"Glenurguhart","latitude":57.63333,"longitude":-4.11667}}(window,'GeoPostal','GB');

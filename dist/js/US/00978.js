@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00978"]={"code":"00978","region":"PR","city":"Saint Just","latitude":18.37,"longitude":-66.01}}(window,'GeoPostal','US');

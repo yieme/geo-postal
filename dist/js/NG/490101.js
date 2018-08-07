@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["490101"]={"code":"490101","region":"Abia","city":"Amaigbo","latitude":5.78917,"longitude":7.83829}}(window,'GeoPostal','NG');

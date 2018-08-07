@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39840"]={"code":"39840","region":"Georgia","city":"Cuthbert","latitude":31.77127,"longitude":-84.78937}}(window,'GeoPostal','US');

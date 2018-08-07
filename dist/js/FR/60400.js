@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60400"]={"code":"60400","region":"Hauts-de-France","city":"Crisolles","latitude":49.6225,"longitude":3.01451}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 1T1"]={"code":"V0K 1T1","region":"British Columbia","city":"Chasm","latitude":51.21651,"longitude":-121.48596}}(window,'GeoPostal','CA');

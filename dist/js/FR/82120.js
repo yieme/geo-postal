@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82120"]={"code":"82120","region":"Occitanie","city":"Lavit","latitude":43.95674,"longitude":0.9201}}(window,'GeoPostal','FR');

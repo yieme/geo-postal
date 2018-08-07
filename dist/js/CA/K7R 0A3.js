@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K7R 0A3"]={"code":"K7R 0A3","region":"Ontario","city":"Bongard","latitude":44.05011,"longitude":-76.94944}}(window,'GeoPostal','CA');

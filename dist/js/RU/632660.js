@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632660"]={"code":"632660","region":"Novosibirskaya oblast'","city":"Prokudskoye","latitude":55.0089,"longitude":82.4574}}(window,'GeoPostal','RU');

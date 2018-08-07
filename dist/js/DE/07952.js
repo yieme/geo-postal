@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07952"]={"code":"07952","region":"Thuringen","city":"Pollwitz","latitude":50.62381,"longitude":12.03802}}(window,'GeoPostal','DE');

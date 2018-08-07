@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60043"]={"code":"60043","region":"IL","city":"Kenilworth","latitude":42.0884,"longitude":-87.7165}}(window,'GeoPostal','US');

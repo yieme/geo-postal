@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38565"]={"code":"38565","region":"Tennessee","city":"Grimsley","latitude":36.26701,"longitude":-84.9844}}(window,'GeoPostal','US');

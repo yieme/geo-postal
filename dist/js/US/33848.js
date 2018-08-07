@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33848"]={"code":"33848","region":"FL","city":"Intercession City","latitude":28.2774,"longitude":-81.5069}}(window,'GeoPostal','US');

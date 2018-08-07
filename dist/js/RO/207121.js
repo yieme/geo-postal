@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207121"]={"code":"207121","region":"Cluj","city":"Mociu","latitude":46.8,"longitude":24.03333}}(window,'GeoPostal','RO');

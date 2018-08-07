@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28020"]={"code":"28020","region":"Skane lan","city":"Bjarnum","latitude":56.28333,"longitude":13.7}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37180"]={"code":"37180","region":"Amnat Charoen","city":"Pathum Ratchawongsa","latitude":15.89208,"longitude":104.90611}}(window,'GeoPostal','TH');

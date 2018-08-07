@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47016"]={"code":"47016","region":"Indiana","city":"Cedar Grove","latitude":39.35639,"longitude":-84.93694}}(window,'GeoPostal','US');

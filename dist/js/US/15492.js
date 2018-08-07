@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15492"]={"code":"15492","region":"PA","city":"Wickhaven","latitude":40.1194,"longitude":-79.7623}}(window,'GeoPostal','US');

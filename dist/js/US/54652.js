@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54652"]={"code":"54652","region":"WI","city":"Readstown","latitude":43.4508,"longitude":-90.7579}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79460"]={"code":"79460","region":"San Luis Potosi","city":"Villa Juarez","latitude":22.33333,"longitude":-100.26667}}(window,'GeoPostal','MX');

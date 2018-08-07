@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61300"]={"code":"61300","region":"Trabzon","city":"Tonya","latitude":40.88625,"longitude":39.29238}}(window,'GeoPostal','TR');

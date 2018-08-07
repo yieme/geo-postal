@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90100"]={"code":"90100","region":"Tanger-Tetouan","city":"Tangier","latitude":35.78058,"longitude":-5.81365}}(window,'GeoPostal','MA');

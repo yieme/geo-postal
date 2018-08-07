@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80841"]={"code":"80841","region":"CO","city":"U S A F Academy","latitude":39.0896,"longitude":-103.8188}}(window,'GeoPostal','US');

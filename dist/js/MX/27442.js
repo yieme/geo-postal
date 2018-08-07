@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27442"]={"code":"27442","region":"Chiapas","city":"Socoltenango","latitude":16.21667,"longitude":-92.25}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73062"]={"code":"73062","region":"Oklahoma","city":"Mountain View","latitude":35.099381,"longitude":-98.750134}}(window,'GeoPostal','US');

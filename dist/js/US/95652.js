@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95652"]={"code":"95652","region":"California","city":"McClellan","latitude":38.68542,"longitude":-121.3818}}(window,'GeoPostal','US');

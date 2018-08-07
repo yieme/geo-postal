@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1950"]={"code":"1950","region":"Vlaams-Brabant","city":"Kraainem","latitude":50.86155,"longitude":4.46946}}(window,'GeoPostal','BE');

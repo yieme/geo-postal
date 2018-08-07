@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33000"]={"code":"33000","region":"Treinta y Tres","city":"Treinta y Tres","latitude":-33.23333,"longitude":-54.38333}}(window,'GeoPostal','UY');

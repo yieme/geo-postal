@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15368"]={"code":"15368","region":"PA","city":"Vestaburg","latitude":40.0144,"longitude":-79.9889}}(window,'GeoPostal','US');

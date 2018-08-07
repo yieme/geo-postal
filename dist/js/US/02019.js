@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02019"]={"code":"02019","region":"Massachusetts","city":"Bellingham","latitude":42.068411,"longitude":-71.476494}}(window,'GeoPostal','US');

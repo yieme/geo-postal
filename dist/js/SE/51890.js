@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51890"]={"code":"51890","region":"Vastra Gotalands lan","city":"Sandared","latitude":57.70992,"longitude":12.79238}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22011"]={"code":"22011","region":"Lombardia","city":"Bellagio","latitude":45.98772,"longitude":9.26182}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA4 6QY"]={"code":"BA4 6QY","region":"England","city":"Ditcheat","latitude":51.12394,"longitude":-2.53678}}(window,'GeoPostal','GB');

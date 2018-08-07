@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0C 1J0"]={"code":"P0C 1J0","region":"Ontario","city":"Rosseau","latitude":45.2584,"longitude":-79.64134}}(window,'GeoPostal','CA');

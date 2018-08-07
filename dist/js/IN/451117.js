@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["451117"]={"code":"451117","region":"Madhya Pradesh","city":"Sanawad","latitude":22.18333,"longitude":76.06667}}(window,'GeoPostal','IN');

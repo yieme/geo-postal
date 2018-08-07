@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307435"]={"code":"307435","region":"Timis","city":"Traian Vuia","latitude":45.8,"longitude":22.06667}}(window,'GeoPostal','RO');

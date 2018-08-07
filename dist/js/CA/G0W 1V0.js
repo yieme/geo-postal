@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0W 1V0"]={"code":"G0W 1V0","region":"Quebec","city":"Lac-Bouchette","latitude":48.25009,"longitude":-72.18244}}(window,'GeoPostal','CA');

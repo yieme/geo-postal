@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76121"]={"code":"76121","region":"Puglia","city":"Barletta","latitude":41.31183,"longitude":16.29077}}(window,'GeoPostal','IT');

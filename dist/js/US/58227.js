@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58227"]={"code":"58227","region":"North Dakota","city":"Edinburg","latitude":48.48822,"longitude":-97.9158}}(window,'GeoPostal','US');

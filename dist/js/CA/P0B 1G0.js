@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0B 1G0"]={"code":"P0B 1G0","region":"Ontario","city":"Minett","latitude":45.1668,"longitude":-79.64964}}(window,'GeoPostal','CA');

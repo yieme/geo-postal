@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4534"]={"code":"4534","region":"Vest-Agder","city":"Helland","latitude":58.18875,"longitude":7.52513}}(window,'GeoPostal','NO');

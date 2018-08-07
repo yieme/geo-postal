@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75140"]={"code":"75140","region":"Texas","city":"Grand Saline","latitude":32.67346,"longitude":-95.70941}}(window,'GeoPostal','US');

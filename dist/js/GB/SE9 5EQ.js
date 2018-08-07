@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE9 5EQ"]={"code":"SE9 5EQ","region":"England","city":"Eltham","latitude":51.45061,"longitude":0.05225}}(window,'GeoPostal','GB');

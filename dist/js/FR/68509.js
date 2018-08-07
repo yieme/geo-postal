@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68509"]={"code":"68509","region":"Grand-Est","city":"Guebwiller","latitude":47.91667,"longitude":7.2}}(window,'GeoPostal','FR');

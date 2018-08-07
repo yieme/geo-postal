@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68952"]={"code":"68952","region":"Nebraska","city":"Inavale","latitude":40.086909,"longitude":-98.6694}}(window,'GeoPostal','US');

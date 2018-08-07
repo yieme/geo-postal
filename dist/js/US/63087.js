@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63087"]={"code":"63087","region":"MO","city":"Valles Mines","latitude":37.9998,"longitude":-90.4407}}(window,'GeoPostal','US');

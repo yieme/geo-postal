@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 0Z0"]={"code":"S0K 0Z0","region":"Saskatchewan","city":"Colonsay","latitude":51.980929,"longitude":-105.871401}}(window,'GeoPostal','CA');

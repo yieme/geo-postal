@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["749 01"]={"code":"749 01","region":"Moravskoslezsky kraj","city":"Vitkov","latitude":49.77445,"longitude":17.74941}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682071"]={"code":"682071","region":"Khabarovskiy kray","city":"Novyy Urgal","latitude":51.07361,"longitude":132.56417}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95300"]={"code":"95300","region":"Ile-de-France","city":"Pontoise","latitude":49.05,"longitude":2.1}}(window,'GeoPostal','FR');

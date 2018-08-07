@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37085"]={"code":"37085","region":"TN","city":"Lascassas","latitude":35.9495,"longitude":-86.3112}}(window,'GeoPostal','US');

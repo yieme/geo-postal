@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65022"]={"code":"65022","region":"Abruzzo","city":"Bussi sul Tirino","latitude":42.21304,"longitude":13.8262}}(window,'GeoPostal','IT');

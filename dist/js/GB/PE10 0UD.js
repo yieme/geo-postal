@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE10 0UD"]={"code":"PE10 0UD","region":"England","city":"Dunsby","latitude":52.82782,"longitude":-0.36006}}(window,'GeoPostal','GB');

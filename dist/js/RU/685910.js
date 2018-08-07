@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["685910"]={"code":"685910","region":"Magadanskaya oblast'","city":"Ola","latitude":59.58333,"longitude":151.28333}}(window,'GeoPostal','RU');

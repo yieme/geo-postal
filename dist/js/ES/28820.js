@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28820"]={"code":"28820","region":"Madrid, Comunidad de","city":"Coslada","latitude":40.42378,"longitude":-3.56129}}(window,'GeoPostal','ES');

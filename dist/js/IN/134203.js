@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134203"]={"code":"134203","region":"Haryana","city":"Narayangarh","latitude":30.48333,"longitude":77.13333}}(window,'GeoPostal','IN');

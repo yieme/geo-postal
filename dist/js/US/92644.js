@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92644"]={"code":"92644","region":"California","city":"Garden Grove","latitude":33.7652,"longitude":-117.9695}}(window,'GeoPostal','US');

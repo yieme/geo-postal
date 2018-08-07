@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["849-1321"]={"code":"849-1321","region":"Saga","city":"Kashima","latitude":33.10361,"longitude":130.09889}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70755"]={"code":"70755","region":"LA","city":"Livonia","latitude":30.5524,"longitude":-91.5332}}(window,'GeoPostal','US');

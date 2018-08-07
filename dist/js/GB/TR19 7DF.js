@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR19 7DF"]={"code":"TR19 7DF","region":"England","city":"Sennen","latitude":50.07777,"longitude":-5.70117}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3620"]={"code":"3620","region":"Victoria","city":"Deakin","latitude":-36.3,"longitude":144.96667}}(window,'GeoPostal','AU');

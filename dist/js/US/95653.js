@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95653"]={"code":"95653","region":"CA","city":"Madison","latitude":38.6802,"longitude":-121.9721}}(window,'GeoPostal','US');

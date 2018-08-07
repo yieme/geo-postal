@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35673"]={"code":"35673","region":"AL","city":"Trinity","latitude":34.5918,"longitude":-87.0913}}(window,'GeoPostal','US');

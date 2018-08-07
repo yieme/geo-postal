@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96470-000"]={"code":"96470-000","region":"Rio Grande do Sul","city":"Pinheiro Machado","latitude":-31.57833,"longitude":-53.38111}}(window,'GeoPostal','BR');

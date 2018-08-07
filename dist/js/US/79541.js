@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79541"]={"code":"79541","region":"TX","city":"Ovalo","latitude":32.1553,"longitude":-99.8229}}(window,'GeoPostal','US');

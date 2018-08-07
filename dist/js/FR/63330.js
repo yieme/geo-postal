@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63330"]={"code":"63330","region":"Auvergne-Rhone-Alpes","city":"Pionsat","latitude":46.10949,"longitude":2.69362}}(window,'GeoPostal','FR');

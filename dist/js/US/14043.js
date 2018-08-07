@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14043"]={"code":"14043","region":"New York","city":"Depew","latitude":42.90162,"longitude":-78.70794}}(window,'GeoPostal','US');

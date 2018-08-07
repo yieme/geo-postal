@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB6 3FL"]={"code":"CB6 3FL","region":"England","city":"Wilburton","latitude":52.35191,"longitude":0.17673}}(window,'GeoPostal','GB');

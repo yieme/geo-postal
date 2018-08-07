@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59226"]={"code":"59226","region":"MT","city":"Froid","latitude":48.3345,"longitude":-104.4961}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456840"]={"code":"456840","region":"Chelyabinskaya oblast'","city":"Tyubuk","latitude":56.05521,"longitude":60.9405}}(window,'GeoPostal','RU');

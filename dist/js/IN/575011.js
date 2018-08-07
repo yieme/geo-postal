@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["575011"]={"code":"575011","region":"Karnataka","city":"Arsikere","latitude":13.31389,"longitude":76.25611}}(window,'GeoPostal','IN');

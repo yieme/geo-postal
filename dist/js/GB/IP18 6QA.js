@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP18 6QA"]={"code":"IP18 6QA","region":"England","city":"Reydon","latitude":52.33901,"longitude":1.6658}}(window,'GeoPostal','GB');

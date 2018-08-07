@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1226"]={"code":"1226","region":"National Capital Region","city":"Makati","latitude":14.55027,"longitude":121.03269}}(window,'GeoPostal','PH');

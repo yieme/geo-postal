@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17264"]={"code":"17264","region":"Pennsylvania","city":"Three Springs","latitude":40.17438,"longitude":-77.98818}}(window,'GeoPostal','US');

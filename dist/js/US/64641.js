@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64641"]={"code":"64641","region":"Missouri","city":"Galt","latitude":40.159102,"longitude":-93.40918}}(window,'GeoPostal','US');

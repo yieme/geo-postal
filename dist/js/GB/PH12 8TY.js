@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH12 8TY"]={"code":"PH12 8TY","region":"Scotland","city":"Newtyle","latitude":56.55874,"longitude":-3.14583}}(window,'GeoPostal','GB');

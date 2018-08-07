@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["342600"]={"code":"342600","region":"Jiangxi","city":"Wenwuba","latitude":25.60317,"longitude":115.79629}}(window,'GeoPostal','CN');

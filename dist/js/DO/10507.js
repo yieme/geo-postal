@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10507"]={"code":"10507","region":"Monte Plata","city":"Esperalvillo","latitude":18.81509,"longitude":-70.03557}}(window,'GeoPostal','DO');

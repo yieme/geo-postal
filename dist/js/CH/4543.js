@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4543"]={"code":"4543","region":"Solothurn","city":"Deitingen","latitude":47.21579,"longitude":7.61988}}(window,'GeoPostal','CH');

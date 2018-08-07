@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8544"]={"code":"8544","region":"Midtjylland","city":"Hornslet","latitude":56.3155,"longitude":10.32041}}(window,'GeoPostal','DK');

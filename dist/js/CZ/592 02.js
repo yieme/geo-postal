@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["592 02"]={"code":"592 02","region":"Kraj Vysocina","city":"Svratka","latitude":49.71066,"longitude":16.03214}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77489"]={"code":"77489","region":"Ile-de-France","city":"Provins","latitude":48.55,"longitude":3.3}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92086"]={"code":"92086","region":"CA","city":"Warner Springs","latitude":33.3096,"longitude":-116.6527}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["167904"]={"code":"167904","region":"Komi, Respublika","city":"Verkhnyaya Maksakovka","latitude":61.63504,"longitude":50.9674}}(window,'GeoPostal','RU');

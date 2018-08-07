@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4390"]={"code":"4390","region":"Sjelland","city":"Vipperod","latitude":55.66768,"longitude":11.73967}}(window,'GeoPostal','DK');

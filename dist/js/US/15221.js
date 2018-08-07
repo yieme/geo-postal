@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15221"]={"code":"15221","region":"Pennsylvania","city":"Wilkinsburg","latitude":40.44174,"longitude":-79.88199}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-073"]={"code":"46-073","region":"Opolskie","city":"Wawelno","latitude":50.656667,"longitude":17.761667}}(window,'GeoPostal','PL');

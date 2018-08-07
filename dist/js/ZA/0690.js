@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0690"]={"code":"0690","region":"Limpopo","city":"Mokopane","latitude":-24.19436,"longitude":29.00974}}(window,'GeoPostal','ZA');

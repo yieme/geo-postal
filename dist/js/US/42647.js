@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42647"]={"code":"42647","region":"KY","city":"Stearns","latitude":36.7082,"longitude":-84.5165}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31400"]={"code":"31400","region":"Navarra, Comunidad Foral de","city":"Sanguesa","latitude":42.57483,"longitude":-1.28283}}(window,'GeoPostal','ES');

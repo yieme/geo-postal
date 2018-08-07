@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70500"]={"code":"70500","region":"Diyarbakir","city":"Ambar","latitude":37.85316,"longitude":40.52776}}(window,'GeoPostal','TR');

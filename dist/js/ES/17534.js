@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17534"]={"code":"17534","region":"Catalunya","city":"Ribes de Freser","latitude":42.30417,"longitude":2.16757}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69221"]={"code":"69221","region":"Sindh","city":"Naukot","latitude":24.85869,"longitude":69.40238}}(window,'GeoPostal','PK');

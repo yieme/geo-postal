@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02872"]={"code":"02872","region":"RI","city":"Prudence Island","latitude":41.7071,"longitude":-71.2868}}(window,'GeoPostal','US');

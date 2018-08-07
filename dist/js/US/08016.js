@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08016"]={"code":"08016","region":"New Jersey","city":"Burlington","latitude":40.07122,"longitude":-74.86489}}(window,'GeoPostal','US');

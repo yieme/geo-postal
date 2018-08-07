@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69390"]={"code":"69390","region":"Auvergne-Rhone-Alpes","city":"Vernaison","latitude":45.64693,"longitude":4.81249}}(window,'GeoPostal','FR');

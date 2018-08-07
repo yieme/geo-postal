@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["525103"]={"code":"525103","region":"Brasov","city":"Ormenis","latitude":46.01667,"longitude":25.55}}(window,'GeoPostal','RO');

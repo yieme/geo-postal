@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J1X 4B2"]={"code":"J1X 4B2","region":"Quebec","city":"Omerville","latitude":45.29453,"longitude":-72.1102}}(window,'GeoPostal','CA');

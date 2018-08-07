@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4690"]={"code":"4690","region":"Oberosterreich","city":"Oberndorf bei Schwanenstadt","latitude":48.05559,"longitude":13.75677}}(window,'GeoPostal','AT');

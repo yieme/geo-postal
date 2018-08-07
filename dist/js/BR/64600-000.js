@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64600-000"]={"code":"64600-000","region":"Piaui","city":"Picos","latitude":-7.07694,"longitude":-41.46694}}(window,'GeoPostal','BR');

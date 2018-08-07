@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 2R0"]={"code":"T0A 2R0","region":"Alberta","city":"Opal","latitude":53.98345,"longitude":-113.2187}}(window,'GeoPostal','CA');

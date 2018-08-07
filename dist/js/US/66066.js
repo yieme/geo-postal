@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66066"]={"code":"66066","region":"KS","city":"Oskaloosa","latitude":39.2152,"longitude":-95.3135}}(window,'GeoPostal','US');

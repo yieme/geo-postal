@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92117"]={"code":"92117","region":"California","city":"Goleta","latitude":32.823811,"longitude":-117.197109}}(window,'GeoPostal','US');

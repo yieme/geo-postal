@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB5 0DU"]={"code":"BB5 0DU","region":"England","city":"Church","latitude":53.75177,"longitude":-2.39121}}(window,'GeoPostal','GB');

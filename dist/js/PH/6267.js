@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6267"]={"code":"6267","region":"Negros Oriental","city":"Dumaguete","latitude":9.31028,"longitude":123.30806}}(window,'GeoPostal','PH');

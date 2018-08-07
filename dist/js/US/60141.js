@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60141"]={"code":"60141","region":"IL","city":"Hines","latitude":41.8623,"longitude":-87.8355}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26560"]={"code":"26560","region":"La Rioja","city":"Autol","latitude":42.21661,"longitude":-2.00525}}(window,'GeoPostal','ES');

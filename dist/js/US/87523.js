@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87523"]={"code":"87523","region":"NM","city":"Cordova","latitude":36.0072,"longitude":-105.8606}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78520"]={"code":"78520","region":"Ile-de-France","city":"Limay","latitude":48.99553,"longitude":1.74081}}(window,'GeoPostal','FR');

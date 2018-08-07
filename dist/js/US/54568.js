@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54568"]={"code":"54568","region":"Wisconsin","city":"Woodruff","latitude":45.86889,"longitude":-89.64667}}(window,'GeoPostal','US');

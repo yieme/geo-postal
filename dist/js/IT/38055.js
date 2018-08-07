@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38055"]={"code":"38055","region":"Trentino-Alto Adige","city":"Grigno","latitude":46.01601,"longitude":11.63689}}(window,'GeoPostal','IT');

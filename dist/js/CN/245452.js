@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245452"]={"code":"245452","region":"Anhui","city":"Lantian","latitude":29.90678,"longitude":118.08714}}(window,'GeoPostal','CN');

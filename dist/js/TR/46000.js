@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46000"]={"code":"46000","region":"Kahramanmaras","city":"Kahramanmaras","latitude":37.5847,"longitude":36.9264}}(window,'GeoPostal','TR');

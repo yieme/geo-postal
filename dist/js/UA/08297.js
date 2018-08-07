@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08297"]={"code":"08297","region":"Kyivska oblast","city":"Vorzel'","latitude":50.5444,"longitude":30.15305}}(window,'GeoPostal','UA');

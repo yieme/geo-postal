@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3048"]={"code":"3048","region":"Victoria","city":"Coolaroo","latitude":-37.65675,"longitude":144.9346}}(window,'GeoPostal','AU');

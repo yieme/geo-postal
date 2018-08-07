@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3175"]={"code":"3175","region":"Fribourg","city":"Flamatt","latitude":46.88994,"longitude":7.32204}}(window,'GeoPostal','CH');

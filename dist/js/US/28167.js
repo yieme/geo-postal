@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28167"]={"code":"28167","region":"NC","city":"Union Mills","latitude":35.4732,"longitude":-81.9685}}(window,'GeoPostal','US');

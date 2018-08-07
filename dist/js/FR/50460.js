@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50460"]={"code":"50460","region":"Normandie","city":"Querqueville","latitude":49.66251,"longitude":-1.69119}}(window,'GeoPostal','FR');

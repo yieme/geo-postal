@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-230"]={"code":"59-230","region":"Dolnoslaskie","city":"Prochowice","latitude":51.27307,"longitude":16.36532}}(window,'GeoPostal','PL');

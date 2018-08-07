@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["520-0003"]={"code":"520-0003","region":"Shiga","city":"Otsu","latitude":35.017,"longitude":135.85}}(window,'GeoPostal','JP');

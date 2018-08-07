@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05495"]={"code":"05495","region":"Vermont","city":"Williston","latitude":44.42766,"longitude":-73.08798}}(window,'GeoPostal','US');

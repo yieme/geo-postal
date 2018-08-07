@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30009"]={"code":"30009","region":"Georgia","city":"Alpharetta","latitude":34.09945,"longitude":-84.2584}}(window,'GeoPostal','US');

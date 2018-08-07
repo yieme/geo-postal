@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44829"]={"code":"44829","region":"Pays-de-la-Loire","city":"Saint-Herblain","latitude":47.21765,"longitude":-1.64841}}(window,'GeoPostal','FR');

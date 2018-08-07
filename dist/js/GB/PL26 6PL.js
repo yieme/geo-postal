@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL26 6PL"]={"code":"PL26 6PL","region":"England","city":"Portmellon","latitude":50.2624,"longitude":-4.78597}}(window,'GeoPostal','GB');

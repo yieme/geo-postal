@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["585103"]={"code":"585103","region":"Karnataka","city":"Basavakalyan","latitude":17.86667,"longitude":76.95}}(window,'GeoPostal','IN');

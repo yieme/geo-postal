@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08242"]={"code":"08242","region":"Cusco","city":"Lima Pampa","latitude":-14.08861,"longitude":-71.33722}}(window,'GeoPostal','PE');

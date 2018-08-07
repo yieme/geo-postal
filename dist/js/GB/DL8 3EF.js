@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 3EF"]={"code":"DL8 3EF","region":"England","city":"Bainbridge","latitude":54.30727,"longitude":-2.10309}}(window,'GeoPostal','GB');

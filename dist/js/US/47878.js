@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47878"]={"code":"47878","region":"IN","city":"Seelyville","latitude":39.4928,"longitude":-87.2665}}(window,'GeoPostal','US');

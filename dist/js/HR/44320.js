@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44320"]={"code":"44320","region":"Sisacko-moslavacka zupanija","city":"Kutina","latitude":45.475,"longitude":16.78194}}(window,'GeoPostal','HR');

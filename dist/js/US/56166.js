@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56166"]={"code":"56166","region":"MN","city":"Revere","latitude":44.2391,"longitude":-95.3557}}(window,'GeoPostal','US');

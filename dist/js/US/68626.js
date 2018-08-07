@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68626"]={"code":"68626","region":"NE","city":"Brainard","latitude":41.1832,"longitude":-96.9882}}(window,'GeoPostal','US');

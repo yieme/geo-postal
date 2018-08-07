@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06456"]={"code":"06456","region":"Sachsen-Anhalt","city":"Sandersleben","latitude":51.67745,"longitude":11.56795}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31020"]={"code":"31020","region":"Veneto","city":"San Vendemiano","latitude":45.89389,"longitude":12.36556}}(window,'GeoPostal','IT');

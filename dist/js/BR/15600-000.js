@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15600-000"]={"code":"15600-000","region":"Sao Paulo","city":"Fernandopolis","latitude":-20.28389,"longitude":-50.24639}}(window,'GeoPostal','BR');

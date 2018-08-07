@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7815"]={"code":"7815","region":"Baranya","city":"Harkany","latitude":45.85002,"longitude":18.23668}}(window,'GeoPostal','HU');

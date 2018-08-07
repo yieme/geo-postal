@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14815"]={"code":"14815","region":"NY","city":"Bradford","latitude":42.3825,"longitude":-77.0913}}(window,'GeoPostal','US');

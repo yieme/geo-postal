@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12779"]={"code":"12779","region":"NY","city":"South Fallsburg","latitude":41.7042,"longitude":-74.6444}}(window,'GeoPostal','US');

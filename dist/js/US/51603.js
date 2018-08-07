@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51603"]={"code":"51603","region":"IA","city":"Shenandoah","latitude":40.7656,"longitude":-95.3722}}(window,'GeoPostal','US');

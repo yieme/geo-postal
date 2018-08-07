@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47015"]={"code":"47015","region":"Emilia-Romagna","city":"Modigliana","latitude":44.16116,"longitude":11.79353}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74339"]={"code":"74339","region":"Auvergne-Rhone-Alpes","city":"La Balme-de-Sillingy","latitude":45.9611,"longitude":6.04251}}(window,'GeoPostal','FR');

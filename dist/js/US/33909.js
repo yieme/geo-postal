@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33909"]={"code":"33909","region":"Florida","city":"Fort Myers","latitude":26.674753,"longitude":-81.974038}}(window,'GeoPostal','US');

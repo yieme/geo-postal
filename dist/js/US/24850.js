@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24850"]={"code":"24850","region":"West Virginia","city":"Jolo","latitude":37.331153,"longitude":-81.834466}}(window,'GeoPostal','US');

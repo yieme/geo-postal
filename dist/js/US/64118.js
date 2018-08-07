@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64118"]={"code":"64118","region":"Missouri","city":"Gladstone","latitude":39.2133,"longitude":-94.57476}}(window,'GeoPostal','US');

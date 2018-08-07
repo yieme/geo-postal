@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04287"]={"code":"04287","region":"ME","city":"Bowdoin","latitude":44.0575,"longitude":-69.9656}}(window,'GeoPostal','US');

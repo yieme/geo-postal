@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34668"]={"code":"34668","region":"Florida","city":"Port Richey","latitude":28.30635,"longitude":-82.70193}}(window,'GeoPostal','US');

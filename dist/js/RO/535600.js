@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["535600"]={"code":"535600","region":"Harghita","city":"Odorheiu Secuiesc","latitude":46.3,"longitude":25.3}}(window,'GeoPostal','RO');

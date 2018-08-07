@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 2C0"]={"code":"S0L 2C0","region":"Saskatchewan","city":"Macklin","latitude":52.33344,"longitude":-109.93484}}(window,'GeoPostal','CA');

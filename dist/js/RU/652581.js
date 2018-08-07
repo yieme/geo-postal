@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652581"]={"code":"652581","region":"Kemerovskaya oblast'","city":"Nikitinskiy","latitude":54.5845,"longitude":86.0115}}(window,'GeoPostal','RU');

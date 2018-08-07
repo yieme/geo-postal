@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416203"]={"code":"416203","region":"Hunan","city":"Chatian","latitude":27.80222,"longitude":109.37361}}(window,'GeoPostal','CN');

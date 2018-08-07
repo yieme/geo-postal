@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33345"]={"code":"33345","region":"Afyonkarahisar","city":"Sultandagi","latitude":38.53111,"longitude":31.22806}}(window,'GeoPostal','TR');

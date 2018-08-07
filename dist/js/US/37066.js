@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37066"]={"code":"37066","region":"Tennessee","city":"Gallatin","latitude":36.389421,"longitude":-86.455213}}(window,'GeoPostal','US');

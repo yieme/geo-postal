@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5H 0A5"]={"code":"E5H 0A5","region":"New Brunswick","city":"Pennfield","latitude":45.11683,"longitude":-66.68218}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04007"]={"code":"04007","region":"ME","city":"Biddeford","latitude":43.4581,"longitude":-70.5053}}(window,'GeoPostal','US');

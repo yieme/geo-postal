@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14530"]={"code":"14530","region":"Kanta-Hame","city":"Kalvola","latitude":61.10081,"longitude":24.12177}}(window,'GeoPostal','FI');

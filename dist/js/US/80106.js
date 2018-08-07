@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80106"]={"code":"80106","region":"Colorado","city":"Elbert","latitude":39.058549,"longitude":-104.593857}}(window,'GeoPostal','US');

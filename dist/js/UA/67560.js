@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67560"]={"code":"67560","region":"Odeska oblast","city":"Krasnosilka","latitude":46.62258,"longitude":30.77421}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70753"]={"code":"70753","region":"Louisiana","city":"Lettsworth","latitude":30.938531,"longitude":-91.731207}}(window,'GeoPostal','US');

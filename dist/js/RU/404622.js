@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404622"]={"code":"404622","region":"Volgogradskaya oblast'","city":"Leninsk","latitude":48.70233,"longitude":45.19798}}(window,'GeoPostal','RU');

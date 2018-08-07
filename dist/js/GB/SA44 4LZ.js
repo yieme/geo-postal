@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 4LZ"]={"code":"SA44 4LZ","region":"Wales","city":"Tre-groes","latitude":52.06667,"longitude":-4.31667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98374"]={"code":"98374","region":"Washington","city":"Puyallup","latitude":47.142236,"longitude":-122.26995}}(window,'GeoPostal','US');

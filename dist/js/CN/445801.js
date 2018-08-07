@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445801"]={"code":"445801","region":"Hubei","city":"Zouma","latitude":29.82993,"longitude":110.42836}}(window,'GeoPostal','CN');

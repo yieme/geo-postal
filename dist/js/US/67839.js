@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67839"]={"code":"67839","region":"Kansas","city":"Dighton","latitude":38.48196,"longitude":-100.46708}}(window,'GeoPostal','US');

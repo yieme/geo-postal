@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87582"]={"code":"87582","region":"New Mexico","city":"Velarde","latitude":36.146111,"longitude":-106.005}}(window,'GeoPostal','US');

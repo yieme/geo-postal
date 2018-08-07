@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD11 5HD"]={"code":"DD11 5HD","region":"Scotland","city":"Saint Vigeans","latitude":56.56667,"longitude":-2.56667}}(window,'GeoPostal','GB');

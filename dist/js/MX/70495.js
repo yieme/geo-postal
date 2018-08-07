@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70495"]={"code":"70495","region":"Oaxaca","city":"San Dionisio Ocotepec","latitude":16.8,"longitude":-96.4}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97254"]={"code":"97254","region":"OR","city":"Gen Electric","latitude":45.5967,"longitude":-122.5942}}(window,'GeoPostal','US');

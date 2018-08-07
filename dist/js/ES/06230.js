@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06230"]={"code":"06230","region":"Extremadura","city":"Los Santos de Maimona","latitude":38.45,"longitude":-6.38333}}(window,'GeoPostal','ES');

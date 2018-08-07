@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL8 5RY"]={"code":"SL8 5RY","region":"England","city":"Bourne End","latitude":51.57622,"longitude":-0.71291}}(window,'GeoPostal','GB');

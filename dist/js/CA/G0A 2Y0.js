@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0A 2Y0"]={"code":"G0A 2Y0","region":"Quebec","city":"Portneuf","latitude":46.69058,"longitude":-71.89011}}(window,'GeoPostal','CA');

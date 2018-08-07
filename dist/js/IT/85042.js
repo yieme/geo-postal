@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85042"]={"code":"85042","region":"Basilicata","city":"Lagonegro","latitude":40.12831,"longitude":15.76147}}(window,'GeoPostal','IT');

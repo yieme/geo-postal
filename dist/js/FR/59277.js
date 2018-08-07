@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59277"]={"code":"59277","region":"Hauts-de-France","city":"Rieux-en-Cambresis","latitude":50.20069,"longitude":3.35232}}(window,'GeoPostal','FR');

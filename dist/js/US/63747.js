@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63747"]={"code":"63747","region":"Missouri","city":"Perryville","latitude":37.72422,"longitude":-89.86122}}(window,'GeoPostal','US');

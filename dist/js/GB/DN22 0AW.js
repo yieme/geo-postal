@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 0AW"]={"code":"DN22 0AW","region":"England","city":"North Leverton","latitude":53.33053,"longitude":-0.82257}}(window,'GeoPostal','GB');

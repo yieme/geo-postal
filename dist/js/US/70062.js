@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70062"]={"code":"70062","region":"Louisiana","city":"Kenner","latitude":29.988783,"longitude":-90.251229}}(window,'GeoPostal','US');

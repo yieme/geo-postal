@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81633"]={"code":"81633","region":"CO","city":"Dinosaur","latitude":40.377,"longitude":-108.399}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20678"]={"code":"20678","region":"Maryland","city":"Prince Frederick","latitude":38.5404,"longitude":-76.5844}}(window,'GeoPostal','US');

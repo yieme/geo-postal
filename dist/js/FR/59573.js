@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59573"]={"code":"59573","region":"Hauts-de-France","city":"Jeumont","latitude":50.29658,"longitude":4.10108}}(window,'GeoPostal','FR');

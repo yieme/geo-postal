@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47020"]={"code":"47020","region":"Emilia-Romagna","city":"Cesena","latitude":44.1391,"longitude":12.24315}}(window,'GeoPostal','IT');

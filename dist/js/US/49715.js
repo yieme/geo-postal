@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49715"]={"code":"49715","region":"Michigan","city":"Brimley","latitude":46.37778,"longitude":-84.65778}}(window,'GeoPostal','US');

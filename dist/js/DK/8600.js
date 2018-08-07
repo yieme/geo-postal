@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8600"]={"code":"8600","region":"Midtjylland","city":"Silkeborg","latitude":56.1697,"longitude":9.54508}}(window,'GeoPostal','DK');

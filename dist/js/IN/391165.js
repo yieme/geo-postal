@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391165"]={"code":"391165","region":"Gujarat","city":"Chhota Udepur","latitude":22.31667,"longitude":74.01667}}(window,'GeoPostal','IN');

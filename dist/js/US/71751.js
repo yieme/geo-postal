@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71751"]={"code":"71751","region":"AR","city":"Louann","latitude":33.4169,"longitude":-92.777}}(window,'GeoPostal','US');

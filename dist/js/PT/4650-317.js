@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4650-317"]={"code":"4650-317","region":"Porto","city":"Gulpilhares","latitude":41.08292,"longitude":-8.62679}}(window,'GeoPostal','PT');

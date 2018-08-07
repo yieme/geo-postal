@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127463"]={"code":"127463","region":"Buzau","city":"Pirscov","latitude":45.28333,"longitude":26.55}}(window,'GeoPostal','RO');

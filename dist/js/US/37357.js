@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37357"]={"code":"37357","region":"TN","city":"Morrison","latitude":35.6029,"longitude":-85.9197}}(window,'GeoPostal','US');

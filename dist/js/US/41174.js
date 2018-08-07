@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41174"]={"code":"41174","region":"KY","city":"South Portsmouth","latitude":38.7087,"longitude":-83.0162}}(window,'GeoPostal','US');

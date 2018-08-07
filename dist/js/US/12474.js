@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12474"]={"code":"12474","region":"New York","city":"Roxbury","latitude":42.30056,"longitude":-74.55306}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14200"]={"code":"14200","region":"Andalucia","city":"Penarroya-Pueblonuevo","latitude":38.3,"longitude":-5.26667}}(window,'GeoPostal','ES');

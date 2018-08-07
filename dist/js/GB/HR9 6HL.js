@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR9 6HL"]={"code":"HR9 6HL","region":"England","city":"Goodrich","latitude":51.87096,"longitude":-2.61898}}(window,'GeoPostal','GB');

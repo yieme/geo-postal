@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83252"]={"code":"83252","region":"Idaho","city":"Malad City","latitude":42.19159,"longitude":-112.2508}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8353"]={"code":"8353","region":"Neuquen","city":"Andacollo","latitude":-37.17945,"longitude":-70.66912}}(window,'GeoPostal','AR');

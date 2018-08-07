@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V8G 0A1"]={"code":"V8G 0A1","region":"British Columbia","city":"Terrace","latitude":54.51634,"longitude":-128.60345}}(window,'GeoPostal','CA');

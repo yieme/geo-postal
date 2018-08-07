@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82938"]={"code":"82938","region":"WY","city":"Mc Kinnon","latitude":41.0409,"longitude":-109.8745}}(window,'GeoPostal','US');

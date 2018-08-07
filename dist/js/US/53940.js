@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53940"]={"code":"53940","region":"Wisconsin","city":"Lake Delton","latitude":43.60109,"longitude":-89.79374}}(window,'GeoPostal','US');

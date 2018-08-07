@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14042"]={"code":"14042","region":"New York","city":"Delevan","latitude":42.48923,"longitude":-78.48085}}(window,'GeoPostal','US');

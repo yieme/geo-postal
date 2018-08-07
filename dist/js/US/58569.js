@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58569"]={"code":"58569","region":"ND","city":"Shields","latitude":46.1838,"longitude":-101.2589}}(window,'GeoPostal','US');

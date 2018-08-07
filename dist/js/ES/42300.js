@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42300"]={"code":"42300","region":"Castilla y Leon","city":"El Burgo de Osma","latitude":41.58619,"longitude":-3.06522}}(window,'GeoPostal','ES');

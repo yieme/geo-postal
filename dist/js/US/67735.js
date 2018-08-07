@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67735"]={"code":"67735","region":"Kansas","city":"Goodland","latitude":39.35083,"longitude":-101.71017}}(window,'GeoPostal','US');

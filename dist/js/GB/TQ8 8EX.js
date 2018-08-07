@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TQ8 8EX"]={"code":"TQ8 8EX","region":"England","city":"Salcombe","latitude":50.23743,"longitude":-3.76874}}(window,'GeoPostal','GB');

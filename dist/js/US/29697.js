@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29697"]={"code":"29697","region":"SC","city":"Williamston","latitude":34.6206,"longitude":-82.511}}(window,'GeoPostal','US');

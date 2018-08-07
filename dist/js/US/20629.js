@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20629"]={"code":"20629","region":"Maryland","city":"Dowell","latitude":38.338509,"longitude":-76.452598}}(window,'GeoPostal','US');

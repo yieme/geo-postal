@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29349"]={"code":"29349","region":"SC","city":"Inman","latitude":35.0528,"longitude":-82.054}}(window,'GeoPostal','US');

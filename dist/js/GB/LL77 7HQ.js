@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL77 7HQ"]={"code":"LL77 7HQ","region":"Wales","city":"Llangwyllog","latitude":53.28444,"longitude":-4.34451}}(window,'GeoPostal','GB');

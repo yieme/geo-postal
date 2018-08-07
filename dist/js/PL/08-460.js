@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-460"]={"code":"08-460","region":"Mazowieckie","city":"Sobolew","latitude":51.7366,"longitude":21.66349}}(window,'GeoPostal','PL');

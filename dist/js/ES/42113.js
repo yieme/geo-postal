@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42113"]={"code":"42113","region":"Castilla y Leon","city":"Cigudosa","latitude":41.93333,"longitude":-2.05}}(window,'GeoPostal','ES');

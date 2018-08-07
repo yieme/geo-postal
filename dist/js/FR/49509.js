@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49509"]={"code":"49509","region":"Pays-de-la-Loire","city":"Segre","latitude":47.68333,"longitude":-0.86667}}(window,'GeoPostal','FR');

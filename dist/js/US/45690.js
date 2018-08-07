@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45690"]={"code":"45690","region":"Ohio","city":"Waverly","latitude":39.12674,"longitude":-82.98546}}(window,'GeoPostal','US');

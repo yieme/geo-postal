@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["000000"]={"code":"000000","region":"Ha Noi","city":"Ha Dong","latitude":20.9725,"longitude":105.77722}}(window,'GeoPostal','VN');

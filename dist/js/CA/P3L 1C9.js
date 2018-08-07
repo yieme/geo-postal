@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P3L 1C9"]={"code":"P3L 1C9","region":"Ontario","city":"Garson","latitude":46.553571,"longitude":-80.86651}}(window,'GeoPostal','CA');

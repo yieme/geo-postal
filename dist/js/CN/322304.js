@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["322304"]={"code":"322304","region":"Zhejiang","city":"Pan'an","latitude":29.05368,"longitude":120.43758}}(window,'GeoPostal','CN');

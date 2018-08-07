@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368060"]={"code":"368060","region":"Dagestan, Respublika","city":"Babayurt","latitude":43.6002,"longitude":46.77888}}(window,'GeoPostal','RU');

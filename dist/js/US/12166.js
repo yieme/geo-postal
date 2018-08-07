@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12166"]={"code":"12166","region":"NY","city":"Sprakers","latitude":42.8484,"longitude":-74.4536}}(window,'GeoPostal','US');

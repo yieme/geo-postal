@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45365-000"]={"code":"45365-000","region":"Bahia","city":"Maracas","latitude":-13.44111,"longitude":-40.43083}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85591"]={"code":"85591","region":"Bayern","city":"Vaterstetten","latitude":48.10537,"longitude":11.76825}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["800004"]={"code":"800004","region":"Bihar","city":"Patna","latitude":25.6,"longitude":85.11667}}(window,'GeoPostal','IN');

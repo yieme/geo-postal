@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE10 0RZ"]={"code":"PE10 0RZ","region":"England","city":"Keisby","latitude":52.84463,"longitude":-0.45922}}(window,'GeoPostal','GB');

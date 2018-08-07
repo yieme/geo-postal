@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["840 01"]={"code":"840 01","region":"Notio Aigaio","city":"Ios","latitude":36.73333,"longitude":25.28333}}(window,'GeoPostal','GR');

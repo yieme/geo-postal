@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27212"]={"code":"27212","region":"North Carolina","city":"Blanch","latitude":36.5364,"longitude":-79.3026}}(window,'GeoPostal','US');

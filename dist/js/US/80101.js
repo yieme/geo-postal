@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80101"]={"code":"80101","region":"Colorado","city":"Agate","latitude":39.46194,"longitude":-103.94194}}(window,'GeoPostal','US');

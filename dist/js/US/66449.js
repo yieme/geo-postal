@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66449"]={"code":"66449","region":"KS","city":"Leonardville","latitude":39.3644,"longitude":-96.8589}}(window,'GeoPostal','US');

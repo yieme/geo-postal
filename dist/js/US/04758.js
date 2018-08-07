@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04758"]={"code":"04758","region":"Maine","city":"Mars Hill","latitude":46.516352,"longitude":-67.866313}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99625"]={"code":"99625","region":"AK","city":"Levelock","latitude":59.2905,"longitude":-156.6503}}(window,'GeoPostal','US');

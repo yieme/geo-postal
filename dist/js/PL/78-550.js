@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-550"]={"code":"78-550","region":"Zachodniopomorskie","city":"Czaplinek","latitude":53.55775,"longitude":16.23333}}(window,'GeoPostal','PL');

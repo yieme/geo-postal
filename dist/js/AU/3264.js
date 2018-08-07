@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3264"]={"code":"3264","region":"Victoria","city":"Terang","latitude":-38.24084,"longitude":142.92123}}(window,'GeoPostal','AU');

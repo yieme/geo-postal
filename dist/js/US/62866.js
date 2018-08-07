@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62866"]={"code":"62866","region":"IL","city":"Nason","latitude":38.1654,"longitude":-88.9676}}(window,'GeoPostal','US');

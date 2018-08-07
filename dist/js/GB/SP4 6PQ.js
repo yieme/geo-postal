@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP4 6PQ"]={"code":"SP4 6PQ","region":"England","city":"Salisbury","latitude":51.06931,"longitude":-1.79569}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147155"]={"code":"147155","region":"Teleorman","city":"Gratia","latitude":44.43333,"longitude":25.45}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29469"]={"code":"29469","region":"SC","city":"Pinopolis","latitude":33.2241,"longitude":-80.0398}}(window,'GeoPostal','US');

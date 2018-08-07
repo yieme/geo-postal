@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26188"]={"code":"26188","region":"Niedersachsen","city":"Russeldorf","latitude":53.10765,"longitude":8.04866}}(window,'GeoPostal','DE');

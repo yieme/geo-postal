@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0A 0J0"]={"code":"X0A 0J0","region":"Nunavut","city":"Hazen Camp","latitude":81.81882,"longitude":-71.32792}}(window,'GeoPostal','CA');

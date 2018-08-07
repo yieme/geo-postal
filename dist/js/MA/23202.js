@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23202"]={"code":"23202","region":"Tadla-Azilal","city":"Fkih Ben Salah","latitude":32.50093,"longitude":-6.69062}}(window,'GeoPostal','MA');

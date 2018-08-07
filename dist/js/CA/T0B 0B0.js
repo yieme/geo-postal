@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 0B0"]={"code":"T0B 0B0","region":"Alberta","city":"Amisk","latitude":52.55013,"longitude":-111.06836}}(window,'GeoPostal','CA');

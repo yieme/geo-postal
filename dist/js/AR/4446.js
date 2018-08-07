@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4446"]={"code":"4446","region":"Salta","city":"El Galpon","latitude":-25.38069,"longitude":-64.65259}}(window,'GeoPostal','AR');

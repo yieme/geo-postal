@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0T 1G0"]={"code":"G0T 1G0","region":"Quebec","city":"Bergeronnes","latitude":48.24571,"longitude":-69.54603}}(window,'GeoPostal','CA');

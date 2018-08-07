@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["798 21"]={"code":"798 21","region":"Olomoucky kraj","city":"Bedihost'","latitude":49.44826,"longitude":17.16643}}(window,'GeoPostal','CZ');

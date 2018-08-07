@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58490"]={"code":"58490","region":"North Dakota","city":"Verona","latitude":46.36528,"longitude":-98.07139}}(window,'GeoPostal','US');

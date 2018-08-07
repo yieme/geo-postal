@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61777"]={"code":"61777","region":"IL","city":"Wapella","latitude":40.2323,"longitude":-88.9673}}(window,'GeoPostal','US');

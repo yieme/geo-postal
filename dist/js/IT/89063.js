@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89063"]={"code":"89063","region":"Calabria","city":"Melito di Porto Salvo","latitude":37.92216,"longitude":15.7714}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3888"]={"code":"3888","region":"Aust-Agder","city":"Hovden","latitude":59.56027,"longitude":7.35676}}(window,'GeoPostal','NO');

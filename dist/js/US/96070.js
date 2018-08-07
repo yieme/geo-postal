@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96070"]={"code":"96070","region":"CA","city":"Obrien","latitude":40.7352,"longitude":-122.1944}}(window,'GeoPostal','US');

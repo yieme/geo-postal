@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48974"]={"code":"48974","region":"Jalisco","city":"Casimiro Castillo","latitude":19.6,"longitude":-104.43333}}(window,'GeoPostal','MX');

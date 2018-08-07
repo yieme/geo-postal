@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV40 8JL"]={"code":"IV40 8JL","region":"Scotland","city":"Arnisdale","latitude":57.1347,"longitude":-5.5628}}(window,'GeoPostal','GB');

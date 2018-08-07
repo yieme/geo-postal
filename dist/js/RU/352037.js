@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352037"]={"code":"352037","region":"Krasnodarskiy kray","city":"Kushchevskaya","latitude":46.5599,"longitude":39.6321}}(window,'GeoPostal','RU');

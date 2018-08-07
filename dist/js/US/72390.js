@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72390"]={"code":"72390","region":"Arkansas","city":"West Helena","latitude":34.55066,"longitude":-90.64177}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH50 4SE"]={"code":"PH50 4SE","region":"Scotland","city":"Kinlochleven","latitude":56.71157,"longitude":-4.97355}}(window,'GeoPostal','GB');

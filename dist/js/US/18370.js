@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18370"]={"code":"18370","region":"Pennsylvania","city":"Swiftwater","latitude":41.08875,"longitude":-75.36303}}(window,'GeoPostal','US');

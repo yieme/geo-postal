@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6390"]={"code":"6390","region":"Western Australia","city":"Boddington","latitude":-32.80071,"longitude":116.47522}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76316"]={"code":"76316","region":"Republika Srpska","city":"Janja","latitude":44.66528,"longitude":19.24778}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55011"]={"code":"55011","region":"MN","city":"Cedar","latitude":45.3414,"longitude":-93.235}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03172"]={"code":"03172","region":"Brandenburg","city":"Klein Gastrose","latitude":51.89691,"longitude":14.67859}}(window,'GeoPostal','DE');

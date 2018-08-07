@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31810"]={"code":"31810","region":"Navarra, Comunidad Foral de","city":"Iturmendi","latitude":42.889915,"longitude":-2.118636}}(window,'GeoPostal','ES');

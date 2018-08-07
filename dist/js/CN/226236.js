@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226236"]={"code":"226236","region":"Jiangsu","city":"Jinhai","latitude":31.9175,"longitude":121.77885}}(window,'GeoPostal','CN');

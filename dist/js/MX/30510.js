@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30510"]={"code":"30510","region":"Coahuila de Zaragoza","city":"Nava","latitude":28.41667,"longitude":-100.76667}}(window,'GeoPostal','MX');

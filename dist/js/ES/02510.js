@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02510"]={"code":"02510","region":"Castilla-La Mancha","city":"Pozo-Canada","latitude":38.80333,"longitude":-1.73532}}(window,'GeoPostal','ES');

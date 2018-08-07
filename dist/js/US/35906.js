@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35906"]={"code":"35906","region":"AL","city":"Rainbow City","latitude":33.9318,"longitude":-86.0898}}(window,'GeoPostal','US');

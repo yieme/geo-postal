@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41201"]={"code":"41201","region":"Kentucky","city":"Adams","latitude":38.0007,"longitude":-82.7124}}(window,'GeoPostal','US');

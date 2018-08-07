@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66919"]={"code":"66919","region":"Rheinland-Pfalz","city":"Neumuhle","latitude":49.34442,"longitude":7.5704}}(window,'GeoPostal','DE');

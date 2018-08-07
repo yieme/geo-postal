@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17767"]={"code":"17767","region":"PA","city":"Salona","latitude":41.08,"longitude":-77.45}}(window,'GeoPostal','US');

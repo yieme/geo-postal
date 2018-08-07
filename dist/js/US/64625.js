@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64625"]={"code":"64625","region":"Missouri","city":"Breckenridge","latitude":39.742434,"longitude":-93.814567}}(window,'GeoPostal','US');

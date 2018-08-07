@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83825"]={"code":"83825","region":"Idaho","city":"Dover","latitude":48.253618,"longitude":-116.600323}}(window,'GeoPostal','US');

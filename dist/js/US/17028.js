@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17028"]={"code":"17028","region":"PA","city":"Grantville","latitude":40.3606,"longitude":-76.6713}}(window,'GeoPostal','US');

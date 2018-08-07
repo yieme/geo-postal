@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31350"]={"code":"31350","region":"Navarra, Comunidad Foral de","city":"Peralta","latitude":42.33834,"longitude":-1.80034}}(window,'GeoPostal','ES');

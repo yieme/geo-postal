@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51230"]={"code":"51230","region":"IA","city":"Alvord","latitude":43.3201,"longitude":-96.291}}(window,'GeoPostal','US');

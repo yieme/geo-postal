@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3072"]={"code":"3072","region":"Bern","city":"Bolligen","latitude":46.9751,"longitude":7.49697}}(window,'GeoPostal','CH');

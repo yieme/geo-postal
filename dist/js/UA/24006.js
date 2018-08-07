@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24006"]={"code":"24006","region":"Vinnytska oblast","city":"Mohyliv-Podil's'kyy","latitude":48.44598,"longitude":27.7982}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5602"]={"code":"5602","region":"Salzburg","city":"Sankt Johann im Pongau","latitude":47.35,"longitude":13.2}}(window,'GeoPostal','AT');

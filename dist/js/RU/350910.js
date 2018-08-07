@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["350910"]={"code":"350910","region":"Krasnodarskiy kray","city":"Pashkovskiy","latitude":45.0244,"longitude":39.10679}}(window,'GeoPostal','RU');

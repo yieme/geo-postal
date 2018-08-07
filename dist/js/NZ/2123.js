@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2123"]={"code":"2123","region":"Waikato","city":"Waiuku","latitude":-37.25,"longitude":174.75}}(window,'GeoPostal','NZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39400"]={"code":"39400","region":"Bourgogne-Franche-Comte","city":"Morbier","latitude":46.53693,"longitude":6.01532}}(window,'GeoPostal','FR');

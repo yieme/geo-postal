@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5570000"]={"code":"5570000","region":"Los Lagos","city":"Calbuco","latitude":-41.76801,"longitude":-73.1273}}(window,'GeoPostal','CL');

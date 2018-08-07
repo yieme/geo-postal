@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46112"]={"code":"46112","region":"Jawa Barat","city":"Tasikmalaya","latitude":-7.3274,"longitude":108.2207}}(window,'GeoPostal','ID');

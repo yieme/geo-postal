@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21472"]={"code":"21472","region":"Juznobacki okrug","city":"Kulpin","latitude":45.40083,"longitude":19.58694}}(window,'GeoPostal','RS');

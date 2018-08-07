@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461-0005"]={"code":"461-0005","region":"Aichi","city":"Nagoya","latitude":35.181456,"longitude":136.906386}}(window,'GeoPostal','JP');

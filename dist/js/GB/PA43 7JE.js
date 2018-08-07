@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA43 7JE"]={"code":"PA43 7JE","region":"Scotland","city":"Bowmore","latitude":55.75583,"longitude":-6.28426}}(window,'GeoPostal','GB');

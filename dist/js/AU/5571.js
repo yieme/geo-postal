@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5571"]={"code":"5571","region":"South Australia","city":"Ardrossan","latitude":-34.42217,"longitude":137.91907}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55016"]={"code":"55016","region":"Toscana","city":"Porcari","latitude":43.84414,"longitude":10.61641}}(window,'GeoPostal','IT');

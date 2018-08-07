@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8853"]={"code":"8853","region":"Steiermark","city":"Schoder","latitude":47.18333,"longitude":14.1}}(window,'GeoPostal','AT');

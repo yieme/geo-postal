@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01354"]={"code":"01354","region":"MA","city":"Gill","latitude":42.6404,"longitude":-72.4995}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["500101"]={"code":"500101","region":"Rivers","city":"Port Harcourt","latitude":4.77742,"longitude":7.0134}}(window,'GeoPostal','NG');

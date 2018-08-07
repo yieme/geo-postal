@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30558"]={"code":"30558","region":"GA","city":"Maysville","latitude":34.2529,"longitude":-83.5616}}(window,'GeoPostal','US');

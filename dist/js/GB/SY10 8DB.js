@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY10 8DB"]={"code":"SY10 8DB","region":"England","city":"Kinnerley","latitude":52.78202,"longitude":-2.98309}}(window,'GeoPostal','GB');

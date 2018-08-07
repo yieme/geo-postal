@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152101"]={"code":"152101","region":"Yaroslavskaya oblast'","city":"Semibratovo","latitude":57.30461,"longitude":39.53688}}(window,'GeoPostal','RU');

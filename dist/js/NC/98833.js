@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98833"]={"code":"98833","region":"Province Sud","city":"Vao","latitude":-22.66667,"longitude":167.48333}}(window,'GeoPostal','NC');

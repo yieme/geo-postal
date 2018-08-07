@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35481"]={"code":"35481","region":"Alabama","city":"Reform","latitude":33.37845,"longitude":-88.0153}}(window,'GeoPostal','US');

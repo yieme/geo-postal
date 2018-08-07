@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54965"]={"code":"54965","region":"Wisconsin","city":"Pine River","latitude":44.17506,"longitude":-89.082494}}(window,'GeoPostal','US');

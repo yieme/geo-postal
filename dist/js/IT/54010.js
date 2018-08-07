@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54010"]={"code":"54010","region":"Toscana","city":"Podenzana","latitude":44.20625,"longitude":9.94199}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97700-000"]={"code":"97700-000","region":"Rio Grande do Sul","city":"Santiago","latitude":-29.19167,"longitude":-54.86722}}(window,'GeoPostal','BR');

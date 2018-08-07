@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83469"]={"code":"83469","region":"ID","city":"Shoup","latitude":45.3769,"longitude":-114.277}}(window,'GeoPostal','US');

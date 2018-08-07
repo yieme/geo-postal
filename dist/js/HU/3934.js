@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3934"]={"code":"3934","region":"Borsod-Abauj-Zemplen","city":"Tolcsva","latitude":48.28333,"longitude":21.45}}(window,'GeoPostal','HU');

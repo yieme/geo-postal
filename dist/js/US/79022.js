@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79022"]={"code":"79022","region":"Texas","city":"Dalhart","latitude":36.05948,"longitude":-102.51325}}(window,'GeoPostal','US');

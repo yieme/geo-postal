@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 2K0"]={"code":"T0J 2K0","region":"Alberta","city":"Patricia","latitude":50.70012,"longitude":-111.66847}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61431"]={"code":"61431","region":"IL","city":"Ellisville","latitude":40.6047,"longitude":-90.2875}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65274"]={"code":"65274","region":"MO","city":"New Franklin","latitude":39.02,"longitude":-92.7386}}(window,'GeoPostal','US');

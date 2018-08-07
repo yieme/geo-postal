@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17306"]={"code":"17306","region":"PA","city":"Bendersville","latitude":39.9792,"longitude":-77.2496}}(window,'GeoPostal','US');

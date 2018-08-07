@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68399"]={"code":"68399","region":"Grand-Est","city":"Sausheim","latitude":47.78976,"longitude":7.37134}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22060"]={"code":"22060","region":"Lombardia","city":"Novedrate","latitude":45.69808,"longitude":9.12074}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28139"]={"code":"28139","region":"North Carolina","city":"Rutherfordton","latitude":35.37822,"longitude":-81.97788}}(window,'GeoPostal','US');

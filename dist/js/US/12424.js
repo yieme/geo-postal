@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12424"]={"code":"12424","region":"NY","city":"East Jewett","latitude":42.2469,"longitude":-74.1353}}(window,'GeoPostal','US');

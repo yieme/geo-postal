@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57780"]={"code":"57780","region":"South Dakota","city":"Scenic","latitude":43.793109,"longitude":-102.432984}}(window,'GeoPostal','US');

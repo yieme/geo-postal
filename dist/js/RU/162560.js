@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162560"]={"code":"162560","region":"Vologodskaya oblast'","city":"Sheksna","latitude":59.20998,"longitude":38.51066}}(window,'GeoPostal','RU');

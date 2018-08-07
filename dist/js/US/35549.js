@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35549"]={"code":"35549","region":"Alabama","city":"Carbon Hill","latitude":33.89177,"longitude":-87.52612}}(window,'GeoPostal','US');

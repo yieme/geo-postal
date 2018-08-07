@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66413"]={"code":"66413","region":"KS","city":"Burlingame","latitude":38.7634,"longitude":-95.84}}(window,'GeoPostal','US');

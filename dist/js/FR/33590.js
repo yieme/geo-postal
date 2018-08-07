@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33590"]={"code":"33590","region":"Nouvelle-Aquitaine","city":"Saint-Vivien-de-Medoc","latitude":45.4311,"longitude":-1.0344}}(window,'GeoPostal','FR');

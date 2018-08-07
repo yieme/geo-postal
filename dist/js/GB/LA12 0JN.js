@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 0JN"]={"code":"LA12 0JN","region":"England","city":"Pennington","latitude":54.18333,"longitude":-3.13333}}(window,'GeoPostal','GB');

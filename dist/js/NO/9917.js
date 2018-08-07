@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9917"]={"code":"9917","region":"Finnmark","city":"Kirkenes","latitude":69.72706,"longitude":30.04578}}(window,'GeoPostal','NO');

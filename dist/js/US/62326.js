@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62326"]={"code":"62326","region":"Illinois","city":"Colchester","latitude":40.426839,"longitude":-90.790723}}(window,'GeoPostal','US');

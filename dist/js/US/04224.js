@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04224"]={"code":"04224","region":"ME","city":"Dixfield","latitude":44.5548,"longitude":-70.4241}}(window,'GeoPostal','US');

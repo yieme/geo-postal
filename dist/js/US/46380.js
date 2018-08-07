@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46380"]={"code":"46380","region":"IN","city":"Tefft","latitude":41.1948,"longitude":-86.9686}}(window,'GeoPostal','US');

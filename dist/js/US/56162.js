@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56162"]={"code":"56162","region":"MN","city":"Ormsby","latitude":43.8616,"longitude":-94.6873}}(window,'GeoPostal','US');

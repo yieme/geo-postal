@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N4N 0A1"]={"code":"N4N 0A1","region":"Ontario","city":"Hanover","latitude":44.15009,"longitude":-81.03303}}(window,'GeoPostal','CA');

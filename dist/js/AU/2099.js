@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2099"]={"code":"2099","region":"New South Wales","city":"Dee Why","latitude":-33.75,"longitude":151.3}}(window,'GeoPostal','AU');

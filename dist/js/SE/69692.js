@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69692"]={"code":"69692","region":"Orebro lan","city":"Askersund","latitude":58.87988,"longitude":14.9023}}(window,'GeoPostal','SE');

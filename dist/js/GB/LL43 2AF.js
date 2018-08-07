@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL43 2AF"]={"code":"LL43 2AF","region":"Wales","city":"Llanddwywe","latitude":52.77992,"longitude":-4.09686}}(window,'GeoPostal','GB');

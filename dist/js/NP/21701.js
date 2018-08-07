@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21701"]={"code":"21701","region":"Bheri","city":"Birendranagar","latitude":28.60194,"longitude":81.63389}}(window,'GeoPostal','NP');

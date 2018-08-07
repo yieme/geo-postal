@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087150"]={"code":"087150","region":"Giurgiu","city":"Joita","latitude":44.49417,"longitude":25.85389}}(window,'GeoPostal','RO');

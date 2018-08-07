@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58849"]={"code":"58849","region":"Nordrhein-Westfalen","city":"Herscheid","latitude":51.12218,"longitude":7.09622}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53019"]={"code":"53019","region":"WI","city":"Eden","latitude":43.6959,"longitude":-88.3266}}(window,'GeoPostal','US');

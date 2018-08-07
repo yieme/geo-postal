@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DA17 5QS"]={"code":"DA17 5QS","region":"England","city":"Belvedere","latitude":51.49114,"longitude":0.15136}}(window,'GeoPostal','GB');

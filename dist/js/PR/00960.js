@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00960"]={"code":"00960","region":"Cidra","city":"Bayamon","latitude":18.17774,"longitude":-66.11322}}(window,'GeoPostal','PR');

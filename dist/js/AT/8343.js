@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8343"]={"code":"8343","region":"Steiermark","city":"Poppendorf","latitude":46.85611,"longitude":15.85639}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27340"]={"code":"27340","region":"NC","city":"Saxapahaw","latitude":35.9488,"longitude":-79.3297}}(window,'GeoPostal','US');

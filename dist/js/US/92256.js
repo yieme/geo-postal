@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92256"]={"code":"92256","region":"CA","city":"Morongo Valley","latitude":34.0606,"longitude":-116.5656}}(window,'GeoPostal','US');

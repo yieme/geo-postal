@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24680"]={"code":"24680","region":"Nouvelle-Aquitaine","city":"Lamonzie-Saint-Martin","latitude":44.84713,"longitude":0.39102}}(window,'GeoPostal','FR');

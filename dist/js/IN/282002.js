@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["282002"]={"code":"282002","region":"Uttar Pradesh","city":"Itimadpur","latitude":27.25,"longitude":78.2}}(window,'GeoPostal','IN');

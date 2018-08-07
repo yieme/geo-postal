@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO30 4LD"]={"code":"PO30 4LD","region":"England","city":"Brook","latitude":50.65202,"longitude":-1.4502}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31580"]={"code":"31580","region":"Navarra, Comunidad Foral de","city":"Lodosa","latitude":42.42269,"longitude":-2.07741}}(window,'GeoPostal','ES');

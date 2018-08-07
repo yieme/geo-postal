@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07461"]={"code":"07461","region":"New Jersey","city":"Sussex","latitude":41.24478,"longitude":-74.59932}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31738"]={"code":"31738","region":"GA","city":"Coolidge","latitude":30.9859,"longitude":-83.8752}}(window,'GeoPostal','US');

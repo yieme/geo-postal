@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["637420"]={"code":"637420","region":"Tamil Nadu","city":"Rasipuram","latitude":11.46667,"longitude":78.16667}}(window,'GeoPostal','IN');

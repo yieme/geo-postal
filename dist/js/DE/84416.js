@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84416"]={"code":"84416","region":"Bayern","city":"Hilpolding","latitude":48.34397,"longitude":12.14165}}(window,'GeoPostal','DE');

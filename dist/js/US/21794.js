@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21794"]={"code":"21794","region":"MD","city":"West Friendship","latitude":39.2934,"longitude":-76.966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94051"]={"code":"94051","region":"Bayern","city":"Oberdiendorf","latitude":48.62787,"longitude":13.58919}}(window,'GeoPostal','DE');

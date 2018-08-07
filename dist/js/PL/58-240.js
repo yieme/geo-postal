@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-240"]={"code":"58-240","region":"Dolnoslaskie","city":"Pilawa Gorna","latitude":50.68357,"longitude":16.74359}}(window,'GeoPostal','PL');

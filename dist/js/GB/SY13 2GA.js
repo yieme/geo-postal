@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY13 2GA"]={"code":"SY13 2GA","region":"England","city":"Prees","latitude":52.89689,"longitude":-2.66401}}(window,'GeoPostal','GB');

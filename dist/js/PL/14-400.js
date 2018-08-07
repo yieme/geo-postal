@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14-400"]={"code":"14-400","region":"Warminsko-mazurskie","city":"Paslek","latitude":54.0616,"longitude":19.65932}}(window,'GeoPostal','PL');

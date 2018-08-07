@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 0NF"]={"code":"HS2 0NF","region":"Scotland","city":"North Tolsta","latitude":58.33333,"longitude":-6.21667}}(window,'GeoPostal','GB');

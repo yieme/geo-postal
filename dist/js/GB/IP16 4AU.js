@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP16 4AU"]={"code":"IP16 4AU","region":"England","city":"Leiston","latitude":52.20611,"longitude":1.57757}}(window,'GeoPostal','GB');

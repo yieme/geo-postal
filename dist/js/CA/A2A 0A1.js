@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A2A 0A1"]={"code":"A2A 0A1","region":"Newfoundland and Labrador","city":"Grand Falls-Windsor","latitude":48.93324,"longitude":-55.66492}}(window,'GeoPostal','CA');

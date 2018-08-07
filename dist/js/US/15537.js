@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15537"]={"code":"15537","region":"Pennsylvania","city":"Everett","latitude":40.01147,"longitude":-78.37335}}(window,'GeoPostal','US');

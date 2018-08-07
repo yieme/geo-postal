@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94922"]={"code":"94922","region":"CA","city":"Bodega","latitude":38.3514,"longitude":-122.9741}}(window,'GeoPostal','US');

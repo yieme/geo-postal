@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE18 0LA"]={"code":"NE18 0LA","region":"England","city":"Stamfordham","latitude":55.04335,"longitude":-1.87978}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77701"]={"code":"77701","region":"Pohjois-Savo","city":"Rautalampi","latitude":62.63333,"longitude":26.83333}}(window,'GeoPostal','FI');

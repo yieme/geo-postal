@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14478"]={"code":"14478","region":"New York","city":"Keuka Park","latitude":42.61535,"longitude":-77.09219}}(window,'GeoPostal','US');

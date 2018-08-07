@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16371"]={"code":"16371","region":"Pennsylvania","city":"Youngsville","latitude":41.85228,"longitude":-79.31866}}(window,'GeoPostal','US');

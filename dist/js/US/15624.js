@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15624"]={"code":"15624","region":"PA","city":"Crabtree","latitude":40.3623,"longitude":-79.4706}}(window,'GeoPostal','US');

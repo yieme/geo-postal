@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["468 44"]={"code":"468 44","region":"Liberecky kraj","city":"Josefuv Dul","latitude":50.78191,"longitude":15.23146}}(window,'GeoPostal','CZ');

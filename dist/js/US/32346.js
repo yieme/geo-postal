@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32346"]={"code":"32346","region":"FL","city":"Panacea","latitude":30.0153,"longitude":-84.3912}}(window,'GeoPostal','US');

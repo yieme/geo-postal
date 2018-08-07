@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N9V 2V1"]={"code":"N9V 2V1","region":"Ontario","city":"Amherstburg","latitude":42.115793,"longitude":-83.111094}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91384"]={"code":"91384","region":"California","city":"Castaic","latitude":34.464926,"longitude":-118.641172}}(window,'GeoPostal','US');

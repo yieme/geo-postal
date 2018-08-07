@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR29 3BA"]={"code":"NR29 3BA","region":"England","city":"Burgh Saint Margaret","latitude":52.66798,"longitude":1.6137}}(window,'GeoPostal','GB');

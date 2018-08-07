@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627180"]={"code":"627180","region":"Vrancea","city":"Jaristea","latitude":45.78333,"longitude":27.06667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO10 5LJ"]={"code":"CO10 5LJ","region":"England","city":"Assington","latitude":52.00844,"longitude":0.81648}}(window,'GeoPostal','GB');

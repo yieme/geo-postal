@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21733"]={"code":"21733","region":"MD","city":"Fairplay","latitude":39.5594,"longitude":-77.7604}}(window,'GeoPostal','US');

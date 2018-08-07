@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA9 4NE"]={"code":"TA9 4NE","region":"England","city":"Mark","latitude":51.22699,"longitude":-2.89014}}(window,'GeoPostal','GB');

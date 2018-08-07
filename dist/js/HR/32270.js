@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32270"]={"code":"32270","region":"Vukovarsko-srijemska zupanija","city":"Zupanja","latitude":45.0775,"longitude":18.6975}}(window,'GeoPostal','HR');

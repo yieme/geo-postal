@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27261"]={"code":"27261","region":"North Carolina","city":"High Point","latitude":35.97644,"longitude":-79.99877}}(window,'GeoPostal','US');

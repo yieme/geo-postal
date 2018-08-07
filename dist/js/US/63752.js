@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63752"]={"code":"63752","region":"MO","city":"Gordonville","latitude":37.3092,"longitude":-89.6989}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03350"]={"code":"03350","region":"Valenciana, Comunidad","city":"Cox","latitude":38.14164,"longitude":-0.88736}}(window,'GeoPostal','ES');

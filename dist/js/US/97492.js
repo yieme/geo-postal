@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97492"]={"code":"97492","region":"Oregon","city":"Westfir","latitude":43.75806,"longitude":-122.49588}}(window,'GeoPostal','US');

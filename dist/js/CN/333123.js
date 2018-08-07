@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333123"]={"code":"333123","region":"Jiangxi","city":"Shuanggang","latitude":29.07511,"longitude":116.6156}}(window,'GeoPostal','CN');

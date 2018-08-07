@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72168"]={"code":"72168","region":"AR","city":"Tucker","latitude":34.4414,"longitude":-91.9163}}(window,'GeoPostal','US');

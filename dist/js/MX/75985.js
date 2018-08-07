@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75985"]={"code":"75985","region":"Puebla","city":"Caipan","latitude":18.29583,"longitude":-97.16667}}(window,'GeoPostal','MX');

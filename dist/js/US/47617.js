@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47617"]={"code":"47617","region":"IN","city":"Hatfield","latitude":37.9036,"longitude":-87.2499}}(window,'GeoPostal','US');

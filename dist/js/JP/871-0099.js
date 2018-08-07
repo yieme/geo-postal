@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["871-0099"]={"code":"871-0099","region":"Oita","city":"Nakatsu","latitude":33.6,"longitude":131.183}}(window,'GeoPostal','JP');

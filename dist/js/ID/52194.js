@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52194"]={"code":"52194","region":"Jawa Tengah","city":"Adiwerna","latitude":-6.9375,"longitude":109.1325}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50580"]={"code":"50580","region":"Normandie","city":"Portbail","latitude":49.33571,"longitude":-1.6956}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55066"]={"code":"55066","region":"Minnesota","city":"Red Wing","latitude":44.557623,"longitude":-92.549417}}(window,'GeoPostal','US');

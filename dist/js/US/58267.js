@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58267"]={"code":"58267","region":"North Dakota","city":"Northwood","latitude":47.73472,"longitude":-97.56889}}(window,'GeoPostal','US');

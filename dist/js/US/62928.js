@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62928"]={"code":"62928","region":"IL","city":"Eddyville","latitude":37.4829,"longitude":-88.5791}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59259"]={"code":"59259","region":"MT","city":"Richey","latitude":47.6229,"longitude":-105.017}}(window,'GeoPostal','US');

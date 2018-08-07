@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55443"]={"code":"55443","region":"Minnesota","city":"Brooklyn Park","latitude":45.076111,"longitude":-93.3325}}(window,'GeoPostal','US');

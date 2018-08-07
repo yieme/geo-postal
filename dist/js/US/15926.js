@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15926"]={"code":"15926","region":"Pennsylvania","city":"Central City","latitude":40.11063,"longitude":-78.80197}}(window,'GeoPostal','US');

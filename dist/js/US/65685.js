@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65685"]={"code":"65685","region":"MO","city":"Louisburg","latitude":37.7542,"longitude":-93.1566}}(window,'GeoPostal','US');

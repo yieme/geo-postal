@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60455"]={"code":"60455","region":"Illinois","city":"Bridgeview","latitude":41.7407,"longitude":-87.8064}}(window,'GeoPostal','US');

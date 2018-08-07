@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD11 3RP"]={"code":"DD11 3RP","region":"Scotland","city":"Colliston","latitude":56.59514,"longitude":-2.64453}}(window,'GeoPostal','GB');

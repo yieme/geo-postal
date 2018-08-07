@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27302"]={"code":"27302","region":"Rocha","city":"Cebollati","latitude":-33.26667,"longitude":-53.78333}}(window,'GeoPostal','UY');

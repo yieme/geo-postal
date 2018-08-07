@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18440-000"]={"code":"18440-000","region":"Sao Paulo","city":"Itabera","latitude":-23.86194,"longitude":-49.13722}}(window,'GeoPostal','BR');

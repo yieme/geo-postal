@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["855500"]={"code":"855500","region":"Xizang","city":"Domartang","latitude":30.9,"longitude":94.83333}}(window,'GeoPostal','CN');

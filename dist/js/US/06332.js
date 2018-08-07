@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06332"]={"code":"06332","region":"CT","city":"Central Village","latitude":41.7229,"longitude":-71.9067}}(window,'GeoPostal','US');

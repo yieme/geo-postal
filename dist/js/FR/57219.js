@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57219"]={"code":"57219","region":"Grand-Est","city":"Sarreguemines","latitude":49.10995,"longitude":7.06747}}(window,'GeoPostal','FR');

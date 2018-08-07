@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60914"]={"code":"60914","region":"Illinois","city":"Bourbonnais","latitude":41.162201,"longitude":-87.880668}}(window,'GeoPostal','US');

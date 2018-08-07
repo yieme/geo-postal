@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4985"]={"code":"4985","region":"Aust-Agder","city":"Myra","latitude":58.74666,"longitude":8.86}}(window,'GeoPostal','NO');

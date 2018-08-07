@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04418"]={"code":"04418","region":"ME","city":"Greenbush","latitude":45.0803,"longitude":-68.6509}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84011"]={"code":"84011","region":"UT","city":"Bountiful","latitude":40.8894,"longitude":-111.8808}}(window,'GeoPostal','US');

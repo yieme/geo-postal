@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56800"]={"code":"56800","region":"Kosi","city":"Dhankuta","latitude":26.98333,"longitude":87.33333}}(window,'GeoPostal','NP');

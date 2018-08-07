@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92230"]={"code":"92230","region":"CA","city":"Cabazon","latitude":33.9086,"longitude":-116.7739}}(window,'GeoPostal','US');

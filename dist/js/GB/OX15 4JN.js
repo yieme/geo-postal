@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX15 4JN"]={"code":"OX15 4JN","region":"England","city":"South Newington","latitude":51.99535,"longitude":-1.40865}}(window,'GeoPostal','GB');

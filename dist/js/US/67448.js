@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67448"]={"code":"67448","region":"KS","city":"Gypsum","latitude":38.7047,"longitude":-97.4338}}(window,'GeoPostal','US');

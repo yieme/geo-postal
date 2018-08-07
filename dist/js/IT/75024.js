@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75024"]={"code":"75024","region":"Basilicata","city":"Montescaglioso","latitude":40.55222,"longitude":16.66689}}(window,'GeoPostal','IT');

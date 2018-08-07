@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85942"]={"code":"85942","region":"Arizona","city":"Woodruff","latitude":34.781389,"longitude":-110.042778}}(window,'GeoPostal','US');

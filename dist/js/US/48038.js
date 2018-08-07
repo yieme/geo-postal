@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48038"]={"code":"48038","region":"Michigan","city":"Clinton","latitude":42.602906,"longitude":-82.952709}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["825409"]={"code":"825409","region":"Jharkhand","city":"Kodarma","latitude":24.46667,"longitude":85.6}}(window,'GeoPostal','IN');

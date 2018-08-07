@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366013"]={"code":"366013","region":"Chechenskaya Respublika","city":"Tolstoy-Yurt","latitude":43.44444,"longitude":45.77222}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80240"]={"code":"80240","region":"Nakhon Si Thammarat","city":"Thung Yai","latitude":8.30119,"longitude":99.3661}}(window,'GeoPostal','TH');

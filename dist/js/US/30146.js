@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30146"]={"code":"30146","region":"GA","city":"Lebanon","latitude":34.2429,"longitude":-84.4583}}(window,'GeoPostal','US');

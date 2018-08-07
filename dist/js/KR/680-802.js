@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680-802"]={"code":"680-802","region":"Ulsan-gwangyeoksi","city":"Ulsan","latitude":35.53722,"longitude":129.31667}}(window,'GeoPostal','KR');

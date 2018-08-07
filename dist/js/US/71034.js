@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71034"]={"code":"71034","region":"LA","city":"Hall Summit","latitude":32.1752,"longitude":-93.3047}}(window,'GeoPostal','US');

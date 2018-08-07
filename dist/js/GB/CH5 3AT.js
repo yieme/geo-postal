@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH5 3AT"]={"code":"CH5 3AT","region":"Wales","city":"Ewloe","latitude":53.19226,"longitude":-3.05485}}(window,'GeoPostal','GB');

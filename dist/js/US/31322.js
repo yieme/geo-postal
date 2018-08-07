@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31322"]={"code":"31322","region":"Georgia","city":"Pooler","latitude":32.117289,"longitude":-81.252271}}(window,'GeoPostal','US');

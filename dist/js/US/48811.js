@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48811"]={"code":"48811","region":"MI","city":"Carson City","latitude":43.1695,"longitude":-84.8653}}(window,'GeoPostal','US');

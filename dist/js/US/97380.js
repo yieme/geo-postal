@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97380"]={"code":"97380","region":"Oregon","city":"Siletz","latitude":44.72178,"longitude":-123.92011}}(window,'GeoPostal','US');

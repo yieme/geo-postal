@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3094"]={"code":"3094","region":"Victoria","city":"Montmorency","latitude":-37.71667,"longitude":145.11667}}(window,'GeoPostal','AU');

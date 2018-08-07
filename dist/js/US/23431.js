@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23431"]={"code":"23431","region":"Virginia","city":"Smithfield","latitude":36.982679,"longitude":-76.61776}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13970-000"]={"code":"13970-000","region":"Sao Paulo","city":"Itapira","latitude":-22.43611,"longitude":-46.82167}}(window,'GeoPostal','BR');

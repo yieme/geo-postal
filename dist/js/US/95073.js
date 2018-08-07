@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95073"]={"code":"95073","region":"California","city":"Soquel","latitude":37.009851,"longitude":-121.950346}}(window,'GeoPostal','US');

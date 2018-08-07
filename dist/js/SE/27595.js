@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27595"]={"code":"27595","region":"Skane lan","city":"Sjoebo","latitude":55.63135,"longitude":13.70622}}(window,'GeoPostal','SE');

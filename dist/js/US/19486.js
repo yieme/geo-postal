@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19486"]={"code":"19486","region":"PA","city":"West Point","latitude":40.2033,"longitude":-75.3019}}(window,'GeoPostal','US');

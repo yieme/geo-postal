@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64330"]={"code":"64330","region":"Nouvelle-Aquitaine","city":"Garlin","latitude":43.55927,"longitude":-0.27321}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92371"]={"code":"92371","region":"CA","city":"Phelan","latitude":34.4449,"longitude":-117.5196}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50851"]={"code":"50851","region":"Iowa","city":"Lenox","latitude":40.88165,"longitude":-94.56191}}(window,'GeoPostal','US');

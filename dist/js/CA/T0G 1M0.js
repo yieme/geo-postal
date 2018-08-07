@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 1M0"]={"code":"T0G 1M0","region":"Alberta","city":"Lone Pine","latitude":54.30014,"longitude":-115.11891}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE20 9PS"]={"code":"NE20 9PS","region":"England","city":"Ponteland","latitude":55.05024,"longitude":-1.74532}}(window,'GeoPostal','GB');

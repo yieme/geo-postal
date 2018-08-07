@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE29 8NH"]={"code":"NE29 8NH","region":"England","city":"Woodhorn","latitude":55.19348,"longitude":-1.53329}}(window,'GeoPostal','GB');

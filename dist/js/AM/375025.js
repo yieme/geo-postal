@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["375025"]={"code":"375025","region":"Erevan","city":"Yerevan","latitude":40.18111,"longitude":44.51361}}(window,'GeoPostal','AM');

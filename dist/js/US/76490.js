@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76490"]={"code":"76490","region":"TX","city":"Whitt","latitude":32.9555,"longitude":-98.021}}(window,'GeoPostal','US');

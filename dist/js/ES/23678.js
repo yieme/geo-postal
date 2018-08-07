@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23678"]={"code":"23678","region":"Andalucia","city":"Castillo de Locubin","latitude":37.52858,"longitude":-3.9422}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77428"]={"code":"77428","region":"TX","city":"Collegeport","latitude":28.7253,"longitude":-96.175}}(window,'GeoPostal','US');

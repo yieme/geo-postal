@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06487"]={"code":"06487","region":"CT","city":"South Britain","latitude":41.4709,"longitude":-73.2515}}(window,'GeoPostal','US');

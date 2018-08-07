@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75490"]={"code":"75490","region":"Puebla","city":"San Mateo Tlaixpan","latitude":18.9,"longitude":-97.73333}}(window,'GeoPostal','MX');

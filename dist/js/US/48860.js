@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48860"]={"code":"48860","region":"MI","city":"Muir","latitude":43.0439,"longitude":-84.9391}}(window,'GeoPostal','US');

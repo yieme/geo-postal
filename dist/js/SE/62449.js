@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62449"]={"code":"62449","region":"Gotlands lan","city":"Slite","latitude":57.70461,"longitude":18.8031}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6447"]={"code":"6447","region":"Bacs-Kiskun","city":"Felsoszentivan","latitude":46.19713,"longitude":19.18686}}(window,'GeoPostal','HU');

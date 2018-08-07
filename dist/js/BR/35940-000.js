@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35940-000"]={"code":"35940-000","region":"Minas Gerais","city":"Rio Piracicaba","latitude":-19.92917,"longitude":-43.17417}}(window,'GeoPostal','BR');

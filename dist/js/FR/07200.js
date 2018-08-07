@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07200"]={"code":"07200","region":"Auvergne-Rhone-Alpes","city":"Vogue","latitude":44.5514,"longitude":4.4153}}(window,'GeoPostal','FR');

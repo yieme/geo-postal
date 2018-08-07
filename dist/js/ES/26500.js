@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26500"]={"code":"26500","region":"La Rioja","city":"Calahorra","latitude":42.30506,"longitude":-1.96521}}(window,'GeoPostal','ES');

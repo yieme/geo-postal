@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75558"]={"code":"75558","region":"Texas","city":"Cookville","latitude":33.18556,"longitude":-94.85444}}(window,'GeoPostal','US');

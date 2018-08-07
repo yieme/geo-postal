@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0H 1H4"]={"code":"V0H 1H4","region":"British Columbia","city":"Carson","latitude":49.00539,"longitude":-118.5106}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15333"]={"code":"15333","region":"PA","city":"Fredericktown","latitude":40.0026,"longitude":-79.9981}}(window,'GeoPostal','US');

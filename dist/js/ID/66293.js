@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66293"]={"code":"66293","region":"Jawa Timur","city":"Purwodadi","latitude":-8.156,"longitude":112.078}}(window,'GeoPostal','ID');

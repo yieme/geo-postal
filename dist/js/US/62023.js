@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62023"]={"code":"62023","region":"IL","city":"Eagarville","latitude":39.1118,"longitude":-89.7855}}(window,'GeoPostal','US');

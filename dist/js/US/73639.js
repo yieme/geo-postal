@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73639"]={"code":"73639","region":"OK","city":"Custer City","latitude":35.6894,"longitude":-98.912}}(window,'GeoPostal','US');

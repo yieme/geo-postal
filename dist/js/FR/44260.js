@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44260"]={"code":"44260","region":"Pays-de-la-Loire","city":"Prinquiau","latitude":47.36215,"longitude":-2.00952}}(window,'GeoPostal','FR');

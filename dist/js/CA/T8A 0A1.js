@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T8A 0A1"]={"code":"T8A 0A1","region":"Alberta","city":"Sherwood Park","latitude":53.51684,"longitude":-113.3187}}(window,'GeoPostal','CA');

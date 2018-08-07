@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4990"]={"code":"4990","region":"Sjelland","city":"Sakskobing","latitude":54.7997,"longitude":11.62599}}(window,'GeoPostal','DK');

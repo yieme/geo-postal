@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63697"]={"code":"63697","region":"Hessen","city":"Igelhausen","latitude":50.40559,"longitude":9.13024}}(window,'GeoPostal','DE');

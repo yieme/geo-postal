@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54120"]={"code":"54120","region":"Phrae","city":"Song","latitude":18.47006,"longitude":100.18294}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188742"]={"code":"188742","region":"Leningradskaya oblast'","city":"Sapernoye","latitude":60.71673,"longitude":29.95046}}(window,'GeoPostal','RU');

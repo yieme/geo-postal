@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12025"]={"code":"12025","region":"Piemonte","city":"Dronero","latitude":44.46573,"longitude":7.35133}}(window,'GeoPostal','IT');

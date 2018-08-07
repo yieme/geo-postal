@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8661"]={"code":"8661","region":"Steiermark","city":"Mitterdorf im Murztal","latitude":47.53333,"longitude":15.51667}}(window,'GeoPostal','AT');

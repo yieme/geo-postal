@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH7 6AA"]={"code":"CH7 6AA","region":"Wales","city":"Northop","latitude":53.20692,"longitude":-3.13277}}(window,'GeoPostal','GB');

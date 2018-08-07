@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72622"]={"code":"72622","region":"Baden-Wurttemberg","city":"Oberensingen","latitude":48.63694,"longitude":9.32563}}(window,'GeoPostal','DE');

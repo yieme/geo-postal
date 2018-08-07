@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46390"]={"code":"46390","region":"Indiana","city":"Wanatah","latitude":41.434981,"longitude":-86.892895}}(window,'GeoPostal','US');

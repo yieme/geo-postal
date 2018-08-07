@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37042"]={"code":"37042","region":"Tennessee","city":"Clarksville","latitude":36.56214,"longitude":-87.40572}}(window,'GeoPostal','US');

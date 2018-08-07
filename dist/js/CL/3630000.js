@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3630000"]={"code":"3630000","region":"Maule","city":"Parral","latitude":-36.15,"longitude":-71.83333}}(window,'GeoPostal','CL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79480-000"]={"code":"79480-000","region":"Mato Grosso do Sul","city":"Rio Verde de Mato Grosso","latitude":-18.91806,"longitude":-54.84417}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17516"]={"code":"17516","region":"PA","city":"Conestoga","latitude":39.9403,"longitude":-76.3575}}(window,'GeoPostal','US');

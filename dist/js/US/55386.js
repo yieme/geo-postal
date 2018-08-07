@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55386"]={"code":"55386","region":"MN","city":"Victoria","latitude":44.8582,"longitude":-93.6561}}(window,'GeoPostal','US');

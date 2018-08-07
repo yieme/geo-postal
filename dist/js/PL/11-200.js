@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-200"]={"code":"11-200","region":"Warminsko-mazurskie","city":"Bartoszyce","latitude":54.25354,"longitude":20.80819}}(window,'GeoPostal','PL');

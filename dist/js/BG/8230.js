@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8230"]={"code":"8230","region":"Burgas","city":"Nesebur","latitude":42.65921,"longitude":27.73602}}(window,'GeoPostal','BG');

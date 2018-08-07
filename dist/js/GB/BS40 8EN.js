@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS40 8EN"]={"code":"BS40 8EN","region":"England","city":"Winford","latitude":51.38333,"longitude":-2.66111}}(window,'GeoPostal','GB');

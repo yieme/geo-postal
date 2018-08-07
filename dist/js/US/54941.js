@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54941"]={"code":"54941","region":"Wisconsin","city":"Green Lake","latitude":43.84415,"longitude":-88.96011}}(window,'GeoPostal','US');

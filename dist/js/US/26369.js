@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26369"]={"code":"26369","region":"WV","city":"Hepzibah","latitude":39.3312,"longitude":-80.3325}}(window,'GeoPostal','US');

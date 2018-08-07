@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35080"]={"code":"35080","region":"Hessen","city":"Petersburg","latitude":50.75253,"longitude":8.54761}}(window,'GeoPostal','DE');

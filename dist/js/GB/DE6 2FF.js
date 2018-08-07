@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE6 2FF"]={"code":"DE6 2FF","region":"England","city":"Marston Montgomery","latitude":52.93819,"longitude":-1.8011}}(window,'GeoPostal','GB');

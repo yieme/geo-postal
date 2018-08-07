@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423700"]={"code":"423700","region":"Tatarstan, Respublika","city":"Menzelinsk","latitude":55.72706,"longitude":53.10258}}(window,'GeoPostal','RU');

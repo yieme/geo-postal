@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85420-000"]={"code":"85420-000","region":"Parana","city":"Corbelia","latitude":-24.79889,"longitude":-53.30667}}(window,'GeoPostal','BR');

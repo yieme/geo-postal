@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38473"]={"code":"38473","region":"Tennessee","city":"Minor Hill","latitude":35.03833,"longitude":-87.17111}}(window,'GeoPostal','US');

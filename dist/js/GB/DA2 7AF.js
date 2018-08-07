@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DA2 7AF"]={"code":"DA2 7AF","region":"England","city":"Kent","latitude":51.25,"longitude":0.75}}(window,'GeoPostal','GB');

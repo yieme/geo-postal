@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 9JQ"]={"code":"NE65 9JQ","region":"England","city":"Swarland","latitude":55.32403,"longitude":-1.74481}}(window,'GeoPostal','GB');

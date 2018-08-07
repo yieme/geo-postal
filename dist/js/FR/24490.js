@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24490"]={"code":"24490","region":"Nouvelle-Aquitaine","city":"La Roche-Chalais","latitude":45.15,"longitude":0.01667}}(window,'GeoPostal','FR');

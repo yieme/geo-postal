@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX31 4JU"]={"code":"EX31 4JU","region":"England","city":"Shirwell","latitude":51.11811,"longitude":-4.00651}}(window,'GeoPostal','GB');

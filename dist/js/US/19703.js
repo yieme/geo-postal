@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19703"]={"code":"19703","region":"Delaware","city":"Claymont","latitude":39.802671,"longitude":-75.464193}}(window,'GeoPostal','US');

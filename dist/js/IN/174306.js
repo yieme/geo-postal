@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["174306"]={"code":"174306","region":"Himachal Pradesh","city":"Una","latitude":31.48333,"longitude":76.28333}}(window,'GeoPostal','IN');

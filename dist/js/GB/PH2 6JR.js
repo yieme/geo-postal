@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 6JR"]={"code":"PH2 6JR","region":"Scotland","city":"Scone","latitude":56.41942,"longitude":-3.40507}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23651"]={"code":"23651","region":"VA","city":"Fort Monroe","latitude":37.018,"longitude":-76.3044}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44848"]={"code":"44848","region":"OH","city":"Nankin","latitude":40.9206,"longitude":-82.2817}}(window,'GeoPostal','US');

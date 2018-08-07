@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41290"]={"code":"41290","region":"Centre-Val de Loire","city":"Oucques","latitude":47.82252,"longitude":1.29383}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03044"]={"code":"03044","region":"NH","city":"Fremont","latitude":42.984,"longitude":-71.1218}}(window,'GeoPostal','US');

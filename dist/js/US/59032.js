@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59032"]={"code":"59032","region":"MT","city":"Grass Range","latitude":47.0259,"longitude":-108.8271}}(window,'GeoPostal','US');

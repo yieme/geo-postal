@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30020"]={"code":"30020","region":"Veneto","city":"Bibione","latitude":45.63583,"longitude":13.05389}}(window,'GeoPostal','IT');

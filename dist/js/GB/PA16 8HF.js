@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA16 8HF"]={"code":"PA16 8HF","region":"Scotland","city":"Greenock","latitude":55.94838,"longitude":-4.76121}}(window,'GeoPostal','GB');

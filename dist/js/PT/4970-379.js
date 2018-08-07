@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4970-379"]={"code":"4970-379","region":"Viana do Castelo","city":"Vila Praia de Ancora","latitude":41.81098,"longitude":-8.85255}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82346"]={"code":"82346","region":"Bayern","city":"Andechs","latitude":47.97464,"longitude":11.18279}}(window,'GeoPostal','DE');

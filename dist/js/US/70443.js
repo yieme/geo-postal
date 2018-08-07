@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70443"]={"code":"70443","region":"LA","city":"Independence","latitude":30.6351,"longitude":-90.5277}}(window,'GeoPostal','US');

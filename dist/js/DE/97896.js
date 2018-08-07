@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97896"]={"code":"97896","region":"Bayern","city":"Fechenbach","latitude":49.77206,"longitude":9.33758}}(window,'GeoPostal','DE');

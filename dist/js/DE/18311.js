@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18311"]={"code":"18311","region":"Mecklenburg-Vorpommern","city":"Freudenberg","latitude":54.22525,"longitude":12.49463}}(window,'GeoPostal','DE');

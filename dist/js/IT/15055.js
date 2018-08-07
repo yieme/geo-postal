@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15055"]={"code":"15055","region":"Piemonte","city":"Pontecurone","latitude":44.96016,"longitude":8.93385}}(window,'GeoPostal','IT');

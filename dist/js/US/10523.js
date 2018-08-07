@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10523"]={"code":"10523","region":"New York","city":"Elmsford","latitude":41.053389,"longitude":-73.815118}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69141"]={"code":"69141","region":"Nebraska","city":"Gurley","latitude":41.3225,"longitude":-102.97361}}(window,'GeoPostal','US');

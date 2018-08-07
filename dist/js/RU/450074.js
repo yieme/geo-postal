@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["450074"]={"code":"450074","region":"Sverdlovskaya oblast'","city":"Mikhaylovsk","latitude":56.43583,"longitude":59.12}}(window,'GeoPostal','RU');

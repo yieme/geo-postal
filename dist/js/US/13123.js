@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13123"]={"code":"13123","region":"NY","city":"North Bay","latitude":43.2364,"longitude":-75.7769}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396140"]={"code":"396140","region":"Voronezhskaya oblast'","city":"Panino","latitude":51.6467,"longitude":40.1346}}(window,'GeoPostal','RU');

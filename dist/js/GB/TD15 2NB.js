@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 2NB"]={"code":"TD15 2NB","region":"England","city":"East Ord","latitude":55.75569,"longitude":-2.03327}}(window,'GeoPostal','GB');

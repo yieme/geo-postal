@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48360-000"]={"code":"48360-000","region":"Bahia","city":"Acajutiba","latitude":-11.66222,"longitude":-38.01722}}(window,'GeoPostal','BR');

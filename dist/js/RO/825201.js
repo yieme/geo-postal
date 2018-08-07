@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["825201"]={"code":"825201","region":"Tulcea","city":"Isaccea","latitude":45.26667,"longitude":28.46667}}(window,'GeoPostal','RO');

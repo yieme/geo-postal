@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG4 5HW"]={"code":"HG4 5HW","region":"England","city":"Melmerby","latitude":54.18333,"longitude":-1.48333}}(window,'GeoPostal','GB');

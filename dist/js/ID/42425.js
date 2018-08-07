@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42425"]={"code":"42425","region":"Banten","city":"Pekijing","latitude":-6.1234,"longitude":106.1033}}(window,'GeoPostal','ID');

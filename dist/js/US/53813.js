@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53813"]={"code":"53813","region":"Wisconsin","city":"Lancaster","latitude":42.84749,"longitude":-90.71068}}(window,'GeoPostal','US');

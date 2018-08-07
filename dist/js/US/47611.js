@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47611"]={"code":"47611","region":"Indiana","city":"Chrisney","latitude":38.01361,"longitude":-87.03556}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99581"]={"code":"99581","region":"AK","city":"Emmonak","latitude":62.7818,"longitude":-164.5335}}(window,'GeoPostal','US');

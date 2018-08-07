@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51674"]={"code":"51674","region":"Nordrhein-Westfalen","city":"Wiehl","latitude":50.9495,"longitude":7.55062}}(window,'GeoPostal','DE');

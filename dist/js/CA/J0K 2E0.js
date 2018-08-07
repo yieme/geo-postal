@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 2E0"]={"code":"J0K 2E0","region":"Quebec","city":"Saint-Damien","latitude":46.33337,"longitude":-73.48245}}(window,'GeoPostal','CA');

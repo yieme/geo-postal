@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73834"]={"code":"73834","region":"OK","city":"Buffalo","latitude":36.8523,"longitude":-99.5538}}(window,'GeoPostal','US');

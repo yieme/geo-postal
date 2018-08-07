@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5201"]={"code":"5201","region":"Bern","city":"Brugg","latitude":47.1237,"longitude":7.27887}}(window,'GeoPostal','CH');

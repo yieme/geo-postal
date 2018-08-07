@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4335"]={"code":"4335","region":"Szabolcs-Szatmar-Bereg","city":"Kantorjanosi","latitude":47.93333,"longitude":22.15}}(window,'GeoPostal','HU');

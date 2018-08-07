@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7232"]={"code":"7232","region":"Gelderland","city":"Warnsveld","latitude":52.1375,"longitude":6.23056}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2472"]={"code":"2472","region":"New South Wales","city":"New Italy","latitude":-29.15,"longitude":153.28333}}(window,'GeoPostal','AU');

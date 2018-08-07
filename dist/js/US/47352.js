@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47352"]={"code":"47352","region":"IN","city":"Lewisville","latitude":39.8283,"longitude":-85.3621}}(window,'GeoPostal','US');

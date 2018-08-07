@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01531"]={"code":"01531","region":"MA","city":"New Braintree","latitude":42.3198,"longitude":-72.1306}}(window,'GeoPostal','US');

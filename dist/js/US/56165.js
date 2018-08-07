@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56165"]={"code":"56165","region":"Minnesota","city":"Reading","latitude":43.71232,"longitude":-95.75796}}(window,'GeoPostal','US');

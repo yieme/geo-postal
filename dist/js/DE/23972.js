@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23972"]={"code":"23972","region":"Mecklenburg-Vorpommern","city":"Mecklenburg","latitude":53.8427,"longitude":11.4633}}(window,'GeoPostal','DE');

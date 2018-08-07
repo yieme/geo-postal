@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399213"]={"code":"399213","region":"Lipetskaya oblast'","city":"Zadonsk","latitude":52.3904,"longitude":38.9261}}(window,'GeoPostal','RU');

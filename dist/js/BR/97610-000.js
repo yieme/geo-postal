@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97610-000"]={"code":"97610-000","region":"Rio Grande do Sul","city":"Sao Francisco de Assis","latitude":-29.55028,"longitude":-55.13111}}(window,'GeoPostal','BR');

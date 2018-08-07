@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9741"]={"code":"9741","region":"Southland","city":"Winton","latitude":-46.15,"longitude":168.33333}}(window,'GeoPostal','NZ');

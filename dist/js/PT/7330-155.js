@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7330-155"]={"code":"7330-155","region":"Portalegre","city":"Castelo de Vide","latitude":39.41624,"longitude":-7.4568}}(window,'GeoPostal','PT');

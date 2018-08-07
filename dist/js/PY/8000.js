@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8000"]={"code":"8000","region":"San Pedro","city":"San Pedro de Ycuamandiyu","latitude":-24.1,"longitude":-57.08333}}(window,'GeoPostal','PY');

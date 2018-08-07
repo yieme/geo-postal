@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58110"]={"code":"58110","region":"Mae Hong Son","city":"Ban Huai I Huak","latitude":18.07861,"longitude":98.035}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["513127"]={"code":"513127","region":"Guangdong","city":"Yangmei","latitude":24.10231,"longitude":112.56176}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66439"]={"code":"66439","region":"Kansas","city":"Horton","latitude":39.66056,"longitude":-95.52637}}(window,'GeoPostal','US');

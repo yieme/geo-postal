@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65264"]={"code":"65264","region":"MO","city":"Martinsburg","latitude":39.0968,"longitude":-91.6646}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31520"]={"code":"31520","region":"Georgia","city":"Brunswick","latitude":31.17792,"longitude":-81.491769}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO18 9EZ"]={"code":"PO18 9EZ","region":"England","city":"Compton","latitude":50.92695,"longitude":-0.89642}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98582"]={"code":"98582","region":"Washington","city":"Salkum","latitude":46.53194,"longitude":-122.62583}}(window,'GeoPostal','US');

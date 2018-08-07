@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75920-000"]={"code":"75920-000","region":"Goias","city":"Santa Helena de Goias","latitude":-17.81361,"longitude":-50.59694}}(window,'GeoPostal','BR');

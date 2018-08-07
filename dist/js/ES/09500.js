@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09500"]={"code":"09500","region":"Castilla y Leon","city":"Medina de Pomar","latitude":42.92938,"longitude":-3.48804}}(window,'GeoPostal','ES');

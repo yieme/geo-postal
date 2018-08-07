@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24729"]={"code":"24729","region":"WV","city":"Hiawatha","latitude":37.4401,"longitude":-81.244}}(window,'GeoPostal','US');

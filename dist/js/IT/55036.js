@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55036"]={"code":"55036","region":"Toscana","city":"Castelnuovo di Garfagnana","latitude":44.12125,"longitude":10.4046}}(window,'GeoPostal','IT');

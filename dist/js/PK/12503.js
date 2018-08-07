@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12503"]={"code":"12503","region":"Azad Jammu and Kashmir","city":"Bagh","latitude":33.98111,"longitude":73.77608}}(window,'GeoPostal','PK');

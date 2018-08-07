@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97017"]={"code":"97017","region":"Sicilia","city":"Santa Croce Camerina","latitude":36.82894,"longitude":14.52678}}(window,'GeoPostal','IT');

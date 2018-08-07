@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81418"]={"code":"81418","region":"CO","city":"Eckert","latitude":38.845,"longitude":-107.9625}}(window,'GeoPostal','US');

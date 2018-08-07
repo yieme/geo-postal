@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41565"]={"code":"41565","region":"Andalucia","city":"Gilena","latitude":37.2515,"longitude":-4.91442}}(window,'GeoPostal','ES');

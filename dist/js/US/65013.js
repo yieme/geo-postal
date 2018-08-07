@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65013"]={"code":"65013","region":"MO","city":"Belle","latitude":38.2711,"longitude":-91.7303}}(window,'GeoPostal','US');

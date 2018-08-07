@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78066"]={"code":"78066","region":"TX","city":"Rio Medina","latitude":29.4612,"longitude":-98.8694}}(window,'GeoPostal','US');

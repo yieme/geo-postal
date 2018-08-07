@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25113"]={"code":"25113","region":"WV","city":"Ivydale","latitude":38.5357,"longitude":-81.0348}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU14 3DD"]={"code":"HU14 3DD","region":"England","city":"North Ferriby","latitude":53.72124,"longitude":-0.5052}}(window,'GeoPostal','GB');

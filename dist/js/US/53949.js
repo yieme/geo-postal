@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53949"]={"code":"53949","region":"Wisconsin","city":"Montello","latitude":43.79137,"longitude":-89.31984}}(window,'GeoPostal','US');

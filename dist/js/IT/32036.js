@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32036"]={"code":"32036","region":"Veneto","city":"Sedico","latitude":46.11111,"longitude":12.10028}}(window,'GeoPostal','IT');

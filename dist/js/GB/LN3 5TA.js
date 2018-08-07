@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN3 5TA"]={"code":"LN3 5TA","region":"England","city":"Southrey","latitude":53.18415,"longitude":-0.29802}}(window,'GeoPostal','GB');

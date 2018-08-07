@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 0Z0"]={"code":"T0K 0Z0","region":"Alberta","city":"Grassy Lake","latitude":49.81676,"longitude":-111.71846}}(window,'GeoPostal','CA');

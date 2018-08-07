@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54867"]={"code":"54867","region":"Wisconsin","city":"Radisson","latitude":45.78194,"longitude":-91.19833}}(window,'GeoPostal','US');

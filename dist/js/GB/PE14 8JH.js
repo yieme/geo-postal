@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE14 8JH"]={"code":"PE14 8JH","region":"England","city":"St Johns Fen End","latitude":52.67988,"longitude":0.27422}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["501158"]={"code":"501158","region":"Telangana","city":"Siddipet","latitude":18.1,"longitude":78.85}}(window,'GeoPostal','IN');

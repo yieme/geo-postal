@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY4 2LF"]={"code":"SY4 2LF","region":"England","city":"Great Ness","latitude":52.76667,"longitude":-2.9}}(window,'GeoPostal','GB');

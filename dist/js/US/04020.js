@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04020"]={"code":"04020","region":"ME","city":"Cornish","latitude":43.7796,"longitude":-70.7784}}(window,'GeoPostal','US');

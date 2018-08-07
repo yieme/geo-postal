@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91385"]={"code":"91385","region":"CA","city":"Valencia","latitude":34.4436,"longitude":-118.6095}}(window,'GeoPostal','US');

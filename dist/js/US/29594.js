@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29594"]={"code":"29594","region":"South Carolina","city":"Tatum","latitude":34.643798,"longitude":-79.586735}}(window,'GeoPostal','US');

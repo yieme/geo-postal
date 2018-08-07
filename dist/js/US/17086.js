@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17086"]={"code":"17086","region":"Pennsylvania","city":"Richfield","latitude":40.68833,"longitude":-77.11194}}(window,'GeoPostal','US');

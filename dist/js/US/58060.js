@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58060"]={"code":"58060","region":"North Dakota","city":"Milnor","latitude":46.25833,"longitude":-97.45583}}(window,'GeoPostal','US');

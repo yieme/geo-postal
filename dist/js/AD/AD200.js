@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AD200"]={"code":"AD200","region":"Canillo","city":"Canillo","latitude":42.5669,"longitude":1.59556}}(window,'GeoPostal','AD');

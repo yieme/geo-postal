@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89043"]={"code":"89043","region":"Nevada","city":"Pioche","latitude":38.19312,"longitude":-114.50688}}(window,'GeoPostal','US');

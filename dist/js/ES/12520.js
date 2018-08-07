@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12520"]={"code":"12520","region":"Valenciana, Comunidad","city":"Nules","latitude":39.85362,"longitude":-0.15642}}(window,'GeoPostal','ES');

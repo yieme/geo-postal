@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606260"]={"code":"606260","region":"Nizhegorodskaya oblast'","city":"Vorotynets","latitude":56.06028,"longitude":45.8633}}(window,'GeoPostal','RU');

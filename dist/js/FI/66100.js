@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66100"]={"code":"66100","region":"Pohjanmaa","city":"Malax","latitude":62.94225,"longitude":21.57311}}(window,'GeoPostal','FI');

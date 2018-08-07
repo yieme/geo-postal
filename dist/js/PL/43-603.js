@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-603"]={"code":"43-603","region":"Slaskie","city":"Jaworzno","latitude":50.20528,"longitude":19.27498}}(window,'GeoPostal','PL');

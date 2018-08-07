@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58329"]={"code":"58329","region":"North Dakota","city":"Dunseith","latitude":48.815068,"longitude":-100.062015}}(window,'GeoPostal','US');

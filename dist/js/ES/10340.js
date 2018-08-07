@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10340"]={"code":"10340","region":"Extremadura","city":"Castanar de Ibor","latitude":39.62843,"longitude":-5.41709}}(window,'GeoPostal','ES');

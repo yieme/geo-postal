@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85110"]={"code":"85110","region":"Ranong","city":"Kra Buri","latitude":10.40429,"longitude":98.77266}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95363"]={"code":"95363","region":"California","city":"Patterson","latitude":37.4716,"longitude":-121.12966}}(window,'GeoPostal','US');

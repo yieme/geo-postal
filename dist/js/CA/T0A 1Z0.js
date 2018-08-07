@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 1Z0"]={"code":"T0A 1Z0","region":"Alberta","city":"Hylo","latitude":54.68349,"longitude":-112.21863}}(window,'GeoPostal','CA');

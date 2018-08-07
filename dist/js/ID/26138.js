@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26138"]={"code":"26138","region":"Sumatera Barat","city":"Bukittinggi","latitude":-0.30907,"longitude":100.37055}}(window,'GeoPostal','ID');

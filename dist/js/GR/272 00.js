@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["272 00"]={"code":"272 00","region":"Dytiki Ellada","city":"Amalias","latitude":37.8,"longitude":21.35}}(window,'GeoPostal','GR');

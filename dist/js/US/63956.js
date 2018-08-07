@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63956"]={"code":"63956","region":"Missouri","city":"Patterson","latitude":37.210817,"longitude":-90.571508}}(window,'GeoPostal','US');

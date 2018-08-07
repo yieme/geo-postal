@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4307"]={"code":"4307","region":"Quezon","city":"Gumaca","latitude":13.91972,"longitude":122.10028}}(window,'GeoPostal','PH');

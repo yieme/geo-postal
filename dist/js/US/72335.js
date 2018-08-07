@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72335"]={"code":"72335","region":"Arkansas","city":"Forrest City","latitude":35.009034,"longitude":-90.785409}}(window,'GeoPostal','US');

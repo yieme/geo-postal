@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655200"]={"code":"655200","region":"Khakasiya, Respublika","city":"Shira","latitude":54.49111,"longitude":89.95306}}(window,'GeoPostal','RU');

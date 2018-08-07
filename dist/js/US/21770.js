@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21770"]={"code":"21770","region":"MD","city":"Monrovia","latitude":39.3512,"longitude":-77.2494}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99611"]={"code":"99611","region":"Alaska","city":"Kenai","latitude":60.55444,"longitude":-151.25833}}(window,'GeoPostal','US');

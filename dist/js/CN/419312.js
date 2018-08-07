@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["419312"]={"code":"419312","region":"Hunan","city":"Liangyaping","latitude":27.71833,"longitude":110.67083}}(window,'GeoPostal','CN');

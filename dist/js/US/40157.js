@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40157"]={"code":"40157","region":"Kentucky","city":"Payneville","latitude":38.023829,"longitude":-86.402106}}(window,'GeoPostal','US');

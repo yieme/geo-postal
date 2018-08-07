@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["788169"]={"code":"788169","region":"Assam","city":"Lala","latitude":24.55,"longitude":92.6}}(window,'GeoPostal','IN');

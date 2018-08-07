@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658362"]={"code":"658362","region":"Altayskiy kray","city":"Shipunovo","latitude":52.1582,"longitude":82.2173}}(window,'GeoPostal','RU');

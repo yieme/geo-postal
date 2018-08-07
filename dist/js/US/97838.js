@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97838"]={"code":"97838","region":"Oregon","city":"Hermiston","latitude":45.84041,"longitude":-119.28946}}(window,'GeoPostal','US');

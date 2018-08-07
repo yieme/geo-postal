@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68971"]={"code":"68971","region":"Nebraska","city":"Republican City","latitude":40.099212,"longitude":-99.228614}}(window,'GeoPostal','US');

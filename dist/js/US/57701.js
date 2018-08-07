@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57701"]={"code":"57701","region":"South Dakota","city":"Rapid City","latitude":44.08054,"longitude":-103.23101}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46783"]={"code":"46783","region":"Indiana","city":"Roanoke","latitude":40.966107,"longitude":-85.295113}}(window,'GeoPostal','US');

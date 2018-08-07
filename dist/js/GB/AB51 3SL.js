@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 3SL"]={"code":"AB51 3SL","region":"Scotland","city":"Inverurie","latitude":57.28446,"longitude":-2.37736}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0G 1Z0"]={"code":"R0G 1Z0","region":"Manitoba","city":"St. Claude","latitude":49.65861,"longitude":-98.34244}}(window,'GeoPostal','CA');

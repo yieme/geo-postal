@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95677"]={"code":"95677","region":"California","city":"Rocklin","latitude":38.79073,"longitude":-121.23578}}(window,'GeoPostal','US');

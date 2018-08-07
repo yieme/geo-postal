@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45772"]={"code":"45772","region":"Nordrhein-Westfalen","city":"Drewer Nord","latitude":51.65508,"longitude":7.11672}}(window,'GeoPostal','DE');

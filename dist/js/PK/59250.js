@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59250"]={"code":"59250","region":"Punjab","city":"Jalalpur Pirwala","latitude":29.50687,"longitude":71.21917}}(window,'GeoPostal','PK');

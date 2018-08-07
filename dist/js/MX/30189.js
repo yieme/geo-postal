@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30189"]={"code":"30189","region":"Coahuila de Zaragoza","city":"Saltillo","latitude":25.41667,"longitude":-101}}(window,'GeoPostal','MX');

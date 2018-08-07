@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56861"]={"code":"56861","region":"Rheinland-Pfalz","city":"Reil","latitude":50.01667,"longitude":7.11667}}(window,'GeoPostal','DE');

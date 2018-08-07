@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34599"]={"code":"34599","region":"Hessen","city":"Zimmersrode","latitude":51.00803,"longitude":9.22639}}(window,'GeoPostal','DE');

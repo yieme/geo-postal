@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91587"]={"code":"91587","region":"Baden-Wurttemberg","city":"Finsterlohr","latitude":49.43429,"longitude":10.09437}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14475"]={"code":"14475","region":"NY","city":"Ionia","latitude":42.938,"longitude":-77.5009}}(window,'GeoPostal','US');

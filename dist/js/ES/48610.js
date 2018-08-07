@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48610"]={"code":"48610","region":"Pais Vasco","city":"Landa","latitude":43.38333,"longitude":-2.95}}(window,'GeoPostal','ES');

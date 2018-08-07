@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6710"]={"code":"6710","region":"Western Australia","city":"Onslow","latitude":-21.63687,"longitude":115.11169}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85633"]={"code":"85633","region":"Arizona","city":"Sasabe","latitude":31.48957,"longitude":-111.54229}}(window,'GeoPostal','US');

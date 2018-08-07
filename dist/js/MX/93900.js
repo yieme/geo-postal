@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93900"]={"code":"93900","region":"Veracruz de Ignacio de la Llave","city":"Yecuatla","latitude":19.86667,"longitude":-96.75}}(window,'GeoPostal','MX');

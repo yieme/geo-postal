@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58630"]={"code":"58630","region":"North Dakota","city":"Gladstone","latitude":46.859841,"longitude":-102.564449}}(window,'GeoPostal','US');

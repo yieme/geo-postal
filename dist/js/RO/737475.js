@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737475"]={"code":"737475","region":"Vaslui","city":"Solesti","latitude":46.76667,"longitude":27.78333}}(window,'GeoPostal','RO');

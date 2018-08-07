@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86580"]={"code":"86580","region":"Nouvelle-Aquitaine","city":"Biard","latitude":46.57889,"longitude":0.30812}}(window,'GeoPostal','FR');

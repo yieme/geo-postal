@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53589"]={"code":"53589","region":"WI","city":"Stoughton","latitude":42.929,"longitude":-89.224}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17004"]={"code":"17004","region":"PA","city":"Belleville","latitude":40.6016,"longitude":-77.7358}}(window,'GeoPostal','US');

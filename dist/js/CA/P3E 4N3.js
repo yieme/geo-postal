@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P3E 4N3"]={"code":"P3E 4N3","region":"Ontario","city":"Jackson's Point","latitude":46.27172,"longitude":-81.34063}}(window,'GeoPostal','CA');

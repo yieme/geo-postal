@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62962"]={"code":"62962","region":"IL","city":"Miller City","latitude":37.1034,"longitude":-89.3494}}(window,'GeoPostal','US');

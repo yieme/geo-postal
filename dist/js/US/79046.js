@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79046"]={"code":"79046","region":"Texas","city":"Higgins","latitude":36.120436,"longitude":-100.024102}}(window,'GeoPostal','US');

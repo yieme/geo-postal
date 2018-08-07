@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML11 0NN"]={"code":"ML11 0NN","region":"Scotland","city":"Coalburn","latitude":55.58333,"longitude":-3.9}}(window,'GeoPostal','GB');

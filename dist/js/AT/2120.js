@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2120"]={"code":"2120","region":"Niederosterreich","city":"Wolkersdorf","latitude":48.38333,"longitude":16.51667}}(window,'GeoPostal','AT');

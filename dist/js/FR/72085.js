@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72085"]={"code":"72085","region":"Pays-de-la-Loire","city":"Le Mans","latitude":48,"longitude":0.2}}(window,'GeoPostal','FR');

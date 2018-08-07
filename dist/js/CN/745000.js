@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["745000"]={"code":"745000","region":"Gansu","city":"Qingyang","latitude":35.738152,"longitude":107.632027}}(window,'GeoPostal','CN');

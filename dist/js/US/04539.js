@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04539"]={"code":"04539","region":"ME","city":"Bristol","latitude":43.9519,"longitude":-69.4954}}(window,'GeoPostal','US');

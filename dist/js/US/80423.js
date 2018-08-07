@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80423"]={"code":"80423","region":"CO","city":"Bond","latitude":39.8691,"longitude":-106.6763}}(window,'GeoPostal','US');

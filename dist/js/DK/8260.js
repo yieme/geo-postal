@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8260"]={"code":"8260","region":"Sjelland","city":"Viby","latitude":55.54872,"longitude":12.02391}}(window,'GeoPostal','DK');

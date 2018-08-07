@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71041"]={"code":"71041","region":"Orebro lan","city":"Fellingsbro","latitude":59.43333,"longitude":15.58333}}(window,'GeoPostal','SE');

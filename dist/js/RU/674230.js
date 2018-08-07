@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674230"]={"code":"674230","region":"Zabaykal'skiy kray","city":"Aksha","latitude":50.28139,"longitude":113.28667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD10 0LX"]={"code":"DD10 0LX","region":"Scotland","city":"Gourdon","latitude":56.82979,"longitude":-2.28641}}(window,'GeoPostal','GB');

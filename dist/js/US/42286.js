@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42286"]={"code":"42286","region":"KY","city":"Trenton","latitude":36.7314,"longitude":-87.2611}}(window,'GeoPostal','US');

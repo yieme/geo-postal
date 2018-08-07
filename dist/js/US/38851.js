@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38851"]={"code":"38851","region":"Mississippi","city":"Houston","latitude":33.89845,"longitude":-88.99923}}(window,'GeoPostal','US');

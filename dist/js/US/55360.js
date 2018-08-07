@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55360"]={"code":"55360","region":"MN","city":"Mayer","latitude":44.9022,"longitude":-93.8859}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["010106"]={"code":"010106","region":"Azuay","city":"Cuenca","latitude":-2.88333,"longitude":-78.98333}}(window,'GeoPostal','EC');

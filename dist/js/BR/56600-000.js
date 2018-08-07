@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56600-000"]={"code":"56600-000","region":"Pernambuco","city":"Sertania","latitude":-8.07361,"longitude":-37.26444}}(window,'GeoPostal','BR');

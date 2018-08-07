@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41712"]={"code":"41712","region":"KY","city":"Ary","latitude":37.3638,"longitude":-83.1546}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["185014"]={"code":"185014","region":"Kareliya, Respublika","city":"Petrozavodsk","latitude":61.78491,"longitude":34.34691}}(window,'GeoPostal','RU');

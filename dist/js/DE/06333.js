@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06333"]={"code":"06333","region":"Sachsen-Anhalt","city":"Quenstedt","latitude":51.69607,"longitude":11.4564}}(window,'GeoPostal','DE');

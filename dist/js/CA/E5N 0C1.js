@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5N 0C1"]={"code":"E5N 0C1","region":"New Brunswick","city":"Nauwigewauk","latitude":45.46686,"longitude":-65.89884}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11940"]={"code":"11940","region":"NY","city":"East Moriches","latitude":40.809,"longitude":-72.7538}}(window,'GeoPostal','US');

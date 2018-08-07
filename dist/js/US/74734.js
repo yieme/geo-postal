@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74734"]={"code":"74734","region":"Oklahoma","city":"Eagletown","latitude":34.03417,"longitude":-94.57444}}(window,'GeoPostal','US');

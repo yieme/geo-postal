@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7032"]={"code":"7032","region":"Bizerte","city":"Dawwar Tinjah","latitude":37.16667,"longitude":9.75}}(window,'GeoPostal','TN');

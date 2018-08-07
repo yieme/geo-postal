@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58365"]={"code":"58365","region":"North Dakota","city":"Rocklake","latitude":48.858863,"longitude":-99.131315}}(window,'GeoPostal','US');

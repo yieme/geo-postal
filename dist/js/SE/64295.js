@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64295"]={"code":"64295","region":"Sodermanlands lan","city":"Flen","latitude":59.05834,"longitude":16.58781}}(window,'GeoPostal','SE');

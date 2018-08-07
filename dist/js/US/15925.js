@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15925"]={"code":"15925","region":"PA","city":"Cassandra","latitude":40.4085,"longitude":-78.6407}}(window,'GeoPostal','US');

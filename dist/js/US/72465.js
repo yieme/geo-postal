@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72465"]={"code":"72465","region":"AR","city":"Sedgwick","latitude":35.9643,"longitude":-90.8954}}(window,'GeoPostal','US');

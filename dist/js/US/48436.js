@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48436"]={"code":"48436","region":"MI","city":"Gaines","latitude":42.8813,"longitude":-83.8855}}(window,'GeoPostal','US');

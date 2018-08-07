@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86444"]={"code":"86444","region":"Bayern","city":"Affing","latitude":48.46667,"longitude":10.98333}}(window,'GeoPostal','DE');

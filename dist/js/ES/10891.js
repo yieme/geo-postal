@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10891"]={"code":"10891","region":"Extremadura","city":"Eljas","latitude":40.21648,"longitude":-6.84616}}(window,'GeoPostal','ES');

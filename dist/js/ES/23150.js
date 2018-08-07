@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23150"]={"code":"23150","region":"Andalucia","city":"Valdepenas de Jaen","latitude":37.58903,"longitude":-3.8145}}(window,'GeoPostal','ES');

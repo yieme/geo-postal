@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99691"]={"code":"99691","region":"Alaska","city":"Nikolai","latitude":62.997131,"longitude":-154.388284}}(window,'GeoPostal','US');

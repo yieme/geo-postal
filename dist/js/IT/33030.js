@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33030"]={"code":"33030","region":"Friuli-Venezia Giulia","city":"Coseano","latitude":46.09639,"longitude":13.01917}}(window,'GeoPostal','IT');

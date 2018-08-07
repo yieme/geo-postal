@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26215"]={"code":"26215","region":"West Virginia","city":"Rock Cave","latitude":38.768349,"longitude":-80.302771}}(window,'GeoPostal','US');

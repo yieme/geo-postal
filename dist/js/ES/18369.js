@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18369"]={"code":"18369","region":"Andalucia","city":"Huetor-Tajar","latitude":37.19834,"longitude":-4.04692}}(window,'GeoPostal','ES');

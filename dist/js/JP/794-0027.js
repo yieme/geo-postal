@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["794-0027"]={"code":"794-0027","region":"Ehime","city":"Imabari","latitude":34.067,"longitude":133}}(window,'GeoPostal','JP');

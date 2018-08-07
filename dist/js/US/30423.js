@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30423"]={"code":"30423","region":"GA","city":"Daisy","latitude":32.1519,"longitude":-81.8346}}(window,'GeoPostal','US');

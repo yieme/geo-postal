@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83707"]={"code":"83707","region":"Bayern","city":"Sankt Quirin","latitude":47.72766,"longitude":11.74816}}(window,'GeoPostal','DE');

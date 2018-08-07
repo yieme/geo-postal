@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95901"]={"code":"95901","region":"California","city":"Marysville","latitude":39.2154,"longitude":-121.46334}}(window,'GeoPostal','US');

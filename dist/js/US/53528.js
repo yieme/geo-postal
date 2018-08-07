@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53528"]={"code":"53528","region":"WI","city":"Cross Plains","latitude":43.1132,"longitude":-89.6397}}(window,'GeoPostal','US');

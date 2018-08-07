@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30133"]={"code":"30133","region":"Georgia","city":"Douglasville","latitude":33.7515,"longitude":-84.74771}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3944"]={"code":"3944","region":"Niederosterreich","city":"Schrems","latitude":48.78333,"longitude":15.06667}}(window,'GeoPostal','AT');

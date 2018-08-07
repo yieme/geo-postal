@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA14 8AW"]={"code":"BA14 8AW","region":"England","city":"Trowbridge","latitude":51.31889,"longitude":-2.20861}}(window,'GeoPostal','GB');

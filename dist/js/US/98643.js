@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98643"]={"code":"98643","region":"Washington","city":"Rosburg","latitude":46.315293,"longitude":-123.65714}}(window,'GeoPostal','US');

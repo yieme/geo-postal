@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP12 2AX"]={"code":"IP12 2AX","region":"England","city":"Sudbourne","latitude":52.12284,"longitude":1.52358}}(window,'GeoPostal','GB');

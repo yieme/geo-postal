@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23220"]={"code":"23220","region":"Nouvelle-Aquitaine","city":"Bonnat","latitude":46.33333,"longitude":1.9}}(window,'GeoPostal','FR');

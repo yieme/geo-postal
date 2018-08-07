@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51543"]={"code":"51543","region":"IA","city":"Kimballton","latitude":41.6352,"longitude":-95.0553}}(window,'GeoPostal','US');

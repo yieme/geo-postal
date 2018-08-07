@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70586"]={"code":"70586","region":"Louisiana","city":"Ville Platte","latitude":30.690787,"longitude":-92.281077}}(window,'GeoPostal','US');

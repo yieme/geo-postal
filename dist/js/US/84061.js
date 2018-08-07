@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84061"]={"code":"84061","region":"Utah","city":"Peoa","latitude":40.713306,"longitude":-111.334707}}(window,'GeoPostal','US');

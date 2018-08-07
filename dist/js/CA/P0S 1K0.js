@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0S 1K0"]={"code":"P0S 1K0","region":"Ontario","city":"Wawa","latitude":47.98338,"longitude":-84.78315}}(window,'GeoPostal','CA');

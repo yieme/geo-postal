@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89426"]={"code":"89426","region":"NV","city":"Paradise Valley","latitude":41.5057,"longitude":-117.5728}}(window,'GeoPostal','US');

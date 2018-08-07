@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39029"]={"code":"39029","region":"Trentino-Alto Adige","city":"Stelvio","latitude":46.59801,"longitude":10.54526}}(window,'GeoPostal','IT');

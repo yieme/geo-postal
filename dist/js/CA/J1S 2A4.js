@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J1S 2A4"]={"code":"J1S 2A4","region":"Quebec","city":"Windsor","latitude":45.568691,"longitude":-72.000468}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55495-000"]={"code":"55495-000","region":"Pernambuco","city":"Agrestina","latitude":-8.45806,"longitude":-35.94472}}(window,'GeoPostal','BR');

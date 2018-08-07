@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66528"]={"code":"66528","region":"Kansas","city":"Quenemo","latitude":38.58028,"longitude":-95.52778}}(window,'GeoPostal','US');

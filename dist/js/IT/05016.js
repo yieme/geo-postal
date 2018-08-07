@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05016"]={"code":"05016","region":"Umbria","city":"Ficulle","latitude":42.83364,"longitude":12.06776}}(window,'GeoPostal','IT');

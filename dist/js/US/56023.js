@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56023"]={"code":"56023","region":"MN","city":"Delavan","latitude":43.7719,"longitude":-94.0225}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02145"]={"code":"02145","region":"Massachusetts","city":"Somerville","latitude":42.390432,"longitude":-71.093392}}(window,'GeoPostal','US');

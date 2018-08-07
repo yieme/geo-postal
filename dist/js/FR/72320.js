@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72320"]={"code":"72320","region":"Pays-de-la-Loire","city":"Vibraye","latitude":48.05607,"longitude":0.74171}}(window,'GeoPostal','FR');

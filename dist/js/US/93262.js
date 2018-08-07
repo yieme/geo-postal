@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93262"]={"code":"93262","region":"California","city":"Sequoia National Park","latitude":36.56472,"longitude":-118.77337}}(window,'GeoPostal','US');

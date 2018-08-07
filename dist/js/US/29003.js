@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29003"]={"code":"29003","region":"South Carolina","city":"Bamberg","latitude":33.2971,"longitude":-81.03482}}(window,'GeoPostal','US');

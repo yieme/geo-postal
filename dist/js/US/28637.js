@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28637"]={"code":"28637","region":"NC","city":"Hildebran","latitude":35.718,"longitude":-81.4194}}(window,'GeoPostal','US');

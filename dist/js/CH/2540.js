@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2540"]={"code":"2540","region":"Solothurn","city":"Grenchen","latitude":47.1921,"longitude":7.39586}}(window,'GeoPostal','CH');

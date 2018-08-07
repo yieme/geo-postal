@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-235"]={"code":"23-235","region":"Lubelskie","city":"Annopol","latitude":50.88551,"longitude":21.85678}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54495"]={"code":"54495","region":"Wisconsin","city":"Wisconsin Rapids","latitude":44.40466,"longitude":-89.867371}}(window,'GeoPostal','US');

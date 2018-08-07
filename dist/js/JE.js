@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["JE"]={id:'JE',country:'Jersey', postal:{JE3:{code:'JE3',region:'Jersey',city:'Saint Helier',latitude:49.18333,longitude:-2.1}}};

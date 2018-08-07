@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3751"]={"code":"3751","region":"Niederosterreich","city":"Horn","latitude":48.66274,"longitude":15.65663}}(window,'GeoPostal','AT');

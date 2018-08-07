@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36500-000"]={"code":"36500-000","region":"Minas Gerais","city":"Uba","latitude":-21.12,"longitude":-42.94278}}(window,'GeoPostal','BR');

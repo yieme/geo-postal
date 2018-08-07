@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18056"]={"code":"18056","region":"PA","city":"Hereford","latitude":40.4491,"longitude":-75.5491}}(window,'GeoPostal','US');

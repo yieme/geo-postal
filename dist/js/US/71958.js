@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71958"]={"code":"71958","region":"Arkansas","city":"Murfreesboro","latitude":34.06233,"longitude":-93.6899}}(window,'GeoPostal','US');

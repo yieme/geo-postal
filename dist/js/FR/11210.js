@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11210"]={"code":"11210","region":"Occitanie","city":"Port-la-Nouvelle","latitude":43.01991,"longitude":3.04366}}(window,'GeoPostal','FR');

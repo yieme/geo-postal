@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96-128"]={"code":"96-128","region":"Lodzkie","city":"Jezow","latitude":51.81376,"longitude":19.96877}}(window,'GeoPostal','PL');

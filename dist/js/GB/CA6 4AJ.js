@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA6 4AJ"]={"code":"CA6 4AJ","region":"England","city":"Rockcliffe","latitude":54.93333,"longitude":-2.98333}}(window,'GeoPostal','GB');

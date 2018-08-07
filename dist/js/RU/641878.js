@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641878"]={"code":"641878","region":"Kurganskaya oblast'","city":"Shadrinsk","latitude":56.0852,"longitude":63.6335}}(window,'GeoPostal','RU');

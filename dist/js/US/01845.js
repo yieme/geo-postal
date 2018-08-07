@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01845"]={"code":"01845","region":"Massachusetts","city":"North Andover","latitude":42.685071,"longitude":-71.1071}}(window,'GeoPostal','US');

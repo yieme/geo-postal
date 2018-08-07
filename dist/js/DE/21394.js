@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21394"]={"code":"21394","region":"Niedersachsen","city":"Westergellersen","latitude":53.23333,"longitude":10.25}}(window,'GeoPostal','DE');

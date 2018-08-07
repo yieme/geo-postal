@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36482"]={"code":"36482","region":"AL","city":"Whatley","latitude":31.6395,"longitude":-87.6565}}(window,'GeoPostal','US');

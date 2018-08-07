@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91327"]={"code":"91327","region":"Veracruz de Ignacio de la Llave","city":"Las Vigas","latitude":19.63333,"longitude":-97.08333}}(window,'GeoPostal','MX');

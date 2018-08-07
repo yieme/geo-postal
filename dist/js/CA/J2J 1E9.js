@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J2J 1E9"]={"code":"J2J 1E9","region":"Quebec","city":"Granby","latitude":45.389177,"longitude":-72.775165}}(window,'GeoPostal','CA');

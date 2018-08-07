@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94924"]={"code":"94924","region":"CA","city":"Bolinas","latitude":37.9079,"longitude":-122.6947}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97880"]={"code":"97880","region":"Yucatan","city":"Oxkutzcab","latitude":20.3,"longitude":-89.41667}}(window,'GeoPostal','MX');

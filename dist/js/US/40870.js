@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40870"]={"code":"40870","region":"Kentucky","city":"Totz","latitude":36.969586,"longitude":-83.201308}}(window,'GeoPostal','US');

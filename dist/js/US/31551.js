@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31551"]={"code":"31551","region":"Georgia","city":"Mershon","latitude":31.479195,"longitude":-82.217474}}(window,'GeoPostal','US');

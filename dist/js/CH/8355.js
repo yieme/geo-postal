@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8355"]={"code":"8355","region":"Thurgau","city":"Aadorf","latitude":47.49204,"longitude":8.90099}}(window,'GeoPostal','CH');

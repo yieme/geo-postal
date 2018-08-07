@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68950"]={"code":"68950","region":"NE","city":"Holstein","latitude":40.4542,"longitude":-98.6538}}(window,'GeoPostal','US');

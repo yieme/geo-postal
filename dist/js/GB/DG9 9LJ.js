@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 9LJ"]={"code":"DG9 9LJ","region":"Scotland","city":"Ardwell","latitude":54.77089,"longitude":-4.94059}}(window,'GeoPostal','GB');

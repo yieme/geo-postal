@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26419"]={"code":"26419","region":"Niedersachsen","city":"Schortens","latitude":53.53333,"longitude":7.95}}(window,'GeoPostal','DE');

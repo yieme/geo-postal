@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4172"]={"code":"4172","region":"Queensland","city":"Murarrie","latitude":-27.46289,"longitude":153.09809}}(window,'GeoPostal','AU');

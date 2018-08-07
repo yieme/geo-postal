@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62673"]={"code":"62673","region":"IL","city":"Oakford","latitude":40.0994,"longitude":-89.9601}}(window,'GeoPostal','US');

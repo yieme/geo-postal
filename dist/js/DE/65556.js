@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65556"]={"code":"65556","region":"Hessen","city":"Limburg an der Lahn","latitude":50.3836,"longitude":8.0503}}(window,'GeoPostal','DE');

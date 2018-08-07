@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97426"]={"code":"97426","region":"Reunion","city":"Trois-Bassins","latitude":-21.1,"longitude":55.3}}(window,'GeoPostal','RE');

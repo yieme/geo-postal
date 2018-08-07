@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665932"]={"code":"665932","region":"Irkutskaya oblast'","city":"Baykal'sk","latitude":51.5151,"longitude":104.1402}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41043"]={"code":"41043","region":"Emilia-Romagna","city":"Formigine","latitude":44.57296,"longitude":10.847}}(window,'GeoPostal','IT');

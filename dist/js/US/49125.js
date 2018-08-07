@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49125"]={"code":"49125","region":"Michigan","city":"Sawyer","latitude":41.88639,"longitude":-86.61778}}(window,'GeoPostal','US');

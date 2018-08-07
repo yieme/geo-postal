@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93950"]={"code":"93950","region":"California","city":"Pacific Grove","latitude":36.618387,"longitude":-121.920025}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65048"]={"code":"65048","region":"MO","city":"Koeltztown","latitude":38.3615,"longitude":-92.0468}}(window,'GeoPostal','US');

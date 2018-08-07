@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96528"]={"code":"96528","region":"Avtonomna Respublika Krym","city":"Yevpatoriya","latitude":45.20091,"longitude":33.36655}}(window,'GeoPostal','UA');

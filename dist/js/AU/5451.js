@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5451"]={"code":"5451","region":"South Australia","city":"Auburn","latitude":-34.02691,"longitude":138.68521}}(window,'GeoPostal','AU');

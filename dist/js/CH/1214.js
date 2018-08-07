@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1214"]={"code":"1214","region":"Geneve","city":"Vernier","latitude":46.21702,"longitude":6.08497}}(window,'GeoPostal','CH');

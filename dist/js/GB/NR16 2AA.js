@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR16 2AA"]={"code":"NR16 2AA","region":"England","city":"Banham","latitude":52.4524,"longitude":1.03683}}(window,'GeoPostal','GB');

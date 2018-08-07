@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14068"]={"code":"14068","region":"New York","city":"Getzville","latitude":43.023282,"longitude":-78.752723}}(window,'GeoPostal','US');

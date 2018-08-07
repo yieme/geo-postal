@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R6W 1K7"]={"code":"R6W 1K7","region":"Manitoba","city":"Greenfarm","latitude":49.2072,"longitude":-97.85743}}(window,'GeoPostal','CA');

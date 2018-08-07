@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95626"]={"code":"95626","region":"California","city":"Elverta","latitude":38.71379,"longitude":-121.46273}}(window,'GeoPostal','US');

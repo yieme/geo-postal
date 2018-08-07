@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02000"]={"code":"02000","region":"Hauts-de-France","city":"Urcel","latitude":49.4919,"longitude":3.5589}}(window,'GeoPostal','FR');

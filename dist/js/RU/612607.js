@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612607"]={"code":"612607","region":"Kirovskaya oblast'","city":"Kotel'nich","latitude":58.3089,"longitude":48.348}}(window,'GeoPostal','RU');

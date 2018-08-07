@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85610"]={"code":"85610","region":"AZ","city":"Elfrida","latitude":31.7139,"longitude":-109.6193}}(window,'GeoPostal','US');

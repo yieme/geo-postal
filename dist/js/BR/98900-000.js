@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98900-000"]={"code":"98900-000","region":"Rio Grande do Sul","city":"Santa Rosa","latitude":-27.87083,"longitude":-54.48139}}(window,'GeoPostal','BR');

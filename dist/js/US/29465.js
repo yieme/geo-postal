@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29465"]={"code":"29465","region":"South Carolina","city":"Mount Pleasant","latitude":32.79378,"longitude":-79.8627}}(window,'GeoPostal','US');

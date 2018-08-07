@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68936"]={"code":"68936","region":"NE","city":"Edison","latitude":40.2802,"longitude":-99.786}}(window,'GeoPostal','US');

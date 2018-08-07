@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18916"]={"code":"18916","region":"Pennsylvania","city":"Danboro","latitude":40.360006,"longitude":-75.139132}}(window,'GeoPostal','US');

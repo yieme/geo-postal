@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56738"]={"code":"56738","region":"MN","city":"Newfolden","latitude":48.2895,"longitude":-96.255}}(window,'GeoPostal','US');

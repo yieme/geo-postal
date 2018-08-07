@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61042"]={"code":"61042","region":"Illinois","city":"Harmon","latitude":41.72056,"longitude":-89.55528}}(window,'GeoPostal','US');

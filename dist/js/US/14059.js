@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14059"]={"code":"14059","region":"New York","city":"Elma","latitude":42.831721,"longitude":-78.641949}}(window,'GeoPostal','US');

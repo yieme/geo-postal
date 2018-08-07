@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31796"]={"code":"31796","region":"GA","city":"Warwick","latitude":31.831,"longitude":-83.9188}}(window,'GeoPostal','US');

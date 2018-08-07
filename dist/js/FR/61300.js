@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61300"]={"code":"61300","region":"Normandie","city":"Saint-Sulpice-sur-Risle","latitude":48.78063,"longitude":0.65739}}(window,'GeoPostal','FR');

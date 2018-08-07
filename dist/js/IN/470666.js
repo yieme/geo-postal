@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["470666"]={"code":"470666","region":"Madhya Pradesh","city":"Dhana","latitude":23.75,"longitude":78.85}}(window,'GeoPostal','IN');

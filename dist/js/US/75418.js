@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75418"]={"code":"75418","region":"Texas","city":"Bonham","latitude":33.587039,"longitude":-96.176617}}(window,'GeoPostal','US');

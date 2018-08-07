@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88000-000"]={"code":"88000-000","region":"Santa Catarina","city":"Lagoa","latitude":-27.60491,"longitude":-48.46713}}(window,'GeoPostal','BR');

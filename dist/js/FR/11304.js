@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11304"]={"code":"11304","region":"Occitanie","city":"Limoux","latitude":43.05487,"longitude":2.22173}}(window,'GeoPostal','FR');

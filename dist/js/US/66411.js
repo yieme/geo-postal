@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66411"]={"code":"66411","region":"Kansas","city":"Blue Rapids","latitude":39.68194,"longitude":-96.65974}}(window,'GeoPostal','US');

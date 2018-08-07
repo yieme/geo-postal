@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["CX"]={'':{r:'Christmas Island',c:'Flying Fish Cove'}};

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN17 3AQ"]={"code":"DN17 3AQ","region":"England","city":"East Butterwick","latitude":53.5437,"longitude":-0.737}}(window,'GeoPostal','GB');

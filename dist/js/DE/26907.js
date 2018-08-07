@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26907"]={"code":"26907","region":"Niedersachsen","city":"Walchum","latitude":52.92717,"longitude":7.28325}}(window,'GeoPostal','DE');

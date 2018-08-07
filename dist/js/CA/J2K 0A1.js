@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J2K 0A1"]={"code":"J2K 0A1","region":"Quebec","city":"Cowansville","latitude":45.20008,"longitude":-72.74913}}(window,'GeoPostal','CA');

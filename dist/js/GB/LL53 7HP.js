@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL53 7HP"]={"code":"LL53 7HP","region":"Wales","city":"Abersoch","latitude":52.82437,"longitude":-4.50584}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56-500"]={"code":"56-500","region":"Dolnoslaskie","city":"Sycow","latitude":51.30814,"longitude":17.71979}}(window,'GeoPostal','PL');

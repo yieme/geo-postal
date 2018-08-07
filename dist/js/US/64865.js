@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64865"]={"code":"64865","region":"Missouri","city":"Seneca","latitude":36.83993,"longitude":-94.607764}}(window,'GeoPostal','US');

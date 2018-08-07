@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84177"]={"code":"84177","region":"Bayern","city":"Sossau","latitude":48.64452,"longitude":12.51438}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8717"]={"code":"8717","region":"Sankt Gallen","city":"Benken","latitude":47.19842,"longitude":9.00434}}(window,'GeoPostal','CH');

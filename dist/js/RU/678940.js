@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678940"]={"code":"678940","region":"Saha, Respublika","city":"Nizhniy Kuranakh","latitude":58.83528,"longitude":125.48694}}(window,'GeoPostal','RU');

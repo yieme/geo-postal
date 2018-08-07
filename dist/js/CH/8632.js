@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8632"]={"code":"8632","region":"Zurich","city":"Tann","latitude":47.26898,"longitude":8.85024}}(window,'GeoPostal','CH');

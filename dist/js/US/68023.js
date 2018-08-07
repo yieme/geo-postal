@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68023"]={"code":"68023","region":"Nebraska","city":"Fort Calhoun","latitude":41.45667,"longitude":-96.02472}}(window,'GeoPostal','US');

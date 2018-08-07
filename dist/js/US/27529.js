@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27529"]={"code":"27529","region":"North Carolina","city":"Garner","latitude":35.71126,"longitude":-78.61417}}(window,'GeoPostal','US');

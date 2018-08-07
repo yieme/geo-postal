@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF45 4TA"]={"code":"CF45 4TA","region":"Wales","city":"Abercynon","latitude":51.64548,"longitude":-3.32727}}(window,'GeoPostal','GB');

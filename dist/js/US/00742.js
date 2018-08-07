@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00742"]={"code":"00742","region":"PR","city":"Roosevelt Roads","latitude":18.27,"longitude":-65.65}}(window,'GeoPostal','US');

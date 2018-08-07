@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28443"]={"code":"28443","region":"NC","city":"Hampstead","latitude":34.3879,"longitude":-77.6628}}(window,'GeoPostal','US');

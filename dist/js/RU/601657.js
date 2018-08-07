@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601657"]={"code":"601657","region":"Vladimirskaya oblast'","city":"Aleksandrov","latitude":56.39516,"longitude":38.71216}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29669"]={"code":"29669","region":"SC","city":"Pelzer","latitude":34.6461,"longitude":-82.4673}}(window,'GeoPostal','US');

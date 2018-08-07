@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0M 1P0"]={"code":"J0M 1P0","region":"Quebec","city":"Puvirnituq","latitude":60.03382,"longitude":-77.28242}}(window,'GeoPostal','CA');

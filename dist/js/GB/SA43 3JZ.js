@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA43 3JZ"]={"code":"SA43 3JZ","region":"Wales","city":"Saint Dogmaels","latitude":52.08642,"longitude":-4.68335}}(window,'GeoPostal','GB');

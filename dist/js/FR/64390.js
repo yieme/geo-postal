@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64390"]={"code":"64390","region":"Nouvelle-Aquitaine","city":"Sauveterre-de-Bearn","latitude":43.4,"longitude":-0.93333}}(window,'GeoPostal','FR');

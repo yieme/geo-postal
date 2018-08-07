@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364146"]={"code":"364146","region":"Gujarat","city":"Talaja","latitude":21.35,"longitude":72.05}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97820"]={"code":"97820","region":"OR","city":"Canyon City","latitude":44.3911,"longitude":-118.9465}}(window,'GeoPostal','US');

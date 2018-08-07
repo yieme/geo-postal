@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84730"]={"code":"84730","region":"Utah","city":"Glenwood","latitude":38.764366,"longitude":-111.975073}}(window,'GeoPostal','US');

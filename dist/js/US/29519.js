@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29519"]={"code":"29519","region":"SC","city":"Centenary","latitude":34.027,"longitude":-79.3537}}(window,'GeoPostal','US');

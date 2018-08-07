@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Y 2A0"]={"code":"J0Y 2A0","region":"Quebec","city":"Matagami","latitude":49.75018,"longitude":-77.63277}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["521 00"]={"code":"521 00","region":"Dytiki Makedonia","city":"Kastoria","latitude":40.51667,"longitude":21.26667}}(window,'GeoPostal','GR');

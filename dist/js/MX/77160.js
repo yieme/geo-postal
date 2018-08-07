@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77160"]={"code":"77160","region":"Quintana Roo","city":"Chunhuhub","latitude":19.55,"longitude":-88.68333}}(window,'GeoPostal','MX');

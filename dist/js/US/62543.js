@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62543"]={"code":"62543","region":"IL","city":"Latham","latitude":39.9711,"longitude":-89.1725}}(window,'GeoPostal','US');

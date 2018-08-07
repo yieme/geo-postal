@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3932"]={"code":"3932","region":"Niederosterreich","city":"Zwettl","latitude":48.6043,"longitude":15.1667}}(window,'GeoPostal','AT');

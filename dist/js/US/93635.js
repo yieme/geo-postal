@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93635"]={"code":"93635","region":"California","city":"Los Banos","latitude":37.05828,"longitude":-120.84992}}(window,'GeoPostal','US');

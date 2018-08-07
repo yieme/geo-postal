@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7522"]={"code":"7522","region":"Burgenland","city":"Heiligenbrunn","latitude":47.03333,"longitude":16.41667}}(window,'GeoPostal','AT');

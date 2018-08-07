@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["067 41"]={"code":"067 41","region":"Presovsky kraj","city":"Chlmec","latitude":48.88628,"longitude":21.9393}}(window,'GeoPostal','SK');

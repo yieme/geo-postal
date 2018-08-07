@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45714"]={"code":"45714","region":"Ohio","city":"Belpre","latitude":39.27396,"longitude":-81.5729}}(window,'GeoPostal','US');

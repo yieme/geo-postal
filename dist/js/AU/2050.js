@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2050"]={"code":"2050","region":"Victoria","city":"Werribee","latitude":-37.9,"longitude":144.66667}}(window,'GeoPostal','AU');

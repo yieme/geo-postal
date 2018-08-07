@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62150-000"]={"code":"62150-000","region":"Ceara","city":"Santana do Acarau","latitude":-3.46056,"longitude":-40.21222}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671273"]={"code":"671273","region":"Buryatiya, Respublika","city":"Turka","latitude":52.9492,"longitude":108.2217}}(window,'GeoPostal','RU');

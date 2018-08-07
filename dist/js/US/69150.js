@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69150"]={"code":"69150","region":"NE","city":"Madrid","latitude":40.8544,"longitude":-101.5371}}(window,'GeoPostal','US');

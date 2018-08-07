@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59869"]={"code":"59869","region":"Hauts-de-France","city":"Villeneuve-d'Ascq","latitude":50.61669,"longitude":3.16664}}(window,'GeoPostal','FR');

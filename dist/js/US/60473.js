@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60473"]={"code":"60473","region":"Illinois","city":"South Holland","latitude":41.598345,"longitude":-87.598768}}(window,'GeoPostal','US');

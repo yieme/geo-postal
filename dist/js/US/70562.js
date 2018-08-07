@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70562"]={"code":"70562","region":"LA","city":"New Iberia","latitude":30.0035,"longitude":-91.8187}}(window,'GeoPostal','US');

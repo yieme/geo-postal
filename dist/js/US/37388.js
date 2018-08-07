@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37388"]={"code":"37388","region":"Tennessee","city":"Tullahoma","latitude":35.36202,"longitude":-86.20943}}(window,'GeoPostal','US');

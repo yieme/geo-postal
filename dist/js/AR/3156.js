@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3156"]={"code":"3156","region":"Entre Rios","city":"Hernandez","latitude":-32.3373,"longitude":-60.0216}}(window,'GeoPostal','AR');

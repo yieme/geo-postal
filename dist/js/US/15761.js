@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15761"]={"code":"15761","region":"PA","city":"Mentcle","latitude":40.6373,"longitude":-78.8823}}(window,'GeoPostal','US');

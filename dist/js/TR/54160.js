@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54160"]={"code":"54160","region":"Denizli","city":"Honaz","latitude":37.7573,"longitude":29.26996}}(window,'GeoPostal','TR');

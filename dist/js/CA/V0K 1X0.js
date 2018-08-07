@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 1X0"]={"code":"V0K 1X0","region":"British Columbia","city":"Roe Lake","latitude":51.51653,"longitude":-120.83589}}(window,'GeoPostal','CA');

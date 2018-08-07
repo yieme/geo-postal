@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE32 2NA"]={"code":"PE32 2NA","region":"England","city":"Beeston","latitude":52.7,"longitude":0.81667}}(window,'GeoPostal','GB');

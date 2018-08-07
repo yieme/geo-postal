@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29437"]={"code":"29437","region":"SC","city":"Dorchester","latitude":33.1247,"longitude":-80.4034}}(window,'GeoPostal','US');

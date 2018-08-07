@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32210"]={"code":"32210","region":"Gedaref","city":"Gedaref","latitude":14.03333,"longitude":35.4}}(window,'GeoPostal','SD');

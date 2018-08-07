@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35087"]={"code":"35087","region":"AL","city":"Joppa","latitude":34.2837,"longitude":-86.5519}}(window,'GeoPostal','US');

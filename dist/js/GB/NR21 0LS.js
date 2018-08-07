@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR21 0LS"]={"code":"NR21 0LS","region":"England","city":"Little Ryburgh","latitude":52.81667,"longitude":0.91667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36346"]={"code":"36346","region":"AL","city":"Jack","latitude":31.5652,"longitude":-85.971}}(window,'GeoPostal','US');

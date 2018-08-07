@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47162"]={"code":"47162","region":"IN","city":"New Washington","latitude":38.5575,"longitude":-85.4599}}(window,'GeoPostal','US');

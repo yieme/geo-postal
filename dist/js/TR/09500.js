@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09500"]={"code":"09500","region":"Aydin","city":"Bozdogan","latitude":37.67134,"longitude":28.31395}}(window,'GeoPostal','TR');

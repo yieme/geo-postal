@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35340"]={"code":"35340","region":"Bretagne","city":"La Bouexiere","latitude":48.18333,"longitude":-1.43333}}(window,'GeoPostal','FR');

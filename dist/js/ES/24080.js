@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24080"]={"code":"24080","region":"Castilla y Leon","city":"Leon","latitude":42.6,"longitude":-5.56667}}(window,'GeoPostal','ES');

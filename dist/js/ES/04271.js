@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04271"]={"code":"04271","region":"Andalucia","city":"Lubrin","latitude":37.21538,"longitude":-2.06678}}(window,'GeoPostal','ES');

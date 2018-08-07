@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45114"]={"code":"45114","region":"OH","city":"Cuba","latitude":39.3568,"longitude":-83.8572}}(window,'GeoPostal','US');

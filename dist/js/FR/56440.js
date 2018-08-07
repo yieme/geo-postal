@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56440"]={"code":"56440","region":"Bretagne","city":"Languidic","latitude":47.83266,"longitude":-3.15821}}(window,'GeoPostal','FR');

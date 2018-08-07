@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17518"]={"code":"17518","region":"PA","city":"Drumore","latitude":39.8183,"longitude":-76.2499}}(window,'GeoPostal','US');

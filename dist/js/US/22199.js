@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22199"]={"code":"22199","region":"VA","city":"Lorton","latitude":38.7043,"longitude":-77.2278}}(window,'GeoPostal','US');

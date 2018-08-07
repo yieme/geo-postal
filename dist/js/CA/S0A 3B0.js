@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 3B0"]={"code":"S0A 3B0","region":"Saskatchewan","city":"Preeceville","latitude":51.94998,"longitude":-102.66766}}(window,'GeoPostal','CA');

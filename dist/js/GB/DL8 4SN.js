@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 4SN"]={"code":"DL8 4SN","region":"England","city":"East Witton","latitude":54.26937,"longitude":-1.77929}}(window,'GeoPostal','GB');

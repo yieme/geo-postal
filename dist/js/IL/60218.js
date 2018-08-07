@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60218"]={"code":"60218","region":"Tel Aviv","city":"Or Yehuda","latitude":32.03111,"longitude":34.84583}}(window,'GeoPostal','IL');

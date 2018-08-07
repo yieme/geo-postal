@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25060"]={"code":"25060","region":"WV","city":"Dorothy","latitude":37.9622,"longitude":-81.4968}}(window,'GeoPostal','US');

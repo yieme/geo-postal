@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-424"]={"code":"83-424","region":"Pomorskie","city":"Lipusz","latitude":54.09806,"longitude":17.78455}}(window,'GeoPostal','PL');

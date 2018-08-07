@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457030"]={"code":"457030","region":"Salaj","city":"Banisor","latitude":47.11667,"longitude":22.85}}(window,'GeoPostal','RO');

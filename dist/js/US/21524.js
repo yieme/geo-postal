@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21524"]={"code":"21524","region":"Maryland","city":"La Vale","latitude":39.692778,"longitude":-78.793056}}(window,'GeoPostal','US');

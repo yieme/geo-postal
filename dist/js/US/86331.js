@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86331"]={"code":"86331","region":"AZ","city":"Jerome","latitude":34.7486,"longitude":-112.1086}}(window,'GeoPostal','US');

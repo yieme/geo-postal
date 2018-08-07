@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94320"]={"code":"94320","region":"Veracruz de Ignacio de la Llave","city":"San Rafael","latitude":20.2,"longitude":-96.85}}(window,'GeoPostal','MX');

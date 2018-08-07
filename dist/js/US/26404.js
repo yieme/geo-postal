@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26404"]={"code":"26404","region":"WV","city":"Meadowbrook","latitude":39.3518,"longitude":-80.3187}}(window,'GeoPostal','US');

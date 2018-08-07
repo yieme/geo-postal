@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60042"]={"code":"60042","region":"Illinois","city":"Island Lake","latitude":42.278875,"longitude":-88.209898}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH22 1QT"]={"code":"PH22 1QT","region":"Scotland","city":"Inverdruie","latitude":57.16667,"longitude":-3.8}}(window,'GeoPostal','GB');

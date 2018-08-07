@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26761"]={"code":"26761","region":"Auvergne-Rhone-Alpes","city":"Beaumont-les-Valence","latitude":44.86328,"longitude":4.9457}}(window,'GeoPostal','FR');

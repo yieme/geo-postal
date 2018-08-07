@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77660"]={"code":"77660","region":"Texas","city":"Spurger","latitude":30.724018,"longitude":-94.172242}}(window,'GeoPostal','US');

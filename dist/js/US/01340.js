@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01340"]={"code":"01340","region":"MA","city":"Colrain","latitude":42.679,"longitude":-72.7265}}(window,'GeoPostal','US');

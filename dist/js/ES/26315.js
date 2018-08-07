@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26315"]={"code":"26315","region":"Navarra, Comunidad Foral de","city":"Caparroso","latitude":42.34129,"longitude":-1.64962}}(window,'GeoPostal','ES');

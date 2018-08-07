@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50110"]={"code":"50110","region":"Chiang Mai","city":"Fang","latitude":19.91689,"longitude":99.2145}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55786"]={"code":"55786","region":"MN","city":"Taconite","latitude":47.3164,"longitude":-93.3904}}(window,'GeoPostal','US');

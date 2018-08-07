@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93413"]={"code":"93413","region":"Bayern","city":"Janahof","latitude":49.20512,"longitude":12.66836}}(window,'GeoPostal','DE');

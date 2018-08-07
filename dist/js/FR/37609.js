@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37609"]={"code":"37609","region":"Centre-Val de Loire","city":"Loches","latitude":47.13333,"longitude":1}}(window,'GeoPostal','FR');

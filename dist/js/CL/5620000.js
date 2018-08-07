@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5620000"]={"code":"5620000","region":"Los Lagos","city":"Frutillar","latitude":-41.12676,"longitude":-73.04372}}(window,'GeoPostal','CL');

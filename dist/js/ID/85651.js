@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85651"]={"code":"85651","region":"Nusa Tenggara Timur","city":"Kefamenanu","latitude":-9.44667,"longitude":124.47806}}(window,'GeoPostal','ID');

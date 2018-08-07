@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35080"]={"code":"35080","region":"Alabama","city":"Helena","latitude":33.306327,"longitude":-86.816454}}(window,'GeoPostal','US');

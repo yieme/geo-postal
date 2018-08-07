@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1510"]={"code":"1510","region":"Vaud","city":"Moudon","latitude":46.66948,"longitude":6.80127}}(window,'GeoPostal','CH');

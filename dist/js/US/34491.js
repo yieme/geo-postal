@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34491"]={"code":"34491","region":"FL","city":"Summerfield","latitude":29.0112,"longitude":-82.0325}}(window,'GeoPostal','US');

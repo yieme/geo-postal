@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93701"]={"code":"93701","region":"California","city":"Fresno","latitude":36.749782,"longitude":-119.787972}}(window,'GeoPostal','US');

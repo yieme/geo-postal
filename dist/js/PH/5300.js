@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5300"]={"code":"5300","region":"Palawan","city":"Puerto Princesa","latitude":9.73917,"longitude":118.73528}}(window,'GeoPostal','PH');

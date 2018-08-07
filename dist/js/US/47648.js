@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47648"]={"code":"47648","region":"IN","city":"Fort Branch","latitude":38.2471,"longitude":-87.5682}}(window,'GeoPostal','US');

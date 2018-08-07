@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08754"]={"code":"08754","region":"New Jersey","city":"Toms River","latitude":39.98115,"longitude":-74.15788}}(window,'GeoPostal','US');

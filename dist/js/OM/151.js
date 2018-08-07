@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["151"]={"code":"151","region":"Masqat","city":"Muscat","latitude":23.61333,"longitude":58.59333}}(window,'GeoPostal','OM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606408"]={"code":"606408","region":"Nizhegorodskaya oblast'","city":"Balakhna","latitude":56.49056,"longitude":43.59194}}(window,'GeoPostal','RU');

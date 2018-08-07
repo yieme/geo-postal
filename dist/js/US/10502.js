@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10502"]={"code":"10502","region":"New York","city":"Ardsley","latitude":41.01611,"longitude":-73.841977}}(window,'GeoPostal','US');

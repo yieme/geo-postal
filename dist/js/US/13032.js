@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13032"]={"code":"13032","region":"New York","city":"Canastota","latitude":43.07951,"longitude":-75.75074}}(window,'GeoPostal','US');

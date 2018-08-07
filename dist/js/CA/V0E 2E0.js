@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 2E0"]={"code":"V0E 2E0","region":"British Columbia","city":"Blucher Hall","latitude":51.0998,"longitude":-120.01918}}(window,'GeoPostal','CA');

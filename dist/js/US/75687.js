@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75687"]={"code":"75687","region":"TX","city":"Price","latitude":32.1518,"longitude":-94.9554}}(window,'GeoPostal','US');

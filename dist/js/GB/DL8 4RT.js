@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 4RT"]={"code":"DL8 4RT","region":"England","city":"West Scrafton","latitude":54.24821,"longitude":-1.88901}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97353"]={"code":"97353","region":"Bayern","city":"Wiesentheid","latitude":49.79451,"longitude":10.34509}}(window,'GeoPostal','DE');

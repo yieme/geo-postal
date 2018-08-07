@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53170"]={"code":"53170","region":"Wisconsin","city":"Silver Lake","latitude":44.05526,"longitude":-89.22623}}(window,'GeoPostal','US');

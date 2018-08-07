@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88028"]={"code":"88028","region":"New Mexico","city":"Cliff","latitude":32.96194,"longitude":-108.61111}}(window,'GeoPostal','US');

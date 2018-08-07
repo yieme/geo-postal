@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25653"]={"code":"25653","region":"WV","city":"Wilkinson","latitude":37.8279,"longitude":-81.9976}}(window,'GeoPostal','US');

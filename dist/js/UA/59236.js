@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59236"]={"code":"59236","region":"Chernivetska oblast","city":"Myhove","latitude":48.15749,"longitude":25.37904}}(window,'GeoPostal','UA');

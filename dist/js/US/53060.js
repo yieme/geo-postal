@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53060"]={"code":"53060","region":"WI","city":"Newburg","latitude":43.4338,"longitude":-88.0623}}(window,'GeoPostal','US');

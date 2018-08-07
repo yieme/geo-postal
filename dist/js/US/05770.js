@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05770"]={"code":"05770","region":"Vermont","city":"Shoreham","latitude":43.880662,"longitude":-73.305969}}(window,'GeoPostal','US');

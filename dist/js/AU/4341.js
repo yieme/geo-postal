@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4341"]={"code":"4341","region":"Queensland","city":"Mulgowie","latitude":-27.73333,"longitude":152.36667}}(window,'GeoPostal','AU');

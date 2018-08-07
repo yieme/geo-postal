@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["334022"]={"code":"334022","region":"Rajasthan","city":"Bikaner","latitude":28.01667,"longitude":73.3}}(window,'GeoPostal','IN');

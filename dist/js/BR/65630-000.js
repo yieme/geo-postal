@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65630-000"]={"code":"65630-000","region":"Piaui","city":"Teresina","latitude":-5.08917,"longitude":-42.80194}}(window,'GeoPostal','BR');

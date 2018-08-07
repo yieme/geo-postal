@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24357"]={"code":"24357","region":"Campeche","city":"Escarcega","latitude":18.60891,"longitude":-90.74544}}(window,'GeoPostal','MX');

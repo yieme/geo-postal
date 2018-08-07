@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 1AU"]={"code":"SA3 1AU","region":"Wales","city":"Llanddewi","latitude":51.57841,"longitude":-4.21898}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62259"]={"code":"62259","region":"IL","city":"Menard","latitude":37.9101,"longitude":-89.8398}}(window,'GeoPostal','US');

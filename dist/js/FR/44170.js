@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44170"]={"code":"44170","region":"Pays-de-la-Loire","city":"Vay","latitude":47.55466,"longitude":-1.70095}}(window,'GeoPostal','FR');

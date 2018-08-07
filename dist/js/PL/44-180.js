@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-180"]={"code":"44-180","region":"Slaskie","city":"Toszek","latitude":50.45442,"longitude":18.52209}}(window,'GeoPostal','PL');

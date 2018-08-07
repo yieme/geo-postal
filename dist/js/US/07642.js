@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07642"]={"code":"07642","region":"NJ","city":"Hillsdale","latitude":41.0069,"longitude":-74.0426}}(window,'GeoPostal','US');

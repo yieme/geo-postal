@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81047"]={"code":"81047","region":"CO","city":"Holly","latitude":38.0205,"longitude":-102.1415}}(window,'GeoPostal','US');

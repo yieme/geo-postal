@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60513"]={"code":"60513","region":"Illinois","city":"Brookfield","latitude":41.82392,"longitude":-87.85173}}(window,'GeoPostal','US');

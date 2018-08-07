@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["605502"]={"code":"605502","region":"Puducherry","city":"Ozhukarai","latitude":11.94888,"longitude":79.712141}}(window,'GeoPostal','IN');

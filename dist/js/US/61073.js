@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61073"]={"code":"61073","region":"Illinois","city":"Roscoe","latitude":42.41335,"longitude":-89.00927}}(window,'GeoPostal','US');

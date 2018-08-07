@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02188"]={"code":"02188","region":"Massachusetts","city":"Weymouth","latitude":42.22093,"longitude":-70.93977}}(window,'GeoPostal','US');

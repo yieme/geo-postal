@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0831"]={"code":"0831","region":"Northern Territory","city":"Belyuen","latitude":-12.53814,"longitude":130.69824}}(window,'GeoPostal','AU');

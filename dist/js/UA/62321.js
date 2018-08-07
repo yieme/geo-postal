@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62321"]={"code":"62321","region":"Kharkivska oblast","city":"Slatino","latitude":50.21041,"longitude":36.15376}}(window,'GeoPostal','UA');

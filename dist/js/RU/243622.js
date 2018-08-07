@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243622"]={"code":"243622","region":"Bryanskaya oblast'","city":"Vyshkov","latitude":52.4764,"longitude":31.6873}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04014"]={"code":"04014","region":"Lazio","city":"Pontinia","latitude":41.41091,"longitude":13.0441}}(window,'GeoPostal','IT');

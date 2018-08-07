@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7141"]={"code":"7141","region":"Burgenland","city":"Podersdorf am See","latitude":47.85412,"longitude":16.83706}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76891"]={"code":"76891","region":"Rheinland-Pfalz","city":"Bruchweiler-Barenbach","latitude":49.11667,"longitude":7.8}}(window,'GeoPostal','DE');

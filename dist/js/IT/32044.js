@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32044"]={"code":"32044","region":"Veneto","city":"Pieve di Cadore","latitude":46.43306,"longitude":12.38361}}(window,'GeoPostal','IT');

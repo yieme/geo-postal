@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3460"]={"code":"3460","region":"Hovedstaden","city":"Birkerod","latitude":55.84759,"longitude":12.42791}}(window,'GeoPostal','DK');

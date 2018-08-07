@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20232"]={"code":"20232","region":"Dubrovacko-neretvanska zupanija","city":"Podgora","latitude":42.84861,"longitude":17.83639}}(window,'GeoPostal','HR');

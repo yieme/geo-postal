@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59330"]={"code":"59330","region":"Montana","city":"Glendive","latitude":47.10529,"longitude":-104.71246}}(window,'GeoPostal','US');

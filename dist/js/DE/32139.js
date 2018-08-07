@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32139"]={"code":"32139","region":"Niedersachsen","city":"Westhoyel","latitude":52.17095,"longitude":8.4531}}(window,'GeoPostal','DE');

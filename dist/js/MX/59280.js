@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59280"]={"code":"59280","region":"Michoacan de Ocampo","city":"Ixtlan","latitude":20.18333,"longitude":-102.4}}(window,'GeoPostal','MX');

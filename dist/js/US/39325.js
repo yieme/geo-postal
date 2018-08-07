@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39325"]={"code":"39325","region":"MS","city":"Collinsville","latitude":32.5643,"longitude":-88.875}}(window,'GeoPostal','US');

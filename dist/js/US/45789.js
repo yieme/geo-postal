@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45789"]={"code":"45789","region":"Ohio","city":"Wingett Run","latitude":39.582879,"longitude":-81.24034}}(window,'GeoPostal','US');

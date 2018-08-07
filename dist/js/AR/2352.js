@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2352"]={"code":"2352","region":"Santa Fe","city":"Hersilia","latitude":-30.00447,"longitude":-61.8408}}(window,'GeoPostal','AR');

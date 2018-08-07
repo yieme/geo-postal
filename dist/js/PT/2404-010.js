@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2404-010"]={"code":"2404-010","region":"Leiria","city":"Nazare","latitude":39.60289,"longitude":-9.06836}}(window,'GeoPostal','PT');

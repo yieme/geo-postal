@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15466"]={"code":"15466","region":"PA","city":"Newell","latitude":40.0751,"longitude":-79.8943}}(window,'GeoPostal','US');

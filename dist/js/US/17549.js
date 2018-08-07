@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17549"]={"code":"17549","region":"PA","city":"Martindale","latitude":40.1545,"longitude":-76.0876}}(window,'GeoPostal','US');

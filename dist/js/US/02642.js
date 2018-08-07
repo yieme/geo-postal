@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02642"]={"code":"02642","region":"MA","city":"Eastham","latitude":41.8408,"longitude":-69.9849}}(window,'GeoPostal','US');

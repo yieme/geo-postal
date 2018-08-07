@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX23 0EW"]={"code":"EX23 0EW","region":"England","city":"Marhamchurch","latitude":50.80513,"longitude":-4.52241}}(window,'GeoPostal','GB');

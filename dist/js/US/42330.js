@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42330"]={"code":"42330","region":"Kentucky","city":"Central City","latitude":37.293488,"longitude":-87.126964}}(window,'GeoPostal','US');

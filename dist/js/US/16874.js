@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16874"]={"code":"16874","region":"PA","city":"Snow Shoe","latitude":41.0376,"longitude":-77.9523}}(window,'GeoPostal','US');

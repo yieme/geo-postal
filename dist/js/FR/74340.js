@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74340"]={"code":"74340","region":"Auvergne-Rhone-Alpes","city":"Samoens","latitude":46.08282,"longitude":6.72647}}(window,'GeoPostal','FR');

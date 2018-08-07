@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE11 9NE"]={"code":"NE11 9NE","region":"England","city":"Darlington","latitude":54.52429,"longitude":-1.55039}}(window,'GeoPostal','GB');

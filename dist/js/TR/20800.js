@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20800"]={"code":"20800","region":"Kirsehir","city":"Mucur","latitude":39.06147,"longitude":34.38286}}(window,'GeoPostal','TR');

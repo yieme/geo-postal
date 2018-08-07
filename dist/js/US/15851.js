@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15851"]={"code":"15851","region":"Pennsylvania","city":"Reynoldsville","latitude":41.094967,"longitude":-78.88727}}(window,'GeoPostal','US');

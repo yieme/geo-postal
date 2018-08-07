@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311406"]={"code":"311406","region":"Zhejiang","city":"Wanshi","latitude":30.09774,"longitude":119.56893}}(window,'GeoPostal','CN');

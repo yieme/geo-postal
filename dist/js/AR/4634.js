@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4634"]={"code":"4634","region":"Jujuy","city":"El Aguilar","latitude":-23.22582,"longitude":-65.69213}}(window,'GeoPostal','AR');

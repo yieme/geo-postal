@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207305"]={"code":"207305","region":"Dolj","city":"Goicea","latitude":43.91667,"longitude":23.61667}}(window,'GeoPostal','RO');

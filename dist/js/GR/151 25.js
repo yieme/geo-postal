@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["151 25"]={"code":"151 25","region":"Attiki","city":"Marousi","latitude":38.05404,"longitude":23.806}}(window,'GeoPostal','GR');

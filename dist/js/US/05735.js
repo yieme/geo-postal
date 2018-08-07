@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05735"]={"code":"05735","region":"VT","city":"Castleton","latitude":43.6223,"longitude":-73.1708}}(window,'GeoPostal','US');

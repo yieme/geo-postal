@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR12 0UP"]={"code":"NR12 0UP","region":"England","city":"Sea Palling","latitude":52.78558,"longitude":1.601}}(window,'GeoPostal','GB');

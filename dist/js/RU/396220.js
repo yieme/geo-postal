@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396220"]={"code":"396220","region":"Voronezhskaya oblast'","city":"Sadovoye","latitude":51.53111,"longitude":40.50194}}(window,'GeoPostal','RU');

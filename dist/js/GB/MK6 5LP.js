@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK6 5LP"]={"code":"MK6 5LP","region":"England","city":"Milton Keynes","latitude":52.04172,"longitude":-0.75583}}(window,'GeoPostal','GB');

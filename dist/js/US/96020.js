@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96020"]={"code":"96020","region":"California","city":"Chester","latitude":40.30627,"longitude":-121.23191}}(window,'GeoPostal','US');

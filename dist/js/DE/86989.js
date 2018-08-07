@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86989"]={"code":"86989","region":"Bayern","city":"Sandgraben","latitude":47.69717,"longitude":10.85298}}(window,'GeoPostal','DE');

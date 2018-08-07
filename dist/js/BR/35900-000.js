@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35900-000"]={"code":"35900-000","region":"Minas Gerais","city":"Itabira","latitude":-19.61917,"longitude":-43.22694}}(window,'GeoPostal','BR');

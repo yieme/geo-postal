@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA19 5UR"]={"code":"LA19 5UR","region":"England","city":"Whitbeck","latitude":54.24346,"longitude":-3.35308}}(window,'GeoPostal','GB');

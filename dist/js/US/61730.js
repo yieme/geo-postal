@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61730"]={"code":"61730","region":"IL","city":"Cooksville","latitude":40.536,"longitude":-88.735}}(window,'GeoPostal','US');

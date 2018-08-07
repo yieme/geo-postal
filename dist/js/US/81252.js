@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81252"]={"code":"81252","region":"Colorado","city":"Westcliffe","latitude":38.13472,"longitude":-105.46584}}(window,'GeoPostal','US');

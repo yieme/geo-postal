@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32438"]={"code":"32438","region":"FL","city":"Fountain","latitude":30.4753,"longitude":-85.4293}}(window,'GeoPostal','US');

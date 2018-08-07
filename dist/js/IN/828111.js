@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["828111"]={"code":"828111","region":"Jharkhand","city":"Jharia","latitude":23.75,"longitude":86.4}}(window,'GeoPostal','IN');

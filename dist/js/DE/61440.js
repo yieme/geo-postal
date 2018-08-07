@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61440"]={"code":"61440","region":"Hessen","city":"Oberursel","latitude":50.20731,"longitude":8.57747}}(window,'GeoPostal','DE');

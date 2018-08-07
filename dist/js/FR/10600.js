@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10600"]={"code":"10600","region":"Grand-Est","city":"Payns","latitude":48.38255,"longitude":3.97755}}(window,'GeoPostal','FR');

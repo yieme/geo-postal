@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11365"]={"code":"11365","region":"New York","city":"Fresh Meadows","latitude":40.733453,"longitude":-73.780081}}(window,'GeoPostal','US');

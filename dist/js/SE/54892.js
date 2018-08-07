@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54892"]={"code":"54892","region":"Vastra Gotalands lan","city":"Hova","latitude":58.86667,"longitude":14.18333}}(window,'GeoPostal','SE');

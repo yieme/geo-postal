@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652644"]={"code":"652644","region":"Kemerovskaya oblast'","city":"Inskoy","latitude":54.4297,"longitude":86.44}}(window,'GeoPostal','RU');

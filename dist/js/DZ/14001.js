@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14001"]={"code":"14001","region":"Tiaret","city":"Frenda","latitude":35.06544,"longitude":1.04945}}(window,'GeoPostal','DZ');

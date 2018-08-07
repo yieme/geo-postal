@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93120"]={"code":"93120","region":"Phatthalung","city":"Pak Phayun","latitude":7.3489,"longitude":100.32012}}(window,'GeoPostal','TH');

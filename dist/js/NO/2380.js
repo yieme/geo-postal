@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2380"]={"code":"2380","region":"Hedmark","city":"Brumunddal","latitude":60.88095,"longitude":10.93948}}(window,'GeoPostal','NO');

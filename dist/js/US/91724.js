@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91724"]={"code":"91724","region":"California","city":"Covina","latitude":34.089819,"longitude":-117.856778}}(window,'GeoPostal','US');

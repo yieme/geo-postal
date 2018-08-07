@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02543"]={"code":"02543","region":"Massachusetts","city":"Woods Hole","latitude":41.52702,"longitude":-70.66698}}(window,'GeoPostal','US');

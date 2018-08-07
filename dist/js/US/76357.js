@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76357"]={"code":"76357","region":"TX","city":"Byers","latitude":34.0728,"longitude":-98.1839}}(window,'GeoPostal','US');

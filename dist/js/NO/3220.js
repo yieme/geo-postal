@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3220"]={"code":"3220","region":"Vestfold","city":"Sandefjord","latitude":59.13118,"longitude":10.21665}}(window,'GeoPostal','NO');

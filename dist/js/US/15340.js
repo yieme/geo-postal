@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15340"]={"code":"15340","region":"Pennsylvania","city":"Hickory","latitude":40.333,"longitude":-80.2997}}(window,'GeoPostal','US');

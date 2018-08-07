@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE67 2TN"]={"code":"LE67 2TN","region":"England","city":"Normanton le Heath","latitude":52.71056,"longitude":-1.44376}}(window,'GeoPostal','GB');

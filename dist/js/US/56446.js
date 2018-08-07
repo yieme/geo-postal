@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56446"]={"code":"56446","region":"Minnesota","city":"Eagle Bend","latitude":46.160917,"longitude":-95.028358}}(window,'GeoPostal','US');

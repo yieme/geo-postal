@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79562"]={"code":"79562","region":"TX","city":"Tuscola","latitude":32.235,"longitude":-99.8244}}(window,'GeoPostal','US');

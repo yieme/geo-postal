@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623706"]={"code":"623706","region":"Sverdlovskaya oblast'","city":"Berezovskiy","latitude":56.9083,"longitude":60.8019}}(window,'GeoPostal','RU');

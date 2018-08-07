@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20024"]={"code":"20024","region":"Lombardia","city":"Garbagnate Milanese","latitude":45.57647,"longitude":9.07174}}(window,'GeoPostal','IT');

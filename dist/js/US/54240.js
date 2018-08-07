@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54240"]={"code":"54240","region":"WI","city":"Tisch Mills","latitude":44.3272,"longitude":-87.6237}}(window,'GeoPostal','US');

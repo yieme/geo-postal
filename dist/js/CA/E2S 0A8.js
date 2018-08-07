@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E2S 0A8"]={"code":"E2S 0A8","region":"New Brunswick","city":"Baxters Corner","latitude":45.38346,"longitude":-65.81553}}(window,'GeoPostal','CA');

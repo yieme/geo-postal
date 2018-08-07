@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83548"]={"code":"83548","region":"ID","city":"Reubens","latitude":46.3361,"longitude":-116.5333}}(window,'GeoPostal','US');

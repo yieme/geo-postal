@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04435"]={"code":"04435","region":"ME","city":"Exeter","latitude":44.9679,"longitude":-69.1079}}(window,'GeoPostal','US');

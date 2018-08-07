@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3791"]={"code":"3791","region":"Vidin","city":"Bregovo","latitude":44.15167,"longitude":22.6425}}(window,'GeoPostal','BG');

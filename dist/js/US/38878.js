@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38878"]={"code":"38878","region":"Mississippi","city":"Vardaman","latitude":33.87567,"longitude":-89.17729}}(window,'GeoPostal','US');

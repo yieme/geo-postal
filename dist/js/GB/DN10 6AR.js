@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN10 6AR"]={"code":"DN10 6AR","region":"England","city":"Scrooby","latitude":53.40978,"longitude":-1.02232}}(window,'GeoPostal','GB');

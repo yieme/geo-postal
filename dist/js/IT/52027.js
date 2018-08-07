@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52027"]={"code":"52027","region":"Toscana","city":"San Giovanni Valdarno","latitude":43.56667,"longitude":11.53333}}(window,'GeoPostal','IT');

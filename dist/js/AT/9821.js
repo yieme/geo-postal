@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9821"]={"code":"9821","region":"Karnten","city":"Obervellach","latitude":46.93667,"longitude":13.20417}}(window,'GeoPostal','AT');

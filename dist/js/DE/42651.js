@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42651"]={"code":"42651","region":"Nordrhein-Westfalen","city":"Solingen","latitude":51.17343,"longitude":7.0845}}(window,'GeoPostal','DE');

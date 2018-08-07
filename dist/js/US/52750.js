@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52750"]={"code":"52750","region":"IA","city":"Goose Lake","latitude":41.9799,"longitude":-90.3819}}(window,'GeoPostal','US');

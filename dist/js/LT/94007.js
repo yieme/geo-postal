@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94007"]={"code":"94007","region":"Klaipedos apskritis","city":"Klaipeda","latitude":55.71722,"longitude":21.1175}}(window,'GeoPostal','LT');

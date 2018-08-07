@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75910"]={"code":"75910","region":"Puebla","city":"Ajalpan","latitude":18.36667,"longitude":-97.25}}(window,'GeoPostal','MX');

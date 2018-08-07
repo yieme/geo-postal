@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8H 0A1"]={"code":"G8H 0A1","region":"Quebec","city":"Roberval","latitude":48.5168,"longitude":-72.23244}}(window,'GeoPostal','CA');

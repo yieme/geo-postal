@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35222"]={"code":"35222","region":"Kosovsko-Mitrovacki okrug","city":"Glogovac","latitude":44.03972,"longitude":21.31639}}(window,'GeoPostal','RS');

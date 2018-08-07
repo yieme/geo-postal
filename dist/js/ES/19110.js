@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19110"]={"code":"19110","region":"Castilla-La Mancha","city":"Mondejar","latitude":40.32096,"longitude":-3.10686}}(window,'GeoPostal','ES');

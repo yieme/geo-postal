@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43111"]={"code":"43111","region":"OH","city":"Carbon Hill","latitude":39.5045,"longitude":-82.2429}}(window,'GeoPostal','US');

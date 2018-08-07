@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58237"]={"code":"58237","region":"North Dakota","city":"Grafton","latitude":48.41221,"longitude":-97.41063}}(window,'GeoPostal','US');

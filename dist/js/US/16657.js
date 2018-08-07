@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16657"]={"code":"16657","region":"PA","city":"James Creek","latitude":40.3567,"longitude":-78.1887}}(window,'GeoPostal','US');

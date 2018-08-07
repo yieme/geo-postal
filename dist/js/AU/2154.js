@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2154"]={"code":"2154","region":"New South Wales","city":"Castle Hill","latitude":-33.73333,"longitude":151}}(window,'GeoPostal','AU');

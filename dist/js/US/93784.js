@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93784"]={"code":"93784","region":"CA","city":"Liberty Mutual","latitude":36.82,"longitude":-119.76}}(window,'GeoPostal','US');

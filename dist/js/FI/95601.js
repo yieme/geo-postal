@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95601"]={"code":"95601","region":"Lappi","city":"Ylitornio","latitude":66.30893,"longitude":23.67734}}(window,'GeoPostal','FI');

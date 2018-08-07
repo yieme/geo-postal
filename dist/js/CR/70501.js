@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70501"]={"code":"70501","region":"Limon","city":"Matina","latitude":10.07609,"longitude":-83.28953}}(window,'GeoPostal','CR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94224"]={"code":"94224","region":"Luhanska oblast","city":"Alchevs'k","latitude":48.46893,"longitude":38.81669}}(window,'GeoPostal','UA');

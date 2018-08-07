@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60476"]={"code":"60476","region":"IL","city":"Thornton","latitude":41.5727,"longitude":-87.6078}}(window,'GeoPostal','US');

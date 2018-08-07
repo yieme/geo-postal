@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42080"]={"code":"42080","region":"Castilla y Leon","city":"Soria","latitude":41.76401,"longitude":-2.46883}}(window,'GeoPostal','ES');

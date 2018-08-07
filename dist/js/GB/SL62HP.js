@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL62HP"]={"code":"SL62HP","region":"England","city":"Maidenhead","latitude":51.52279,"longitude":-0.71986}}(window,'GeoPostal','GB');

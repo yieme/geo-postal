@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66510"]={"code":"66510","region":"Kansas","city":"Melvern","latitude":38.506823,"longitude":-95.637484}}(window,'GeoPostal','US');

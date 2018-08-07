@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B18 6EW"]={"code":"B18 6EW","region":"England","city":"Birmingham","latitude":52.48142,"longitude":-1.89983}}(window,'GeoPostal','GB');

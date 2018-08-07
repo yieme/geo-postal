@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15562"]={"code":"15562","region":"Pennsylvania","city":"Springs","latitude":39.741951,"longitude":-79.094362}}(window,'GeoPostal','US');

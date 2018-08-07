@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88268"]={"code":"88268","region":"NM","city":"Whites City","latitude":32.1757,"longitude":-104.3766}}(window,'GeoPostal','US');

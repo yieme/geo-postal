@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6660"]={"code":"6660","region":"Buenos Aires","city":"Veinticinco de Mayo","latitude":-35.4323,"longitude":-60.17271}}(window,'GeoPostal','AR');

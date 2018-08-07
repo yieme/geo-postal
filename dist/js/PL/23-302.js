@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-302"]={"code":"23-302","region":"Lubelskie","city":"Godziszow Pierwszy","latitude":50.75753,"longitude":22.48386}}(window,'GeoPostal','PL');

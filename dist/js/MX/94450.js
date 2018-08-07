@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94450"]={"code":"94450","region":"Veracruz de Ignacio de la Llave","city":"Cuautlapan","latitude":18.86667,"longitude":-97.03333}}(window,'GeoPostal','MX');

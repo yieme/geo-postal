@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692350"]={"code":"692350","region":"Primorskiy kray","city":"Novosysoyevka","latitude":44.235,"longitude":133.36417}}(window,'GeoPostal','RU');

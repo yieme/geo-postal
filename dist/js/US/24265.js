@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24265"]={"code":"24265","region":"VA","city":"Keokee","latitude":36.8239,"longitude":-82.9772}}(window,'GeoPostal','US');

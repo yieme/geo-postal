@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99556"]={"code":"99556","region":"AK","city":"Anchor Point","latitude":59.8371,"longitude":-151.7078}}(window,'GeoPostal','US');

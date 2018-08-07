@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45341"]={"code":"45341","region":"OH","city":"Medway","latitude":39.8789,"longitude":-84.0218}}(window,'GeoPostal','US');

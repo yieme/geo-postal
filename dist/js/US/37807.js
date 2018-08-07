@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37807"]={"code":"37807","region":"TN","city":"Maynardville","latitude":36.2343,"longitude":-83.8403}}(window,'GeoPostal','US');

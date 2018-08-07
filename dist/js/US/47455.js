@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47455"]={"code":"47455","region":"Indiana","city":"Patricksburg","latitude":39.248831,"longitude":-86.987953}}(window,'GeoPostal','US');

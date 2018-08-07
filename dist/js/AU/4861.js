@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4861"]={"code":"4861","region":"Queensland","city":"Babinda","latitude":-17.3439,"longitude":145.92265}}(window,'GeoPostal','AU');

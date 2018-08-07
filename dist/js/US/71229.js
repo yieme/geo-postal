@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71229"]={"code":"71229","region":"Louisiana","city":"Collinston","latitude":32.686347,"longitude":-91.816929}}(window,'GeoPostal','US');

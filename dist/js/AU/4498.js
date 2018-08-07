@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4498"]={"code":"4498","region":"Queensland","city":"Alton","latitude":-27.98333,"longitude":149.31667}}(window,'GeoPostal','AU');

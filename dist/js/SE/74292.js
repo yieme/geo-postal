@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74292"]={"code":"74292","region":"Uppsala lan","city":"OEsthammar","latitude":60.25909,"longitude":18.37408}}(window,'GeoPostal','SE');

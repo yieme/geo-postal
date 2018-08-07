@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5091"]={"code":"5091","region":"South Australia","city":"Vista","latitude":-34.83549,"longitude":138.7232}}(window,'GeoPostal','AU');

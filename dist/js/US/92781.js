@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92781"]={"code":"92781","region":"CA","city":"Tustin","latitude":33.7369,"longitude":-117.8181}}(window,'GeoPostal','US');

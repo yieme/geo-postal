@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90130"]={"code":"90130","region":"Songkhla","city":"Chana","latitude":6.91542,"longitude":100.74039}}(window,'GeoPostal','TH');

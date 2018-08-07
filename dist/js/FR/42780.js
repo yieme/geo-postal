@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42780"]={"code":"42780","region":"Auvergne-Rhone-Alpes","city":"Violay","latitude":45.85283,"longitude":4.35724}}(window,'GeoPostal','FR');

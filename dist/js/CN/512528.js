@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512528"]={"code":"512528","region":"Guangdong","city":"Duheng","latitude":24.76872,"longitude":114.27528}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16617"]={"code":"16617","region":"Pennsylvania","city":"Bellwood","latitude":40.60338,"longitude":-78.33396}}(window,'GeoPostal','US');

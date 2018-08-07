@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37731"]={"code":"37731","region":"TN","city":"Eidson","latitude":36.4995,"longitude":-83.0827}}(window,'GeoPostal','US');

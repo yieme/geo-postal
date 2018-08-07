@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05757"]={"code":"05757","region":"VT","city":"Middletown Springs","latitude":43.4856,"longitude":-73.1182}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9853"]={"code":"9853","region":"Karnten","city":"Gmuend","latitude":46.90722,"longitude":13.52944}}(window,'GeoPostal','AT');

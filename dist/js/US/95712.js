@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95712"]={"code":"95712","region":"CA","city":"Chicago Park","latitude":39.143,"longitude":-120.9666}}(window,'GeoPostal','US');

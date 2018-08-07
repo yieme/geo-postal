@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20700"]={"code":"20700","region":"Aguascalientes","city":"Villa Juarez","latitude":22.11667,"longitude":-102.06667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249061"]={"code":"249061","region":"Kaluzhskaya oblast'","city":"Kudinovo","latitude":54.99939,"longitude":36.25331}}(window,'GeoPostal','RU');

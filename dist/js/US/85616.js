@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85616"]={"code":"85616","region":"AZ","city":"Huachuca City","latitude":31.6639,"longitude":-110.3334}}(window,'GeoPostal','US');

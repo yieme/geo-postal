@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5153"]={"code":"5153","region":"South Australia","city":"Mylor","latitude":-35.05,"longitude":138.75}}(window,'GeoPostal','AU');

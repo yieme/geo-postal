@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50602"]={"code":"50602","region":"IA","city":"Allison","latitude":42.7615,"longitude":-92.783}}(window,'GeoPostal','US');

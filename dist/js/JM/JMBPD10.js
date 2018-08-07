@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMBPD10"]={"code":"JMBPD10","region":"Portland","city":"Hope Bay","latitude":18.20195,"longitude":-76.56288}}(window,'GeoPostal','JM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71273"]={"code":"71273","region":"LA","city":"Ruston","latitude":32.6065,"longitude":-92.6484}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WS11 0XU"]={"code":"WS11 0XU","region":"England","city":"Cannock","latitude":52.69045,"longitude":-2.03085}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80441"]={"code":"80441","region":"Colorado","city":"Foxton","latitude":39.4713,"longitude":-105.2517}}(window,'GeoPostal','US');

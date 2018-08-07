@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94060"]={"code":"94060","region":"California","city":"Pescadero","latitude":37.2086,"longitude":-122.3811}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67430"]={"code":"67430","region":"Kansas","city":"Cawker City","latitude":39.50889,"longitude":-98.43389}}(window,'GeoPostal','US');

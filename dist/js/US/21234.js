@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21234"]={"code":"21234","region":"Maryland","city":"Parkville","latitude":39.391618,"longitude":-76.53504}}(window,'GeoPostal','US');

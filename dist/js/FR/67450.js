@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67450"]={"code":"67450","region":"Grand-Est","city":"Mundolsheim","latitude":48.64215,"longitude":7.71378}}(window,'GeoPostal','FR');

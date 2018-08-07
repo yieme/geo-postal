@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16049"]={"code":"16049","region":"Liguria","city":"Santo Stefano d'Aveto","latitude":44.54545,"longitude":9.44817}}(window,'GeoPostal','IT');

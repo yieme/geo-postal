@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69485-000"]={"code":"69485-000","region":"Amazonas","city":"Uarini","latitude":-2.99,"longitude":-65.10833}}(window,'GeoPostal','BR');

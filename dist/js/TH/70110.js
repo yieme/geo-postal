@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70110"]={"code":"70110","region":"Ratchaburi","city":"Ban Pong","latitude":13.81629,"longitude":99.87739}}(window,'GeoPostal','TH');

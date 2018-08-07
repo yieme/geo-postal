@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40115"]={"code":"40115","region":"KY","city":"Custer","latitude":37.7358,"longitude":-86.2378}}(window,'GeoPostal','US');

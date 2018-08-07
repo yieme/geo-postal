@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77351"]={"code":"77351","region":"Texas","city":"Livingston","latitude":30.57717,"longitude":-94.68621}}(window,'GeoPostal','US');

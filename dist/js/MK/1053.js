@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1053"]={"code":"1053","region":"Studenicani","city":"Studenichani","latitude":41.91583,"longitude":21.53056}}(window,'GeoPostal','MK');

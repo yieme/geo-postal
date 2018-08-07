@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43529"]={"code":"43529","region":"OH","city":"Hoytville","latitude":41.1872,"longitude":-83.7847}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77327"]={"code":"77327","region":"Texas","city":"Cleveland","latitude":30.33804,"longitude":-95.02362}}(window,'GeoPostal','US');

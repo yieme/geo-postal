@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51001"]={"code":"51001","region":"Iowa","city":"Akron","latitude":42.83352,"longitude":-96.52956}}(window,'GeoPostal','US');

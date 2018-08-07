@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67578"]={"code":"67578","region":"Kansas","city":"Stafford","latitude":37.962404,"longitude":-98.599578}}(window,'GeoPostal','US');

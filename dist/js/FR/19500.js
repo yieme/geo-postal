@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19500"]={"code":"19500","region":"Nouvelle-Aquitaine","city":"Meyssac","latitude":45.05571,"longitude":1.67386}}(window,'GeoPostal','FR');

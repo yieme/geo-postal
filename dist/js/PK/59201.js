@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59201"]={"code":"59201","region":"Punjab","city":"Shahr Sultan","latitude":29.57646,"longitude":71.02116}}(window,'GeoPostal','PK');

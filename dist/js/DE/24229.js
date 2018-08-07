@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24229"]={"code":"24229","region":"Schleswig-Holstein","city":"Surendorf","latitude":54.47263,"longitude":10.0763}}(window,'GeoPostal','DE');

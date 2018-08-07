@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187003"]={"code":"187003","region":"Leningradskaya oblast'","city":"Tosno","latitude":59.54,"longitude":30.8775}}(window,'GeoPostal','RU');

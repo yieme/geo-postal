@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA31 2JA"]={"code":"SA31 2JA","region":"Wales","city":"Abergwili","latitude":51.86593,"longitude":-4.26969}}(window,'GeoPostal','GB');

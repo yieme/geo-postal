@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["323024"]={"code":"323024","region":"Rajasthan","city":"Bundi","latitude":25.44167,"longitude":75.64167}}(window,'GeoPostal','IN');

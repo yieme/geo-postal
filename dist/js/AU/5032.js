@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5032"]={"code":"5032","region":"South Australia","city":"Underdale","latitude":-34.91955,"longitude":138.54903}}(window,'GeoPostal','AU');

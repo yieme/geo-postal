@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21514"]={"code":"21514","region":"Schleswig-Holstein","city":"Buchen","latitude":53.48008,"longitude":10.6176}}(window,'GeoPostal','DE');

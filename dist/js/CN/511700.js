@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["511700"]={"code":"511700","region":"Qinghai","city":"Dongke","latitude":36.3349,"longitude":99.66676}}(window,'GeoPostal','CN');

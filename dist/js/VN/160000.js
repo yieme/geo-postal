@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["160000"]={"code":"160000","region":"Hung Yen","city":"Hung Yen","latitude":20.65,"longitude":106.06667}}(window,'GeoPostal','VN');

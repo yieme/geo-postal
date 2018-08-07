@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6438"]={"code":"6438","region":"Schwyz","city":"Ibach","latitude":47.01105,"longitude":8.64538}}(window,'GeoPostal','CH');

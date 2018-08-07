@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15752"]={"code":"15752","region":"PA","city":"Kent","latitude":40.5412,"longitude":-79.282}}(window,'GeoPostal','US');

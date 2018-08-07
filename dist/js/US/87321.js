@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87321"]={"code":"87321","region":"New Mexico","city":"Ramah","latitude":35.135,"longitude":-108.48778}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA29 6YL"]={"code":"PA29 6YL","region":"Scotland","city":"Erines","latitude":55.91667,"longitude":-5.41667}}(window,'GeoPostal','GB');

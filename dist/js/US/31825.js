@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31825"]={"code":"31825","region":"GA","city":"Richland","latitude":32.0846,"longitude":-84.6667}}(window,'GeoPostal','US');

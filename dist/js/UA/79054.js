@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79054"]={"code":"79054","region":"Lvivska oblast","city":"L'viv","latitude":49.83826,"longitude":24.02324}}(window,'GeoPostal','UA');

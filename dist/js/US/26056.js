@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26056"]={"code":"26056","region":"WV","city":"New Manchester","latitude":40.5315,"longitude":-80.5801}}(window,'GeoPostal','US');

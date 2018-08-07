@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72478"]={"code":"72478","region":"AR","city":"Warm Springs","latitude":36.4803,"longitude":-91.0515}}(window,'GeoPostal','US');

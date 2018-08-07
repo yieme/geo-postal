@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS27 4SS"]={"code":"TS27 4SS","region":"England","city":"Castle Eden","latitude":54.73188,"longitude":-1.3448}}(window,'GeoPostal','GB');

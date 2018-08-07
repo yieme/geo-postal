@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8364"]={"code":"8364","region":"Zala","city":"Keszthely","latitude":46.76812,"longitude":17.24317}}(window,'GeoPostal','HU');

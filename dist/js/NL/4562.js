@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4562"]={"code":"4562","region":"Zeeland","city":"Hulst","latitude":51.28,"longitude":4.05278}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47361"]={"code":"47361","region":"IN","city":"Mount Summit","latitude":40.0042,"longitude":-85.3851}}(window,'GeoPostal','US');

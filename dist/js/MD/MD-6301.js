@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-6301"]={"code":"MD-6301","region":"Leova","city":"Leova","latitude":46.47861,"longitude":28.25528}}(window,'GeoPostal','MD');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 1K0"]={"code":"J0T 1K0","region":"Quebec","city":"Lac-des-Plages","latitude":46.00009,"longitude":-74.89927}}(window,'GeoPostal','CA');

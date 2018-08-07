@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2421"]={"code":"2421","region":"Hedmark","city":"Innbygda","latitude":61.31484,"longitude":12.26374}}(window,'GeoPostal','NO');

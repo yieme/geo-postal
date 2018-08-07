@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68758"]={"code":"68758","region":"Nebraska","city":"Newman Grove","latitude":41.7475,"longitude":-97.7775}}(window,'GeoPostal','US');

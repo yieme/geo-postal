@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665351"]={"code":"665351","region":"Irkutskaya oblast'","city":"Zima","latitude":53.9202,"longitude":102.0442}}(window,'GeoPostal','RU');

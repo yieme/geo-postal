@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38760"]={"code":"38760","region":"Auvergne-Rhone-Alpes","city":"Saint-Paul-de-Varces","latitude":45.07175,"longitude":5.64247}}(window,'GeoPostal','FR');

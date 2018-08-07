@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1350"]={"code":"1350","region":"Vaud","city":"Orbe","latitude":46.72504,"longitude":6.53069}}(window,'GeoPostal','CH');

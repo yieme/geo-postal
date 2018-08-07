@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83700"]={"code":"83700","region":"Sonora","city":"Heroica Caborca","latitude":30.71667,"longitude":-112.15}}(window,'GeoPostal','MX');

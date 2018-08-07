@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04655"]={"code":"04655","region":"Maine","city":"Machiasport","latitude":44.69869,"longitude":-67.39471}}(window,'GeoPostal','US');

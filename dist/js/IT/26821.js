@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26821"]={"code":"26821","region":"Lombardia","city":"Bertonico","latitude":45.23307,"longitude":9.66806}}(window,'GeoPostal','IT');

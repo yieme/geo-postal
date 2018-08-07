@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38219"]={"code":"38219","region":"Auvergne-Rhone-Alpes","city":"Vienne","latitude":45.51667,"longitude":4.86667}}(window,'GeoPostal','FR');

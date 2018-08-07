@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB56 5RG"]={"code":"AB56 5RG","region":"Scotland","city":"Portgordon","latitude":57.66407,"longitude":-3.01353}}(window,'GeoPostal','GB');

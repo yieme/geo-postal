@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85110"]={"code":"85110","region":"Pays-de-la-Loire","city":"Sainte-Cecile","latitude":46.74286,"longitude":-1.11429}}(window,'GeoPostal','FR');

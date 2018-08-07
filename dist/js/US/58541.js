@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58541"]={"code":"58541","region":"North Dakota","city":"Golden Valley","latitude":47.301818,"longitude":-102.065244}}(window,'GeoPostal','US');

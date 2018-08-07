@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH9 9SD"]={"code":"DH9 9SD","region":"England","city":"West Kyo","latitude":54.88333,"longitude":-1.73333}}(window,'GeoPostal','GB');

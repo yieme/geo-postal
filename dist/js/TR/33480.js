@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33480"]={"code":"33480","region":"Konya","city":"Yarma","latitude":37.81149,"longitude":32.88278}}(window,'GeoPostal','TR');

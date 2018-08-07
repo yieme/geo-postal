@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0W 2B0"]={"code":"G0W 2B0","region":"Quebec","city":"Saint-Ludger-de-Milot","latitude":48.90007,"longitude":-71.81573}}(window,'GeoPostal','CA');

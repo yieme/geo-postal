@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2911"]={"code":"2911","region":"Australian Capital Territory","city":"Mitchell","latitude":-35.21447,"longitude":149.12934}}(window,'GeoPostal','AU');

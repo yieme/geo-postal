@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["493441"]={"code":"493441","region":"Chhattisgarh","city":"Arang","latitude":21.2,"longitude":81.96667}}(window,'GeoPostal','IN');

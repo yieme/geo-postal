@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58257"]={"code":"58257","region":"North Dakota","city":"Mayville","latitude":47.49804,"longitude":-97.32454}}(window,'GeoPostal','US');

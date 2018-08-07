@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82334"]={"code":"82334","region":"Wyoming","city":"Sinclair","latitude":41.780422,"longitude":-107.117882}}(window,'GeoPostal','US');

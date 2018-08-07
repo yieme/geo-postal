@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69580"]={"code":"69580","region":"Auvergne-Rhone-Alpes","city":"Sathonay-Camp","latitude":45.8231,"longitude":4.86754}}(window,'GeoPostal','FR');

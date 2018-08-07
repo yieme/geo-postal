@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52588"]={"code":"52588","region":"IA","city":"Selma","latitude":40.864,"longitude":-92.1736}}(window,'GeoPostal','US');

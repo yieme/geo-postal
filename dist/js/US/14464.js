@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14464"]={"code":"14464","region":"NY","city":"Hamlin","latitude":43.3076,"longitude":-77.927}}(window,'GeoPostal','US');

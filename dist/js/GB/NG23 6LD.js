@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 6LD"]={"code":"NG23 6LD","region":"England","city":"Ossington","latitude":53.17404,"longitude":-0.8686}}(window,'GeoPostal','GB');

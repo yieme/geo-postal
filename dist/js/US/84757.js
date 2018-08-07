@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84757"]={"code":"84757","region":"Utah","city":"New Harmony","latitude":37.48495,"longitude":-113.310665}}(window,'GeoPostal','US');

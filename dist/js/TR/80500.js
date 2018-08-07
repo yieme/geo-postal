@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80500"]={"code":"80500","region":"Adana","city":"Bahce","latitude":37.19724,"longitude":36.57658}}(window,'GeoPostal','TR');

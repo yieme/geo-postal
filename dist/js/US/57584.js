@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57584"]={"code":"57584","region":"SD","city":"Witten","latitude":43.4498,"longitude":-100.0783}}(window,'GeoPostal','US');

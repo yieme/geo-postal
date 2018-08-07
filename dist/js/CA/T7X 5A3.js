@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7X 5A3"]={"code":"T7X 5A3","region":"Alberta","city":"Acheson","latitude":53.5652,"longitude":-113.78714}}(window,'GeoPostal','CA');

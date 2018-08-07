@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78673"]={"code":"78673","region":"TX","city":"Walburg","latitude":30.7415,"longitude":-97.5891}}(window,'GeoPostal','US');

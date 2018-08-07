@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30565"]={"code":"30565","region":"GA","city":"Nicholson","latitude":34.097,"longitude":-83.421}}(window,'GeoPostal','US');

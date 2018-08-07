@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93558"]={"code":"93558","region":"CA","city":"Red Mountain","latitude":35.3479,"longitude":-117.6214}}(window,'GeoPostal','US');

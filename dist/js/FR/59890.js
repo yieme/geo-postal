@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59890"]={"code":"59890","region":"Hauts-de-France","city":"Quesnoy-sur-Deule","latitude":50.71359,"longitude":2.99996}}(window,'GeoPostal','FR');

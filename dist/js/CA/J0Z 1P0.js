@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Z 1P0"]={"code":"J0Z 1P0","region":"Quebec","city":"Clericy","latitude":48.36548,"longitude":-78.8649}}(window,'GeoPostal','CA');

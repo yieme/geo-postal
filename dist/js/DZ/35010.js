@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35010"]={"code":"35010","region":"Boumerdes","city":"Khemis el Khechna","latitude":36.64997,"longitude":3.3308}}(window,'GeoPostal','DZ');

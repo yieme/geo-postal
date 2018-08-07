@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31784"]={"code":"31784","region":"GA","city":"Sale City","latitude":31.26,"longitude":-84.0422}}(window,'GeoPostal','US');

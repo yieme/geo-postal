@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11004"]={"code":"11004","region":"Ica","city":"Subtanjalla","latitude":-14.01889,"longitude":-75.75806}}(window,'GeoPostal','PE');

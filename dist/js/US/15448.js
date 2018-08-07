@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15448"]={"code":"15448","region":"PA","city":"Jacobs Creek","latitude":40.1331,"longitude":-79.7417}}(window,'GeoPostal','US');

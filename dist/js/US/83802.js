@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83802"]={"code":"83802","region":"ID","city":"Avery","latitude":47.2714,"longitude":-115.866}}(window,'GeoPostal','US');

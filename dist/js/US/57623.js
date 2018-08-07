@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57623"]={"code":"57623","region":"South Dakota","city":"Dupree","latitude":45.04748,"longitude":-101.60099}}(window,'GeoPostal','US');

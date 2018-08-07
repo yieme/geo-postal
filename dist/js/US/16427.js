@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16427"]={"code":"16427","region":"PA","city":"Mill Village","latitude":41.8773,"longitude":-79.9692}}(window,'GeoPostal','US');

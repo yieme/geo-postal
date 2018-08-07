@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66838"]={"code":"66838","region":"Kansas","city":"Burdick","latitude":38.565859,"longitude":-96.81916}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["528225"]={"code":"528225","region":"Hubei","city":"Nanhai","latitude":30.12819,"longitude":111.77837}}(window,'GeoPostal','CN');

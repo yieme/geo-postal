@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB43 8QH"]={"code":"AB43 8QH","region":"Scotland","city":"Crimond","latitude":57.60136,"longitude":-1.91566}}(window,'GeoPostal','GB');

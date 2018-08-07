@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83064"]={"code":"83064","region":"Bayern","city":"Aschaffenburg","latitude":49.97704,"longitude":9.15214}}(window,'GeoPostal','DE');

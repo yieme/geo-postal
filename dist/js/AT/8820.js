@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8820"]={"code":"8820","region":"Steiermark","city":"Neumarkt in Steiermark","latitude":47.07083,"longitude":14.42278}}(window,'GeoPostal','AT');

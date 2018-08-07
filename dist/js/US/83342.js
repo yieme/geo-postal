@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83342"]={"code":"83342","region":"Idaho","city":"Malta","latitude":42.303342,"longitude":-113.368813}}(window,'GeoPostal','US');

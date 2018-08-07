@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42368"]={"code":"42368","region":"KY","city":"Reynolds Station","latitude":37.7403,"longitude":-86.7414}}(window,'GeoPostal','US');

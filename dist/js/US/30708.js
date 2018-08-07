@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30708"]={"code":"30708","region":"GA","city":"Cisco","latitude":34.9618,"longitude":-84.6646}}(window,'GeoPostal','US');

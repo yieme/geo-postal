@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-002"]={"code":"62-002","region":"Wielkopolskie","city":"Suchy Las","latitude":52.47308,"longitude":16.87745}}(window,'GeoPostal','PL');

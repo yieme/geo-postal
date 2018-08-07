@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96078"]={"code":"96078","region":"CA","city":"Proberta","latitude":40.0815,"longitude":-122.1705}}(window,'GeoPostal','US');

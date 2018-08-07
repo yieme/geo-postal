@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV8 3BL"]={"code":"CV8 3BL","region":"England","city":"Bubbenhall","latitude":52.34774,"longitude":-1.4674}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40026"]={"code":"40026","region":"KY","city":"Goshen","latitude":38.4113,"longitude":-85.5708}}(window,'GeoPostal','US');

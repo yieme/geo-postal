@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 1HR"]={"code":"SA3 1HR","region":"Wales","city":"Burry Green","latitude":51.6,"longitude":-4.22139}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70087"]={"code":"70087","region":"Louisiana","city":"Saint Rose","latitude":29.9823,"longitude":-90.3151}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768219"]={"code":"768219","region":"Odisha","city":"Kochinda","latitude":21.73333,"longitude":84.35}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["398035"]={"code":"398035","region":"Lipetskaya oblast'","city":"Lipetsk","latitude":52.60311,"longitude":39.57076}}(window,'GeoPostal','RU');

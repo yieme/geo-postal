@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP12 4LR"]={"code":"HP12 4LR","region":"England","city":"Booker","latitude":51.61429,"longitude":-0.79445}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX6 7QS"]={"code":"EX6 7QS","region":"England","city":"Ashton","latitude":50.65,"longitude":-3.61667}}(window,'GeoPostal','GB');

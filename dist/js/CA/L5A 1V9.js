@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L5A 1V9"]={"code":"L5A 1V9","region":"Ontario","city":"Cooksville","latitude":43.581423,"longitude":-79.615192}}(window,'GeoPostal','CA');

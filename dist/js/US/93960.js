@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93960"]={"code":"93960","region":"California","city":"Soledad","latitude":36.42469,"longitude":-121.32632}}(window,'GeoPostal','US');

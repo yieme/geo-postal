@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69303"]={"code":"69303","region":"Viljandimaa","city":"Moisakula","latitude":58.09222,"longitude":25.18639}}(window,'GeoPostal','EE');

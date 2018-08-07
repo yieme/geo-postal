@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08134"]={"code":"08134","region":"Kyivska oblast","city":"Vyshneve","latitude":50.38913,"longitude":30.3705}}(window,'GeoPostal','UA');

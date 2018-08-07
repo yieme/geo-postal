@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31410"]={"code":"31410","region":"Osjecko-baranjska zupanija","city":"Strizivojna","latitude":45.22611,"longitude":18.42389}}(window,'GeoPostal','HR');

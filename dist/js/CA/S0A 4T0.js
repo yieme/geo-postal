@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 4T0"]={"code":"S0A 4T0","region":"Saskatchewan","city":"Wynyard","latitude":51.76674,"longitude":-104.18436}}(window,'GeoPostal','CA');

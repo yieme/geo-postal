@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL0 9DT"]={"code":"SL0 9DT","region":"England","city":"Iver","latitude":51.5,"longitude":-0.5}}(window,'GeoPostal','GB');

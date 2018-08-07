@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45863"]={"code":"45863","region":"OH","city":"Middle Point","latitude":40.8993,"longitude":-84.4541}}(window,'GeoPostal','US');

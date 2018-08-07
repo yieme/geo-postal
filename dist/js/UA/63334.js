@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63334"]={"code":"63334","region":"Kharkivska oblast","city":"Krasnohrad","latitude":49.3814,"longitude":35.44021}}(window,'GeoPostal','UA');

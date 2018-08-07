@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07330"]={"code":"07330","region":"Auvergne-Rhone-Alpes","city":"Thueyts","latitude":44.67828,"longitude":4.21916}}(window,'GeoPostal','FR');

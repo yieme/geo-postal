@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["843326"]={"code":"843326","region":"Uttar Pradesh","city":"Behat","latitude":30.16667,"longitude":77.61667}}(window,'GeoPostal','IN');

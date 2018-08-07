@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38929"]={"code":"38929","region":"Mississippi","city":"Gore Springs","latitude":33.78732,"longitude":-89.804755}}(window,'GeoPostal','US');

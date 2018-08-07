@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90270"]={"code":"90270","region":"Songkhla","city":"Saba Yoi","latitude":6.6175,"longitude":100.95189}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54849"]={"code":"54849","region":"Wisconsin","city":"Lake Nebagamon","latitude":46.51494,"longitude":-91.69991}}(window,'GeoPostal','US');

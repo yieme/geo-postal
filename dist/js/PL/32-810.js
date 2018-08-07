@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-810"]={"code":"32-810","region":"Malopolskie","city":"Brzesko","latitude":49.96911,"longitude":20.60606}}(window,'GeoPostal','PL');

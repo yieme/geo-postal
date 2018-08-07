@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76467"]={"code":"76467","region":"TX","city":"Paluxy","latitude":32.2707,"longitude":-97.9075}}(window,'GeoPostal','US');

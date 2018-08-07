@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99996"]={"code":"99996","region":"Thuringen","city":"Obermehler","latitude":51.26667,"longitude":10.6}}(window,'GeoPostal','DE');

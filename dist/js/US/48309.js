@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48309"]={"code":"48309","region":"Michigan","city":"Rochester Hills","latitude":42.65796,"longitude":-83.18652}}(window,'GeoPostal','US');

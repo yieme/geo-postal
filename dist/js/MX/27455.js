@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27455"]={"code":"27455","region":"Chiapas","city":"La Trinitaria","latitude":16.11667,"longitude":-92.05}}(window,'GeoPostal','MX');

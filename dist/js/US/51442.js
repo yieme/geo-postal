@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51442"]={"code":"51442","region":"Iowa","city":"Denison","latitude":42.01777,"longitude":-95.35528}}(window,'GeoPostal','US');

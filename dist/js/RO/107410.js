@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107410"]={"code":"107410","region":"Prahova","city":"Podenii Noi","latitude":45.11667,"longitude":26.16667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23749"]={"code":"23749","region":"Schleswig-Holstein","city":"Grube","latitude":54.23333,"longitude":11.03333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12200"]={"code":"12200","region":"Valenciana, Comunidad","city":"Onda","latitude":39.96667,"longitude":-0.25}}(window,'GeoPostal','ES');

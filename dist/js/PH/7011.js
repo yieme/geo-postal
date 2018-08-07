@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7011"]={"code":"7011","region":"Zamboanga del Sur","city":"San Pablo","latitude":7.65639,"longitude":123.46083}}(window,'GeoPostal','PH');

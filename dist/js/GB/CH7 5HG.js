@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH7 5HG"]={"code":"CH7 5HG","region":"Wales","city":"Rhydymwyn","latitude":53.19261,"longitude":-3.18957}}(window,'GeoPostal','GB');

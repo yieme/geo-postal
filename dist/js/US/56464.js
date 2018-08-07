@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56464"]={"code":"56464","region":"Minnesota","city":"Menahga","latitude":46.75385,"longitude":-95.09808}}(window,'GeoPostal','US');

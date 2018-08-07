@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57724"]={"code":"57724","region":"SD","city":"Camp Crook","latitude":45.6402,"longitude":-104.0278}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91194"]={"code":"91194","region":"Vasterbottens lan","city":"Vaennaes","latitude":63.90676,"longitude":19.75712}}(window,'GeoPostal','SE');

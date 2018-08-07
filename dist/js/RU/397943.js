@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["397943"]={"code":"397943","region":"Voronezhskaya oblast'","city":"Drakino","latitude":51.13898,"longitude":39.40215}}(window,'GeoPostal','RU');

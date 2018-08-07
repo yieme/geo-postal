@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["472-901"]={"code":"472-901","region":"Gyeonggi-do","city":"Wabu","latitude":37.58972,"longitude":127.22028}}(window,'GeoPostal','KR');

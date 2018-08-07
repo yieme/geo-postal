@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36916"]={"code":"36916","region":"Guanajuato","city":"La Ermita","latitude":20.41389,"longitude":-101.99361}}(window,'GeoPostal','MX');

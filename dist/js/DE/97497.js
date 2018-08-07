@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97497"]={"code":"97497","region":"Bayern","city":"Dingolshausen","latitude":49.9,"longitude":10.4}}(window,'GeoPostal','DE');

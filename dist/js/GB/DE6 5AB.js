@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE6 5AB"]={"code":"DE6 5AB","region":"England","city":"Boyleston","latitude":52.91667,"longitude":-1.73333}}(window,'GeoPostal','GB');

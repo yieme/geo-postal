@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442770"]={"code":"442770","region":"Penzenskaya oblast'","city":"Grabovo","latitude":53.38751,"longitude":45.06395}}(window,'GeoPostal','RU');

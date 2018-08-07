@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50571"]={"code":"50571","region":"IA","city":"Palmer","latitude":42.6419,"longitude":-94.5432}}(window,'GeoPostal','US');

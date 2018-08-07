@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA32 7PR"]={"code":"SA32 7PR","region":"Wales","city":"Felingwmuchaf","latitude":51.90083,"longitude":-4.16889}}(window,'GeoPostal','GB');

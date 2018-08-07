@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31131"]={"code":"31131","region":"Occitanie","city":"Balma","latitude":43.61111,"longitude":1.49944}}(window,'GeoPostal','FR');

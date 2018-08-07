@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["719000"]={"code":"719000","region":"Shaanxi","city":"Yulin","latitude":38.29056,"longitude":109.74944}}(window,'GeoPostal','CN');

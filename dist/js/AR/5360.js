@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5360"]={"code":"5360","region":"La Rioja","city":"Chilecito","latitude":-29.16195,"longitude":-67.4974}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13630"]={"code":"13630","region":"Castilla-La Mancha","city":"Socuellamos","latitude":39.28581,"longitude":-2.79206}}(window,'GeoPostal','ES');

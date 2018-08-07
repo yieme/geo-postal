@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL11 5LN"]={"code":"LL11 5LN","region":"Wales","city":"Ffrith","latitude":53.09064,"longitude":-3.06968}}(window,'GeoPostal','GB');

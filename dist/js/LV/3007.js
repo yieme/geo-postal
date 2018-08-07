@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3007"]={"code":"3007","region":"Jelgavas novads","city":"Jelgava","latitude":56.65,"longitude":23.71278}}(window,'GeoPostal','LV');

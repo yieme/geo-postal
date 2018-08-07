@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82830"]={"code":"82830","region":"Sinaloa","city":"Villa Union","latitude":23.2,"longitude":-106.23333}}(window,'GeoPostal','MX');

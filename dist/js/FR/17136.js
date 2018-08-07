@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17136"]={"code":"17136","region":"Nouvelle-Aquitaine","city":"Saintes","latitude":45.75,"longitude":-0.63333}}(window,'GeoPostal','FR');

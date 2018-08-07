@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13500-000"]={"code":"13500-000","region":"Sao Paulo","city":"Rio Claro","latitude":-22.41139,"longitude":-47.56139}}(window,'GeoPostal','BR');

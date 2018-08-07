@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74931"]={"code":"74931","region":"OK","city":"Bunch","latitude":35.6826,"longitude":-94.7611}}(window,'GeoPostal','US');

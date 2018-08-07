@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-335"]={"code":"87-335","region":"Kujawsko-pomorskie","city":"Swiedziebnia","latitude":53.15207,"longitude":19.55463}}(window,'GeoPostal','PL');

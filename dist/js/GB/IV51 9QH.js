@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV51 9QH"]={"code":"IV51 9QH","region":"Scotland","city":"Camastianavaig","latitude":57.36667,"longitude":-6.16667}}(window,'GeoPostal','GB');

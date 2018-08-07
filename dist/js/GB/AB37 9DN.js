@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB37 9DN"]={"code":"AB37 9DN","region":"Scotland","city":"Bridge of Achbreck","latitude":57.33333,"longitude":-3.31667}}(window,'GeoPostal','GB');

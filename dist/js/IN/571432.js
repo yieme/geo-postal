@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571432"]={"code":"571432","region":"Karnataka","city":"Nagamangala","latitude":12.81556,"longitude":76.7575}}(window,'GeoPostal','IN');

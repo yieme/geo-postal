@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG9 5JP"]={"code":"NG9 5JP","region":"England","city":"Chilwell","latitude":52.9118,"longitude":-1.23631}}(window,'GeoPostal','GB');

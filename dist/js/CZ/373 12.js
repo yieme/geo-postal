@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["373 12"]={"code":"373 12","region":"Jihocesky kraj","city":"Borovany","latitude":48.8986,"longitude":14.64227}}(window,'GeoPostal','CZ');

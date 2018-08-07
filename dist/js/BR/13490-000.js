@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13490-000"]={"code":"13490-000","region":"Sao Paulo","city":"Cordeiropolis","latitude":-22.48194,"longitude":-47.45667}}(window,'GeoPostal','BR');

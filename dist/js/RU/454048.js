@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["454048"]={"code":"454048","region":"Chelyabinskaya oblast'","city":"Chelyabinsk","latitude":55.15444,"longitude":61.42972}}(window,'GeoPostal','RU');

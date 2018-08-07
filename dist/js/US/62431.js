@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62431"]={"code":"62431","region":"Illinois","city":"Herrick","latitude":39.21917,"longitude":-88.98417}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP30 0HT"]={"code":"IP30 0HT","region":"England","city":"Cockfield","latitude":52.15737,"longitude":0.78428}}(window,'GeoPostal','GB');

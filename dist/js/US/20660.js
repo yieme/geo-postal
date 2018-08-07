@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20660"]={"code":"20660","region":"Maryland","city":"Morganza","latitude":38.37528,"longitude":-76.69556}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71016"]={"code":"71016","region":"Puglia","city":"San Severo","latitude":41.68974,"longitude":15.37604}}(window,'GeoPostal','IT');

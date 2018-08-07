@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3660"]={"code":"3660","region":"Limburg","city":"Opglabbeek","latitude":51.04258,"longitude":5.58346}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["029207"]={"code":"029207","region":"Nei Mongol","city":"Mositai","latitude":45.53632,"longitude":119.66972}}(window,'GeoPostal','CN');

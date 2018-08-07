@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356254"]={"code":"356254","region":"Stavropol'skiy kray","city":"Spitsevka","latitude":45.12306,"longitude":42.5125}}(window,'GeoPostal','RU');

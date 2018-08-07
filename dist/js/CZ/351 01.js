@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["351 01"]={"code":"351 01","region":"Karlovarsky kraj","city":"Frantiskovy Lazne","latitude":50.12033,"longitude":12.35174}}(window,'GeoPostal','CZ');

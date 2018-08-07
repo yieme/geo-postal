@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55860-000"]={"code":"55860-000","region":"Paraiba","city":"Natuba","latitude":-7.64139,"longitude":-35.55}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43431"]={"code":"43431","region":"Ohio","city":"Gibsonburg","latitude":41.3845,"longitude":-83.32048}}(window,'GeoPostal','US');

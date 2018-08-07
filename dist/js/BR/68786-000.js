@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68786-000"]={"code":"68786-000","region":"Para","city":"Santo Antonio do Taua","latitude":-1.15194,"longitude":-48.12944}}(window,'GeoPostal','BR');

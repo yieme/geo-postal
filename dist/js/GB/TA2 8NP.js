@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA2 8NP"]={"code":"TA2 8NP","region":"England","city":"West Monkton","latitude":51.04944,"longitude":-3.05417}}(window,'GeoPostal','GB');

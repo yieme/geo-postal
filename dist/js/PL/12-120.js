@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12-120"]={"code":"12-120","region":"Warminsko-mazurskie","city":"Dzwierzuty","latitude":53.70494,"longitude":20.96037}}(window,'GeoPostal','PL');

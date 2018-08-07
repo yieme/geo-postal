@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9870"]={"code":"9870","region":"Nordjylland","city":"Sindal","latitude":57.47117,"longitude":10.20312}}(window,'GeoPostal','DK');

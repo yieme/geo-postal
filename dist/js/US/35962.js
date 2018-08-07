@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35962"]={"code":"35962","region":"AL","city":"Crossville","latitude":34.2588,"longitude":-86.0306}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL21 0ES"]={"code":"LL21 0ES","region":"Wales","city":"Rug","latitude":52.98333,"longitude":-3.41667}}(window,'GeoPostal','GB');

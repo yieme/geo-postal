@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["026 01"]={"code":"026 01","region":"Zilinsky kraj","city":"Dolny Kubin","latitude":49.20983,"longitude":19.30341}}(window,'GeoPostal','SK');

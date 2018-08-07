@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07-320"]={"code":"07-320","region":"Slaskie","city":"Lesna","latitude":49.67041,"longitude":19.12763}}(window,'GeoPostal','PL');

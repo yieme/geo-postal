@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357329"]={"code":"357329","region":"Krasnodarskiy kray","city":"Sovetskaya","latitude":44.77694,"longitude":41.17222}}(window,'GeoPostal','RU');

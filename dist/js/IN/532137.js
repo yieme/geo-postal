@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["532137"]={"code":"532137","region":"Andhra Pradesh","city":"Parlakimidi","latitude":18.76667,"longitude":84.08333}}(window,'GeoPostal','IN');

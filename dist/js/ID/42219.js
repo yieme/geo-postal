@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42219"]={"code":"42219","region":"Banten","city":"Juhut","latitude":-6.2955,"longitude":106.1064}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9300"]={"code":"9300","region":"Boqueron","city":"Filadelfia","latitude":-22.35,"longitude":-60.03333}}(window,'GeoPostal','PY');

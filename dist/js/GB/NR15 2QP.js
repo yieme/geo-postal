@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR15 2QP"]={"code":"NR15 2QP","region":"England","city":"Fritton","latitude":52.48333,"longitude":1.28333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["173208"]={"code":"173208","region":"Himachal Pradesh","city":"Arki","latitude":31.15,"longitude":76.96667}}(window,'GeoPostal','IN');

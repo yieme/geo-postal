@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3544"]={"code":"3544","region":"Victoria","city":"Ultima","latitude":-35.48333,"longitude":143.25}}(window,'GeoPostal','AU');

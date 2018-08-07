@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0E 2Y0"]={"code":"B0E 2Y0","region":"Nova Scotia","city":"River Denys","latitude":45.83693,"longitude":-61.17805}}(window,'GeoPostal','CA');

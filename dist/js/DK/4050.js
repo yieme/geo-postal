@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4050"]={"code":"4050","region":"Hovedstaden","city":"Skibby","latitude":55.75122,"longitude":11.96083}}(window,'GeoPostal','DK');

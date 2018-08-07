@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56072"]={"code":"56072","region":"Thuringen","city":"Koblenz","latitude":50.89288,"longitude":12.47334}}(window,'GeoPostal','DE');

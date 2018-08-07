@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-220"]={"code":"99-220","region":"Lodzkie","city":"Wartkowice","latitude":51.97626,"longitude":19.0018}}(window,'GeoPostal','PL');

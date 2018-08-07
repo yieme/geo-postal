@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 3B0"]={"code":"J0X 3B0","region":"Quebec","city":"Thurso","latitude":45.6001,"longitude":-75.24931}}(window,'GeoPostal','CA');

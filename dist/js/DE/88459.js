@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88459"]={"code":"88459","region":"Baden-Wurttemberg","city":"Mooshausen","latitude":47.9724,"longitude":10.08373}}(window,'GeoPostal','DE');

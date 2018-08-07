@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0H 1T0"]={"code":"V0H 1T0","region":"British Columbia","city":"Oliver","latitude":49.181381,"longitude":-119.552612}}(window,'GeoPostal','CA');

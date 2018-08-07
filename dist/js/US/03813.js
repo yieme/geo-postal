@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03813"]={"code":"03813","region":"New Hampshire","city":"Center Conway","latitude":43.99556,"longitude":-71.06111}}(window,'GeoPostal','US');

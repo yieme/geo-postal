@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13-124"]={"code":"13-124","region":"Warminsko-mazurskie","city":"Kozlowo","latitude":53.30652,"longitude":20.29098}}(window,'GeoPostal','PL');

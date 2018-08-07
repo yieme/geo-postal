@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98841"]={"code":"98841","region":"Washington","city":"Omak","latitude":48.41099,"longitude":-119.52755}}(window,'GeoPostal','US');

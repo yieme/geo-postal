@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65141"]={"code":"65141","region":"Tel Aviv","city":"Tel Aviv","latitude":32.08088,"longitude":34.78057}}(window,'GeoPostal','IL');

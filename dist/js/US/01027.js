@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01027"]={"code":"01027","region":"MA","city":"Easthampton","latitude":42.2668,"longitude":-72.669}}(window,'GeoPostal','US');

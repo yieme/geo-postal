@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25555"]={"code":"25555","region":"WV","city":"Prichard","latitude":38.23,"longitude":-82.5753}}(window,'GeoPostal','US');

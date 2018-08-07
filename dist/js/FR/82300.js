@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82300"]={"code":"82300","region":"Occitanie","city":"Monteils","latitude":44.16862,"longitude":1.57608}}(window,'GeoPostal','FR');

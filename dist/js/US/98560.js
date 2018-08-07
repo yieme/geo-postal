@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98560"]={"code":"98560","region":"WA","city":"Matlock","latitude":47.2636,"longitude":-123.4412}}(window,'GeoPostal','US');

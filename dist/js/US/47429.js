@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47429"]={"code":"47429","region":"Indiana","city":"Ellettsville","latitude":39.23393,"longitude":-86.625}}(window,'GeoPostal','US');

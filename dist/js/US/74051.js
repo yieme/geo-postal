@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74051"]={"code":"74051","region":"Oklahoma","city":"Ochelata","latitude":36.602944,"longitude":-95.983993}}(window,'GeoPostal','US');

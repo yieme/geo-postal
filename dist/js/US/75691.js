@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75691"]={"code":"75691","region":"TX","city":"Tatum","latitude":32.3266,"longitude":-94.596}}(window,'GeoPostal','US');

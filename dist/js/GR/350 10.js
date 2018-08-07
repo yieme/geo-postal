@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["350 10"]={"code":"350 10","region":"Sterea Ellada","city":"Omvriaki","latitude":39.1,"longitude":22.26667}}(window,'GeoPostal','GR');

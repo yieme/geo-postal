@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31595"]={"code":"31595","region":"Niedersachsen","city":"Bruchhagen","latitude":52.55074,"longitude":8.98586}}(window,'GeoPostal','DE');

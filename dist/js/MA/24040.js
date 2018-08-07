@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24040"]={"code":"24040","region":"Doukhala-Abda","city":"El Jadida","latitude":33.25492,"longitude":-8.50602}}(window,'GeoPostal','MA');

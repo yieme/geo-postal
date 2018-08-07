@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82836"]={"code":"82836","region":"WY","city":"Dayton","latitude":44.878,"longitude":-107.3026}}(window,'GeoPostal','US');

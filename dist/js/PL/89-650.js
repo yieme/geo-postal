@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-650"]={"code":"89-650","region":"Pomorskie","city":"Czersk","latitude":53.79589,"longitude":17.97647}}(window,'GeoPostal','PL');

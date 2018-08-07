@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29335"]={"code":"29335","region":"SC","city":"Enoree","latitude":34.671,"longitude":-81.9237}}(window,'GeoPostal','US');

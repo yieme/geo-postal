@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34500"]={"code":"34500","region":"Occitanie","city":"Beziers","latitude":43.34762,"longitude":3.21899}}(window,'GeoPostal','FR');

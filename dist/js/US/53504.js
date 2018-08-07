@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53504"]={"code":"53504","region":"Wisconsin","city":"Argyle","latitude":42.702342,"longitude":-89.901441}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77326"]={"code":"77326","region":"TX","city":"Ace","latitude":30.5209,"longitude":-94.8221}}(window,'GeoPostal','US');

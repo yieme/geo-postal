@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90731"]={"code":"90731","region":"California","city":"San Pedro","latitude":33.74352,"longitude":-118.27944}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4705"]={"code":"4705","region":"Lezhe","city":"Milot","latitude":41.68389,"longitude":19.71556}}(window,'GeoPostal','AL');

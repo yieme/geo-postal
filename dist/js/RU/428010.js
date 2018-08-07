@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["428010"]={"code":"428010","region":"Chuvashskaya Respublika","city":"Cheboksary","latitude":56.13222,"longitude":47.25194}}(window,'GeoPostal','RU');

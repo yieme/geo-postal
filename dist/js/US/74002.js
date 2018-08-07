@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74002"]={"code":"74002","region":"OK","city":"Barnsdall","latitude":36.5429,"longitude":-96.1318}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58652"]={"code":"58652","region":"ND","city":"Richardton","latitude":46.8426,"longitude":-102.292}}(window,'GeoPostal','US');

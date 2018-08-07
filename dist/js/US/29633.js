@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29633"]={"code":"29633","region":"South Carolina","city":"Clemson","latitude":34.696988,"longitude":-82.892618}}(window,'GeoPostal','US');

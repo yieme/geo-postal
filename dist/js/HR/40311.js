@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40311"]={"code":"40311","region":"Medimurska zupanija","city":"Brezje","latitude":46.41861,"longitude":16.38889}}(window,'GeoPostal','HR');

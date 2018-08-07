@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["LB"]={id:'LB',country:'Lebanon', postal:{'':{code:'',region:'Beyrouth',city:'Beirut',latitude:33.88894,longitude:35.49442}}};

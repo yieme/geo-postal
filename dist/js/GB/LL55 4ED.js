@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL55 4ED"]={"code":"LL55 4ED","region":"Wales","city":"Cwm-y-glo","latitude":53.13333,"longitude":-4.16667}}(window,'GeoPostal','GB');

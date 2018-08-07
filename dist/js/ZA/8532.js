@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8532"]={"code":"8532","region":"Northern Cape","city":"Warrenton","latitude":-28.11396,"longitude":24.84753}}(window,'GeoPostal','ZA');

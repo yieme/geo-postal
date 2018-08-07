@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33445"]={"code":"33445","region":"Florida","city":"Delray Beach","latitude":26.459544,"longitude":-80.106021}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 1P0"]={"code":"V0J 1P0","region":"British Columbia","city":"Fort St. James","latitude":43.70011,"longitude":-79.4163}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11964"]={"code":"11964","region":"NY","city":"Shelter Island","latitude":41.064,"longitude":-72.3366}}(window,'GeoPostal','US');

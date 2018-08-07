@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76436"]={"code":"76436","region":"TX","city":"Carlton","latitude":31.8949,"longitude":-98.1842}}(window,'GeoPostal','US');

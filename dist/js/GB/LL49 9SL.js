@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL49 9SL"]={"code":"LL49 9SL","region":"Wales","city":"Tremadoc","latitude":52.93333,"longitude":-4.15}}(window,'GeoPostal','GB');

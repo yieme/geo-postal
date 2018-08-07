@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN10 6SQ"]={"code":"DN10 6SQ","region":"England","city":"Austerfield","latitude":53.44601,"longitude":-1.00565}}(window,'GeoPostal','GB');

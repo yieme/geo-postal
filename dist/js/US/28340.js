@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28340"]={"code":"28340","region":"NC","city":"Fairmont","latitude":34.472,"longitude":-79.1407}}(window,'GeoPostal','US');

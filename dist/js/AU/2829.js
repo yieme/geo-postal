@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2829"]={"code":"2829","region":"New South Wales","city":"Carinda","latitude":-30.46667,"longitude":147.68333}}(window,'GeoPostal','AU');

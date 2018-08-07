@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-010"]={"code":"26-010","region":"Dolnoslaskie","city":"Psary","latitude":51.18712,"longitude":17.03173}}(window,'GeoPostal','PL');

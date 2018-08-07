@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60001"]={"code":"60001","region":"Paysandu","city":"Quebracho","latitude":-31.95,"longitude":-57.88333}}(window,'GeoPostal','UY');

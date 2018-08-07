@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33309"]={"code":"33309","region":"Florida","city":"Tamarac","latitude":26.21286,"longitude":-80.24977}}(window,'GeoPostal','US');

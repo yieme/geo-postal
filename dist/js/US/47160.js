@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47160"]={"code":"47160","region":"IN","city":"New Middletown","latitude":38.1645,"longitude":-86.051}}(window,'GeoPostal','US');

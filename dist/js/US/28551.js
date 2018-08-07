@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28551"]={"code":"28551","region":"North Carolina","city":"La Grange","latitude":35.307287,"longitude":-77.792531}}(window,'GeoPostal','US');

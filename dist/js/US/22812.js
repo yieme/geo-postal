@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22812"]={"code":"22812","region":"Virginia","city":"Bridgewater","latitude":38.384958,"longitude":-78.972901}}(window,'GeoPostal','US');

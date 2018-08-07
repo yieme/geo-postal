@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4564"]={"code":"4564","region":"Szabolcs-Szatmar-Bereg","city":"Nyirmada","latitude":48.06667,"longitude":22.2}}(window,'GeoPostal','HU');

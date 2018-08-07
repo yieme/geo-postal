@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24741"]={"code":"24741","region":"Federally Administered Tribal Areas","city":"Landi Kotal","latitude":34.10167,"longitude":71.14667}}(window,'GeoPostal','PK');

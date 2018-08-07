@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9493"]={"code":"9493","region":"Mauren","city":"Mauren","latitude":47.21805,"longitude":9.5442}}(window,'GeoPostal','LI');

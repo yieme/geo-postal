@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85059"]={"code":"85059","region":"Sonora","city":"Ciudad Obregon","latitude":27.48333,"longitude":-109.93333}}(window,'GeoPostal','MX');

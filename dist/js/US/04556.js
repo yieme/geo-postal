@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04556"]={"code":"04556","region":"ME","city":"Edgecomb","latitude":43.9792,"longitude":-69.6197}}(window,'GeoPostal','US');

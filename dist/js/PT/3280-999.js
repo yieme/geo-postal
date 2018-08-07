@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3280-999"]={"code":"3280-999","region":"Leiria","city":"Castanheira de Pera","latitude":40.00717,"longitude":-8.21048}}(window,'GeoPostal','PT');

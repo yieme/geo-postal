@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67308"]={"code":"67308","region":"Nuevo Leon","city":"Santiago","latitude":25.41667,"longitude":-100.15}}(window,'GeoPostal','MX');

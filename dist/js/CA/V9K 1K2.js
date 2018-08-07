@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9K 1K2"]={"code":"V9K 1K2","region":"British Columbia","city":"Qualicum Beach","latitude":49.352408,"longitude":-124.445071}}(window,'GeoPostal','CA');

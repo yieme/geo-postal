@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188909"]={"code":"188909","region":"Leningradskaya oblast'","city":"Vysotsk","latitude":60.62879,"longitude":28.57048}}(window,'GeoPostal','RU');

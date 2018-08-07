@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6050-545"]={"code":"6050-545","region":"Portalegre","city":"Povoa e Meadas","latitude":39.51046,"longitude":-7.51765}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70650"]={"code":"70650","region":"HaMerkaz","city":"Yavne","latitude":31.87639,"longitude":34.74}}(window,'GeoPostal','IL');

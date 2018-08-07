@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69366"]={"code":"69366","region":"NE","city":"Whitman","latitude":41.9584,"longitude":-101.5216}}(window,'GeoPostal','US');

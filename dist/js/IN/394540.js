@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394540"]={"code":"394540","region":"Gujarat","city":"Olpad","latitude":21.33333,"longitude":72.75}}(window,'GeoPostal','IN');

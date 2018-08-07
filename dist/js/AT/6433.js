@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6433"]={"code":"6433","region":"Tirol","city":"Haiming","latitude":47.25,"longitude":10.88333}}(window,'GeoPostal','AT');

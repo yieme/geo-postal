@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99605"]={"code":"99605","region":"AK","city":"Hope","latitude":60.8726,"longitude":-149.4683}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS14 0BB"]={"code":"BS14 0BB","region":"England","city":"Bristol","latitude":51.45523,"longitude":-2.59665}}(window,'GeoPostal','GB');

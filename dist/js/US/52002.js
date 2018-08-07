@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52002"]={"code":"52002","region":"Iowa","city":"Dubuque","latitude":42.511748,"longitude":-90.7508}}(window,'GeoPostal','US');

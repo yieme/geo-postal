@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51645"]={"code":"51645","region":"Iowa","city":"Imogene","latitude":40.877883,"longitude":-95.426395}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62026"]={"code":"62026","region":"L'Oriental","city":"Taouima","latitude":35.1299,"longitude":-2.9279}}(window,'GeoPostal','MA');

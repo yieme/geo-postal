@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85269"]={"code":"85269","region":"AZ","city":"Fountain Hills","latitude":33.6117,"longitude":-111.7174}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21835"]={"code":"21835","region":"MD","city":"Linkwood","latitude":38.5403,"longitude":-75.963}}(window,'GeoPostal','US');

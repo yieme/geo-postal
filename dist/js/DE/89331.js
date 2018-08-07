@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89331"]={"code":"89331","region":"Nordrhein-Westfalen","city":"Burgau","latitude":50.55358,"longitude":6.23543}}(window,'GeoPostal','DE');

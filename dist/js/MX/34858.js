@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34858"]={"code":"34858","region":"Durango","city":"Nombre de Dios","latitude":23.85,"longitude":-104.23333}}(window,'GeoPostal','MX');

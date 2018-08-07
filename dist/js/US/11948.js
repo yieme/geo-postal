@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11948"]={"code":"11948","region":"New York","city":"Laurel","latitude":40.96954,"longitude":-72.56203}}(window,'GeoPostal','US');

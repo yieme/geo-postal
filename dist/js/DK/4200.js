@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4200"]={"code":"4200","region":"Sjelland","city":"Slagelse","latitude":55.40276,"longitude":11.35459}}(window,'GeoPostal','DK');

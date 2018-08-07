@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G1H 1G9"]={"code":"G1H 1G9","region":"Quebec","city":"Charlesbourg","latitude":46.865193,"longitude":-71.253088}}(window,'GeoPostal','CA');

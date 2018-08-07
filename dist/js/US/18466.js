@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18466"]={"code":"18466","region":"Pennsylvania","city":"Tobyhanna","latitude":41.176972,"longitude":-75.416139}}(window,'GeoPostal','US');

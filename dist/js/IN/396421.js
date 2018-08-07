@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396421"]={"code":"396421","region":"Gujarat","city":"Jalalpur","latitude":20.96667,"longitude":72.9}}(window,'GeoPostal','IN');

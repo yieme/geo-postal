@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R6W 1K3"]={"code":"R6W 1K3","region":"Manitoba","city":"Glencross","latitude":49.1172,"longitude":-98.01515}}(window,'GeoPostal','CA');

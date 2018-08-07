@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83500-000"]={"code":"83500-000","region":"Parana","city":"Rio Branco do Sul","latitude":-25.19,"longitude":-49.31417}}(window,'GeoPostal','BR');

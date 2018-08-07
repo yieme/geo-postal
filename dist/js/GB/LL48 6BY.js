@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL48 6BY"]={"code":"LL48 6BY","region":"Wales","city":"Penrhyndeudraeth","latitude":52.93333,"longitude":-4.06667}}(window,'GeoPostal','GB');

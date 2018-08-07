@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98282"]={"code":"98282","region":"WA","city":"Camano Island","latitude":48.1761,"longitude":-122.521}}(window,'GeoPostal','US');

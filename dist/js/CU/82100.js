@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82100"]={"code":"82100","region":"Holguin","city":"Jobabo","latitude":20.96917,"longitude":-76.29944}}(window,'GeoPostal','CU');

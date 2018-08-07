@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7577"]={"code":"7577","region":"Overijssel","city":"Oldenzaal","latitude":52.31333,"longitude":6.92917}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39834"]={"code":"39834","region":"Georgia","city":"Climax","latitude":30.875663,"longitude":-84.444982}}(window,'GeoPostal','US');

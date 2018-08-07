@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99150"]={"code":"99150","region":"Washington","city":"Malo","latitude":48.80336,"longitude":-118.607877}}(window,'GeoPostal','US');

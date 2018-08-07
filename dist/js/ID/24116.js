@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24116"]={"code":"24116","region":"Aceh","city":"Sigli","latitude":5.3848,"longitude":95.9609}}(window,'GeoPostal','ID');

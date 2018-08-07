@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16214"]={"code":"16214","region":"Pennsylvania","city":"Clarion","latitude":41.21479,"longitude":-79.38532}}(window,'GeoPostal','US');

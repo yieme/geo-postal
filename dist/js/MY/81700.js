@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81700"]={"code":"81700","region":"Johor","city":"Pasir Gudang Baru","latitude":1.4726,"longitude":103.878}}(window,'GeoPostal','MY');

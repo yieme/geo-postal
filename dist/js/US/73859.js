@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73859"]={"code":"73859","region":"Oklahoma","city":"Vici","latitude":36.146685,"longitude":-99.299403}}(window,'GeoPostal','US');

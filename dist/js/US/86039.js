@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86039"]={"code":"86039","region":"AZ","city":"Kykotsmovi Village","latitude":35.8742,"longitude":-110.6235}}(window,'GeoPostal','US');

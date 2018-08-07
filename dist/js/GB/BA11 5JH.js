@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA11 5JH"]={"code":"BA11 5JH","region":"England","city":"Berkley","latitude":51.24372,"longitude":-2.27379}}(window,'GeoPostal','GB');

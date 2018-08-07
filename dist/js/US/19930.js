@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19930"]={"code":"19930","region":"Delaware","city":"Bethany Beach","latitude":38.53956,"longitude":-75.05518}}(window,'GeoPostal','US');

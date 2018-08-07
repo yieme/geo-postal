@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71744"]={"code":"71744","region":"Arkansas","city":"Hampton","latitude":33.51272,"longitude":-92.559182}}(window,'GeoPostal','US');

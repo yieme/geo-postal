@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48300"]={"code":"48300","region":"Istanbul","city":"Arikoey","latitude":41.23044,"longitude":29.00425}}(window,'GeoPostal','TR');

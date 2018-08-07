@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12204"]={"code":"12204","region":"Occitanie","city":"Villefranche-de-Rouergue","latitude":44.35,"longitude":2.05}}(window,'GeoPostal','FR');

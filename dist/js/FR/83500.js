@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83500"]={"code":"83500","region":"Provence-Alpes-Cote d'Azur","city":"Seyne","latitude":44.35042,"longitude":6.35634}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-701"]={"code":"32-701","region":"Malopolskie","city":"Bochnia","latitude":49.96905,"longitude":20.43028}}(window,'GeoPostal','PL');

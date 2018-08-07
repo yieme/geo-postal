@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82393"]={"code":"82393","region":"Bayern","city":"Neuried","latitude":47.7782,"longitude":11.27636}}(window,'GeoPostal','DE');

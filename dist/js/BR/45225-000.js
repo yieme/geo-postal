@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45225-000"]={"code":"45225-000","region":"Bahia","city":"Jitauna","latitude":-14.01889,"longitude":-39.88889}}(window,'GeoPostal','BR');

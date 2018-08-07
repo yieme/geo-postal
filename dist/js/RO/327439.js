@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327439"]={"code":"327439","region":"Brasov","city":"Poiana Marului","latitude":45.6,"longitude":25.3}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["633011"]={"code":"633011","region":"Novosibirskaya oblast'","city":"Berdsk","latitude":54.7551,"longitude":83.0967}}(window,'GeoPostal','RU');

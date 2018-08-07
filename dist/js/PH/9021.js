@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9021"]={"code":"9021","region":"Agusan del Norte","city":"Bancasi","latitude":8.96667,"longitude":125.46667}}(window,'GeoPostal','PH');

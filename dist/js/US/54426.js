@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54426"]={"code":"54426","region":"WI","city":"Edgar","latitude":44.9046,"longitude":-90.0125}}(window,'GeoPostal','US');

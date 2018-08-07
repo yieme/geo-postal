@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96019"]={"code":"96019","region":"California","city":"Shasta Lake","latitude":40.68156,"longitude":-122.37744}}(window,'GeoPostal','US');

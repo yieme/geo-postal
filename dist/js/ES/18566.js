@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18566"]={"code":"18566","region":"Andalucia","city":"Benalua de las Villas","latitude":37.42742,"longitude":-3.68346}}(window,'GeoPostal','ES');

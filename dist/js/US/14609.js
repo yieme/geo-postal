@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14609"]={"code":"14609","region":"New York","city":"Irondequoit","latitude":43.2134,"longitude":-77.57972}}(window,'GeoPostal','US');

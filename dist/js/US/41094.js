@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41094"]={"code":"41094","region":"KY","city":"Walton","latitude":38.8875,"longitude":-84.6328}}(window,'GeoPostal','US');

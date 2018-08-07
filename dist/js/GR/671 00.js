@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671 00"]={"code":"671 00","region":"Anatoliki Makedonia kai Thraki","city":"Xanthi","latitude":41.14139,"longitude":24.88361}}(window,'GeoPostal','GR');

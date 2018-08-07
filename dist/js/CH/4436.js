@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4436"]={"code":"4436","region":"Basel-Landschaft","city":"Waldenburg","latitude":47.38333,"longitude":7.75}}(window,'GeoPostal','CH');

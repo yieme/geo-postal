@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49221"]={"code":"49221","region":"Michigan","city":"Adrian","latitude":41.903735,"longitude":-84.046971}}(window,'GeoPostal','US');

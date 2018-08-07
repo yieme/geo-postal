@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32577"]={"code":"32577","region":"FL","city":"Molino","latitude":30.6902,"longitude":-87.3852}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8834"]={"code":"8834","region":"Schwyz","city":"Schindellegi","latitude":47.1746,"longitude":8.71345}}(window,'GeoPostal','CH');

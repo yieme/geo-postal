@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96032"]={"code":"96032","region":"California","city":"Fort Jones","latitude":41.608874,"longitude":-122.881452}}(window,'GeoPostal','US');

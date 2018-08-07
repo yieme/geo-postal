@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30816"]={"code":"30816","region":"GA","city":"Keysville","latitude":33.1719,"longitude":-82.1834}}(window,'GeoPostal','US');

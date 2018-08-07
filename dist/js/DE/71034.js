@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71034"]={"code":"71034","region":"Baden-Wurttemberg","city":"Dagersheim","latitude":48.6918,"longitude":8.9523}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25376"]={"code":"25376","region":"Schleswig-Holstein","city":"Klein Krempdorf","latitude":53.82498,"longitude":9.45754}}(window,'GeoPostal','DE');

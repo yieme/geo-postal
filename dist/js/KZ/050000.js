@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["050000"]={"code":"050000","region":"Almaty","city":"Almaty","latitude":43.25,"longitude":76.95}}(window,'GeoPostal','KZ');

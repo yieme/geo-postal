@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45004"]={"code":"45004","region":"OH","city":"Collinsville","latitude":39.5153,"longitude":-84.6094}}(window,'GeoPostal','US');

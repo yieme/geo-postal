@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18540-000"]={"code":"18540-000","region":"Sao Paulo","city":"Porto Feliz","latitude":-23.21472,"longitude":-47.52389}}(window,'GeoPostal','BR');

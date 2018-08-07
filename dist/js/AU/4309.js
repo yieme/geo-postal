@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4309"]={"code":"4309","region":"Queensland","city":"Clumber","latitude":-28.06667,"longitude":152.46667}}(window,'GeoPostal','AU');

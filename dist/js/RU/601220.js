@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601220"]={"code":"601220","region":"Vladimirskaya oblast'","city":"Stavrovo","latitude":56.13311,"longitude":40.01295}}(window,'GeoPostal','RU');

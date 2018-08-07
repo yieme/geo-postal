@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-329"]={"code":"32-329","region":"Malopolskie","city":"Boleslaw","latitude":50.29729,"longitude":19.48073}}(window,'GeoPostal','PL');

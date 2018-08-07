@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60827"]={"code":"60827","region":"Illinois","city":"Calumet Park","latitude":41.64704,"longitude":-87.62067}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01259"]={"code":"01259","region":"MA","city":"Southfield","latitude":42.078,"longitude":-73.2609}}(window,'GeoPostal','US');

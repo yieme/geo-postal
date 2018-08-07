@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62268"]={"code":"62268","region":"Illinois","city":"Oakdale","latitude":38.262039,"longitude":-89.59075}}(window,'GeoPostal','US');

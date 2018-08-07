@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45764"]={"code":"45764","region":"Volynska oblast","city":"Berestechko","latitude":50.36047,"longitude":25.11071}}(window,'GeoPostal','UA');

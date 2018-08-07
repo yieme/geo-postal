@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04456"]={"code":"04456","region":"ME","city":"Levant","latitude":44.8843,"longitude":-68.9837}}(window,'GeoPostal','US');

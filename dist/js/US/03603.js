@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03603"]={"code":"03603","region":"New Hampshire","city":"Charlestown","latitude":43.23706,"longitude":-72.425361}}(window,'GeoPostal','US');

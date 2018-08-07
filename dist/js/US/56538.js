@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56538"]={"code":"56538","region":"MN","city":"Fergus Falls","latitude":46.283,"longitude":-96.0776}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19275"]={"code":"19275","region":"Castilla-La Mancha","city":"Campisabalos","latitude":41.26667,"longitude":-3.13333}}(window,'GeoPostal','ES');

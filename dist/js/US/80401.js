@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80401"]={"code":"80401","region":"Colorado","city":"Golden","latitude":39.7131,"longitude":-105.2321}}(window,'GeoPostal','US');

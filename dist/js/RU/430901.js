@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["430901"]={"code":"430901","region":"Mordoviya, Respublika","city":"Zykovo","latitude":54.06853,"longitude":45.08633}}(window,'GeoPostal','RU');

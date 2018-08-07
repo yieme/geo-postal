@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27340"]={"code":"27340","region":"Normandie","city":"Pont-de-l'Arche","latitude":49.3033,"longitude":1.155}}(window,'GeoPostal','FR');

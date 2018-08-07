@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54005"]={"code":"54005","region":"Wisconsin","city":"Clear Lake","latitude":45.250414,"longitude":-92.273292}}(window,'GeoPostal','US');

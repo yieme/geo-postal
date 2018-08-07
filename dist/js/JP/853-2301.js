@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["853-2301"]={"code":"853-2301","region":"Nagasaki","city":"Wakamatsu-jima","latitude":32.866667,"longitude":129.016667}}(window,'GeoPostal','JP');

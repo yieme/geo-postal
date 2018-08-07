@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49724"]={"code":"49724","region":"Michigan","city":"Dafter","latitude":46.344687,"longitude":-84.41278}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58059"]={"code":"58059","region":"ND","city":"Mapleton","latitude":46.8614,"longitude":-97.1157}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86840-000"]={"code":"86840-000","region":"Parana","city":"Faxinal","latitude":-24.00028,"longitude":-51.31944}}(window,'GeoPostal','BR');

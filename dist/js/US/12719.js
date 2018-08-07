@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12719"]={"code":"12719","region":"New York","city":"Barryville","latitude":41.4775,"longitude":-74.91111}}(window,'GeoPostal','US');

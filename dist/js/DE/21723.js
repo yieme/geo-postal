@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21723"]={"code":"21723","region":"Niedersachsen","city":"Speersort","latitude":53.60365,"longitude":9.52687}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08073"]={"code":"08073","region":"NJ","city":"Rancocas","latitude":40.0095,"longitude":-74.8668}}(window,'GeoPostal','US');

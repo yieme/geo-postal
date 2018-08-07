@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2561"]={"code":"2561","region":"Hedmark","city":"Alvdal","latitude":62.10766,"longitude":10.63073}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR17 0EZ"]={"code":"TR17 0EZ","region":"England","city":"Marazion","latitude":50.12556,"longitude":-5.47505}}(window,'GeoPostal','GB');

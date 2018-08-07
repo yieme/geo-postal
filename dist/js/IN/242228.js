@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242228"]={"code":"242228","region":"Uttar Pradesh","city":"Jalalabad","latitude":27.7242,"longitude":79.6599}}(window,'GeoPostal','IN');

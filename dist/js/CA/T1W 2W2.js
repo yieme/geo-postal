@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1W 2W2"]={"code":"T1W 2W2","region":"Alberta","city":"Harvie Heights","latitude":51.1227,"longitude":-115.38357}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["539 73"]={"code":"539 73","region":"Pardubicky kraj","city":"Skutec","latitude":49.84347,"longitude":15.99655}}(window,'GeoPostal','CZ');

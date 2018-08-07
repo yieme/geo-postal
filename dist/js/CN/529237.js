@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["529237"]={"code":"529237","region":"Guangdong","city":"Beidou","latitude":21.87485,"longitude":112.39572}}(window,'GeoPostal','CN');

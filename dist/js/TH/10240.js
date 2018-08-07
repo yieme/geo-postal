@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10240"]={"code":"10240","region":"Krung Thep Maha Nakhon","city":"Suan Luang","latitude":13.73028,"longitude":100.65138}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368009"]={"code":"368009","region":"Dagestan, Respublika","city":"Khasavyurt","latitude":43.25,"longitude":46.58806}}(window,'GeoPostal','RU');

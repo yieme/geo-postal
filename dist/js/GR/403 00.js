@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403 00"]={"code":"403 00","region":"Thessalia","city":"Farsala","latitude":39.29472,"longitude":22.38472}}(window,'GeoPostal','GR');

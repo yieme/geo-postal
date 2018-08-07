@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 3LP"]={"code":"PL14 3LP","region":"England","city":"Merrymeet","latitude":50.46822,"longitude":-4.42575}}(window,'GeoPostal','GB');

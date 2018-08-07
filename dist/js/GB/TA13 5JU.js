@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA13 5JU"]={"code":"TA13 5JU","region":"England","city":"Lopen","latitude":50.92506,"longitude":-2.81756}}(window,'GeoPostal','GB');

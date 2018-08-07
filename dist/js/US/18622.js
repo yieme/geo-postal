@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18622"]={"code":"18622","region":"PA","city":"Huntington Mills","latitude":41.1906,"longitude":-76.2335}}(window,'GeoPostal','US');

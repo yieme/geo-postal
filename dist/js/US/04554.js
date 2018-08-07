@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04554"]={"code":"04554","region":"ME","city":"New Harbor","latitude":43.8605,"longitude":-69.5079}}(window,'GeoPostal','US');

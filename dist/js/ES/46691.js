@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46691"]={"code":"46691","region":"Valenciana, Comunidad","city":"Vallada","latitude":38.89575,"longitude":-0.69104}}(window,'GeoPostal','ES');

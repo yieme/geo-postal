@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 7QF"]={"code":"BA12 7QF","region":"England","city":"Corsley","latitude":51.21889,"longitude":-2.24806}}(window,'GeoPostal','GB');

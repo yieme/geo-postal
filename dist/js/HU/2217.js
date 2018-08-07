@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2217"]={"code":"2217","region":"Pest","city":"Gomba","latitude":47.37095,"longitude":19.53057}}(window,'GeoPostal','HU');

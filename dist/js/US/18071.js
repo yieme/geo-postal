@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18071"]={"code":"18071","region":"Pennsylvania","city":"Palmerton","latitude":40.808928,"longitude":-75.618339}}(window,'GeoPostal','US');

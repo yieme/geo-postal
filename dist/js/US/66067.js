@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66067"]={"code":"66067","region":"Kansas","city":"Ottawa","latitude":38.609505,"longitude":-95.266176}}(window,'GeoPostal','US');

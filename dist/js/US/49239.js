@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49239"]={"code":"49239","region":"Michigan","city":"Frontier","latitude":41.79353,"longitude":-84.62511}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54475"]={"code":"54475","region":"WI","city":"Rudolph","latitude":44.4741,"longitude":-89.8003}}(window,'GeoPostal','US');

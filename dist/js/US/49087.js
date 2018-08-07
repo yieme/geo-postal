@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49087"]={"code":"49087","region":"MI","city":"Schoolcraft","latitude":42.1329,"longitude":-85.6637}}(window,'GeoPostal','US');

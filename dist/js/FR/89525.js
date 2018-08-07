@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89525"]={"code":"89525","region":"Bourgogne-Franche-Comte","city":"Veron","latitude":48.12853,"longitude":3.30773}}(window,'GeoPostal','FR');

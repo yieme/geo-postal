@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5158"]={"code":"5158","region":"South Australia","city":"Hallett","latitude":-33.4,"longitude":138.88333}}(window,'GeoPostal','AU');

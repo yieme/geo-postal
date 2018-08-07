@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6899"]={"code":"6899","region":"Sogn og Fjordane","city":"Balestrand","latitude":61.20757,"longitude":6.5334}}(window,'GeoPostal','NO');

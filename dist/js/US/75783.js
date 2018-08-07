@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75783"]={"code":"75783","region":"Texas","city":"Quitman","latitude":32.79596,"longitude":-95.45106}}(window,'GeoPostal','US');

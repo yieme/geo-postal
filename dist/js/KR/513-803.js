@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["513-803"]={"code":"513-803","region":"Jeollanam-do","city":"Reiko","latitude":35.275,"longitude":126.50944}}(window,'GeoPostal','KR');

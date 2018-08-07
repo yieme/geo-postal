@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY15 6LH"]={"code":"SY15 6LH","region":"Wales","city":"Llandyssil","latitude":52.54958,"longitude":-3.18615}}(window,'GeoPostal','GB');

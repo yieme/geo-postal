@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72015"]={"code":"72015","region":"Puglia","city":"Fasano","latitude":40.83443,"longitude":17.3584}}(window,'GeoPostal','IT');

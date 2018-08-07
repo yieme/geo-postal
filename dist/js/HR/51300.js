@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51300"]={"code":"51300","region":"Primorsko-goranska zupanija","city":"Delnice","latitude":45.40083,"longitude":14.79972}}(window,'GeoPostal','HR');

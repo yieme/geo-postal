@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24220"]={"code":"24220","region":"Nouvelle-Aquitaine","city":"Saint-Cyprien","latitude":44.86924,"longitude":1.04156}}(window,'GeoPostal','FR');

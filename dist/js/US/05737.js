@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05737"]={"code":"05737","region":"VT","city":"Chittenden","latitude":43.7132,"longitude":-72.9252}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15064"]={"code":"15064","region":"PA","city":"Morgan","latitude":40.3542,"longitude":-80.1398}}(window,'GeoPostal','US');

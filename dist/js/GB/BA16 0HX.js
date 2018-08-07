@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA16 0HX"]={"code":"BA16 0HX","region":"England","city":"Street","latitude":51.12472,"longitude":-2.74}}(window,'GeoPostal','GB');

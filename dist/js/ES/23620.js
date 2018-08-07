@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23620"]={"code":"23620","region":"Andalucia","city":"Mengibar","latitude":37.96978,"longitude":-3.80884}}(window,'GeoPostal','ES');

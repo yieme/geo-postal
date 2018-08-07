@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR4 9QU"]={"code":"TR4 9QU","region":"England","city":"Saint Allen","latitude":50.3,"longitude":-5.06667}}(window,'GeoPostal','GB');

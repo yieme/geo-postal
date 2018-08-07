@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16620"]={"code":"16620","region":"PA","city":"Brisbin","latitude":40.8387,"longitude":-78.3526}}(window,'GeoPostal','US');

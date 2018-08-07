@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63787"]={"code":"63787","region":"MO","city":"Zalma","latitude":37.1365,"longitude":-90.0757}}(window,'GeoPostal','US');

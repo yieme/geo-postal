@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55444"]={"code":"55444","region":"Minnesota","city":"Coon Rapids","latitude":45.08805,"longitude":-93.296289}}(window,'GeoPostal','US');

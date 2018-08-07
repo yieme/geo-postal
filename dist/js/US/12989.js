@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12989"]={"code":"12989","region":"New York","city":"Vermontville","latitude":44.4708,"longitude":-74.03688}}(window,'GeoPostal','US');

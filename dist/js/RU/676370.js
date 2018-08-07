@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676370"]={"code":"676370","region":"Amurskaya oblast'","city":"Seryshevo","latitude":51.09333,"longitude":128.37861}}(window,'GeoPostal','RU');

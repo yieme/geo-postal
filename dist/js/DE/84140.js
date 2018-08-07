@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84140"]={"code":"84140","region":"Bayern","city":"Butzenbach","latitude":48.45464,"longitude":12.57445}}(window,'GeoPostal','DE');

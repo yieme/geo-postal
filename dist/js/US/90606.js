@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90606"]={"code":"90606","region":"California","city":"Whittier","latitude":33.977495,"longitude":-118.065326}}(window,'GeoPostal','US');

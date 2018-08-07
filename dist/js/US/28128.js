@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28128"]={"code":"28128","region":"North Carolina","city":"Norwood","latitude":35.21959,"longitude":-80.11895}}(window,'GeoPostal','US');

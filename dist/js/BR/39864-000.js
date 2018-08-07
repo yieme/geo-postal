@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39864-000"]={"code":"39864-000","region":"Minas Gerais","city":"Carlos Chagas","latitude":-17.70306,"longitude":-40.76639}}(window,'GeoPostal','BR');

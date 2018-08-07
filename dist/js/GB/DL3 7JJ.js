@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL3 7JJ"]={"code":"DL3 7JJ","region":"England","city":"Durham","latitude":54.77676,"longitude":-1.57566}}(window,'GeoPostal','GB');

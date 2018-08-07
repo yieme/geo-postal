@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56375"]={"code":"56375","region":"MN","city":"Saint Stephen","latitude":45.7118,"longitude":-94.2817}}(window,'GeoPostal','US');

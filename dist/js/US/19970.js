@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19970"]={"code":"19970","region":"Delaware","city":"Ocean View","latitude":38.555449,"longitude":-75.108954}}(window,'GeoPostal','US');

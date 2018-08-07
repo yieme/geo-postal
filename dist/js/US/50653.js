@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50653"]={"code":"50653","region":"IA","city":"Marble Rock","latitude":42.9645,"longitude":-92.8917}}(window,'GeoPostal','US');

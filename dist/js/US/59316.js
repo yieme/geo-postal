@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59316"]={"code":"59316","region":"MT","city":"Boyes","latitude":45.268,"longitude":-105.0311}}(window,'GeoPostal','US');

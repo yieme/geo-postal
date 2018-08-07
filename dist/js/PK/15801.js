@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15801"]={"code":"15801","region":"Khyber Pakhtunkhwa","city":"Mansehra","latitude":34.33333,"longitude":73.2}}(window,'GeoPostal','PK');

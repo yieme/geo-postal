@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-031"]={"code":"32-031","region":"Malopolskie","city":"Mogilany","latitude":49.9389,"longitude":19.88972}}(window,'GeoPostal','PL');

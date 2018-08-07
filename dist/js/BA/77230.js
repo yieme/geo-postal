@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77230"]={"code":"77230","region":"Federacija Bosne i Hercegovine","city":"Velika Kladusa","latitude":45.18944,"longitude":15.81167}}(window,'GeoPostal','BA');

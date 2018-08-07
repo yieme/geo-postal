@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15864"]={"code":"15864","region":"Brandenburg","city":"Diensdorf","latitude":52.24179,"longitude":14.0655}}(window,'GeoPostal','DE');

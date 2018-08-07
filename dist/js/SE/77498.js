@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77498"]={"code":"77498","region":"Dalarnas lan","city":"Horndal","latitude":60.3,"longitude":16.41667}}(window,'GeoPostal','SE');

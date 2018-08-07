@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73219"]={"code":"73219","region":"Auvergne-Rhone-Alpes","city":"Aime","latitude":45.55559,"longitude":6.65042}}(window,'GeoPostal','FR');

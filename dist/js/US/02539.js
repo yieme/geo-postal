@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02539"]={"code":"02539","region":"MA","city":"Edgartown","latitude":41.3889,"longitude":-70.5339}}(window,'GeoPostal','US');

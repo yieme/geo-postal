@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42019"]={"code":"42019","region":"Emilia-Romagna","city":"Scandiano","latitude":44.59646,"longitude":10.6907}}(window,'GeoPostal','IT');

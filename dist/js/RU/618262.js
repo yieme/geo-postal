@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618262"]={"code":"618262","region":"Permskiy kray","city":"Ugleural'skiy","latitude":58.95335,"longitude":57.58463}}(window,'GeoPostal','RU');

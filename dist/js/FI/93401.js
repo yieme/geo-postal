@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93401"]={"code":"93401","region":"Pohjois-Pohjanmaa","city":"Taivalkoski","latitude":65.56667,"longitude":28.25}}(window,'GeoPostal','FI');

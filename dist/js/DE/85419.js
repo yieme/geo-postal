@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85419"]={"code":"85419","region":"Bayern","city":"Schwarzersdorf","latitude":48.52988,"longitude":11.91555}}(window,'GeoPostal','DE');

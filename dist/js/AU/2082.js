@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2082"]={"code":"2082","region":"New South Wales","city":"Berrilee","latitude":-33.61667,"longitude":151.1}}(window,'GeoPostal','AU');

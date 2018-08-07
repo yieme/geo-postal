@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60132"]={"code":"60132","region":"Hauts-de-France","city":"Saint-Just-en-Chaussee","latitude":49.50503,"longitude":2.43285}}(window,'GeoPostal','FR');

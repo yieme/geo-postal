@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73490"]={"code":"73490","region":"Auvergne-Rhone-Alpes","city":"La Ravoire","latitude":45.55978,"longitude":5.96871}}(window,'GeoPostal','FR');

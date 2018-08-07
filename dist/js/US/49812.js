@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49812"]={"code":"49812","region":"Michigan","city":"Carney","latitude":45.58778,"longitude":-87.55417}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92274"]={"code":"92274","region":"California","city":"Thermal","latitude":33.60904,"longitude":-116.16206}}(window,'GeoPostal','US');

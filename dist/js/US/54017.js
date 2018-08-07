@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54017"]={"code":"54017","region":"Wisconsin","city":"New Richmond","latitude":45.12302,"longitude":-92.53659}}(window,'GeoPostal','US');

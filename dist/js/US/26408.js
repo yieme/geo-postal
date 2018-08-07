@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26408"]={"code":"26408","region":"WV","city":"Mount Clare","latitude":39.2107,"longitude":-80.2899}}(window,'GeoPostal','US');

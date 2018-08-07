@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG32 1BS"]={"code":"NG32 1BS","region":"England","city":"Barrowby","latitude":52.91636,"longitude":-0.69094}}(window,'GeoPostal','GB');

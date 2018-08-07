@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3153"]={"code":"3153","region":"Entre Rios","city":"Victoria","latitude":-32.61841,"longitude":-60.15478}}(window,'GeoPostal','AR');

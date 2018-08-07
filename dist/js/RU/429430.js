@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429430"]={"code":"429430","region":"Chuvashskaya Respublika","city":"Kozlovka","latitude":55.84284,"longitude":48.2492}}(window,'GeoPostal','RU');

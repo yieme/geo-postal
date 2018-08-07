@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G2E 0A1"]={"code":"G2E 0A1","region":"Quebec","city":"L'Ancienne-Lorette","latitude":46.79392,"longitude":-71.35191}}(window,'GeoPostal','CA');

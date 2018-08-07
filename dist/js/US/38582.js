@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38582"]={"code":"38582","region":"TN","city":"Silver Point","latitude":36.1006,"longitude":-85.7338}}(window,'GeoPostal','US');

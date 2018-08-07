@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53964"]={"code":"53964","region":"Wisconsin","city":"Westfield","latitude":43.88359,"longitude":-89.49346}}(window,'GeoPostal','US');

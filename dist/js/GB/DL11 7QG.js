@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL11 7QG"]={"code":"DL11 7QG","region":"England","city":"Caldwell","latitude":54.51667,"longitude":-1.75}}(window,'GeoPostal','GB');

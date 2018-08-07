@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28348"]={"code":"28348","region":"NC","city":"Hope Mills","latitude":34.9536,"longitude":-78.9354}}(window,'GeoPostal','US');

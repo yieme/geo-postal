@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516623"]={"code":"516623","region":"Guangdong","city":"Zhelang","latitude":22.6721,"longitude":115.55795}}(window,'GeoPostal','CN');

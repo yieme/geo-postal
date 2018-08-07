@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL7 9EX"]={"code":"DL7 9EX","region":"England","city":"Newby Wiske","latitude":54.28389,"longitude":-1.43687}}(window,'GeoPostal','GB');

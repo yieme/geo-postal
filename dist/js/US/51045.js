@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51045"]={"code":"51045","region":"IA","city":"Oyens","latitude":42.8199,"longitude":-96.0566}}(window,'GeoPostal','US');

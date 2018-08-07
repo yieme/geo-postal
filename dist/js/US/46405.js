@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46405"]={"code":"46405","region":"IN","city":"Lake Station","latitude":41.5686,"longitude":-87.2622}}(window,'GeoPostal','US');

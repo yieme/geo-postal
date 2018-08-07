@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18410"]={"code":"18410","region":"Prizrenski okrug","city":"Dragash","latitude":42.0625,"longitude":20.65333}}(window,'GeoPostal','RS');

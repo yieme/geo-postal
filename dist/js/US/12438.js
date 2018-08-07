@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12438"]={"code":"12438","region":"NY","city":"Halcottsville","latitude":42.2079,"longitude":-74.6012}}(window,'GeoPostal','US');

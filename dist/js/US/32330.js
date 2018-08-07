@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32330"]={"code":"32330","region":"Florida","city":"Greensboro","latitude":30.57053,"longitude":-84.74306}}(window,'GeoPostal','US');

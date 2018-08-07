@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60962"]={"code":"60962","region":"IL","city":"Roberts","latitude":40.6193,"longitude":-88.1804}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20622"]={"code":"20622","region":"Maryland","city":"Charlotte Hall","latitude":38.48096,"longitude":-76.77802}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HD4 7BH"]={"code":"HD4 7BH","region":"England","city":"Holmfirth","latitude":53.56968,"longitude":-1.78777}}(window,'GeoPostal','GB');

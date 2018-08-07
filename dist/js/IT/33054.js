@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33054"]={"code":"33054","region":"Friuli-Venezia Giulia","city":"Lignano Sabbiadoro","latitude":45.69222,"longitude":13.14806}}(window,'GeoPostal','IT');

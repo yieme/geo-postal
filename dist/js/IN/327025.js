@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327025"]={"code":"327025","region":"Rajasthan","city":"Banswara","latitude":23.55,"longitude":74.45}}(window,'GeoPostal','IN');

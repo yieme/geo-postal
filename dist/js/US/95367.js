@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95367"]={"code":"95367","region":"California","city":"Riverbank","latitude":37.73604,"longitude":-120.93549}}(window,'GeoPostal','US');

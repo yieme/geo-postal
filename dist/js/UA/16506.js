@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16506"]={"code":"16506","region":"Chernihivska oblast","city":"Bakhmach","latitude":51.18076,"longitude":32.75694}}(window,'GeoPostal','UA');

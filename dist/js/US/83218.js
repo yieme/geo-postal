@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83218"]={"code":"83218","region":"ID","city":"Basalt","latitude":43.3155,"longitude":-112.1644}}(window,'GeoPostal','US');

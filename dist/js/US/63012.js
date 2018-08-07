@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63012"]={"code":"63012","region":"Missouri","city":"Barnhart","latitude":38.337261,"longitude":-90.437433}}(window,'GeoPostal','US');

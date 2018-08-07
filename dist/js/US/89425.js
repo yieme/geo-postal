@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89425"]={"code":"89425","region":"Nevada","city":"Orovada","latitude":41.737551,"longitude":-118.091532}}(window,'GeoPostal','US');

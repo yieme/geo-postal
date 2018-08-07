@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04937"]={"code":"04937","region":"Maine","city":"Fairfield","latitude":44.604256,"longitude":-69.633882}}(window,'GeoPostal','US');

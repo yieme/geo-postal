@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16643"]={"code":"16643","region":"Chernihivska oblast","city":"Nizhyn","latitude":51.04801,"longitude":31.88688}}(window,'GeoPostal','UA');

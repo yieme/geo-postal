@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66434"]={"code":"66434","region":"Kansas","city":"Hiawatha","latitude":39.8525,"longitude":-95.53582}}(window,'GeoPostal','US');

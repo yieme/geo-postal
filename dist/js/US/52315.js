@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52315"]={"code":"52315","region":"IA","city":"Newhall","latitude":41.9927,"longitude":-91.9779}}(window,'GeoPostal','US');

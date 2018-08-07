@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL32 9PG"]={"code":"PL32 9PG","region":"England","city":"Camelford","latitude":50.62185,"longitude":-4.67963}}(window,'GeoPostal','GB');

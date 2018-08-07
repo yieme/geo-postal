@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3184"]={"code":"3184","region":"Kwazulu-Natal","city":"Vryheid","latitude":-27.76952,"longitude":30.79165}}(window,'GeoPostal','ZA');

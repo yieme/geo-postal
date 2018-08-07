@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17314"]={"code":"17314","region":"Nouvelle-Aquitaine","city":"Rochefort","latitude":45.93333,"longitude":-0.98333}}(window,'GeoPostal','FR');

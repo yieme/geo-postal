@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22310"]={"code":"22310","region":"Bretagne","city":"Plestin-les-Greves","latitude":48.65844,"longitude":-3.63056}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48084"]={"code":"48084","region":"Michigan","city":"Troy","latitude":42.5599,"longitude":-83.1716}}(window,'GeoPostal','US');

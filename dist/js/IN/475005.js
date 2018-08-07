@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["475005"]={"code":"475005","region":"Madhya Pradesh","city":"Rampura","latitude":24.46667,"longitude":75.43333}}(window,'GeoPostal','IN');

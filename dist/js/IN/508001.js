@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["508001"]={"code":"508001","region":"Telangana","city":"Nalgonda","latitude":17.05,"longitude":79.26667}}(window,'GeoPostal','IN');

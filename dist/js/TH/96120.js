@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96120"]={"code":"96120","region":"Narathiwat","city":"Su-ngai Kolok","latitude":6.02977,"longitude":101.96586}}(window,'GeoPostal','TH');

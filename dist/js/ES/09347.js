@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09347"]={"code":"09347","region":"Castilla y Leon","city":"Lerma","latitude":42.02609,"longitude":-3.75978}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY16 4NU"]={"code":"SY16 4NU","region":"Wales","city":"Kerry","latitude":52.50156,"longitude":-3.25862}}(window,'GeoPostal','GB');

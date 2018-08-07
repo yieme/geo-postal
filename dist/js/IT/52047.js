@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52047"]={"code":"52047","region":"Toscana","city":"Marciano","latitude":43.30494,"longitude":11.78644}}(window,'GeoPostal','IT');

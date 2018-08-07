@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20250"]={"code":"20250","region":"Corse","city":"Corte","latitude":42.3,"longitude":9.15}}(window,'GeoPostal','FR');

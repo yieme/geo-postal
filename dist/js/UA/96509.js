@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96509"]={"code":"96509","region":"Avtonomna Respublika Krym","city":"Saky","latitude":45.13424,"longitude":33.59996}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3545"]={"code":"3545","region":"Chaco","city":"Villa Berthet","latitude":-27.29174,"longitude":-60.41263}}(window,'GeoPostal','AR');

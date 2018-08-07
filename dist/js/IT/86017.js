@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86017"]={"code":"86017","region":"Molise","city":"Sepino","latitude":41.40802,"longitude":14.61833}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19975"]={"code":"19975","region":"DE","city":"Selbyville","latitude":38.4654,"longitude":-75.1573}}(window,'GeoPostal','US');

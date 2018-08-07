@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5159"]={"code":"5159","region":"New South Wales","city":"Aberfoyle","latitude":-30.26667,"longitude":152.01667}}(window,'GeoPostal','AU');

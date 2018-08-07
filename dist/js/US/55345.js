@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55345"]={"code":"55345","region":"Minnesota","city":"Minnetonka","latitude":44.91726,"longitude":-93.48474}}(window,'GeoPostal','US');

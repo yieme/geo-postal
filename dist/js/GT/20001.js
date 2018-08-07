@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20001"]={"code":"20001","region":"Chiquimula","city":"Chiquimula","latitude":14.8,"longitude":-89.55}}(window,'GeoPostal','GT');

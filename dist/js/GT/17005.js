@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17005"]={"code":"17005","region":"Peten","city":"Sayaxche","latitude":16.51667,"longitude":-90.16667}}(window,'GeoPostal','GT');

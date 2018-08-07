@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68263"]={"code":"68263","region":"Odeska oblast","city":"Bilhorod-Dnistrovs'kyy","latitude":46.1952,"longitude":30.34938}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["986 01"]={"code":"986 01","region":"Banskobystricky kraj","city":"Fil'akovo","latitude":48.26757,"longitude":19.82473}}(window,'GeoPostal','SK');

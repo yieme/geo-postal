@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49400"]={"code":"49400","region":"Castilla y Leon","city":"Fuentesauco","latitude":41.23043,"longitude":-5.49722}}(window,'GeoPostal','ES');

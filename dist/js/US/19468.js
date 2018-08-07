@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19468"]={"code":"19468","region":"Pennsylvania","city":"Limerick","latitude":40.19682,"longitude":-75.53928}}(window,'GeoPostal','US');

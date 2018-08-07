@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22846"]={"code":"22846","region":"VA","city":"Penn Laird","latitude":38.375,"longitude":-78.7795}}(window,'GeoPostal','US');

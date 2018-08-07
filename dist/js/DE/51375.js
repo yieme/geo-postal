@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51375"]={"code":"51375","region":"Nordrhein-Westfalen","city":"Leverkusen","latitude":51.0303,"longitude":6.98432}}(window,'GeoPostal','DE');

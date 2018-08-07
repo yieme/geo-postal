@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18230"]={"code":"18230","region":"Mecklenburg-Vorpommern","city":"Ostseebad Rerik","latitude":54.10536,"longitude":11.61275}}(window,'GeoPostal','DE');

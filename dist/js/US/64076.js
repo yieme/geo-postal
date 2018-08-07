@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64076"]={"code":"64076","region":"Missouri","city":"Odessa","latitude":38.99661,"longitude":-93.954208}}(window,'GeoPostal','US');

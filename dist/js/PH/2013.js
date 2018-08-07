@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2013"]={"code":"2013","region":"Pampanga","city":"Candaba","latitude":15.0956,"longitude":120.8267}}(window,'GeoPostal','PH');

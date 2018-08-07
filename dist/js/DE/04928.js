@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04928"]={"code":"04928","region":"Brandenburg","city":"Kahla","latitude":51.46781,"longitude":13.56629}}(window,'GeoPostal','DE');

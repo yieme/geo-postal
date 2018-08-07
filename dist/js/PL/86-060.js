@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-060"]={"code":"86-060","region":"Kujawsko-pomorskie","city":"Nowa Wies Wielka","latitude":52.97159,"longitude":18.09036}}(window,'GeoPostal','PL');

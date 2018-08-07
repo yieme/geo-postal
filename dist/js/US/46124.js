@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46124"]={"code":"46124","region":"Indiana","city":"Edinburgh","latitude":39.353574,"longitude":-85.964085}}(window,'GeoPostal','US');

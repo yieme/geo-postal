@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2445"]={"code":"2445","region":"New South Wales","city":"Bonny Hills","latitude":-31.59061,"longitude":152.83908}}(window,'GeoPostal','AU');

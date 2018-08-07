@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16225"]={"code":"16225","region":"PA","city":"Fisher","latitude":41.2665,"longitude":-79.2425}}(window,'GeoPostal','US');

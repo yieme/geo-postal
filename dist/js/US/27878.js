@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27878"]={"code":"27878","region":"NC","city":"Sharpsburg","latitude":35.8654,"longitude":-77.8389}}(window,'GeoPostal','US');

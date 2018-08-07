@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416805"]={"code":"416805","region":"Hunan","city":"Shuishaping","latitude":29.37779,"longitude":109.55505}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["561 69"]={"code":"561 69","region":"Pardubicky kraj","city":"Kraliky","latitude":50.08384,"longitude":16.76054}}(window,'GeoPostal','CZ');

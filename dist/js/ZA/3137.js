@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3137"]={"code":"3137","region":"Kwazulu-Natal","city":"Mondlo","latitude":-27.98299,"longitude":30.71769}}(window,'GeoPostal','ZA');

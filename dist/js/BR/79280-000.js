@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79280-000"]={"code":"79280-000","region":"Mato Grosso do Sul","city":"Porto Murtinho","latitude":-21.69889,"longitude":-57.8825}}(window,'GeoPostal','BR');

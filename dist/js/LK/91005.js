@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91005"]={"code":"91005","region":"Uva Province","city":"Wattegama","latitude":6.7989,"longitude":81.4808}}(window,'GeoPostal','LK');

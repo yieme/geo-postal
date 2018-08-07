@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08721"]={"code":"08721","region":"New Jersey","city":"Bayville","latitude":39.909167,"longitude":-74.155}}(window,'GeoPostal','US');

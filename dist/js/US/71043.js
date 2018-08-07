@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71043"]={"code":"71043","region":"LA","city":"Hosston","latitude":32.8967,"longitude":-93.8834}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73130"]={"code":"73130","region":"Oklahoma","city":"Midwest City","latitude":35.4674,"longitude":-97.3365}}(window,'GeoPostal','US');

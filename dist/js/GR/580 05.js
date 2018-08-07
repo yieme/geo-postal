@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["580 05"]={"code":"580 05","region":"Kentriki Makedonia","city":"Nea Pella","latitude":40.76611,"longitude":22.48556}}(window,'GeoPostal','GR');

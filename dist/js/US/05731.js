@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05731"]={"code":"05731","region":"VT","city":"Benson","latitude":43.6877,"longitude":-73.2919}}(window,'GeoPostal','US');

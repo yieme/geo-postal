@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28803"]={"code":"28803","region":"North Carolina","city":"Ash","latitude":35.545191,"longitude":-82.523901}}(window,'GeoPostal','US');

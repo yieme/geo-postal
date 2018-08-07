@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29593"]={"code":"29593","region":"Niedersachsen","city":"Westerweyhe","latitude":52.99698,"longitude":10.51093}}(window,'GeoPostal','DE');

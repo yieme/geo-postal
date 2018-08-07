@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["175130"]={"code":"175130","region":"Himachal Pradesh","city":"Nagar","latitude":32.11667,"longitude":77.16667}}(window,'GeoPostal','IN');

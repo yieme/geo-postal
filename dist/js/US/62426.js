@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62426"]={"code":"62426","region":"Illinois","city":"Edgewood","latitude":38.922732,"longitude":-88.666315}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29576"]={"code":"29576","region":"South Carolina","city":"Garden City","latitude":33.59295,"longitude":-79.00865}}(window,'GeoPostal','US');

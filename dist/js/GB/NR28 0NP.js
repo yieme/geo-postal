@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR28 0NP"]={"code":"NR28 0NP","region":"England","city":"Antingham","latitude":52.85246,"longitude":1.35112}}(window,'GeoPostal','GB');

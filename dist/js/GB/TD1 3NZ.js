@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD1 3NZ"]={"code":"TD1 3NZ","region":"Scotland","city":"Lindean","latitude":55.5731,"longitude":-2.81798}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83427"]={"code":"83427","region":"ID","city":"Iona","latitude":43.5263,"longitude":-111.933}}(window,'GeoPostal','US');

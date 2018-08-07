@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19085"]={"code":"19085","region":"Pennsylvania","city":"Villanova","latitude":40.0362,"longitude":-75.34932}}(window,'GeoPostal','US');

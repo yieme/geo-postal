@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45115"]={"code":"45115","region":"Volynska oblast","city":"Lukov","latitude":51.0521,"longitude":25.40059}}(window,'GeoPostal','UA');

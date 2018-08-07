@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["592 31"]={"code":"592 31","region":"Kraj Vysocina","city":"Nove Mesto na Morave","latitude":49.56144,"longitude":16.07418}}(window,'GeoPostal','CZ');

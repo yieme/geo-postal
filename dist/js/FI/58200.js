@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58200"]={"code":"58200","region":"Etela-Savo","city":"Kerimaki","latitude":61.91069,"longitude":29.28228}}(window,'GeoPostal','FI');

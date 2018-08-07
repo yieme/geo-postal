@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01100"]={"code":"01100","region":"Auvergne-Rhone-Alpes","city":"Bellignat","latitude":46.24237,"longitude":5.62843}}(window,'GeoPostal','FR');

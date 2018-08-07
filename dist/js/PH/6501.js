@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6501"]={"code":"6501","region":"Leyte","city":"Baras","latitude":11.18333,"longitude":125.01667}}(window,'GeoPostal','PH');

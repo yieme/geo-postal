@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["793 16"]={"code":"793 16","region":"Moravskoslezsky kraj","city":"Zator","latitude":50.03413,"longitude":17.59296}}(window,'GeoPostal','CZ');

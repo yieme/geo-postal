@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8354"]={"code":"8354","region":"Steiermark","city":"Sankt Anna am Aigen","latitude":46.83111,"longitude":15.97139}}(window,'GeoPostal','AT');

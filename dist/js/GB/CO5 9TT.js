@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO5 9TT"]={"code":"CO5 9TT","region":"England","city":"Messing","latitude":51.83716,"longitude":0.75239}}(window,'GeoPostal','GB');

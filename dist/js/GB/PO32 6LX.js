@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO32 6LX"]={"code":"PO32 6LX","region":"England","city":"Whippingham","latitude":50.73747,"longitude":-1.26862}}(window,'GeoPostal','GB');

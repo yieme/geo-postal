@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 0JL"]={"code":"AB51 0JL","region":"Scotland","city":"Daviot","latitude":57.33333,"longitude":-2.41667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132133"]={"code":"132133","region":"Haryana","city":"Radaur","latitude":30.03333,"longitude":77.15}}(window,'GeoPostal','IN');

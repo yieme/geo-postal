@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22011"]={"code":"22011","region":"Khyber Pakhtunkhwa","city":"Abbottabad","latitude":34.14685,"longitude":73.21449}}(window,'GeoPostal','PK');

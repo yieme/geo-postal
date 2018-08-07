@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60542"]={"code":"60542","region":"Illinois","city":"North Aurora","latitude":41.808254,"longitude":-88.326385}}(window,'GeoPostal','US');

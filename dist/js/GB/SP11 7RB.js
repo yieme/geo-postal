@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP11 7RB"]={"code":"SP11 7RB","region":"England","city":"Goodworth Clatford","latitude":51.17843,"longitude":-1.48354}}(window,'GeoPostal','GB');

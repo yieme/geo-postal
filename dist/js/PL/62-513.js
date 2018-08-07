@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-513"]={"code":"62-513","region":"Wielkopolskie","city":"Krzymow","latitude":52.1896,"longitude":18.4311}}(window,'GeoPostal','PL');

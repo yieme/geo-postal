@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["935 21"]={"code":"935 21","region":"Nitriansky kraj","city":"Tlmace","latitude":48.28926,"longitude":18.53152}}(window,'GeoPostal','SK');

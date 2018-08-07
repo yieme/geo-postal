@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-570"]={"code":"27-570","region":"Swietokrzyskie","city":"Iwaniska","latitude":50.73146,"longitude":21.2806}}(window,'GeoPostal','PL');

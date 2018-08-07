@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["180 50"]={"code":"180 50","region":"Attiki","city":"Spetses","latitude":37.26191,"longitude":23.15943}}(window,'GeoPostal','GR');

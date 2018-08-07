@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56737"]={"code":"56737","region":"Minnesota","city":"Middle River","latitude":48.456371,"longitude":-96.059073}}(window,'GeoPostal','US');

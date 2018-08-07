@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99032"]={"code":"99032","region":"WA","city":"Sprague","latitude":47.3247,"longitude":-117.9897}}(window,'GeoPostal','US');

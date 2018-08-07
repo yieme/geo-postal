@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["041500"]={"code":"041500","region":"Shanxi","city":"Xiangfen","latitude":35.876389,"longitude":111.441944}}(window,'GeoPostal','CN');

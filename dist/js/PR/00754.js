@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00754"]={"code":"00754","region":"San Lorenzo","city":"San Lorenzo","latitude":18.1894,"longitude":-65.961}}(window,'GeoPostal','PR');

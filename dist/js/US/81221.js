@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81221"]={"code":"81221","region":"CO","city":"Coal Creek","latitude":38.3611,"longitude":-105.1483}}(window,'GeoPostal','US');

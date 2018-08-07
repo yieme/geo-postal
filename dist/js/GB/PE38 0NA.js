@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE38 0NA"]={"code":"PE38 0NA","region":"England","city":"Southery","latitude":52.52714,"longitude":0.38783}}(window,'GeoPostal','GB');

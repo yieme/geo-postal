@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55437"]={"code":"55437","region":"Rheinland-Pfalz","city":"Appenheim","latitude":49.93,"longitude":8.03333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4615-307"]={"code":"4615-307","region":"Porto","city":"Lixa","latitude":41.321067,"longitude":-8.14167}}(window,'GeoPostal','PT');

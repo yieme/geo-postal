@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["CF"]={id:'CF',country:'Central African Republic', postal:{'':{code:'',region:'Bangui',city:'Bangui',latitude:4.36122,longitude:18.55496}}};

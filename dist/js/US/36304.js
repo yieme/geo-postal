@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36304"]={"code":"36304","region":"Alabama","city":"Dothan","latitude":31.23595,"longitude":-85.405299}}(window,'GeoPostal','US');

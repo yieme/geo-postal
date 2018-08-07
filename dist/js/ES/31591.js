@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31591"]={"code":"31591","region":"Navarra, Comunidad Foral de","city":"Corella","latitude":42.11507,"longitude":-1.78563}}(window,'GeoPostal','ES');

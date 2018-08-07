@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3663"]={"code":"3663","region":"Borsod-Abauj-Zemplen","city":"Farkaslyuk","latitude":48.18333,"longitude":20.31667}}(window,'GeoPostal','HU');

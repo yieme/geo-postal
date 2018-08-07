@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412378"]={"code":"412378","region":"Voronezhskaya oblast'","city":"Kamenka","latitude":51.3223,"longitude":42.7678}}(window,'GeoPostal','RU');

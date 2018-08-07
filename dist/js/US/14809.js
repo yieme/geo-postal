@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14809"]={"code":"14809","region":"New York","city":"Avoca","latitude":42.410278,"longitude":-77.425556}}(window,'GeoPostal','US');

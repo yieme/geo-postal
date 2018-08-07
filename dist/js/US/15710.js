@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15710"]={"code":"15710","region":"PA","city":"Alverda","latitude":40.6303,"longitude":-78.857}}(window,'GeoPostal','US');

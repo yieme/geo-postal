@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61348"]={"code":"61348","region":"Hessen","city":"Bad Homburg vor der Hohe","latitude":50.22667,"longitude":8.61963}}(window,'GeoPostal','DE');

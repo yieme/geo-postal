@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38112"]={"code":"38112","region":"Tennessee","city":"Memphis","latitude":35.147375,"longitude":-89.977686}}(window,'GeoPostal','US');

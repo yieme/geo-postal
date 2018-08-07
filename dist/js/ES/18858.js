@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18858"]={"code":"18858","region":"Andalucia","city":"Orce","latitude":37.7212,"longitude":-2.47752}}(window,'GeoPostal','ES');

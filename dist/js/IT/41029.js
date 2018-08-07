@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41029"]={"code":"41029","region":"Emilia-Romagna","city":"Sestola","latitude":44.23046,"longitude":10.7714}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["180 30"]={"code":"180 30","region":"Attiki","city":"Methana","latitude":37.58234,"longitude":23.39142}}(window,'GeoPostal','GR');

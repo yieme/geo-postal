@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442539"]={"code":"442539","region":"Penzenskaya oblast'","city":"Kuznetsk","latitude":53.11675,"longitude":46.60037}}(window,'GeoPostal','RU');

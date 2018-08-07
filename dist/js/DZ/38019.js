@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38019"]={"code":"38019","region":"Tissemsilt","city":"Tissemsilt","latitude":35.60722,"longitude":1.81081}}(window,'GeoPostal','DZ');

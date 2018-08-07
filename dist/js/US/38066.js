@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38066"]={"code":"38066","region":"TN","city":"Rossville","latitude":35.0768,"longitude":-89.5678}}(window,'GeoPostal','US');

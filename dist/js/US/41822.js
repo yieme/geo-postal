@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41822"]={"code":"41822","region":"Kentucky","city":"Hindman","latitude":37.33593,"longitude":-82.98044}}(window,'GeoPostal','US');

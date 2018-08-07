@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83126"]={"code":"83126","region":"Wyoming","city":"Smoot","latitude":42.607645,"longitude":-110.908216}}(window,'GeoPostal','US');

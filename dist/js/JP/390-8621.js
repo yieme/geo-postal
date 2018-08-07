@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["390-8621"]={"code":"390-8621","region":"Nagano","city":"Matsumoto","latitude":36.233,"longitude":137.967}}(window,'GeoPostal','JP');

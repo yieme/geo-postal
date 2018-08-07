@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82377"]={"code":"82377","region":"Bayern","city":"Heinz","latitude":47.76669,"longitude":11.3908}}(window,'GeoPostal','DE');

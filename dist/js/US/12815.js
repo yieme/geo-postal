@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12815"]={"code":"12815","region":"New York","city":"Brant Lake","latitude":43.67155,"longitude":-73.76924}}(window,'GeoPostal','US');

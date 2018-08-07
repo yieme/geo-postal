@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247695"]={"code":"247695","region":"Valcea","city":"Tetoiu","latitude":44.75,"longitude":23.91667}}(window,'GeoPostal','RO');

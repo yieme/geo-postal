@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60113"]={"code":"60113","region":"IL","city":"Creston","latitude":41.9312,"longitude":-88.9566}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352203"]={"code":"352203","region":"Krasnodarskiy kray","city":"Prikubanskiy","latitude":45.0015,"longitude":41.1795}}(window,'GeoPostal','RU');

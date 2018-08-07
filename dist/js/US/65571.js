@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65571"]={"code":"65571","region":"Missouri","city":"Summersville","latitude":37.17806,"longitude":-91.65861}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P1P 1X2"]={"code":"P1P 1X2","region":"Ontario","city":"Gravenhurst","latitude":44.920649,"longitude":-79.37458}}(window,'GeoPostal','CA');

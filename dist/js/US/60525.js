@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60525"]={"code":"60525","region":"Illinois","city":"La Grange","latitude":41.795251,"longitude":-87.875697}}(window,'GeoPostal','US');

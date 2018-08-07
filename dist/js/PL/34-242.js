@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-242"]={"code":"34-242","region":"Malopolskie","city":"Borek","latitude":50.01778,"longitude":20.53087}}(window,'GeoPostal','PL');

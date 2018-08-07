@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54653"]={"code":"54653","region":"WI","city":"Rockland","latitude":43.9064,"longitude":-90.9193}}(window,'GeoPostal','US');

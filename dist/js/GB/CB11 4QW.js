@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB11 4QW"]={"code":"CB11 4QW","region":"England","city":"Clavering","latitude":51.9654,"longitude":0.14308}}(window,'GeoPostal','GB');

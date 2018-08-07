@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45860-000"]={"code":"45860-000","region":"Bahia","city":"Belmonte","latitude":-15.86306,"longitude":-38.88278}}(window,'GeoPostal','BR');

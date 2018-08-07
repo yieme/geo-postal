@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79300"]={"code":"79300","region":"Nouvelle-Aquitaine","city":"Boisme","latitude":46.77393,"longitude":-0.43476}}(window,'GeoPostal','FR');

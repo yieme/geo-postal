@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59287"]={"code":"59287","region":"Hauts-de-France","city":"Lewarde","latitude":50.34173,"longitude":3.16782}}(window,'GeoPostal','FR');

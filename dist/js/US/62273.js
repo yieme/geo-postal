@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62273"]={"code":"62273","region":"IL","city":"Pierron","latitude":38.78,"longitude":-89.5981}}(window,'GeoPostal','US');

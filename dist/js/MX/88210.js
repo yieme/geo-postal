@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88210"]={"code":"88210","region":"Tamaulipas","city":"Heroica Matamoros","latitude":25.88333,"longitude":-97.5}}(window,'GeoPostal','MX');

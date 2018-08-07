@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39870"]={"code":"39870","region":"GA","city":"Newton","latitude":31.3164,"longitude":-84.3367}}(window,'GeoPostal','US');

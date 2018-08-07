@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680 12"]={"code":"680 12","region":"Anatoliki Makedonia kai Thraki","city":"Ferai","latitude":40.89556,"longitude":26.17}}(window,'GeoPostal','GR');

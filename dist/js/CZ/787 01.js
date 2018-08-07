@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["787 01"]={"code":"787 01","region":"Olomoucky kraj","city":"Sumperk","latitude":49.96528,"longitude":16.97061}}(window,'GeoPostal','CZ');

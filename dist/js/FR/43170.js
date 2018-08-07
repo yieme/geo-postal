@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43170"]={"code":"43170","region":"Auvergne-Rhone-Alpes","city":"Saugues","latitude":44.96039,"longitude":3.54784}}(window,'GeoPostal','FR');

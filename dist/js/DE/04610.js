@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04610"]={"code":"04610","region":"Thuringen","city":"Meuselwitz","latitude":51.04316,"longitude":12.29935}}(window,'GeoPostal','DE');

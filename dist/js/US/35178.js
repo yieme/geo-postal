@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35178"]={"code":"35178","region":"AL","city":"Vincent","latitude":33.401,"longitude":-86.3994}}(window,'GeoPostal','US');

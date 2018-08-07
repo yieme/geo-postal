@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3270"]={"code":"3270","region":"Pleven","city":"Koynare","latitude":43.35,"longitude":24.13333}}(window,'GeoPostal','BG');

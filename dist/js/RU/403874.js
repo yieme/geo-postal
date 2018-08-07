@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403874"]={"code":"403874","region":"Volgogradskaya oblast'","city":"Kamyshin","latitude":50.09833,"longitude":45.41601}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25535"]={"code":"25535","region":"WV","city":"Lavalette","latitude":38.3305,"longitude":-82.4287}}(window,'GeoPostal','US');

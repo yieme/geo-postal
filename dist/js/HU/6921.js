@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6921"]={"code":"6921","region":"Csongrad","city":"Maroslele","latitude":46.26667,"longitude":20.35}}(window,'GeoPostal','HU');

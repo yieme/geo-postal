@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8305"]={"code":"8305","region":"Zurich","city":"Dietlikon / Dietlikon (Dorf)","latitude":47.41827,"longitude":8.6188}}(window,'GeoPostal','CH');

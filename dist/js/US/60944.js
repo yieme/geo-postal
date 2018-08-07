@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60944"]={"code":"60944","region":"IL","city":"Hopkins Park","latitude":41.0634,"longitude":-87.625}}(window,'GeoPostal','US');

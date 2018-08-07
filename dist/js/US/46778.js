@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46778"]={"code":"46778","region":"IN","city":"Petroleum","latitude":40.6114,"longitude":-85.1526}}(window,'GeoPostal','US');

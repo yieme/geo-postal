@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51010"]={"code":"51010","region":"Punjab","city":"Daska","latitude":32.32426,"longitude":74.34974}}(window,'GeoPostal','PK');

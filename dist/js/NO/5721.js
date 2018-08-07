@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5721"]={"code":"5721","region":"Hordaland","city":"Dale","latitude":60.58639,"longitude":5.81886}}(window,'GeoPostal','NO');

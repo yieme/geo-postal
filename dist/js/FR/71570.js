@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71570"]={"code":"71570","region":"Bourgogne-Franche-Comte","city":"La Chapelle-de-Guinchay","latitude":46.20841,"longitude":4.76245}}(window,'GeoPostal','FR');

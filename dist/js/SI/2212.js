@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2212"]={"code":"2212","region":"Sentilj","city":"Sentilj","latitude":46.68167,"longitude":15.64806}}(window,'GeoPostal','SI');

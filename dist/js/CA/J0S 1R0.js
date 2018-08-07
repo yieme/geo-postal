@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0S 1R0"]={"code":"J0S 1R0","region":"Quebec","city":"Saint-Chrysostome","latitude":45.10008,"longitude":-73.76589}}(window,'GeoPostal','CA');

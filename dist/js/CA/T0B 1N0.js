@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 1N0"]={"code":"T0B 1N0","region":"Alberta","city":"Forestburg","latitude":52.58344,"longitude":-112.0685}}(window,'GeoPostal','CA');

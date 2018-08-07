@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2010"]={"code":"2010","region":"Pampanga","city":"Mabalacat","latitude":15.2216,"longitude":120.5736}}(window,'GeoPostal','PH');

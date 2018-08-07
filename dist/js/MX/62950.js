@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62950"]={"code":"62950","region":"Morelos","city":"Axochiapan","latitude":18.5,"longitude":-98.76667}}(window,'GeoPostal','MX');

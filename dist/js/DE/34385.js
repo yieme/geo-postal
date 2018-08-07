@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34385"]={"code":"34385","region":"Hessen","city":"Helmarshausen","latitude":51.62921,"longitude":9.46129}}(window,'GeoPostal','DE');

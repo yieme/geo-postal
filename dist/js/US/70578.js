@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70578"]={"code":"70578","region":"LA","city":"Rayne","latitude":30.2349,"longitude":-92.2685}}(window,'GeoPostal','US');

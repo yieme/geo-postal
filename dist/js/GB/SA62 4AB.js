@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 4AB"]={"code":"SA62 4AB","region":"Wales","city":"Uzmaston","latitude":51.79222,"longitude":-4.94417}}(window,'GeoPostal','GB');

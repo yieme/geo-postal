@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0G 2T0"]={"code":"R0G 2T0","region":"Manitoba","city":"Brown","latitude":49.0444,"longitude":-98.17907}}(window,'GeoPostal','CA');

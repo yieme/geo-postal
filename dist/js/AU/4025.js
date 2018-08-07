@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4025"]={"code":"4025","region":"Queensland","city":"Tangalooma","latitude":-27.17945,"longitude":153.37429}}(window,'GeoPostal','AU');

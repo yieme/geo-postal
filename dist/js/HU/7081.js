@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7081"]={"code":"7081","region":"Tolna","city":"Simontornya","latitude":46.75462,"longitude":18.5549}}(window,'GeoPostal','HU');

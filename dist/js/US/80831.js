@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80831"]={"code":"80831","region":"Colorado","city":"Peyton","latitude":39.0288809,"longitude":-104.4830238}}(window,'GeoPostal','US');

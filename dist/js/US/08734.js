@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08734"]={"code":"08734","region":"NJ","city":"Lanoka Harbor","latitude":39.862,"longitude":-74.1668}}(window,'GeoPostal','US');

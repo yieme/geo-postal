@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14760"]={"code":"14760","region":"New York","city":"Olean","latitude":42.07756,"longitude":-78.42974}}(window,'GeoPostal','US');

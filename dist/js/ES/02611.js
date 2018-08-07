@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02611"]={"code":"02611","region":"Castilla-La Mancha","city":"Ossa de Montiel","latitude":38.96398,"longitude":-2.74553}}(window,'GeoPostal','ES');

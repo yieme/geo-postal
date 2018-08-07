@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6025"]={"code":"6025","region":"Gabes","city":"El Hamma","latitude":33.89152,"longitude":9.79629}}(window,'GeoPostal','TN');

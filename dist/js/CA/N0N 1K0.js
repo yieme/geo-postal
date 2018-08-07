@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0N 1K0"]={"code":"N0N 1K0","region":"Ontario","city":"Inwood","latitude":42.81678,"longitude":-81.9831}}(window,'GeoPostal','CA');

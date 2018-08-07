@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-440"]={"code":"83-440","region":"Pomorskie","city":"Karsin","latitude":53.90768,"longitude":17.92093}}(window,'GeoPostal','PL');

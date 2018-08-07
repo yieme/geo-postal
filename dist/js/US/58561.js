@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58561"]={"code":"58561","region":"North Dakota","city":"Napoleon","latitude":46.50831,"longitude":-99.77122}}(window,'GeoPostal','US');

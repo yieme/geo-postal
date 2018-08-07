@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA48 8HX"]={"code":"SA48 8HX","region":"Wales","city":"Cellan","latitude":52.12309,"longitude":-4.03426}}(window,'GeoPostal','GB');

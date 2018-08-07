@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570 03"]={"code":"570 03","region":"Ipeiros","city":"Agios Georgis","latitude":39.72363,"longitude":19.69969}}(window,'GeoPostal','GR');

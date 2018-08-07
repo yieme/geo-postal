@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38015"]={"code":"38015","region":"TN","city":"Burlison","latitude":35.5399,"longitude":-89.8177}}(window,'GeoPostal','US');

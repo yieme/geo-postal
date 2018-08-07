@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82636"]={"code":"82636","region":"WY","city":"Evansville","latitude":42.8992,"longitude":-106.1754}}(window,'GeoPostal','US');

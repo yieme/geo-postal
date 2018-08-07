@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32500"]={"code":"32500","region":"Isparta","city":"Egirdir","latitude":37.87462,"longitude":30.85042}}(window,'GeoPostal','TR');

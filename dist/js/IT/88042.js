@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88042"]={"code":"88042","region":"Calabria","city":"Falerna","latitude":39.00249,"longitude":16.1707}}(window,'GeoPostal','IT');

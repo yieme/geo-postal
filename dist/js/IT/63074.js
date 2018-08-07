@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63074"]={"code":"63074","region":"Marche","city":"San Benedetto del Tronto","latitude":42.94562,"longitude":13.88157}}(window,'GeoPostal','IT');

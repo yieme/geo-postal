@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73539"]={"code":"73539","region":"OK","city":"Elmer","latitude":34.5137,"longitude":-99.3167}}(window,'GeoPostal','US');

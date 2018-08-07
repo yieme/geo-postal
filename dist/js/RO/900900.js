@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["900900"]={"code":"900900","region":"Constanta","city":"Constanta","latitude":44.18333,"longitude":28.65}}(window,'GeoPostal','RO');

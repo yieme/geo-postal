@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48197"]={"code":"48197","region":"Michigan","city":"Ypsilanti","latitude":42.24115,"longitude":-83.61299}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22260"]={"code":"22260","region":"Bretagne","city":"Pontrieux","latitude":48.70111,"longitude":-3.15967}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8832"]={"code":"8832","region":"Steiermark","city":"Oberwolz Stadt","latitude":47.2,"longitude":14.26667}}(window,'GeoPostal','AT');

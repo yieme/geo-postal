@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WS9 6EX"]={"code":"WS9 6EX","region":"England","city":"Brighton","latitude":50.82838,"longitude":-0.13947}}(window,'GeoPostal','GB');

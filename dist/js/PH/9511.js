@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9511"]={"code":"9511","region":"Negros Occidental","city":"Paraiso","latitude":6.47361,"longitude":124.81083}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157760"]={"code":"157760","region":"Kostromskaya oblast'","city":"Vokhma","latitude":58.9303,"longitude":46.75859}}(window,'GeoPostal','RU');

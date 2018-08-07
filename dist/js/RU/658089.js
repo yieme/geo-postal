@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658089"]={"code":"658089","region":"Altayskiy kray","city":"Novoaltaysk","latitude":53.3917,"longitude":83.9363}}(window,'GeoPostal','RU');

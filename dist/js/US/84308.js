@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84308"]={"code":"84308","region":"UT","city":"Cornish","latitude":41.9443,"longitude":-111.9733}}(window,'GeoPostal','US');

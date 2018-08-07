@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78650"]={"code":"78650","region":"Ile-de-France","city":"Beynes","latitude":48.85626,"longitude":1.87261}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93210"]={"code":"93210","region":"California","city":"Coalinga","latitude":36.167821,"longitude":-120.361196}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28584"]={"code":"28584","region":"North Carolina","city":"Swansboro","latitude":34.68766,"longitude":-77.11912}}(window,'GeoPostal','US');

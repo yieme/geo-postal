@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02350"]={"code":"02350","region":"MA","city":"Monponsett","latitude":42.0185,"longitude":-70.8475}}(window,'GeoPostal','US');

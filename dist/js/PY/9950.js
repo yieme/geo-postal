@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9950"]={"code":"9950","region":"Presidente Hayes","city":"Nanawa","latitude":-25.26667,"longitude":-57.66667}}(window,'GeoPostal','PY');

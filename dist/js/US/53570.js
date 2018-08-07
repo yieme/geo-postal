@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53570"]={"code":"53570","region":"WI","city":"Monticello","latitude":42.7415,"longitude":-89.6081}}(window,'GeoPostal','US');

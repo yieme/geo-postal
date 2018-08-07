@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 0SF"]={"code":"NG34 0SF","region":"England","city":"Folkingham","latitude":52.88923,"longitude":-0.40735}}(window,'GeoPostal','GB');

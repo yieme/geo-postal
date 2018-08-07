@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88063"]={"code":"88063","region":"NM","city":"Sunland Park","latitude":31.8186,"longitude":-106.5997}}(window,'GeoPostal','US');

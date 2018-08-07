@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-110"]={"code":"37-110","region":"Podkarpackie","city":"Zolynia","latitude":50.162,"longitude":22.30825}}(window,'GeoPostal','PL');

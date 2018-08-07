@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19096"]={"code":"19096","region":"Pennsylvania","city":"Wynnewood","latitude":40.00218,"longitude":-75.27336}}(window,'GeoPostal','US');

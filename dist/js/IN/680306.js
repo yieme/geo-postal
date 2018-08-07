@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680306"]={"code":"680306","region":"Kerala","city":"Trichur","latitude":10.51667,"longitude":76.21667}}(window,'GeoPostal','IN');

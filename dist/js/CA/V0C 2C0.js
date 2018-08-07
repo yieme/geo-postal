@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0C 2C0"]={"code":"V0C 2C0","region":"British Columbia","city":"Pouce Coupe","latitude":55.7166,"longitude":-120.13615}}(window,'GeoPostal','CA');

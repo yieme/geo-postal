@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51483"]={"code":"51483","region":"Vastra Gotalands lan","city":"Limmared","latitude":57.53333,"longitude":13.35}}(window,'GeoPostal','SE');

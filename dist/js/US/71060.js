@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71060"]={"code":"71060","region":"LA","city":"Mooringsport","latitude":32.6626,"longitude":-93.973}}(window,'GeoPostal','US');

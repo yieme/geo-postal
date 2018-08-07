@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5260"]={"code":"5260","region":"Catamarca","city":"Recreo","latitude":-29.28184,"longitude":-65.06096}}(window,'GeoPostal','AR');

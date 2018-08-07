@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["491-0882"]={"code":"491-0882","region":"Aichi","city":"Ichinomiya","latitude":35.35,"longitude":136.767}}(window,'GeoPostal','JP');

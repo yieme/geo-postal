@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58840-000"]={"code":"58840-000","region":"Paraiba","city":"Pombal","latitude":-6.77028,"longitude":-37.80167}}(window,'GeoPostal','BR');

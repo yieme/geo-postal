@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18301"]={"code":"18301","region":"Pennsylvania","city":"East Stroudsburg","latitude":41.024124,"longitude":-75.186485}}(window,'GeoPostal','US');

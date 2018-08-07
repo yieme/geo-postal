@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH4 1HJ"]={"code":"RH4 1HJ","region":"England","city":"Dorking","latitude":51.2329,"longitude":-0.32942}}(window,'GeoPostal','GB');

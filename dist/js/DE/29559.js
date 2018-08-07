@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29559"]={"code":"29559","region":"Niedersachsen","city":"Wrestedt","latitude":52.90435,"longitude":10.57494}}(window,'GeoPostal','DE');

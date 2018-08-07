@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63037"]={"code":"63037","region":"Missouri","city":"Gerald","latitude":38.39977,"longitude":-91.33071}}(window,'GeoPostal','US');

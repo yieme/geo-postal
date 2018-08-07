@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3384"]={"code":"3384","region":"Misiones","city":"Montecarlo","latitude":-26.5662,"longitude":-54.757}}(window,'GeoPostal','AR');

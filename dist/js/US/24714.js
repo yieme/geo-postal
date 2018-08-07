@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24714"]={"code":"24714","region":"WV","city":"Beeson","latitude":37.4909,"longitude":-81.2062}}(window,'GeoPostal','US');

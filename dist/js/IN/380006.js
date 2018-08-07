@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["380006"]={"code":"380006","region":"Gujarat","city":"Ahmedabad","latitude":23.03333,"longitude":72.61667}}(window,'GeoPostal','IN');

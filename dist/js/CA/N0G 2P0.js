@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 2P0"]={"code":"N0G 2P0","region":"Ontario","city":"Palmerston","latitude":43.8334,"longitude":-80.84972}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32139"]={"code":"32139","region":"FL","city":"Georgetown","latitude":29.3842,"longitude":-81.6183}}(window,'GeoPostal','US');

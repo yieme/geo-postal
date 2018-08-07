@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68770"]={"code":"68770","region":"Nebraska","city":"Ponca","latitude":42.5625,"longitude":-96.70559}}(window,'GeoPostal','US');

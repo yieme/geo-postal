@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40402"]={"code":"40402","region":"Kentucky","city":"Annville","latitude":37.31925,"longitude":-83.97048}}(window,'GeoPostal','US');

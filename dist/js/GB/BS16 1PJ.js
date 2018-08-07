@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS16 1PJ"]={"code":"BS16 1PJ","region":"England","city":"Frenchay","latitude":51.50083,"longitude":-2.52111}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95345"]={"code":"95345","region":"CA","city":"Midpines","latitude":37.5757,"longitude":-119.9601}}(window,'GeoPostal','US');

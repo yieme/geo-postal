@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37059"]={"code":"37059","region":"TN","city":"Dowelltown","latitude":35.9725,"longitude":-85.9055}}(window,'GeoPostal','US');

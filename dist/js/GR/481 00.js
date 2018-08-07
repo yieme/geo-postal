@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["481 00"]={"code":"481 00","region":"Ipeiros","city":"Preveza","latitude":38.95,"longitude":20.75}}(window,'GeoPostal','GR');

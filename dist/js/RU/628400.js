@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628400"]={"code":"628400","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Surgut","latitude":61.25,"longitude":73.41667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33032"]={"code":"33032","region":"Friuli-Venezia Giulia","city":"Bertiolo","latitude":45.94361,"longitude":13.05083}}(window,'GeoPostal','IT');

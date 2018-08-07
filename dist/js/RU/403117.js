@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403117"]={"code":"403117","region":"Volgogradskaya oblast'","city":"Uryupinsk","latitude":50.8047,"longitude":42.0138}}(window,'GeoPostal','RU');

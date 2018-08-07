@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337142"]={"code":"337142","region":"Arges","city":"Curtea de Arges","latitude":45.13333,"longitude":24.68333}}(window,'GeoPostal','RO');

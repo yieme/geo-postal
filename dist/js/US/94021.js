@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94021"]={"code":"94021","region":"CA","city":"Loma Mar","latitude":37.2708,"longitude":-122.2807}}(window,'GeoPostal','US');

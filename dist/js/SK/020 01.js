@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["020 01"]={"code":"020 01","region":"Nitriansky kraj","city":"Puchov","latitude":49.12494,"longitude":18.32596}}(window,'GeoPostal','SK');

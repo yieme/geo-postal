@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18180"]={"code":"18180","region":"Saraburi","city":"Muak Lek","latitude":14.65287,"longitude":101.20022}}(window,'GeoPostal','TH');

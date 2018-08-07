@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 6BU"]={"code":"PH2 6BU","region":"Scotland","city":"Guildtown","latitude":56.47211,"longitude":-3.40945}}(window,'GeoPostal','GB');

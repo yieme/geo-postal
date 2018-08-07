@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59337"]={"code":"59337","region":"Montana","city":"Jordan","latitude":47.32083,"longitude":-106.91007}}(window,'GeoPostal','US');

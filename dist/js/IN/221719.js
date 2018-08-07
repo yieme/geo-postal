@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["221719"]={"code":"221719","region":"Uttar Pradesh","city":"Belthara","latitude":26.12306,"longitude":83.86889}}(window,'GeoPostal','IN');

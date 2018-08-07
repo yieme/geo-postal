@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68094"]={"code":"68094","region":"Odeska oblast","city":"Oleksandrivka","latitude":46.32893,"longitude":30.63481}}(window,'GeoPostal','UA');

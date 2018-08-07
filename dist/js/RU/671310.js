@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671310"]={"code":"671310","region":"Buryatiya, Respublika","city":"Zaigrayevo","latitude":51.8336,"longitude":108.2703}}(window,'GeoPostal','RU');

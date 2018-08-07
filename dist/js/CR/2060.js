@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2060"]={"code":"2060","region":"San Jose","city":"San Pedro","latitude":9.92829,"longitude":-84.05074}}(window,'GeoPostal','CR');

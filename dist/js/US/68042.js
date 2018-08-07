@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68042"]={"code":"68042","region":"NE","city":"Memphis","latitude":41.0946,"longitude":-96.4306}}(window,'GeoPostal','US');

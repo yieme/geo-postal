@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28654"]={"code":"28654","region":"NC","city":"Moravian Falls","latitude":36.0788,"longitude":-81.1781}}(window,'GeoPostal','US');

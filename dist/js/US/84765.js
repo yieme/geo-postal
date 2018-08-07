@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84765"]={"code":"84765","region":"UT","city":"Santa Clara","latitude":37.1282,"longitude":-113.676}}(window,'GeoPostal','US');

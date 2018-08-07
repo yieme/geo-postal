@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95347"]={"code":"95347","region":"CA","city":"Moccasin","latitude":37.8108,"longitude":-120.2988}}(window,'GeoPostal','US');

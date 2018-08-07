@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["784160"]={"code":"784160","region":"Assam","city":"North Lakhimpur","latitude":27.23333,"longitude":94.11667}}(window,'GeoPostal','IN');

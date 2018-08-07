@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78950"]={"code":"78950","region":"Texas","city":"New Ulm","latitude":29.89222,"longitude":-96.49028}}(window,'GeoPostal','US');

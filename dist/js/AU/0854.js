@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0854"]={"code":"0854","region":"Northern Territory","city":"Borroloola","latitude":-16.07078,"longitude":136.30722}}(window,'GeoPostal','AU');

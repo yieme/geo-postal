@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["418312"]={"code":"418312","region":"Hunan","city":"Gaoyi","latitude":26.95944,"longitude":110.01556}}(window,'GeoPostal','CN');

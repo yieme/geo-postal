@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69969"]={"code":"69969","region":"Auvergne-Rhone-Alpes","city":"Corbas","latitude":45.6679,"longitude":4.89627}}(window,'GeoPostal','FR');

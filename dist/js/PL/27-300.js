@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-300"]={"code":"27-300","region":"Mazowieckie","city":"Lipsko","latitude":51.15954,"longitude":21.64933}}(window,'GeoPostal','PL');

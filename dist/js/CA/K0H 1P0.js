@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0H 1P0"]={"code":"K0H 1P0","region":"Ontario","city":"Elzevir","latitude":44.63342,"longitude":-77.26616}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659391"]={"code":"659391","region":"Altayskiy kray","city":"Sorokino","latitude":53.75,"longitude":84.91667}}(window,'GeoPostal','RU');

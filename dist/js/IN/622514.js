@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["622514"]={"code":"622514","region":"Tamil Nadu","city":"Tiruppuvanam","latitude":9.83333,"longitude":78.26667}}(window,'GeoPostal','IN');

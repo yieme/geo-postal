@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99568"]={"code":"99568","region":"AK","city":"Clam Gulch","latitude":60.2311,"longitude":-151.3936}}(window,'GeoPostal','US');

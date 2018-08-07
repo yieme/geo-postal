@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2138"]={"code":"2138","region":"Santa Fe","city":"Carcarana","latitude":-32.85679,"longitude":-61.15331}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4521"]={"code":"4521","region":"Queensland","city":"Armstrong Creek","latitude":-27.21667,"longitude":152.83333}}(window,'GeoPostal','AU');

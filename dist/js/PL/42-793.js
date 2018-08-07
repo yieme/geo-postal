@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-793"]={"code":"42-793","region":"Slaskie","city":"Ciasna","latitude":50.75427,"longitude":18.60835}}(window,'GeoPostal','PL');

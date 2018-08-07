@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15926"]={"code":"15926","region":"Brandenburg","city":"Luckau","latitude":51.85246,"longitude":13.70735}}(window,'GeoPostal','DE');

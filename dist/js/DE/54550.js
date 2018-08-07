@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54550"]={"code":"54550","region":"Rheinland-Pfalz","city":"Daun","latitude":50.19716,"longitude":6.82942}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27541"]={"code":"27541","region":"NC","city":"Hurdle Mills","latitude":36.2518,"longitude":-79.0827}}(window,'GeoPostal','US');

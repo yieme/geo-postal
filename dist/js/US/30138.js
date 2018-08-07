@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30138"]={"code":"30138","region":"GA","city":"Esom Hill","latitude":33.949,"longitude":-85.3877}}(window,'GeoPostal','US');

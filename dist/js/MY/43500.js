@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43500"]={"code":"43500","region":"Selangor","city":"Semenyih","latitude":2.9516,"longitude":101.843}}(window,'GeoPostal','MY');

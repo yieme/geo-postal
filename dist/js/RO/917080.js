@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["917080"]={"code":"917080","region":"Calarasi","city":"Dragalina","latitude":44.43333,"longitude":27.31667}}(window,'GeoPostal','RO');

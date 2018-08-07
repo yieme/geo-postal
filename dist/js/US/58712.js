@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58712"]={"code":"58712","region":"ND","city":"Balfour","latitude":47.9685,"longitude":-100.5209}}(window,'GeoPostal','US');

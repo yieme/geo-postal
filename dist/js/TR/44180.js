@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44180"]={"code":"44180","region":"Sivas","city":"Gemerek","latitude":39.18342,"longitude":36.07189}}(window,'GeoPostal','TR');

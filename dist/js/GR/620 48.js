@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620 48"]={"code":"620 48","region":"Kentriki Makedonia","city":"Emmanouil Pappas","latitude":41.08333,"longitude":23.71667}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88326"]={"code":"88326","region":"Federacija Bosne i Hercegovine","city":"Vitina","latitude":43.2375,"longitude":17.48389}}(window,'GeoPostal','BA');

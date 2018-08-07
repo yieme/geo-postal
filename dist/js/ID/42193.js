@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42193"]={"code":"42193","region":"Banten","city":"Timurjaya","latitude":-5.81409,"longitude":106.28509}}(window,'GeoPostal','ID');

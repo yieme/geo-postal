@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11739"]={"code":"11739","region":"New York","city":"Great River","latitude":40.725573,"longitude":-73.159773}}(window,'GeoPostal','US');

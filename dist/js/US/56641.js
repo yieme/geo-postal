@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56641"]={"code":"56641","region":"Minnesota","city":"Federal Dam","latitude":47.198042,"longitude":-94.238644}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79426"]={"code":"79426","region":"Baden-Wurttemberg","city":"Buggingen","latitude":47.8475,"longitude":7.63799}}(window,'GeoPostal','DE');

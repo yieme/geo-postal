@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT7 9RB"]={"code":"CT7 9RB","region":"England","city":"Birchington-on-Sea","latitude":51.37575,"longitude":1.3048}}(window,'GeoPostal','GB');

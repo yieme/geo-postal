@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13751"]={"code":"13751","region":"NY","city":"Davenport Center","latitude":42.4508,"longitude":-74.9013}}(window,'GeoPostal','US');

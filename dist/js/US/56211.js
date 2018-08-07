@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56211"]={"code":"56211","region":"Minnesota","city":"Beardsley","latitude":45.55892,"longitude":-96.71221}}(window,'GeoPostal','US');

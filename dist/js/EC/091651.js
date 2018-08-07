@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["091651"]={"code":"091651","region":"Guayas","city":"Samborondon","latitude":-1.95,"longitude":-79.73333}}(window,'GeoPostal','EC');

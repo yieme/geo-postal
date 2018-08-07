@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07702"]={"code":"07702","region":"New Jersey","city":"Shrewsbury","latitude":40.346944,"longitude":-74.064722}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27967"]={"code":"27967","region":"NC","city":"Powellsville","latitude":36.2257,"longitude":-76.933}}(window,'GeoPostal','US');

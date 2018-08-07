@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94160"]={"code":"94160","region":"Bayern","city":"Neidberg","latitude":48.81643,"longitude":13.46154}}(window,'GeoPostal','DE');

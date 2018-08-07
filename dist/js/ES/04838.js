@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04838"]={"code":"04838","region":"Andalucia","city":"Maria","latitude":37.71023,"longitude":-2.16454}}(window,'GeoPostal','ES');

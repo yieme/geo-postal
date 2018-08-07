@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456306"]={"code":"456306","region":"Chelyabinskaya oblast'","city":"Miass","latitude":55.045,"longitude":60.10833}}(window,'GeoPostal','RU');

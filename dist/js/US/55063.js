@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55063"]={"code":"55063","region":"Minnesota","city":"Pine City","latitude":45.82607,"longitude":-92.96854}}(window,'GeoPostal','US');

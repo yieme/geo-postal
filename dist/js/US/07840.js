@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07840"]={"code":"07840","region":"New Jersey","city":"Hackettstown","latitude":40.853867,"longitude":-74.842856}}(window,'GeoPostal','US');

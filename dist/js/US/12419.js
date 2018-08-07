@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12419"]={"code":"12419","region":"NY","city":"Cottekill","latitude":41.8467,"longitude":-74.1038}}(window,'GeoPostal','US');

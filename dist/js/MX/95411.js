@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95411"]={"code":"95411","region":"Veracruz de Ignacio de la Llave","city":"Playa Vicente","latitude":17.83333,"longitude":-95.81667}}(window,'GeoPostal','MX');

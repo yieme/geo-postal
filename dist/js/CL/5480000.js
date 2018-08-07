@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5480000"]={"code":"5480000","region":"Los Lagos","city":"Puerto Montt","latitude":-41.46985,"longitude":-72.94474}}(window,'GeoPostal','CL');

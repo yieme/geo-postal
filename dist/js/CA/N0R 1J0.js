@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0R 1J0"]={"code":"N0R 1J0","region":"Ontario","city":"McGregor","latitude":42.15008,"longitude":-82.96654}}(window,'GeoPostal','CA');

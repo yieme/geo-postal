@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415300"]={"code":"415300","region":"Bihor","city":"Margita","latitude":47.35,"longitude":22.33333}}(window,'GeoPostal','RO');

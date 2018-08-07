@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68385"]={"code":"68385","region":"Varmlands lan","city":"Hagfors","latitude":60.02378,"longitude":13.67214}}(window,'GeoPostal','SE');

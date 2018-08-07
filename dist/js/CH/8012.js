@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8012"]={"code":"8012","region":"Zurich","city":"Schlieren","latitude":47.39668,"longitude":8.44763}}(window,'GeoPostal','CH');

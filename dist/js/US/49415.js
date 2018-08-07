@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49415"]={"code":"49415","region":"MI","city":"Fruitport","latitude":43.1443,"longitude":-86.1388}}(window,'GeoPostal','US');

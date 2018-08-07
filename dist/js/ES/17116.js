@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17116"]={"code":"17116","region":"Catalunya","city":"Cruilles","latitude":41.95,"longitude":3.01667}}(window,'GeoPostal','ES');

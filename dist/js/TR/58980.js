@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58980"]={"code":"58980","region":"Sivas","city":"Imranli","latitude":39.87544,"longitude":38.11358}}(window,'GeoPostal','TR');

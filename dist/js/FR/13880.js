@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13880"]={"code":"13880","region":"Provence-Alpes-Cote d'Azur","city":"Velaux","latitude":43.52839,"longitude":5.25661}}(window,'GeoPostal','FR');

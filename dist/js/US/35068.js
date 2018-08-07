@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35068"]={"code":"35068","region":"AL","city":"Fultondale","latitude":33.6017,"longitude":-86.8265}}(window,'GeoPostal','US');

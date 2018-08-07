@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452630"]={"code":"452630","region":"Bashkortostan, Respublika","city":"Sharan","latitude":54.81667,"longitude":54}}(window,'GeoPostal','RU');

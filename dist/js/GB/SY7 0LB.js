@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY7 0LB"]={"code":"SY7 0LB","region":"England","city":"Leintwardine","latitude":52.36202,"longitude":-2.87631}}(window,'GeoPostal','GB');

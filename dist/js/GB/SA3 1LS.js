@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 1LS"]={"code":"SA3 1LS","region":"Wales","city":"Oxwich","latitude":51.55725,"longitude":-4.16451}}(window,'GeoPostal','GB');

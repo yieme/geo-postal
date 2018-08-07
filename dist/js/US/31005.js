@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31005"]={"code":"31005","region":"GA","city":"Bonaire","latitude":32.546,"longitude":-83.6047}}(window,'GeoPostal','US');

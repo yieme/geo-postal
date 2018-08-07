@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21838"]={"code":"21838","region":"MD","city":"Marion Station","latitude":38.0266,"longitude":-75.7579}}(window,'GeoPostal','US');

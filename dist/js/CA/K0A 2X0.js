@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0A 2X0"]={"code":"K0A 2X0","region":"Ontario","city":"Pakenham","latitude":45.33341,"longitude":-76.28269}}(window,'GeoPostal','CA');

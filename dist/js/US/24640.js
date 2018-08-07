@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24640"]={"code":"24640","region":"VA","city":"Red Ash","latitude":37.1134,"longitude":-81.871}}(window,'GeoPostal','US');

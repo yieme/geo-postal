@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44322"]={"code":"44322","region":"Sisacko-moslavacka zupanija","city":"Lipovljani","latitude":45.39667,"longitude":16.88972}}(window,'GeoPostal','HR');

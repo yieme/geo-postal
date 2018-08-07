@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2016"]={"code":"2016","region":"Neuchatel","city":"Cortaillod","latitude":46.94306,"longitude":6.8444}}(window,'GeoPostal','CH');

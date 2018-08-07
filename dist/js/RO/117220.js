@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117220"]={"code":"117220","region":"Bihor","city":"Popesti","latitude":44.76667,"longitude":25.06667}}(window,'GeoPostal','RO');

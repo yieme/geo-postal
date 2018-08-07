@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04770"]={"code":"04770","region":"Andalucia","city":"Adra","latitude":36.74961,"longitude":-3.02055}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5240"]={"code":"5240","region":"Veliko Tarnovo","city":"Sukhindol","latitude":43.19167,"longitude":25.18111}}(window,'GeoPostal','BG');

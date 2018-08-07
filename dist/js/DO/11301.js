@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11301"]={"code":"11301","region":"Valverde","city":"Esperanza","latitude":19.5847,"longitude":-70.98489}}(window,'GeoPostal','DO');

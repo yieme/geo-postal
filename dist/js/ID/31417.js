@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31417"]={"code":"31417","region":"Sumatera Selatan","city":"Lahat","latitude":-3.8,"longitude":103.53333}}(window,'GeoPostal','ID');

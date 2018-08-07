@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74802"]={"code":"74802","region":"OK","city":"Shawnee","latitude":35.3273,"longitude":-96.9253}}(window,'GeoPostal','US');

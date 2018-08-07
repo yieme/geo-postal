@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49663"]={"code":"49663","region":"Michigan","city":"Manton","latitude":44.41084,"longitude":-85.39894}}(window,'GeoPostal','US');

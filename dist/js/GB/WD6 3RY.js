@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WD6 3RY"]={"code":"WD6 3RY","region":"England","city":"Elstree","latitude":51.6403,"longitude":-0.29693}}(window,'GeoPostal','GB');

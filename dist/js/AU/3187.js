@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3187"]={"code":"3187","region":"Victoria","city":"Brighton East","latitude":-37.90141,"longitude":145.01884}}(window,'GeoPostal','AU');

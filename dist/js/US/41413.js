@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41413"]={"code":"41413","region":"KY","city":"Crockett","latitude":37.9856,"longitude":-83.0907}}(window,'GeoPostal','US');

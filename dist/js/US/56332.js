@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56332"]={"code":"56332","region":"Minnesota","city":"Garfield","latitude":46.020525,"longitude":-95.457789}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63339"]={"code":"63339","region":"MO","city":"Curryville","latitude":39.3257,"longitude":-91.3493}}(window,'GeoPostal','US');

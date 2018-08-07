@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5253"]={"code":"5253","region":"Santiago del Estero","city":"Sumampa","latitude":-29.3847,"longitude":-63.46906}}(window,'GeoPostal','AR');

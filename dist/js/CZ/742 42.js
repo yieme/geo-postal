@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742 42"]={"code":"742 42","region":"Moravskoslezsky kraj","city":"Senov","latitude":49.79315,"longitude":18.37607}}(window,'GeoPostal','CZ');

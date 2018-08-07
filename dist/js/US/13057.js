@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13057"]={"code":"13057","region":"New York","city":"Syracuse","latitude":43.073692,"longitude":-76.054093}}(window,'GeoPostal','US');

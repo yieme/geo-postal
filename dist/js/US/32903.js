@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32903"]={"code":"32903","region":"Florida","city":"Indialantic","latitude":28.11781,"longitude":-80.58294}}(window,'GeoPostal','US');

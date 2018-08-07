@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97106"]={"code":"97106","region":"Oregon","city":"Banks","latitude":45.620175,"longitude":-123.112354}}(window,'GeoPostal','US');

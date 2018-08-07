@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73044"]={"code":"73044","region":"Puglia","city":"Galatone","latitude":40.14292,"longitude":18.07042}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28670"]={"code":"28670","region":"North Carolina","city":"Ronda","latitude":36.23634,"longitude":-80.92662}}(window,'GeoPostal','US');

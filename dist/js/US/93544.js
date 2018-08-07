@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93544"]={"code":"93544","region":"CA","city":"Llano","latitude":34.493,"longitude":-117.7543}}(window,'GeoPostal','US');

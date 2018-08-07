@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53950"]={"code":"53950","region":"Wisconsin","city":"New Lisbon","latitude":43.87914,"longitude":-90.16541}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38110"]={"code":"38110","region":"Auvergne-Rhone-Alpes","city":"Cessieu","latitude":45.56576,"longitude":5.37704}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12002"]={"code":"12002","region":"Tebessa","city":"Cheria","latitude":35.27306,"longitude":7.75194}}(window,'GeoPostal','DZ');

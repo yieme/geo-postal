@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA15 7SE"]={"code":"CA15 7SE","region":"England","city":"Broughton Moor","latitude":54.68719,"longitude":-3.4681}}(window,'GeoPostal','GB');

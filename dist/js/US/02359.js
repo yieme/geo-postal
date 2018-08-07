@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02359"]={"code":"02359","region":"Massachusetts","city":"Pembroke","latitude":42.061346,"longitude":-70.805254}}(window,'GeoPostal','US');

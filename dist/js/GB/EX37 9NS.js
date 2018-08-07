@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX37 9NS"]={"code":"EX37 9NS","region":"England","city":"Chittlehamholt","latitude":50.9714,"longitude":-3.92436}}(window,'GeoPostal','GB');

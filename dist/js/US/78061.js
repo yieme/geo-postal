@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78061"]={"code":"78061","region":"Texas","city":"Pearsall","latitude":28.89219,"longitude":-99.09503}}(window,'GeoPostal','US');

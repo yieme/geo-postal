@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16053"]={"code":"16053","region":"PA","city":"Renfrew","latitude":40.81,"longitude":-79.977}}(window,'GeoPostal','US');

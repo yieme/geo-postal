@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73945"]={"code":"73945","region":"Oklahoma","city":"Hooker","latitude":36.86003,"longitude":-101.2135}}(window,'GeoPostal','US');

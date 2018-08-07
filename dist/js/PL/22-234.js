@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-234"]={"code":"22-234","region":"Lubelskie","city":"Urszulin","latitude":51.3939,"longitude":23.1948}}(window,'GeoPostal','PL');

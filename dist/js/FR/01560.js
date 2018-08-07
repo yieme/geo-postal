@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01560"]={"code":"01560","region":"Auvergne-Rhone-Alpes","city":"Saint-Julien-sur-Reyssouze","latitude":46.4025,"longitude":5.1119}}(window,'GeoPostal','FR');

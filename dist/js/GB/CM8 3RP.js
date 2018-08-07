@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM8 3RP"]={"code":"CM8 3RP","region":"England","city":"Silver End","latitude":51.84734,"longitude":0.62399}}(window,'GeoPostal','GB');

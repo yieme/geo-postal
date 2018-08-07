@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8560"]={"code":"8560","region":"North-West","city":"Jan Kempdorp","latitude":-27.92246,"longitude":24.83052}}(window,'GeoPostal','ZA');

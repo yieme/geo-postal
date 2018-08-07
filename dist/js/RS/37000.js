@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37000"]={"code":"37000","region":"Rasinski okrug","city":"Krusevac","latitude":43.58,"longitude":21.33389}}(window,'GeoPostal','RS');

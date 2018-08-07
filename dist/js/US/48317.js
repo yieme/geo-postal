@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48317"]={"code":"48317","region":"MI","city":"Utica","latitude":42.6413,"longitude":-83.0504}}(window,'GeoPostal','US');

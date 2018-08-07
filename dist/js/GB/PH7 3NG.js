@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH7 3NG"]={"code":"PH7 3NG","region":"Scotland","city":"Milton of Abercairny","latitude":56.38893,"longitude":-3.76926}}(window,'GeoPostal','GB');

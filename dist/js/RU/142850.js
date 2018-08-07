@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142850"]={"code":"142850","region":"Moskovskaya oblast'","city":"Malino","latitude":55.11195,"longitude":38.17384}}(window,'GeoPostal','RU');

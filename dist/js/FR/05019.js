@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05019"]={"code":"05019","region":"Provence-Alpes-Cote d'Azur","city":"Gap","latitude":44.56667,"longitude":6.08333}}(window,'GeoPostal','FR');

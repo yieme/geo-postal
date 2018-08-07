@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87043"]={"code":"87043","region":"Calabria","city":"Bisignano","latitude":39.5059,"longitude":16.27719}}(window,'GeoPostal','IT');

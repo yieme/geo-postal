@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41561"]={"code":"41561","region":"KY","city":"Rockhouse","latitude":37.3316,"longitude":-82.4626}}(window,'GeoPostal','US');

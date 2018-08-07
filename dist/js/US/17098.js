@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17098"]={"code":"17098","region":"PA","city":"Williamstown","latitude":40.5808,"longitude":-76.6223}}(window,'GeoPostal','US');

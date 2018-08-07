@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07435"]={"code":"07435","region":"Aksaray","city":"Guzelyurt","latitude":38.27722,"longitude":34.37194}}(window,'GeoPostal','TR');

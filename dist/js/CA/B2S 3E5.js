@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B2S 3E5"]={"code":"B2S 3E5","region":"Nova Scotia","city":"Cheese Factory Corner","latitude":45.08345,"longitude":-63.6487}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["440-823"]={"code":"440-823","region":"Gyeonggi-do","city":"Suigen","latitude":37.29111,"longitude":127.00889}}(window,'GeoPostal','KR');

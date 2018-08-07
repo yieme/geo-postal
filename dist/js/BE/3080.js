@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3080"]={"code":"3080","region":"Vlaams-Brabant","city":"Tervuren","latitude":50.82372,"longitude":4.51418}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12473"]={"code":"12473","region":"NY","city":"Round Top","latitude":42.2678,"longitude":-74.0523}}(window,'GeoPostal','US');

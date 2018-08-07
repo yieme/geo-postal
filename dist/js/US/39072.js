@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39072"]={"code":"39072","region":"MS","city":"Pocahontas","latitude":32.41,"longitude":-90.22}}(window,'GeoPostal','US');

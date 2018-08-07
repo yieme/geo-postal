@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66781"]={"code":"66781","region":"KS","city":"Weir","latitude":37.2912,"longitude":-94.7286}}(window,'GeoPostal','US');

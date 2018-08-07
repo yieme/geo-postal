@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51688"]={"code":"51688","region":"Nordrhein-Westfalen","city":"Berghof","latitude":51.12822,"longitude":7.40266}}(window,'GeoPostal','DE');

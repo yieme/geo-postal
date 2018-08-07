@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3540"]={"code":"3540","region":"Hovedstaden","city":"Lynge","latitude":55.83941,"longitude":12.27725}}(window,'GeoPostal','DK');

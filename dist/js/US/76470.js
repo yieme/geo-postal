@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76470"]={"code":"76470","region":"Texas","city":"Ranger","latitude":32.46985,"longitude":-98.67895}}(window,'GeoPostal','US');

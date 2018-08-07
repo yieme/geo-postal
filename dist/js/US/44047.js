@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44047"]={"code":"44047","region":"OH","city":"Jefferson","latitude":41.7335,"longitude":-80.7562}}(window,'GeoPostal','US');

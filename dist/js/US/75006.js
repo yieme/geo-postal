@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75006"]={"code":"75006","region":"Texas","city":"Carrollton","latitude":32.95373,"longitude":-96.89028}}(window,'GeoPostal','US');

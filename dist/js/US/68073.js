@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68073"]={"code":"68073","region":"NE","city":"Yutan","latitude":41.234,"longitude":-96.3932}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04419"]={"code":"04419","region":"Maine","city":"Carmel","latitude":44.79757,"longitude":-69.05115}}(window,'GeoPostal','US');

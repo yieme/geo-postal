@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71842"]={"code":"71842","region":"Arkansas","city":"Horatio","latitude":33.93845,"longitude":-94.35715}}(window,'GeoPostal','US');

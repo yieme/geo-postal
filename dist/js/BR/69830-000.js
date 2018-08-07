@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69830-000"]={"code":"69830-000","region":"Amazonas","city":"Pauini","latitude":-7.71361,"longitude":-66.97639}}(window,'GeoPostal','BR');

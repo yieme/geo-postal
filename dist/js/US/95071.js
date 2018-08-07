@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95071"]={"code":"95071","region":"California","city":"Watsonville","latitude":37.253619,"longitude":-122.030131}}(window,'GeoPostal','US');

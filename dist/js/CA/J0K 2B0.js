@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 2B0"]={"code":"J0K 2B0","region":"Quebec","city":"Saint-Come","latitude":46.26678,"longitude":-73.78248}}(window,'GeoPostal','CA');

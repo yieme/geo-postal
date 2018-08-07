@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48120"]={"code":"48120","region":"Occitanie","city":"Saint-Alban-sur-Limagnole","latitude":44.781,"longitude":3.38793}}(window,'GeoPostal','FR');

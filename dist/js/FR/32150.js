@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32150"]={"code":"32150","region":"Occitanie","city":"Cazaubon","latitude":43.93431,"longitude":-0.06814}}(window,'GeoPostal','FR');

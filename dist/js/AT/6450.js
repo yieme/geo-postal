@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6450"]={"code":"6450","region":"Tirol","city":"Soelden","latitude":46.96667,"longitude":11}}(window,'GeoPostal','AT');

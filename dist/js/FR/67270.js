@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67270"]={"code":"67270","region":"Grand-Est","city":"Hochfelden","latitude":48.75738,"longitude":7.56769}}(window,'GeoPostal','FR');

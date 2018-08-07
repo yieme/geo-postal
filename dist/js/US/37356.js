@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37356"]={"code":"37356","region":"TN","city":"Monteagle","latitude":35.2402,"longitude":-85.8228}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1969"]={"code":"1969","region":"Noord-Holland","city":"Heemskerk","latitude":52.51108,"longitude":4.67165}}(window,'GeoPostal','NL');

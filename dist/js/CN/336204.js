@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336204"]={"code":"336204","region":"Jiangxi","city":"Sandu","latitude":28.56992,"longitude":114.44637}}(window,'GeoPostal','CN');

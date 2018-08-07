@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA66 7XB"]={"code":"SA66 7XB","region":"Wales","city":"Glandy Cross","latitude":51.90667,"longitude":-4.70028}}(window,'GeoPostal','GB');

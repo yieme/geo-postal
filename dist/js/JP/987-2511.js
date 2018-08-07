@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["987-2511"]={"code":"987-2511","region":"Miyagi","city":"Kurihara","latitude":38.717,"longitude":141.017}}(window,'GeoPostal','JP');

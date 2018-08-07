@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06055"]={"code":"06055","region":"Umbria","city":"Marsciano","latitude":42.90594,"longitude":12.33586}}(window,'GeoPostal','IT');

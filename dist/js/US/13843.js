@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13843"]={"code":"13843","region":"New York","city":"South New Berlin","latitude":42.53838,"longitude":-75.3477}}(window,'GeoPostal','US');

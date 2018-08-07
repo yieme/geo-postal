@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385798"]={"code":"385798","region":"Chechenskaya Respublika","city":"Groznyy","latitude":43.30833,"longitude":45.70028}}(window,'GeoPostal','RU');

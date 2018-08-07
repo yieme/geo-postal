@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77450"]={"code":"77450","region":"Ile-de-France","city":"Esbly","latitude":48.9052,"longitude":2.81235}}(window,'GeoPostal','FR');

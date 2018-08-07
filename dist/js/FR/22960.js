@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22960"]={"code":"22960","region":"Bretagne","city":"Pledran","latitude":48.446,"longitude":-2.74667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65231"]={"code":"65231","region":"Missouri","city":"Auxvasse","latitude":39.015749,"longitude":-91.895908}}(window,'GeoPostal','US');

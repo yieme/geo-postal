@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7472"]={"code":"7472","region":"Burgenland","city":"Schandorf","latitude":47.23333,"longitude":16.41667}}(window,'GeoPostal','AT');

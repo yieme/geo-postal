@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["545616"]={"code":"545616","region":"Guangxi","city":"Luorong","latitude":24.40583,"longitude":109.60861}}(window,'GeoPostal','CN');

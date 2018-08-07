@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12811"]={"code":"12811","region":"NY","city":"Bakers Mills","latitude":43.6148,"longitude":-74.0249}}(window,'GeoPostal','US');

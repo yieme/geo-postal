@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59889"]={"code":"59889","region":"Nordrhein-Westfalen","city":"Mathmecke","latitude":51.28574,"longitude":8.16789}}(window,'GeoPostal','DE');

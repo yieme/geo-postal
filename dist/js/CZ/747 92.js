@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["747 92"]={"code":"747 92","region":"Moravskoslezsky kraj","city":"Kozmice","latitude":49.9128,"longitude":18.15584}}(window,'GeoPostal','CZ');

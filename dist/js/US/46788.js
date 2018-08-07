@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46788"]={"code":"46788","region":"IN","city":"Spencerville","latitude":41.2696,"longitude":-84.9398}}(window,'GeoPostal','US');

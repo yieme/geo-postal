@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783 25"]={"code":"783 25","region":"Olomoucky kraj","city":"Bouzov","latitude":49.70426,"longitude":16.89288}}(window,'GeoPostal','CZ');

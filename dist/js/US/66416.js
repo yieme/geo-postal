@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66416"]={"code":"66416","region":"Kansas","city":"Circleville","latitude":39.508778,"longitude":-95.857291}}(window,'GeoPostal','US');

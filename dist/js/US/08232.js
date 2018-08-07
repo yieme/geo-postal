@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08232"]={"code":"08232","region":"New Jersey","city":"Pleasantville","latitude":39.40764,"longitude":-74.5707}}(window,'GeoPostal','US');

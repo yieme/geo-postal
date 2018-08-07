@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301634"]={"code":"301634","region":"Tul'skaya oblast'","city":"Partizan","latitude":53.95017,"longitude":38.09801}}(window,'GeoPostal','RU');

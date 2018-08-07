@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32179"]={"code":"32179","region":"FL","city":"Ocklawaha","latitude":29.0643,"longitude":-81.8857}}(window,'GeoPostal','US');

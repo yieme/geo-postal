@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23020"]={"code":"23020","region":"Nouvelle-Aquitaine","city":"Gueret","latitude":46.16667,"longitude":1.86667}}(window,'GeoPostal','FR');

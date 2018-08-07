@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 9XZ"]={"code":"YO25 9XZ","region":"England","city":"Wetwang","latitude":54.0175,"longitude":-0.57738}}(window,'GeoPostal','GB');

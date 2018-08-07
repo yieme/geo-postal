@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57538"]={"code":"57538","region":"SD","city":"Herrick","latitude":43.1012,"longitude":-99.2173}}(window,'GeoPostal','US');

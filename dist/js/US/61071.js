@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61071"]={"code":"61071","region":"Illinois","city":"Rock Falls","latitude":41.77975,"longitude":-89.689}}(window,'GeoPostal','US');

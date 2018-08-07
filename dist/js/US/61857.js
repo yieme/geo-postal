@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61857"]={"code":"61857","region":"IL","city":"Muncie","latitude":40.1165,"longitude":-87.8447}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93900-000"]={"code":"93900-000","region":"Rio Grande do Sul","city":"Ivoti","latitude":-29.59111,"longitude":-51.16056}}(window,'GeoPostal','BR');

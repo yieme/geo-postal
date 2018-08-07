@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14129"]={"code":"14129","region":"NY","city":"Perrysburg","latitude":42.4723,"longitude":-78.9981}}(window,'GeoPostal','US');

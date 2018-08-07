@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04266"]={"code":"04266","region":"ME","city":"North Turner","latitude":44.358,"longitude":-70.2558}}(window,'GeoPostal','US');

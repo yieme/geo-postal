@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA20 3AZ"]={"code":"KA20 3AZ","region":"Scotland","city":"Stevenston","latitude":55.6397,"longitude":-4.75339}}(window,'GeoPostal','GB');

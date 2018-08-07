@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2690000"]={"code":"2690000","region":"Valparaiso","city":"San Antonio","latitude":-33.59333,"longitude":-71.62167}}(window,'GeoPostal','CL');

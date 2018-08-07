@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26250"]={"code":"26250","region":"La Rioja","city":"Santo Domingo de la Calzada","latitude":42.44015,"longitude":-2.95365}}(window,'GeoPostal','ES');

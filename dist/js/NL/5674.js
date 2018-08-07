@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5674"]={"code":"5674","region":"Noord-Brabant","city":"Nuenen","latitude":51.47,"longitude":5.55278}}(window,'GeoPostal','NL');

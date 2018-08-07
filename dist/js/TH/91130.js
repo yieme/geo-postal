@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91130"]={"code":"91130","region":"Satun","city":"Satun","latitude":6.62314,"longitude":100.06676}}(window,'GeoPostal','TH');

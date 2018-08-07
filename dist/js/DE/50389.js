@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50389"]={"code":"50389","region":"Nordrhein-Westfalen","city":"Wesseling","latitude":50.82709,"longitude":6.9747}}(window,'GeoPostal','DE');

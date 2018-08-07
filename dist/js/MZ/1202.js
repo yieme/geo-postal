@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1202"]={"code":"1202","region":"Gaza","city":"Macia","latitude":-25.02694,"longitude":33.09889}}(window,'GeoPostal','MZ');

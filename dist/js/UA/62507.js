@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62507"]={"code":"62507","region":"Kharkivska oblast","city":"Vovchans'k","latitude":50.29078,"longitude":36.94108}}(window,'GeoPostal','UA');

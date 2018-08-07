@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60511"]={"code":"60511","region":"Illinois","city":"Big Rock","latitude":41.76392,"longitude":-88.54702}}(window,'GeoPostal','US');

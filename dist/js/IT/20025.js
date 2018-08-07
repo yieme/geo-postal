@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20025"]={"code":"20025","region":"Lombardia","city":"Legnano","latitude":45.59597,"longitude":8.90784}}(window,'GeoPostal','IT');

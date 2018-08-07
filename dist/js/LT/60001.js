@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60001"]={"code":"60001","region":"Kauno apskritis","city":"Raseiniai","latitude":55.37361,"longitude":23.12167}}(window,'GeoPostal','LT');

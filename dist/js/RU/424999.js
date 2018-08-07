@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["424999"]={"code":"424999","region":"Mariy El, Respublika","city":"Yoshkar-Ola","latitude":56.63877,"longitude":47.89078}}(window,'GeoPostal','RU');

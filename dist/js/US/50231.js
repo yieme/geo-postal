@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50231"]={"code":"50231","region":"IA","city":"Randall","latitude":42.2383,"longitude":-93.6008}}(window,'GeoPostal','US');

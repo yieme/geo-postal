@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31623"]={"code":"31623","region":"Niedersachsen","city":"Sandberge","latitude":52.69585,"longitude":9.23419}}(window,'GeoPostal','DE');

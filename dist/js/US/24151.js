@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24151"]={"code":"24151","region":"Virginia","city":"Rocky Mount","latitude":37.002009,"longitude":-79.893632}}(window,'GeoPostal','US');

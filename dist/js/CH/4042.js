@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4042"]={"code":"4042","region":"Basel-Landschaft","city":"Munchenstein","latitude":47.51378,"longitude":7.62434}}(window,'GeoPostal','CH');

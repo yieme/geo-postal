@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629841"]={"code":"629841","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Purpe","latitude":64.48028,"longitude":76.68972}}(window,'GeoPostal','RU');

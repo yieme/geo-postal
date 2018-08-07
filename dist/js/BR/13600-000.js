@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13600-000"]={"code":"13600-000","region":"Sao Paulo","city":"Araras","latitude":-22.35694,"longitude":-47.38417}}(window,'GeoPostal','BR');

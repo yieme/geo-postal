@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71854"]={"code":"71854","region":"Arkansas","city":"Texarkana","latitude":33.44179,"longitude":-94.03769}}(window,'GeoPostal','US');

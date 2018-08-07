@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512 11"]={"code":"512 11","region":"Liberecky kraj","city":"Vysoke nad Jizerou","latitude":50.68559,"longitude":15.40152}}(window,'GeoPostal','CZ');

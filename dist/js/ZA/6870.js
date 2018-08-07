@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6870"]={"code":"6870","region":"Western Cape","city":"Worcester","latitude":-33.64651,"longitude":19.44852}}(window,'GeoPostal','ZA');

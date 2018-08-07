@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36219"]={"code":"36219","region":"Hessen","city":"Konigswald","latitude":51.06746,"longitude":9.81804}}(window,'GeoPostal','DE');

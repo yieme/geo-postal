@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["527060"]={"code":"527060","region":"Covasna","city":"Bretcu","latitude":46.05,"longitude":26.3}}(window,'GeoPostal','RO');

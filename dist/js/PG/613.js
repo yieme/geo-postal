@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613"]={"code":"613","region":"East New Britain","city":"Kokopo","latitude":-4.35202,"longitude":152.26327}}(window,'GeoPostal','PG');

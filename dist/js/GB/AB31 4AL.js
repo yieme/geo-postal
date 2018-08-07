@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB31 4AL"]={"code":"AB31 4AL","region":"Scotland","city":"Inchmarlo","latitude":57.05811,"longitude":-2.53955}}(window,'GeoPostal','GB');

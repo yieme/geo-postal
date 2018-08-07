@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6204"]={"code":"6204","region":"Luzern","city":"Sempach","latitude":47.13194,"longitude":8.19391}}(window,'GeoPostal','CH');

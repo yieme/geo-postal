@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141152"]={"code":"141152","region":"Moskovskaya oblast'","city":"Losino-Petrovskiy","latitude":55.86959,"longitude":38.20065}}(window,'GeoPostal','RU');

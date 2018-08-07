@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48618"]={"code":"48618","region":"MI","city":"Coleman","latitude":43.7494,"longitude":-84.5911}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6500"]={"code":"6500","region":"Tirol","city":"Landeck","latitude":47.13988,"longitude":10.56593}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13813"]={"code":"13813","region":"NY","city":"Nineveh","latitude":42.1625,"longitude":-75.5484}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47230"]={"code":"47230","region":"Nouvelle-Aquitaine","city":"Lavardac","latitude":44.17785,"longitude":0.29825}}(window,'GeoPostal','FR');

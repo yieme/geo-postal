@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5202"]={"code":"5202","region":"South Australia","city":"Myponga","latitude":-35.4,"longitude":138.45}}(window,'GeoPostal','AU');

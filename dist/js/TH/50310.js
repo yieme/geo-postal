@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50310"]={"code":"50310","region":"Chiang Mai","city":"Om Koi","latitude":17.80122,"longitude":98.35933}}(window,'GeoPostal','TH');

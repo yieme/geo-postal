@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727505"]={"code":"727505","region":"Suceava","city":"Stulpicani","latitude":47.46667,"longitude":25.76667}}(window,'GeoPostal','RO');

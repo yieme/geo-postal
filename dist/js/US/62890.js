@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62890"]={"code":"62890","region":"IL","city":"Thompsonville","latitude":37.8804,"longitude":-88.7684}}(window,'GeoPostal','US');

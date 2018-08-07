@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16860"]={"code":"16860","region":"PA","city":"Munson","latitude":40.9468,"longitude":-78.1718}}(window,'GeoPostal','US');

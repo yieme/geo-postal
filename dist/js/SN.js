@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["SN"]={id:'SN',country:'Senegal', postal:{'':{code:'',region:'Dakar',city:'Dakar',latitude:14.6937,longitude:-17.44406}}};

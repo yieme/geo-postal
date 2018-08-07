@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87933"]={"code":"87933","region":"NM","city":"Derry","latitude":32.7881,"longitude":-107.2822}}(window,'GeoPostal','US');

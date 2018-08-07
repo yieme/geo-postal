@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62806"]={"code":"62806","region":"Illinois","city":"Albion","latitude":38.37138,"longitude":-88.06104}}(window,'GeoPostal','US');

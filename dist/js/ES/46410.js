@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46410"]={"code":"46410","region":"Valenciana, Comunidad","city":"Valencia","latitude":39.46975,"longitude":-0.37739}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6051"]={"code":"6051","region":"Limburg","city":"Maasbracht","latitude":51.13929,"longitude":5.88627}}(window,'GeoPostal','NL');

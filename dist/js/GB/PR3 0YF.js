@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR3 0YF"]={"code":"PR3 0YF","region":"England","city":"Little Eccleston","latitude":53.85173,"longitude":-2.89249}}(window,'GeoPostal','GB');

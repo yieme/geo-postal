@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA4 8DJ"]={"code":"PA4 8DJ","region":"England","city":"Leeds","latitude":51.24677,"longitude":0.60682}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LU2 0QX"]={"code":"LU2 0QX","region":"England","city":"Stopsley","latitude":51.89736,"longitude":-0.38924}}(window,'GeoPostal','GB');

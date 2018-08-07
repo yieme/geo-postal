@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35652"]={"code":"35652","region":"AL","city":"Rogersville","latitude":34.8495,"longitude":-87.3237}}(window,'GeoPostal','US');

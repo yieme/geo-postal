@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89297"]={"code":"89297","region":"Bayern","city":"Messhofen","latitude":48.26434,"longitude":10.22158}}(window,'GeoPostal','DE');

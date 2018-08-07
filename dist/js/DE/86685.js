@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86685"]={"code":"86685","region":"Bayern","city":"Huisheim","latitude":48.83333,"longitude":10.7}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP23 7EE"]={"code":"IP23 7EE","region":"England","city":"Thwaite","latitude":52.27123,"longitude":1.09578}}(window,'GeoPostal','GB');

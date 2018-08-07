@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5480"]={"code":"5480","region":"Rogaland","city":"Olen","latitude":59.60437,"longitude":5.80799}}(window,'GeoPostal','NO');

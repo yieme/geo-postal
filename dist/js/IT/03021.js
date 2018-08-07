@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03021"]={"code":"03021","region":"Lazio","city":"Amaseno","latitude":41.46782,"longitude":13.336}}(window,'GeoPostal','IT');

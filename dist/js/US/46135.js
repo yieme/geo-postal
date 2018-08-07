@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46135"]={"code":"46135","region":"Indiana","city":"Greencastle","latitude":39.64449,"longitude":-86.86473}}(window,'GeoPostal','US');

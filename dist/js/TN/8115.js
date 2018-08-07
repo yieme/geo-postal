@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8115"]={"code":"8115","region":"Jendouba","city":"Wadi Maliz","latitude":36.46813,"longitude":8.54951}}(window,'GeoPostal','TN');

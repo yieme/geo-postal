@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72434"]={"code":"72434","region":"Arkansas","city":"Imboden","latitude":36.20167,"longitude":-91.18}}(window,'GeoPostal','US');

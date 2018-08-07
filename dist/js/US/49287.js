@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49287"]={"code":"49287","region":"MI","city":"Tipton","latitude":42.0369,"longitude":-84.0768}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28461"]={"code":"28461","region":"North Carolina","city":"Southport","latitude":33.92156,"longitude":-78.02027}}(window,'GeoPostal','US');

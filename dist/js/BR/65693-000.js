@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65693-000"]={"code":"65693-000","region":"Maranhao","city":"Fortuna","latitude":-5.73333,"longitude":-44.15833}}(window,'GeoPostal','BR');

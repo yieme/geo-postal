@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07500"]={"code":"07500","region":"Etela-Karjala","city":"Askola","latitude":60.9595,"longitude":27.81141}}(window,'GeoPostal','FI');

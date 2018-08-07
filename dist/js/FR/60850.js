@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60850"]={"code":"60850","region":"Hauts-de-France","city":"Saint-Germer-de-Fly","latitude":49.44281,"longitude":1.77986}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394-0091"]={"code":"394-0091","region":"Nagano","city":"Okaya","latitude":36.06389,"longitude":138.0525}}(window,'GeoPostal','JP');

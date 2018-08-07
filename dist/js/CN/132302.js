@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132302"]={"code":"132302","region":"Jilin","city":"Yantongshan","latitude":43.29194,"longitude":126.00944}}(window,'GeoPostal','CN');

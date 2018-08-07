@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26969"]={"code":"26969","region":"Niedersachsen","city":"Butjadingen","latitude":53.54722,"longitude":8.335}}(window,'GeoPostal','DE');

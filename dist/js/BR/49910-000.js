@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49910-000"]={"code":"49910-000","region":"Sergipe","city":"Propria","latitude":-10.21111,"longitude":-36.84028}}(window,'GeoPostal','BR');

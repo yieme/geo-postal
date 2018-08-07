@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10320"]={"code":"10320","region":"Grand-Est","city":"Jeugny","latitude":48.1317,"longitude":4.0372}}(window,'GeoPostal','FR');

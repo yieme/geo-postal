@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25220"]={"code":"25220","region":"Bourgogne-Franche-Comte","city":"Thise","latitude":47.28486,"longitude":6.08127}}(window,'GeoPostal','FR');

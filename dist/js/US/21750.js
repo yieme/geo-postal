@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21750"]={"code":"21750","region":"Maryland","city":"Hancock","latitude":39.69898,"longitude":-78.17973}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89230"]={"code":"89230","region":"Zakarpatska oblast","city":"Poroshkovo","latitude":48.66832,"longitude":22.75328}}(window,'GeoPostal','UA');

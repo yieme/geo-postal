@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452784"]={"code":"452784","region":"Bashkortostan, Respublika","city":"Nizhnetroitskiy","latitude":54.33852,"longitude":53.68329}}(window,'GeoPostal','RU');

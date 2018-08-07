@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49477"]={"code":"49477","region":"Nordrhein-Westfalen","city":"Lehen","latitude":52.25187,"longitude":7.72941}}(window,'GeoPostal','DE');

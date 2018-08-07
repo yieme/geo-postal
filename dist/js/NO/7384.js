@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7384"]={"code":"7384","region":"Sor-Trondelag","city":"Alen","latitude":62.84185,"longitude":11.3013}}(window,'GeoPostal','NO');

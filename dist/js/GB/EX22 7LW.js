@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 7LW"]={"code":"EX22 7LW","region":"England","city":"Newton Saint Petrock","latitude":50.88333,"longitude":-4.26667}}(window,'GeoPostal','GB');

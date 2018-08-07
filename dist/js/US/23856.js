@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23856"]={"code":"23856","region":"Virginia","city":"Freeman","latitude":36.712983,"longitude":-77.553805}}(window,'GeoPostal','US');

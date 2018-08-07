@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75111"]={"code":"75111","region":"Kalimantan Timur","city":"Samarinda","latitude":-0.5,"longitude":117.15}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33072"]={"code":"33072","region":"Friuli-Venezia Giulia","city":"Casarsa della Delizia","latitude":45.94806,"longitude":12.8375}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 1P0"]={"code":"T0K 1P0","region":"Alberta","city":"New Dayton","latitude":49.41669,"longitude":-112.38512}}(window,'GeoPostal','CA');

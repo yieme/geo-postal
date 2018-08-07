@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["324109"]={"code":"324109","region":"Zhejiang","city":"Hecun","latitude":28.67027,"longitude":118.5287}}(window,'GeoPostal','CN');

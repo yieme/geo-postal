@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19943"]={"code":"19943","region":"DE","city":"Felton","latitude":39.0225,"longitude":-75.5829}}(window,'GeoPostal','US');

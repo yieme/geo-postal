@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["164847"]={"code":"164847","region":"Arkhangel'skaya oblast'","city":"Onega","latitude":63.90607,"longitude":38.14035}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39730"]={"code":"39730","region":"Mississippi","city":"Aberdeen","latitude":33.84,"longitude":-88.53012}}(window,'GeoPostal','US');

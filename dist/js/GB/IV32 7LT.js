@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV32 7LT"]={"code":"IV32 7LT","region":"Scotland","city":"Garmouth","latitude":57.66453,"longitude":-3.10875}}(window,'GeoPostal','GB');

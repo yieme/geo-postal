@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["TG"]={id:'TG',country:'Togo', postal:{'':{code:'',region:'Maritime',city:'Lome',latitude:6.13748,longitude:1.21227}}};

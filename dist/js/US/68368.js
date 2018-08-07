@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68368"]={"code":"68368","region":"NE","city":"Hallam","latitude":40.5739,"longitude":-96.7998}}(window,'GeoPostal','US');

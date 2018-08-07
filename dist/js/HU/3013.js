@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3013"]={"code":"3013","region":"Heves","city":"Ecsed","latitude":47.73267,"longitude":19.76696}}(window,'GeoPostal','HU');

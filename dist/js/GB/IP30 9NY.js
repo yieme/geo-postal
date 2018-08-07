@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP30 9NY"]={"code":"IP30 9NY","region":"England","city":"Tostock","latitude":52.23674,"longitude":0.8614}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452 21"]={"code":"452 21","region":"Ipeiros","city":"Koutselion","latitude":39.58889,"longitude":20.91417}}(window,'GeoPostal','GR');

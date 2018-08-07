@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80385"]={"code":"80385","region":"Chihuahua","city":"Guadalupe y Calvo","latitude":26.1,"longitude":-106.96667}}(window,'GeoPostal','MX');

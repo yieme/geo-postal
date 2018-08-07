@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["135000"]={"code":"135000","region":"Jilin","city":"Meihekou","latitude":42.52722,"longitude":125.67528}}(window,'GeoPostal','CN');

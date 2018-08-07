@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61013"]={"code":"61013","region":"IL","city":"Cedarville","latitude":42.3761,"longitude":-89.6365}}(window,'GeoPostal','US');

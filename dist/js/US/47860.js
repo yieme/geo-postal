@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47860"]={"code":"47860","region":"IN","city":"Mecca","latitude":39.7219,"longitude":-87.3303}}(window,'GeoPostal','US');

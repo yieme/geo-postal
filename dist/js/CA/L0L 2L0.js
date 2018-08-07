@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0L 2L0"]={"code":"L0L 2L0","region":"Ontario","city":"Shanty Bay","latitude":46.18068,"longitude":-80.38578}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5079"]={"code":"5079","region":"Monastir","city":"Saqanis","latitude":35.78333,"longitude":10.8}}(window,'GeoPostal','TN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 1M0"]={"code":"S0M 1M0","region":"Saskatchewan","city":"Maidstone","latitude":53.10016,"longitude":-109.28478}}(window,'GeoPostal','CA');

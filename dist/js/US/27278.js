@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27278"]={"code":"27278","region":"North Carolina","city":"Hillsborough","latitude":36.07458,"longitude":-79.07766}}(window,'GeoPostal','US');

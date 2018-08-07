@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95934"]={"code":"95934","region":"CA","city":"Crescent Mills","latitude":40.0673,"longitude":-120.9248}}(window,'GeoPostal','US');

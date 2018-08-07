@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187015"]={"code":"187015","region":"Leningradskaya oblast'","city":"Krasnyy Bor","latitude":59.68194,"longitude":30.66806}}(window,'GeoPostal','RU');

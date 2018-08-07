@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62313"]={"code":"62313","region":"Jawa Timur","city":"Mondokan","latitude":-6.8852,"longitude":112.0253}}(window,'GeoPostal','ID');

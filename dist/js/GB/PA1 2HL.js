@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA1 2HL"]={"code":"PA1 2HL","region":"Scotland","city":"Camphill","latitude":57.1,"longitude":-2.23333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["600282"]={"code":"600282","region":"Borno","city":"Maiduguri","latitude":11.84644,"longitude":13.16027}}(window,'GeoPostal','NG');

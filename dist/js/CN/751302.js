@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["751302"]={"code":"751302","region":"Ningxia","city":"Hongsipu","latitude":37.39917,"longitude":106.06028}}(window,'GeoPostal','CN');

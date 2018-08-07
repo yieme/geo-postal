@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95527"]={"code":"95527","region":"CA","city":"Burnt Ranch","latitude":40.7897,"longitude":-123.4113}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45768"]={"code":"45768","region":"Nordrhein-Westfalen","city":"Marl","latitude":51.65671,"longitude":7.09038}}(window,'GeoPostal','DE');

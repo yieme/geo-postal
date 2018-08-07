@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26574"]={"code":"26574","region":"WV","city":"Grant Town","latitude":39.5587,"longitude":-80.1805}}(window,'GeoPostal','US');

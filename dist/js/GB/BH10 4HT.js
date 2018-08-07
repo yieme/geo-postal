@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH10 4HT"]={"code":"BH10 4HT","region":"England","city":"Winton","latitude":50.73333,"longitude":-1.86667}}(window,'GeoPostal','GB');

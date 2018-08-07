@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28887"]={"code":"28887","region":"Piemonte","city":"Omegna","latitude":45.87977,"longitude":8.40802}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83501"]={"code":"83501","region":"Idaho","city":"Kamiah","latitude":46.391549,"longitude":-116.98701}}(window,'GeoPostal','US');

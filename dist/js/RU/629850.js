@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629850"]={"code":"629850","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Tarko-Sale","latitude":64.9225,"longitude":77.785}}(window,'GeoPostal','RU');

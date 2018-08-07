@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9EE"]={"code":"ZE2 9EE","region":"Scotland","city":"Haroldswick","latitude":60.78753,"longitude":-0.83299}}(window,'GeoPostal','GB');

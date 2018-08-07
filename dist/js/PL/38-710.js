@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-710"]={"code":"38-710","region":"Podkarpackie","city":"Czarna","latitude":49.33116,"longitude":22.65896}}(window,'GeoPostal','PL');

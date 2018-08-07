@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47512"]={"code":"47512","region":"IN","city":"Bicknell","latitude":38.7727,"longitude":-87.3137}}(window,'GeoPostal','US');

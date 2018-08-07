@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH36 4HX"]={"code":"PH36 4HX","region":"Scotland","city":"Resipol","latitude":56.71667,"longitude":-5.71667}}(window,'GeoPostal','GB');

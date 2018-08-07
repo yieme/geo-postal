@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515774"]={"code":"515774","region":"Andhra Pradesh","city":"Puttaparthi","latitude":14.1652,"longitude":77.8117}}(window,'GeoPostal','IN');

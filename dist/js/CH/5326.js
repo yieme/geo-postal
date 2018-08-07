@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5326"]={"code":"5326","region":"Aargau","city":"Schwaderloch","latitude":47.58541,"longitude":8.14455}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99018"]={"code":"99018","region":"WA","city":"Latah","latitude":47.2999,"longitude":-117.1395}}(window,'GeoPostal','US');

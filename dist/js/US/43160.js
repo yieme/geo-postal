@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43160"]={"code":"43160","region":"Ohio","city":"Washington Court House","latitude":39.53645,"longitude":-83.43908}}(window,'GeoPostal','US');

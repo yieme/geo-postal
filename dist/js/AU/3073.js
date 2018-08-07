@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3073"]={"code":"3073","region":"Victoria","city":"Reservoir","latitude":-37.71667,"longitude":145}}(window,'GeoPostal','AU');

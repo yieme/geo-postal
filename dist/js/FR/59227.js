@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59227"]={"code":"59227","region":"Hauts-de-France","city":"Saulzoir","latitude":50.24058,"longitude":3.4443}}(window,'GeoPostal','FR');

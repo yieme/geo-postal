@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59057"]={"code":"59057","region":"MT","city":"Molt","latitude":45.8615,"longitude":-108.9731}}(window,'GeoPostal','US');

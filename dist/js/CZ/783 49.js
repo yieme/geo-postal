@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783 49"]={"code":"783 49","region":"Olomoucky kraj","city":"Lutin","latitude":49.55845,"longitude":17.13572}}(window,'GeoPostal','CZ');

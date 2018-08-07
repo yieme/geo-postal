@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18440"]={"code":"18440","region":"PA","city":"La Plume","latitude":41.5516,"longitude":-75.7676}}(window,'GeoPostal','US');

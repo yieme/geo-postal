@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27355"]={"code":"27355","region":"NC","city":"Staley","latitude":35.796,"longitude":-79.5514}}(window,'GeoPostal','US');

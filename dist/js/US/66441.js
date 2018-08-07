@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66441"]={"code":"66441","region":"Kansas","city":"Junction City","latitude":39.02861,"longitude":-96.8314}}(window,'GeoPostal','US');

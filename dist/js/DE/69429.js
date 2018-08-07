@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69429"]={"code":"69429","region":"Baden-Wurttemberg","city":"Strumpfelbrunn","latitude":49.46425,"longitude":9.07887}}(window,'GeoPostal','DE');

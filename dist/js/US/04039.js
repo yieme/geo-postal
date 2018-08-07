@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04039"]={"code":"04039","region":"ME","city":"Gray","latitude":43.8942,"longitude":-70.3429}}(window,'GeoPostal','US');

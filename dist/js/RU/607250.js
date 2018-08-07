@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607250"]={"code":"607250","region":"Kostromskaya oblast'","city":"Krasnoye-na-Volge","latitude":57.51483,"longitude":41.239}}(window,'GeoPostal','RU');

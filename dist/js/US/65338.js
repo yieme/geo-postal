@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65338"]={"code":"65338","region":"MO","city":"Lincoln","latitude":38.4073,"longitude":-93.3668}}(window,'GeoPostal','US');

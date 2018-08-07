@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30802"]={"code":"30802","region":"GA","city":"Appling","latitude":33.6271,"longitude":-82.2856}}(window,'GeoPostal','US');

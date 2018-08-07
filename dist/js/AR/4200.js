@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4200"]={"code":"4200","region":"Santiago del Estero","city":"Santiago del Estero","latitude":-27.79511,"longitude":-64.26149}}(window,'GeoPostal','AR');

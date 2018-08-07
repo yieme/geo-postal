@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49949"]={"code":"49949","region":"Pays-de-la-Loire","city":"Angers","latitude":47.46667,"longitude":-0.55}}(window,'GeoPostal','FR');

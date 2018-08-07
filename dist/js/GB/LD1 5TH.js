@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD1 5TH"]={"code":"LD1 5TH","region":"Wales","city":"Llanfihangel Rhydithon","latitude":52.29175,"longitude":-3.24666}}(window,'GeoPostal','GB');

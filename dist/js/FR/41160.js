@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41160"]={"code":"41160","region":"Centre-Val de Loire","city":"Moree","latitude":47.90397,"longitude":1.23421}}(window,'GeoPostal','FR');

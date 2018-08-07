@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33121"]={"code":"33121","region":"Kepulauan Bangka Belitung","city":"Pangkalpinang","latitude":-2.13333,"longitude":106.13333}}(window,'GeoPostal','ID');

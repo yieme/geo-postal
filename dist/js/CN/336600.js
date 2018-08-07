@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336600"]={"code":"336600","region":"Jiangxi","city":"Fenyi","latitude":27.81117,"longitude":114.66805}}(window,'GeoPostal','CN');

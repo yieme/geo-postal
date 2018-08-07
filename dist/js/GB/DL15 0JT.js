@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL15 0JT"]={"code":"DL15 0JT","region":"England","city":"Hunwick","latitude":54.68791,"longitude":-1.70539}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2350-099"]={"code":"2350-099","region":"Santarem","city":"Torres Novas","latitude":39.48114,"longitude":-8.53949}}(window,'GeoPostal','PT');

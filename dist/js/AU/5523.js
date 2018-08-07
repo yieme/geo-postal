@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5523"]={"code":"5523","region":"South Australia","city":"Crystal Brook","latitude":-33.35256,"longitude":138.20955}}(window,'GeoPostal','AU');

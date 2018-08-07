@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51653"]={"code":"51653","region":"Dnipropetrovska oblast","city":"Novonikolayevka","latitude":48.55625,"longitude":34.37399}}(window,'GeoPostal','UA');

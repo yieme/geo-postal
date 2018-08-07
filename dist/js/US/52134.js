@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52134"]={"code":"52134","region":"Iowa","city":"Chester","latitude":43.464727,"longitude":-92.434586}}(window,'GeoPostal','US');

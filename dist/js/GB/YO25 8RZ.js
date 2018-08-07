@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 8RZ"]={"code":"YO25 8RZ","region":"England","city":"Brandesburton","latitude":53.9111,"longitude":-0.30122}}(window,'GeoPostal','GB');

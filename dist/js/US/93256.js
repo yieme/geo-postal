@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93256"]={"code":"93256","region":"California","city":"Pixley","latitude":35.972173,"longitude":-119.289793}}(window,'GeoPostal','US');

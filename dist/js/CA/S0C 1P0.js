@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 1P0"]={"code":"S0C 1P0","region":"Saskatchewan","city":"Macoun","latitude":49.31676,"longitude":-103.26767}}(window,'GeoPostal','CA');

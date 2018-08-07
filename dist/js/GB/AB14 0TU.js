@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB14 0TU"]={"code":"AB14 0TU","region":"Scotland","city":"Peterculter","latitude":57.09929,"longitude":-2.26588}}(window,'GeoPostal','GB');

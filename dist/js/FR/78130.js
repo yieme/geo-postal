@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78130"]={"code":"78130","region":"Ile-de-France","city":"Chapet","latitude":48.96667,"longitude":1.93333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52749"]={"code":"52749","region":"IA","city":"Fruitland","latitude":41.3486,"longitude":-91.1237}}(window,'GeoPostal','US');

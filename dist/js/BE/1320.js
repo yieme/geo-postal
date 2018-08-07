@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1320"]={"code":"1320","region":"Brabant wallon","city":"Beauvechain","latitude":50.78195,"longitude":4.7718}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["240000"]={"code":"240000","region":"Lang Son","city":"Lang Son","latitude":21.83333,"longitude":106.73333}}(window,'GeoPostal','VN');

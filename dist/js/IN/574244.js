@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["574244"]={"code":"574244","region":"Maharashtra","city":"Allapalli","latitude":19.41667,"longitude":80.06667}}(window,'GeoPostal','IN');

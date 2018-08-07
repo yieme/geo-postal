@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO21 1NF"]={"code":"YO21 1NF","region":"England","city":"Ruswarp","latitude":54.47263,"longitude":-0.63094}}(window,'GeoPostal','GB');

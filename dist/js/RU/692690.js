@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692690"]={"code":"692690","region":"Khabarovskiy kray","city":"Nekrasovka","latitude":48.3525,"longitude":135.2325}}(window,'GeoPostal','RU');

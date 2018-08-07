@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64661"]={"code":"64661","region":"MO","city":"Mercer","latitude":40.5169,"longitude":-93.5242}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55730"]={"code":"55730","region":"Minnesota","city":"Grand Rapids","latitude":47.23717,"longitude":-93.53021}}(window,'GeoPostal','US');

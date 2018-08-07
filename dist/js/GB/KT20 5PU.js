@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT20 5PU"]={"code":"KT20 5PU","region":"England","city":"Tadworth","latitude":51.29112,"longitude":-0.23586}}(window,'GeoPostal','GB');

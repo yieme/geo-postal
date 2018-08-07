@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["349 01"]={"code":"349 01","region":"Plzensky kraj","city":"Stribro","latitude":49.75294,"longitude":13.00409}}(window,'GeoPostal','CZ');

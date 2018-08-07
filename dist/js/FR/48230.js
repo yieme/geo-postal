@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48230"]={"code":"48230","region":"Occitanie","city":"Chanac","latitude":44.46614,"longitude":3.34326}}(window,'GeoPostal','FR');

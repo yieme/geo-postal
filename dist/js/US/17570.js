@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17570"]={"code":"17570","region":"PA","city":"Rheems","latitude":40.1301,"longitude":-76.5705}}(window,'GeoPostal','US');

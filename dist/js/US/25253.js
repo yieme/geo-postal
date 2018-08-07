@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25253"]={"code":"25253","region":"West Virginia","city":"Letart","latitude":38.89472,"longitude":-81.933333}}(window,'GeoPostal','US');

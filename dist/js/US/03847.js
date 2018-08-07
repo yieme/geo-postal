@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03847"]={"code":"03847","region":"NH","city":"Kearsarge","latitude":44.0753,"longitude":-71.1176}}(window,'GeoPostal','US');

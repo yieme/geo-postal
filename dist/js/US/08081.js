@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08081"]={"code":"08081","region":"NJ","city":"Sicklerville","latitude":39.7354,"longitude":-74.9864}}(window,'GeoPostal','US');

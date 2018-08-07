@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06917"]={"code":"06917","region":"Sachsen-Anhalt","city":"Oberberge","latitude":51.80404,"longitude":12.99145}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67585"]={"code":"67585","region":"KS","city":"Yoder","latitude":37.9412,"longitude":-97.8711}}(window,'GeoPostal','US');

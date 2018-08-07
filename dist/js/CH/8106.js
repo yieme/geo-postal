@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8106"]={"code":"8106","region":"Zurich","city":"Regensdorf","latitude":47.4341,"longitude":8.46874}}(window,'GeoPostal','CH');

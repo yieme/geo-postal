@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4710"]={"code":"4710","region":"Solothurn","city":"Balsthal","latitude":47.31613,"longitude":7.69318}}(window,'GeoPostal','CH');

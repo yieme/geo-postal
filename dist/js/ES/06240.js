@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06240"]={"code":"06240","region":"Extremadura","city":"Fuente de Cantos","latitude":38.25,"longitude":-6.3}}(window,'GeoPostal','ES');

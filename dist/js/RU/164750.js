@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["164750"]={"code":"164750","region":"Arkhangel'skaya oblast'","city":"Mezen'","latitude":65.85222,"longitude":44.24}}(window,'GeoPostal','RU');

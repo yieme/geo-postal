@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15315"]={"code":"15315","region":"Pennsylvania","city":"Bobtown","latitude":39.760695,"longitude":-79.98399}}(window,'GeoPostal','US');

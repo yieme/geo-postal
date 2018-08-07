@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA18 3QR"]={"code":"KA18 3QR","region":"Scotland","city":"Muirkirk","latitude":55.52272,"longitude":-4.06551}}(window,'GeoPostal','GB');

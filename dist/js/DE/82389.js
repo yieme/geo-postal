@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82389"]={"code":"82389","region":"Bayern","city":"Bobing","latitude":47.75,"longitude":10.98333}}(window,'GeoPostal','DE');

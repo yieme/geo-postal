@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["348 15"]={"code":"348 15","region":"Plzensky kraj","city":"Chodova Plana","latitude":49.89321,"longitude":12.73014}}(window,'GeoPostal','CZ');

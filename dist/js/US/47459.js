@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47459"]={"code":"47459","region":"IN","city":"Solsberry","latitude":39.119,"longitude":-86.7378}}(window,'GeoPostal','US');

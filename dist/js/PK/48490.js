@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48490"]={"code":"48490","region":"Punjab","city":"Jand","latitude":33.42985,"longitude":72.01928}}(window,'GeoPostal','PK');

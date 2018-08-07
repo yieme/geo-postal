@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332719"]={"code":"332719","region":"Rajasthan","city":"Sri Madhopur","latitude":27.46667,"longitude":75.6}}(window,'GeoPostal','IN');

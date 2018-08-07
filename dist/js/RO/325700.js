@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["325700"]={"code":"325700","region":"Caras-Severin","city":"Otelu Rosu","latitude":45.53333,"longitude":22.36667}}(window,'GeoPostal','RO');

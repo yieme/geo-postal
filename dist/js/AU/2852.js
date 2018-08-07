@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2852"]={"code":"2852","region":"New South Wales","city":"Gulgong","latitude":-32.36253,"longitude":149.53201}}(window,'GeoPostal','AU');

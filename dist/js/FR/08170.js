@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08170"]={"code":"08170","region":"Grand-Est","city":"Fumay","latitude":49.99132,"longitude":4.70771}}(window,'GeoPostal','FR');

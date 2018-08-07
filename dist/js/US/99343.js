@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99343"]={"code":"99343","region":"WA","city":"Mesa","latitude":46.5782,"longitude":-119.1373}}(window,'GeoPostal','US');

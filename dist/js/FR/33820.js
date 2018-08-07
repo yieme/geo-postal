@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33820"]={"code":"33820","region":"Nouvelle-Aquitaine","city":"Saint-Ciers-sur-Gironde","latitude":45.28855,"longitude":-0.60794}}(window,'GeoPostal','FR');

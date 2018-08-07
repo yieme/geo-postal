@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01921"]={"code":"01921","region":"Massachusetts","city":"Boxford","latitude":42.67614,"longitude":-71.004217}}(window,'GeoPostal','US');

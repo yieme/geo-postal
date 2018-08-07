@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38462"]={"code":"38462","region":"Tennessee","city":"Hohenwald","latitude":35.551763,"longitude":-87.546248}}(window,'GeoPostal','US');

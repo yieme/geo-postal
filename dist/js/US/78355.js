@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78355"]={"code":"78355","region":"TX","city":"Falfurrias","latitude":27.2242,"longitude":-98.1408}}(window,'GeoPostal','US');

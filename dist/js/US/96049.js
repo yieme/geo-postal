@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96049"]={"code":"96049","region":"California","city":"Redding","latitude":40.563142,"longitude":-122.295039}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56073"]={"code":"56073","region":"Rheinland-Pfalz","city":"Koblenz","latitude":50.35357,"longitude":7.57884}}(window,'GeoPostal','DE');

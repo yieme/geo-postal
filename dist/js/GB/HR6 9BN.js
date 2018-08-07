@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR6 9BN"]={"code":"HR6 9BN","region":"England","city":"Eardisland","latitude":52.22255,"longitude":-2.85203}}(window,'GeoPostal','GB');

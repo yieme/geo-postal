@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18342"]={"code":"18342","region":"Pennsylvania","city":"Mountainhome","latitude":41.1737,"longitude":-75.27102}}(window,'GeoPostal','US');

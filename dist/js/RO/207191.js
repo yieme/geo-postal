@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207191"]={"code":"207191","region":"Dambovita","city":"Moreni","latitude":44.98333,"longitude":25.65}}(window,'GeoPostal','RO');

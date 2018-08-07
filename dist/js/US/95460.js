@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95460"]={"code":"95460","region":"California","city":"Mendocino","latitude":39.30778,"longitude":-123.79944}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["268 01"]={"code":"268 01","region":"Stredocesky kraj","city":"Horovice","latitude":49.83597,"longitude":13.90268}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90531"]={"code":"90531","region":"Zakarpatska oblast","city":"Dubove","latitude":48.17205,"longitude":23.88954}}(window,'GeoPostal','UA');

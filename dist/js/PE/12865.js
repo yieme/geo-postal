@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12865"]={"code":"12865","region":"Junin","city":"Perene","latitude":-10.94917,"longitude":-75.22611}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4274"]={"code":"4274","region":"Komenda","city":"Moste","latitude":46.195,"longitude":14.5514}}(window,'GeoPostal','SI');

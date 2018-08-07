@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40162"]={"code":"40162","region":"KY","city":"Rineyville","latitude":37.7525,"longitude":-85.9954}}(window,'GeoPostal','US');

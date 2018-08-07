@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65370-000"]={"code":"65370-000","region":"Maranhao","city":"Santa Ines","latitude":-3.66667,"longitude":-45.38}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75026"]={"code":"75026","region":"Basilicata","city":"Rotondella","latitude":40.17131,"longitude":16.52559}}(window,'GeoPostal','IT');

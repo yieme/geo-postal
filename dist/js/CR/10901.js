@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10901"]={"code":"10901","region":"San Jose","city":"Santa Ana","latitude":9.9326,"longitude":-84.18254}}(window,'GeoPostal','CR');

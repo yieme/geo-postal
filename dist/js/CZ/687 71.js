@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687 71"]={"code":"687 71","region":"Zlinsky kraj","city":"Zahorovice","latitude":49.02266,"longitude":17.77922}}(window,'GeoPostal','CZ');

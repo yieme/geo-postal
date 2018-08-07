@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3561"]={"code":"3561","region":"Buskerud","city":"Hemsedal","latitude":60.86293,"longitude":8.55337}}(window,'GeoPostal','NO');

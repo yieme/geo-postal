@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2800"]={"code":"2800","region":"Blagoevgrad","city":"Sandanski","latitude":41.56667,"longitude":23.28333}}(window,'GeoPostal','BG');

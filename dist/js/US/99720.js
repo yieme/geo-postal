@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99720"]={"code":"99720","region":"AK","city":"Allakaket","latitude":66.5656,"longitude":-152.6456}}(window,'GeoPostal','US');

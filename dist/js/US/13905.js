@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13905"]={"code":"13905","region":"New York","city":"Binghamton","latitude":42.16062,"longitude":-75.93648}}(window,'GeoPostal','US');

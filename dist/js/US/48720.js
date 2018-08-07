@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48720"]={"code":"48720","region":"Michigan","city":"Bay Port","latitude":43.830201,"longitude":-83.351517}}(window,'GeoPostal','US');

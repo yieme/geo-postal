@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81058"]={"code":"81058","region":"Campania","city":"Vairano Patenora","latitude":41.33702,"longitude":14.13112}}(window,'GeoPostal','IT');

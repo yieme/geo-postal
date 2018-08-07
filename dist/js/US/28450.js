@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28450"]={"code":"28450","region":"North Carolina","city":"Lake Waccamaw","latitude":34.31906,"longitude":-78.50001}}(window,'GeoPostal','US');

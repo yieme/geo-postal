@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27330"]={"code":"27330","region":"North Carolina","city":"Sanford","latitude":35.493,"longitude":-79.1765}}(window,'GeoPostal','US');

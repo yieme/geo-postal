@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93642"]={"code":"93642","region":"CA","city":"Mono Hot Springs","latitude":37.3266,"longitude":-119.0176}}(window,'GeoPostal','US');

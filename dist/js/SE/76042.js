@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76042"]={"code":"76042","region":"Stockholms lan","city":"Bjorko","latitude":59.75,"longitude":19}}(window,'GeoPostal','SE');

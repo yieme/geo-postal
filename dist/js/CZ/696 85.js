@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 85"]={"code":"696 85","region":"Jihomoravsky kraj","city":"Moravsky Pisek","latitude":48.99016,"longitude":17.33269}}(window,'GeoPostal','CZ');

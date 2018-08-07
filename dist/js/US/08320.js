@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08320"]={"code":"08320","region":"NJ","city":"Fairton","latitude":39.3799,"longitude":-75.2217}}(window,'GeoPostal','US');

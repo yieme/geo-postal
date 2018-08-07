@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62079"]={"code":"62079","region":"IL","city":"Piasa","latitude":39.1159,"longitude":-90.1237}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20871"]={"code":"20871","region":"Lombardia","city":"Vimercate","latitude":45.61188,"longitude":9.36705}}(window,'GeoPostal','IT');

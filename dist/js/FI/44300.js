@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44300"]={"code":"44300","region":"Keski-Suomi","city":"Konnevesi","latitude":62.61667,"longitude":26.31667}}(window,'GeoPostal','FI');

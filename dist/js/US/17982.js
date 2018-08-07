@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17982"]={"code":"17982","region":"PA","city":"Tuscarora","latitude":40.7815,"longitude":-76.0134}}(window,'GeoPostal','US');

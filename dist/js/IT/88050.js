@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88050"]={"code":"88050","region":"Calabria","city":"Sellia Marina","latitude":38.88599,"longitude":16.74931}}(window,'GeoPostal','IT');

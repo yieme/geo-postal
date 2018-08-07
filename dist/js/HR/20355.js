@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20355"]={"code":"20355","region":"Dubrovacko-neretvanska zupanija","city":"Opuzen","latitude":43.01528,"longitude":17.56556}}(window,'GeoPostal','HR');

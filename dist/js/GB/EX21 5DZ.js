@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX21 5DZ"]={"code":"EX21 5DZ","region":"England","city":"Virginstow","latitude":50.71072,"longitude":-4.29814}}(window,'GeoPostal','GB');

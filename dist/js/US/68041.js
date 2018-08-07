@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68041"]={"code":"68041","region":"NE","city":"Mead","latitude":41.2393,"longitude":-96.4961}}(window,'GeoPostal','US');

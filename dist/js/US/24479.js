@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24479"]={"code":"24479","region":"VA","city":"Swoope","latitude":38.1591,"longitude":-79.1873}}(window,'GeoPostal','US');

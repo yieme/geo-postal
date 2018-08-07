@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95614"]={"code":"95614","region":"CA","city":"Cool","latitude":38.8923,"longitude":-120.9802}}(window,'GeoPostal','US');

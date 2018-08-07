@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08053"]={"code":"08053","region":"New Jersey","city":"Marlton","latitude":39.888912,"longitude":-74.911599}}(window,'GeoPostal','US');

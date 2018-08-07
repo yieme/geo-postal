@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437250"]={"code":"437250","region":"Maramures","city":"Rona de Sus","latitude":47.9,"longitude":24.05}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-645"]={"code":"63-645","region":"Wielkopolskie","city":"Leka Opatowska","latitude":51.21231,"longitude":18.1071}}(window,'GeoPostal','PL');

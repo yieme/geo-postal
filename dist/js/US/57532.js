@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57532"]={"code":"57532","region":"South Dakota","city":"Fort Pierre","latitude":44.35359,"longitude":-100.37374}}(window,'GeoPostal','US');

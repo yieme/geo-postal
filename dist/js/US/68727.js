@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68727"]={"code":"68727","region":"Nebraska","city":"Coleridge","latitude":42.506106,"longitude":-97.203301}}(window,'GeoPostal','US');

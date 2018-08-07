@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["048 01"]={"code":"048 01","region":"Kosicky kraj","city":"Roznava","latitude":48.66008,"longitude":20.53758}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38480"]={"code":"38480","region":"Canarias","city":"Buenavista del Norte","latitude":28.37458,"longitude":-16.86098}}(window,'GeoPostal','ES');

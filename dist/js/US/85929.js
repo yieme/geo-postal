@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85929"]={"code":"85929","region":"Arizona","city":"Lakeside","latitude":34.14194,"longitude":-109.96417}}(window,'GeoPostal','US');

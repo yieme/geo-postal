@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49846"]={"code":"49846","region":"Niedersachsen","city":"Hoogstede","latitude":52.58333,"longitude":6.95}}(window,'GeoPostal','DE');

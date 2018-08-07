@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31812"]={"code":"31812","region":"Georgia","city":"Junction City","latitude":32.603094,"longitude":-84.457319}}(window,'GeoPostal','US');

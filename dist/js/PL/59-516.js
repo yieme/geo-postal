@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-516"]={"code":"59-516","region":"Dolnoslaskie","city":"Zagrodno","latitude":51.19134,"longitude":15.86533}}(window,'GeoPostal','PL');

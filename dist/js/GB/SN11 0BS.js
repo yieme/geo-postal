@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN11 0BS"]={"code":"SN11 0BS","region":"England","city":"Calne","latitude":51.43879,"longitude":-2.00571}}(window,'GeoPostal','GB');

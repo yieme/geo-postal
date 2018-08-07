@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE32 2XD"]={"code":"PE32 2XD","region":"England","city":"Castle Acre","latitude":52.7046,"longitude":0.68903}}(window,'GeoPostal','GB');

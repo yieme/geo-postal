@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11431"]={"code":"11431","region":"NY","city":"Jamaica","latitude":40.6869,"longitude":-73.8501}}(window,'GeoPostal','US');

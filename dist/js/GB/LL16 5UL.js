@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL16 5UL"]={"code":"LL16 5UL","region":"Wales","city":"Trefnant","latitude":53.21667,"longitude":-3.43333}}(window,'GeoPostal','GB');

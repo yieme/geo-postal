@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5412"]={"code":"5412","region":"South Australia","city":"Riverton","latitude":-34.15507,"longitude":138.74818}}(window,'GeoPostal','AU');

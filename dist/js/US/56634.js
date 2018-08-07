@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56634"]={"code":"56634","region":"Minnesota","city":"Clearbrook","latitude":47.69444,"longitude":-95.4275}}(window,'GeoPostal','US');

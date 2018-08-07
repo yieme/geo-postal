@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62112"]={"code":"62112","region":"Hauts-de-France","city":"Corbehem","latitude":50.33141,"longitude":3.04995}}(window,'GeoPostal','FR');

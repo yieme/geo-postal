@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01320"]={"code":"01320","region":"Auvergne-Rhone-Alpes","city":"Chalamont","latitude":45.99665,"longitude":5.17014}}(window,'GeoPostal','FR');

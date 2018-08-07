@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82500"]={"code":"82500","region":"Pohjois-Karjala","city":"Kitee","latitude":62.1,"longitude":30.15}}(window,'GeoPostal','FI');

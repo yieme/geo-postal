@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07974"]={"code":"07974","region":"New Jersey","city":"New Providence","latitude":40.69842,"longitude":-74.415}}(window,'GeoPostal','US');

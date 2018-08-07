@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["176115"]={"code":"176115","region":"Himachal Pradesh","city":"Tira Sujanpur","latitude":31.83333,"longitude":76.5}}(window,'GeoPostal','IN');

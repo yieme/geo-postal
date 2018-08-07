@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72587"]={"code":"72587","region":"Baden-Wurttemberg","city":"Zainingen","latitude":48.48242,"longitude":9.54652}}(window,'GeoPostal','DE');

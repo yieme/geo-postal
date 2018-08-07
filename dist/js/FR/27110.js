@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27110"]={"code":"27110","region":"Normandie","city":"Le Neubourg","latitude":49.15048,"longitude":0.9102}}(window,'GeoPostal','FR');

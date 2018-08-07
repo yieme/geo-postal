@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2628"]={"code":"2628","region":"New South Wales","city":"Coolamatong","latitude":-36.4,"longitude":148.8}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["835302"]={"code":"835302","region":"Jharkhand","city":"Lohardaga","latitude":23.43333,"longitude":84.68333}}(window,'GeoPostal','IN');

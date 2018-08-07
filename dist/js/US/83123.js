@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83123"]={"code":"83123","region":"Wyoming","city":"La Barge","latitude":42.259608,"longitude":-110.205828}}(window,'GeoPostal','US');

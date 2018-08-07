@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98000"]={"code":"98000","region":"Monaco-Ville","city":"Monaco","latitude":43.73333,"longitude":7.41667}}(window,'GeoPostal','MC');

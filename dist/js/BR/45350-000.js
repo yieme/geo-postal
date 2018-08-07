@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45350-000"]={"code":"45350-000","region":"Bahia","city":"Itirucu","latitude":-13.53167,"longitude":-40.15028}}(window,'GeoPostal','BR');

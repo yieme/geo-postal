@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7740"]={"code":"7740","region":"Sor-Trondelag","city":"Steinsdalen","latitude":64.29875,"longitude":10.51284}}(window,'GeoPostal','NO');

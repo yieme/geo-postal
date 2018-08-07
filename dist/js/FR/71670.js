@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71670"]={"code":"71670","region":"Bourgogne-Franche-Comte","city":"Le Breuil","latitude":46.80654,"longitude":4.46953}}(window,'GeoPostal','FR');

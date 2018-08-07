@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353154"]={"code":"353154","region":"Krasnodarskiy kray","city":"Vyselki","latitude":45.58128,"longitude":39.66409}}(window,'GeoPostal','RU');

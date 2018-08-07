@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72934"]={"code":"72934","region":"AR","city":"Chester","latitude":35.6898,"longitude":-94.202}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["080450"]={"code":"080450","region":"Esmeraldas","city":"Rosa Zarate","latitude":0.33333,"longitude":-79.46667}}(window,'GeoPostal','EC');

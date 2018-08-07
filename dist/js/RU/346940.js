@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346940"]={"code":"346940","region":"Rostovskaya oblast'","city":"Kuybyshevo","latitude":47.81228,"longitude":38.90731}}(window,'GeoPostal','RU');

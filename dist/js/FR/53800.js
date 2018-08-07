@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53800"]={"code":"53800","region":"Pays-de-la-Loire","city":"Renaze","latitude":47.7934,"longitude":-1.05437}}(window,'GeoPostal','FR');

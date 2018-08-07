@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83846"]={"code":"83846","region":"Idaho","city":"Mullan","latitude":47.46944,"longitude":-115.79806}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98221"]={"code":"98221","region":"Avtonomna Respublika Krym","city":"Voskhod","latitude":45.3392,"longitude":36.4141}}(window,'GeoPostal','UA');

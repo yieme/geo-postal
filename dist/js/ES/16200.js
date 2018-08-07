@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16200"]={"code":"16200","region":"Castilla-La Mancha","city":"Motilla del Palancar","latitude":39.56667,"longitude":-1.88333}}(window,'GeoPostal','ES');

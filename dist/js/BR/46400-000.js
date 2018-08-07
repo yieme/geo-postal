@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46400-000"]={"code":"46400-000","region":"Bahia","city":"Caetite","latitude":-14.06944,"longitude":-42.475}}(window,'GeoPostal','BR');

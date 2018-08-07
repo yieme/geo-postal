@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63110"]={"code":"63110","region":"Hessen","city":"Rodgau","latitude":50.02627,"longitude":8.88588}}(window,'GeoPostal','DE');

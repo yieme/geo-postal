@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47710"]={"code":"47710","region":"Kymenlaakso","city":"Jaala","latitude":61.05251,"longitude":26.48117}}(window,'GeoPostal','FI');

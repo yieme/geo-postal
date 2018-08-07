@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31510"]={"code":"31510","region":"Occitanie","city":"Ore","latitude":42.9761,"longitude":0.6511}}(window,'GeoPostal','FR');

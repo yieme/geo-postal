@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45735"]={"code":"45735","region":"OH","city":"Guysville","latitude":39.2493,"longitude":-81.922}}(window,'GeoPostal','US');

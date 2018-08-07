@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61841"]={"code":"61841","region":"Illinois","city":"Fairmont","latitude":40.045731,"longitude":-87.830326}}(window,'GeoPostal','US');

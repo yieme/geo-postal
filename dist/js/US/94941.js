@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94941"]={"code":"94941","region":"California","city":"Mill Valley","latitude":37.90604,"longitude":-122.54498}}(window,'GeoPostal','US');

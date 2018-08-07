@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21255"]={"code":"21255","region":"Niedersachsen","city":"Neddernhof","latitude":53.28379,"longitude":9.7768}}(window,'GeoPostal','DE');

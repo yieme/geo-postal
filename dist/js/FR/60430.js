@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60430"]={"code":"60430","region":"Hauts-de-France","city":"Saint-Sulpice","latitude":49.35049,"longitude":2.12314}}(window,'GeoPostal','FR');

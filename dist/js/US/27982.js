@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27982"]={"code":"27982","region":"North Carolina","city":"Waves","latitude":35.5527,"longitude":-75.4661}}(window,'GeoPostal','US');

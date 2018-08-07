@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17237"]={"code":"17237","region":"PA","city":"Mont Alto","latitude":39.8417,"longitude":-77.5537}}(window,'GeoPostal','US');

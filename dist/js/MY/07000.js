@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07000"]={"code":"07000","region":"Kedah","city":"Kuah","latitude":6.32649,"longitude":99.8432}}(window,'GeoPostal','MY');

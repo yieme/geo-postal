@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62661"]={"code":"62661","region":"IL","city":"Loami","latitude":39.6704,"longitude":-89.8588}}(window,'GeoPostal','US');

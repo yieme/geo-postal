@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45063"]={"code":"45063","region":"OH","city":"Shandon","latitude":39.3258,"longitude":-84.7121}}(window,'GeoPostal','US');

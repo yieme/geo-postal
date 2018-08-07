@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4560-072"]={"code":"4560-072","region":"Porto","city":"Figueiro","latitude":41.29922,"longitude":-8.16779}}(window,'GeoPostal','PT');

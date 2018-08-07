@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171607"]={"code":"171607","region":"Moskovskaya oblast'","city":"Obukhovo","latitude":55.83278,"longitude":38.2725}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8577"]={"code":"8577","region":"Pafos","city":"Tala","latitude":34.8375,"longitude":32.43333}}(window,'GeoPostal','CY');

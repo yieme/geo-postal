@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA17 7XJ"]={"code":"LA17 7XJ","region":"England","city":"Grizebeck","latitude":54.25523,"longitude":-3.17019}}(window,'GeoPostal','GB');

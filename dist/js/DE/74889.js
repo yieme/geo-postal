@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74889"]={"code":"74889","region":"Baden-Wurttemberg","city":"Sinsheim","latitude":49.2529,"longitude":8.87867}}(window,'GeoPostal','DE');

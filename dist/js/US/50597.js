@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50597"]={"code":"50597","region":"IA","city":"West Bend","latitude":42.9574,"longitude":-94.4564}}(window,'GeoPostal','US');

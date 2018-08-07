@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78125"]={"code":"78125","region":"Ile-de-France","city":"Vieille-Eglise-en-Yvelines","latitude":48.6703,"longitude":1.8767}}(window,'GeoPostal','FR');

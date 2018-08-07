@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72027"]={"code":"72027","region":"AR","city":"Center Ridge","latitude":35.3981,"longitude":-92.5582}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6530"]={"code":"6530","region":"Makedonski Brod","city":"Makedonski Brod","latitude":41.51361,"longitude":21.21528}}(window,'GeoPostal','MK');

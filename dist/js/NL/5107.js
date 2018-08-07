@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5107"]={"code":"5107","region":"Noord-Brabant","city":"Dongen","latitude":51.62667,"longitude":4.93889}}(window,'GeoPostal','NL');

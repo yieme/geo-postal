@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30671"]={"code":"30671","region":"GA","city":"Maxeys","latitude":33.7405,"longitude":-83.1706}}(window,'GeoPostal','US');

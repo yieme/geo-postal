@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27000"]={"code":"27000","region":"Pahang","city":"Jerantut","latitude":3.936,"longitude":102.3626}}(window,'GeoPostal','MY');

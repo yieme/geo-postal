@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49688"]={"code":"49688","region":"Niedersachsen","city":"Klein Roscharden","latitude":52.81174,"longitude":7.86087}}(window,'GeoPostal','DE');

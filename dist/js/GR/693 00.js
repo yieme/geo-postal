@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["693 00"]={"code":"693 00","region":"Anatoliki Makedonia kai Thraki","city":"Likion","latitude":41.05,"longitude":25.68333}}(window,'GeoPostal','GR');

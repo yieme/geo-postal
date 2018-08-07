@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55952"]={"code":"55952","region":"MN","city":"Lewiston","latitude":43.9702,"longitude":-91.8662}}(window,'GeoPostal','US');

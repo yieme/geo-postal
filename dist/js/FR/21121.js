@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21121"]={"code":"21121","region":"Bourgogne-Franche-Comte","city":"Ahuy","latitude":47.36944,"longitude":5.02089}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KY13 8TF"]={"code":"KY13 8TF","region":"Scotland","city":"Kinross","latitude":56.20466,"longitude":-3.42138}}(window,'GeoPostal','GB');

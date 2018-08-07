@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346 00"]={"code":"346 00","region":"Sterea Ellada","city":"Nea Artaki","latitude":38.51667,"longitude":23.63333}}(window,'GeoPostal','GR');

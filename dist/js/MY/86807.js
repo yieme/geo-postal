@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86807"]={"code":"86807","region":"Pahang","city":"Pulau Tioman","latitude":2.816667,"longitude":104.183333}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95433"]={"code":"95433","region":"CA","city":"El Verano","latitude":38.2993,"longitude":-122.4867}}(window,'GeoPostal','US');

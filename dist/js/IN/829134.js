@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["829134"]={"code":"829134","region":"Jharkhand","city":"Bokaro","latitude":23.78333,"longitude":85.96667}}(window,'GeoPostal','IN');

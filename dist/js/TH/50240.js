@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50240"]={"code":"50240","region":"Chiang Mai","city":"Hot","latitude":18.19317,"longitude":98.61039}}(window,'GeoPostal','TH');

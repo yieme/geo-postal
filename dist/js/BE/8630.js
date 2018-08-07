@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8630"]={"code":"8630","region":"West-Vlaanderen","city":"Veurne","latitude":51.07231,"longitude":2.66238}}(window,'GeoPostal','BE');

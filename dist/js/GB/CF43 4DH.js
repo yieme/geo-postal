@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF43 4DH"]={"code":"CF43 4DH","region":"Wales","city":"Maerdy","latitude":51.67528,"longitude":-3.48667}}(window,'GeoPostal','GB');

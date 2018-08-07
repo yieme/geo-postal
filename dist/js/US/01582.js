@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01582"]={"code":"01582","region":"MA","city":"Westborough","latitude":42.26,"longitude":-71.61}}(window,'GeoPostal','US');

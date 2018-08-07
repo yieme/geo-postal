@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81657"]={"code":"81657","region":"Lvivska oblast","city":"Podgortsy","latitude":49.94612,"longitude":24.9795}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67733"]={"code":"67733","region":"Kansas","city":"Edson","latitude":39.351617,"longitude":-101.502082}}(window,'GeoPostal','US');

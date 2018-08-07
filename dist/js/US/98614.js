@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98614"]={"code":"98614","region":"Washington","city":"Chinook","latitude":46.27222,"longitude":-123.94611}}(window,'GeoPostal','US');

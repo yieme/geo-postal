@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21155"]={"code":"21155","region":"MD","city":"Upperco","latitude":39.5676,"longitude":-76.7972}}(window,'GeoPostal','US');

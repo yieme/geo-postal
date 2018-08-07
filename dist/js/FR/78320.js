@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78320"]={"code":"78320","region":"Ile-de-France","city":"Levis-Saint-Nom","latitude":48.71667,"longitude":1.95}}(window,'GeoPostal','FR');

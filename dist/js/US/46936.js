@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46936"]={"code":"46936","region":"IN","city":"Greentown","latitude":40.4791,"longitude":-85.9582}}(window,'GeoPostal','US');

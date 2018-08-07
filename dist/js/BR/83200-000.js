@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83200-000"]={"code":"83200-000","region":"Parana","city":"Paranagua","latitude":-25.52,"longitude":-48.50917}}(window,'GeoPostal','BR');

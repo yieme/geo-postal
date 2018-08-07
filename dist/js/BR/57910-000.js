@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57910-000"]={"code":"57910-000","region":"Alagoas","city":"Matriz de Camaragibe","latitude":-9.15167,"longitude":-35.53333}}(window,'GeoPostal','BR');

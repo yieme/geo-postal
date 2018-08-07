@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52168"]={"code":"52168","region":"Iowa","city":"Spillville","latitude":43.20318,"longitude":-91.95106}}(window,'GeoPostal','US');

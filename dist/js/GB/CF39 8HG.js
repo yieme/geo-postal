@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF39 8HG"]={"code":"CF39 8HG","region":"Wales","city":"Tonyrefail","latitude":51.58402,"longitude":-3.43041}}(window,'GeoPostal','GB');

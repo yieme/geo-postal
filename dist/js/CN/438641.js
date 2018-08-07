@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["438641"]={"code":"438641","region":"Hubei","city":"Dahe'an","latitude":30.84806,"longitude":115.4818}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SR3 4AF"]={"code":"SR3 4AF","region":"England","city":"Sunderland","latitude":54.7,"longitude":-3.26667}}(window,'GeoPostal','GB');

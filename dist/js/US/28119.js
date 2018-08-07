@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28119"]={"code":"28119","region":"North Carolina","city":"Morven","latitude":34.86333,"longitude":-80}}(window,'GeoPostal','US');

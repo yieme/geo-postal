@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247095"]={"code":"247095","region":"Valcea","city":"Cernisoara","latitude":45.03333,"longitude":23.98333}}(window,'GeoPostal','RO');

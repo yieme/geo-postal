@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38027"]={"code":"38027","region":"Trentino-Alto Adige","city":"Male","latitude":46.35161,"longitude":10.91287}}(window,'GeoPostal','IT');

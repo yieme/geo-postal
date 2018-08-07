@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47837"]={"code":"47837","region":"IN","city":"Carbon","latitude":39.5913,"longitude":-87.1132}}(window,'GeoPostal','US');

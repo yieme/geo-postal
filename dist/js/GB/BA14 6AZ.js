@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA14 6AZ"]={"code":"BA14 6AZ","region":"England","city":"West Ashton","latitude":51.29877,"longitude":-2.17379}}(window,'GeoPostal','GB');

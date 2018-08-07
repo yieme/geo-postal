@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL14 2LJ"]={"code":"LL14 2LJ","region":"Wales","city":"Rhosllanerchrugog","latitude":53.00974,"longitude":-3.05814}}(window,'GeoPostal','GB');

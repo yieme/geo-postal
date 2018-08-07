@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33680"]={"code":"33680","region":"Nouvelle-Aquitaine","city":"Lacanau","latitude":44.97779,"longitude":-1.0762}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89294"]={"code":"89294","region":"Bayern","city":"Oberroth","latitude":48.17582,"longitude":10.18913}}(window,'GeoPostal','DE');

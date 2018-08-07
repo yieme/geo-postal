@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST20 0ND"]={"code":"ST20 0ND","region":"England","city":"High Offley","latitude":52.83278,"longitude":-2.32248}}(window,'GeoPostal','GB');

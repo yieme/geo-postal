@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5582"]={"code":"5582","region":"Salzburg","city":"Sankt Michael im Lungau","latitude":47.1,"longitude":13.63333}}(window,'GeoPostal','AT');

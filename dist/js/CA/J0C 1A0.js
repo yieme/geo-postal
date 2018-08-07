@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0C 1A0"]={"code":"J0C 1A0","region":"Quebec","city":"Notre-Dame-du-Bon-Conseil","latitude":46.00006,"longitude":-72.3491}}(window,'GeoPostal','CA');

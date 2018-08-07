@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4040"]={"code":"4040","region":"Sousse","city":"Sidi Bou Ali","latitude":35.95667,"longitude":10.47306}}(window,'GeoPostal','TN');

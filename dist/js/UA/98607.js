@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98607"]={"code":"98607","region":"Avtonomna Respublika Krym","city":"Yalta","latitude":44.50013,"longitude":34.16148}}(window,'GeoPostal','UA');

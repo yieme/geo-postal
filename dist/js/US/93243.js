@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93243"]={"code":"93243","region":"California","city":"Lebec","latitude":34.82988,"longitude":-118.86348}}(window,'GeoPostal','US');

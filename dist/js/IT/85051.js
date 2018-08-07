@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85051"]={"code":"85051","region":"Basilicata","city":"Bella","latitude":40.76092,"longitude":15.54056}}(window,'GeoPostal','IT');

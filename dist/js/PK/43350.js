@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43350"]={"code":"43350","region":"Khyber Pakhtunkhwa","city":"Kohat","latitude":33.58196,"longitude":71.44929}}(window,'GeoPostal','PK');

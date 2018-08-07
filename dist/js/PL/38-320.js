@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-320"]={"code":"38-320","region":"Malopolskie","city":"Gorlice","latitude":49.65563,"longitude":21.16035}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30337"]={"code":"30337","region":"Georgia","city":"College Park","latitude":33.65344,"longitude":-84.44937}}(window,'GeoPostal','US');

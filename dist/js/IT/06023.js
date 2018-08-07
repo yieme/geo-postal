@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06023"]={"code":"06023","region":"Umbria","city":"Gualdo Tadino","latitude":43.23165,"longitude":12.78096}}(window,'GeoPostal','IT');

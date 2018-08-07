@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06759"]={"code":"06759","region":"Connecticut","city":"Litchfield","latitude":41.74732,"longitude":-73.18872}}(window,'GeoPostal','US');

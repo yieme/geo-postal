@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98922"]={"code":"98922","region":"WA","city":"Cle Elum","latitude":47.2063,"longitude":-120.9685}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52000"]={"code":"52000","region":"Lampang","city":"Lampang","latitude":18.29232,"longitude":99.49277}}(window,'GeoPostal','TH');

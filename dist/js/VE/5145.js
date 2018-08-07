@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5145"]={"code":"5145","region":"Merida","city":"El Vigia","latitude":8.61366,"longitude":-71.65284}}(window,'GeoPostal','VE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99745"]={"code":"99745","region":"AK","city":"Hughes","latitude":66.0382,"longitude":-154.2644}}(window,'GeoPostal','US');

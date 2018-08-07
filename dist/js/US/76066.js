@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76066"]={"code":"76066","region":"TX","city":"Millsap","latitude":32.7457,"longitude":-97.9561}}(window,'GeoPostal','US');

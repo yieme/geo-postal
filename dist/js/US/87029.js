@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87029"]={"code":"87029","region":"NM","city":"Lindrith","latitude":36.3249,"longitude":-107.0495}}(window,'GeoPostal','US');

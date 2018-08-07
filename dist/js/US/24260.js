@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24260"]={"code":"24260","region":"Virginia","city":"Honaker","latitude":37.01622,"longitude":-81.97429}}(window,'GeoPostal','US');

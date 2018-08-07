@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48625"]={"code":"48625","region":"Michigan","city":"Harrison","latitude":44.040657,"longitude":-84.80544}}(window,'GeoPostal','US');

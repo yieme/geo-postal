@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353417"]={"code":"353417","region":"Krasnodarskiy kray","city":"Vityazevo","latitude":45.0013,"longitude":37.28212}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83246"]={"code":"83246","region":"Idaho","city":"Lava Hot Springs","latitude":42.61944,"longitude":-112.01417}}(window,'GeoPostal','US');

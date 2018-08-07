@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38960"]={"code":"38960","region":"Mississippi","city":"Tie Plant","latitude":33.741389,"longitude":-89.79}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49122"]={"code":"49122","region":"Pays-de-la-Loire","city":"Le May-sur-Evre","latitude":47.13714,"longitude":-0.89227}}(window,'GeoPostal','FR');

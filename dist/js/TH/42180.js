@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42180"]={"code":"42180","region":"Loei","city":"Phu Kradueng","latitude":16.88425,"longitude":101.88467}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83120"]={"code":"83120","region":"Provence-Alpes-Cote d'Azur","city":"Sainte-Maxime","latitude":43.30907,"longitude":6.63849}}(window,'GeoPostal','FR');

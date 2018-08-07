@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50601"]={"code":"50601","region":"Iowa","city":"Ackley","latitude":42.55415,"longitude":-93.05326}}(window,'GeoPostal','US');

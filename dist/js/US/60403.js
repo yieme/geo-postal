@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60403"]={"code":"60403","region":"Illinois","city":"Joliet","latitude":41.52503,"longitude":-88.08173}}(window,'GeoPostal','US');

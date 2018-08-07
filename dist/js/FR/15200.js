@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15200"]={"code":"15200","region":"Auvergne-Rhone-Alpes","city":"Mauriac","latitude":45.21667,"longitude":2.33333}}(window,'GeoPostal','FR');

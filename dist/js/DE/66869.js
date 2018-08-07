@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66869"]={"code":"66869","region":"Rheinland-Pfalz","city":"Kusel","latitude":49.53772,"longitude":7.40472}}(window,'GeoPostal','DE');

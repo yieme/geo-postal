@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40763"]={"code":"40763","region":"Kentucky","city":"Siler","latitude":36.72448,"longitude":-83.96894}}(window,'GeoPostal','US');

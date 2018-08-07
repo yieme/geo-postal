@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB23 2UT"]={"code":"CB23 2UT","region":"England","city":"Long Stowe","latitude":52.16667,"longitude":-0.08333}}(window,'GeoPostal','GB');

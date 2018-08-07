@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48370-000"]={"code":"48370-000","region":"Bahia","city":"Esplanada","latitude":-11.79611,"longitude":-37.945}}(window,'GeoPostal','BR');

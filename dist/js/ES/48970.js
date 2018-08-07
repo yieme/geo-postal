@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48970"]={"code":"48970","region":"Pais Vasco","city":"Basauri","latitude":43.2397,"longitude":-2.8858}}(window,'GeoPostal','ES');

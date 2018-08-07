@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59470"]={"code":"59470","region":"Hauts-de-France","city":"Zegerscappel","latitude":50.88333,"longitude":2.4}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47359"]={"code":"47359","region":"Castilla y Leon","city":"Quintanilla de Onesimo","latitude":41.6249,"longitude":-4.36291}}(window,'GeoPostal','ES');

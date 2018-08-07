@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6065"]={"code":"6065","region":"Western Australia","city":"Landsdale","latitude":-31.8075,"longitude":115.86599}}(window,'GeoPostal','AU');

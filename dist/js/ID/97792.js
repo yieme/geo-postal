@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97792"]={"code":"97792","region":"Maluku Utara","city":"Laiwui","latitude":-1.35177,"longitude":127.66929}}(window,'GeoPostal','ID');

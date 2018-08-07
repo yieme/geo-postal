@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55029"]={"code":"55029","region":"Minnesota","city":"Grandy","latitude":45.564931,"longitude":-93.340557}}(window,'GeoPostal','US');

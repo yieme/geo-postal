@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25047"]={"code":"25047","region":"WV","city":"Clothier","latitude":37.9468,"longitude":-81.8104}}(window,'GeoPostal','US');

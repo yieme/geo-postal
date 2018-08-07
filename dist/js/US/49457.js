@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49457"]={"code":"49457","region":"MI","city":"Twin Lake","latitude":43.3414,"longitude":-86.1633}}(window,'GeoPostal','US');

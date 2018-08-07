@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81148"]={"code":"81148","region":"CO","city":"Romeo","latitude":37.1721,"longitude":-105.9858}}(window,'GeoPostal','US');

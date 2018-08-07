@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6020"]={"code":"6020","region":"Cebu","city":"Carcar","latitude":10.1061,"longitude":123.6402}}(window,'GeoPostal','PH');

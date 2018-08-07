@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17120"]={"code":"17120","region":"Nouvelle-Aquitaine","city":"Cozes","latitude":45.58375,"longitude":-0.83178}}(window,'GeoPostal','FR');

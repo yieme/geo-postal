@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-404"]={"code":"08-404","region":"Mazowieckie","city":"Gorzno","latitude":51.84681,"longitude":21.70933}}(window,'GeoPostal','PL');

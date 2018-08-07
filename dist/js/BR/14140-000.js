@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14140-000"]={"code":"14140-000","region":"Sao Paulo","city":"Cravinhos","latitude":-21.34028,"longitude":-47.72944}}(window,'GeoPostal','BR');

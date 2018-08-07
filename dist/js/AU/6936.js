@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6936"]={"code":"6936","region":"Western Australia","city":"Midland","latitude":-31.9,"longitude":116}}(window,'GeoPostal','AU');

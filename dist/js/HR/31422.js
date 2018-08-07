@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31422"]={"code":"31422","region":"Osjecko-baranjska zupanija","city":"Gorjani","latitude":45.39889,"longitude":18.37222}}(window,'GeoPostal','HR');

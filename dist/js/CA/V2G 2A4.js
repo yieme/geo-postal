@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2G 2A4"]={"code":"V2G 2A4","region":"British Columbia","city":"Williams Lake","latitude":52.131127,"longitude":-122.142499}}(window,'GeoPostal','CA');

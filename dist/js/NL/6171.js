@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6171"]={"code":"6171","region":"Limburg","city":"Stein","latitude":50.96917,"longitude":5.76667}}(window,'GeoPostal','NL');

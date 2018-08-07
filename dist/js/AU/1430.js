@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1430"]={"code":"1430","region":"New South Wales","city":"Eveleigh","latitude":-33.89559,"longitude":151.19235}}(window,'GeoPostal','AU');

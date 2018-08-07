@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["590 31"]={"code":"590 31","region":"Kentriki Makedonia","city":"Stavros","latitude":40.58889,"longitude":22.30861}}(window,'GeoPostal','GR');

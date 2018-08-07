@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52066"]={"code":"52066","region":"IA","city":"North Buena Vista","latitude":42.6783,"longitude":-90.9518}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK4 3GN"]={"code":"SK4 3GN","region":"England","city":"Heaton","latitude":54.03333,"longitude":-2.85}}(window,'GeoPostal','GB');

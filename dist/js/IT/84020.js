@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84020"]={"code":"84020","region":"Campania","city":"Oliveto Citra","latitude":40.69031,"longitude":15.22995}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04002"]={"code":"04002","region":"ME","city":"Alfred","latitude":43.4875,"longitude":-70.6961}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56750"]={"code":"56750","region":"Minnesota","city":"Red Lake Falls","latitude":47.88219,"longitude":-96.27421}}(window,'GeoPostal','US');

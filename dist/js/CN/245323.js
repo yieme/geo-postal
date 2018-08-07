@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245323"]={"code":"245323","region":"Anhui","city":"Yangxi","latitude":30.15667,"longitude":118.6421}}(window,'GeoPostal','CN');

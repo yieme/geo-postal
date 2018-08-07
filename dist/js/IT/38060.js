@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38060"]={"code":"38060","region":"Trentino-Alto Adige","city":"Pomarolo","latitude":45.9281,"longitude":11.04308}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["594 51"]={"code":"594 51","region":"Kraj Vysocina","city":"Krizanov","latitude":49.38858,"longitude":16.1096}}(window,'GeoPostal','CZ');

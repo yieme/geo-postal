@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13542"]={"code":"13542","region":"Stockholms lan","city":"Saltsjobaden","latitude":59.28333,"longitude":18.3}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73609"]={"code":"73609","region":"Auvergne-Rhone-Alpes","city":"Moutiers","latitude":45.48333,"longitude":6.53333}}(window,'GeoPostal','FR');

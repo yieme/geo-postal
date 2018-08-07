@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66451"]={"code":"66451","region":"KS","city":"Lyndon","latitude":38.6356,"longitude":-95.6802}}(window,'GeoPostal','US');

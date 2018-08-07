@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12448"]={"code":"12448","region":"NY","city":"Lake Hill","latitude":42.0733,"longitude":-74.2123}}(window,'GeoPostal','US');

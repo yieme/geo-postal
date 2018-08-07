@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21370"]={"code":"21370","region":"Bourgogne-Franche-Comte","city":"Plombieres-les-Dijon","latitude":47.33333,"longitude":4.96667}}(window,'GeoPostal','FR');

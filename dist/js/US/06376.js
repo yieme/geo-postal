@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06376"]={"code":"06376","region":"CT","city":"South Lyme","latitude":41.2967,"longitude":-72.2633}}(window,'GeoPostal','US');

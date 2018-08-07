@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76768"]={"code":"76768","region":"Rheinland-Pfalz","city":"Buchelberg","latitude":49.02072,"longitude":8.1717}}(window,'GeoPostal','DE');

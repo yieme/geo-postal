@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9000"]={"code":"9000","region":"Boqueron","city":"Fuerte Olimpo","latitude":-21.04153,"longitude":-57.87377}}(window,'GeoPostal','PY');

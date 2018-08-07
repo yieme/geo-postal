@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01700"]={"code":"01700","region":"Auvergne-Rhone-Alpes","city":"Beynost","latitude":45.83809,"longitude":5.00608}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80118"]={"code":"80118","region":"Colorado","city":"Larkspur","latitude":39.204337,"longitude":-104.891508}}(window,'GeoPostal','US');

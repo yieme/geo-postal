@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3325"]={"code":"3325","region":"Victoria","city":"Derrinallum","latitude":-37.94792,"longitude":143.22029}}(window,'GeoPostal','AU');

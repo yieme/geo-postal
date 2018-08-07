@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88640"]={"code":"88640","region":"Grand-Est","city":"Granges-sur-Vologne","latitude":48.14517,"longitude":6.79095}}(window,'GeoPostal','FR');

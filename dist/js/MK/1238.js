@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1238"]={"code":"1238","region":"Vrapciste","city":"Vrapciste","latitude":41.83389,"longitude":20.88528}}(window,'GeoPostal','MK');

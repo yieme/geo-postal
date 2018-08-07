@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB23 8JX"]={"code":"AB23 8JX","region":"Scotland","city":"Bodachra","latitude":57.20715,"longitude":-2.13298}}(window,'GeoPostal','GB');

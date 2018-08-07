@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157300"]={"code":"157300","region":"Heilongjiang","city":"Suifenhe","latitude":44.4,"longitude":131.16667}}(window,'GeoPostal','CN');

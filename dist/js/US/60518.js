@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60518"]={"code":"60518","region":"IL","city":"Earlville","latitude":41.5859,"longitude":-88.9103}}(window,'GeoPostal','US');

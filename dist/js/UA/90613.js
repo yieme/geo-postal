@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90613"]={"code":"90613","region":"Zakarpatska oblast","city":"Sredneye Vodyanoye","latitude":47.98159,"longitude":23.91041}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62479"]={"code":"62479","region":"IL","city":"Wheeler","latitude":39.0182,"longitude":-88.3175}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 5403"]={"code":"AZ 5403","region":"Sabirabad","city":"Sabirabad","latitude":40.00946,"longitude":48.47515}}(window,'GeoPostal','AZ');

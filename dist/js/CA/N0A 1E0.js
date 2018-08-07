@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0A 1E0"]={"code":"N0A 1E0","region":"Ontario","city":"Canfield","latitude":42.920551,"longitude":-79.775724}}(window,'GeoPostal','CA');

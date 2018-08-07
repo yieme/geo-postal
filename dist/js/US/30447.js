@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30447"]={"code":"30447","region":"GA","city":"Norristown","latitude":32.5041,"longitude":-82.4848}}(window,'GeoPostal','US');

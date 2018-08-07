@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0815"]={"code":"0815","region":"Ararat","city":"Masis","latitude":40.06762,"longitude":44.43591}}(window,'GeoPostal','AM');

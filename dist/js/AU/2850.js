@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2850"]={"code":"2850","region":"New South Wales","city":"Mudgee","latitude":-32.59426,"longitude":149.5871}}(window,'GeoPostal','AU');

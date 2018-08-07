@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04051"]={"code":"04051","region":"Maine","city":"Lovell","latitude":44.12674,"longitude":-70.89173}}(window,'GeoPostal','US');

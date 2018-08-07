@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20020"]={"code":"20020","region":"Lombardia","city":"Lainate","latitude":45.57176,"longitude":9.02681}}(window,'GeoPostal','IT');

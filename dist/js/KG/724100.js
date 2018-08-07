@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["724100"]={"code":"724100","region":"Talas","city":"Ivano-Alekseevka","latitude":42.54762,"longitude":72.20904}}(window,'GeoPostal','KG');

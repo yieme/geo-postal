@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36869"]={"code":"36869","region":"Alabama","city":"Phenix City","latitude":32.441225,"longitude":-85.02811}}(window,'GeoPostal','US');

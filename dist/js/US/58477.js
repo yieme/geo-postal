@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58477"]={"code":"58477","region":"ND","city":"Regan","latitude":47.1527,"longitude":-100.5224}}(window,'GeoPostal','US');

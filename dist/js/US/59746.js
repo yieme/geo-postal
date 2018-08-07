@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59746"]={"code":"59746","region":"MT","city":"Polaris","latitude":45.3696,"longitude":-113.1195}}(window,'GeoPostal','US');

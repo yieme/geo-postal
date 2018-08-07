@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54673"]={"code":"54673","region":"Rheinland-Pfalz","city":"Burscheid","latitude":50.03737,"longitude":6.35252}}(window,'GeoPostal','DE');

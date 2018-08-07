@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0K 1J0"]={"code":"P0K 1J0","region":"Ontario","city":"Cheminis","latitude":48.16687,"longitude":-79.53297}}(window,'GeoPostal','CA');

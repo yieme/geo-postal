@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56201"]={"code":"56201","region":"Minnesota","city":"Willmar","latitude":45.12191,"longitude":-95.04334}}(window,'GeoPostal','US');

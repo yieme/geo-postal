@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA5 6HZ"]={"code":"KA5 6HZ","region":"Scotland","city":"Sorn","latitude":55.51039,"longitude":-4.28881}}(window,'GeoPostal','GB');

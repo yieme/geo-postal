@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06900-000"]={"code":"06900-000","region":"Sao Paulo","city":"Embu Guacu","latitude":-23.83222,"longitude":-46.81139}}(window,'GeoPostal','BR');

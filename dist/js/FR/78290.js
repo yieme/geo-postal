@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78290"]={"code":"78290","region":"Ile-de-France","city":"Croissy-sur-Seine","latitude":48.87925,"longitude":2.13836}}(window,'GeoPostal','FR');

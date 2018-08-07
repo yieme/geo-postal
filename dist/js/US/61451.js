@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61451"]={"code":"61451","region":"IL","city":"Laura","latitude":40.9335,"longitude":-89.9349}}(window,'GeoPostal','US');

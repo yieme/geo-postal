@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17957"]={"code":"17957","region":"PA","city":"Muir","latitude":40.5926,"longitude":-76.5161}}(window,'GeoPostal','US');

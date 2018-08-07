@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74432"]={"code":"74432","region":"Oklahoma","city":"Eufaula","latitude":35.286851,"longitude":-95.582827}}(window,'GeoPostal','US');

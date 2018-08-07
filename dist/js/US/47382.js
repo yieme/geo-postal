@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47382"]={"code":"47382","region":"IN","city":"Saratoga","latitude":40.2347,"longitude":-84.9185}}(window,'GeoPostal','US');

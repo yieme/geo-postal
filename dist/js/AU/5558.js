@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5558"]={"code":"5558","region":"South Australia","city":"Moonta","latitude":-34.06384,"longitude":137.58543}}(window,'GeoPostal','AU');

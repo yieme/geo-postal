@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5020000"]={"code":"5020000","region":"La Araucania","city":"Nueva Imperial","latitude":-38.73333,"longitude":-72.95}}(window,'GeoPostal','CL');

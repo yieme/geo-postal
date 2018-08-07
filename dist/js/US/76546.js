@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76546"]={"code":"76546","region":"TX","city":"Killeen","latitude":31.11,"longitude":-97.72}}(window,'GeoPostal','US');

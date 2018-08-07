@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2834"]={"code":"2834","region":"New South Wales","city":"Lightning Ridge","latitude":-29.42743,"longitude":147.97865}}(window,'GeoPostal','AU');

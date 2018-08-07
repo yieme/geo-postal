@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 0Z0"]={"code":"S0L 0Z0","region":"Saskatchewan","city":"Elrose","latitude":51.2001,"longitude":-108.03467}}(window,'GeoPostal','CA');

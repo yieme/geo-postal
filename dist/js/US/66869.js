@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66869"]={"code":"66869","region":"KS","city":"Strong City","latitude":38.4129,"longitude":-96.5172}}(window,'GeoPostal','US');

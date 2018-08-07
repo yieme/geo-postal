@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH2 9EL"]={"code":"RH2 9EL","region":"England","city":"Reigate","latitude":51.23758,"longitude":-0.2078}}(window,'GeoPostal','GB');

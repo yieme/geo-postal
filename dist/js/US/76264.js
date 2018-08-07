@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76264"]={"code":"76264","region":"TX","city":"Sadler","latitude":33.731,"longitude":-96.84}}(window,'GeoPostal','US');

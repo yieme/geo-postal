@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG2 0XG"]={"code":"DG2 0XG","region":"Scotland","city":"Auldgirth","latitude":55.16165,"longitude":-3.70772}}(window,'GeoPostal','GB');

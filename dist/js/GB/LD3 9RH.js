@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD3 9RH"]={"code":"LD3 9RH","region":"Wales","city":"Lower Chapel","latitude":52.01173,"longitude":-3.41706}}(window,'GeoPostal','GB');

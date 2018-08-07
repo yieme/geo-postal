@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G7B 3M4"]={"code":"G7B 3M4","region":"Quebec","city":"La Baie","latitude":48.339675,"longitude":-70.879026}}(window,'GeoPostal','CA');

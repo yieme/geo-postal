@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52726"]={"code":"52726","region":"IA","city":"Blue Grass","latitude":41.5112,"longitude":-90.738}}(window,'GeoPostal','US');

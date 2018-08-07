@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4106"]={"code":"4106","region":"Cavite","city":"Cavite","latitude":14.4825,"longitude":120.91694}}(window,'GeoPostal','PH');

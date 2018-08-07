@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15025"]={"code":"15025","region":"PA","city":"Clairton","latitude":40.3243,"longitude":-79.9317}}(window,'GeoPostal','US');

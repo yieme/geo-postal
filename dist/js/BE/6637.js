@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6637"]={"code":"6637","region":"Luxembourg","city":"Fauvillers","latitude":49.85116,"longitude":5.66405}}(window,'GeoPostal','BE');

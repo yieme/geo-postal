@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7430"]={"code":"7430","region":"Midtjylland","city":"Ikast","latitude":56.13883,"longitude":9.15768}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25490"]={"code":"25490","region":"Bourgogne-Franche-Comte","city":"Fesches-le-Chatel","latitude":47.52415,"longitude":6.90535}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32026"]={"code":"32026","region":"Veneto","city":"Mel","latitude":46.06472,"longitude":12.08222}}(window,'GeoPostal','IT');

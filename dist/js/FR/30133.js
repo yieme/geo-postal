@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30133"]={"code":"30133","region":"Occitanie","city":"Les Angles","latitude":43.95806,"longitude":4.76342}}(window,'GeoPostal','FR');

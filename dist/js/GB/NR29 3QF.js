@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR29 3QF"]={"code":"NR29 3QF","region":"England","city":"Ormesby Saint Margaret","latitude":52.66667,"longitude":1.7}}(window,'GeoPostal','GB');

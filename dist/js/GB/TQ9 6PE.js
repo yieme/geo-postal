@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TQ9 6PE"]={"code":"TQ9 6PE","region":"England","city":"Staverton","latitude":50.46667,"longitude":-3.7}}(window,'GeoPostal','GB');

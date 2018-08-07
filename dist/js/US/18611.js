@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18611"]={"code":"18611","region":"PA","city":"Cambra","latitude":41.1981,"longitude":-76.3058}}(window,'GeoPostal','US');

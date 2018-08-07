@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665689"]={"code":"665689","region":"Irkutskaya oblast'","city":"Rudnogorsk","latitude":57.2639,"longitude":103.7519}}(window,'GeoPostal','RU');

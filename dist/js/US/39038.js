@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39038"]={"code":"39038","region":"Mississippi","city":"Belzoni","latitude":33.18429,"longitude":-90.48926}}(window,'GeoPostal','US');

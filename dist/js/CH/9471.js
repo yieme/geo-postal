@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9471"]={"code":"9471","region":"Sankt Gallen","city":"Buchs","latitude":47.16743,"longitude":9.47794}}(window,'GeoPostal','CH');

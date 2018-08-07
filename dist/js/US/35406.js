@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35406"]={"code":"35406","region":"Alabama","city":"Tuscaloosa","latitude":33.253155,"longitude":-87.52813}}(window,'GeoPostal','US');

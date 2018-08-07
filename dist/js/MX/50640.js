@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50640"]={"code":"50640","region":"Mexico","city":"San Felipe del Progreso","latitude":19.71278,"longitude":-99.95194}}(window,'GeoPostal','MX');

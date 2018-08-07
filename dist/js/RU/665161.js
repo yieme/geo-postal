@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665161"]={"code":"665161","region":"Irkutskaya oblast'","city":"Alzamay","latitude":55.5562,"longitude":98.6644}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11937"]={"code":"11937","region":"New York","city":"East Hampton","latitude":40.96343,"longitude":-72.1848}}(window,'GeoPostal','US');

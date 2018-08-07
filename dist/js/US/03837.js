@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03837"]={"code":"03837","region":"NH","city":"Gilmanton Iron Works","latitude":43.4466,"longitude":-71.2995}}(window,'GeoPostal','US');

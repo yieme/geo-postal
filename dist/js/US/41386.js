@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41386"]={"code":"41386","region":"Kentucky","city":"Vincent","latitude":37.44972,"longitude":-83.80548}}(window,'GeoPostal','US');

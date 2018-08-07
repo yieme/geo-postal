@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["168020"]={"code":"168020","region":"Komi, Respublika","city":"Kortkeros","latitude":61.81056,"longitude":51.58056}}(window,'GeoPostal','RU');

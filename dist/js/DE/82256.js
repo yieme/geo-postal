@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82256"]={"code":"82256","region":"Bayern","city":"Fuerstenfeldbruck","latitude":48.17904,"longitude":11.2547}}(window,'GeoPostal','DE');

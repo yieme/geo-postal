@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8868"]={"code":"8868","region":"Zala","city":"Letenye","latitude":46.43301,"longitude":16.72583}}(window,'GeoPostal','HU');

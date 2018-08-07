@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17001"]={"code":"17001","region":"Djelfa","city":"Ain Oussera","latitude":35.45139,"longitude":2.90583}}(window,'GeoPostal','DZ');

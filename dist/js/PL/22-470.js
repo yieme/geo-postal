@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-470"]={"code":"22-470","region":"Lubelskie","city":"Zwierzyniec","latitude":50.614,"longitude":22.97512}}(window,'GeoPostal','PL');

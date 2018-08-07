@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6856"]={"code":"6856","region":"Luxembourg","city":"Paliseul","latitude":49.90395,"longitude":5.13537}}(window,'GeoPostal','BE');

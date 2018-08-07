@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150500"]={"code":"150500","region":"Nei Mongol","city":"Tongliao","latitude":43.6125,"longitude":122.26528}}(window,'GeoPostal','CN');

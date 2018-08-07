@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70420"]={"code":"70420","region":"Louisiana","city":"Abita Springs","latitude":30.47853,"longitude":-90.03758}}(window,'GeoPostal','US');

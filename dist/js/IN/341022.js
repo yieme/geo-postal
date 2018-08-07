@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["341022"]={"code":"341022","region":"Rajasthan","city":"Nagaur","latitude":27.2,"longitude":73.73333}}(window,'GeoPostal','IN');

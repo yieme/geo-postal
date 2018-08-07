@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08523"]={"code":"08523","region":"Kyivska oblast","city":"Fastiv","latitude":50.0767,"longitude":29.9177}}(window,'GeoPostal','UA');

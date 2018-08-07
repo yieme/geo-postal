@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38080"]={"code":"38080","region":"TN","city":"Ridgely","latitude":36.2638,"longitude":-89.4858}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73534"]={"code":"73534","region":"Oklahoma","city":"Duncan","latitude":34.509578,"longitude":-97.967409}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607400"]={"code":"607400","region":"Nizhegorodskaya oblast'","city":"Perevoz","latitude":55.59613,"longitude":44.54461}}(window,'GeoPostal','RU');

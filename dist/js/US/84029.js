@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84029"]={"code":"84029","region":"UT","city":"Grantsville","latitude":40.6005,"longitude":-112.4618}}(window,'GeoPostal','US');

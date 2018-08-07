@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE8 6LB"]={"code":"PE8 6LB","region":"England","city":"Wansford","latitude":52.58333,"longitude":-0.41667}}(window,'GeoPostal','GB');

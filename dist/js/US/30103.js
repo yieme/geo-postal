@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30103"]={"code":"30103","region":"Georgia","city":"Adairsville","latitude":34.351239,"longitude":-84.91381}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24179"]={"code":"24179","region":"VA","city":"Vinton","latitude":37.2757,"longitude":-79.8775}}(window,'GeoPostal','US');

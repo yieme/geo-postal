@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61811"]={"code":"61811","region":"IL","city":"Alvin","latitude":40.3007,"longitude":-87.608}}(window,'GeoPostal','US');

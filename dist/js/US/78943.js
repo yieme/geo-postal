@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78943"]={"code":"78943","region":"Texas","city":"Glidden","latitude":29.707726,"longitude":-96.543593}}(window,'GeoPostal','US');

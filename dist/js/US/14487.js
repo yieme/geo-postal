@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14487"]={"code":"14487","region":"NY","city":"Livonia","latitude":42.8135,"longitude":-77.6635}}(window,'GeoPostal','US');

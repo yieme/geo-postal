@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06658"]={"code":"06658","region":"Extremadura","city":"Tamurejo","latitude":38.98333,"longitude":-4.93333}}(window,'GeoPostal','ES');

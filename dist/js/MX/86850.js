@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86850"]={"code":"86850","region":"Tabasco","city":"Jalapa","latitude":17.725,"longitude":-92.80833}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2003"]={"code":"2003","region":"Pest","city":"Szentendre","latitude":47.66943,"longitude":19.07561}}(window,'GeoPostal','HU');

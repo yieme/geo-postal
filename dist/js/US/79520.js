@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79520"]={"code":"79520","region":"Texas","city":"Hamlin","latitude":32.88483,"longitude":-100.12649}}(window,'GeoPostal','US');

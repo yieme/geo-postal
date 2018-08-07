@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01330"]={"code":"01330","region":"Pais Vasco","city":"Labastida","latitude":42.58974,"longitude":-2.79568}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655672"]={"code":"655672","region":"Krasnoyarskiy kray","city":"Shushenskoye","latitude":53.325,"longitude":91.93556}}(window,'GeoPostal','RU');

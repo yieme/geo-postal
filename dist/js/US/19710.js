@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19710"]={"code":"19710","region":"Delaware","city":"Montchanin","latitude":39.795431,"longitude":-75.583603}}(window,'GeoPostal','US');

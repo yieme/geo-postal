@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76367"]={"code":"76367","region":"TX","city":"Iowa Park","latitude":33.9423,"longitude":-98.6745}}(window,'GeoPostal','US');

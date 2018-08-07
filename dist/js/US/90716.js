@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90716"]={"code":"90716","region":"CA","city":"Hawaiian Gardens","latitude":33.8296,"longitude":-118.073}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27201"]={"code":"27201","region":"NC","city":"Alamance","latitude":36.0318,"longitude":-79.4856}}(window,'GeoPostal','US');

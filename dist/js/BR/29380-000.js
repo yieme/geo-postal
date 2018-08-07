@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29380-000"]={"code":"29380-000","region":"Espirito Santo","city":"Muniz Freire","latitude":-20.46417,"longitude":-41.41306}}(window,'GeoPostal','BR');

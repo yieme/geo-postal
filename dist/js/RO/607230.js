@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607230"]={"code":"607230","region":"Bacau","city":"Helegiu","latitude":46.35,"longitude":26.75}}(window,'GeoPostal','RO');

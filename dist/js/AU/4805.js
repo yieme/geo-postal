@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4805"]={"code":"4805","region":"Queensland","city":"Collinsville","latitude":-20.55223,"longitude":147.84399}}(window,'GeoPostal','AU');

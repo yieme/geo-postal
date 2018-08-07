@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39524"]={"code":"39524","region":"Sachsen-Anhalt","city":"Lutow","latitude":52.81667,"longitude":12.18333}}(window,'GeoPostal','DE');

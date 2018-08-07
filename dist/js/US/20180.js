@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20180"]={"code":"20180","region":"Virginia","city":"Lovettsville","latitude":39.274088,"longitude":-77.63905}}(window,'GeoPostal','US');

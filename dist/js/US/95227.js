@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95227"]={"code":"95227","region":"CA","city":"Clements","latitude":38.1929,"longitude":-121.0811}}(window,'GeoPostal','US');

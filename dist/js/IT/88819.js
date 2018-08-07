@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88819"]={"code":"88819","region":"Calabria","city":"Verzino","latitude":39.3111,"longitude":16.86041}}(window,'GeoPostal','IT');

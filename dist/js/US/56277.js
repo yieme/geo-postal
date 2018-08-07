@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56277"]={"code":"56277","region":"Minnesota","city":"Olivia","latitude":44.774968,"longitude":-94.988558}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28679"]={"code":"28679","region":"NC","city":"Sugar Grove","latitude":36.2627,"longitude":-81.8441}}(window,'GeoPostal','US');

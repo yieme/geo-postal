@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17002"]={"code":"17002","region":"PA","city":"Allensville","latitude":40.5075,"longitude":-77.8392}}(window,'GeoPostal','US');

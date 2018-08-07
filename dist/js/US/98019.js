@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98019"]={"code":"98019","region":"Washington","city":"Duvall","latitude":47.7379,"longitude":-121.8481}}(window,'GeoPostal','US');

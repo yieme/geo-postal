@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["225200"]={"code":"225200","region":"Mehedinti","city":"Orsova","latitude":44.72528,"longitude":22.39611}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY8 3AF"]={"code":"SY8 3AF","region":"England","city":"Hope Bagot","latitude":52.36273,"longitude":-2.60494}}(window,'GeoPostal','GB');

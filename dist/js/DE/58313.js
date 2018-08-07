@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58313"]={"code":"58313","region":"Nordrhein-Westfalen","city":"Herdecke","latitude":51.39999,"longitude":7.43584}}(window,'GeoPostal','DE');

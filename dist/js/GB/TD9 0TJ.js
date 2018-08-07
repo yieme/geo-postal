@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD9 0TJ"]={"code":"TD9 0TJ","region":"England","city":"Kershopefoot","latitude":55.13724,"longitude":-2.8219}}(window,'GeoPostal','GB');

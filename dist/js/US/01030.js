@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01030"]={"code":"01030","region":"Massachusetts","city":"Feeding Hills","latitude":42.071938,"longitude":-72.673238}}(window,'GeoPostal','US');

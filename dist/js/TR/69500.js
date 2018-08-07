@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69500"]={"code":"69500","region":"Kocaeli","city":"Gebze","latitude":40.80276,"longitude":29.43068}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28675"]={"code":"28675","region":"North Carolina","city":"Sparta","latitude":36.50541,"longitude":-81.12092}}(window,'GeoPostal','US');

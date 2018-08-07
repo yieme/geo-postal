@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62951"]={"code":"62951","region":"IL","city":"Johnston City","latitude":37.8245,"longitude":-88.9209}}(window,'GeoPostal','US');

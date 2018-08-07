@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24036"]={"code":"24036","region":"Skane lan","city":"Stehag","latitude":55.9,"longitude":13.38333}}(window,'GeoPostal','SE');

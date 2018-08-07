@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666399"]={"code":"666399","region":"Irkutskaya oblast'","city":"Balagansk","latitude":54.01028,"longitude":103.05444}}(window,'GeoPostal','RU');

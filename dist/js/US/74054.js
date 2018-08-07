@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74054"]={"code":"74054","region":"OK","city":"Osage","latitude":36.2832,"longitude":-96.3774}}(window,'GeoPostal','US');

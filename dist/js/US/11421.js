@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11421"]={"code":"11421","region":"NY","city":"Woodhaven","latitude":40.6913,"longitude":-73.8585}}(window,'GeoPostal','US');

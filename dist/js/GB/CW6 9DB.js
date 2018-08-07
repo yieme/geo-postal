@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW6 9DB"]={"code":"CW6 9DB","region":"England","city":"Little Budworth","latitude":53.18427,"longitude":-2.60122}}(window,'GeoPostal','GB');

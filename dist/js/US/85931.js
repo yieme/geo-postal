@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85931"]={"code":"85931","region":"Arizona","city":"Forest Lakes","latitude":34.626284,"longitude":-111.109079}}(window,'GeoPostal','US');

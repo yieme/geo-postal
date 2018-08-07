@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46971"]={"code":"46971","region":"IN","city":"Grissom Arb","latitude":40.6683,"longitude":-86.1378}}(window,'GeoPostal','US');

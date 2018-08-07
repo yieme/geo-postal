@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2100"]={"code":"2100","region":"Gafsa","city":"Gafsa","latitude":34.425,"longitude":8.78417}}(window,'GeoPostal','TN');

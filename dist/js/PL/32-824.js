@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-824"]={"code":"32-824","region":"Malopolskie","city":"Przyborow","latitude":50.03035,"longitude":20.66279}}(window,'GeoPostal','PL');

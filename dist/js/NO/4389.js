@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4389"]={"code":"4389","region":"Rogaland","city":"Vikesa","latitude":58.63759,"longitude":6.09133}}(window,'GeoPostal','NO');

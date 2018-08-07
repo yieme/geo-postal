@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06380"]={"code":"06380","region":"Provence-Alpes-Cote d'Azur","city":"Sospel","latitude":43.87847,"longitude":7.4484}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641087"]={"code":"641087","region":"Permskiy kray","city":"Perm'","latitude":58.01741,"longitude":56.28552}}(window,'GeoPostal','RU');

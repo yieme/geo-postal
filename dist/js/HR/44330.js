@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44330"]={"code":"44330","region":"Sisacko-moslavacka zupanija","city":"Novska","latitude":45.34056,"longitude":16.97694}}(window,'GeoPostal','HR');

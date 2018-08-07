@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16923"]={"code":"16923","region":"Pennsylvania","city":"Genesee","latitude":41.95,"longitude":-77.86639}}(window,'GeoPostal','US');

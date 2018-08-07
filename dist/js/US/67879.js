@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67879"]={"code":"67879","region":"Kansas","city":"Tribune","latitude":38.46974,"longitude":-101.75267}}(window,'GeoPostal','US');

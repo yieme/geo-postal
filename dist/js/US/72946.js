@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72946"]={"code":"72946","region":"AR","city":"Mountainburg","latitude":35.6464,"longitude":-94.1497}}(window,'GeoPostal','US');

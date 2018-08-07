@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 1K0"]={"code":"T0E 1K0","region":"Alberta","city":"Pembina","latitude":53.13341,"longitude":-115.15214}}(window,'GeoPostal','CA');

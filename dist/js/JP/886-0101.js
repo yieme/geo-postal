@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["886-0101"]={"code":"886-0101","region":"Miyazaki","city":"Kobayashi","latitude":31.99444,"longitude":130.95167}}(window,'GeoPostal','JP');

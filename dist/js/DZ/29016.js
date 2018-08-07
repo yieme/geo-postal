@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29016"]={"code":"29016","region":"Mascara","city":"Oued el Abtal","latitude":35.45595,"longitude":0.68778}}(window,'GeoPostal','DZ');

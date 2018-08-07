@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49057"]={"code":"49057","region":"Michigan","city":"Hartford","latitude":42.20671,"longitude":-86.16669}}(window,'GeoPostal','US');

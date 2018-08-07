@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17501"]={"code":"17501","region":"Beograd","city":"Mala Mostanica","latitude":44.64611,"longitude":20.30278}}(window,'GeoPostal','RS');

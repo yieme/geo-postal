@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["638710"]={"code":"638710","region":"Tamil Nadu","city":"Dharapuram","latitude":10.73333,"longitude":77.51667}}(window,'GeoPostal','IN');

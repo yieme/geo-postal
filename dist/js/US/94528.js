@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94528"]={"code":"94528","region":"CA","city":"Diablo","latitude":37.8387,"longitude":-121.9667}}(window,'GeoPostal','US');

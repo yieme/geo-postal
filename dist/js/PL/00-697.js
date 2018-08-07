@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00-697"]={"code":"00-697","region":"Slaskie","city":"Wilcza","latitude":50.18899,"longitude":18.59668}}(window,'GeoPostal','PL');

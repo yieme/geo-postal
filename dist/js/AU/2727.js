@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2727"]={"code":"2727","region":"New South Wales","city":"Coolac","latitude":-34.95,"longitude":148.16667}}(window,'GeoPostal','AU');

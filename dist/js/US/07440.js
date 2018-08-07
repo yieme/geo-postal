@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07440"]={"code":"07440","region":"NJ","city":"Pequannock","latitude":40.9473,"longitude":-74.296}}(window,'GeoPostal','US');

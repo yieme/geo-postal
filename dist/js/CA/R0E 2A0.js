@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0E 2A0"]={"code":"R0E 2A0","region":"Manitoba","city":"Albert Beach","latitude":50.68061,"longitude":-96.51421}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82439"]={"code":"82439","region":"Bayern","city":"Kleinweil","latitude":47.68406,"longitude":11.30264}}(window,'GeoPostal','DE');

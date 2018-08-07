@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71295"]={"code":"71295","region":"Louisiana","city":"Winnsboro","latitude":32.161403,"longitude":-91.723247}}(window,'GeoPostal','US');

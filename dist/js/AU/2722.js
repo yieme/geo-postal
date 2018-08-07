@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2722"]={"code":"2722","region":"New South Wales","city":"Gundagai","latitude":-35.06525,"longitude":148.10802}}(window,'GeoPostal','AU');

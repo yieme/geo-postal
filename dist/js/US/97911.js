@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97911"]={"code":"97911","region":"Oregon","city":"Juntura","latitude":43.747211,"longitude":-118.077136}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56520"]={"code":"56520","region":"Bretagne","city":"Guidel-Plage","latitude":47.76768,"longitude":-3.5218}}(window,'GeoPostal','FR');

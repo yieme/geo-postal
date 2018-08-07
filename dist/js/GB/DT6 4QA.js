@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT6 4QA"]={"code":"DT6 4QA","region":"England","city":"Burton Bradstock","latitude":50.70289,"longitude":-2.72777}}(window,'GeoPostal','GB');

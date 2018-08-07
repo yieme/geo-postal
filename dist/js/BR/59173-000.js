@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59173-000"]={"code":"59173-000","region":"Rio Grande do Norte","city":"Goianinha","latitude":-6.26472,"longitude":-35.2125}}(window,'GeoPostal','BR');

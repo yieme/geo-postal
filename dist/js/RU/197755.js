@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["197755"]={"code":"197755","region":"Leningradskaya oblast'","city":"Gorskaya","latitude":60.0464,"longitude":29.97137}}(window,'GeoPostal','RU');

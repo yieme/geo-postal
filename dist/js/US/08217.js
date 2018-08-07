@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08217"]={"code":"08217","region":"New Jersey","city":"Elwood","latitude":39.577474,"longitude":-74.719309}}(window,'GeoPostal','US');

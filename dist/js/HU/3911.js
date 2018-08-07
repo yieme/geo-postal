@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3911"]={"code":"3911","region":"Borsod-Abauj-Zemplen","city":"Tokaj","latitude":48.11667,"longitude":21.41667}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75015"]={"code":"75015","region":"Basilicata","city":"Pisticci","latitude":40.39062,"longitude":16.55679}}(window,'GeoPostal','IT');

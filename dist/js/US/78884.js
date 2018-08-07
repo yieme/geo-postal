@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78884"]={"code":"78884","region":"Texas","city":"Utopia","latitude":29.61639,"longitude":-99.52667}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17522"]={"code":"17522","region":"Pennsylvania","city":"Ephrata","latitude":40.17096,"longitude":-76.1673}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32233"]={"code":"32233","region":"FL","city":"Atlantic Beach","latitude":30.3483,"longitude":-81.4159}}(window,'GeoPostal','US');

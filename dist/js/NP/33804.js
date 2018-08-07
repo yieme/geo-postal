@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33804"]={"code":"33804","region":"Gandaki","city":"Waling","latitude":27.98333,"longitude":83.76667}}(window,'GeoPostal','NP');

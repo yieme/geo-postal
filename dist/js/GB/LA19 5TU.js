@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA19 5TU"]={"code":"LA19 5TU","region":"England","city":"Corney","latitude":54.31171,"longitude":-3.36611}}(window,'GeoPostal','GB');

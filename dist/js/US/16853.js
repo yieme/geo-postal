@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16853"]={"code":"16853","region":"PA","city":"Milesburg","latitude":40.9417,"longitude":-77.785}}(window,'GeoPostal','US');

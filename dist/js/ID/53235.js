@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53235"]={"code":"53235","region":"Jawa Tengah","city":"Rejanegara","latitude":-7.68528,"longitude":109.03833}}(window,'GeoPostal','ID');

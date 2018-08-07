@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["454904"]={"code":"454904","region":"Chelyabinskaya oblast'","city":"Novosineglazovskiy","latitude":55.0401,"longitude":61.3792}}(window,'GeoPostal','RU');

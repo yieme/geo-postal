@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30336"]={"code":"30336","region":"Georgia","city":"Atlanta","latitude":33.749579,"longitude":-84.549433}}(window,'GeoPostal','US');

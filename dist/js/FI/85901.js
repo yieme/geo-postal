@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85901"]={"code":"85901","region":"Pohjois-Pohjanmaa","city":"Reisjarvi","latitude":63.61667,"longitude":24.9}}(window,'GeoPostal','FI');

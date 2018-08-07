@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96055"]={"code":"96055","region":"CA","city":"Los Molinos","latitude":40.0497,"longitude":-122.0992}}(window,'GeoPostal','US');

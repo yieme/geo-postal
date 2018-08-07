@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G67 4HQ"]={"code":"G67 4HQ","region":"Scotland","city":"Mollinburn","latitude":55.91667,"longitude":-4.03333}}(window,'GeoPostal','GB');

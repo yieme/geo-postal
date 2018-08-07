@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51038"]={"code":"51038","region":"IA","city":"Merrill","latitude":42.7047,"longitude":-96.2283}}(window,'GeoPostal','US');

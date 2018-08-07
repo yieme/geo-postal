@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43836"]={"code":"43836","region":"OH","city":"Plainfield","latitude":40.2087,"longitude":-81.7197}}(window,'GeoPostal','US');

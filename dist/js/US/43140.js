@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43140"]={"code":"43140","region":"OH","city":"London","latitude":39.9001,"longitude":-83.4439}}(window,'GeoPostal','US');

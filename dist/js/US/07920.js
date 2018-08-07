@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07920"]={"code":"07920","region":"New Jersey","city":"Basking Ridge","latitude":40.685912,"longitude":-74.568}}(window,'GeoPostal','US');

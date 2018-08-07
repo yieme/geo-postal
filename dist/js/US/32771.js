@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32771"]={"code":"32771","region":"Florida","city":"Sanford","latitude":28.80055,"longitude":-81.27312}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83352"]={"code":"83352","region":"Souss-Massa-Draa","city":"Oulad Teima","latitude":30.39467,"longitude":-9.20897}}(window,'GeoPostal','MA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2860"]={"code":"2860","region":"Hovedstaden","city":"Buddinge","latitude":55.75769,"longitude":12.48899}}(window,'GeoPostal','DK');

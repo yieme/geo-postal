@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72394"]={"code":"72394","region":"AR","city":"Widener","latitude":35.0592,"longitude":-90.6293}}(window,'GeoPostal','US');

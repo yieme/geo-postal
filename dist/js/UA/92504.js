@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92504"]={"code":"92504","region":"Luhanska oblast","city":"Milove","latitude":49.37872,"longitude":40.13016}}(window,'GeoPostal','UA');

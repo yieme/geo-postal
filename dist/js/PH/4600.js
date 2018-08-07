@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4600"]={"code":"4600","region":"Camarines Norte","city":"Daet","latitude":14.1122,"longitude":122.9553}}(window,'GeoPostal','PH');

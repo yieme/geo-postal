@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62410-000"]={"code":"62410-000","region":"Ceara","city":"Barroquinha","latitude":-3.01889,"longitude":-41.13611}}(window,'GeoPostal','BR');

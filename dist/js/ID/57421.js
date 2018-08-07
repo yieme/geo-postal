@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57421"]={"code":"57421","region":"Jawa Tengah","city":"Kebonarun","latitude":-7.70028,"longitude":110.56306}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV54 8XN"]={"code":"IV54 8XN","region":"Scotland","city":"Shieldaig","latitude":57.52198,"longitude":-5.65115}}(window,'GeoPostal','GB');

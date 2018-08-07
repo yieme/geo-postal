@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP9 2PH"]={"code":"HP9 2PH","region":"England","city":"Beaconsfield","latitude":51.61219,"longitude":-0.64732}}(window,'GeoPostal','GB');

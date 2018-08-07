@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18244"]={"code":"18244","region":"PA","city":"Parryville","latitude":40.8181,"longitude":-75.6727}}(window,'GeoPostal','US');

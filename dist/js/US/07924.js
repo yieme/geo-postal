@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07924"]={"code":"07924","region":"New Jersey","city":"Bernardsville","latitude":40.721629,"longitude":-74.586566}}(window,'GeoPostal','US');

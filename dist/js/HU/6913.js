@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6913"]={"code":"6913","region":"Csongrad","city":"Csanadpalota","latitude":46.25,"longitude":20.73333}}(window,'GeoPostal','HU');

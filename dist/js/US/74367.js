@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74367"]={"code":"74367","region":"Oklahoma","city":"Strang","latitude":36.454883,"longitude":-95.08394}}(window,'GeoPostal','US');

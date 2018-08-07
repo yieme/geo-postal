@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["640231"]={"code":"640231","region":"Adamawa","city":"Yola","latitude":9.2,"longitude":12.48333}}(window,'GeoPostal','NG');

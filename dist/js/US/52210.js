@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52210"]={"code":"52210","region":"IA","city":"Brandon","latitude":42.3309,"longitude":-92.0059}}(window,'GeoPostal','US');

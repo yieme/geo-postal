@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64442"]={"code":"64442","region":"Missouri","city":"Eagleville","latitude":40.51721,"longitude":-94.025975}}(window,'GeoPostal','US');

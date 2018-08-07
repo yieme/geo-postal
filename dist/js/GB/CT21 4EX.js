@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT21 4EX"]={"code":"CT21 4EX","region":"England","city":"Postling","latitude":51.1101,"longitude":1.06413}}(window,'GeoPostal','GB');

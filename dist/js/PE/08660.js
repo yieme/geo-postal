@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08660"]={"code":"08660","region":"Cusco","city":"Urubamba","latitude":-13.30472,"longitude":-72.11583}}(window,'GeoPostal','PE');

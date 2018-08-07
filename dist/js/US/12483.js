@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12483"]={"code":"12483","region":"NY","city":"Spring Glen","latitude":41.6639,"longitude":-74.4245}}(window,'GeoPostal','US');

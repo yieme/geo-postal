@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66955"]={"code":"66955","region":"Rheinland-Pfalz","city":"Pirmasens","latitude":49.20145,"longitude":7.60529}}(window,'GeoPostal','DE');

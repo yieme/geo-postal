@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453821"]={"code":"453821","region":"Bashkortostan, Respublika","city":"Buribay","latitude":51.96167,"longitude":58.15917}}(window,'GeoPostal','RU');

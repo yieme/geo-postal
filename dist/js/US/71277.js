@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71277"]={"code":"71277","region":"LA","city":"Spearsville","latitude":32.955,"longitude":-92.587}}(window,'GeoPostal','US');

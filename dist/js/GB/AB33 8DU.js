@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB33 8DU"]={"code":"AB33 8DU","region":"Scotland","city":"Tough","latitude":57.2,"longitude":-2.65}}(window,'GeoPostal','GB');

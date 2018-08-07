@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31310"]={"code":"31310","region":"Georgia","city":"Hinesville","latitude":31.84688,"longitude":-81.59595}}(window,'GeoPostal','US');

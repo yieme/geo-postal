@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33794"]={"code":"33794","region":"Asturias, Principado de","city":"Tapia de Casariego","latitude":43.57019,"longitude":-6.94383}}(window,'GeoPostal','ES');

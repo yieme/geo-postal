@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92578"]={"code":"92578","region":"Ile-de-France","city":"Neuilly-sur-Seine","latitude":48.88333,"longitude":2.26667}}(window,'GeoPostal','FR');

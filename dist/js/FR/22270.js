@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22270"]={"code":"22270","region":"Bretagne","city":"Pledeliac","latitude":48.45,"longitude":-2.38333}}(window,'GeoPostal','FR');

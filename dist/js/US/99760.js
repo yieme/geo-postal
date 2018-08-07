@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99760"]={"code":"99760","region":"AK","city":"Nenana","latitude":64.5577,"longitude":-149.0867}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7808"]={"code":"7808","region":"Nord-Trondelag","city":"Namsos","latitude":64.46624,"longitude":11.49572}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46312"]={"code":"46312","region":"Indiana","city":"East Chicago","latitude":41.6392,"longitude":-87.45476}}(window,'GeoPostal','US');

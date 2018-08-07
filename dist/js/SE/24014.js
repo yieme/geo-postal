@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24014"]={"code":"24014","region":"Skane lan","city":"Veberod","latitude":55.63333,"longitude":13.48333}}(window,'GeoPostal','SE');

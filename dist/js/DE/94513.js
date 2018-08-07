@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94513"]={"code":"94513","region":"Bayern","city":"Frohnreuth","latitude":48.83532,"longitude":13.33073}}(window,'GeoPostal','DE');

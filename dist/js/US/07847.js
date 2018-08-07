@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07847"]={"code":"07847","region":"NJ","city":"Kenvil","latitude":40.8819,"longitude":-74.621}}(window,'GeoPostal','US');

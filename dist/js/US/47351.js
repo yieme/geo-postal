@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47351"]={"code":"47351","region":"IN","city":"Kennard","latitude":39.904,"longitude":-85.5205}}(window,'GeoPostal','US');

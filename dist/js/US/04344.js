@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04344"]={"code":"04344","region":"ME","city":"Farmingdale","latitude":44.2523,"longitude":-69.7913}}(window,'GeoPostal','US');

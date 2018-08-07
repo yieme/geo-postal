@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42600-000"]={"code":"42600-000","region":"Bahia","city":"Madre de Deus","latitude":-12.74083,"longitude":-38.62083}}(window,'GeoPostal','BR');

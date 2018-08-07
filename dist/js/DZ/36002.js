@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36002"]={"code":"36002","region":"El Tarf","city":"El Kala","latitude":36.89556,"longitude":8.44333}}(window,'GeoPostal','DZ');

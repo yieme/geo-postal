@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0J 1L0"]={"code":"S0J 1L0","region":"Saskatchewan","city":"La Ronge","latitude":55.10013,"longitude":-105.28422}}(window,'GeoPostal','CA');

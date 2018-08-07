@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127025"]={"code":"127025","region":"Buzau","city":"Beceni","latitude":45.38333,"longitude":26.78333}}(window,'GeoPostal','RO');

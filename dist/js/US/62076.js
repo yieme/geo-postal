@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62076"]={"code":"62076","region":"IL","city":"Ohlman","latitude":39.3434,"longitude":-89.2191}}(window,'GeoPostal','US');

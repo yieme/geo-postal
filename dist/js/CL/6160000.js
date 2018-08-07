@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6160000"]={"code":"6160000","region":"Magallanes","city":"Puerto Natales","latitude":-51.72363,"longitude":-72.48745}}(window,'GeoPostal','CL');

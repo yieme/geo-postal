@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39580-000"]={"code":"39580-000","region":"Minas Gerais","city":"Francisco Sa","latitude":-16.47583,"longitude":-43.48833}}(window,'GeoPostal','BR');

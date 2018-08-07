@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1028"]={"code":"1028","region":"Gauteng","city":"Bronkhorstspruit","latitude":-25.81015,"longitude":28.74248}}(window,'GeoPostal','ZA');

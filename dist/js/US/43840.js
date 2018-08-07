@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43840"]={"code":"43840","region":"OH","city":"Stone Creek","latitude":40.4052,"longitude":-81.589}}(window,'GeoPostal','US');

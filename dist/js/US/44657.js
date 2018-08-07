@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44657"]={"code":"44657","region":"OH","city":"Minerva","latitude":40.742,"longitude":-81.1031}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 7PQ"]={"code":"IP13 7PQ","region":"England","city":"Bedfield","latitude":52.25901,"longitude":1.2488}}(window,'GeoPostal','GB');

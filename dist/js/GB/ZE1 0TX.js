@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE1 0TX"]={"code":"ZE1 0TX","region":"Scotland","city":"Scalloway","latitude":60.13832,"longitude":-1.2769}}(window,'GeoPostal','GB');

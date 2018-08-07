@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["526600"]={"code":"526600","region":"Guangdong","city":"Decheng","latitude":23.14284,"longitude":111.7841}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56-210"]={"code":"56-210","region":"Dolnoslaskie","city":"Wasosz","latitude":51.56224,"longitude":16.69059}}(window,'GeoPostal','PL');

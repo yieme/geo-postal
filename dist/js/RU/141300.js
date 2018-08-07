@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141300"]={"code":"141300","region":"Moskovskaya oblast'","city":"Sergiyev Posad","latitude":56.3,"longitude":38.13333}}(window,'GeoPostal','RU');

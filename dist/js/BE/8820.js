@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8820"]={"code":"8820","region":"West-Vlaanderen","city":"Torhout","latitude":51.0656,"longitude":3.10085}}(window,'GeoPostal','BE');

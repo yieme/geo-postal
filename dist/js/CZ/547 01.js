@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547 01"]={"code":"547 01","region":"Kralovehradecky kraj","city":"Nachod","latitude":50.4167,"longitude":16.16289}}(window,'GeoPostal','CZ');

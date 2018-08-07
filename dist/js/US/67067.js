@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67067"]={"code":"67067","region":"KS","city":"Kechi","latitude":37.7934,"longitude":-97.2737}}(window,'GeoPostal','US');

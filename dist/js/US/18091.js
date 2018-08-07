@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18091"]={"code":"18091","region":"Pennsylvania","city":"Wind Gap","latitude":40.828784,"longitude":-75.309836}}(window,'GeoPostal','US');

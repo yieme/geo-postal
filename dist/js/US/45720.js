@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45720"]={"code":"45720","region":"OH","city":"Chester","latitude":39.0856,"longitude":-81.9214}}(window,'GeoPostal','US');

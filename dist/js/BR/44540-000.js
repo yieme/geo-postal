@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44540-000"]={"code":"44540-000","region":"Bahia","city":"Muritiba","latitude":-12.91667,"longitude":-39.25}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3100"]={"code":"3100","region":"Nograd","city":"Salgotarjan","latitude":48.09872,"longitude":19.80303}}(window,'GeoPostal','HU');

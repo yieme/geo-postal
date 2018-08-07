@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80747"]={"code":"80747","region":"Colorado","city":"Peetz","latitude":40.96167,"longitude":-103.11194}}(window,'GeoPostal','US');

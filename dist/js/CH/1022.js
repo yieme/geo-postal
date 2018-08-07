@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1022"]={"code":"1022","region":"Vaud","city":"Renens","latitude":46.53989,"longitude":6.5881}}(window,'GeoPostal','CH');

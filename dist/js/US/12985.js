@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12985"]={"code":"12985","region":"NY","city":"Schuyler Falls","latitude":44.6287,"longitude":-73.5579}}(window,'GeoPostal','US');

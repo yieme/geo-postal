@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96143"]={"code":"96143","region":"CA","city":"Kings Beach","latitude":39.2401,"longitude":-120.0233}}(window,'GeoPostal','US');

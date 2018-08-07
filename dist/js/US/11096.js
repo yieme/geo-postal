@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11096"]={"code":"11096","region":"New York","city":"Inwood","latitude":40.61814,"longitude":-73.75116}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3301"]={"code":"3301","region":"Portuguesa","city":"Acarigua","latitude":9.55451,"longitude":-69.19564}}(window,'GeoPostal','VE');

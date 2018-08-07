@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30740"]={"code":"30740","region":"GA","city":"Rocky Face","latitude":34.7745,"longitude":-85.0561}}(window,'GeoPostal','US');

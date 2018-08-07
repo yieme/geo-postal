@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67037"]={"code":"67037","region":"Abruzzo","city":"Roccaraso","latitude":41.85013,"longitude":14.07841}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5642"]={"code":"5642","region":"Aargau","city":"Merenschwand","latitude":47.2587,"longitude":8.37532}}(window,'GeoPostal','CH');

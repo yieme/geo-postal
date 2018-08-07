@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72426"]={"code":"72426","region":"AR","city":"Dell","latitude":35.8554,"longitude":-90.0418}}(window,'GeoPostal','US');

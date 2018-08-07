@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21523"]={"code":"21523","region":"MD","city":"Bloomington","latitude":39.4861,"longitude":-79.083}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 7012"]={"code":"AZ 7012","region":"Naxcivan","city":"Nakhchivan","latitude":39.20889,"longitude":45.41222}}(window,'GeoPostal','AZ');

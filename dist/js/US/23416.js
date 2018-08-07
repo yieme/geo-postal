@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23416"]={"code":"23416","region":"VA","city":"Oak Hall","latitude":37.9229,"longitude":-75.5386}}(window,'GeoPostal','US');

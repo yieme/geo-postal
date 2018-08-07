@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87070"]={"code":"87070","region":"Calabria","city":"Albidona","latitude":39.92261,"longitude":16.47019}}(window,'GeoPostal','IT');

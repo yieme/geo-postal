@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20037"]={"code":"20037","region":"Lombardia","city":"Paderno Dugnano","latitude":45.56899,"longitude":9.16483}}(window,'GeoPostal','IT');

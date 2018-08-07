@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93441"]={"code":"93441","region":"California","city":"Los Olivos","latitude":34.668676,"longitude":-120.110583}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0880"]={"code":"0880","region":"Northern Territory","city":"Nhulunbuy","latitude":-12.18652,"longitude":136.78201}}(window,'GeoPostal','AU');

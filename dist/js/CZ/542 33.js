@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["542 33"]={"code":"542 33","region":"Kralovehradecky kraj","city":"Rtyne v Podkrkonosi","latitude":50.50523,"longitude":16.07187}}(window,'GeoPostal','CZ');

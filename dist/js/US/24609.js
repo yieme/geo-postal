@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24609"]={"code":"24609","region":"Virginia","city":"Cedar Bluff","latitude":37.08761,"longitude":-81.759}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29860"]={"code":"29860","region":"SC","city":"North Augusta","latitude":33.6028,"longitude":-81.9748}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28050"]={"code":"28050","region":"Madrid, Comunidad de","city":"Pinar de Chamartin","latitude":40.47903,"longitude":-3.66836}}(window,'GeoPostal','ES');

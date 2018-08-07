@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62875"]={"code":"62875","region":"Illinois","city":"Patoka","latitude":38.75202,"longitude":-89.09694}}(window,'GeoPostal','US');

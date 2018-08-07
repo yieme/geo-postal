@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93033"]={"code":"93033","region":"Tanger-Tetouan","city":"Zinat","latitude":35.43,"longitude":-5.4}}(window,'GeoPostal','MA');

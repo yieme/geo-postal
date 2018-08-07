@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72645"]={"code":"72645","region":"Arkansas","city":"Leslie","latitude":35.82678,"longitude":-92.57502}}(window,'GeoPostal','US');

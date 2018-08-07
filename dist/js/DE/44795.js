@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44795"]={"code":"44795","region":"Nordrhein-Westfalen","city":"Bochum","latitude":51.48165,"longitude":7.21648}}(window,'GeoPostal','DE');

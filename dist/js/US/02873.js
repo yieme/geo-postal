@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02873"]={"code":"02873","region":"RI","city":"Rockville","latitude":41.5199,"longitude":-71.774}}(window,'GeoPostal','US');

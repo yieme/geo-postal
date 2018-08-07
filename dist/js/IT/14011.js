@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14011"]={"code":"14011","region":"Piemonte","city":"Asti","latitude":44.89795,"longitude":8.20684}}(window,'GeoPostal','IT');

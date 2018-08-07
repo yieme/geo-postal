@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01890"]={"code":"01890","region":"Massachusetts","city":"Winchester","latitude":42.452507,"longitude":-71.147506}}(window,'GeoPostal','US');

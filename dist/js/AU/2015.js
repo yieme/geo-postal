@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2015"]={"code":"2015","region":"New South Wales","city":"Saint Peters","latitude":-33.91667,"longitude":151.18333}}(window,'GeoPostal','AU');

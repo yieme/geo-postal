@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70782"]={"code":"70782","region":"Louisiana","city":"Tunica","latitude":30.929167,"longitude":-91.555}}(window,'GeoPostal','US');

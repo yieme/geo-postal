@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22211"]={"code":"22211","region":"VA","city":"Fort Myer","latitude":38.8921,"longitude":-77.0794}}(window,'GeoPostal','US');

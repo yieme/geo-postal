@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN11 9LN"]={"code":"SN11 9LN","region":"England","city":"Studley","latitude":51.44222,"longitude":-2.04972}}(window,'GeoPostal','GB');

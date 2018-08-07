@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA5 2PY"]={"code":"TA5 2PY","region":"England","city":"Stockland Bristol","latitude":51.18738,"longitude":-3.08655}}(window,'GeoPostal','GB');

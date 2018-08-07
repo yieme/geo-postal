@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76550"]={"code":"76550","region":"Texas","city":"Lampasas","latitude":31.063754,"longitude":-98.182862}}(window,'GeoPostal','US');

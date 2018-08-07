@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19559"]={"code":"19559","region":"PA","city":"Strausstown","latitude":40.4945,"longitude":-76.1825}}(window,'GeoPostal','US');

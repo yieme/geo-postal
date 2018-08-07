@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47467"]={"code":"47467","region":"IN","city":"Tunnelton","latitude":38.7687,"longitude":-86.3428}}(window,'GeoPostal','US');

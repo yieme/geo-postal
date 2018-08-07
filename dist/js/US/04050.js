@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04050"]={"code":"04050","region":"ME","city":"Long Island","latitude":43.692,"longitude":-70.1551}}(window,'GeoPostal','US');

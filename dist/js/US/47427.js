@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47427"]={"code":"47427","region":"Indiana","city":"Coal City","latitude":39.248809,"longitude":-86.987931}}(window,'GeoPostal','US');

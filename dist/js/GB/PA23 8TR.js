@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA23 8TR"]={"code":"PA23 8TR","region":"Scotland","city":"Ardentinny","latitude":56.04651,"longitude":-4.9108}}(window,'GeoPostal','GB');

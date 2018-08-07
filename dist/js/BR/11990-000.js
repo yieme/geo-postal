@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11990-000"]={"code":"11990-000","region":"Sao Paulo","city":"Cananeia","latitude":-25.01472,"longitude":-47.92667}}(window,'GeoPostal','BR');

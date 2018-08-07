@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08332"]={"code":"08332","region":"New Jersey","city":"Millville","latitude":39.40206,"longitude":-75.03934}}(window,'GeoPostal','US');

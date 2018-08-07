@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8982"]={"code":"8982","region":"Steiermark","city":"Tauplitz","latitude":47.56005,"longitude":14.01293}}(window,'GeoPostal','AT');

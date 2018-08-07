@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09310"]={"code":"09310","region":"Occitanie","city":"Les Cabannes","latitude":42.7864,"longitude":1.6878}}(window,'GeoPostal','FR');

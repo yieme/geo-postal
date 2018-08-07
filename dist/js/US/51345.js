@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51345"]={"code":"51345","region":"IA","city":"Harris","latitude":43.4568,"longitude":-95.4426}}(window,'GeoPostal','US');

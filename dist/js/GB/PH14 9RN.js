@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH14 9RN"]={"code":"PH14 9RN","region":"Scotland","city":"Inchture","latitude":56.44551,"longitude":-3.16956}}(window,'GeoPostal','GB');

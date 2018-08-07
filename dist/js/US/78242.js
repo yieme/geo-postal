@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78242"]={"code":"78242","region":"TX","city":"San Antonio","latitude":29.3509,"longitude":-98.6109}}(window,'GeoPostal','US');

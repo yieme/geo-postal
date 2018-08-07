@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83721"]={"code":"83721","region":"ID","city":"Boise","latitude":43.61,"longitude":-116.2}}(window,'GeoPostal','US');

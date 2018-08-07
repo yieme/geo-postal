@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52758"]={"code":"52758","region":"IA","city":"Mc Causland","latitude":41.743,"longitude":-90.4539}}(window,'GeoPostal','US');

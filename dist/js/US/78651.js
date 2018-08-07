@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78651"]={"code":"78651","region":"TX","city":"Mc Neil","latitude":30.3264,"longitude":-97.7713}}(window,'GeoPostal','US');

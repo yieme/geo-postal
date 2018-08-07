@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83444"]={"code":"83444","region":"ID","city":"Roberts","latitude":43.7116,"longitude":-112.1196}}(window,'GeoPostal','US');

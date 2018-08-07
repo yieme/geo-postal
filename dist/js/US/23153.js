@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23153"]={"code":"23153","region":"Virginia","city":"Sandy Hook","latitude":37.75278,"longitude":-77.9125}}(window,'GeoPostal','US');

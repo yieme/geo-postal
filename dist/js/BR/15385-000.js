@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15385-000"]={"code":"15385-000","region":"Sao Paulo","city":"Ilha Solteira","latitude":-20.43278,"longitude":-51.3425}}(window,'GeoPostal','BR');

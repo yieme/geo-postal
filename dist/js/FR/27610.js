@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27610"]={"code":"27610","region":"Normandie","city":"Romilly-sur-Andelle","latitude":49.3319,"longitude":1.26128}}(window,'GeoPostal','FR');

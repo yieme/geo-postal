@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51252"]={"code":"51252","region":"Dnipropetrovska oblast","city":"Gubinikha","latitude":48.81083,"longitude":35.25472}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-120"]={"code":"34-120","region":"Malopolskie","city":"Andrychow","latitude":49.85497,"longitude":19.33834}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97650"]={"code":"97650","region":"Yucatan","city":"Tunkas","latitude":20.9,"longitude":-88.75}}(window,'GeoPostal','MX');

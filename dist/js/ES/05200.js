@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05200"]={"code":"05200","region":"Castilla y Leon","city":"Arevalo","latitude":41.06255,"longitude":-4.72042}}(window,'GeoPostal','ES');

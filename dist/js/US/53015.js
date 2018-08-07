@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53015"]={"code":"53015","region":"Wisconsin","city":"Cleveland","latitude":43.91499,"longitude":-87.74731}}(window,'GeoPostal','US');

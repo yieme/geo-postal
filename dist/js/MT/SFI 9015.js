@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SFI 9015"]={"code":"SFI 9015","region":"Safi","city":"Safi","latitude":35.83306,"longitude":14.48472}}(window,'GeoPostal','MT');

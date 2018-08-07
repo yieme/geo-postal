@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87357"]={"code":"87357","region":"NM","city":"Pinehill","latitude":34.9992,"longitude":-108.4112}}(window,'GeoPostal','US');

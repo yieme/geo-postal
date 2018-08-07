@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29290"]={"code":"29290","region":"Bretagne","city":"Milizac","latitude":48.46667,"longitude":-4.56667}}(window,'GeoPostal','FR');

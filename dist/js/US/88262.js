@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88262"]={"code":"88262","region":"NM","city":"Mcdonald","latitude":33.1407,"longitude":-103.3174}}(window,'GeoPostal','US');

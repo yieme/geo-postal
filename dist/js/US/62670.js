@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62670"]={"code":"62670","region":"IL","city":"New Berlin","latitude":39.7681,"longitude":-89.855}}(window,'GeoPostal','US');

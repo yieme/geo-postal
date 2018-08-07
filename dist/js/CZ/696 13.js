@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 13"]={"code":"696 13","region":"Jihomoravsky kraj","city":"Sardice","latitude":48.96403,"longitude":17.02812}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11581"]={"code":"11581","region":"New York","city":"Valley Stream","latitude":40.66212,"longitude":-73.71216}}(window,'GeoPostal','US');

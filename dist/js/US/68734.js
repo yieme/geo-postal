@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68734"]={"code":"68734","region":"Nebraska","city":"Emmet","latitude":42.436632,"longitude":-98.830293}}(window,'GeoPostal','US');

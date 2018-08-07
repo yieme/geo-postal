@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301320"]={"code":"301320","region":"Tul'skaya oblast'","city":"Venev","latitude":54.35533,"longitude":38.26843}}(window,'GeoPostal','RU');

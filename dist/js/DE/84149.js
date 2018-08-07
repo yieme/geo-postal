@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84149"]={"code":"84149","region":"Bayern","city":"Velden","latitude":48.36632,"longitude":12.25596}}(window,'GeoPostal','DE');

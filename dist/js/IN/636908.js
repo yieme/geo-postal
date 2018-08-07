@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636908"]={"code":"636908","region":"Tamil Nadu","city":"Belur","latitude":11.7,"longitude":78.41667}}(window,'GeoPostal','IN');

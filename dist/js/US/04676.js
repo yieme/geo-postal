@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04676"]={"code":"04676","region":"ME","city":"Sedgwick","latitude":44.3355,"longitude":-68.6377}}(window,'GeoPostal','US');

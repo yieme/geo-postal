@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5689"]={"code":"5689","region":"Noord-Brabant","city":"Oirschot","latitude":51.505,"longitude":5.31389}}(window,'GeoPostal','NL');

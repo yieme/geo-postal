@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C1N 3Z6"]={"code":"C1N 3Z6","region":"Prince Edward Island","city":"St. Eleanors","latitude":46.42153,"longitude":-63.80982}}(window,'GeoPostal','CA');

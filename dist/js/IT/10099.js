@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10099"]={"code":"10099","region":"Piemonte","city":"San Mauro Torinese","latitude":45.10585,"longitude":7.75452}}(window,'GeoPostal','IT');

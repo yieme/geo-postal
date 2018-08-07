@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7051"]={"code":"7051","region":"Tasman","city":"Brightwater","latitude":-41.38333,"longitude":173.11667}}(window,'GeoPostal','NZ');

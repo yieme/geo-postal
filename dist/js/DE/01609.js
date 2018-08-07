@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01609"]={"code":"01609","region":"Sachsen","city":"Koselitz","latitude":51.37809,"longitude":13.42668}}(window,'GeoPostal','DE');

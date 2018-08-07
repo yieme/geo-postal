@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["857 00"]={"code":"857 00","region":"Notio Aigaio","city":"Karpathos","latitude":35.50701,"longitude":27.21322}}(window,'GeoPostal','GR');

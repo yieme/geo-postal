@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["972107"]={"code":"972107","region":"Benue","city":"Bopo","latitude":7.6565,"longitude":7.8664}}(window,'GeoPostal','NG');

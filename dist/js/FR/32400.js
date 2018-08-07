@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32400"]={"code":"32400","region":"Occitanie","city":"Riscle","latitude":43.65633,"longitude":-0.08607}}(window,'GeoPostal','FR');

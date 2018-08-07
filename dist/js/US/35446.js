@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35446"]={"code":"35446","region":"AL","city":"Buhl","latitude":33.2306,"longitude":-87.7547}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78605"]={"code":"78605","region":"TX","city":"Bertram","latitude":30.7411,"longitude":-98.0529}}(window,'GeoPostal','US');

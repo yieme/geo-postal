@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363423"]={"code":"363423","region":"Gujarat","city":"Dhandhuka","latitude":22.36667,"longitude":71.98333}}(window,'GeoPostal','IN');

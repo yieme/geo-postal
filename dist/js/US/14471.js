@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14471"]={"code":"14471","region":"NY","city":"Honeoye","latitude":42.7901,"longitude":-77.5169}}(window,'GeoPostal','US');

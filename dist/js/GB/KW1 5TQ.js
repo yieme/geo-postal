@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW1 5TQ"]={"code":"KW1 5TQ","region":"Scotland","city":"Thrumster","latitude":58.39026,"longitude":-3.13572}}(window,'GeoPostal','GB');

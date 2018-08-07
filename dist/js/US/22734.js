@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22734"]={"code":"22734","region":"VA","city":"Remington","latitude":38.5309,"longitude":-77.8037}}(window,'GeoPostal','US');

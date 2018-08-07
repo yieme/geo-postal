@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19640"]={"code":"19640","region":"PA","city":"Metropolitan Edison Co","latitude":40.36,"longitude":-75.91}}(window,'GeoPostal','US');

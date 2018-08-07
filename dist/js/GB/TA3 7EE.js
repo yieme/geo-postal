@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA3 7EE"]={"code":"TA3 7EE","region":"England","city":"Otterford","latitude":50.92297,"longitude":-3.10898}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39145"]={"code":"39145","region":"MS","city":"Pelahatchie","latitude":32.318,"longitude":-89.7913}}(window,'GeoPostal','US');

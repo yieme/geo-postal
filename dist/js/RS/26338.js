@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26338"]={"code":"26338","region":"Juznobanatski okrug","city":"Kustilj","latitude":45.03528,"longitude":21.37722}}(window,'GeoPostal','RS');

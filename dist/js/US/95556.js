@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95556"]={"code":"95556","region":"California","city":"Orleans","latitude":41.288305,"longitude":-123.551414}}(window,'GeoPostal','US');

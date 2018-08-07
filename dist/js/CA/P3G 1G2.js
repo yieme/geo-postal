@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P3G 1G2"]={"code":"P3G 1G2","region":"Ontario","city":"Burwash","latitude":46.23338,"longitude":-80.84972}}(window,'GeoPostal','CA');

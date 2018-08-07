@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70052"]={"code":"70052","region":"Louisiana","city":"Gramercy","latitude":30.04742,"longitude":-90.68981}}(window,'GeoPostal','US');

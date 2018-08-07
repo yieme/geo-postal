@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37351"]={"code":"37351","region":"TN","city":"Lupton City","latitude":35.1045,"longitude":-85.2631}}(window,'GeoPostal','US');

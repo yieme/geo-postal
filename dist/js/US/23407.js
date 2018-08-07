@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23407"]={"code":"23407","region":"VA","city":"Mappsville","latitude":37.846,"longitude":-75.5666}}(window,'GeoPostal','US');

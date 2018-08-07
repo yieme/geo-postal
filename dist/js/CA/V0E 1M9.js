@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 1M9"]={"code":"V0E 1M9","region":"British Columbia","city":"St. Ives","latitude":50.98161,"longitude":-119.10167}}(window,'GeoPostal','CA');

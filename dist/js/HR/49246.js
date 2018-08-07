@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49246"]={"code":"49246","region":"Krapinsko-zagorska zupanija","city":"Marija Bistrica","latitude":46.00611,"longitude":16.11111}}(window,'GeoPostal','HR');

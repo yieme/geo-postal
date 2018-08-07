@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["988-0504"]={"code":"988-0504","region":"Iwate","city":"Otsuchi","latitude":39.35972,"longitude":141.90639}}(window,'GeoPostal','JP');

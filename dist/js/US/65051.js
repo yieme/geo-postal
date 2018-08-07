@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65051"]={"code":"65051","region":"Missouri","city":"Linn","latitude":38.480898,"longitude":-91.845101}}(window,'GeoPostal','US');

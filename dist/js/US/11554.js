@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11554"]={"code":"11554","region":"New York","city":"East Meadow","latitude":40.710775,"longitude":-73.559914}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92651"]={"code":"92651","region":"California","city":"Laguna Beach","latitude":33.541775,"longitude":-117.779308}}(window,'GeoPostal','US');

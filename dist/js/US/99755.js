@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99755"]={"code":"99755","region":"Alaska","city":"Denali National Park","latitude":63.33333,"longitude":-150.5}}(window,'GeoPostal','US');

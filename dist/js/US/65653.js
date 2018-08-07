@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65653"]={"code":"65653","region":"MO","city":"Forsyth","latitude":36.6955,"longitude":-93.115}}(window,'GeoPostal','US');

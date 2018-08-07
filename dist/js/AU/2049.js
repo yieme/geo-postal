@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2049"]={"code":"2049","region":"New South Wales","city":"Petersham","latitude":-33.8946,"longitude":151.15495}}(window,'GeoPostal','AU');

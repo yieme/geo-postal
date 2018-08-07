@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08020"]={"code":"08020","region":"NJ","city":"Clarksboro","latitude":39.7992,"longitude":-75.2237}}(window,'GeoPostal','US');

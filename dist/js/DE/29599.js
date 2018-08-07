@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29599"]={"code":"29599","region":"Niedersachsen","city":"Weste","latitude":53.05943,"longitude":10.70283}}(window,'GeoPostal','DE');

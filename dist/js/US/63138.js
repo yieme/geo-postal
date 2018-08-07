@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63138"]={"code":"63138","region":"MO","city":"Saint Louis","latitude":38.8033,"longitude":-90.2065}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15088"]={"code":"15088","region":"Pennsylvania","city":"Jefferson Hills","latitude":40.272424,"longitude":-79.896663}}(window,'GeoPostal','US');

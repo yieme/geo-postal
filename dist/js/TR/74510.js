@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74510"]={"code":"74510","region":"Canakkale","city":"Gelibolu","latitude":40.41028,"longitude":26.67083}}(window,'GeoPostal','TR');

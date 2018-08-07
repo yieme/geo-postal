@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28765"]={"code":"28765","region":"NC","city":"Penland","latitude":35.9219,"longitude":-82.1107}}(window,'GeoPostal','US');

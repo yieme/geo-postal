@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394445"]={"code":"394445","region":"Gujarat","city":"Songadh","latitude":21.16667,"longitude":73.56667}}(window,'GeoPostal','IN');

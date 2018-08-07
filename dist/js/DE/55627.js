@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55627"]={"code":"55627","region":"Rheinland-Pfalz","city":"Martinstein","latitude":49.8,"longitude":7.53333}}(window,'GeoPostal','DE');

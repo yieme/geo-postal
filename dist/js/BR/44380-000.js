@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44380-000"]={"code":"44380-000","region":"Bahia","city":"Cruz das Almas","latitude":-12.67,"longitude":-39.10194}}(window,'GeoPostal','BR');

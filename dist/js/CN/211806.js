@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["211806"]={"code":"211806","region":"Jiangsu","city":"Wujiang","latitude":31.87718,"longitude":118.48925}}(window,'GeoPostal','CN');

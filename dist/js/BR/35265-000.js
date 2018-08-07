@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35265-000"]={"code":"35265-000","region":"Minas Gerais","city":"Divino das Laranjeiras","latitude":-18.77778,"longitude":-41.47972}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 5200"]={"code":"AZ 5200","region":"Salyan","city":"Salyan","latitude":39.59362,"longitude":48.98055}}(window,'GeoPostal','AZ');

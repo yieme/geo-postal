@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88125"]={"code":"88125","region":"NM","city":"Milnesand","latitude":33.605,"longitude":-103.2782}}(window,'GeoPostal','US');

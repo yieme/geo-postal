@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68790"]={"code":"68790","region":"NE","city":"Winside","latitude":42.1678,"longitude":-97.1825}}(window,'GeoPostal','US');

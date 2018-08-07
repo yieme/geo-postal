@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0J 1B0"]={"code":"K0J 1B0","region":"Ontario","city":"Combermere","latitude":45.413065,"longitude":-77.726466}}(window,'GeoPostal','CA');

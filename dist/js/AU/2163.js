@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2163"]={"code":"2163","region":"New South Wales","city":"Villawood","latitude":-33.88333,"longitude":150.96667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B93 0DS"]={"code":"B93 0DS","region":"England","city":"Knowle","latitude":52.38333,"longitude":-1.73333}}(window,'GeoPostal','GB');

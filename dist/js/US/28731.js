@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28731"]={"code":"28731","region":"North Carolina","city":"Flat Rock","latitude":36.51236,"longitude":-80.56978}}(window,'GeoPostal','US');

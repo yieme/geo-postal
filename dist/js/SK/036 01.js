@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["036 01"]={"code":"036 01","region":"Zilinsky kraj","city":"Martin","latitude":49.06651,"longitude":18.92399}}(window,'GeoPostal','SK');

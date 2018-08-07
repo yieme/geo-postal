@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93485"]={"code":"93485","region":"Bayern","city":"Madersdorf","latitude":49.24253,"longitude":12.86509}}(window,'GeoPostal','DE');

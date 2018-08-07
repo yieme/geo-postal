@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28772"]={"code":"28772","region":"North Carolina","city":"Rosman","latitude":35.141921,"longitude":-82.836591}}(window,'GeoPostal','US');

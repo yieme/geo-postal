@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["635209"]={"code":"635209","region":"Tamil Nadu","city":"Kunnattur","latitude":12.35,"longitude":78.51667}}(window,'GeoPostal','IN');

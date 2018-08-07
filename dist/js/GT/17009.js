@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17009"]={"code":"17009","region":"Peten","city":"Poptun","latitude":16.33111,"longitude":-89.41694}}(window,'GeoPostal','GT');

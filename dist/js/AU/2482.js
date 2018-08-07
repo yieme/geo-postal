@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2482"]={"code":"2482","region":"New South Wales","city":"Minynon","latitude":-28.63333,"longitude":153.41667}}(window,'GeoPostal','AU');

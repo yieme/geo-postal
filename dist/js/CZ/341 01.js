@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["341 01"]={"code":"341 01","region":"Plzensky kraj","city":"Horazd'ovice","latitude":49.32069,"longitude":13.701}}(window,'GeoPostal','CZ');

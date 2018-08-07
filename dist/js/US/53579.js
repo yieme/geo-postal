@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53579"]={"code":"53579","region":"WI","city":"Reeseville","latitude":43.3013,"longitude":-88.8571}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46175"]={"code":"46175","region":"IN","city":"Russellville","latitude":39.8366,"longitude":-86.967}}(window,'GeoPostal','US');

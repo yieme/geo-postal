@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63841"]={"code":"63841","region":"Missouri","city":"Dexter","latitude":36.794416,"longitude":-89.960791}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35270"]={"code":"35270","region":"Bretagne","city":"Bonnemain","latitude":48.46652,"longitude":-1.76774}}(window,'GeoPostal','FR');

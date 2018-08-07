@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06079"]={"code":"06079","region":"CT","city":"Taconic","latitude":42.032,"longitude":-73.4038}}(window,'GeoPostal','US');

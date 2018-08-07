@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41114"]={"code":"41114","region":"KY","city":"Ashland","latitude":38.3703,"longitude":-82.6948}}(window,'GeoPostal','US');

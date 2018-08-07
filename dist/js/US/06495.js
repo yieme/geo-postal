@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06495"]={"code":"06495","region":"Connecticut","city":"Wallingford Center","latitude":41.44987,"longitude":-72.81892}}(window,'GeoPostal','US');

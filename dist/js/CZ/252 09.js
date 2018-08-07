@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 09"]={"code":"252 09","region":"Stredocesky kraj","city":"Hradist'ko","latitude":49.86828,"longitude":14.40935}}(window,'GeoPostal','CZ');

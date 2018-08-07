@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4516"]={"code":"4516","region":"Szabolcs-Szatmar-Bereg","city":"Demecser","latitude":48.11108,"longitude":21.91749}}(window,'GeoPostal','HU');

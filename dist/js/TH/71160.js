@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71160"]={"code":"71160","region":"Kanchanaburi","city":"Huai Krachao","latitude":14.3275,"longitude":99.66767}}(window,'GeoPostal','TH');

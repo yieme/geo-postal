@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16370"]={"code":"16370","region":"PA","city":"West Hickory","latitude":41.5687,"longitude":-79.4081}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05069"]={"code":"05069","region":"VT","city":"South Ryegate","latitude":44.1978,"longitude":-72.1104}}(window,'GeoPostal','US');

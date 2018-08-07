@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74867"]={"code":"74867","region":"Baden-Wurttemberg","city":"Neckarkatzenbach","latitude":49.3836,"longitude":9.03434}}(window,'GeoPostal','DE');

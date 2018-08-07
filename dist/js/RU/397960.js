@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["397960"]={"code":"397960","region":"Voronezhskaya oblast'","city":"Sredniy Ikorets","latitude":51.06749,"longitude":39.75838}}(window,'GeoPostal','RU');

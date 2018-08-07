@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3717"]={"code":"3717","region":"Bern","city":"Kandersteg","latitude":46.49467,"longitude":7.67326}}(window,'GeoPostal','CH');

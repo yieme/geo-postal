@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1312"]={"code":"1312","region":"Vaud","city":"La Sarraz","latitude":46.65863,"longitude":6.51077}}(window,'GeoPostal','CH');

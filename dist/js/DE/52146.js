@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52146"]={"code":"52146","region":"Nordrhein-Westfalen","city":"Dobach","latitude":50.81547,"longitude":6.1439}}(window,'GeoPostal','DE');

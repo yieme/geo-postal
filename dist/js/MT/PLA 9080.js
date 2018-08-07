@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PLA 9080"]={"code":"PLA 9080","region":"Paola","city":"Paola","latitude":35.87306,"longitude":14.49889}}(window,'GeoPostal','MT');

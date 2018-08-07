@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27968"]={"code":"27968","region":"North Carolina","city":"Rodanthe","latitude":35.59361,"longitude":-75.46806}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14201"]={"code":"14201","region":"Kanta-Hame","city":"Janakkala","latitude":60.9,"longitude":24.6}}(window,'GeoPostal','FI');

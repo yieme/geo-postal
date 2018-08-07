@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26452"]={"code":"26452","region":"Nordrhein-Westfalen","city":"Sande","latitude":51.75807,"longitude":8.66049}}(window,'GeoPostal','DE');

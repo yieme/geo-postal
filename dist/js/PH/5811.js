@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5811"]={"code":"5811","region":"Capiz","city":"Cuartero","latitude":11.3407,"longitude":122.6694}}(window,'GeoPostal','PH');

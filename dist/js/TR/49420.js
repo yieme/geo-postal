@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49420"]={"code":"49420","region":"Sivas","city":"Ulas","latitude":39.44492,"longitude":37.039}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64197"]={"code":"64197","region":"Sodermanlands lan","city":"Katrineholm","latitude":58.99587,"longitude":16.20721}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65326"]={"code":"65326","region":"Missouri","city":"Edwards","latitude":38.167869,"longitude":-93.146152}}(window,'GeoPostal','US');

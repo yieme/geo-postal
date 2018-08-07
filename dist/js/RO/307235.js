@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307235"]={"code":"307235","region":"Timis","city":"Jebel","latitude":45.55556,"longitude":21.21361}}(window,'GeoPostal','RO');

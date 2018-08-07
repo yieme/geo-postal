@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30284"]={"code":"30284","region":"GA","city":"Sunny Side","latitude":33.3453,"longitude":-84.2898}}(window,'GeoPostal','US');

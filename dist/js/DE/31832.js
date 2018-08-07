@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31832"]={"code":"31832","region":"Niedersachsen","city":"Springe","latitude":52.20845,"longitude":9.55416}}(window,'GeoPostal','DE');

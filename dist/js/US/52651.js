@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52651"]={"code":"52651","region":"IA","city":"Stockport","latitude":40.8584,"longitude":-91.8141}}(window,'GeoPostal','US');

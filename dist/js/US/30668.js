@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30668"]={"code":"30668","region":"Georgia","city":"Tignall","latitude":33.86694,"longitude":-82.74111}}(window,'GeoPostal','US');

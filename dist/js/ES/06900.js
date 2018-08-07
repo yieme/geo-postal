@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06900"]={"code":"06900","region":"Extremadura","city":"Llerena","latitude":38.23333,"longitude":-6.01667}}(window,'GeoPostal','ES');

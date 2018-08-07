@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50028"]={"code":"50028","region":"Toscana","city":"Tavarnelle Val di Pesa","latitude":43.56184,"longitude":11.17152}}(window,'GeoPostal','IT');

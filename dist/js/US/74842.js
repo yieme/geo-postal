@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74842"]={"code":"74842","region":"OK","city":"Fittstown","latitude":34.6148,"longitude":-96.6345}}(window,'GeoPostal','US');

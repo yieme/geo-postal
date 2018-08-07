@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61042"]={"code":"61042","region":"Michoacan de Ocampo","city":"Tarimbaro","latitude":19.78333,"longitude":-101.13333}}(window,'GeoPostal','MX');

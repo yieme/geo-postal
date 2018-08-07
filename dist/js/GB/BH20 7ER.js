@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH20 7ER"]={"code":"BH20 7ER","region":"England","city":"Morden","latitude":50.76667,"longitude":-2.11667}}(window,'GeoPostal','GB');

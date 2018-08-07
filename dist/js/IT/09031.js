@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09031"]={"code":"09031","region":"Sardegna","city":"Arbus","latitude":39.52722,"longitude":8.59944}}(window,'GeoPostal','IT');

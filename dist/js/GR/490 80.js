@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["490 80"]={"code":"490 80","region":"Anatoliki Makedonia kai Thraki","city":"Tycheron","latitude":41.03333,"longitude":26.28333}}(window,'GeoPostal','GR');

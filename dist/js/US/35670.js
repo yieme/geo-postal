@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35670"]={"code":"35670","region":"Alabama","city":"Somerville","latitude":34.47,"longitude":-86.79889}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["877-1121"]={"code":"877-1121","region":"Oita","city":"Hita","latitude":33.317,"longitude":130.933}}(window,'GeoPostal','JP');

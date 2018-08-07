@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05002"]={"code":"05002","region":"Ayacucho","city":"Ayacucho","latitude":-13.15833,"longitude":-74.22389}}(window,'GeoPostal','PE');

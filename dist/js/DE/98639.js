@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98639"]={"code":"98639","region":"Thuringen","city":"Walldorf","latitude":50.61667,"longitude":10.38333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66036"]={"code":"66036","region":"Abruzzo","city":"Orsogna","latitude":42.21894,"longitude":14.27911}}(window,'GeoPostal','IT');

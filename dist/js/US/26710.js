@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26710"]={"code":"26710","region":"West Virginia","city":"Burlington","latitude":39.365938,"longitude":-78.911701}}(window,'GeoPostal','US');

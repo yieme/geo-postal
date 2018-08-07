@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46714"]={"code":"46714","region":"Indiana","city":"Bluffton","latitude":40.71876,"longitude":-85.19484}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95001"]={"code":"95001","region":"California","city":"Aptos","latitude":36.97717,"longitude":-121.8994}}(window,'GeoPostal','US');

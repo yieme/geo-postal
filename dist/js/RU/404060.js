@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404060"]={"code":"404060","region":"Volgogradskaya oblast'","city":"Bykovo","latitude":49.76618,"longitude":45.38866}}(window,'GeoPostal','RU');

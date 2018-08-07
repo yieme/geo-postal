@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61377"]={"code":"61377","region":"IL","city":"Wenona","latitude":41.0548,"longitude":-89.0416}}(window,'GeoPostal','US');

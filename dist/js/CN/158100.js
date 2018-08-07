@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["158100"]={"code":"158100","region":"Heilongjiang","city":"Jixi","latitude":45.3,"longitude":130.96667}}(window,'GeoPostal','CN');

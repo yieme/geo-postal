@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63565"]={"code":"63565","region":"Missouri","city":"Unionville","latitude":40.47696,"longitude":-93.00326}}(window,'GeoPostal','US');

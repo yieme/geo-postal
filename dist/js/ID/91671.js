@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91671"]={"code":"91671","region":"Sulawesi Selatan","city":"Sinjai","latitude":-5.1241,"longitude":120.253}}(window,'GeoPostal','ID');

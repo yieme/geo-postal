@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11130"]={"code":"11130","region":"Andalucia","city":"Chiclana de la Frontera","latitude":36.41915,"longitude":-6.14941}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29126"]={"code":"29126","region":"South Carolina","city":"Pomaria","latitude":34.324773,"longitude":-81.44432}}(window,'GeoPostal','US');

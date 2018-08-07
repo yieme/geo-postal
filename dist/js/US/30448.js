@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30448"]={"code":"30448","region":"GA","city":"Nunez","latitude":32.4759,"longitude":-82.3726}}(window,'GeoPostal','US');

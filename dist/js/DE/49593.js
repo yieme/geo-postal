@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49593"]={"code":"49593","region":"Niedersachsen","city":"Bersenbruck","latitude":52.5516,"longitude":7.94836}}(window,'GeoPostal','DE');

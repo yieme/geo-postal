@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57004"]={"code":"57004","region":"Mykolaivska oblast","city":"Veselynove","latitude":47.35666,"longitude":31.23488}}(window,'GeoPostal','UA');

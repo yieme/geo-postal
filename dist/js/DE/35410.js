@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35410"]={"code":"35410","region":"Hessen","city":"Villingen","latitude":50.50447,"longitude":8.93609}}(window,'GeoPostal','DE');

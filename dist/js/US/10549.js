@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10549"]={"code":"10549","region":"New York","city":"Mount Kisco","latitude":41.20426,"longitude":-73.72708}}(window,'GeoPostal','US');

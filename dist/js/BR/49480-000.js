@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49480-000"]={"code":"49480-000","region":"Sergipe","city":"Simao Dias","latitude":-10.73833,"longitude":-37.81111}}(window,'GeoPostal','BR');

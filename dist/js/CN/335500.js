@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["335500"]={"code":"335500","region":"Jiangxi","city":"Chenying","latitude":28.69441,"longitude":117.06712}}(window,'GeoPostal','CN');

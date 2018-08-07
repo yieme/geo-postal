@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48381"]={"code":"48381","region":"Michigan","city":"Milford","latitude":42.572827,"longitude":-83.595584}}(window,'GeoPostal','US');

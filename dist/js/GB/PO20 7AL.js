@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO20 7AL"]={"code":"PO20 7AL","region":"England","city":"Itchenor","latitude":50.80561,"longitude":-0.86689}}(window,'GeoPostal','GB');

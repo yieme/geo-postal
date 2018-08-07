@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63862"]={"code":"63862","region":"MO","city":"Lilbourn","latitude":36.5853,"longitude":-89.6112}}(window,'GeoPostal','US');

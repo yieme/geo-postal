@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39176"]={"code":"39176","region":"Mississippi","city":"Vaiden","latitude":33.334124,"longitude":-89.742207}}(window,'GeoPostal','US');

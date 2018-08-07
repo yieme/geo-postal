@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72283"]={"code":"72283","region":"Federacija Bosne i Hercegovine","city":"Turbe","latitude":44.24361,"longitude":17.57139}}(window,'GeoPostal','BA');

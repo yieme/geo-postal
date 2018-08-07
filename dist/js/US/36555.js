@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36555"]={"code":"36555","region":"AL","city":"Magnolia Springs","latitude":30.3996,"longitude":-87.7761}}(window,'GeoPostal','US');

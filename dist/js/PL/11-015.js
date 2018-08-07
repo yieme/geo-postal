@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-015"]={"code":"11-015","region":"Warminsko-mazurskie","city":"Olsztynek","latitude":53.58374,"longitude":20.28471}}(window,'GeoPostal','PL');

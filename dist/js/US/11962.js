@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11962"]={"code":"11962","region":"NY","city":"Sagaponack","latitude":40.9305,"longitude":-72.2707}}(window,'GeoPostal','US');

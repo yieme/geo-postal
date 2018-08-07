@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0K 1L0"]={"code":"G0K 1L0","region":"Quebec","city":"Saint-Donat","latitude":46.31678,"longitude":-74.21591}}(window,'GeoPostal','CA');

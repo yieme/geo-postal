@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["222 00"]={"code":"222 00","region":"Peloponnisos","city":"Megalopolis","latitude":37.40111,"longitude":22.14222}}(window,'GeoPostal','GR');

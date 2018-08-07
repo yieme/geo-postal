@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70634"]={"code":"70634","region":"Louisiana","city":"DeRidder","latitude":30.84631,"longitude":-93.28905}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72730"]={"code":"72730","region":"AR","city":"Farmington","latitude":36.0436,"longitude":-94.2539}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07731"]={"code":"07731","region":"New Jersey","city":"Howell","latitude":40.148557,"longitude":-74.210093}}(window,'GeoPostal','US');

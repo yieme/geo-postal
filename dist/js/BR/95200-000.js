@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95200-000"]={"code":"95200-000","region":"Rio Grande do Sul","city":"Vacaria","latitude":-28.51222,"longitude":-50.93389}}(window,'GeoPostal','BR');

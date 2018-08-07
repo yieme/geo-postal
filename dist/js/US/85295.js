@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85295"]={"code":"85295","region":"Arizona","city":"Gilbert","latitude":33.3042,"longitude":-111.7162}}(window,'GeoPostal','US');

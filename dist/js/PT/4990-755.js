@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4990-755"]={"code":"4990-755","region":"Viana do Castelo","city":"Viana do Castelo","latitude":41.69323,"longitude":-8.83287}}(window,'GeoPostal','PT');

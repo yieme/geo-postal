@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36915"]={"code":"36915","region":"AL","city":"Needham","latitude":31.9879,"longitude":-88.3367}}(window,'GeoPostal','US');

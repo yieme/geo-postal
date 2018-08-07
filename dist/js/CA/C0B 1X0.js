@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0B 1X0"]={"code":"C0B 1X0","region":"Prince Edward Island","city":"Carleton","latitude":46.25703,"longitude":-63.66682}}(window,'GeoPostal','CA');

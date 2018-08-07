@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88230"]={"code":"88230","region":"Grand-Est","city":"Fraize","latitude":48.1866,"longitude":6.99786}}(window,'GeoPostal','FR');

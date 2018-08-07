@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3354"]={"code":"3354","region":"Niederosterreich","city":"Wolfsbach","latitude":48.06667,"longitude":14.66667}}(window,'GeoPostal','AT');

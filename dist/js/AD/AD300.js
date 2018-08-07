@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AD300"]={"code":"AD300","region":"Ordino","city":"El Serrat","latitude":42.618587,"longitude":1.53887}}(window,'GeoPostal','AD');

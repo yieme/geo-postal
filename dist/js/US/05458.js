@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05458"]={"code":"05458","region":"VT","city":"Grand Isle","latitude":44.7197,"longitude":-73.3056}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["172630"]={"code":"172630","region":"Tverskaya oblast'","city":"Staraya Toropa","latitude":56.28012,"longitude":31.67018}}(window,'GeoPostal','RU');

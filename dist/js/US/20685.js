@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20685"]={"code":"20685","region":"Maryland","city":"Saint Leonard","latitude":38.47306,"longitude":-76.50361}}(window,'GeoPostal','US');

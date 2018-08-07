@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301101"]={"code":"301101","region":"Tul'skaya oblast'","city":"Novomoskovsk","latitude":54.0105,"longitude":38.2846}}(window,'GeoPostal','RU');

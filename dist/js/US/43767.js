@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43767"]={"code":"43767","region":"OH","city":"Norwich","latitude":39.9934,"longitude":-81.8024}}(window,'GeoPostal','US');

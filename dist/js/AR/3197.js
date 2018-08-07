@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3197"]={"code":"3197","region":"Corrientes","city":"Pueblo Libertador","latitude":-30.22087,"longitude":-59.38981}}(window,'GeoPostal','AR');

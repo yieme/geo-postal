@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53217"]={"code":"53217","region":"Wisconsin","city":"Fox Point","latitude":43.148621,"longitude":-87.911753}}(window,'GeoPostal','US');

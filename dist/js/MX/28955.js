@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28955"]={"code":"28955","region":"Chihuahua","city":"Valle de Allende","latitude":26.93333,"longitude":-105.4}}(window,'GeoPostal','MX');

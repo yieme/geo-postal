@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03233"]={"code":"03233","region":"New Hampshire","city":"Elkins","latitude":43.42032,"longitude":-71.93873}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9436"]={"code":"9436","region":"Nordland","city":"Hol","latitude":68.54902,"longitude":16.39218}}(window,'GeoPostal','NO');

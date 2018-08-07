@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20230"]={"code":"20230","region":"Dubrovacko-neretvanska zupanija","city":"Ston","latitude":42.83861,"longitude":17.69639}}(window,'GeoPostal','HR');

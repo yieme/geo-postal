@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57382"]={"code":"57382","region":"South Dakota","city":"Wessington Springs","latitude":44.07916,"longitude":-98.56954}}(window,'GeoPostal','US');

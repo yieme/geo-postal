@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR2 0UB"]={"code":"HR2 0UB","region":"England","city":"Pontrilas","latitude":51.94325,"longitude":-2.87939}}(window,'GeoPostal','GB');

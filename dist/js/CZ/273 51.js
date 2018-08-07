@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273 51"]={"code":"273 51","region":"Stredocesky kraj","city":"Unhost'","latitude":50.08535,"longitude":14.13007}}(window,'GeoPostal','CZ');

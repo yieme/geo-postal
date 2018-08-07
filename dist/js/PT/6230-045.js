@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6230-045"]={"code":"6230-045","region":"Castelo Branco","city":"Fundao","latitude":40.14025,"longitude":-7.50135}}(window,'GeoPostal','PT');

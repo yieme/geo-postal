@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["633"]={"code":"633","region":"New Ireland","city":"Namatanai","latitude":-3.66667,"longitude":152.43333}}(window,'GeoPostal','PG');

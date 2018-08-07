@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391 65"]={"code":"391 65","region":"Jihocesky kraj","city":"Bechyne","latitude":49.29523,"longitude":14.4681}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL49 9EF"]={"code":"LL49 9EF","region":"Wales","city":"Porthmadog","latitude":52.92924,"longitude":-4.13137}}(window,'GeoPostal','GB');

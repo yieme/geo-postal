@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73744"]={"code":"73744","region":"Oklahoma","city":"Hitchcock","latitude":35.968987,"longitude":-98.351429}}(window,'GeoPostal','US');

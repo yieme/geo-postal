@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31300"]={"code":"31300","region":"Etela-Pohjanmaa","city":"Tammela","latitude":62.81667,"longitude":22.55}}(window,'GeoPostal','FI');

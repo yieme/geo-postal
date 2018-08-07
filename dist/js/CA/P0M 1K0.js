@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0M 1K0"]={"code":"P0M 1K0","region":"Ontario","city":"Chapleau","latitude":47.84053,"longitude":-83.4034}}(window,'GeoPostal','CA');

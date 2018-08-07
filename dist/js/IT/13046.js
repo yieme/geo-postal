@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13046"]={"code":"13046","region":"Piemonte","city":"Livorno Ferraris","latitude":45.28406,"longitude":8.07743}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43336"]={"code":"43336","region":"OH","city":"Middleburg","latitude":40.2926,"longitude":-83.5824}}(window,'GeoPostal','US');

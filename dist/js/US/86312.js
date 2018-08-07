@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86312"]={"code":"86312","region":"Arizona","city":"Prescott Valley","latitude":34.58941,"longitude":-112.32525}}(window,'GeoPostal','US');

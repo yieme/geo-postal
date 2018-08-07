@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26847"]={"code":"26847","region":"Niedersachsen","city":"Detern","latitude":53.20926,"longitude":7.67395}}(window,'GeoPostal','DE');

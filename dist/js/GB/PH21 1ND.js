@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH21 1ND"]={"code":"PH21 1ND","region":"Scotland","city":"Alvie","latitude":57.13879,"longitude":-3.91608}}(window,'GeoPostal','GB');

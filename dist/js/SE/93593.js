@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93593"]={"code":"93593","region":"Vasterbottens lan","city":"Norsjoe","latitude":64.91206,"longitude":19.48153}}(window,'GeoPostal','SE');

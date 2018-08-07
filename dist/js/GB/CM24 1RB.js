@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM24 1RB"]={"code":"CM24 1RB","region":"England","city":"Stanstead","latitude":52.11101,"longitude":0.69235}}(window,'GeoPostal','GB');

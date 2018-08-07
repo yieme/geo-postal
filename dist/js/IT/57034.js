@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57034"]={"code":"57034","region":"Toscana","city":"Campo nell'Elba","latitude":42.74802,"longitude":10.23332}}(window,'GeoPostal','IT');

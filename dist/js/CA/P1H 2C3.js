@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P1H 2C3"]={"code":"P1H 2C3","region":"Ontario","city":"Huntsville","latitude":45.325405,"longitude":-79.223043}}(window,'GeoPostal','CA');

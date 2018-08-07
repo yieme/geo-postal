@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515436"]={"code":"515436","region":"Guangdong","city":"Tatou","latitude":23.49031,"longitude":116.06337}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665910"]={"code":"665910","region":"Irkutskaya oblast'","city":"Kultuk","latitude":51.72083,"longitude":103.69556}}(window,'GeoPostal','RU');

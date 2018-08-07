@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446009"]={"code":"446009","region":"Samarskaya oblast'","city":"Syzran'","latitude":53.1585,"longitude":48.4681}}(window,'GeoPostal','RU');

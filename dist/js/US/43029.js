@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43029"]={"code":"43029","region":"OH","city":"Irwin","latitude":40.1284,"longitude":-83.4587}}(window,'GeoPostal','US');

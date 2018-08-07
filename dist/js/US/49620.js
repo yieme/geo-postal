@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49620"]={"code":"49620","region":"Michigan","city":"Buckley","latitude":44.550101,"longitude":-85.715816}}(window,'GeoPostal','US');

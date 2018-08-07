@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["225700"]={"code":"225700","region":"Jiangsu","city":"Xinghua","latitude":32.93917,"longitude":119.83417}}(window,'GeoPostal','CN');

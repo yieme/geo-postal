@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05144"]={"code":"05144","region":"VT","city":"Chester Depot","latitude":43.28,"longitude":-72.63}}(window,'GeoPostal','US');

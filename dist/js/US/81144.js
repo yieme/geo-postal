@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81144"]={"code":"81144","region":"Colorado","city":"Monte Vista","latitude":37.567916,"longitude":-106.145439}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["474363"]={"code":"474363","region":"Henan","city":"Mashankou","latitude":33.20577,"longitude":112.00261}}(window,'GeoPostal','CN');

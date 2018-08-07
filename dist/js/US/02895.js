@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02895"]={"code":"02895","region":"Rhode Island","city":"Woonsocket","latitude":42.0016,"longitude":-71.5015}}(window,'GeoPostal','US');

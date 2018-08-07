@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16430"]={"code":"16430","region":"PA","city":"North Springfield","latitude":41.9999,"longitude":-80.4258}}(window,'GeoPostal','US');

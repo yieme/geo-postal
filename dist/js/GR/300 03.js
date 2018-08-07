@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300 03"]={"code":"300 03","region":"Dytiki Ellada","city":"Panaitolion","latitude":38.58333,"longitude":21.45}}(window,'GeoPostal','GR');

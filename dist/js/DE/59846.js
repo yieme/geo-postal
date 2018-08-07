@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59846"]={"code":"59846","region":"Nordrhein-Westfalen","city":"Hachen","latitude":51.37725,"longitude":7.9838}}(window,'GeoPostal','DE');

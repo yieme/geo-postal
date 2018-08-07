@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-200"]={"code":"27-200","region":"Swietokrzyskie","city":"Starachowice","latitude":51.0374,"longitude":21.07126}}(window,'GeoPostal','PL');

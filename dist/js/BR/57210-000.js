@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57210-000"]={"code":"57210-000","region":"Alagoas","city":"Piacabucu","latitude":-10.40556,"longitude":-36.43444}}(window,'GeoPostal','BR');

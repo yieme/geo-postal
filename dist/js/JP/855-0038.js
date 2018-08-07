@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["855-0038"]={"code":"855-0038","region":"Nagasaki","city":"Shimabara","latitude":32.767,"longitude":130.333}}(window,'GeoPostal','JP');

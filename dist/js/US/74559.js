@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74559"]={"code":"74559","region":"OK","city":"Panola","latitude":34.9287,"longitude":-95.2133}}(window,'GeoPostal','US');

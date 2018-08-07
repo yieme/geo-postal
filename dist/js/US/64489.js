@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64489"]={"code":"64489","region":"Missouri","city":"Stanberry","latitude":40.21777,"longitude":-94.53829}}(window,'GeoPostal','US');

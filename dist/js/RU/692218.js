@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692218"]={"code":"692218","region":"Primorskiy kray","city":"Spasskoye","latitude":44.61083,"longitude":132.79694}}(window,'GeoPostal','RU');

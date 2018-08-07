@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43100"]={"code":"43100","region":"Matanzas","city":"Jaguey Grande","latitude":22.52694,"longitude":-81.12861}}(window,'GeoPostal','CU');

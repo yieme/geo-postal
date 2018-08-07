@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["115208"]={"code":"115208","region":"Liaoning","city":"Kuangdonggou","latitude":40.17361,"longitude":122.70417}}(window,'GeoPostal','CN');

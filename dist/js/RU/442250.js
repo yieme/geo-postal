@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442250"]={"code":"442250","region":"Penzenskaya oblast'","city":"Belinskiy","latitude":52.96474,"longitude":43.41647}}(window,'GeoPostal','RU');

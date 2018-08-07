@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["511385"]={"code":"511385","region":"Guangdong","city":"Paitan","latitude":23.49071,"longitude":113.77536}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64459"]={"code":"64459","region":"MO","city":"Helena","latitude":39.9295,"longitude":-94.6465}}(window,'GeoPostal','US');

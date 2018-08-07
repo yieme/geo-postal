@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59133"]={"code":"59133","region":"Hauts-de-France","city":"Phalempin","latitude":50.51691,"longitude":3.01584}}(window,'GeoPostal','FR');

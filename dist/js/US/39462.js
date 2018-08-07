@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39462"]={"code":"39462","region":"MS","city":"New Augusta","latitude":31.2026,"longitude":-89.0367}}(window,'GeoPostal','US');

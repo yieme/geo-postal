@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45308"]={"code":"45308","region":"OH","city":"Bradford","latitude":40.1286,"longitude":-84.4293}}(window,'GeoPostal','US');

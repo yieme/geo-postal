@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41548"]={"code":"41548","region":"Kentucky","city":"Mouthcard","latitude":37.374405,"longitude":-82.287834}}(window,'GeoPostal','US');

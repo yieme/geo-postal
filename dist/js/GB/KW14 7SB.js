@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW14 7SB"]={"code":"KW14 7SB","region":"Scotland","city":"Strathy","latitude":58.5621,"longitude":-4.01318}}(window,'GeoPostal','GB');

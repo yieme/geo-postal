@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82410"]={"code":"82410","region":"Lvivska oblast","city":"Stryy","latitude":49.26223,"longitude":23.85609}}(window,'GeoPostal','UA');

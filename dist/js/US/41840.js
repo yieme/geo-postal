@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41840"]={"code":"41840","region":"Kentucky","city":"Neon","latitude":37.19444,"longitude":-82.70583}}(window,'GeoPostal','US');

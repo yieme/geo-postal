@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 4511"]={"code":"AZ 4511","region":"Mingacevir","city":"Mingelchaur","latitude":40.76395,"longitude":47.05953}}(window,'GeoPostal','AZ');

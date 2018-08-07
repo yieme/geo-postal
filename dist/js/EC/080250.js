@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["080250"]={"code":"080250","region":"Esmeraldas","city":"Valdez","latitude":1.24917,"longitude":-78.98306}}(window,'GeoPostal','EC');

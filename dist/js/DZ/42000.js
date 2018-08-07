@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42000"]={"code":"42000","region":"Tipaza","city":"Tipasa","latitude":36.58972,"longitude":2.4475}}(window,'GeoPostal','DZ');

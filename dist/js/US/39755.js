@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39755"]={"code":"39755","region":"MS","city":"Pheba","latitude":33.5961,"longitude":-88.9518}}(window,'GeoPostal','US');

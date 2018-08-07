@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82434"]={"code":"82434","region":"WY","city":"Otto","latitude":44.4056,"longitude":-108.3047}}(window,'GeoPostal','US');

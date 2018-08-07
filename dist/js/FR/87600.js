@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87600"]={"code":"87600","region":"Nouvelle-Aquitaine","city":"Rochechouart","latitude":45.81667,"longitude":0.81667}}(window,'GeoPostal','FR');

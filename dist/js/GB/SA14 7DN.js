@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA14 7DN"]={"code":"SA14 7DN","region":"Wales","city":"Cefneithin","latitude":51.80393,"longitude":-4.09761}}(window,'GeoPostal','GB');

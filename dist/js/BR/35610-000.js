@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35610-000"]={"code":"35610-000","region":"Minas Gerais","city":"Dores do Indaia","latitude":-19.46333,"longitude":-45.60167}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E3L 2X3"]={"code":"E3L 2X3","region":"New Brunswick","city":"Five Corners","latitude":45.19237,"longitude":-67.282625}}(window,'GeoPostal','CA');

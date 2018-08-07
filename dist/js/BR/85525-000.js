@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85525-000"]={"code":"85525-000","region":"Parana","city":"Clevelandia","latitude":-26.39583,"longitude":-52.47083}}(window,'GeoPostal','BR');

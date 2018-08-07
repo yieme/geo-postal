@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44021"]={"code":"44021","region":"Emilia-Romagna","city":"Codigoro","latitude":44.83111,"longitude":12.11417}}(window,'GeoPostal','IT');

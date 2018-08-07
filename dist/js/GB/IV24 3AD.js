@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV24 3AD"]={"code":"IV24 3AD","region":"Scotland","city":"Spinningdale","latitude":57.87786,"longitude":-4.23485}}(window,'GeoPostal','GB');

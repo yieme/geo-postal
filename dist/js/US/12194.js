@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12194"]={"code":"12194","region":"NY","city":"West Fulton","latitude":42.5506,"longitude":-74.4631}}(window,'GeoPostal','US');

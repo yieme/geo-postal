@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17845"]={"code":"17845","region":"PA","city":"Millmont","latitude":40.8803,"longitude":-77.1941}}(window,'GeoPostal','US');

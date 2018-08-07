@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52401"]={"code":"52401","region":"Iowa","city":"Cedar Rapids","latitude":42.00833,"longitude":-91.64407}}(window,'GeoPostal','US');

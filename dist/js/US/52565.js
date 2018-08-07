@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52565"]={"code":"52565","region":"Iowa","city":"Keosauqua","latitude":40.734563,"longitude":-91.9643}}(window,'GeoPostal','US');

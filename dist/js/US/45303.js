@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45303"]={"code":"45303","region":"OH","city":"Ansonia","latitude":40.2151,"longitude":-84.6406}}(window,'GeoPostal','US');

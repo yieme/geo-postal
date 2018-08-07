@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17832"]={"code":"17832","region":"Pennsylvania","city":"Marion Heights","latitude":40.80472,"longitude":-76.46389}}(window,'GeoPostal','US');

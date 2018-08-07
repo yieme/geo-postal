@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55606"]={"code":"55606","region":"Rheinland-Pfalz","city":"Sankt Johannisberg","latitude":49.79825,"longitude":7.49642}}(window,'GeoPostal','DE');

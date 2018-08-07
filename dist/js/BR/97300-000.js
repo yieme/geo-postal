@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97300-000"]={"code":"97300-000","region":"Rio Grande do Sul","city":"Sao Gabriel","latitude":-30.33639,"longitude":-54.32}}(window,'GeoPostal','BR');

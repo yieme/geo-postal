@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25607"]={"code":"25607","region":"WV","city":"Amherstdale","latitude":37.7959,"longitude":-81.7833}}(window,'GeoPostal','US');

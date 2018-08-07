@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["762-0001"]={"code":"762-0001","region":"Kagawa","city":"Sakaide","latitude":34.317,"longitude":133.867}}(window,'GeoPostal','JP');

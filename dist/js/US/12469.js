@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12469"]={"code":"12469","region":"NY","city":"Preston Hollow","latitude":42.4563,"longitude":-74.242}}(window,'GeoPostal','US');

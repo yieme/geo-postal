@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75132"]={"code":"75132","region":"Khersonska oblast","city":"Velyki Kopany","latitude":46.48684,"longitude":32.97498}}(window,'GeoPostal','UA');

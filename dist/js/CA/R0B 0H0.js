@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 0H0"]={"code":"R0B 0H0","region":"Manitoba","city":"Cranberry Portage","latitude":54.585516,"longitude":-101.376533}}(window,'GeoPostal','CA');

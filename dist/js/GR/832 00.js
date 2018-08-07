@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["832 00"]={"code":"832 00","region":"Voreio Aigaio","city":"Neon Karlovasion","latitude":37.79028,"longitude":26.70444}}(window,'GeoPostal','GR');

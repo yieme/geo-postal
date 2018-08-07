@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620 47"]={"code":"620 47","region":"Attiki","city":"Ellinikon","latitude":37.88333,"longitude":23.73333}}(window,'GeoPostal','GR');

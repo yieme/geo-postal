@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66500"]={"code":"66500","region":"Rheinland-Pfalz","city":"Mauschbach","latitude":49.18333,"longitude":7.4}}(window,'GeoPostal','DE');

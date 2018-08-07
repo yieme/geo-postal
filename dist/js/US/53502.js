@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53502"]={"code":"53502","region":"WI","city":"Albany","latitude":42.7155,"longitude":-89.4357}}(window,'GeoPostal','US');

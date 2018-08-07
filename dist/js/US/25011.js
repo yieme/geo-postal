@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25011"]={"code":"25011","region":"WV","city":"Bancroft","latitude":38.5086,"longitude":-81.841}}(window,'GeoPostal','US');

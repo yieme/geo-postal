@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49490"]={"code":"49490","region":"Pays-de-la-Loire","city":"Noyant","latitude":47.51048,"longitude":0.11771}}(window,'GeoPostal','FR');

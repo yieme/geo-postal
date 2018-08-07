@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18237"]={"code":"18237","region":"PA","city":"Mcadoo","latitude":40.8979,"longitude":-75.9971}}(window,'GeoPostal','US');

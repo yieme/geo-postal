@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43811"]={"code":"43811","region":"Catalunya","city":"El Pla de Santa Maria","latitude":41.36336,"longitude":1.29152}}(window,'GeoPostal','ES');

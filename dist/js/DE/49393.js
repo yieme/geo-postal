@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49393"]={"code":"49393","region":"Sachsen-Anhalt","city":"Lohne","latitude":52.78392,"longitude":11.47928}}(window,'GeoPostal','DE');

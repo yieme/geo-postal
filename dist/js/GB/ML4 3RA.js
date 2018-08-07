@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML4 3RA"]={"code":"ML4 3RA","region":"Scotland","city":"Bellshill","latitude":55.81667,"longitude":-4.01667}}(window,'GeoPostal','GB');

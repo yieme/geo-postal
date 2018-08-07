@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4703"]={"code":"4703","region":"Queensland","city":"Taranganba","latitude":-23.15036,"longitude":150.75264}}(window,'GeoPostal','AU');

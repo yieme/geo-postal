@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27700-000"]={"code":"27700-000","region":"Rio de Janeiro","city":"Vassouras","latitude":-22.40389,"longitude":-43.6625}}(window,'GeoPostal','BR');

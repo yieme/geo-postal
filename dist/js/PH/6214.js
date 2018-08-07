@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6214"]={"code":"6214","region":"Negros Oriental","city":"McKinley","latitude":10.0844,"longitude":123.2592}}(window,'GeoPostal','PH');

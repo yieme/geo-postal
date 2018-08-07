@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423239"]={"code":"423239","region":"Tatarstan, Respublika","city":"Bugul'ma","latitude":54.5378,"longitude":52.7985}}(window,'GeoPostal','RU');

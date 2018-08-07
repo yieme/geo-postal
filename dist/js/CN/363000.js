@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363000"]={"code":"363000","region":"Fujian","city":"Zhangzhou","latitude":24.51333,"longitude":117.65556}}(window,'GeoPostal','CN');

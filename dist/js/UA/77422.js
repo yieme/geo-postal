@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77422"]={"code":"77422","region":"Ivano-Frankivska oblast","city":"Yamnytsya","latitude":48.98972,"longitude":24.7075}}(window,'GeoPostal','UA');

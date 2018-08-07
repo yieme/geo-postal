@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00772"]={"code":"00772","region":"Loiza","city":"Loiza","latitude":18.43134,"longitude":-65.88016}}(window,'GeoPostal','PR');

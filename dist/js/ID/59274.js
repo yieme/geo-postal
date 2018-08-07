@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59274"]={"code":"59274","region":"Jawa Tengah","city":"Kebloran","latitude":-6.7065,"longitude":111.6346}}(window,'GeoPostal','ID');

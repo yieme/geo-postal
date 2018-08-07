@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60466"]={"code":"60466","region":"Illinois","city":"Park Forest","latitude":41.46474,"longitude":-87.699}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05875"]={"code":"05875","region":"VT","city":"West Glover","latitude":44.7481,"longitude":-72.1762}}(window,'GeoPostal','US');

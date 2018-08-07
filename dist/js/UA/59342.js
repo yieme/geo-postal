@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59342"]={"code":"59342","region":"Chernivetska oblast","city":"Luzhany","latitude":48.36492,"longitude":25.77173}}(window,'GeoPostal','UA');

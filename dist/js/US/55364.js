@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55364"]={"code":"55364","region":"Minnesota","city":"Mound","latitude":44.93663,"longitude":-93.66607}}(window,'GeoPostal','US');

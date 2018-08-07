@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["468320"]={"code":"468320","region":"Orenburgskaya oblast'","city":"Sharlyk","latitude":52.91667,"longitude":54.75}}(window,'GeoPostal','RU');

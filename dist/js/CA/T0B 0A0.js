@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 0A0"]={"code":"T0B 0A0","region":"Alberta","city":"Alliance","latitude":52.43345,"longitude":-111.78503}}(window,'GeoPostal','CA');

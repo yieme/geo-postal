@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30180"]={"code":"30180","region":"GA","city":"Villa Rica","latitude":33.7173,"longitude":-84.9297}}(window,'GeoPostal','US');

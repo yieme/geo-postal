@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7530"]={"code":"7530","region":"Somogy","city":"Kadarkut","latitude":46.23623,"longitude":17.62014}}(window,'GeoPostal','HU');

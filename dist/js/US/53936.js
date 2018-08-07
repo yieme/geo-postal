@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53936"]={"code":"53936","region":"Wisconsin","city":"Grand Marsh","latitude":43.854713,"longitude":-89.730561}}(window,'GeoPostal','US');

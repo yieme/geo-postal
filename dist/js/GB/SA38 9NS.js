@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA38 9NS"]={"code":"SA38 9NS","region":"Wales","city":"Adpar","latitude":52.04193,"longitude":-4.46886}}(window,'GeoPostal','GB');

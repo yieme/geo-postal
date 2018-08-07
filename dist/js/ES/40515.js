@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40515"]={"code":"40515","region":"Castilla y Leon","city":"Riaza","latitude":41.27826,"longitude":-3.47787}}(window,'GeoPostal','ES');

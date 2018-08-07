@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91000"]={"code":"91000","region":"Sabah","city":"Tawau","latitude":4.2498,"longitude":117.8871}}(window,'GeoPostal','MY');

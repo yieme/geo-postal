@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37621"]={"code":"37621","region":"Tennessee","city":"Bristol","latitude":36.581764,"longitude":-82.206243}}(window,'GeoPostal','US');

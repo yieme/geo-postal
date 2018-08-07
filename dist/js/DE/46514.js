@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46514"]={"code":"46514","region":"Nordrhein-Westfalen","city":"Schermbeck","latitude":51.68333,"longitude":6.86667}}(window,'GeoPostal','DE');

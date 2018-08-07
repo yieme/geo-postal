@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL26 0RW"]={"code":"LL26 0RW","region":"Wales","city":"Capel Garmon","latitude":53.08305,"longitude":-3.76944}}(window,'GeoPostal','GB');

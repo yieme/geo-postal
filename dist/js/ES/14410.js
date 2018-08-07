@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14410"]={"code":"14410","region":"Andalucia","city":"Torrecampo","latitude":38.46667,"longitude":-4.66667}}(window,'GeoPostal','ES');

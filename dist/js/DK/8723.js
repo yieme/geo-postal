@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8723"]={"code":"8723","region":"Midtjylland","city":"Hedensted","latitude":55.77043,"longitude":9.7011}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["321281"]={"code":"321281","region":"Delta","city":"Agbor","latitude":6.25183,"longitude":6.19337}}(window,'GeoPostal','NG');

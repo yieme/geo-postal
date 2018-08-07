@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["420-850"]={"code":"420-850","region":"Gyeonggi-do","city":"Bucheon","latitude":37.49889,"longitude":126.78306}}(window,'GeoPostal','KR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-100"]={"code":"17-100","region":"Podlaskie","city":"Bielsk Podlaski","latitude":52.76512,"longitude":23.18647}}(window,'GeoPostal','PL');

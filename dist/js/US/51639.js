@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51639"]={"code":"51639","region":"Iowa","city":"Farragut","latitude":40.723017,"longitude":-95.477627}}(window,'GeoPostal','US');

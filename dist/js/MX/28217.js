@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28217"]={"code":"28217","region":"Chihuahua","city":"Ciudad Delicias","latitude":28.19013,"longitude":-105.47012}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23667"]={"code":"23667","region":"VA","city":"Hampton","latitude":37.0193,"longitude":-76.3318}}(window,'GeoPostal','US');

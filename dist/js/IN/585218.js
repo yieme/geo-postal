@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["585218"]={"code":"585218","region":"Karnataka","city":"Shahpur","latitude":16.7,"longitude":76.83333}}(window,'GeoPostal','IN');

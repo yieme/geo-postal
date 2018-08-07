@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04017"]={"code":"04017","region":"ME","city":"Chebeague Island","latitude":43.7354,"longitude":-70.1169}}(window,'GeoPostal','US');

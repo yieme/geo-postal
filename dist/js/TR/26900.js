@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26900"]={"code":"26900","region":"Erzincan","city":"Kemah","latitude":39.60167,"longitude":39.03806}}(window,'GeoPostal','TR');

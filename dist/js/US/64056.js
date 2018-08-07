@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64056"]={"code":"64056","region":"Missouri","city":"Independence","latitude":39.115702,"longitude":-94.348569}}(window,'GeoPostal','US');

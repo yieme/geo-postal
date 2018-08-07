@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59870"]={"code":"59870","region":"Hauts-de-France","city":"Vred","latitude":50.39455,"longitude":3.2303}}(window,'GeoPostal','FR');

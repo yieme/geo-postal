@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85027"]={"code":"85027","region":"Basilicata","city":"Rapolla","latitude":40.97572,"longitude":15.67126}}(window,'GeoPostal','IT');

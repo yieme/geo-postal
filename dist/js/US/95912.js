@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95912"]={"code":"95912","region":"California","city":"Arbuckle","latitude":39.03014,"longitude":-122.01705}}(window,'GeoPostal','US');

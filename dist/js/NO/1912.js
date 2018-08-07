@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1912"]={"code":"1912","region":"Akershus","city":"Kirkebygda","latitude":59.76452,"longitude":11.14492}}(window,'GeoPostal','NO');

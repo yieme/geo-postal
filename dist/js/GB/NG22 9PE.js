@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG22 9PE"]={"code":"NG22 9PE","region":"England","city":"Walesby","latitude":53.23333,"longitude":-0.98333}}(window,'GeoPostal','GB');

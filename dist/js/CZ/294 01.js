@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["294 01"]={"code":"294 01","region":"Stredocesky kraj","city":"Bakov nad Jizerou","latitude":50.4823,"longitude":14.94149}}(window,'GeoPostal','CZ');

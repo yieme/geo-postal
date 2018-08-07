@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73754"]={"code":"73754","region":"OK","city":"Lahoma","latitude":36.385,"longitude":-98.0727}}(window,'GeoPostal','US');

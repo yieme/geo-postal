@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP14 4EF"]={"code":"IP14 4EF","region":"England","city":"Old Newton","latitude":52.22349,"longitude":1.0001}}(window,'GeoPostal','GB');

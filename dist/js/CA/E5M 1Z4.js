@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5M 1Z4"]={"code":"E5M 1Z4","region":"New Brunswick","city":"Queenstown","latitude":45.68344,"longitude":-66.11556}}(window,'GeoPostal','CA');

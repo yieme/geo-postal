@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28436"]={"code":"28436","region":"NC","city":"Delco","latitude":34.2838,"longitude":-78.2607}}(window,'GeoPostal','US');

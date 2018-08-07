@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47854"]={"code":"47854","region":"IN","city":"Hillsdale","latitude":39.7712,"longitude":-87.4041}}(window,'GeoPostal','US');

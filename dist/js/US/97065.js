@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97065"]={"code":"97065","region":"Oregon","city":"Wasco","latitude":45.592768,"longitude":-120.698645}}(window,'GeoPostal','US');

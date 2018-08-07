@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO13 0BP"]={"code":"YO13 0BP","region":"England","city":"Broxa","latitude":54.30991,"longitude":-0.54417}}(window,'GeoPostal','GB');

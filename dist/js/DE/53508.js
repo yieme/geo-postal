@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53508"]={"code":"53508","region":"Rheinland-Pfalz","city":"Mayschoss","latitude":50.53333,"longitude":7.01667}}(window,'GeoPostal','DE');

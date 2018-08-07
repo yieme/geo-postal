@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42130"]={"code":"42130","region":"Kentucky","city":"Eighty Eight","latitude":36.923341,"longitude":-85.788181}}(window,'GeoPostal','US');

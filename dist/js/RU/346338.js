@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346338"]={"code":"346338","region":"Rostovskaya oblast'","city":"Donetsk","latitude":48.33372,"longitude":39.94776}}(window,'GeoPostal','RU');

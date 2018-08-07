@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37756"]={"code":"37756","region":"Tennessee","city":"Huntsville","latitude":36.4098,"longitude":-84.49049}}(window,'GeoPostal','US');

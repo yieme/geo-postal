@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262524"]={"code":"262524","region":"Uttarakhand","city":"Lohaghat","latitude":29.40356,"longitude":80.08965}}(window,'GeoPostal','IN');

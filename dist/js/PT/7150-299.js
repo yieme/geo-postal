@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7150-299"]={"code":"7150-299","region":"Evora","city":"Borba","latitude":38.80553,"longitude":-7.45465}}(window,'GeoPostal','PT');

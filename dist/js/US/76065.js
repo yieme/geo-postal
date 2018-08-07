@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76065"]={"code":"76065","region":"Texas","city":"Midlothian","latitude":32.479712,"longitude":-96.980678}}(window,'GeoPostal','US');

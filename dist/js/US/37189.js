@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37189"]={"code":"37189","region":"TN","city":"Whites Creek","latitude":36.2744,"longitude":-86.8292}}(window,'GeoPostal','US');

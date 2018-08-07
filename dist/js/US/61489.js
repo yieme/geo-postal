@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61489"]={"code":"61489","region":"IL","city":"Williamsfield","latitude":40.9277,"longitude":-90.0267}}(window,'GeoPostal','US');

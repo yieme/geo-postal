@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33163"]={"code":"33163","region":"Florida","city":"Ojus","latitude":25.94843,"longitude":-80.1506}}(window,'GeoPostal','US');

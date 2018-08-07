@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21117"]={"code":"21117","region":"Maryland","city":"Owings Mills","latitude":39.41955,"longitude":-76.78025}}(window,'GeoPostal','US');

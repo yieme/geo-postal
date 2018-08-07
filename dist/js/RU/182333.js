@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182333"]={"code":"182333","region":"Pskovskaya oblast'","city":"Opochka","latitude":56.71048,"longitude":28.66174}}(window,'GeoPostal','RU');

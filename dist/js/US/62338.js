@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62338"]={"code":"62338","region":"IL","city":"Fowler","latitude":39.9925,"longitude":-91.2452}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74-500"]={"code":"74-500","region":"Zachodniopomorskie","city":"Chojna","latitude":52.96389,"longitude":14.42797}}(window,'GeoPostal','PL');

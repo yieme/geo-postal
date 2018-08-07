@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98575"]={"code":"98575","region":"WA","city":"Quinault","latitude":47.4603,"longitude":-123.8307}}(window,'GeoPostal','US');

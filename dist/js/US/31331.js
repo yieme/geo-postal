@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31331"]={"code":"31331","region":"GA","city":"Townsend","latitude":31.5673,"longitude":-81.4182}}(window,'GeoPostal','US');

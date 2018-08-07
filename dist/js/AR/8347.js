@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8347"]={"code":"8347","region":"Neuquen","city":"Las Lajas","latitude":-38.52322,"longitude":-70.36744}}(window,'GeoPostal','AR');

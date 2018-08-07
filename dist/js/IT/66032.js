@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66032"]={"code":"66032","region":"Abruzzo","city":"Castelfrentano","latitude":42.19714,"longitude":14.35521}}(window,'GeoPostal','IT');

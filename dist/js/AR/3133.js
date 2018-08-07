@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3133"]={"code":"3133","region":"Entre Rios","city":"Villa Maria Grande","latitude":-31.66565,"longitude":-59.90182}}(window,'GeoPostal','AR');

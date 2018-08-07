@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78151"]={"code":"78151","region":"Texas","city":"Runge","latitude":28.88331,"longitude":-97.71305}}(window,'GeoPostal','US');

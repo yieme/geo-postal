@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9246"]={"code":"9246","region":"Sankt Gallen","city":"Niederburen","latitude":47.46547,"longitude":9.20568}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65702"]={"code":"65702","region":"MO","city":"Macomb","latitude":37.1049,"longitude":-92.4821}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15732"]={"code":"15732","region":"Pennsylvania","city":"Creekside","latitude":40.684515,"longitude":-79.21776}}(window,'GeoPostal','US');

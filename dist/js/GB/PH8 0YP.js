@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH8 0YP"]={"code":"PH8 0YP","region":"Scotland","city":"Birnam","latitude":56.55798,"longitude":-3.576}}(window,'GeoPostal','GB');

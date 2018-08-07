@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87831"]={"code":"87831","region":"NM","city":"San Acacia","latitude":34.2283,"longitude":-106.9049}}(window,'GeoPostal','US');

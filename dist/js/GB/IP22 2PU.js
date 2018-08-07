@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP22 2PU"]={"code":"IP22 2PU","region":"England","city":"Hepworth","latitude":52.33586,"longitude":0.91238}}(window,'GeoPostal','GB');

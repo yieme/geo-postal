@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37190"]={"code":"37190","region":"Tennessee","city":"Woodbury","latitude":35.82757,"longitude":-86.07166}}(window,'GeoPostal','US');

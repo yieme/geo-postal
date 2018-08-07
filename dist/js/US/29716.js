@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29716"]={"code":"29716","region":"South Carolina","city":"Fort Mill","latitude":35.006138,"longitude":-80.943455}}(window,'GeoPostal','US');

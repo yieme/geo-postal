@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["760 01"]={"code":"760 01","region":"Zlinsky kraj","city":"Zlin","latitude":49.21667,"longitude":17.66667}}(window,'GeoPostal','CZ');

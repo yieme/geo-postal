@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17021"]={"code":"17021","region":"Liguria","city":"Alassio","latitude":44.00393,"longitude":8.16713}}(window,'GeoPostal','IT');

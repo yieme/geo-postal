@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60162"]={"code":"60162","region":"Illinois","city":"Hillside","latitude":41.873709,"longitude":-87.898338}}(window,'GeoPostal','US');

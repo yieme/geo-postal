@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33320"]={"code":"33320","region":"Nouvelle-Aquitaine","city":"Le Taillan-Medoc","latitude":44.9052,"longitude":-0.6706}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34797"]={"code":"34797","region":"FL","city":"Yalaha","latitude":28.7444,"longitude":-81.8263}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP7 5JX"]={"code":"IP7 5JX","region":"England","city":"Layham","latitude":52.02691,"longitude":0.96529}}(window,'GeoPostal','GB');

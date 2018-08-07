@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55722"]={"code":"55722","region":"Minnesota","city":"Coleraine","latitude":47.28883,"longitude":-93.42771}}(window,'GeoPostal','US');

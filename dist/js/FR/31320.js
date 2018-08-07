@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31320"]={"code":"31320","region":"Occitanie","city":"Pechabou","latitude":43.50241,"longitude":1.50934}}(window,'GeoPostal','FR');

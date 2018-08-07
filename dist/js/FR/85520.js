@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85520"]={"code":"85520","region":"Pays-de-la-Loire","city":"Jard-sur-Mer","latitude":46.41451,"longitude":-1.5764}}(window,'GeoPostal','FR');

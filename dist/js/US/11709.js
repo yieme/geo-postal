@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11709"]={"code":"11709","region":"NY","city":"Bayville","latitude":40.9074,"longitude":-73.5601}}(window,'GeoPostal','US');

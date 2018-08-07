@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57370"]={"code":"57370","region":"South Dakota","city":"Pukwana","latitude":43.774702,"longitude":-99.172132}}(window,'GeoPostal','US');

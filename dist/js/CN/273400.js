@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273400"]={"code":"273400","region":"Shandong","city":"Feicheng","latitude":35.26056,"longitude":117.9675}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24563"]={"code":"24563","region":"VA","city":"Hurt","latitude":37.0798,"longitude":-79.3}}(window,'GeoPostal','US');

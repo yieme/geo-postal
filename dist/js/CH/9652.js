@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9652"]={"code":"9652","region":"Sankt Gallen","city":"Krummenau","latitude":47.24755,"longitude":9.17054}}(window,'GeoPostal','CH');

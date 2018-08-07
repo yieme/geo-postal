@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68859"]={"code":"68859","region":"Nebraska","city":"North Loup","latitude":41.465863,"longitude":-98.703772}}(window,'GeoPostal','US');

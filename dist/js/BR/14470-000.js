@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14470-000"]={"code":"14470-000","region":"Sao Paulo","city":"Pedregulho","latitude":-20.25694,"longitude":-47.47667}}(window,'GeoPostal','BR');

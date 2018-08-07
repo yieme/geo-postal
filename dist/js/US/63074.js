@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63074"]={"code":"63074","region":"Missouri","city":"Saint Ann","latitude":38.72727,"longitude":-90.38317}}(window,'GeoPostal','US');

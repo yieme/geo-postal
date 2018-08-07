@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66710"]={"code":"66710","region":"Kansas","city":"Altoona","latitude":37.521647,"longitude":-95.661147}}(window,'GeoPostal','US');

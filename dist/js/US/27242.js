@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27242"]={"code":"27242","region":"NC","city":"Eagle Springs","latitude":35.336,"longitude":-79.631}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF31 3WA"]={"code":"CF31 3WA","region":"Wales","city":"Bridgend","latitude":51.50583,"longitude":-3.57722}}(window,'GeoPostal','GB');

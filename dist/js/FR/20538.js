@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20538"]={"code":"20538","region":"Corse","city":"Porto-Vecchio","latitude":41.59101,"longitude":9.27947}}(window,'GeoPostal','FR');

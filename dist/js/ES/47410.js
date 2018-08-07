@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47410"]={"code":"47410","region":"Castilla y Leon","city":"Olmedo","latitude":41.28706,"longitude":-4.68878}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2632"]={"code":"2632","region":"Niederosterreich","city":"Wimpassing im Schwarzatale","latitude":47.70295,"longitude":16.03334}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68719"]={"code":"68719","region":"Nebraska","city":"Bristow","latitude":42.894509,"longitude":-98.602533}}(window,'GeoPostal','US');

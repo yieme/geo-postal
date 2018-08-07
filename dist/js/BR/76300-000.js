@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76300-000"]={"code":"76300-000","region":"Goias","city":"Ceres","latitude":-15.30833,"longitude":-49.59833}}(window,'GeoPostal','BR');

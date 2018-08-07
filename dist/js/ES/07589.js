@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07589"]={"code":"07589","region":"Illes Balears","city":"Capdepera","latitude":39.70263,"longitude":3.43357}}(window,'GeoPostal','ES');

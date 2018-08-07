@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76119"]={"code":"76119","region":"Normandie","city":"Varengeville-sur-Mer","latitude":49.90475,"longitude":0.9948}}(window,'GeoPostal','FR');

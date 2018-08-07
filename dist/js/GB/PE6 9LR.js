@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE6 9LR"]={"code":"PE6 9LR","region":"England","city":"Langtoft","latitude":52.69834,"longitude":-0.3404}}(window,'GeoPostal','GB');

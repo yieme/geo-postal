@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30288"]={"code":"30288","region":"GA","city":"Conley","latitude":33.6369,"longitude":-84.3371}}(window,'GeoPostal','US');

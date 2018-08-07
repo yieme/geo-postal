@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19477"]={"code":"19477","region":"Pennsylvania","city":"Spring House","latitude":40.210833,"longitude":-75.278611}}(window,'GeoPostal','US');

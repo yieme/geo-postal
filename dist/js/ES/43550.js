@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43550"]={"code":"43550","region":"Catalunya","city":"Ulldecona","latitude":40.59734,"longitude":0.44718}}(window,'GeoPostal','ES');

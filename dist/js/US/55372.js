@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55372"]={"code":"55372","region":"Minnesota","city":"Prior Lake","latitude":44.7133,"longitude":-93.42273}}(window,'GeoPostal','US');

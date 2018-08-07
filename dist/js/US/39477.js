@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39477"]={"code":"39477","region":"MS","city":"Sandersville","latitude":31.7909,"longitude":-89.0414}}(window,'GeoPostal','US');

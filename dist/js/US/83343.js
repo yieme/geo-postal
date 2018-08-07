@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83343"]={"code":"83343","region":"Idaho","city":"Rupert","latitude":42.61908,"longitude":-113.67723}}(window,'GeoPostal','US');

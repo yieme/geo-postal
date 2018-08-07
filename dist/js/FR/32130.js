@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32130"]={"code":"32130","region":"Occitanie","city":"Savignac-Mona","latitude":43.49,"longitude":1.0086}}(window,'GeoPostal','FR');

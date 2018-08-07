@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57232"]={"code":"57232","region":"South Dakota","city":"Eden","latitude":45.613446,"longitude":-97.35421}}(window,'GeoPostal','US');

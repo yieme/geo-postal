@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE6 2AZ"]={"code":"DE6 2AZ","region":"England","city":"Ilam","latitude":53.05475,"longitude":-1.79961}}(window,'GeoPostal','GB');

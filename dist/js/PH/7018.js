@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7018"]={"code":"7018","region":"Zamboanga del Sur","city":"Tungawan","latitude":7.50806,"longitude":122.37111}}(window,'GeoPostal','PH');

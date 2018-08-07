@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 0Y1"]={"code":"T0J 0Y1","region":"Alberta","city":"Kirkpatrick","latitude":51.50013,"longitude":-112.83518}}(window,'GeoPostal','CA');

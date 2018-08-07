@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27891"]={"code":"27891","region":"NC","city":"Whitakers","latitude":36.0758,"longitude":-77.7167}}(window,'GeoPostal','US');

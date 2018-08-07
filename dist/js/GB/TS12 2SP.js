@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS12 2SP"]={"code":"TS12 2SP","region":"England","city":"Brotton","latitude":54.56661,"longitude":-0.93929}}(window,'GeoPostal','GB');

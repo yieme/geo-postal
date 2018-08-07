@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["165654"]={"code":"165654","region":"Arkhangel'skaya oblast'","city":"Koryazhma","latitude":61.31433,"longitude":47.16914}}(window,'GeoPostal','RU');

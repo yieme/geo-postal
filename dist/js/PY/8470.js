@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8470"]={"code":"8470","region":"San Pedro","city":"Nueva Germania","latitude":-23.9,"longitude":-56.56667}}(window,'GeoPostal','PY');

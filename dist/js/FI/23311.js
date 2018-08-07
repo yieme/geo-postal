@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23311"]={"code":"23311","region":"Varsinais-Suomi","city":"Taivassalo","latitude":60.56085,"longitude":21.61639}}(window,'GeoPostal','FI');

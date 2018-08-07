@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62083"]={"code":"62083","region":"IL","city":"Rosamond","latitude":39.3743,"longitude":-89.1983}}(window,'GeoPostal','US');

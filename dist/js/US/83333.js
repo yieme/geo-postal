@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83333"]={"code":"83333","region":"Idaho","city":"Hailey","latitude":43.51963,"longitude":-114.31532}}(window,'GeoPostal','US');

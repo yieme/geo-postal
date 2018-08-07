@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["VCT 2913"]={"code":"VCT 2913","region":"Rabat Gozo","city":"Victoria","latitude":36.04444,"longitude":14.23972}}(window,'GeoPostal','MT');

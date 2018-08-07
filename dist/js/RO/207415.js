@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207415"]={"code":"207415","region":"Dolj","city":"Motatei","latitude":44.08333,"longitude":23.2}}(window,'GeoPostal','RO');

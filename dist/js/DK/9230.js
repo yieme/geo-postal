@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9230"]={"code":"9230","region":"Nordjylland","city":"Svenstrup","latitude":56.9723,"longitude":9.84806}}(window,'GeoPostal','DK');

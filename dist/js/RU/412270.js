@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412270"]={"code":"412270","region":"Saratovskaya oblast'","city":"Romanovka","latitude":51.74427,"longitude":42.7527}}(window,'GeoPostal','RU');

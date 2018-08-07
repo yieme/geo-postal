@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456609"]={"code":"456609","region":"Chelyabinskaya oblast'","city":"Kopeysk","latitude":55.131,"longitude":61.6792}}(window,'GeoPostal','RU');

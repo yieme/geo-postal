@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01077"]={"code":"01077","region":"Massachusetts","city":"Southwick","latitude":42.052067,"longitude":-72.77003}}(window,'GeoPostal','US');

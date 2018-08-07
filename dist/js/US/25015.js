@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25015"]={"code":"25015","region":"West Virginia","city":"Belle","latitude":38.235305,"longitude":-81.530528}}(window,'GeoPostal','US');

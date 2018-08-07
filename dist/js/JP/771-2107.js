@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["771-2107"]={"code":"771-2107","region":"Tokushima","city":"Mima","latitude":34.05,"longitude":134.167}}(window,'GeoPostal','JP');

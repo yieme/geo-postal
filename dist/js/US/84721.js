@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84721"]={"code":"84721","region":"Utah","city":"Cedar City","latitude":37.664116,"longitude":-113.194993}}(window,'GeoPostal','US');

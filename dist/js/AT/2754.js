@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2754"]={"code":"2754","region":"Niederosterreich","city":"Waldegg","latitude":47.86852,"longitude":16.05154}}(window,'GeoPostal','AT');

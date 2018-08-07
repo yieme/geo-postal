@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0912"]={"code":"AZ 0912","region":"Barda","city":"Barda","latitude":40.37444,"longitude":47.12667}}(window,'GeoPostal','AZ');

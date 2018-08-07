@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 5RG"]={"code":"DL8 5RG","region":"England","city":"Constable Burton","latitude":54.31315,"longitude":-1.74836}}(window,'GeoPostal','GB');

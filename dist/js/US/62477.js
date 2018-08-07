@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62477"]={"code":"62477","region":"Illinois","city":"West Union","latitude":39.2478,"longitude":-87.6447}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62297"]={"code":"62297","region":"Illinois","city":"Walsh","latitude":38.020477,"longitude":-89.82642}}(window,'GeoPostal','US');

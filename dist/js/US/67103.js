@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67103"]={"code":"67103","region":"KS","city":"Mayfield","latitude":37.2518,"longitude":-97.5416}}(window,'GeoPostal','US');

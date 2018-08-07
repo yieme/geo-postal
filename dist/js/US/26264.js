@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26264"]={"code":"26264","region":"West Virginia","city":"Durbin","latitude":38.649382,"longitude":-79.773996}}(window,'GeoPostal','US');

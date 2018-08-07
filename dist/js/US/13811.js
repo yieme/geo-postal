@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13811"]={"code":"13811","region":"NY","city":"Newark Valley","latitude":42.2281,"longitude":-76.1625}}(window,'GeoPostal','US');

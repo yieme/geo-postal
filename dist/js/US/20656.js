@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20656"]={"code":"20656","region":"Maryland","city":"Loveville","latitude":38.351463,"longitude":-76.678958}}(window,'GeoPostal','US');

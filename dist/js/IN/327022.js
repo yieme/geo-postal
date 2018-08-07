@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327022"]={"code":"327022","region":"Rajasthan","city":"Partapur","latitude":23.6,"longitude":74.16667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6023"]={"code":"6023","region":"Anzoategui","city":"Puerto La Cruz","latitude":10.21667,"longitude":-64.61667}}(window,'GeoPostal','VE');

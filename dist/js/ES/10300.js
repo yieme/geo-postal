@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10300"]={"code":"10300","region":"Extremadura","city":"Navalmoral de la Mata","latitude":39.89158,"longitude":-5.54064}}(window,'GeoPostal','ES');

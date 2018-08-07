@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60443"]={"code":"60443","region":"Illinois","city":"Matteson","latitude":41.50392,"longitude":-87.7131}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15953"]={"code":"15953","region":"PA","city":"Seanor","latitude":40.212,"longitude":-78.8984}}(window,'GeoPostal','US');

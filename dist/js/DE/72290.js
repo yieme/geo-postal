@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72290"]={"code":"72290","region":"Baden-Wurttemberg","city":"Lossburg","latitude":48.4,"longitude":8.45}}(window,'GeoPostal','DE');

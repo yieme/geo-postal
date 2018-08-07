@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01200"]={"code":"01200","region":"Auvergne-Rhone-Alpes","city":"Chatillon-en-Michaille","latitude":46.1432,"longitude":5.7995}}(window,'GeoPostal','FR');

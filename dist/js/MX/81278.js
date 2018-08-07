@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81278"]={"code":"81278","region":"Sinaloa","city":"Culiacan","latitude":24.79944,"longitude":-107.38972}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62567"]={"code":"62567","region":"IL","city":"Stonington","latitude":39.6405,"longitude":-89.1913}}(window,'GeoPostal','US');

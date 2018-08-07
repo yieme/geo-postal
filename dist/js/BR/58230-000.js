@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58230-000"]={"code":"58230-000","region":"Paraiba","city":"Cacimba de Dentro","latitude":-6.64167,"longitude":-35.79}}(window,'GeoPostal','BR');

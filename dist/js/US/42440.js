@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42440"]={"code":"42440","region":"KY","city":"Mortons Gap","latitude":37.249,"longitude":-87.4615}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85340"]={"code":"85340","region":"Pays-de-la-Loire","city":"Olonne-sur-Mer","latitude":46.53524,"longitude":-1.77293}}(window,'GeoPostal','FR');

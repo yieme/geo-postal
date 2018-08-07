@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["280 80"]={"code":"280 80","region":"Ionia Nisia","city":"Sami","latitude":38.25417,"longitude":20.65139}}(window,'GeoPostal','GR');

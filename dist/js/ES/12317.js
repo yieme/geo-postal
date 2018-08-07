@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12317"]={"code":"12317","region":"Valenciana, Comunidad","city":"Herbes","latitude":40.721,"longitude":-0.00441}}(window,'GeoPostal','ES');

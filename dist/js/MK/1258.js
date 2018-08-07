@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1258"]={"code":"1258","region":"Centar Zupa","city":"Centar Zupa","latitude":41.4681,"longitude":20.5589}}(window,'GeoPostal','MK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01021"]={"code":"01021","region":"Massachusetts","city":"Chicopee","latitude":42.1759,"longitude":-72.5731}}(window,'GeoPostal','US');

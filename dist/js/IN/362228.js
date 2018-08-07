@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["362228"]={"code":"362228","region":"Gujarat","city":"Mendarda","latitude":21.31667,"longitude":70.43333}}(window,'GeoPostal','IN');

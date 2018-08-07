@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91016"]={"code":"91016","region":"California","city":"Monrovia","latitude":34.14806,"longitude":-117.99895}}(window,'GeoPostal','US');

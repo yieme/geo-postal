@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["161046"]={"code":"161046","region":"Nei Mongol","city":"Qinggis Han","latitude":47.75,"longitude":122.83333}}(window,'GeoPostal','CN');

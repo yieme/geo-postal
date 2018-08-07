@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141119"]={"code":"141119","region":"Punjab","city":"Maler Kotla","latitude":30.51667,"longitude":75.88333}}(window,'GeoPostal','IN');

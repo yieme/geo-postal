@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02769"]={"code":"02769","region":"Massachusetts","city":"Rehoboth","latitude":41.84038,"longitude":-71.24949}}(window,'GeoPostal','US');

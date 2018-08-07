@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2422"]={"code":"2422","region":"Fejer","city":"Mezofalva","latitude":46.93184,"longitude":18.77177}}(window,'GeoPostal','HU');

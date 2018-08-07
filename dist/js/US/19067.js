@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19067"]={"code":"19067","region":"Pennsylvania","city":"Morrisville","latitude":40.2115,"longitude":-74.78794}}(window,'GeoPostal','US');

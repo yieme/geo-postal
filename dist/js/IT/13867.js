@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13867"]={"code":"13867","region":"Piemonte","city":"Pray","latitude":45.67467,"longitude":8.20432}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42005"]={"code":"42005","region":"Tipaza","city":"El Affroun","latitude":36.4701,"longitude":2.62528}}(window,'GeoPostal','DZ');

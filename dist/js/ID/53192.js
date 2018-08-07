@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53192"]={"code":"53192","region":"Jawa Tengah","city":"Banyumas","latitude":-7.51417,"longitude":109.29417}}(window,'GeoPostal','ID');

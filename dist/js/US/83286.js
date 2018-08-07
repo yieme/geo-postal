@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83286"]={"code":"83286","region":"Idaho","city":"Weston","latitude":42.035618,"longitude":-112.014623}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22001"]={"code":"22001","region":"Sidi Bel Abbes","city":"Sfizef","latitude":35.23464,"longitude":-0.24435}}(window,'GeoPostal','DZ');

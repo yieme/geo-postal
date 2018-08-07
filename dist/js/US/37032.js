@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37032"]={"code":"37032","region":"TN","city":"Cedar Hill","latitude":36.5514,"longitude":-86.9992}}(window,'GeoPostal','US');

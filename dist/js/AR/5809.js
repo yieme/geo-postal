@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5809"]={"code":"5809","region":"Cordoba","city":"General Cabrera","latitude":-32.81313,"longitude":-63.87243}}(window,'GeoPostal','AR');

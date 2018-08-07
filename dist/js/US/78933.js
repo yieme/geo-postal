@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78933"]={"code":"78933","region":"Texas","city":"Cat Spring","latitude":29.84556,"longitude":-96.32583}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49847"]={"code":"49847","region":"MI","city":"Hermansville","latitude":45.7149,"longitude":-87.6227}}(window,'GeoPostal','US');

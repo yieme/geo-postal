@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43842"]={"code":"43842","region":"OH","city":"Trinway","latitude":40.1412,"longitude":-82.0099}}(window,'GeoPostal','US');

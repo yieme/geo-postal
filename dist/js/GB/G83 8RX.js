@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G83 8RX"]={"code":"G83 8RX","region":"Scotland","city":"Gartocharn","latitude":56.04247,"longitude":-4.52529}}(window,'GeoPostal','GB');

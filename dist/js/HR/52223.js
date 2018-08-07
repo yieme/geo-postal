@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52223"]={"code":"52223","region":"Istarska zupanija","city":"Rasa","latitude":45.08028,"longitude":14.07889}}(window,'GeoPostal','HR');

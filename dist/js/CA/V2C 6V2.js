@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2C 6V2"]={"code":"V2C 6V2","region":"British Columbia","city":"Campbell Creek","latitude":50.65668,"longitude":-120.08308}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["653250"]={"code":"653250","region":"Kemerovskaya oblast'","city":"Trudarmeyskiy","latitude":54.132,"longitude":86.4098}}(window,'GeoPostal','RU');

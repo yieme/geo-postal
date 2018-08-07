@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5115"]={"code":"5115","region":"Mahdia","city":"Mellouleche","latitude":35.16617,"longitude":11.03504}}(window,'GeoPostal','TN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34537"]={"code":"34537","region":"Hessen","city":"Bad Wildungen","latitude":51.11963,"longitude":9.12475}}(window,'GeoPostal','DE');

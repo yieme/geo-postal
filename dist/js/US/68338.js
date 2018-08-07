@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68338"]={"code":"68338","region":"NE","city":"Daykin","latitude":40.3192,"longitude":-97.3043}}(window,'GeoPostal','US');

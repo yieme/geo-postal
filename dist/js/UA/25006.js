@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25006"]={"code":"25006","region":"Kirovohradska oblast","city":"Kirovohrad","latitude":48.5132,"longitude":32.2597}}(window,'GeoPostal','UA');

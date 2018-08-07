@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE61 6LX"]={"code":"NE61 6LX","region":"England","city":"Hepscott","latitude":55.14983,"longitude":-1.64771}}(window,'GeoPostal','GB');

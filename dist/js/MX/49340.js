@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49340"]={"code":"49340","region":"Jalisco","city":"Tapalpa","latitude":19.95,"longitude":-103.76667}}(window,'GeoPostal','MX');

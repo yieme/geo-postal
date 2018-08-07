@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89070"]={"code":"89070","region":"NV","city":"Indian Springs","latitude":36.5697,"longitude":-115.6706}}(window,'GeoPostal','US');

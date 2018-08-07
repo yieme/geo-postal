@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36376"]={"code":"36376","region":"AL","city":"Webb","latitude":31.2656,"longitude":-85.2544}}(window,'GeoPostal','US');

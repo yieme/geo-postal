@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44084"]={"code":"44084","region":"OH","city":"Rock Creek","latitude":41.6603,"longitude":-80.8606}}(window,'GeoPostal','US');

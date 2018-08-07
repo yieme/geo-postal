@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25802"]={"code":"25802","region":"West Virginia","city":"Beckley","latitude":37.794402,"longitude":-81.218214}}(window,'GeoPostal','US');

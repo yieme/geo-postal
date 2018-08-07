@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76932"]={"code":"76932","region":"Texas","city":"Big Lake","latitude":31.19154,"longitude":-101.46039}}(window,'GeoPostal','US');

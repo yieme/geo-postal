@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97234"]={"code":"97234","region":"Maluku","city":"Ambon","latitude":-3.69543,"longitude":128.1814}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["401606"]={"code":"401606","region":"Maharashtra","city":"Vada","latitude":19.65,"longitude":73.13333}}(window,'GeoPostal','IN');

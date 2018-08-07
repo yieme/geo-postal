@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04860"]={"code":"04860","region":"Andalucia","city":"Olula del Rio","latitude":37.35,"longitude":-2.3}}(window,'GeoPostal','ES');

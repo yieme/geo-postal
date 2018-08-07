@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04119"]={"code":"04119","region":"Provence-Alpes-Cote d'Azur","city":"Manosque","latitude":43.82883,"longitude":5.78688}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99661"]={"code":"99661","region":"Alaska","city":"Sand Point","latitude":55.33655,"longitude":-160.4988}}(window,'GeoPostal','US');

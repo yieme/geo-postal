@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46051"]={"code":"46051","region":"IN","city":"Lapel","latitude":40.0854,"longitude":-85.844}}(window,'GeoPostal','US');

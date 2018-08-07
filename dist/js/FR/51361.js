@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51361"]={"code":"51361","region":"Grand-Est","city":"Vitry-le-Francois","latitude":48.73333,"longitude":4.58333}}(window,'GeoPostal','FR');

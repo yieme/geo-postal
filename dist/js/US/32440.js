@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32440"]={"code":"32440","region":"Florida","city":"Graceville","latitude":30.95685,"longitude":-85.5166}}(window,'GeoPostal','US');

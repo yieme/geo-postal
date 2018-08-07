@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["223625"]={"code":"223625","region":"Jiangsu","city":"Tangjian","latitude":34.13333,"longitude":119.00417}}(window,'GeoPostal','CN');

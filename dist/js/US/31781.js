@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31781"]={"code":"31781","region":"GA","city":"Poulan","latitude":31.5384,"longitude":-83.7843}}(window,'GeoPostal','US');

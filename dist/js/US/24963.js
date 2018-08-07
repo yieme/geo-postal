@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24963"]={"code":"24963","region":"West Virginia","city":"Peterstown","latitude":37.398159,"longitude":-80.797325}}(window,'GeoPostal','US');

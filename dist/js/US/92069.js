@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92069"]={"code":"92069","region":"California","city":"San Marcos","latitude":33.14337,"longitude":-117.16614}}(window,'GeoPostal','US');

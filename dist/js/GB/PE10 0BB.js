@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE10 0BB"]={"code":"PE10 0BB","region":"England","city":"Twenty","latitude":52.77099,"longitude":-0.29114}}(window,'GeoPostal','GB');

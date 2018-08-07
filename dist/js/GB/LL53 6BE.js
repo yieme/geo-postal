@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL53 6BE"]={"code":"LL53 6BE","region":"Wales","city":"Ederyn","latitude":52.93333,"longitude":-4.56667}}(window,'GeoPostal','GB');

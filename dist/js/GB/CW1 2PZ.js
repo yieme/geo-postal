@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW1 2PZ"]={"code":"CW1 2PZ","region":"Wales","city":"Victoria","latitude":51.75,"longitude":-3.2}}(window,'GeoPostal','GB');

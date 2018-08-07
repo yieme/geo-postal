@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82391"]={"code":"82391","region":"Gavleborgs lan","city":"Kilafors","latitude":61.23333,"longitude":16.56667}}(window,'GeoPostal','SE');

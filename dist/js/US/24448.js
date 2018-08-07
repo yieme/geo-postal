@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24448"]={"code":"24448","region":"VA","city":"Iron Gate","latitude":37.7965,"longitude":-79.786}}(window,'GeoPostal','US');

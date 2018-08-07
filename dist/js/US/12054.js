@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12054"]={"code":"12054","region":"NY","city":"Delmar","latitude":42.6158,"longitude":-73.8373}}(window,'GeoPostal','US');

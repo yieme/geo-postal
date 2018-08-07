@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA6 1RA"]={"code":"LA6 1RA","region":"England","city":"Arkholme","latitude":54.14321,"longitude":-2.64014}}(window,'GeoPostal','GB');

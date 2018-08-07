@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72352"]={"code":"72352","region":"AR","city":"La Grange","latitude":34.7697,"longitude":-90.7552}}(window,'GeoPostal','US');

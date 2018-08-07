@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94521"]={"code":"94521","region":"CA","city":"Concord","latitude":37.9575,"longitude":-121.975}}(window,'GeoPostal','US');

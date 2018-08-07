@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27570-000"]={"code":"27570-000","region":"Rio de Janeiro","city":"Porto Real","latitude":-22.41972,"longitude":-44.29028}}(window,'GeoPostal','BR');

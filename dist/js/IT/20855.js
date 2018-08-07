@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20855"]={"code":"20855","region":"Lombardia","city":"Lesmo","latitude":45.64858,"longitude":9.30735}}(window,'GeoPostal','IT');

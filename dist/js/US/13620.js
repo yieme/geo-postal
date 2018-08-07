@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13620"]={"code":"13620","region":"New York","city":"Castorland","latitude":43.888394,"longitude":-75.457162}}(window,'GeoPostal','US');

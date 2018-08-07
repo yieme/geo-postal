@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65950-000"]={"code":"65950-000","region":"Maranhao","city":"Barra do Corda","latitude":-5.5,"longitude":-45.25}}(window,'GeoPostal','BR');

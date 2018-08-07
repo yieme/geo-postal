@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10570"]={"code":"10570","region":"New York","city":"Pleasantville","latitude":41.13304,"longitude":-73.785461}}(window,'GeoPostal','US');

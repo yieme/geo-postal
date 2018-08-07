@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63440"]={"code":"63440","region":"Nayarit","city":"Tecuala","latitude":22.39861,"longitude":-105.45694}}(window,'GeoPostal','MX');

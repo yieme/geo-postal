@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36749"]={"code":"36749","region":"AL","city":"Jones","latitude":32.5104,"longitude":-86.8138}}(window,'GeoPostal','US');

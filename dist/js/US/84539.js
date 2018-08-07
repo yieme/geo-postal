@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84539"]={"code":"84539","region":"Utah","city":"Sunnyside","latitude":39.546945,"longitude":-110.390331}}(window,'GeoPostal','US');

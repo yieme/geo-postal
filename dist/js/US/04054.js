@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04054"]={"code":"04054","region":"ME","city":"Moody","latitude":43.2763,"longitude":-70.5978}}(window,'GeoPostal','US');

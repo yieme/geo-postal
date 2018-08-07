@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42700"]={"code":"42700","region":"Keski-Suomi","city":"Keuruu","latitude":62.26667,"longitude":24.7}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41210"]={"code":"41210","region":"Andalucia","city":"Guillena","latitude":37.54262,"longitude":-6.05626}}(window,'GeoPostal','ES');

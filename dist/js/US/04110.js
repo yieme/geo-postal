@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04110"]={"code":"04110","region":"ME","city":"Cumberland Foreside","latitude":43.759,"longitude":-70.1993}}(window,'GeoPostal','US');

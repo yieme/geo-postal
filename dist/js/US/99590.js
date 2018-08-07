@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99590"]={"code":"99590","region":"AK","city":"Grayling","latitude":62.9036,"longitude":-160.0647}}(window,'GeoPostal','US');

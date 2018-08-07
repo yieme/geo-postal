@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98555"]={"code":"98555","region":"Washington","city":"Lilliwaup","latitude":47.552179,"longitude":-123.187441}}(window,'GeoPostal','US');

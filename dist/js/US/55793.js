@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55793"]={"code":"55793","region":"MN","city":"Warba","latitude":47.1361,"longitude":-93.2764}}(window,'GeoPostal','US');

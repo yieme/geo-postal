@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547410"]={"code":"547410","region":"Mures","city":"Miercurea Nirajului","latitude":46.53333,"longitude":24.8}}(window,'GeoPostal','RO');

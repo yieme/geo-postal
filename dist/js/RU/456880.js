@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456880"]={"code":"456880","region":"Chelyabinskaya oblast'","city":"Argayash","latitude":55.4888,"longitude":60.8767}}(window,'GeoPostal','RU');

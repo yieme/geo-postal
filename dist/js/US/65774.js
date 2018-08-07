@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65774"]={"code":"65774","region":"Missouri","city":"Weaubleau","latitude":37.89174,"longitude":-93.540169}}(window,'GeoPostal','US');

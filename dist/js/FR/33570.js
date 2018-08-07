@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33570"]={"code":"33570","region":"Nouvelle-Aquitaine","city":"Lussac","latitude":44.95,"longitude":-0.1}}(window,'GeoPostal','FR');

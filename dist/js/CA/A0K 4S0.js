@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 4S0"]={"code":"A0K 4S0","region":"Newfoundland and Labrador","city":"St. Anthony","latitude":51.36678,"longitude":-55.58127}}(window,'GeoPostal','CA');

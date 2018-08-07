@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40390"]={"code":"40390","region":"Nouvelle-Aquitaine","city":"Saint-Andre-de-Seignanx","latitude":43.558,"longitude":-1.35183}}(window,'GeoPostal','FR');

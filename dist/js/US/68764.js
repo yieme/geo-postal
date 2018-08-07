@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68764"]={"code":"68764","region":"Nebraska","city":"Orchard","latitude":42.33611,"longitude":-98.24}}(window,'GeoPostal','US');

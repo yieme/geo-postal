@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56339"]={"code":"56339","region":"Minnesota","city":"Hoffman","latitude":45.830945,"longitude":-95.789542}}(window,'GeoPostal','US');

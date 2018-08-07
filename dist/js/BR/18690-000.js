@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18690-000"]={"code":"18690-000","region":"Sao Paulo","city":"Itatinga","latitude":-23.10167,"longitude":-48.61583}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16619"]={"code":"16619","region":"PA","city":"Blandburg","latitude":40.6847,"longitude":-78.4137}}(window,'GeoPostal','US');

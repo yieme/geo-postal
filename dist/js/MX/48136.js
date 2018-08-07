@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48136"]={"code":"48136","region":"Jalisco","city":"El Salto","latitude":20.33333,"longitude":-104.5}}(window,'GeoPostal','MX');

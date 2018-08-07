@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["168200"]={"code":"168200","region":"Komi, Respublika","city":"Ezhva","latitude":61.81281,"longitude":50.72834}}(window,'GeoPostal','RU');

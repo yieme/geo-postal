@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["341611"]={"code":"341611","region":"Jiangxi","city":"Gubei","latitude":25.33458,"longitude":115.0989}}(window,'GeoPostal','CN');

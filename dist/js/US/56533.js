@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56533"]={"code":"56533","region":"MN","city":"Elizabeth","latitude":46.3803,"longitude":-96.1326}}(window,'GeoPostal','US');

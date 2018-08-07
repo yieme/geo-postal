@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86753"]={"code":"86753","region":"Bayern","city":"Heroldingen","latitude":48.81133,"longitude":10.64292}}(window,'GeoPostal','DE');

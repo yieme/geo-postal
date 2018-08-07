@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA11 7JX"]={"code":"LA11 7JX","region":"England","city":"Flookburgh","latitude":54.17415,"longitude":-2.97214}}(window,'GeoPostal','GB');

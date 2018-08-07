@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24528"]={"code":"24528","region":"Virginia","city":"Brookneal","latitude":37.05341,"longitude":-78.944952}}(window,'GeoPostal','US');

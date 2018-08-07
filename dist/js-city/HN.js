@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["HN"]={'11101':{r:'Francisco Morazan',c:'Tegucigalpa'},'21102':{r:'Cortes',c:'San Pedro Sula'},'':{r:'Santa Barbara',c:'Santa Barbara'},'00000':{r:'Cortes',c:'San Pedro Sula'}};

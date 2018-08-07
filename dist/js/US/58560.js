@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58560"]={"code":"58560","region":"ND","city":"Moffit","latitude":46.6757,"longitude":-100.2975}}(window,'GeoPostal','US');

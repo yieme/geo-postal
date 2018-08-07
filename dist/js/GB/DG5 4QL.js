@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG5 4QL"]={"code":"DG5 4QL","region":"Scotland","city":"Rockcliffe","latitude":54.85,"longitude":-3.8}}(window,'GeoPostal','GB');

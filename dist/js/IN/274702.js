@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["274702"]={"code":"274702","region":"Uttar Pradesh","city":"Haraiya","latitude":26.8,"longitude":82.46667}}(window,'GeoPostal','IN');

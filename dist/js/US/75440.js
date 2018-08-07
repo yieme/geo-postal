@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75440"]={"code":"75440","region":"TX","city":"Emory","latitude":32.875,"longitude":-95.7418}}(window,'GeoPostal','US');

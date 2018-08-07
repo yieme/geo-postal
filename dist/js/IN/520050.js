@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["520050"]={"code":"520050","region":"Andhra Pradesh","city":"Chirala","latitude":15.81667,"longitude":80.35}}(window,'GeoPostal','IN');

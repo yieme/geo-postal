@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21050"]={"code":"21050","region":"Lombardia","city":"Marnate","latitude":45.62577,"longitude":8.91014}}(window,'GeoPostal','IT');

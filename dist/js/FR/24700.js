@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24700"]={"code":"24700","region":"Nouvelle-Aquitaine","city":"Montpon-Menesterol","latitude":45,"longitude":0.16667}}(window,'GeoPostal','FR');

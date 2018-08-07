@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0Y 1A0"]={"code":"P0Y 1A0","region":"Ontario","city":"Ingolf","latitude":49.8,"longitude":-95.11718}}(window,'GeoPostal','CA');

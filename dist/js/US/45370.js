@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45370"]={"code":"45370","region":"Ohio","city":"Spring Valley","latitude":39.601937,"longitude":-84.137521}}(window,'GeoPostal','US');

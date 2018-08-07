@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05201"]={"code":"05201","region":"Vermont","city":"Bennington","latitude":42.87813,"longitude":-73.19677}}(window,'GeoPostal','US');

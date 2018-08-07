@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03270"]={"code":"03270","region":"Auvergne-Rhone-Alpes","city":"Hauterive","latitude":46.09005,"longitude":3.44593}}(window,'GeoPostal','FR');

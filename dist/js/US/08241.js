@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08241"]={"code":"08241","region":"NJ","city":"Port Republic","latitude":39.5272,"longitude":-74.4903}}(window,'GeoPostal','US');

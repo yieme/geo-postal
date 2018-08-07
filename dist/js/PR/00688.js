@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00688"]={"code":"00688","region":"Arecibo","city":"Bajadero","latitude":18.42661,"longitude":-66.68323}}(window,'GeoPostal','PR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23440"]={"code":"23440","region":"Andalucia","city":"Baeza","latitude":37.99384,"longitude":-3.47103}}(window,'GeoPostal','ES');

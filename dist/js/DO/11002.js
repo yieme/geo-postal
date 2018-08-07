@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11002"]={"code":"11002","region":"Santiago Rodriguez","city":"Sabaneta","latitude":19.47793,"longitude":-71.34125}}(window,'GeoPostal','DO');

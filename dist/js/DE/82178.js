@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82178"]={"code":"82178","region":"Bayern","city":"Puchheim","latitude":48.15,"longitude":11.35}}(window,'GeoPostal','DE');

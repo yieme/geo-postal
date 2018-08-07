@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81260"]={"code":"81260","region":"Occitanie","city":"Brassac","latitude":43.62959,"longitude":2.49763}}(window,'GeoPostal','FR');

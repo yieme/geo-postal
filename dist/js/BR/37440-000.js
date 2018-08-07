@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37440-000"]={"code":"37440-000","region":"Minas Gerais","city":"Caxambu","latitude":-21.97722,"longitude":-44.9325}}(window,'GeoPostal','BR');

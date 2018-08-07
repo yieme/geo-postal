@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34956"]={"code":"34956","region":"Florida","city":"Indiantown","latitude":27.033077,"longitude":-80.46901}}(window,'GeoPostal','US');

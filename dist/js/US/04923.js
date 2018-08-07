@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04923"]={"code":"04923","region":"Maine","city":"Cambridge","latitude":45.051904,"longitude":-69.428842}}(window,'GeoPostal','US');

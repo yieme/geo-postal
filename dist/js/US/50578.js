@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50578"]={"code":"50578","region":"Iowa","city":"Ringsted","latitude":43.234461,"longitude":-94.319837}}(window,'GeoPostal','US');

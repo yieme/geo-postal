@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 1S0"]={"code":"J0T 1S0","region":"Quebec","city":"La Minerve","latitude":46.25009,"longitude":-74.93257}}(window,'GeoPostal','CA');

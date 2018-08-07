@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55590"]={"code":"55590","region":"Rheinland-Pfalz","city":"Meisenheim","latitude":49.7072,"longitude":7.66765}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR16 2AH"]={"code":"NR16 2AH","region":"England","city":"Kenninghall","latitude":52.43478,"longitude":0.99662}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6419"]={"code":"6419","region":"Western Australia","city":"Ardath","latitude":-32.03333,"longitude":118.1}}(window,'GeoPostal','AU');

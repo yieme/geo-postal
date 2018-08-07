@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20230"]={"code":"20230","region":"Corse","city":"Linguizzetta","latitude":42.26024,"longitude":9.47333}}(window,'GeoPostal','FR');

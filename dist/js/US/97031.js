@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97031"]={"code":"97031","region":"Oregon","city":"Hood River","latitude":45.7054,"longitude":-121.52146}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49822"]={"code":"49822","region":"MI","city":"Deerton","latitude":46.427,"longitude":-87.0497}}(window,'GeoPostal','US');

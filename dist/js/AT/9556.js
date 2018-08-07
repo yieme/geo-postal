@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9556"]={"code":"9556","region":"Karnten","city":"Frauenstein","latitude":46.81417,"longitude":14.29417}}(window,'GeoPostal','AT');

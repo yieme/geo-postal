@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06600"]={"code":"06600","region":"Extremadura","city":"Cabeza del Buey","latitude":38.72227,"longitude":-5.21946}}(window,'GeoPostal','ES');

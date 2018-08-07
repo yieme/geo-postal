@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90743"]={"code":"90743","region":"CA","city":"Surfside","latitude":33.7264,"longitude":-118.0833}}(window,'GeoPostal','US');

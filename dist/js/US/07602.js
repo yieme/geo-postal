@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07602"]={"code":"07602","region":"New Jersey","city":"Hackensack","latitude":40.8893,"longitude":-74.046117}}(window,'GeoPostal','US');

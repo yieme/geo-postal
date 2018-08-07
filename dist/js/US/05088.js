@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05088"]={"code":"05088","region":"Vermont","city":"Wilder","latitude":43.67285,"longitude":-72.3087}}(window,'GeoPostal','US');

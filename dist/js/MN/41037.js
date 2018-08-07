@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41037"]={"code":"41037","region":"Tov","city":"Bayandelger","latitude":47.72732,"longitude":108.11062}}(window,'GeoPostal','MN');

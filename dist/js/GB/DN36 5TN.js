@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN36 5TN"]={"code":"DN36 5TN","region":"England","city":"North Coates","latitude":53.46667,"longitude":0.03333}}(window,'GeoPostal','GB');

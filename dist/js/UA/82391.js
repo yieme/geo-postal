@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82391"]={"code":"82391","region":"Lvivska oblast","city":"Boryslav","latitude":49.28672,"longitude":23.43238}}(window,'GeoPostal','UA');

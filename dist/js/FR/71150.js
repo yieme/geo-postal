@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71150"]={"code":"71150","region":"Bourgogne-Franche-Comte","city":"Chagny","latitude":46.90953,"longitude":4.7519}}(window,'GeoPostal','FR');

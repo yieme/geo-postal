@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21325"]={"code":"21325","region":"Splitsko-dalmatinska zupanija","city":"Tucepi","latitude":43.27222,"longitude":17.05444}}(window,'GeoPostal','HR');

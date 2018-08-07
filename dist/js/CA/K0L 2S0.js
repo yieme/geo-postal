@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 2S0"]={"code":"K0L 2S0","region":"Ontario","city":"Maynooth","latitude":45.22963,"longitude":-77.94096}}(window,'GeoPostal','CA');

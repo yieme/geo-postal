@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19174"]={"code":"19174","region":"Castilla-La Mancha","city":"Torrejon del Rey","latitude":40.64325,"longitude":-3.33376}}(window,'GeoPostal','ES');

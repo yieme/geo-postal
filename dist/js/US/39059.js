@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39059"]={"code":"39059","region":"Mississippi","city":"Crystal Springs","latitude":31.98441,"longitude":-90.357232}}(window,'GeoPostal','US');

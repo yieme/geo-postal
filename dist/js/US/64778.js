@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64778"]={"code":"64778","region":"MO","city":"Richards","latitude":37.9061,"longitude":-94.5592}}(window,'GeoPostal','US');

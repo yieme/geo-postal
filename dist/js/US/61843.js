@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61843"]={"code":"61843","region":"IL","city":"Fisher","latitude":40.2991,"longitude":-88.356}}(window,'GeoPostal','US');

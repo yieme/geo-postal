@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4470000"]={"code":"4470000","region":"Biobio","city":"Cabrero","latitude":-37.03333,"longitude":-72.4}}(window,'GeoPostal','CL');

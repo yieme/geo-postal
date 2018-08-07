@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150228"]={"code":"150228","region":"Heilongjiang","city":"Yingchengzi","latitude":45.16778,"longitude":126.95588}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT2 0DB"]={"code":"DT2 0DB","region":"England","city":"Maiden Newton","latitude":50.77909,"longitude":-2.57226}}(window,'GeoPostal','GB');

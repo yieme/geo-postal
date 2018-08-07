@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19341"]={"code":"19341","region":"Pennsylvania","city":"Uwchland","latitude":40.038163,"longitude":-75.63629}}(window,'GeoPostal','US');

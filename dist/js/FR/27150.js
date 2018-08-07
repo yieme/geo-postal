@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27150"]={"code":"27150","region":"Normandie","city":"Etrepagny","latitude":49.30623,"longitude":1.6114}}(window,'GeoPostal','FR');

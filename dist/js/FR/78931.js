@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78931"]={"code":"78931","region":"Ile-de-France","city":"Septeuil","latitude":48.89245,"longitude":1.68357}}(window,'GeoPostal','FR');

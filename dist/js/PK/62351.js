@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62351"]={"code":"62351","region":"Punjab","city":"Chishtian Mandi","latitude":29.8,"longitude":72.86667}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-348"]={"code":"44-348","region":"Slaskie","city":"Skrzyszow","latitude":49.94873,"longitude":18.48879}}(window,'GeoPostal','PL');

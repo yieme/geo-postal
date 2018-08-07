@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08792"]={"code":"08792","region":"Catalunya","city":"La Granada","latitude":41.37816,"longitude":1.71902}}(window,'GeoPostal','ES');

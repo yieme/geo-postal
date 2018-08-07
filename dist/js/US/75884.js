@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75884"]={"code":"75884","region":"TX","city":"Tennessee Colony","latitude":31.8354,"longitude":-95.8389}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T8L 0G8"]={"code":"T8L 0G8","region":"Alberta","city":"Scotford","latitude":53.76685,"longitude":-113.08528}}(window,'GeoPostal','CA');

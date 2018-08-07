@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143822"]={"code":"143822","region":"Moskovskaya oblast'","city":"Mikulino","latitude":56.45188,"longitude":35.60685}}(window,'GeoPostal','RU');

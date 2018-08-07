@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51571"]={"code":"51571","region":"IA","city":"Silver City","latitude":41.113,"longitude":-95.6269}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91743"]={"code":"91743","region":"CA","city":"Guasti","latitude":34.065,"longitude":-117.5864}}(window,'GeoPostal','US');

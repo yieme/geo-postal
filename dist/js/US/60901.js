@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60901"]={"code":"60901","region":"Illinois","city":"Kankakee","latitude":41.115498,"longitude":-87.858832}}(window,'GeoPostal','US');

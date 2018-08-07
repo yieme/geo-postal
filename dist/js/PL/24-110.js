@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24-110"]={"code":"24-110","region":"Lubelskie","city":"Pulawy","latitude":51.41655,"longitude":21.96939}}(window,'GeoPostal','PL');

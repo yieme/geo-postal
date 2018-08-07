@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL36 9AH"]={"code":"LL36 9AH","region":"Wales","city":"Tywyn","latitude":52.58578,"longitude":-4.09276}}(window,'GeoPostal','GB');

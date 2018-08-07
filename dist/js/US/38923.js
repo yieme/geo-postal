@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38923"]={"code":"38923","region":"Mississippi","city":"Coila","latitude":33.368681,"longitude":-89.976377}}(window,'GeoPostal','US');

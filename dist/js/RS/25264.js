@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25264"]={"code":"25264","region":"Zapadnobacki okrug","city":"Sonta","latitude":45.59472,"longitude":19.09806}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["493449"]={"code":"493449","region":"Chhattisgarh","city":"Khamharia","latitude":20.98333,"longitude":82.26667}}(window,'GeoPostal','IN');

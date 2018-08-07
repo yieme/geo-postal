@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53179"]={"code":"53179","region":"Wisconsin","city":"Trevor","latitude":42.516405,"longitude":-88.132486}}(window,'GeoPostal','US');

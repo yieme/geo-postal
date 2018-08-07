@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17071"]={"code":"17071","region":"PA","city":"New Germantown","latitude":40.309,"longitude":-77.5697}}(window,'GeoPostal','US');

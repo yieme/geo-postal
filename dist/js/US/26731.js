@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26731"]={"code":"26731","region":"WV","city":"Lahmansville","latitude":39.1642,"longitude":-79.0433}}(window,'GeoPostal','US');

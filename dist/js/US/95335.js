@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95335"]={"code":"95335","region":"California","city":"Long Barn","latitude":38.21298,"longitude":-120.03948}}(window,'GeoPostal','US');

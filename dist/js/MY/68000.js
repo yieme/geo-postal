@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68000"]={"code":"68000","region":"Wilayah Persekutuan Kuala Lumpur","city":"Ampang","latitude":3.1588,"longitude":101.757446}}(window,'GeoPostal','MY');

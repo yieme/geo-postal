@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN18 0PD"]={"code":"BN18 0PD","region":"England","city":"Walberton","latitude":50.84475,"longitude":-0.62013}}(window,'GeoPostal','GB');

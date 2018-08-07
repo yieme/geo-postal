@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45687"]={"code":"45687","region":"OH","city":"Wakefield","latitude":38.9703,"longitude":-83.0199}}(window,'GeoPostal','US');

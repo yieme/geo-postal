@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756025"]={"code":"756025","region":"Odisha","city":"Balasore","latitude":21.49417,"longitude":86.93167}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G5H 3Z4"]={"code":"G5H 3Z4","region":"Quebec","city":"Mont-Joli","latitude":48.587816,"longitude":-68.191043}}(window,'GeoPostal','CA');

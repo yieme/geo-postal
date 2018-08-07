@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38313"]={"code":"38313","region":"TN","city":"Beech Bluff","latitude":35.5922,"longitude":-88.6396}}(window,'GeoPostal','US');

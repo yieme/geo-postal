@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01469"]={"code":"01469","region":"Massachusetts","city":"Townsend","latitude":42.656427,"longitude":-71.693109}}(window,'GeoPostal','US');

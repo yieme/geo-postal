@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22013"]={"code":"22013","region":"Lombardia","city":"Domaso","latitude":46.15289,"longitude":9.33344}}(window,'GeoPostal','IT');

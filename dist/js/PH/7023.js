@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7023"]={"code":"7023","region":"Zamboanga del Sur","city":"Molave","latitude":8.0844,"longitude":123.491}}(window,'GeoPostal','PH');

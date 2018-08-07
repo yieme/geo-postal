@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79077"]={"code":"79077","region":"TX","city":"Sam Norwood","latitude":35.0523,"longitude":-100.2807}}(window,'GeoPostal','US');

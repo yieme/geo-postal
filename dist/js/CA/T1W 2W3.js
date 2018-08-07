@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1W 2W3"]={"code":"T1W 2W3","region":"Alberta","city":"Kovach","latitude":50.93336,"longitude":-115.20203}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["710"]={"code":"710","region":"Nordoyar","city":"Klaksvik","latitude":62.22655,"longitude":-6.58901}}(window,'GeoPostal','FO');

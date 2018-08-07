@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50119"]={"code":"50119","region":"IA","city":"Harvey","latitude":41.303,"longitude":-92.9318}}(window,'GeoPostal','US');

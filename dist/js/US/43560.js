@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43560"]={"code":"43560","region":"Ohio","city":"Sylvania","latitude":41.71894,"longitude":-83.71299}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9A 0A1"]={"code":"T9A 0A1","region":"Alberta","city":"Wetaskiwin","latitude":52.96683,"longitude":-113.36869}}(window,'GeoPostal','CA');

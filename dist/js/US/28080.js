@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28080"]={"code":"28080","region":"NC","city":"Iron Station","latitude":35.4657,"longitude":-81.107}}(window,'GeoPostal','US');

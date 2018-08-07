@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55021"]={"code":"55021","region":"Minnesota","city":"Faribault","latitude":44.29496,"longitude":-93.26883}}(window,'GeoPostal','US');

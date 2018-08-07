@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59379"]={"code":"59379","region":"Brandenburg","city":"Bork","latitude":53.02619,"longitude":12.42894}}(window,'GeoPostal','DE');

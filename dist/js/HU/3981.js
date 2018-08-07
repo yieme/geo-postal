@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3981"]={"code":"3981","region":"Borsod-Abauj-Zemplen","city":"Satoraljaujhely","latitude":48.4,"longitude":21.66667}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05776"]={"code":"05776","region":"VT","city":"West Rupert","latitude":43.2636,"longitude":-73.1905}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64498"]={"code":"64498","region":"MO","city":"Westboro","latitude":40.5357,"longitude":-95.3134}}(window,'GeoPostal','US');

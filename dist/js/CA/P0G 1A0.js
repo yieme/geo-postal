@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0G 1A0"]={"code":"P0G 1A0","region":"Ontario","city":"Britt","latitude":45.77423,"longitude":-80.55918}}(window,'GeoPostal','CA');

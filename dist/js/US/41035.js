@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41035"]={"code":"41035","region":"KY","city":"Dry Ridge","latitude":38.7049,"longitude":-84.6237}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59550"]={"code":"59550","region":"Michoacan de Ocampo","city":"Villamar","latitude":20.01667,"longitude":-102.6}}(window,'GeoPostal','MX');

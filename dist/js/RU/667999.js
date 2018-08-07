@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["667999"]={"code":"667999","region":"Tyva, Respublika","city":"Kyzyl","latitude":51.7,"longitude":94.45}}(window,'GeoPostal','RU');

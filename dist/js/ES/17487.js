@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17487"]={"code":"17487","region":"Catalunya","city":"Empuriabrava","latitude":42.24691,"longitude":3.12059}}(window,'GeoPostal','ES');

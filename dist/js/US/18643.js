@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18643"]={"code":"18643","region":"Pennsylvania","city":"Exeter","latitude":41.329052,"longitude":-75.813983}}(window,'GeoPostal','US');

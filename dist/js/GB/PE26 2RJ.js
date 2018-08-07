@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE26 2RJ"]={"code":"PE26 2RJ","region":"England","city":"Ramsey Heights","latitude":52.45209,"longitude":-0.15801}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9330"]={"code":"9330","region":"Karnten","city":"Althofen","latitude":46.87298,"longitude":14.47449}}(window,'GeoPostal','AT');

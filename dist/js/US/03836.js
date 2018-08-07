@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03836"]={"code":"03836","region":"NH","city":"Freedom","latitude":43.8172,"longitude":-71.0628}}(window,'GeoPostal','US');

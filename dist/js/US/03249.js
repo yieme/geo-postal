@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03249"]={"code":"03249","region":"New Hampshire","city":"Gilford","latitude":43.5518,"longitude":-71.3905}}(window,'GeoPostal','US');

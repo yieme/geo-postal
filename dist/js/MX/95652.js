@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95652"]={"code":"95652","region":"Veracruz de Ignacio de la Llave","city":"La Isla","latitude":18.6,"longitude":-96.15}}(window,'GeoPostal','MX');

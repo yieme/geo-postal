@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72028"]={"code":"72028","region":"Puglia","city":"Torre Santa Susanna","latitude":40.46563,"longitude":17.73561}}(window,'GeoPostal','IT');

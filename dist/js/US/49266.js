@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49266"]={"code":"49266","region":"Michigan","city":"Osseo","latitude":41.86278,"longitude":-84.54417}}(window,'GeoPostal','US');

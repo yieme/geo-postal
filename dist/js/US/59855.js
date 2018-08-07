@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59855"]={"code":"59855","region":"Montana","city":"Pablo","latitude":47.617862,"longitude":-114.127496}}(window,'GeoPostal','US');

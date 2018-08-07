@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["TC"]={id:'TC',country:'Turks and Caicos Islands', postal:{'TKCA 1ZZ':{code:'TKCA 1ZZ',region:'Turks and Caicos Islands',city:'Cockburn Town',latitude:21.46122,longitude:-71.14188}}};

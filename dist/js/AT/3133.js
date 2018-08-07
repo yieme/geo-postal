@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3133"]={"code":"3133","region":"Niederosterreich","city":"Traismauer","latitude":48.35,"longitude":15.73333}}(window,'GeoPostal','AT');

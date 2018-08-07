@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["654102"]={"code":"654102","region":"Kemerovskaya oblast'","city":"Listvyagi","latitude":53.6772,"longitude":86.951}}(window,'GeoPostal','RU');

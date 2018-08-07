@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38913"]={"code":"38913","region":"Auvergne-Rhone-Alpes","city":"Veurey-Voroize","latitude":45.27307,"longitude":5.61319}}(window,'GeoPostal','FR');

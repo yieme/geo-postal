@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64436"]={"code":"64436","region":"MO","city":"Cosby","latitude":39.8555,"longitude":-94.6977}}(window,'GeoPostal','US');

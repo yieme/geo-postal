@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-5318"]={"code":"MD-5318","region":"Cahul","city":"Giurgiulesti","latitude":45.48167,"longitude":28.19722}}(window,'GeoPostal','MD');

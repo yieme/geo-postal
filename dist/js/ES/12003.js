@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12003"]={"code":"12003","region":"Valenciana, Comunidad","city":"Cabanes","latitude":40.156,"longitude":0.04325}}(window,'GeoPostal','ES');

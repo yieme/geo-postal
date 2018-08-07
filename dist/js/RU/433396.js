@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433396"]={"code":"433396","region":"Ul'yanovskaya oblast'","city":"Krasnyy Gulyay","latitude":54.02821,"longitude":48.33327}}(window,'GeoPostal','RU');

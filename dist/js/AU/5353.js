@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5353"]={"code":"5353","region":"South Australia","city":"Angaston","latitude":-34.50129,"longitude":139.04625}}(window,'GeoPostal','AU');

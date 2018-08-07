@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["022361"]={"code":"022361","region":"Nei Mongol","city":"Genhe","latitude":50.78333,"longitude":121.51667}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4455"]={"code":"4455","region":"Queensland","city":"Roma","latitude":-26.56741,"longitude":148.78751}}(window,'GeoPostal','AU');

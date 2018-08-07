@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG7 2PP"]={"code":"DG7 2PP","region":"Scotland","city":"Laurieston","latitude":54.96667,"longitude":-4.05}}(window,'GeoPostal','GB');

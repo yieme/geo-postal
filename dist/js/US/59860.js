@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59860"]={"code":"59860","region":"Montana","city":"Polson","latitude":47.69355,"longitude":-114.16317}}(window,'GeoPostal','US');

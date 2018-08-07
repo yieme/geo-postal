@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71409"]={"code":"71409","region":"LA","city":"Boyce","latitude":31.3216,"longitude":-92.6867}}(window,'GeoPostal','US');

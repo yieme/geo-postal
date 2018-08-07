@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43101"]={"code":"43101","region":"OH","city":"Adelphi","latitude":39.4667,"longitude":-82.7471}}(window,'GeoPostal','US');

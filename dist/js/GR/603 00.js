@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["603 00"]={"code":"603 00","region":"Kentriki Makedonia","city":"Kleidion","latitude":40.56573,"longitude":22.58998}}(window,'GeoPostal','GR');

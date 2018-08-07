@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17729"]={"code":"17729","region":"PA","city":"Cross Fork","latitude":41.4737,"longitude":-77.8095}}(window,'GeoPostal','US');

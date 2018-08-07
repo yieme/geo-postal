@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44697"]={"code":"44697","region":"OH","city":"Zoar","latitude":40.6142,"longitude":-81.4223}}(window,'GeoPostal','US');

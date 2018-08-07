@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86931"]={"code":"86931","region":"Tabasco","city":"Miguel Hidalgo","latitude":17.26667,"longitude":-91.15}}(window,'GeoPostal','MX');

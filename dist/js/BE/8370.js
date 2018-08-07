@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8370"]={"code":"8370","region":"West-Vlaanderen","city":"Blankenberge","latitude":51.31306,"longitude":3.13227}}(window,'GeoPostal','BE');

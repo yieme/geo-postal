@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV20 1SU"]={"code":"IV20 1SU","region":"Scotland","city":"Hill of Fearn","latitude":57.77497,"longitude":-3.96447}}(window,'GeoPostal','GB');

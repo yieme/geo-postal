@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J7V 7X4"]={"code":"J7V 7X4","region":"Quebec","city":"L'Ile-Perrot","latitude":45.389926,"longitude":-73.964529}}(window,'GeoPostal','CA');

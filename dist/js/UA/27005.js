@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27005"]={"code":"27005","region":"Kirovohradska oblast","city":"Pomichna","latitude":48.24222,"longitude":31.41583}}(window,'GeoPostal','UA');

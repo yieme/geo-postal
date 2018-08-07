@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75059"]={"code":"75059","region":"Baden-Wurttemberg","city":"Zaisenhausen","latitude":49.10667,"longitude":8.81278}}(window,'GeoPostal','DE');

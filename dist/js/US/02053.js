@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02053"]={"code":"02053","region":"Massachusetts","city":"Medway","latitude":42.144838,"longitude":-71.409196}}(window,'GeoPostal','US');

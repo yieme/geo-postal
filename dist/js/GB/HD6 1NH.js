@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HD6 1NH"]={"code":"HD6 1NH","region":"England","city":"Brighouse","latitude":53.70322,"longitude":-1.78428}}(window,'GeoPostal','GB');

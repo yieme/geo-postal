@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78577"]={"code":"78577","region":"Texas","city":"Pharr","latitude":26.1948,"longitude":-98.18362}}(window,'GeoPostal','US');

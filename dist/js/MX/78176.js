@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78176"]={"code":"78176","region":"San Luis Potosi","city":"Matehuala","latitude":23.65,"longitude":-100.65}}(window,'GeoPostal','MX');

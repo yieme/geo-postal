@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3060"]={"code":"3060","region":"Santa Fe","city":"Tostado","latitude":-29.23202,"longitude":-61.76917}}(window,'GeoPostal','AR');

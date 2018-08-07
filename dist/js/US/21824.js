@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21824"]={"code":"21824","region":"Maryland","city":"Ewell","latitude":37.98222,"longitude":-76.04226}}(window,'GeoPostal','US');

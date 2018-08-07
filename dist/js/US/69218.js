@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69218"]={"code":"69218","region":"Nebraska","city":"Merriman","latitude":42.92159,"longitude":-101.70665}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89284"]={"code":"89284","region":"Bayern","city":"Pfaffenhofen an der Roth","latitude":48.35454,"longitude":10.16184}}(window,'GeoPostal','DE');

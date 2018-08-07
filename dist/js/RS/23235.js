@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23235"]={"code":"23235","region":"Srednjebanatski okrug","city":"Hetin","latitude":45.66139,"longitude":20.79139}}(window,'GeoPostal','RS');

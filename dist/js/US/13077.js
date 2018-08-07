@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13077"]={"code":"13077","region":"NY","city":"Homer","latitude":42.6726,"longitude":-76.1878}}(window,'GeoPostal','US');

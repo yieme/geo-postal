@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39119"]={"code":"39119","region":"Mississippi","city":"Mount Olive","latitude":31.718686,"longitude":-89.68006}}(window,'GeoPostal','US');

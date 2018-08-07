@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46701"]={"code":"46701","region":"IN","city":"Albion","latitude":41.3482,"longitude":-85.4142}}(window,'GeoPostal','US');

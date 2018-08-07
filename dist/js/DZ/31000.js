@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31000"]={"code":"31000","region":"Oran","city":"Oran","latitude":35.69111,"longitude":-0.64167}}(window,'GeoPostal','DZ');

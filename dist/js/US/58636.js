@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58636"]={"code":"58636","region":"North Dakota","city":"Halliday","latitude":47.35333,"longitude":-102.33667}}(window,'GeoPostal','US');

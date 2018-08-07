@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58366"]={"code":"58366","region":"North Dakota","city":"Rolette","latitude":48.6543,"longitude":-99.8901}}(window,'GeoPostal','US');

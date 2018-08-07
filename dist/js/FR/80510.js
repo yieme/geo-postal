@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80510"]={"code":"80510","region":"Hauts-de-France","city":"Longpre-les-Corps-Saints","latitude":50.01239,"longitude":1.99287}}(window,'GeoPostal','FR');

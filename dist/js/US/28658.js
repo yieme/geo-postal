@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28658"]={"code":"28658","region":"North Carolina","city":"Newton","latitude":35.660602,"longitude":-81.232891}}(window,'GeoPostal','US');

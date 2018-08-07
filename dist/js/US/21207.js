@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21207"]={"code":"21207","region":"Maryland","city":"Woodlawn","latitude":38.94956,"longitude":-76.89136}}(window,'GeoPostal','US');

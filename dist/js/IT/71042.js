@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71042"]={"code":"71042","region":"Puglia","city":"Cerignola","latitude":41.26403,"longitude":15.90046}}(window,'GeoPostal','IT');

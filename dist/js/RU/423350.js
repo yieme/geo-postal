@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423350"]={"code":"423350","region":"Tatarstan, Respublika","city":"Sarmanovo","latitude":55.25528,"longitude":52.58907}}(window,'GeoPostal','RU');

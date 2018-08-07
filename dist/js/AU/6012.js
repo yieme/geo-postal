@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6012"]={"code":"6012","region":"Western Australia","city":"Mosman Park","latitude":-32,"longitude":115.75}}(window,'GeoPostal','AU');

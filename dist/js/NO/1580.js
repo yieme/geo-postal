@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1580"]={"code":"1580","region":"Ostfold","city":"Rygge","latitude":59.38173,"longitude":10.75142}}(window,'GeoPostal','NO');

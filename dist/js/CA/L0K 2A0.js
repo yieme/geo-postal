@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0K 2A0"]={"code":"L0K 2A0","region":"Ontario","city":"Victoria Harbour","latitude":44.73571,"longitude":-79.76965}}(window,'GeoPostal','CA');

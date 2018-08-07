@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24640"]={"code":"24640","region":"Schleswig-Holstein","city":"Hasenmoor","latitude":53.9,"longitude":9.98333}}(window,'GeoPostal','DE');

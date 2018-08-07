@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76028"]={"code":"76028","region":"Texas","city":"Burleson","latitude":32.54208,"longitude":-97.32085}}(window,'GeoPostal','US');

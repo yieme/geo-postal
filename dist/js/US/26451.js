@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26451"]={"code":"26451","region":"WV","city":"West Milford","latitude":39.1996,"longitude":-80.4026}}(window,'GeoPostal','US');

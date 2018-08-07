@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78391"]={"code":"78391","region":"Texas","city":"Tynan","latitude":28.174397,"longitude":-97.750927}}(window,'GeoPostal','US');

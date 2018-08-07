@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66012"]={"code":"66012","region":"Odeska oblast","city":"Zagnitkiv","latitude":48.04878,"longitude":28.89234}}(window,'GeoPostal','UA');

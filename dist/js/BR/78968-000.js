@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78968-000"]={"code":"78968-000","region":"Rondonia","city":"Presidente Medici","latitude":-11.17528,"longitude":-61.90139}}(window,'GeoPostal','BR');

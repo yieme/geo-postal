@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35074"]={"code":"35074","region":"AL","city":"Green Pond","latitude":33.2251,"longitude":-87.1264}}(window,'GeoPostal','US');

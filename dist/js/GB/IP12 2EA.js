@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP12 2EA"]={"code":"IP12 2EA","region":"England","city":"Blaxhall","latitude":52.16104,"longitude":1.4619}}(window,'GeoPostal','GB');

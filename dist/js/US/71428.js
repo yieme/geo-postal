@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71428"]={"code":"71428","region":"LA","city":"Flora","latitude":31.6124,"longitude":-93.098}}(window,'GeoPostal','US');

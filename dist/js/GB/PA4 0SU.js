@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA4 0SU"]={"code":"PA4 0SU","region":"Scotland","city":"Renfrew","latitude":55.87197,"longitude":-4.39253}}(window,'GeoPostal','GB');

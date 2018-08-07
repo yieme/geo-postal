@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0P 1N0"]={"code":"J0P 1N0","region":"Quebec","city":"Pointe-Fortune","latitude":45.56678,"longitude":-74.38254}}(window,'GeoPostal','CA');

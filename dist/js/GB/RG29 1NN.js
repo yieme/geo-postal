@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG29 1NN"]={"code":"RG29 1NN","region":"England","city":"Odiham","latitude":51.25407,"longitude":-0.93933}}(window,'GeoPostal','GB');

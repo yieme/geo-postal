@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS21 7SN"]={"code":"BS21 7SN","region":"England","city":"Clevedon","latitude":51.44057,"longitude":-2.85745}}(window,'GeoPostal','GB');

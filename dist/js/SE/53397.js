@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53397"]={"code":"53397","region":"Vastra Gotalands lan","city":"Goetene","latitude":58.52824,"longitude":13.49458}}(window,'GeoPostal','SE');

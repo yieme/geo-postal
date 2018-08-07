@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5092"]={"code":"5092","region":"South Australia","city":"Modbury","latitude":-34.83333,"longitude":138.68333}}(window,'GeoPostal','AU');

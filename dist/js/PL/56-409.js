@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56-409"]={"code":"56-409","region":"Dolnoslaskie","city":"Olesnica","latitude":51.21338,"longitude":17.38986}}(window,'GeoPostal','PL');

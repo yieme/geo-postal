@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45827"]={"code":"45827","region":"OH","city":"Cloverdale","latitude":41.0379,"longitude":-84.2938}}(window,'GeoPostal','US');

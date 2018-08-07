@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68400"]={"code":"68400","region":"Grand-Est","city":"Riedisheim","latitude":47.74757,"longitude":7.36665}}(window,'GeoPostal','FR');

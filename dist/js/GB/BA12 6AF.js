@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 6AF"]={"code":"BA12 6AF","region":"England","city":"West Knoyle","latitude":51.08782,"longitude":-2.20762}}(window,'GeoPostal','GB');

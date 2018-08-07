@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31510"]={"code":"31510","region":"Georgia","city":"Alma","latitude":31.53937,"longitude":-82.46236}}(window,'GeoPostal','US');

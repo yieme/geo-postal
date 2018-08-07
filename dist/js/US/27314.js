@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27314"]={"code":"27314","region":"NC","city":"Prospect Hill","latitude":36.2932,"longitude":-79.2156}}(window,'GeoPostal','US');

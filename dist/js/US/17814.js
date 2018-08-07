@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17814"]={"code":"17814","region":"Pennsylvania","city":"Benton","latitude":41.2347,"longitude":-76.34742}}(window,'GeoPostal','US');

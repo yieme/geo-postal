@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34620"]={"code":"34620","region":"Pirkanmaa","city":"Ruovesi","latitude":61.98575,"longitude":24.05714}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43618"]={"code":"43618","region":"OH","city":"Oregon","latitude":41.67,"longitude":-83.39}}(window,'GeoPostal','US');

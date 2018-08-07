@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 2S0"]={"code":"T0K 2S0","region":"Alberta","city":"Raymond","latitude":49.44998,"longitude":-112.65185}}(window,'GeoPostal','CA');

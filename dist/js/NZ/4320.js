@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4320"]={"code":"4320","region":"Taranaki","city":"Waitara","latitude":-38.925,"longitude":174.25}}(window,'GeoPostal','NZ');

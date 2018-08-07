@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32175"]={"code":"32175","region":"FL","city":"Ormond Beach","latitude":29.2858,"longitude":-81.0559}}(window,'GeoPostal','US');

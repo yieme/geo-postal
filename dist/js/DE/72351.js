@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72351"]={"code":"72351","region":"Baden-Wurttemberg","city":"Geislingen","latitude":48.28768,"longitude":8.81241}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17003"]={"code":"17003","region":"Pennsylvania","city":"Annville","latitude":40.33128,"longitude":-76.54806}}(window,'GeoPostal','US');

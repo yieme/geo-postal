@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40003"]={"code":"40003","region":"KY","city":"Bagdad","latitude":38.2608,"longitude":-85.0651}}(window,'GeoPostal','US');

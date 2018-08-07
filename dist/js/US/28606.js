@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28606"]={"code":"28606","region":"NC","city":"Boomer","latitude":36.0552,"longitude":-81.3137}}(window,'GeoPostal','US');

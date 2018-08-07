@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61760"]={"code":"61760","region":"Michoacan de Ocampo","city":"Nueva Italia de Ruiz","latitude":19.01667,"longitude":-102.1}}(window,'GeoPostal','MX');

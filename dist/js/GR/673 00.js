@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673 00"]={"code":"673 00","region":"Anatoliki Makedonia kai Thraki","city":"Pakhni","latitude":41.3,"longitude":24.9}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152300"]={"code":"152300","region":"Yaroslavskaya oblast'","city":"Tutayev","latitude":57.88529,"longitude":39.5406}}(window,'GeoPostal','RU');

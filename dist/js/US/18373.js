@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18373"]={"code":"18373","region":"Pennsylvania","city":"Unity House","latitude":41.14616,"longitude":-75.00835}}(window,'GeoPostal','US');

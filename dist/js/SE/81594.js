@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81594"]={"code":"81594","region":"Uppsala lan","city":"Tierp","latitude":60.34269,"longitude":17.51812}}(window,'GeoPostal','SE');

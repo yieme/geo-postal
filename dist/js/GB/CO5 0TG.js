@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO5 0TG"]={"code":"CO5 0TG","region":"England","city":"Tiptree","latitude":51.81259,"longitude":0.74887}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49635"]={"code":"49635","region":"Michigan","city":"Frankfort","latitude":44.63361,"longitude":-86.23454}}(window,'GeoPostal','US');

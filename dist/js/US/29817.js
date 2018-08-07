@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29817"]={"code":"29817","region":"South Carolina","city":"Blackville","latitude":33.35793,"longitude":-81.27066}}(window,'GeoPostal','US');

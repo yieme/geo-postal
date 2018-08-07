@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14012"]={"code":"14012","region":"NY","city":"Barker","latitude":43.3368,"longitude":-78.542}}(window,'GeoPostal','US');

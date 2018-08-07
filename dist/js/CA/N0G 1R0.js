@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 1R0"]={"code":"N0G 1R0","region":"Ontario","city":"Durham","latitude":44.16679,"longitude":-80.81642}}(window,'GeoPostal','CA');

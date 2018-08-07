@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["664 01"]={"code":"664 01","region":"Jihomoravsky kraj","city":"Bilovice nad Svitavou","latitude":49.24708,"longitude":16.67247}}(window,'GeoPostal','CZ');

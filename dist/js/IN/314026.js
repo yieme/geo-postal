@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["314026"]={"code":"314026","region":"Rajasthan","city":"Galiakot","latitude":23.51667,"longitude":74}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68428"]={"code":"68428","region":"NE","city":"Raymond","latitude":40.9342,"longitude":-96.7866}}(window,'GeoPostal','US');

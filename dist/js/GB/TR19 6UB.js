@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR19 6UB"]={"code":"TR19 6UB","region":"England","city":"Paul","latitude":50.09022,"longitude":-5.54683}}(window,'GeoPostal','GB');

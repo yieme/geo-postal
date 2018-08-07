@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48615"]={"code":"48615","region":"MI","city":"Breckenridge","latitude":43.3935,"longitude":-84.5023}}(window,'GeoPostal','US');

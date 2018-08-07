@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20710"]={"code":"20710","region":"Maryland","city":"Bladensburg","latitude":38.941415,"longitude":-76.929156}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04740"]={"code":"04740","region":"Andalucia","city":"Roquetas de Mar","latitude":36.76419,"longitude":-2.61475}}(window,'GeoPostal','ES');

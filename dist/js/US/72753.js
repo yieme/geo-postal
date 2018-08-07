@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72753"]={"code":"72753","region":"Arkansas","city":"Prairie Grove","latitude":35.977175,"longitude":-94.317481}}(window,'GeoPostal','US');

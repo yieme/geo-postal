@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-310"]={"code":"37-310","region":"Podkarpackie","city":"Nowa Sarzyna","latitude":50.32086,"longitude":22.34456}}(window,'GeoPostal','PL');

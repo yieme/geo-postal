@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91711"]={"code":"91711","region":"California","city":"Claremont","latitude":34.09668,"longitude":-117.71978}}(window,'GeoPostal','US');

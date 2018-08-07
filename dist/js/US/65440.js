@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65440"]={"code":"65440","region":"MO","city":"Boss","latitude":37.6373,"longitude":-91.2109}}(window,'GeoPostal','US');

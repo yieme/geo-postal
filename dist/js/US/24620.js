@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24620"]={"code":"24620","region":"VA","city":"Hurley","latitude":37.4017,"longitude":-82.0262}}(window,'GeoPostal','US');

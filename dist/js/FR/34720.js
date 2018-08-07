@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34720"]={"code":"34720","region":"Occitanie","city":"Caux","latitude":43.50621,"longitude":3.3671}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32683"]={"code":"32683","region":"FL","city":"Otter Creek","latitude":29.3109,"longitude":-82.7945}}(window,'GeoPostal','US');

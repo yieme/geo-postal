@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["625300"]={"code":"625300","region":"Sichuan","city":"Shirong","latitude":29.35092,"longitude":102.65248}}(window,'GeoPostal','CN');

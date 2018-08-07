@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11563"]={"code":"11563","region":"New York","city":"Lynbrook","latitude":40.65483,"longitude":-73.6718}}(window,'GeoPostal','US');

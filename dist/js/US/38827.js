@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38827"]={"code":"38827","region":"Mississippi","city":"Belmont","latitude":34.50982,"longitude":-88.20921}}(window,'GeoPostal','US');

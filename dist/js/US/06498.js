@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06498"]={"code":"06498","region":"CT","city":"Westbrook","latitude":41.2927,"longitude":-72.4563}}(window,'GeoPostal','US');

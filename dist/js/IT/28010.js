@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28010"]={"code":"28010","region":"Piemonte","city":"Pella","latitude":45.79837,"longitude":8.38492}}(window,'GeoPostal','IT');

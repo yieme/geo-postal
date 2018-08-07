@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1460"]={"code":"1460","region":"New South Wales","city":"Mascot","latitude":-33.93333,"longitude":151.2}}(window,'GeoPostal','AU');

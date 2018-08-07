@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42105"]={"code":"42105","region":"Sumska oblast","city":"Nedryhayliv","latitude":50.83398,"longitude":33.87626}}(window,'GeoPostal','UA');

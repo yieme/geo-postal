@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95918"]={"code":"95918","region":"CA","city":"Browns Valley","latitude":39.2882,"longitude":-121.3303}}(window,'GeoPostal','US');

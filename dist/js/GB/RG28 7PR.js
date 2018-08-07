@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG28 7PR"]={"code":"RG28 7PR","region":"England","city":"Litchfield","latitude":51.28216,"longitude":-1.33943}}(window,'GeoPostal','GB');

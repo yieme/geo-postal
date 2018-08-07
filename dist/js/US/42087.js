@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42087"]={"code":"42087","region":"Kentucky","city":"Wickliffe","latitude":36.96478,"longitude":-89.08923}}(window,'GeoPostal','US');

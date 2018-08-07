@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26349"]={"code":"26349","region":"WV","city":"Galloway","latitude":39.2318,"longitude":-80.122}}(window,'GeoPostal','US');

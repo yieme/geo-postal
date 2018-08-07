@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["822113"]={"code":"822113","region":"Bihar","city":"Aurangabad","latitude":24.75,"longitude":84.36667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53119"]={"code":"53119","region":"Wisconsin","city":"Eagle","latitude":42.87875,"longitude":-88.470501}}(window,'GeoPostal','US');

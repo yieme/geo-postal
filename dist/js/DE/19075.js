@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19075"]={"code":"19075","region":"Mecklenburg-Vorpommern","city":"Kothendorf","latitude":53.54437,"longitude":11.28549}}(window,'GeoPostal','DE');

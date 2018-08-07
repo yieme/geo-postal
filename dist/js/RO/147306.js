@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147306"]={"code":"147306","region":"Teleorman","city":"Saceni","latitude":44.23333,"longitude":25.06667}}(window,'GeoPostal','RO');

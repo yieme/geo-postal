@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13863"]={"code":"13863","region":"NY","city":"Willet","latitude":42.452,"longitude":-75.9014}}(window,'GeoPostal','US');

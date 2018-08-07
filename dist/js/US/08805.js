@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08805"]={"code":"08805","region":"New Jersey","city":"Bound Brook","latitude":40.569363,"longitude":-74.539983}}(window,'GeoPostal','US');

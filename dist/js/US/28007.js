@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28007"]={"code":"28007","region":"NC","city":"Ansonville","latitude":35.1046,"longitude":-80.1092}}(window,'GeoPostal','US');

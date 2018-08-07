@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78611"]={"code":"78611","region":"TX","city":"Burnet","latitude":30.7766,"longitude":-98.2642}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18963"]={"code":"18963","region":"PA","city":"Solebury","latitude":40.3807,"longitude":-75.0082}}(window,'GeoPostal','US');

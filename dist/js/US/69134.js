@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69134"]={"code":"69134","region":"NE","city":"Elsie","latitude":40.8596,"longitude":-101.37}}(window,'GeoPostal','US');

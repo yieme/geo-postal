@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64229"]={"code":"64229","region":"Bayanhongor","city":"Buyant","latitude":46.1664,"longitude":98.69173}}(window,'GeoPostal','MN');

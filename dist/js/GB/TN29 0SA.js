@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN29 0SA"]={"code":"TN29 0SA","region":"England","city":"St Mary's Bay","latitude":51.01003,"longitude":0.9771}}(window,'GeoPostal','GB');

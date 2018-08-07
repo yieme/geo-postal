@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB41 8RB"]={"code":"AB41 8RB","region":"Scotland","city":"Auchmacoy","latitude":57.36811,"longitude":-2.01495}}(window,'GeoPostal','GB');

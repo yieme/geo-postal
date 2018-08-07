@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238420"]={"code":"238420","region":"Kaliningradskaya oblast'","city":"Bagrationovsk","latitude":54.38714,"longitude":20.64372}}(window,'GeoPostal','RU');

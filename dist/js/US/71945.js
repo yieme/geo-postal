@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71945"]={"code":"71945","region":"Arkansas","city":"Hatfield","latitude":34.48775,"longitude":-94.350204}}(window,'GeoPostal','US');

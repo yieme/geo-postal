@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["VC0260"]={"code":"VC0260","region":"Charlotte","city":"Biabou","latitude":13.2,"longitude":-61.13333}}(window,'GeoPostal','VC');

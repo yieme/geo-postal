@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83376"]={"code":"83376","region":"Bayern","city":"Seebruck","latitude":47.93423,"longitude":12.4754}}(window,'GeoPostal','DE');

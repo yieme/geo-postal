@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34006"]={"code":"34006","region":"Bordj Bou Arreridj","city":"El Achir","latitude":36.06386,"longitude":4.62744}}(window,'GeoPostal','DZ');

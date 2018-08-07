@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV1 2FJ"]={"code":"CV1 2FJ","region":"England","city":"Berkley","latitude":51.24372,"longitude":-2.27379}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30753"]={"code":"30753","region":"GA","city":"Trion","latitude":34.5468,"longitude":-85.3112}}(window,'GeoPostal','US');

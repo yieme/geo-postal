@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3649"]={"code":"3649","region":"Victoria","city":"Katamatite","latitude":-36.07589,"longitude":145.68724}}(window,'GeoPostal','AU');

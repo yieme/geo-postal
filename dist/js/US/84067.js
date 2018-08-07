@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84067"]={"code":"84067","region":"Utah","city":"Roy","latitude":41.16161,"longitude":-112.02633}}(window,'GeoPostal','US');

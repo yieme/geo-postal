@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02828"]={"code":"02828","region":"Sachsen","city":"Klingewalde","latitude":51.18106,"longitude":14.9787}}(window,'GeoPostal','DE');

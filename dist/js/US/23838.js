@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23838"]={"code":"23838","region":"VA","city":"Chesterfield","latitude":37.3333,"longitude":-77.6343}}(window,'GeoPostal','US');

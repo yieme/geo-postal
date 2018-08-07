@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56678"]={"code":"56678","region":"Minnesota","city":"Solway","latitude":47.51972,"longitude":-95.13056}}(window,'GeoPostal','US');

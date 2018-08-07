@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52544"]={"code":"52544","region":"IA","city":"Centerville","latitude":40.7326,"longitude":-92.8728}}(window,'GeoPostal','US');

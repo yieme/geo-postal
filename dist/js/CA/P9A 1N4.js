@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P9A 1N4"]={"code":"P9A 1N4","region":"Ontario","city":"Fort Frances","latitude":48.612006,"longitude":-93.388121}}(window,'GeoPostal','CA');

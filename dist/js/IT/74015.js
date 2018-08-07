@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74015"]={"code":"74015","region":"Puglia","city":"Martina Franca","latitude":40.70313,"longitude":17.3339}}(window,'GeoPostal','IT');

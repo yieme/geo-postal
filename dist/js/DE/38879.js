@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38879"]={"code":"38879","region":"Sachsen-Anhalt","city":"Schierke","latitude":51.76394,"longitude":10.66212}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57601"]={"code":"57601","region":"South Dakota","city":"Mobridge","latitude":45.53722,"longitude":-100.42791}}(window,'GeoPostal','US');

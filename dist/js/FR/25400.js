@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25400"]={"code":"25400","region":"Bourgogne-Franche-Comte","city":"Arbouans","latitude":47.49944,"longitude":6.79505}}(window,'GeoPostal','FR');

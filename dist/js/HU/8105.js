@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8105"]={"code":"8105","region":"Veszprem","city":"Petfuerdo","latitude":47.16667,"longitude":18.11667}}(window,'GeoPostal','HU');

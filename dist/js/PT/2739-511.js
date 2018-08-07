@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2739-511"]={"code":"2739-511","region":"Lisboa","city":"Porto Salvo","latitude":38.71745,"longitude":-9.29833}}(window,'GeoPostal','PT');

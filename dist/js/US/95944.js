@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95944"]={"code":"95944","region":"CA","city":"Goodyears Bar","latitude":39.5399,"longitude":-120.8844}}(window,'GeoPostal','US');

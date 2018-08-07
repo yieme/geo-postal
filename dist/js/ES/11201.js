@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11201"]={"code":"11201","region":"Andalucia","city":"Algeciras","latitude":36.13326,"longitude":-5.45051}}(window,'GeoPostal','ES');

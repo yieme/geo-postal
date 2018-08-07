@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO18 0JQ"]={"code":"PO18 0JQ","region":"England","city":"East Dean","latitude":50.9105,"longitude":-0.7136}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO13 0JL"]={"code":"CO13 0JL","region":"England","city":"Great Holland","latitude":51.82817,"longitude":1.20961}}(window,'GeoPostal','GB');

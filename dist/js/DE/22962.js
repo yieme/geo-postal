@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22962"]={"code":"22962","region":"Schleswig-Holstein","city":"Siek","latitude":53.63333,"longitude":10.3}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75838"]={"code":"75838","region":"Texas","city":"Donie","latitude":31.47722,"longitude":-96.2225}}(window,'GeoPostal','US');

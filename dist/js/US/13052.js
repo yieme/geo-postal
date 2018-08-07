@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13052"]={"code":"13052","region":"NY","city":"De Ruyter","latitude":42.7494,"longitude":-75.8582}}(window,'GeoPostal','US');

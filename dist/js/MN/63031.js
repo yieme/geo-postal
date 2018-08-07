@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63031"]={"code":"63031","region":"Bulgan","city":"Sort","latitude":49.31751,"longitude":104.38196}}(window,'GeoPostal','MN');

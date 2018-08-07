@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6052"]={"code":"6052","region":"Nidwalden","city":"Hergiswil","latitude":46.98429,"longitude":8.30944}}(window,'GeoPostal','CH');

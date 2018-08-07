@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10700"]={"code":"10700","region":"Grand-Est","city":"Arcis-sur-Aube","latitude":48.53387,"longitude":4.14085}}(window,'GeoPostal','FR');

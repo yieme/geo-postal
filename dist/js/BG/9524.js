@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9524"]={"code":"9524","region":"Dobrich","city":"General-Toshevo","latitude":43.7,"longitude":28.03333}}(window,'GeoPostal','BG');

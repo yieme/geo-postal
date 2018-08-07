@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93625"]={"code":"93625","region":"Veracruz de Ignacio de la Llave","city":"San Marcos","latitude":20.2,"longitude":-96.95}}(window,'GeoPostal','MX');

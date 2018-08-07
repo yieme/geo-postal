@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37510"]={"code":"37510","region":"Centre-Val de Loire","city":"Villandry","latitude":47.34019,"longitude":0.5105}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89021"]={"code":"89021","region":"Calabria","city":"Cinquefrondi","latitude":38.41618,"longitude":16.0842}}(window,'GeoPostal','IT');

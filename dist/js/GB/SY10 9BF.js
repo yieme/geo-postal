@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY10 9BF"]={"code":"SY10 9BF","region":"England","city":"Trefonen","latitude":52.83333,"longitude":-3.1}}(window,'GeoPostal','GB');

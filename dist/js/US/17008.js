@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17008"]={"code":"17008","region":"PA","city":"Bowmansdale","latitude":40.23,"longitude":-77.02}}(window,'GeoPostal','US');

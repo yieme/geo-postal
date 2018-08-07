@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89420"]={"code":"89420","region":"Nevada","city":"Luning","latitude":38.416457,"longitude":-118.190037}}(window,'GeoPostal','US');

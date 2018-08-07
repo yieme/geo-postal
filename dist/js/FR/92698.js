@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92698"]={"code":"92698","region":"Ile-de-France","city":"Levallois-Perret","latitude":48.89389,"longitude":2.28864}}(window,'GeoPostal','FR');

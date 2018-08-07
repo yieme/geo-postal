@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68030"]={"code":"68030","region":"Nebraska","city":"Homer","latitude":42.32189,"longitude":-96.492387}}(window,'GeoPostal','US');

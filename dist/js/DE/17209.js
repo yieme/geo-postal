@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17209"]={"code":"17209","region":"Mecklenburg-Vorpommern","city":"Satow","latitude":53.40861,"longitude":12.38056}}(window,'GeoPostal','DE');

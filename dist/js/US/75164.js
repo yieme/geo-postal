@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75164"]={"code":"75164","region":"TX","city":"Josephine","latitude":33.0612,"longitude":-96.3072}}(window,'GeoPostal','US');

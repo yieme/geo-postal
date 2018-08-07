@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70085"]={"code":"70085","region":"LA","city":"Saint Bernard","latitude":29.8611,"longitude":-89.8364}}(window,'GeoPostal','US');

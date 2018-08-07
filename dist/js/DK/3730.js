@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3730"]={"code":"3730","region":"Hovedstaden","city":"Nexo","latitude":55.06067,"longitude":15.13058}}(window,'GeoPostal','DK');

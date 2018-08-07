@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08341"]={"code":"08341","region":"New Jersey","city":"Minotola","latitude":39.519766,"longitude":-74.948626}}(window,'GeoPostal','US');

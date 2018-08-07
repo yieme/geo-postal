@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4064"]={"code":"4064","region":"Queensland","city":"Milton","latitude":-27.47039,"longitude":153.00312}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26161"]={"code":"26161","region":"WV","city":"Petroleum","latitude":39.1741,"longitude":-81.2406}}(window,'GeoPostal','US');

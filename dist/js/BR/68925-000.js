@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68925-000"]={"code":"68925-000","region":"Amapa","city":"Macapa","latitude":0.03889,"longitude":-51.06639}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31812"]={"code":"31812","region":"Niedersachsen","city":"Bad Pyrmont","latitude":51.9859,"longitude":9.25246}}(window,'GeoPostal','DE');

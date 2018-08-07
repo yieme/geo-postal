@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53533"]={"code":"53533","region":"Nordrhein-Westfalen","city":"Ahrdorf","latitude":50.37347,"longitude":6.7776}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64427"]={"code":"64427","region":"MO","city":"Bolckow","latitude":40.1007,"longitude":-94.8847}}(window,'GeoPostal','US');

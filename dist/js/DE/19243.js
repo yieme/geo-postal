@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19243"]={"code":"19243","region":"Mecklenburg-Vorpommern","city":"Korchow","latitude":53.45,"longitude":11.06667}}(window,'GeoPostal','DE');

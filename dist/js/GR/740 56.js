@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["740 56"]={"code":"740 56","region":"Kriti","city":"Ayia Galini","latitude":35.1,"longitude":24.68333}}(window,'GeoPostal','GR');

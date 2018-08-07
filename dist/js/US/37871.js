@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37871"]={"code":"37871","region":"TN","city":"Strawberry Plains","latitude":36.0687,"longitude":-83.6568}}(window,'GeoPostal','US');

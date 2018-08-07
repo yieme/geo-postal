@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607018"]={"code":"607018","region":"Nizhegorodskaya oblast'","city":"Kulebaki","latitude":55.41333,"longitude":42.5325}}(window,'GeoPostal','RU');

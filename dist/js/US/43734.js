@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43734"]={"code":"43734","region":"OH","city":"Duncan Falls","latitude":39.8778,"longitude":-81.9117}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-301"]={"code":"63-301","region":"Wielkopolskie","city":"Pleszew","latitude":51.89636,"longitude":17.78549}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33597"]={"code":"33597","region":"FL","city":"Webster","latitude":28.549,"longitude":-82.0805}}(window,'GeoPostal','US');

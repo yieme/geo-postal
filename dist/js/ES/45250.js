@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45250"]={"code":"45250","region":"Castilla-La Mancha","city":"Anover de Tajo","latitude":39.98873,"longitude":-3.76578}}(window,'GeoPostal','ES');

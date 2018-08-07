@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89316"]={"code":"89316","region":"Nevada","city":"Eureka","latitude":39.51271,"longitude":-115.96061}}(window,'GeoPostal','US');

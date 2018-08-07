@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457336"]={"code":"457336","region":"Salaj","city":"Sarmasag","latitude":47.35,"longitude":22.83333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21113"]={"code":"21113","region":"Maryland","city":"Odenton","latitude":39.074686,"longitude":-76.701662}}(window,'GeoPostal','US');

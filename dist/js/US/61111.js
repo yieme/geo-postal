@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61111"]={"code":"61111","region":"Illinois","city":"Loves Park","latitude":42.3281,"longitude":-89.026827}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45777"]={"code":"45777","region":"OH","city":"Sharpsburg","latitude":39.4359,"longitude":-81.9115}}(window,'GeoPostal','US');

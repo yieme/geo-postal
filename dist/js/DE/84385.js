@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84385"]={"code":"84385","region":"Bayern","city":"Wilhelm","latitude":48.53269,"longitude":13.03296}}(window,'GeoPostal','DE');

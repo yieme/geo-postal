@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67341"]={"code":"67341","region":"KS","city":"Dennis","latitude":37.3243,"longitude":-95.4116}}(window,'GeoPostal','US');

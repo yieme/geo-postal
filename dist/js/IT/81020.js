@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81020"]={"code":"81020","region":"Campania","city":"San Nicola la Strada","latitude":41.05181,"longitude":14.33133}}(window,'GeoPostal','IT');

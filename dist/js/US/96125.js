@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96125"]={"code":"96125","region":"CA","city":"Sierra City","latitude":39.5936,"longitude":-120.6269}}(window,'GeoPostal','US');

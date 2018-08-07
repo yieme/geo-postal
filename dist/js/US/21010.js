@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21010"]={"code":"21010","region":"MD","city":"Gunpowder","latitude":39.3982,"longitude":-76.2743}}(window,'GeoPostal','US');

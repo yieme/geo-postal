@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42629"]={"code":"42629","region":"Kentucky","city":"Jamestown","latitude":36.974931,"longitude":-85.09484}}(window,'GeoPostal','US');

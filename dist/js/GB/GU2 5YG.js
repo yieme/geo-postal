@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU2 5YG"]={"code":"GU2 5YG","region":"England","city":"Guildford","latitude":51.23536,"longitude":-0.57427}}(window,'GeoPostal','GB');

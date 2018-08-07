@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88480"]={"code":"88480","region":"Grand-Est","city":"Etival-Clairefontaine","latitude":48.36519,"longitude":6.86118}}(window,'GeoPostal','FR');

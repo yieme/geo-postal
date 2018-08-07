@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42480"]={"code":"42480","region":"Hidalgo","city":"Ixmiquilpan","latitude":20.48333,"longitude":-99.23333}}(window,'GeoPostal','MX');

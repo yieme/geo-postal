@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83118"]={"code":"83118","region":"Wyoming","city":"Etna","latitude":43.050676,"longitude":-111.009972}}(window,'GeoPostal','US');

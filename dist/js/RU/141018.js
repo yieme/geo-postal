@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141018"]={"code":"141018","region":"Moskovskaya oblast'","city":"Mytishchi","latitude":55.91163,"longitude":37.73076}}(window,'GeoPostal','RU');

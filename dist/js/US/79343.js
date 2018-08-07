@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79343"]={"code":"79343","region":"TX","city":"Lorenzo","latitude":33.6666,"longitude":-101.5277}}(window,'GeoPostal','US');

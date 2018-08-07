@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53535"]={"code":"53535","region":"Wisconsin","city":"Edmund","latitude":42.96664,"longitude":-90.264362}}(window,'GeoPostal','US');

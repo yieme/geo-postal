@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-420"]={"code":"18-420","region":"Podlaskie","city":"Jedwabne","latitude":53.28554,"longitude":22.30353}}(window,'GeoPostal','PL');

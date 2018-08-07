@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91000"]={"code":"91000","region":"Ile-de-France","city":"Evry","latitude":48.63333,"longitude":2.45}}(window,'GeoPostal','FR');

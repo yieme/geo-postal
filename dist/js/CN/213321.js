@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["213321"]={"code":"213321","region":"Jiangsu","city":"Hutang","latitude":31.53333,"longitude":119.48333}}(window,'GeoPostal','CN');

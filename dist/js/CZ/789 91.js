@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["789 91"]={"code":"789 91","region":"Olomoucky kraj","city":"Stity","latitude":49.96122,"longitude":16.76576}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68320"]={"code":"68320","region":"Grand-Est","city":"Jebsheim","latitude":48.12346,"longitude":7.47549}}(window,'GeoPostal','FR');

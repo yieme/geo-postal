@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65318"]={"code":"65318","region":"Jawa Timur","city":"Batu","latitude":-7.87,"longitude":112.52833}}(window,'GeoPostal','ID');

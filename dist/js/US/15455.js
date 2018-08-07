@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15455"]={"code":"15455","region":"PA","city":"Leisenring","latitude":39.9985,"longitude":-79.6435}}(window,'GeoPostal','US');

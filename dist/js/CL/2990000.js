@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2990000"]={"code":"2990000","region":"Libertador General Bernardo O'Higgins","city":"San Vicente","latitude":-34.43333,"longitude":-71.08333}}(window,'GeoPostal','CL');

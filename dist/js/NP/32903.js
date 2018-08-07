@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32903"]={"code":"32903","region":"Lumbini","city":"Bhairahawa","latitude":27.5,"longitude":83.45}}(window,'GeoPostal','NP');

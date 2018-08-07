@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27852"]={"code":"27852","region":"NC","city":"Macclesfield","latitude":35.751,"longitude":-77.6706}}(window,'GeoPostal','US');

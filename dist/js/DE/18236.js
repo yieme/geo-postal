@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18236"]={"code":"18236","region":"Mecklenburg-Vorpommern","city":"Duggenkoppel","latitude":54.06667,"longitude":11.8}}(window,'GeoPostal','DE');

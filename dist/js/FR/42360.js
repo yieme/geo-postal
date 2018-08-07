@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42360"]={"code":"42360","region":"Auvergne-Rhone-Alpes","city":"Panissieres","latitude":45.79282,"longitude":4.33955}}(window,'GeoPostal','FR');

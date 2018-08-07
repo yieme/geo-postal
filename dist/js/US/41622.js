@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41622"]={"code":"41622","region":"Kentucky","city":"Wayland","latitude":37.526765,"longitude":-82.823565}}(window,'GeoPostal','US');

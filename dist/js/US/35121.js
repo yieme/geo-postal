@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35121"]={"code":"35121","region":"Alabama","city":"Oneonta","latitude":33.946859,"longitude":-86.46874}}(window,'GeoPostal','US');

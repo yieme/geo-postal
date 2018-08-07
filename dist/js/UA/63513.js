@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63513"]={"code":"63513","region":"Kharkivska oblast","city":"Kochetok","latitude":49.88005,"longitude":36.73723}}(window,'GeoPostal','UA');

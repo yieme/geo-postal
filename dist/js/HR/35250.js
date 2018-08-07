@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35250"]={"code":"35250","region":"Brodsko-posavska zupanija","city":"Oriovac","latitude":45.16611,"longitude":17.76}}(window,'GeoPostal','HR');

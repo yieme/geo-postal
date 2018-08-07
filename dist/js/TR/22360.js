@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22360"]={"code":"22360","region":"Kirsehir","city":"Kirsehir","latitude":39.14583,"longitude":34.16389}}(window,'GeoPostal','TR');

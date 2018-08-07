@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75563"]={"code":"75563","region":"Texas","city":"Linden","latitude":33.01235,"longitude":-94.36547}}(window,'GeoPostal','US');

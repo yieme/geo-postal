@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57186"]={"code":"57186","region":"South Dakota","city":"Sioux Falls","latitude":43.54705,"longitude":-96.72871}}(window,'GeoPostal','US');

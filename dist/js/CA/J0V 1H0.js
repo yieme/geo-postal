@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0V 1H0"]={"code":"J0V 1H0","region":"Quebec","city":"Fassett","latitude":45.6501,"longitude":-74.86598}}(window,'GeoPostal','CA');

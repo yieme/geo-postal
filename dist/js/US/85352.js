@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85352"]={"code":"85352","region":"AZ","city":"Tacna","latitude":32.6934,"longitude":-113.9763}}(window,'GeoPostal','US');

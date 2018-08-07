@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56623"]={"code":"56623","region":"Minnesota","city":"Baudette","latitude":48.71247,"longitude":-94.59993}}(window,'GeoPostal','US');

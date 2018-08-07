@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44500"]={"code":"44500","region":"Aragon","city":"Andorra","latitude":40.97655,"longitude":-0.44721}}(window,'GeoPostal','ES');

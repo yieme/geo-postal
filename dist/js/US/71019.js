@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71019"]={"code":"71019","region":"LA","city":"Coushatta","latitude":32.0231,"longitude":-93.2648}}(window,'GeoPostal','US');

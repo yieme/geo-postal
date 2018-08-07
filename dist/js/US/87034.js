@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87034"]={"code":"87034","region":"New Mexico","city":"Acoma Pueblo","latitude":35.083083,"longitude":-107.595979}}(window,'GeoPostal','US');

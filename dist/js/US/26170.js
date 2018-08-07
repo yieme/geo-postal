@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26170"]={"code":"26170","region":"West Virginia","city":"Saint Marys","latitude":39.39174,"longitude":-81.20511}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1414"]={"code":"1414","region":"Brabant wallon","city":"Waterloo","latitude":50.71255,"longitude":4.4014}}(window,'GeoPostal','BE');

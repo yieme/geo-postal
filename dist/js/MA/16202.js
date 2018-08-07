@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16202"]={"code":"16202","region":"Gharb-Chrarda-Beni Hssen","city":"Sidi Redouane","latitude":34.68692,"longitude":-5.44538}}(window,'GeoPostal','MA');

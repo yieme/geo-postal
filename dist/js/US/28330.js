@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28330"]={"code":"28330","region":"North Carolina","city":"Cordova","latitude":34.91293,"longitude":-79.822}}(window,'GeoPostal','US');

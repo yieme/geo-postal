@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83815"]={"code":"83815","region":"Idaho","city":"Coeur d'Alene","latitude":47.7269,"longitude":-116.7877}}(window,'GeoPostal','US');

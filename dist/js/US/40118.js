@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40118"]={"code":"40118","region":"Kentucky","city":"Fairdale","latitude":38.106867,"longitude":-85.754069}}(window,'GeoPostal','US');

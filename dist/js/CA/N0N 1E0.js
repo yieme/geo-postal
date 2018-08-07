@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0N 1E0"]={"code":"N0N 1E0","region":"Ontario","city":"Camlachie","latitude":43.03596,"longitude":-82.1616}}(window,'GeoPostal','CA');

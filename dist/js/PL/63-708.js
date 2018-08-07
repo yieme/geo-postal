@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-708"]={"code":"63-708","region":"Wielkopolskie","city":"Kozmin Wielkopolski","latitude":51.82712,"longitude":17.45391}}(window,'GeoPostal','PL');

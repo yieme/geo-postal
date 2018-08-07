@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16417"]={"code":"16417","region":"Pennsylvania","city":"Girard","latitude":41.986578,"longitude":-80.312603}}(window,'GeoPostal','US');

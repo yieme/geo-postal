@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3393"]={"code":"3393","region":"Victoria","city":"Warracknabeal","latitude":-36.25326,"longitude":142.39281}}(window,'GeoPostal','AU');

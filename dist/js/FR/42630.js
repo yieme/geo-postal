@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42630"]={"code":"42630","region":"Auvergne-Rhone-Alpes","city":"Regny","latitude":45.98333,"longitude":4.21667}}(window,'GeoPostal','FR');

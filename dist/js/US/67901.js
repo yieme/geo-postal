@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67901"]={"code":"67901","region":"Kansas","city":"Liberal","latitude":37.04308,"longitude":-100.921}}(window,'GeoPostal','US');

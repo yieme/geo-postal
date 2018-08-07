@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29372"]={"code":"29372","region":"SC","city":"Pacolet","latitude":34.9017,"longitude":-81.7587}}(window,'GeoPostal','US');

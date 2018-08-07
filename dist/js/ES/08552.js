@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08552"]={"code":"08552","region":"Catalunya","city":"Taradell","latitude":41.87495,"longitude":2.28662}}(window,'GeoPostal','ES');

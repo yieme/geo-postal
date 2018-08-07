@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1R 1C7"]={"code":"T1R 1C7","region":"Alberta","city":"Brooks","latitude":50.564298,"longitude":-111.898411}}(window,'GeoPostal','CA');

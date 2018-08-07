@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65708-000"]={"code":"65708-000","region":"Maranhao","city":"Bacabal","latitude":-4.29167,"longitude":-44.79167}}(window,'GeoPostal','BR');

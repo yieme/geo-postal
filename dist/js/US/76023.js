@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76023"]={"code":"76023","region":"TX","city":"Boyd","latitude":33.0594,"longitude":-97.5868}}(window,'GeoPostal','US');

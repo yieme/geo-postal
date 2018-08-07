@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247764"]={"code":"247764","region":"Botosani","city":"Saveni","latitude":44.6,"longitude":27.65}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 4221"]={"code":"AZ 4221","region":"Lankaran","city":"Lankaran","latitude":38.72262,"longitude":48.81466}}(window,'GeoPostal','AZ');

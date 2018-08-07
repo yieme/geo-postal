@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06456"]={"code":"06456","region":"CT","city":"Middle Haddam","latitude":41.554,"longitude":-72.5501}}(window,'GeoPostal','US');

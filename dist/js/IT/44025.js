@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44025"]={"code":"44025","region":"Emilia-Romagna","city":"Massa Fiscaglia","latitude":44.79694,"longitude":12.02889}}(window,'GeoPostal','IT');

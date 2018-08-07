@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95662"]={"code":"95662","region":"California","city":"Orangevale","latitude":38.683984,"longitude":-121.225841}}(window,'GeoPostal','US');

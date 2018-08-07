@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE67 5BS"]={"code":"NE67 5BS","region":"England","city":"Beadnell","latitude":55.5567,"longitude":-1.6325}}(window,'GeoPostal','GB');

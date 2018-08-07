@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77650"]={"code":"77650","region":"TX","city":"Port Bolivar","latitude":29.4266,"longitude":-94.6861}}(window,'GeoPostal','US');

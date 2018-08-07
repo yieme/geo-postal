@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570 13"]={"code":"570 13","region":"Kentriki Makedonia","city":"Oraiokastron","latitude":40.73083,"longitude":22.91722}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55250"]={"code":"55250","region":"Grand-Est","city":"Beausite","latitude":48.9686,"longitude":5.1928}}(window,'GeoPostal','FR');

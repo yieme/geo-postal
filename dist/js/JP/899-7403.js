@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["899-7403"]={"code":"899-7403","region":"Kagoshima","city":"Shibushi","latitude":31.5,"longitude":131.05}}(window,'GeoPostal','JP');

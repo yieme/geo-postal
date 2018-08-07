@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86170"]={"code":"86170","region":"Molise","city":"Isernia","latitude":41.60022,"longitude":14.23822}}(window,'GeoPostal','IT');

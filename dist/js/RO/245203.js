@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245203"]={"code":"245203","region":"Valcea","city":"Baile Govora","latitude":45.08333,"longitude":24.18333}}(window,'GeoPostal','RO');

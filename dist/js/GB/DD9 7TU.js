@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD9 7TU"]={"code":"DD9 7TU","region":"Scotland","city":"Edzell","latitude":56.8,"longitude":-2.65}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8150-014"]={"code":"8150-014","region":"Faro","city":"Sao Bras de Alportel","latitude":37.1531,"longitude":-7.88752}}(window,'GeoPostal','PT');

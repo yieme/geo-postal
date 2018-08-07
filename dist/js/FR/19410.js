@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19410"]={"code":"19410","region":"Nouvelle-Aquitaine","city":"Vigeois","latitude":45.38014,"longitude":1.51635}}(window,'GeoPostal','FR');

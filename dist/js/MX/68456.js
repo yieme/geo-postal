@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68456"]={"code":"68456","region":"Oaxaca","city":"San Jose Chiltepec","latitude":17.95,"longitude":-96.18333}}(window,'GeoPostal','MX');

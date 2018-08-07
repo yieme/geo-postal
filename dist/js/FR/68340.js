@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68340"]={"code":"68340","region":"Grand-Est","city":"Riquewihr","latitude":48.16672,"longitude":7.29707}}(window,'GeoPostal','FR');

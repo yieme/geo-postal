@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 9UX"]={"code":"YO25 9UX","region":"England","city":"North Dalton","latitude":53.95723,"longitude":-0.57586}}(window,'GeoPostal','GB');

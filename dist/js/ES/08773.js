@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08773"]={"code":"08773","region":"Catalunya","city":"Mediona","latitude":41.47798,"longitude":1.61222}}(window,'GeoPostal','ES');

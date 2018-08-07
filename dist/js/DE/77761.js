@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77761"]={"code":"77761","region":"Baden-Wurttemberg","city":"Schiltach","latitude":48.28932,"longitude":8.3417}}(window,'GeoPostal','DE');

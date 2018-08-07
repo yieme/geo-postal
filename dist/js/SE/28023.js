@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28023"]={"code":"28023","region":"Skane lan","city":"Hastveda","latitude":56.26667,"longitude":13.93333}}(window,'GeoPostal','SE');

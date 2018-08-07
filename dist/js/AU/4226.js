@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4226"]={"code":"4226","region":"Queensland","city":"Gold Coast","latitude":-28.00029,"longitude":153.43088}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617820"]={"code":"617820","region":"Bashkortostan, Respublika","city":"Pavlovka","latitude":55.42094,"longitude":56.55426}}(window,'GeoPostal','RU');

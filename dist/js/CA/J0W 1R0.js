@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0W 1R0"]={"code":"J0W 1R0","region":"Quebec","city":"Nominingue","latitude":46.4001,"longitude":-75.03257}}(window,'GeoPostal','CA');

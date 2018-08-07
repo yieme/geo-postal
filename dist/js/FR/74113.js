@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74113"]={"code":"74113","region":"Auvergne-Rhone-Alpes","city":"Annemasse","latitude":46.19439,"longitude":6.23775}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-006"]={"code":"26-006","region":"Swietokrzyskie","city":"Nowa Slupia","latitude":50.86432,"longitude":21.09049}}(window,'GeoPostal','PL');

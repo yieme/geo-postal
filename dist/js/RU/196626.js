@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["196626"]={"code":"196626","region":"Sankt-Peterburg","city":"Shushary","latitude":59.80917,"longitude":30.38167}}(window,'GeoPostal','RU');

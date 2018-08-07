@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17352"]={"code":"17352","region":"PA","city":"New Park","latitude":39.76,"longitude":-76.5042}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29435"]={"code":"29435","region":"South Carolina","city":"Cottageville","latitude":32.939729,"longitude":-80.481095}}(window,'GeoPostal','US');

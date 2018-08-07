@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54473"]={"code":"54473","region":"WI","city":"Rosholt","latitude":44.6622,"longitude":-89.3356}}(window,'GeoPostal','US');

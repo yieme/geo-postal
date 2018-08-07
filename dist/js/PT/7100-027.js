@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7100-027"]={"code":"7100-027","region":"Evora","city":"Estremoz","latitude":38.84432,"longitude":-7.58585}}(window,'GeoPostal','PT');

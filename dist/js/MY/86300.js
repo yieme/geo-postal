@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86300"]={"code":"86300","region":"Johor","city":"Simpang Renggam","latitude":1.8278,"longitude":103.3}}(window,'GeoPostal','MY');

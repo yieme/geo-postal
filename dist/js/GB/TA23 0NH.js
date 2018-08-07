@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA23 0NH"]={"code":"TA23 0NH","region":"England","city":"Washford","latitude":51.16083,"longitude":-3.36194}}(window,'GeoPostal','GB');

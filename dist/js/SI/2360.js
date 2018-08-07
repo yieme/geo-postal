@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2360"]={"code":"2360","region":"Radlje ob Dravi","city":"Radlje ob Dravi","latitude":46.61417,"longitude":15.22639}}(window,'GeoPostal','SI');

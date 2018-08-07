@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19344"]={"code":"19344","region":"Pennsylvania","city":"Honey Brook","latitude":40.084406,"longitude":-75.896659}}(window,'GeoPostal','US');

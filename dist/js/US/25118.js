@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25118"]={"code":"25118","region":"WV","city":"Kimberly","latitude":38.1249,"longitude":-81.3217}}(window,'GeoPostal','US');

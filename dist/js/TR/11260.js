@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11260"]={"code":"11260","region":"Bilecik","city":"Bilecik","latitude":40.14192,"longitude":29.97932}}(window,'GeoPostal','TR');

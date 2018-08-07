@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83244"]={"code":"83244","region":"ID","city":"Howe","latitude":43.9087,"longitude":-113.0878}}(window,'GeoPostal','US');

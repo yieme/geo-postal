@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10598"]={"code":"10598","region":"New York","city":"Yorktown Heights","latitude":41.28942,"longitude":-73.79286}}(window,'GeoPostal','US');

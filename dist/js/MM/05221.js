@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05221"]={"code":"05221","region":"Mandalay","city":"Yamethin","latitude":20.43333,"longitude":96.15}}(window,'GeoPostal','MM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN17 3EH"]={"code":"DN17 3EH","region":"England","city":"Keadby","latitude":53.59308,"longitude":-0.74021}}(window,'GeoPostal','GB');

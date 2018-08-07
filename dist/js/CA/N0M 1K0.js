@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0M 1K0"]={"code":"N0M 1K0","region":"Ontario","city":"Crediton","latitude":43.28339,"longitude":-81.54977}}(window,'GeoPostal','CA');

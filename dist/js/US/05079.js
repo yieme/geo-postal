@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05079"]={"code":"05079","region":"Vermont","city":"Vershire","latitude":43.94833,"longitude":-72.32083}}(window,'GeoPostal','US');

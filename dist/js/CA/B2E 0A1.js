@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B2E 0A1"]={"code":"B2E 0A1","region":"Nova Scotia","city":"Red Islands","latitude":45.76684,"longitude":-60.73179}}(window,'GeoPostal','CA');

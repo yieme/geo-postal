@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95968"]={"code":"95968","region":"CA","city":"Palermo","latitude":39.4361,"longitude":-121.5454}}(window,'GeoPostal','US');

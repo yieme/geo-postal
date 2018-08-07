@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23898"]={"code":"23898","region":"VA","city":"Zuni","latitude":36.8437,"longitude":-76.811}}(window,'GeoPostal','US');

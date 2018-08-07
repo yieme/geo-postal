@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["235200"]={"code":"235200","region":"Olt","city":"Caracal","latitude":44.11667,"longitude":24.35}}(window,'GeoPostal','RO');

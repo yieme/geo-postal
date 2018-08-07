@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59752"]={"code":"59752","region":"Montana","city":"Three Forks","latitude":45.89243,"longitude":-111.55219}}(window,'GeoPostal','US');

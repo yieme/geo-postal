@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68836"]={"code":"68836","region":"NE","city":"Elm Creek","latitude":40.7301,"longitude":-99.3728}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91835"]={"code":"91835","region":"Sulawesi Selatan","city":"Rantepao","latitude":-2.9701,"longitude":119.8978}}(window,'GeoPostal','ID');

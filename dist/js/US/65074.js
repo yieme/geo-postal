@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65074"]={"code":"65074","region":"MO","city":"Russellville","latitude":38.5005,"longitude":-92.4291}}(window,'GeoPostal','US');

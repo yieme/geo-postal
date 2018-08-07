@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88690"]={"code":"88690","region":"Baden-Wurttemberg","city":"Unteruhldingen","latitude":47.71667,"longitude":9.23333}}(window,'GeoPostal','DE');

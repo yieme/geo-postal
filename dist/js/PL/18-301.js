@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-301"]={"code":"18-301","region":"Podlaskie","city":"Zambrow","latitude":52.9855,"longitude":22.24319}}(window,'GeoPostal','PL');

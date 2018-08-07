@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49676"]={"code":"49676","region":"Michigan","city":"Rapid City","latitude":44.83445,"longitude":-85.28256}}(window,'GeoPostal','US');

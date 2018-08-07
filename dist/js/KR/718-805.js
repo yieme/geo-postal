@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["718-805"]={"code":"718-805","region":"Gyeongsangbuk-do","city":"Waegwan","latitude":35.99175,"longitude":128.39732}}(window,'GeoPostal','KR');

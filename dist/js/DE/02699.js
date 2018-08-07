@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02699"]={"code":"02699","region":"Sachsen","city":"Steinitz","latitude":51.34552,"longitude":14.37767}}(window,'GeoPostal','DE');

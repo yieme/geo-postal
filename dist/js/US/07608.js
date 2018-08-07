@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07608"]={"code":"07608","region":"New Jersey","city":"Teterboro","latitude":40.859556,"longitude":-74.062676}}(window,'GeoPostal','US');

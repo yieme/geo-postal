@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06918"]={"code":"06918","region":"Sachsen-Anhalt","city":"Klebitz","latitude":51.94783,"longitude":12.83849}}(window,'GeoPostal','DE');

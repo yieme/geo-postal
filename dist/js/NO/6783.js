@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6783"]={"code":"6783","region":"Sogn og Fjordane","city":"Stryn","latitude":61.90448,"longitude":6.72264}}(window,'GeoPostal','NO');

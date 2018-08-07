@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65213-000"]={"code":"65213-000","region":"Maranhao","city":"Penalva","latitude":-3.29417,"longitude":-45.17361}}(window,'GeoPostal','BR');

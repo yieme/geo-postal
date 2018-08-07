@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07828"]={"code":"07828","region":"New Jersey","city":"Budd Lake","latitude":40.8866,"longitude":-74.7498}}(window,'GeoPostal','US');

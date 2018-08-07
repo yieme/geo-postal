@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14091"]={"code":"14091","region":"NY","city":"Lawtons","latitude":42.5404,"longitude":-78.9212}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38922"]={"code":"38922","region":"MS","city":"Coffeeville","latitude":33.9215,"longitude":-89.6782}}(window,'GeoPostal','US');

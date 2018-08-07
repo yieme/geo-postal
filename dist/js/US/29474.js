@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29474"]={"code":"29474","region":"SC","city":"Round O","latitude":32.9405,"longitude":-80.5739}}(window,'GeoPostal','US');

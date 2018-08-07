@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04551"]={"code":"04551","region":"ME","city":"Bremen","latitude":44.0104,"longitude":-69.4402}}(window,'GeoPostal','US');

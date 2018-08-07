@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429900"]={"code":"429900","region":"Chuvashskaya Respublika","city":"Tsivil'sk","latitude":55.86111,"longitude":47.46639}}(window,'GeoPostal','RU');

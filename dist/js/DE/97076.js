@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97076"]={"code":"97076","region":"Bayern","city":"Wuerzburg","latitude":49.78778,"longitude":9.93611}}(window,'GeoPostal','DE');

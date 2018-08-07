@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0K 1N0"]={"code":"L0K 1N0","region":"Ontario","city":"Hobart","latitude":44.6234,"longitude":-79.63612}}(window,'GeoPostal','CA');

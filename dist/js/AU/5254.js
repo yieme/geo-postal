@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5254"]={"code":"5254","region":"South Australia","city":"Mypolonga Flat","latitude":-35.05,"longitude":139.35}}(window,'GeoPostal','AU');

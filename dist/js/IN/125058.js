@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125058"]={"code":"125058","region":"Haryana","city":"Sirsa","latitude":29.53333,"longitude":75.01667}}(window,'GeoPostal','IN');

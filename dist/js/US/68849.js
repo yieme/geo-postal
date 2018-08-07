@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68849"]={"code":"68849","region":"Nebraska","city":"Kearney","latitude":40.7009,"longitude":-99.09749}}(window,'GeoPostal','US');

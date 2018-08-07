@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141341"]={"code":"141341","region":"Moskovskaya oblast'","city":"Bogorodskoye","latitude":56.55,"longitude":37.88333}}(window,'GeoPostal','RU');

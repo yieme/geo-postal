@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91024"]={"code":"91024","region":"Sicilia","city":"Gibellina","latitude":37.80704,"longitude":12.86954}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28572"]={"code":"28572","region":"North Carolina","city":"Pink Hill","latitude":35.05667,"longitude":-77.74444}}(window,'GeoPostal','US');

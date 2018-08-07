@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331502"]={"code":"331502","region":"Rajasthan","city":"Chhapar","latitude":27.81667,"longitude":74.4}}(window,'GeoPostal','IN');

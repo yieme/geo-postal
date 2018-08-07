@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49243"]={"code":"49243","region":"Krapinsko-zagorska zupanija","city":"Oroslavje","latitude":46.00278,"longitude":15.91139}}(window,'GeoPostal','HR');

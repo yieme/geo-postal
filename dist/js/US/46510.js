@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46510"]={"code":"46510","region":"Indiana","city":"Claypool","latitude":41.12889,"longitude":-85.88083}}(window,'GeoPostal','US');

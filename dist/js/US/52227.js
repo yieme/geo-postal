@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52227"]={"code":"52227","region":"IA","city":"Ely","latitude":41.8943,"longitude":-91.5738}}(window,'GeoPostal','US');

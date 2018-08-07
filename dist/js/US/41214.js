@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41214"]={"code":"41214","region":"KY","city":"Debord","latitude":37.8265,"longitude":-82.5513}}(window,'GeoPostal','US');

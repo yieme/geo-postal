@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56380"]={"code":"56380","region":"Bretagne","city":"Beignon","latitude":47.972,"longitude":-2.16933}}(window,'GeoPostal','FR');

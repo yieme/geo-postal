@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10410"]={"code":"10410","region":"Zagrebacka zupanija","city":"Velika Gorica","latitude":45.7125,"longitude":16.07556}}(window,'GeoPostal','HR');

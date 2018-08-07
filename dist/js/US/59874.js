@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59874"]={"code":"59874","region":"Montana","city":"Trout Creek","latitude":47.83083,"longitude":-115.59417}}(window,'GeoPostal','US');

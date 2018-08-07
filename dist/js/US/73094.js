@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73094"]={"code":"73094","region":"OK","city":"Washita","latitude":35.1,"longitude":-98.34}}(window,'GeoPostal','US');

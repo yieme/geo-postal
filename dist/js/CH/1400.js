@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1400"]={"code":"1400","region":"Vaud","city":"Yverdon-les-Bains","latitude":46.77852,"longitude":6.64115}}(window,'GeoPostal','CH');

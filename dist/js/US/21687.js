@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21687"]={"code":"21687","region":"MD","city":"Nationwide Fulfill Systems","latitude":38.94,"longitude":-75.88}}(window,'GeoPostal','US');

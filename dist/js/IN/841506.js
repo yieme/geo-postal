@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["841506"]={"code":"841506","region":"West Bengal","city":"Ingraj Bazar","latitude":25,"longitude":88.15}}(window,'GeoPostal','IN');

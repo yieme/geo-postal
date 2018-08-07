@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50710"]={"code":"50710","region":"Mexico","city":"San Miguel Tenochtitlan","latitude":19.7525,"longitude":-99.93083}}(window,'GeoPostal','MX');

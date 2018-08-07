@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32420"]={"code":"32420","region":"Florida","city":"Alford","latitude":30.69472,"longitude":-85.39306}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2087"]={"code":"2087","region":"Victoria","city":"Killarney","latitude":-38.35,"longitude":142.33333}}(window,'GeoPostal','AU');

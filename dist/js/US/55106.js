@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55106"]={"code":"55106","region":"Minnesota","city":"Maplewood","latitude":44.95302,"longitude":-92.99522}}(window,'GeoPostal','US');

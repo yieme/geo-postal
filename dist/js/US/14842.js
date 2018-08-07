@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14842"]={"code":"14842","region":"NY","city":"Himrod","latitude":42.5945,"longitude":-76.9508}}(window,'GeoPostal','US');

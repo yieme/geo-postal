@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242352"]={"code":"242352","region":"Anhui","city":"Honglong","latitude":30.49875,"longitude":119.00447}}(window,'GeoPostal','CN');

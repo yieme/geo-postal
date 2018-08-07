@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22545"]={"code":"22545","region":"VA","city":"Ruby","latitude":38.5086,"longitude":-77.543}}(window,'GeoPostal','US');

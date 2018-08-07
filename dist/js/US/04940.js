@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04940"]={"code":"04940","region":"ME","city":"Farmington Falls","latitude":44.6226,"longitude":-70.0752}}(window,'GeoPostal','US');

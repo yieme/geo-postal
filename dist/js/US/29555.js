@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29555"]={"code":"29555","region":"South Carolina","city":"Johnsonville","latitude":33.81794,"longitude":-79.44922}}(window,'GeoPostal','US');

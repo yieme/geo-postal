@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17983"]={"code":"17983","region":"PA","city":"Valley View","latitude":40.6445,"longitude":-76.5448}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38376"]={"code":"38376","region":"TN","city":"Shiloh","latitude":35.1154,"longitude":-88.3617}}(window,'GeoPostal','US');

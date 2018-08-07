@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42364"]={"code":"42364","region":"KY","city":"Pellville","latitude":37.7523,"longitude":-86.8136}}(window,'GeoPostal','US');

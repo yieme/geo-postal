@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19028"]={"code":"19028","region":"PA","city":"Edgemont","latitude":39.9748,"longitude":-75.4505}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56102"]={"code":"56102","region":"Mykolaivska oblast","city":"Bashtanka","latitude":47.40719,"longitude":32.43868}}(window,'GeoPostal','UA');

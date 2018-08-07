@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02829"]={"code":"02829","region":"RI","city":"Harmony","latitude":41.8793,"longitude":-71.5894}}(window,'GeoPostal','US');

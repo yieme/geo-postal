@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49127"]={"code":"49127","region":"Jogevamaa","city":"Tabivere","latitude":58.55417,"longitude":26.59556}}(window,'GeoPostal','EE');

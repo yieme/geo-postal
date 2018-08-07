@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08491"]={"code":"08491","region":"Thuringen","city":"Reinsdorf","latitude":50.63927,"longitude":12.23782}}(window,'GeoPostal','DE');

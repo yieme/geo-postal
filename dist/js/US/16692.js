@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16692"]={"code":"16692","region":"PA","city":"Westover","latitude":40.7615,"longitude":-78.7355}}(window,'GeoPostal','US');

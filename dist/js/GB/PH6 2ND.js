@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH6 2ND"]={"code":"PH6 2ND","region":"Scotland","city":"Saint Fillans","latitude":56.38333,"longitude":-4.11667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32957"]={"code":"32957","region":"FL","city":"Roseland","latitude":27.8359,"longitude":-80.4931}}(window,'GeoPostal','US');

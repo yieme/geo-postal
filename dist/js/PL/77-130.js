@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-130"]={"code":"77-130","region":"Pomorskie","city":"Lipnica","latitude":53.99623,"longitude":17.40702}}(window,'GeoPostal','PL');

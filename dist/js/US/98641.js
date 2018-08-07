@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98641"]={"code":"98641","region":"Washington","city":"Oysterville","latitude":46.550633,"longitude":-124.053545}}(window,'GeoPostal','US');

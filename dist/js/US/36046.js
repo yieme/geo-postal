@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36046"]={"code":"36046","region":"AL","city":"Lapine","latitude":31.9657,"longitude":-86.2844}}(window,'GeoPostal','US');

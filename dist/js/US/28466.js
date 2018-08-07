@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28466"]={"code":"28466","region":"North Carolina","city":"Wallace","latitude":34.736777,"longitude":-77.99686}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX31 4LZ"]={"code":"EX31 4LZ","region":"England","city":"East Down","latitude":51.16667,"longitude":-4}}(window,'GeoPostal','GB');

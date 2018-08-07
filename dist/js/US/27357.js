@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27357"]={"code":"27357","region":"NC","city":"Stokesdale","latitude":36.2552,"longitude":-79.9705}}(window,'GeoPostal','US');

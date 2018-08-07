@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5000-775"]={"code":"5000-775","region":"Vila Real","city":"Vila Real","latitude":41.30062,"longitude":-7.74413}}(window,'GeoPostal','PT');

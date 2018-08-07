@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66210"]={"code":"66210","region":"Occitanie","city":"Formigueres","latitude":42.6156,"longitude":2.1025}}(window,'GeoPostal','FR');

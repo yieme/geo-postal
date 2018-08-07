@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22400"]={"code":"22400","region":"Aragon","city":"Monzon","latitude":41.91084,"longitude":0.19406}}(window,'GeoPostal','ES');

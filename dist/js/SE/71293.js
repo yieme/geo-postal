@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71293"]={"code":"71293","region":"Orebro lan","city":"Haellefors","latitude":59.78388,"longitude":14.52197}}(window,'GeoPostal','SE');

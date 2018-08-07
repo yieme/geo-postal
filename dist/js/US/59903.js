@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59903"]={"code":"59903","region":"MT","city":"Kalispell","latitude":48.2237,"longitude":-114.4296}}(window,'GeoPostal','US');

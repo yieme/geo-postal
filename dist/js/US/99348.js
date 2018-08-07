@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99348"]={"code":"99348","region":"Washington","city":"Prescott","latitude":46.300047,"longitude":-118.312519}}(window,'GeoPostal','US');

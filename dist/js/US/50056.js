@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50056"]={"code":"50056","region":"Iowa","city":"Colo","latitude":42.017302,"longitude":-93.31703}}(window,'GeoPostal','US');

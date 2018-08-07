@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41557"]={"code":"41557","region":"Kentucky","city":"Raccoon","latitude":37.497521,"longitude":-82.427502}}(window,'GeoPostal','US');

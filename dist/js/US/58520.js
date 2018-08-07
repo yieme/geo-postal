@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58520"]={"code":"58520","region":"ND","city":"Almont","latitude":46.7046,"longitude":-101.5221}}(window,'GeoPostal','US');

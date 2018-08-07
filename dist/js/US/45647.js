@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45647"]={"code":"45647","region":"OH","city":"Londonderry","latitude":39.2723,"longitude":-82.7833}}(window,'GeoPostal','US');

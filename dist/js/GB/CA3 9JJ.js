@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA3 9JJ"]={"code":"CA3 9JJ","region":"England","city":"Stanwix","latitude":54.90569,"longitude":-2.94134}}(window,'GeoPostal','GB');

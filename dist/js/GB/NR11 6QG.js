@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR11 6QG"]={"code":"NR11 6QG","region":"England","city":"Corpusty","latitude":52.82796,"longitude":1.13513}}(window,'GeoPostal','GB');

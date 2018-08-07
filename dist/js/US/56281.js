@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56281"]={"code":"56281","region":"MN","city":"Prinsburg","latitude":44.9371,"longitude":-95.1865}}(window,'GeoPostal','US');

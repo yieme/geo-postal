@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81126"]={"code":"81126","region":"CO","city":"Chama","latitude":37.162,"longitude":-105.3783}}(window,'GeoPostal','US');

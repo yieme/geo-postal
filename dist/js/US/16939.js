@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16939"]={"code":"16939","region":"PA","city":"Morris Run","latitude":41.6775,"longitude":-77.0152}}(window,'GeoPostal','US');

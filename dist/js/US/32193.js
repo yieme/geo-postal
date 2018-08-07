@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32193"]={"code":"32193","region":"Florida","city":"Welaka","latitude":29.48043,"longitude":-81.672256}}(window,'GeoPostal','US');

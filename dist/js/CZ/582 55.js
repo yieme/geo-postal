@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["582 55"]={"code":"582 55","region":"Kraj Vysocina","city":"Heralec","latitude":49.53083,"longitude":15.45708}}(window,'GeoPostal','CZ');

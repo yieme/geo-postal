@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16610"]={"code":"16610","region":"Attiki","city":"Kalamaki","latitude":37.91033,"longitude":23.72361}}(window,'GeoPostal','GR');

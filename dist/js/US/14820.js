@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14820"]={"code":"14820","region":"NY","city":"Cameron Mills","latitude":42.1925,"longitude":-77.365}}(window,'GeoPostal','US');

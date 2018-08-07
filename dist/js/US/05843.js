@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05843"]={"code":"05843","region":"Vermont","city":"Hardwick","latitude":44.507628,"longitude":-72.357892}}(window,'GeoPostal','US');

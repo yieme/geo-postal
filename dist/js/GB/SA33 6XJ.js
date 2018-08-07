@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 6XJ"]={"code":"SA33 6XJ","region":"Wales","city":"Cwmduad","latitude":51.95509,"longitude":-4.36435}}(window,'GeoPostal','GB');

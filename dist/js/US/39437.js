@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39437"]={"code":"39437","region":"MS","city":"Ellisville","latitude":31.5797,"longitude":-89.2231}}(window,'GeoPostal','US');

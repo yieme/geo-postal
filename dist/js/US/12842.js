@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12842"]={"code":"12842","region":"New York","city":"Indian Lake","latitude":43.7825,"longitude":-74.29361}}(window,'GeoPostal','US');

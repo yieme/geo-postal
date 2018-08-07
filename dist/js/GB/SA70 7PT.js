@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA70 7PT"]={"code":"SA70 7PT","region":"Wales","city":"Penally","latitude":51.65898,"longitude":-4.72322}}(window,'GeoPostal','GB');

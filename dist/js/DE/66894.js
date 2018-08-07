@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66894"]={"code":"66894","region":"Rheinland-Pfalz","city":"Martinshohe","latitude":49.36667,"longitude":7.48333}}(window,'GeoPostal','DE');

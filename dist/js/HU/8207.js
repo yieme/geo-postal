@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8207"]={"code":"8207","region":"Veszprem","city":"Veszprem","latitude":47.09327,"longitude":17.91149}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16035"]={"code":"16035","region":"PA","city":"Forestville","latitude":41.1068,"longitude":-80.007}}(window,'GeoPostal','US');

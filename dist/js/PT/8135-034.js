@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8135-034"]={"code":"8135-034","region":"Faro","city":"Almancil","latitude":37.08686,"longitude":-8.03074}}(window,'GeoPostal','PT');

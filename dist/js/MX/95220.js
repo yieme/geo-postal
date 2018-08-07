@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95220"]={"code":"95220","region":"Veracruz de Ignacio de la Llave","city":"Piedras Negras","latitude":18.76667,"longitude":-96.18333}}(window,'GeoPostal','MX');

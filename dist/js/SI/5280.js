@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5280"]={"code":"5280","region":"Idrija","city":"Idrija","latitude":46.00278,"longitude":14.03056}}(window,'GeoPostal','SI');

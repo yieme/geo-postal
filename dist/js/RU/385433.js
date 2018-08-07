@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385433"]={"code":"385433","region":"Rostovskaya oblast'","city":"Mayskiy","latitude":47.696,"longitude":40.10259}}(window,'GeoPostal','RU');

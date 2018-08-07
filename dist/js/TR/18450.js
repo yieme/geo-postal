@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18450"]={"code":"18450","region":"Ankara","city":"Polatli","latitude":39.57716,"longitude":32.14132}}(window,'GeoPostal','TR');

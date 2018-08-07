@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO18 9DB"]={"code":"PO18 9DB","region":"England","city":"Lordington","latitude":50.88251,"longitude":-0.89101}}(window,'GeoPostal','GB');

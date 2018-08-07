@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93382"]={"code":"93382","region":"CA","city":"Bakersfield","latitude":35.25,"longitude":-119}}(window,'GeoPostal','US');

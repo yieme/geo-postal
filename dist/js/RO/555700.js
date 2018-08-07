@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["555700"]={"code":"555700","region":"Sibiu","city":"Talmaciu","latitude":45.669659,"longitude":24.262641}}(window,'GeoPostal','RO');

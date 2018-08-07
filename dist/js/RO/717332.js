@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717332"]={"code":"717332","region":"Botosani","city":"Ripiceni","latitude":47.95,"longitude":27.13333}}(window,'GeoPostal','RO');

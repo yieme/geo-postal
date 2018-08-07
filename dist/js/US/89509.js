@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89509"]={"code":"89509","region":"Nevada","city":"Reno","latitude":39.4779,"longitude":-119.89723}}(window,'GeoPostal','US');

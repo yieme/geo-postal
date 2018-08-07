@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58760"]={"code":"58760","region":"ND","city":"Maxbass","latitude":48.7722,"longitude":-101.2563}}(window,'GeoPostal','US');

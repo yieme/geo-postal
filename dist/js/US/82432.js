@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82432"]={"code":"82432","region":"WY","city":"Manderson","latitude":44.2694,"longitude":-107.964}}(window,'GeoPostal','US');

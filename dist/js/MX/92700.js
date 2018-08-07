@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92700"]={"code":"92700","region":"Veracruz de Ignacio de la Llave","city":"Chicontepec","latitude":20.96667,"longitude":-98.16667}}(window,'GeoPostal','MX');

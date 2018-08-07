@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73049"]={"code":"73049","region":"OK","city":"Jones","latitude":35.5753,"longitude":-97.2891}}(window,'GeoPostal','US');

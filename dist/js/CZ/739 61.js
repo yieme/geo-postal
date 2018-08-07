@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["739 61"]={"code":"739 61","region":"Moravskoslezsky kraj","city":"Trinec","latitude":49.67763,"longitude":18.67078}}(window,'GeoPostal','CZ');

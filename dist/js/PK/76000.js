@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76000"]={"code":"76000","region":"Sindh","city":"Hyderabad","latitude":25.39242,"longitude":68.37366}}(window,'GeoPostal','PK');

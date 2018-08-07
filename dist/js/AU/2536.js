@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2536"]={"code":"2536","region":"New South Wales","city":"Batemans Bay","latitude":-35.70658,"longitude":150.17542}}(window,'GeoPostal','AU');

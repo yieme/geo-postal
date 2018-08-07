@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3463"]={"code":"3463","region":"Victoria","city":"Maldon","latitude":-36.9957,"longitude":144.06834}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56291"]={"code":"56291","region":"Minnesota","city":"Taunton","latitude":44.589535,"longitude":-96.054975}}(window,'GeoPostal','US');

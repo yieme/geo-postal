@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32759"]={"code":"32759","region":"FL","city":"Oak Hill","latitude":28.87,"longitude":-80.8551}}(window,'GeoPostal','US');

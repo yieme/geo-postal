@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27175-000"]={"code":"27175-000","region":"Rio de Janeiro","city":"Pirai","latitude":-22.62917,"longitude":-43.89806}}(window,'GeoPostal','BR');

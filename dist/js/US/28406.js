@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28406"]={"code":"28406","region":"North Carolina","city":"Sea Breeze","latitude":34.175189,"longitude":-77.884982}}(window,'GeoPostal','US');

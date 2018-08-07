@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA19 7XZ"]={"code":"SA19 7XZ","region":"Wales","city":"Talley","latitude":51.97561,"longitude":-3.98739}}(window,'GeoPostal','GB');

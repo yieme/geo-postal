@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26695"]={"code":"26695","region":"Skane lan","city":"Munka-Ljungby","latitude":56.25,"longitude":12.96667}}(window,'GeoPostal','SE');

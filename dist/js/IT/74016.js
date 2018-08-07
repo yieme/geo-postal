@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74016"]={"code":"74016","region":"Puglia","city":"Massafra","latitude":40.59194,"longitude":17.11528}}(window,'GeoPostal','IT');

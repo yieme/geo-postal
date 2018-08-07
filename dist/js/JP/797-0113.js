@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["797-0113"]={"code":"797-0113","region":"Ehime","city":"Seiyo","latitude":33.367,"longitude":132.517}}(window,'GeoPostal','JP');

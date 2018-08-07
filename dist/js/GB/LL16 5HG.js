@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL16 5HG"]={"code":"LL16 5HG","region":"Wales","city":"Llansannan","latitude":53.17895,"longitude":-3.59605}}(window,'GeoPostal','GB');

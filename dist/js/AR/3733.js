@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3733"]={"code":"3733","region":"Chaco","city":"Chorotis","latitude":-27.91578,"longitude":-61.39982}}(window,'GeoPostal','AR');

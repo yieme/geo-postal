@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88121"]={"code":"88121","region":"New Mexico","city":"House","latitude":34.736565,"longitude":-103.982493}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682936"]={"code":"682936","region":"Yevreyskaya avtonomnaya oblast'","city":"Smidovich","latitude":48.6,"longitude":133.81667}}(window,'GeoPostal','RU');

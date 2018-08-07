@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43913"]={"code":"43913","region":"OH","city":"Brilliant","latitude":40.2683,"longitude":-80.6319}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["020000"]={"code":"020000","region":"Soltustik Qazaqstan oblysy","city":"Kokshetau","latitude":53.2775,"longitude":69.38833}}(window,'GeoPostal','KZ');

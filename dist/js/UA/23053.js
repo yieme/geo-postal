@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23053"]={"code":"23053","region":"Vinnytska oblast","city":"Kopayhorod","latitude":48.85917,"longitude":27.7969}}(window,'GeoPostal','UA');

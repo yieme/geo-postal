@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01560"]={"code":"01560","region":"MA","city":"South Grafton","latitude":42.176,"longitude":-71.6927}}(window,'GeoPostal','US');

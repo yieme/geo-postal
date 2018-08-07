@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75667"]={"code":"75667","region":"TX","city":"Laneville","latitude":31.9508,"longitude":-94.866}}(window,'GeoPostal','US');

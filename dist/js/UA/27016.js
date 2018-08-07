@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27016"]={"code":"27016","region":"Kirovohradska oblast","city":"Lypnyazhka","latitude":48.44694,"longitude":31.07611}}(window,'GeoPostal','UA');

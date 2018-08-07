@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15095"]={"code":"15095","region":"PA","city":"Warrendale","latitude":40.6534,"longitude":-80.0795}}(window,'GeoPostal','US');

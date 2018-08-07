@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95628"]={"code":"95628","region":"California","city":"Fair Oaks","latitude":38.64463,"longitude":-121.27217}}(window,'GeoPostal','US');

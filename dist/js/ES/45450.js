@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45450"]={"code":"45450","region":"Castilla-La Mancha","city":"Orgaz","latitude":39.64826,"longitude":-3.87577}}(window,'GeoPostal','ES');

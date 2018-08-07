@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49290"]={"code":"49290","region":"Krapinsko-zagorska zupanija","city":"Klanjec","latitude":46.05059,"longitude":15.744512}}(window,'GeoPostal','HR');

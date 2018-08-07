@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245500"]={"code":"245500","region":"Anhui","city":"Biyang","latitude":29.92885,"longitude":117.94638}}(window,'GeoPostal','CN');

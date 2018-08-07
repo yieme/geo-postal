@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48890"]={"code":"48890","region":"MI","city":"Sunfield","latitude":42.7693,"longitude":-84.9813}}(window,'GeoPostal','US');

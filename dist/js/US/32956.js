@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32956"]={"code":"32956","region":"FL","city":"Rockledge","latitude":28.3298,"longitude":-80.7323}}(window,'GeoPostal','US');

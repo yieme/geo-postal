@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42151"]={"code":"42151","region":"KY","city":"Hestand","latitude":36.6535,"longitude":-85.5698}}(window,'GeoPostal','US');

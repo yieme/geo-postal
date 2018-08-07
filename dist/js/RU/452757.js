@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452757"]={"code":"452757","region":"Bashkortostan, Respublika","city":"Tuymazy","latitude":54.60666,"longitude":53.7097}}(window,'GeoPostal','RU');

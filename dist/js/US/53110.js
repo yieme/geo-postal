@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53110"]={"code":"53110","region":"Wisconsin","city":"Cudahy","latitude":42.947597,"longitude":-87.863932}}(window,'GeoPostal','US');

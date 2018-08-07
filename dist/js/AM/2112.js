@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2112"]={"code":"2112","region":"Lori","city":"Metsavan","latitude":41.20156,"longitude":44.22877}}(window,'GeoPostal','AM');

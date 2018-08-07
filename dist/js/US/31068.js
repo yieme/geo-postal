@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31068"]={"code":"31068","region":"GA","city":"Oglethorpe","latitude":32.2842,"longitude":-84.083}}(window,'GeoPostal','US');

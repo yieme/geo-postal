@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65439"]={"code":"65439","region":"Hessen","city":"Bad Weilbach","latitude":50.03424,"longitude":8.42866}}(window,'GeoPostal','DE');

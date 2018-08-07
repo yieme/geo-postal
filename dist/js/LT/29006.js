@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29006"]={"code":"29006","region":"Utenos apskritis","city":"Anyksciai","latitude":55.52557,"longitude":25.10264}}(window,'GeoPostal','LT');

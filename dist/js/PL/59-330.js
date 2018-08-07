@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-330"]={"code":"59-330","region":"Dolnoslaskie","city":"Scinawa","latitude":51.41626,"longitude":16.4251}}(window,'GeoPostal','PL');

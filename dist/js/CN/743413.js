@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["743413"]={"code":"743413","region":"Gansu","city":"Xindian","latitude":35.35222,"longitude":105.51807}}(window,'GeoPostal','CN');

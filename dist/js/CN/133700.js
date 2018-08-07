@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133700"]={"code":"133700","region":"Jilin","city":"Dunhua","latitude":43.3725,"longitude":128.2425}}(window,'GeoPostal','CN');

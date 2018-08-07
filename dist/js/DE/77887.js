@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77887"]={"code":"77887","region":"Baden-Wurttemberg","city":"Sasbachwalden","latitude":48.61667,"longitude":8.13333}}(window,'GeoPostal','DE');

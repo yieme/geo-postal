@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["454000"]={"code":"454000","region":"Henan","city":"Jiaozuo","latitude":35.23972,"longitude":113.23306}}(window,'GeoPostal','CN');

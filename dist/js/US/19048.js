@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19048"]={"code":"19048","region":"PA","city":"Fort Washington","latitude":40.1735,"longitude":-74.9246}}(window,'GeoPostal','US');

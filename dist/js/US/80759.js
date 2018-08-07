@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80759"]={"code":"80759","region":"Colorado","city":"Yuma","latitude":40.12221,"longitude":-102.72521}}(window,'GeoPostal','US');

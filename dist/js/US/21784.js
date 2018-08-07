@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21784"]={"code":"21784","region":"Maryland","city":"Eldersburg","latitude":39.339555,"longitude":-76.969937}}(window,'GeoPostal','US');

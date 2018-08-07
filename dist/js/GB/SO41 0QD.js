@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO41 0QD"]={"code":"SO41 0QD","region":"England","city":"Milford on Sea","latitude":50.72561,"longitude":-1.59004}}(window,'GeoPostal','GB');

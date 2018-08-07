@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24111"]={"code":"24111","region":"VA","city":"Mc Coy","latitude":37.1742,"longitude":-80.3957}}(window,'GeoPostal','US');

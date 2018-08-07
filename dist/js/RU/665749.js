@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665749"]={"code":"665749","region":"Irkutskaya oblast'","city":"Pokosnoye","latitude":55.52583,"longitude":101.05361}}(window,'GeoPostal','RU');

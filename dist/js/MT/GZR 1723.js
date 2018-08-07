@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GZR 1723"]={"code":"GZR 1723","region":"Ta' Xbiex","city":"Il-Gzira","latitude":35.90583,"longitude":14.48806}}(window,'GeoPostal','MT');

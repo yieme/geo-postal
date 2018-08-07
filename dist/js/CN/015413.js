@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["015413"]={"code":"015413","region":"Nei Mongol","city":"Xamba","latitude":40.88472,"longitude":107.14}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04444"]={"code":"04444","region":"Maine","city":"Hampden","latitude":44.74452,"longitude":-68.83698}}(window,'GeoPostal','US');

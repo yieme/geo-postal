@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV40 8DX"]={"code":"IV40 8DX","region":"Scotland","city":"Dornie","latitude":57.27603,"longitude":-5.51411}}(window,'GeoPostal','GB');

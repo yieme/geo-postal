@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32034"]={"code":"32034","region":"Veneto","city":"Pedavena","latitude":46.03951,"longitude":11.8831}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03082"]={"code":"03082","region":"NH","city":"Lyndeborough","latitude":42.8954,"longitude":-71.7744}}(window,'GeoPostal','US');

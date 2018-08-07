@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1460"]={"code":"1460","region":"Brabant wallon","city":"Braine-le-Chateau","latitude":50.6799,"longitude":4.27385}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51061"]={"code":"51061","region":"Iowa","city":"Washta","latitude":42.57661,"longitude":-95.72628}}(window,'GeoPostal','US');

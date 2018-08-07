@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08246"]={"code":"08246","region":"NJ","city":"South Seaville","latitude":39.179,"longitude":-74.7599}}(window,'GeoPostal','US');

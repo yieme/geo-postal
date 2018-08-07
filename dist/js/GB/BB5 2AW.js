@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB5 2AW"]={"code":"BB5 2AW","region":"England","city":"Rossendale","latitude":53.68456,"longitude":-2.2769}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25285"]={"code":"25285","region":"West Virginia","city":"Wallback","latitude":38.579918,"longitude":-81.086674}}(window,'GeoPostal','US');

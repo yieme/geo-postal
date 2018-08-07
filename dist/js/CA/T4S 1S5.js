@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4S 1S5"]={"code":"T4S 1S5","region":"Alberta","city":"Norglenwold","latitude":52.31681,"longitude":-114.1187}}(window,'GeoPostal','CA');

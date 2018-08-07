@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49456"]={"code":"49456","region":"MI","city":"Spring Lake","latitude":43.0887,"longitude":-86.1915}}(window,'GeoPostal','US');

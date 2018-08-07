@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA10 5NT"]={"code":"LA10 5NT","region":"England","city":"West Mostard","latitude":54.31144,"longitude":-2.4439}}(window,'GeoPostal','GB');

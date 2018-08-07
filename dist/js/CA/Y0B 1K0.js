@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["Y0B 1K0"]={"code":"Y0B 1K0","region":"Yukon","city":"Faro","latitude":62.23287,"longitude":-133.33721}}(window,'GeoPostal','CA');

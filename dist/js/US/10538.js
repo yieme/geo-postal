@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10538"]={"code":"10538","region":"New York","city":"Larchmont","latitude":40.93596,"longitude":-73.756786}}(window,'GeoPostal','US');

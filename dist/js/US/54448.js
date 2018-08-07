@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54448"]={"code":"54448","region":"Wisconsin","city":"Marathon","latitude":44.929843,"longitude":-89.83364}}(window,'GeoPostal','US');

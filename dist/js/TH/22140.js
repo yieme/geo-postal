@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22140"]={"code":"22140","region":"Chanthaburi","city":"Soi Dao","latitude":13.12894,"longitude":102.21402}}(window,'GeoPostal','TH');

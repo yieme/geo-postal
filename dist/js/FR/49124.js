@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49124"]={"code":"49124","region":"Auvergne-Rhone-Alpes","city":"Anjou","latitude":45.3478,"longitude":4.8822}}(window,'GeoPostal','FR');

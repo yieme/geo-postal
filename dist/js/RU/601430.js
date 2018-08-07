@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601430"]={"code":"601430","region":"Vladimirskaya oblast'","city":"Novovyazniki","latitude":56.1975,"longitude":42.17111}}(window,'GeoPostal','RU');

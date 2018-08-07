@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90888"]={"code":"90888","region":"CA","city":"Far","latitude":33.77,"longitude":-118.18}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15660"]={"code":"15660","region":"PA","city":"Lowber","latitude":40.2459,"longitude":-79.7709}}(window,'GeoPostal','US');

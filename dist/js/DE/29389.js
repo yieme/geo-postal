@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29389"]={"code":"29389","region":"Niedersachsen","city":"Hacklingen","latitude":52.84903,"longitude":10.6686}}(window,'GeoPostal','DE');

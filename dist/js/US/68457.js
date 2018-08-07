@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68457"]={"code":"68457","region":"Nebraska","city":"York","latitude":40.148446,"longitude":-95.707754}}(window,'GeoPostal','US');

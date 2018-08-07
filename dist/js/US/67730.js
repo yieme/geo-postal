@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67730"]={"code":"67730","region":"Kansas","city":"Atwood","latitude":39.807579,"longitude":-101.041115}}(window,'GeoPostal','US');

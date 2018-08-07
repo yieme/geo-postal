@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6952"]={"code":"6952","region":"Vorarlberg","city":"Sibratsgfall","latitude":47.42667,"longitude":10.03806}}(window,'GeoPostal','AT');

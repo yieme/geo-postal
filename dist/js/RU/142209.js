@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142209"]={"code":"142209","region":"Moskovskaya oblast'","city":"Serpukhov","latitude":54.92139,"longitude":37.41083}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-7599"]={"code":"L-7599","region":"Luxembourg","city":"Mersch","latitude":49.74889,"longitude":6.10611}}(window,'GeoPostal','LU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8680"]={"code":"8680","region":"Yambol","city":"Straldzha","latitude":42.6,"longitude":26.68333}}(window,'GeoPostal','BG');

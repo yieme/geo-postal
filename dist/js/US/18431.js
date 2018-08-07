@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18431"]={"code":"18431","region":"Pennsylvania","city":"Honesdale","latitude":41.569347,"longitude":-75.256185}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA6 8RT"]={"code":"BA6 8RT","region":"England","city":"West Pennard","latitude":51.14074,"longitude":-2.64676}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456825"]={"code":"456825","region":"Chelyabinskaya oblast'","city":"Vishnevogorsk","latitude":55.9913,"longitude":60.6579}}(window,'GeoPostal','RU');

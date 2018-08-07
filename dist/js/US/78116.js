@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78116"]={"code":"78116","region":"TX","city":"Gillett","latitude":29.0514,"longitude":-97.8343}}(window,'GeoPostal','US');

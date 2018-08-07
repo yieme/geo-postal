@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-524"]={"code":"63-524","region":"Wielkopolskie","city":"Czajkow","latitude":51.49197,"longitude":18.32726}}(window,'GeoPostal','PL');

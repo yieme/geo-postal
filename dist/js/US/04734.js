@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04734"]={"code":"04734","region":"ME","city":"Blaine","latitude":46.5048,"longitude":-67.8686}}(window,'GeoPostal','US');

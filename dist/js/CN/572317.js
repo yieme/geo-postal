@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572317"]={"code":"572317","region":"Hainan","city":"Nanlin","latitude":18.40762,"longitude":109.61267}}(window,'GeoPostal','CN');

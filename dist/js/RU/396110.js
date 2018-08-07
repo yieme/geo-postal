@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396110"]={"code":"396110","region":"Voronezhskaya oblast'","city":"Verkhnyaya Khava","latitude":51.84045,"longitude":39.94134}}(window,'GeoPostal','RU');

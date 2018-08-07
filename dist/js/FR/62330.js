@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62330"]={"code":"62330","region":"Hauts-de-France","city":"Isbergues","latitude":50.62328,"longitude":2.45902}}(window,'GeoPostal','FR');

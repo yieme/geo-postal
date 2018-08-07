@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08072"]={"code":"08072","region":"NJ","city":"Quinton","latitude":39.5459,"longitude":-75.4124}}(window,'GeoPostal','US');

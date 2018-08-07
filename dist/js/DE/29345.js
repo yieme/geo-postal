@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29345"]={"code":"29345","region":"Niedersachsen","city":"Hohenrieth","latitude":52.85,"longitude":10.28333}}(window,'GeoPostal','DE');

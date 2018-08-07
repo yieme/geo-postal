@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27370"]={"code":"27370","region":"NC","city":"Trinity","latitude":35.8429,"longitude":-79.9902}}(window,'GeoPostal','US');

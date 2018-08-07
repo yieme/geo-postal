@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391 37"]={"code":"391 37","region":"Jihocesky kraj","city":"Chotoviny","latitude":49.47803,"longitude":14.67695}}(window,'GeoPostal','CZ');

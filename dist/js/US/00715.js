@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00715"]={"code":"00715","region":"PR","city":"Mercedita","latitude":18,"longitude":-66.56}}(window,'GeoPostal','US');

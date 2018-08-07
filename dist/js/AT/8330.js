@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8330"]={"code":"8330","region":"Steiermark","city":"Feldbach","latitude":46.95306,"longitude":15.88833}}(window,'GeoPostal','AT');

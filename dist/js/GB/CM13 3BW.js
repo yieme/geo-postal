@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM13 3BW"]={"code":"CM13 3BW","region":"England","city":"Brentwood","latitude":51.62127,"longitude":0.30556}}(window,'GeoPostal','GB');

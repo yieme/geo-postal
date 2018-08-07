@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["Y0B 1B0"]={"code":"Y0B 1B0","region":"Yukon","city":"Carcross","latitude":60.16609,"longitude":-134.70367}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57421"]={"code":"57421","region":"SD","city":"Amherst","latitude":45.7585,"longitude":-97.9274}}(window,'GeoPostal','US');

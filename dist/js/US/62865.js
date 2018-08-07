@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62865"]={"code":"62865","region":"IL","city":"Mulkeytown","latitude":37.9687,"longitude":-89.1159}}(window,'GeoPostal','US');

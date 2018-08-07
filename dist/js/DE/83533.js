@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83533"]={"code":"83533","region":"Bayern","city":"Rudering","latitude":48.07343,"longitude":12.16144}}(window,'GeoPostal','DE');

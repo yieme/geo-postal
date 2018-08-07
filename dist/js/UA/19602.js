@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19602"]={"code":"19602","region":"Cherkaska oblast","city":"Russkaya Polyana","latitude":49.417,"longitude":31.92009}}(window,'GeoPostal','UA');

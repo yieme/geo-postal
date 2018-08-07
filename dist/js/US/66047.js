@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66047"]={"code":"66047","region":"Kansas","city":"Lawrence","latitude":38.943748,"longitude":-95.281383}}(window,'GeoPostal','US');

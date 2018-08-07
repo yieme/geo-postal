@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67510"]={"code":"67510","region":"KS","city":"Abbyville","latitude":37.9626,"longitude":-98.2071}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO36 0FB"]={"code":"PO36 0FB","region":"England","city":"Newchurch","latitude":50.66442,"longitude":-1.2085}}(window,'GeoPostal','GB');

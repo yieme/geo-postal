@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60538"]={"code":"60538","region":"IL","city":"Montgomery","latitude":41.7177,"longitude":-88.332}}(window,'GeoPostal','US');

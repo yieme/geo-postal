@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["739 21"]={"code":"739 21","region":"Moravskoslezsky kraj","city":"Repiste","latitude":49.73338,"longitude":18.31707}}(window,'GeoPostal','CZ');

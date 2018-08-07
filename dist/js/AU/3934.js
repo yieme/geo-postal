@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3934"]={"code":"3934","region":"Victoria","city":"Mount Martha","latitude":-38.26667,"longitude":145.01667}}(window,'GeoPostal','AU');

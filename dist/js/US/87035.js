@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87035"]={"code":"87035","region":"New Mexico","city":"Moriarty","latitude":34.99005,"longitude":-106.04919}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78262"]={"code":"78262","region":"TX","city":"Kelly Usa","latitude":29.42,"longitude":-98.49}}(window,'GeoPostal','US');

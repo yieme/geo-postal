@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665854"]={"code":"665854","region":"Irkutskaya oblast'","city":"Meget","latitude":52.415,"longitude":104.04944}}(window,'GeoPostal','RU');

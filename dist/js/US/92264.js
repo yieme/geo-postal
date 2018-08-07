@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92264"]={"code":"92264","region":"California","city":"Palm Springs","latitude":33.800492,"longitude":-116.516605}}(window,'GeoPostal','US');

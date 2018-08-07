@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-650"]={"code":"34-650","region":"Malopolskie","city":"Tymbark","latitude":49.72859,"longitude":20.32539}}(window,'GeoPostal','PL');

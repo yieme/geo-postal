@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29306"]={"code":"29306","region":"South Carolina","city":"Spartanburg","latitude":34.928838,"longitude":-81.907603}}(window,'GeoPostal','US');

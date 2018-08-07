@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2826"]={"code":"2826","region":"Tarlac","city":"La Paz","latitude":15.44125,"longitude":120.72863}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357000"]={"code":"357000","region":"Stavropol'skiy kray","city":"Kochubeyevskoye","latitude":44.64417,"longitude":41.84528}}(window,'GeoPostal','RU');

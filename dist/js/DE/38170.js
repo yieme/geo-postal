@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38170"]={"code":"38170","region":"Niedersachsen","city":"Schoppenstedt","latitude":52.14308,"longitude":10.7745}}(window,'GeoPostal','DE');

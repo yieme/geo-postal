@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14886"]={"code":"14886","region":"New York","city":"Trumansburg","latitude":42.517469,"longitude":-76.646768}}(window,'GeoPostal','US');

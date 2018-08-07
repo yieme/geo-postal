@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["475336"]={"code":"475336","region":"Madhya Pradesh","city":"Shivpuri","latitude":25.43333,"longitude":77.65}}(window,'GeoPostal','IN');

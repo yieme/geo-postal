@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24076"]={"code":"24076","region":"Virginia","city":"Claudville","latitude":36.596293,"longitude":-80.428402}}(window,'GeoPostal','US');

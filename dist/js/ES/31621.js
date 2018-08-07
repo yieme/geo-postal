@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31621"]={"code":"31621","region":"Navarra, Comunidad Foral de","city":"Egues-Uharte","latitude":42.83035,"longitude":-1.59087}}(window,'GeoPostal','ES');

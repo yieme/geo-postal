@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12207"]={"code":"12207","region":"New York","city":"Albany","latitude":42.65036,"longitude":-73.75481}}(window,'GeoPostal','US');

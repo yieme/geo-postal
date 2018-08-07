@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46130"]={"code":"46130","region":"Indiana","city":"Fountaintown","latitude":39.69545,"longitude":-85.781344}}(window,'GeoPostal','US');

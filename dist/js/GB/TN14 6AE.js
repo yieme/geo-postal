@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN14 6AE"]={"code":"TN14 6AE","region":"England","city":"Combe","latitude":51.34632,"longitude":-1.46762}}(window,'GeoPostal','GB');

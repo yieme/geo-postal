@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56227"]={"code":"56227","region":"Minnesota","city":"Correll","latitude":45.23167,"longitude":-96.16139}}(window,'GeoPostal','US');

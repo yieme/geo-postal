@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["093-0090"]={"code":"093-0090","region":"Hokkaido","city":"Abashiri","latitude":44.017,"longitude":144.267}}(window,'GeoPostal','JP');

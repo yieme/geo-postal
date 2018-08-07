@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14805"]={"code":"14805","region":"NY","city":"Alpine","latitude":42.351,"longitude":-76.7348}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44212"]={"code":"44212","region":"Ohio","city":"Brunswick","latitude":41.23811,"longitude":-81.8418}}(window,'GeoPostal','US');

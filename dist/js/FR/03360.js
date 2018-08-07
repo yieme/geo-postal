@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03360"]={"code":"03360","region":"Auvergne-Rhone-Alpes","city":"Ainay-le-Chateau","latitude":46.71142,"longitude":2.69245}}(window,'GeoPostal','FR');

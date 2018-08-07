@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36360"]={"code":"36360","region":"Centre-Val de Loire","city":"Lucay-le-Male","latitude":47.12996,"longitude":1.44173}}(window,'GeoPostal','FR');

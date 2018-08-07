@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30562"]={"code":"30562","region":"GA","city":"Mountain City","latitude":34.9181,"longitude":-83.3854}}(window,'GeoPostal','US');

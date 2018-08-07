@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW1V 2PB"]={"code":"SW1V 2PB","region":"England","city":"Pimlico","latitude":51.48897,"longitude":-0.13699}}(window,'GeoPostal','GB');

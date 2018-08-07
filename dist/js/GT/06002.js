@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06002"]={"code":"06002","region":"Santa Rosa","city":"Barberena","latitude":14.30944,"longitude":-90.36111}}(window,'GeoPostal','GT');

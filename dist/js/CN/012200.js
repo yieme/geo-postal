@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["012200"]={"code":"012200","region":"Nei Mongol","city":"Togrog Ul","latitude":40.77722,"longitude":113.20361}}(window,'GeoPostal','CN');

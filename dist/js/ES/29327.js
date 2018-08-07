@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29327"]={"code":"29327","region":"Andalucia","city":"Teba","latitude":36.98358,"longitude":-4.91913}}(window,'GeoPostal','ES');

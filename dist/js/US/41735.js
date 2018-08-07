@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41735"]={"code":"41735","region":"Kentucky","city":"Delphia","latitude":37.021203,"longitude":-83.091671}}(window,'GeoPostal','US');

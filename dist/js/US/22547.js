@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22547"]={"code":"22547","region":"VA","city":"Sealston","latitude":38.2711,"longitude":-77.1726}}(window,'GeoPostal','US');

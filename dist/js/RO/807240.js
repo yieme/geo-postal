@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807240"]={"code":"807240","region":"Galati","city":"Pechea","latitude":45.63333,"longitude":27.8}}(window,'GeoPostal','RO');

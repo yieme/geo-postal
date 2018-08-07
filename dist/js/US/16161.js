@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16161"]={"code":"16161","region":"PA","city":"Wheatland","latitude":41.2009,"longitude":-80.4978}}(window,'GeoPostal','US');

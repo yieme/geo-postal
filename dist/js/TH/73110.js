@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73110"]={"code":"73110","region":"Nakhon Pathom","city":"Sam Phran","latitude":13.72698,"longitude":100.21526}}(window,'GeoPostal','TH');

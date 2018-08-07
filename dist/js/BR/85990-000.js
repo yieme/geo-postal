@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85990-000"]={"code":"85990-000","region":"Parana","city":"Terra Roxa","latitude":-23.85571,"longitude":-50.0314}}(window,'GeoPostal','BR');

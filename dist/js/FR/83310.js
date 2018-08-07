@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83310"]={"code":"83310","region":"Provence-Alpes-Cote d'Azur","city":"Grimaud","latitude":43.27049,"longitude":6.52491}}(window,'GeoPostal','FR');

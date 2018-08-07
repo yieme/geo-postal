@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79200"]={"code":"79200","region":"Johor","city":"Iskandar Puteri","latitude":1.444179,"longitude":103.648716}}(window,'GeoPostal','MY');

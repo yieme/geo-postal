@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99181"]={"code":"99181","region":"Washington","city":"Valley","latitude":48.171044,"longitude":-117.782818}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95353"]={"code":"95353","region":"CA","city":"Modesto","latitude":37.6424,"longitude":-120.9999}}(window,'GeoPostal','US');

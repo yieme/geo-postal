@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330007"]={"code":"330007","region":"Jiangxi","city":"Meiling","latitude":28.79224,"longitude":115.74502}}(window,'GeoPostal','CN');

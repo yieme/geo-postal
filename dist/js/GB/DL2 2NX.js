@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL2 2NX"]={"code":"DL2 2NX","region":"England","city":"Dalton upon Tees","latitude":54.46435,"longitude":-1.54118}}(window,'GeoPostal','GB');

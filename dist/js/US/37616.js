@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37616"]={"code":"37616","region":"TN","city":"Afton","latitude":36.2265,"longitude":-82.7476}}(window,'GeoPostal','US');

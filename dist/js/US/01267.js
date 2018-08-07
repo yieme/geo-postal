@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01267"]={"code":"01267","region":"Massachusetts","city":"Williamstown","latitude":42.70108,"longitude":-73.21042}}(window,'GeoPostal','US');

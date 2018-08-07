@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0J 1C0"]={"code":"J0J 1C0","region":"Quebec","city":"Frelighsburg","latitude":45.05008,"longitude":-72.83243}}(window,'GeoPostal','CA');

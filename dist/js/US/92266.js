@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92266"]={"code":"92266","region":"California","city":"Palo Verde","latitude":33.427735,"longitude":-114.728087}}(window,'GeoPostal','US');

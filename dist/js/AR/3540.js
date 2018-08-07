@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3540"]={"code":"3540","region":"Chaco","city":"Villa Angela","latitude":-27.57383,"longitude":-60.71526}}(window,'GeoPostal','AR');

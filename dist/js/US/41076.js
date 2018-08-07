@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41076"]={"code":"41076","region":"Kentucky","city":"Cold Spring","latitude":39.02022,"longitude":-84.44016}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65777"]={"code":"65777","region":"Missouri","city":"Moody","latitude":36.537213,"longitude":-91.990824}}(window,'GeoPostal','US');

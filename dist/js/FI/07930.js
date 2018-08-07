@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07930"]={"code":"07930","region":"Uusimaa","city":"Perna","latitude":60.44869,"longitude":26.03187}}(window,'GeoPostal','FI');

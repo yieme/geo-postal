@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70372"]={"code":"70372","region":"LA","city":"Labadieville","latitude":29.8345,"longitude":-90.9613}}(window,'GeoPostal','US');

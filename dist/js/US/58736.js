@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58736"]={"code":"58736","region":"North Dakota","city":"Drake","latitude":47.924536,"longitude":-100.371029}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55052"]={"code":"55052","region":"Minnesota","city":"Forest Lake","latitude":44.233605,"longitude":-93.437087}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00705"]={"code":"00705","region":"PR","city":"Aibonito","latitude":18.14,"longitude":-66.26}}(window,'GeoPostal','US');

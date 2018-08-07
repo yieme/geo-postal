@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63931"]={"code":"63931","region":"Missouri","city":"Briar","latitude":36.64833,"longitude":-90.97167}}(window,'GeoPostal','US');

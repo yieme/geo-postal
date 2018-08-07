@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17878"]={"code":"17878","region":"PA","city":"Stillwater","latitude":41.1515,"longitude":-76.3696}}(window,'GeoPostal','US');

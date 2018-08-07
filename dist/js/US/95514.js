@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95514"]={"code":"95514","region":"CA","city":"Blocksburg","latitude":40.2987,"longitude":-123.6576}}(window,'GeoPostal','US');

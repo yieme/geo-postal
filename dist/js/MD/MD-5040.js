@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-5040"]={"code":"MD-5040","region":"Floresti","city":"Floresti","latitude":47.89333,"longitude":28.30139}}(window,'GeoPostal','MD');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18828"]={"code":"18828","region":"Pennsylvania","city":"Lawton","latitude":41.763969,"longitude":-76.097168}}(window,'GeoPostal','US');

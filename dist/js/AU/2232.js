@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2232"]={"code":"2232","region":"New South Wales","city":"Kirrawee","latitude":-34.03333,"longitude":151.06667}}(window,'GeoPostal','AU');

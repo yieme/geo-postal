@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG2 1AY"]={"code":"NG2 1AY","region":"England","city":"Eaton","latitude":52.5,"longitude":-2.75}}(window,'GeoPostal','GB');

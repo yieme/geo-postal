@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA26 3SA"]={"code":"CA26 3SA","region":"England","city":"Frizington","latitude":54.54185,"longitude":-3.4946}}(window,'GeoPostal','GB');

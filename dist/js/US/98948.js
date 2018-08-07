@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98948"]={"code":"98948","region":"Washington","city":"Toppenish","latitude":46.374031,"longitude":-120.32}}(window,'GeoPostal','US');

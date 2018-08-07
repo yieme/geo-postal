@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94305"]={"code":"94305","region":"California","city":"Stanford","latitude":37.421262,"longitude":-122.163949}}(window,'GeoPostal','US');

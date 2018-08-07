@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43054"]={"code":"43054","region":"Ohio","city":"New Albany","latitude":40.084609,"longitude":-82.811273}}(window,'GeoPostal','US');

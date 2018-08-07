@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["538 54"]={"code":"538 54","region":"Pardubicky kraj","city":"Luze","latitude":49.89341,"longitude":16.0285}}(window,'GeoPostal','CZ');

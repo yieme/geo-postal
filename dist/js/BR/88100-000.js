@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88100-000"]={"code":"88100-000","region":"Santa Catarina","city":"Palhoca","latitude":-27.64528,"longitude":-48.66778}}(window,'GeoPostal','BR');

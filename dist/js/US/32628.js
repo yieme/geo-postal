@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32628"]={"code":"32628","region":"Florida","city":"Cross City","latitude":29.6344,"longitude":-83.12513}}(window,'GeoPostal','US');

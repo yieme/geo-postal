@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 3H0"]={"code":"T0B 3H0","region":"Alberta","city":"Mundare","latitude":53.60015,"longitude":-112.33518}}(window,'GeoPostal','CA');

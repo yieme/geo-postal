@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21261"]={"code":"21261","region":"MD","city":"Essex","latitude":39.3,"longitude":-76.45}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162840"]={"code":"162840","region":"Vologodskaya oblast'","city":"Ustyuzhna","latitude":58.8394,"longitude":36.4321}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05026"]={"code":"05026","region":"Umbria","city":"Montecastrilli","latitude":42.65243,"longitude":12.48857}}(window,'GeoPostal','IT');

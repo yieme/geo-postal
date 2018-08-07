@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16629"]={"code":"16629","region":"PA","city":"Coupon","latitude":40.5218,"longitude":-78.5263}}(window,'GeoPostal','US');

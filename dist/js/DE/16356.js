@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16356"]={"code":"16356","region":"Brandenburg","city":"Werneuchen","latitude":52.63275,"longitude":13.73437}}(window,'GeoPostal','DE');

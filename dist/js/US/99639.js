@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99639"]={"code":"99639","region":"AK","city":"Ninilchik","latitude":60.0108,"longitude":-151.6396}}(window,'GeoPostal','US');

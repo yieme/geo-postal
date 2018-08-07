@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63605"]={"code":"63605","region":"Nayarit","city":"La Jarretadera","latitude":21.91667,"longitude":-105.03333}}(window,'GeoPostal','MX');

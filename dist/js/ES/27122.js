@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27122"]={"code":"27122","region":"Galicia","city":"Castroverde","latitude":43.0302,"longitude":-7.32428}}(window,'GeoPostal','ES');

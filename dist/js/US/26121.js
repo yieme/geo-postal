@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26121"]={"code":"26121","region":"WV","city":"Mineral Wells","latitude":39.2183,"longitude":-81.4979}}(window,'GeoPostal','US');

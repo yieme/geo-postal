@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH8 8EG"]={"code":"CH8 8EG","region":"Wales","city":"Halkyn","latitude":53.22556,"longitude":-3.19016}}(window,'GeoPostal','GB');

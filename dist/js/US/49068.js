@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49068"]={"code":"49068","region":"Michigan","city":"Marshall","latitude":42.2686,"longitude":-84.945}}(window,'GeoPostal','US');

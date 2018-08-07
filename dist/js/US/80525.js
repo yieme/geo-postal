@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80525"]={"code":"80525","region":"Colorado","city":"Fort Collins","latitude":40.533983,"longitude":-105.044355}}(window,'GeoPostal','US');

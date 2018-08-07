@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37186"]={"code":"37186","region":"TN","city":"Westmoreland","latitude":36.5756,"longitude":-86.2353}}(window,'GeoPostal','US');

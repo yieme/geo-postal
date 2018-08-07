@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45659"]={"code":"45659","region":"OH","city":"Pedro","latitude":38.6503,"longitude":-82.6477}}(window,'GeoPostal','US');

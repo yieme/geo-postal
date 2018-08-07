@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38838"]={"code":"38838","region":"Mississippi","city":"Dennis","latitude":34.5618,"longitude":-88.20408}}(window,'GeoPostal','US');

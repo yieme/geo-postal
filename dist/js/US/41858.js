@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41858"]={"code":"41858","region":"KY","city":"Whitesburg","latitude":37.1388,"longitude":-82.855}}(window,'GeoPostal','US');

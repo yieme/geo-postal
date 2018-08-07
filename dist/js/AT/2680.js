@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2680"]={"code":"2680","region":"Niederosterreich","city":"Semmering","latitude":47.63347,"longitude":15.82993}}(window,'GeoPostal','AT');

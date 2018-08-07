@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR2 6LU"]={"code":"WR2 6LU","region":"England","city":"Grimley","latitude":52.24019,"longitude":-2.24232}}(window,'GeoPostal','GB');

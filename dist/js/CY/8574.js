@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8574"]={"code":"8574","region":"Pafos","city":"Kissonerga","latitude":34.825,"longitude":32.4}}(window,'GeoPostal','CY');

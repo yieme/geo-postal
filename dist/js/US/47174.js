@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47174"]={"code":"47174","region":"IN","city":"Sulphur","latitude":38.2259,"longitude":-86.4908}}(window,'GeoPostal','US');

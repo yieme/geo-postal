@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38052"]={"code":"38052","region":"Kalmar lan","city":"Timmernabben","latitude":56.96667,"longitude":16.43333}}(window,'GeoPostal','SE');

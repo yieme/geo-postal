@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC4M 8AB"]={"code":"EC4M 8AB","region":"England","city":"Old Bailey","latitude":51.51583,"longitude":-0.10191}}(window,'GeoPostal','GB');

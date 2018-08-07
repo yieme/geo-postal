@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47012"]={"code":"47012","region":"Emilia-Romagna","city":"Civitella di Romagna","latitude":44.00766,"longitude":11.94223}}(window,'GeoPostal','IT');

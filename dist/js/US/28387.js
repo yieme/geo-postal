@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28387"]={"code":"28387","region":"North Carolina","city":"Southern Pines","latitude":35.17405,"longitude":-79.39225}}(window,'GeoPostal','US');

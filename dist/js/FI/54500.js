@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54500"]={"code":"54500","region":"Etela-Karjala","city":"Luumaki","latitude":60.92618,"longitude":27.58135}}(window,'GeoPostal','FI');

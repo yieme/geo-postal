@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28035"]={"code":"28035","region":"North Carolina","city":"Davidson","latitude":35.499167,"longitude":-80.848889}}(window,'GeoPostal','US');

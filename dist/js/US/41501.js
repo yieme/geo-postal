@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41501"]={"code":"41501","region":"Kentucky","city":"Pikeville","latitude":37.47927,"longitude":-82.51876}}(window,'GeoPostal','US');

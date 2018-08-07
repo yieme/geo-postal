@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2201"]={"code":"2201","region":"Zambales","city":"Iba","latitude":15.3276,"longitude":119.978}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL13 5PH"]={"code":"DL13 5PH","region":"England","city":"Butterknowle","latitude":54.62606,"longitude":-1.83789}}(window,'GeoPostal','GB');

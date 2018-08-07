@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55719"]={"code":"55719","region":"Minnesota","city":"Chisholm","latitude":47.4891,"longitude":-92.8838}}(window,'GeoPostal','US');

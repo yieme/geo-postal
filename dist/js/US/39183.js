@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39183"]={"code":"39183","region":"Mississippi","city":"Vicksburg","latitude":32.39147,"longitude":-90.8257}}(window,'GeoPostal','US');

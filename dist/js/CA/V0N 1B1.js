@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 1B1"]={"code":"V0N 1B1","region":"British Columbia","city":"Sproatt","latitude":50.08299,"longitude":-123.03607}}(window,'GeoPostal','CA');

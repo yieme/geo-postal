@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02326"]={"code":"02326","region":"Castilla-La Mancha","city":"San Pedro","latitude":38.82493,"longitude":-2.18276}}(window,'GeoPostal','ES');

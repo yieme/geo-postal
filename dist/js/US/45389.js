@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45389"]={"code":"45389","region":"OH","city":"Christiansburg","latitude":40.0564,"longitude":-84.0254}}(window,'GeoPostal','US');

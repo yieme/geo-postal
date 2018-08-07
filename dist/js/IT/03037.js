@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03037"]={"code":"03037","region":"Lazio","city":"Pontecorvo","latitude":41.46162,"longitude":13.66671}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6017"]={"code":"6017","region":"Larnaka","city":"Larnaca","latitude":34.91667,"longitude":33.62917}}(window,'GeoPostal','CY');

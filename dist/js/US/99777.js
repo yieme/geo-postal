@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99777"]={"code":"99777","region":"AK","city":"Tanana","latitude":65.1719,"longitude":-152.0789}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157571"]={"code":"157571","region":"Kostromskaya oblast'","city":"Neya","latitude":58.29719,"longitude":43.86808}}(window,'GeoPostal','RU');

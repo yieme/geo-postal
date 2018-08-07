@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737620"]={"code":"737620","region":"Vaslui","city":"Vutcani","latitude":46.46667,"longitude":27.96667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62284"]={"code":"62284","region":"Illinois","city":"Smithboro","latitude":38.8764,"longitude":-89.3238}}(window,'GeoPostal','US');

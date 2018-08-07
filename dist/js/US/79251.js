@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79251"]={"code":"79251","region":"Texas","city":"Quail","latitude":34.929703,"longitude":-100.445519}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1731"]={"code":"1731","region":"Lori","city":"Odzun","latitude":41.05321,"longitude":44.61341}}(window,'GeoPostal','AM');

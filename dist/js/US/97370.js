@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97370"]={"code":"97370","region":"Oregon","city":"Philomath","latitude":44.551187,"longitude":-123.410236}}(window,'GeoPostal','US');

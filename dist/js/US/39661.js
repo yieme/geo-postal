@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39661"]={"code":"39661","region":"MS","city":"Roxie","latitude":31.504,"longitude":-91.0625}}(window,'GeoPostal','US');

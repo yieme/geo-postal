@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157780"]={"code":"157780","region":"Kostromskaya oblast'","city":"Bogovarovo","latitude":58.97849,"longitude":47.02462}}(window,'GeoPostal','RU');

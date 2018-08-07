@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1708"]={"code":"1708","region":"Buenos Aires","city":"Moron","latitude":-34.65344,"longitude":-58.61975}}(window,'GeoPostal','AR');

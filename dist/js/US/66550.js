@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66550"]={"code":"66550","region":"Kansas","city":"Wetmore","latitude":39.653208,"longitude":-95.845089}}(window,'GeoPostal','US');

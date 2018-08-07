@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641500"]={"code":"641500","region":"Kurganskaya oblast'","city":"Lebyazh'ye","latitude":55.26889,"longitude":66.49472}}(window,'GeoPostal','RU');

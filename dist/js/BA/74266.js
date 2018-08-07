@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74266"]={"code":"74266","region":"Federacija Bosne i Hercegovine","city":"Jelah","latitude":44.65417,"longitude":17.95806}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31804"]={"code":"31804","region":"GA","city":"Cataula","latitude":32.6242,"longitude":-84.9207}}(window,'GeoPostal','US');

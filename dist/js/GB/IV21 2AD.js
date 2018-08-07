@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV21 2AD"]={"code":"IV21 2AD","region":"Scotland","city":"Strath","latitude":57.71667,"longitude":-5.71667}}(window,'GeoPostal','GB');

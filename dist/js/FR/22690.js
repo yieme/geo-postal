@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22690"]={"code":"22690","region":"Bretagne","city":"Pleudihen-sur-Rance","latitude":48.51667,"longitude":-1.96667}}(window,'GeoPostal','FR');

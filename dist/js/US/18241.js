@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18241"]={"code":"18241","region":"PA","city":"Nuremberg","latitude":40.9395,"longitude":-76.1716}}(window,'GeoPostal','US');

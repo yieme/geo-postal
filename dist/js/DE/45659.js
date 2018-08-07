@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45659"]={"code":"45659","region":"Nordrhein-Westfalen","city":"Recklinghausen","latitude":51.03333,"longitude":7.61667}}(window,'GeoPostal','DE');

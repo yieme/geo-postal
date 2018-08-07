@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 0L0"]={"code":"R0J 0L0","region":"Manitoba","city":"Shell Valley","latitude":51.08169,"longitude":-101.2559}}(window,'GeoPostal','CA');

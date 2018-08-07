@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13720-000"]={"code":"13720-000","region":"Sao Paulo","city":"Sao Jose do Rio Pardo","latitude":-21.59556,"longitude":-46.88861}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP14 3PL"]={"code":"IP14 3PL","region":"England","city":"Haughley","latitude":52.21907,"longitude":0.968}}(window,'GeoPostal','GB');

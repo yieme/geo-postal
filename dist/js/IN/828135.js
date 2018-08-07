@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["828135"]={"code":"828135","region":"Jharkhand","city":"Pathardih","latitude":23.66667,"longitude":86.43333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78275"]={"code":"78275","region":"Ivano-Frankivska oblast","city":"Pechenizhyn","latitude":48.51551,"longitude":24.89423}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17033"]={"code":"17033","region":"Pennsylvania","city":"Hershey","latitude":40.27884,"longitude":-76.63068}}(window,'GeoPostal','US');

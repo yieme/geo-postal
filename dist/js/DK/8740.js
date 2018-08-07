@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8740"]={"code":"8740","region":"Midtjylland","city":"Braedstrup","latitude":55.97079,"longitude":9.60855}}(window,'GeoPostal','DK');

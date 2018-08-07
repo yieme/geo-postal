@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300000"]={"code":"300000","region":"Tuyen Quang","city":"Tuyen Quang","latitude":21.82333,"longitude":105.21806}}(window,'GeoPostal','VN');

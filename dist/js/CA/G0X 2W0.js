@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 2W0"]={"code":"G0X 2W0","region":"Quebec","city":"Sainte-Marie-de-Blandford","latitude":46.31675,"longitude":-72.1824}}(window,'GeoPostal','CA');

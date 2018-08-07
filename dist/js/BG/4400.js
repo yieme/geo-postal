@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4400"]={"code":"4400","region":"Pazardzhik","city":"Pazardzhik","latitude":42.2,"longitude":24.33333}}(window,'GeoPostal','BG');

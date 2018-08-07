@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73020"]={"code":"73020","region":"Puglia","city":"Carpignano Salentino","latitude":40.19692,"longitude":18.33833}}(window,'GeoPostal','IT');

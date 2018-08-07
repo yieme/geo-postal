@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81305"]={"code":"81305","region":"Sinaloa","city":"Gabriel Leyva Solano","latitude":25.66667,"longitude":-108.64167}}(window,'GeoPostal','MX');

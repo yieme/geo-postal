@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62600"]={"code":"62600","region":"Hauts-de-France","city":"Groffliers","latitude":50.38444,"longitude":1.61474}}(window,'GeoPostal','FR');

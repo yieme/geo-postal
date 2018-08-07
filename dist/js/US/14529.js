@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14529"]={"code":"14529","region":"NY","city":"Perkinsville","latitude":42.5398,"longitude":-77.6283}}(window,'GeoPostal','US');

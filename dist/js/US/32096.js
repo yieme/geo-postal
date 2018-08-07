@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32096"]={"code":"32096","region":"Florida","city":"White Springs","latitude":30.335015,"longitude":-82.758119}}(window,'GeoPostal','US');

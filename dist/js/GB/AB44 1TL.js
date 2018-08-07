@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB44 1TL"]={"code":"AB44 1TL","region":"Scotland","city":"Macduff","latitude":57.67012,"longitude":-2.49686}}(window,'GeoPostal','GB');

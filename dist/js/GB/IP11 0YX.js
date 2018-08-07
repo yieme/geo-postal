@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP11 0YX"]={"code":"IP11 0YX","region":"England","city":"Trimley St Martin","latitude":51.50853,"longitude":-0.12574}}(window,'GeoPostal','GB');

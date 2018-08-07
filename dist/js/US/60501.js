@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60501"]={"code":"60501","region":"Illinois","city":"Bedford Park","latitude":41.783375,"longitude":-87.809947}}(window,'GeoPostal','US');

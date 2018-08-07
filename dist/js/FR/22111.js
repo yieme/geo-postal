@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22111"]={"code":"22111","region":"Bretagne","city":"Dinan","latitude":48.45,"longitude":-2.03333}}(window,'GeoPostal','FR');

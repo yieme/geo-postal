@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-430"]={"code":"11-430","region":"Warminsko-mazurskie","city":"Korsze","latitude":54.17002,"longitude":21.13915}}(window,'GeoPostal','PL');

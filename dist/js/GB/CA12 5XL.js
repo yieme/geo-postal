@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA12 5XL"]={"code":"CA12 5XL","region":"England","city":"Rosthwaite","latitude":54.52357,"longitude":-3.1469}}(window,'GeoPostal','GB');

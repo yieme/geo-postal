@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717125"]={"code":"717125","region":"Botosani","city":"Dersca","latitude":47.98333,"longitude":26.2}}(window,'GeoPostal','RO');

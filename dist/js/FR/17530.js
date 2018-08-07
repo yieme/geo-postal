@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17530"]={"code":"17530","region":"Nouvelle-Aquitaine","city":"Arvert","latitude":45.74486,"longitude":-1.12573}}(window,'GeoPostal','FR');

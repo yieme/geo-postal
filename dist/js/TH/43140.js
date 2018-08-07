@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43140"]={"code":"43140","region":"Nong Khai","city":"Bueng Kan","latitude":18.36304,"longitude":103.65194}}(window,'GeoPostal','TH');

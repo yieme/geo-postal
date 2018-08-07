@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6560"]={"code":"6560","region":"Western Australia","city":"Wundowie","latitude":-31.76163,"longitude":116.3799}}(window,'GeoPostal','AU');

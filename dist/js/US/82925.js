@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82925"]={"code":"82925","region":"Wyoming","city":"Cora","latitude":43.112444,"longitude":-109.989051}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3608"]={"code":"3608","region":"Victoria","city":"Nagambie","latitude":-36.78515,"longitude":145.15375}}(window,'GeoPostal','AU');

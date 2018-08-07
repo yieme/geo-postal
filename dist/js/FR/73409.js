@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73409"]={"code":"73409","region":"Auvergne-Rhone-Alpes","city":"Ugine","latitude":45.75084,"longitude":6.41611}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17569"]={"code":"17569","region":"PA","city":"Reinholds","latitude":40.2688,"longitude":-76.1013}}(window,'GeoPostal','US');

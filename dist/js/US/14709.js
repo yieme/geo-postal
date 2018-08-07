@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14709"]={"code":"14709","region":"New York","city":"Angelica","latitude":42.30639,"longitude":-78.01639}}(window,'GeoPostal','US');

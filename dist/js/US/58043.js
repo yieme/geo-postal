@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58043"]={"code":"58043","region":"ND","city":"Havana","latitude":45.9644,"longitude":-97.6094}}(window,'GeoPostal','US');

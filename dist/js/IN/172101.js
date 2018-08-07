@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["172101"]={"code":"172101","region":"Himachal Pradesh","city":"Seoni","latitude":31.24361,"longitude":77.12306}}(window,'GeoPostal','IN');

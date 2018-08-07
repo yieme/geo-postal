@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN11 3AE"]={"code":"NN11 3AE","region":"England","city":"Badby","latitude":52.22922,"longitude":-1.18321}}(window,'GeoPostal','GB');

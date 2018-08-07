@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["513047"]={"code":"513047","region":"Guangdong","city":"Yinghong","latitude":24.29472,"longitude":113.42222}}(window,'GeoPostal','CN');

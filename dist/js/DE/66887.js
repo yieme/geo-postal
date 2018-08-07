@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66887"]={"code":"66887","region":"Rheinland-Pfalz","city":"Fockenberg-Limbach","latitude":49.49141,"longitude":7.49718}}(window,'GeoPostal','DE');

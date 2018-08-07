@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8320"]={"code":"8320","region":"Zurich","city":"Fehraltorf","latitude":47.38775,"longitude":8.75149}}(window,'GeoPostal','CH');

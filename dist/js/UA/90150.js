@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90150"]={"code":"90150","region":"Zakarpatska oblast","city":"Lysychovo","latitude":48.49677,"longitude":23.28992}}(window,'GeoPostal','UA');

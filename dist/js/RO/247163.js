@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247163"]={"code":"247163","region":"Valcea","city":"Fauresti","latitude":44.56667,"longitude":24.01667}}(window,'GeoPostal','RO');

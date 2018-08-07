@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53192"]={"code":"53192","region":"WI","city":"Wilmot","latitude":42.5128,"longitude":-88.182}}(window,'GeoPostal','US');

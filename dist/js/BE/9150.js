@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9150"]={"code":"9150","region":"Oost-Vlaanderen","city":"Kruibeke","latitude":51.17048,"longitude":4.31444}}(window,'GeoPostal','BE');

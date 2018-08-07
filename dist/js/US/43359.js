@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43359"]={"code":"43359","region":"OH","city":"Wharton","latitude":40.8612,"longitude":-83.463}}(window,'GeoPostal','US');

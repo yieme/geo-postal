@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23704"]={"code":"23704","region":"Virginia","city":"Portsmouth","latitude":36.829956,"longitude":-76.315324}}(window,'GeoPostal','US');

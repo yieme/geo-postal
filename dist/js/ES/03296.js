@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03296"]={"code":"03296","region":"Valenciana, Comunidad","city":"Elche","latitude":38.26218,"longitude":-0.70107}}(window,'GeoPostal','ES');

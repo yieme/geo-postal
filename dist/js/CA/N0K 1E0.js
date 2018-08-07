@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0K 1E0"]={"code":"N0K 1E0","region":"Ontario","city":"Dublin","latitude":43.505467,"longitude":-81.285227}}(window,'GeoPostal','CA');

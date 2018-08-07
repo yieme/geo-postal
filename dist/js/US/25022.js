@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25022"]={"code":"25022","region":"WV","city":"Blair","latitude":37.8784,"longitude":-81.8279}}(window,'GeoPostal','US');

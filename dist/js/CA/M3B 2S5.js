@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M3B 2S5"]={"code":"M3B 2S5","region":"Ontario","city":"York Mills","latitude":43.74034,"longitude":-79.35099}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH1 3NJ"]={"code":"PH1 3NJ","region":"Scotland","city":"Almondbank","latitude":56.41729,"longitude":-3.51733}}(window,'GeoPostal','GB');

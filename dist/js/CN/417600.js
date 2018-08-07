@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417600"]={"code":"417600","region":"Hunan","city":"Shangmei","latitude":27.74278,"longitude":111.29556}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99200-000"]={"code":"99200-000","region":"Rio Grande do Sul","city":"Guapore","latitude":-28.84556,"longitude":-51.89028}}(window,'GeoPostal','BR');

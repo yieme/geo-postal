@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80465"]={"code":"80465","region":"Colorado","city":"Morrison","latitude":39.6103,"longitude":-105.2259}}(window,'GeoPostal','US');

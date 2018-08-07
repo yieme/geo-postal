@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60464"]={"code":"60464","region":"Illinois","city":"Palos Park","latitude":41.6699,"longitude":-87.8588}}(window,'GeoPostal','US');

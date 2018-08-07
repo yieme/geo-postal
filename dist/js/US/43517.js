@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43517"]={"code":"43517","region":"Ohio","city":"Edgerton","latitude":41.44866,"longitude":-84.74801}}(window,'GeoPostal','US');

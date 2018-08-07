@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["745108"]={"code":"745108","region":"Gansu","city":"Binglincha","latitude":36.04043,"longitude":107.37264}}(window,'GeoPostal','CN');

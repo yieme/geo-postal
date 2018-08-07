@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67240"]={"code":"67240","region":"Grand-Est","city":"Gries","latitude":48.7537,"longitude":7.81403}}(window,'GeoPostal','FR');

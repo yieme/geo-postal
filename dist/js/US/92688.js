@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92688"]={"code":"92688","region":"California","city":"Rancho Santa Margarita","latitude":33.634,"longitude":-117.6061}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0L 1T0"]={"code":"V0L 1T0","region":"British Columbia","city":"Becher House","latitude":51.94983,"longitude":-122.51953}}(window,'GeoPostal','CA');

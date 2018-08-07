@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40811"]={"code":"40811","region":"Guerrero","city":"Tres Palos","latitude":18.18333,"longitude":-101.61667}}(window,'GeoPostal','MX');

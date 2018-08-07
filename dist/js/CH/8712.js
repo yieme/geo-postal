@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8712"]={"code":"8712","region":"Zurich","city":"Stafa","latitude":47.24254,"longitude":8.72342}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36844-000"]={"code":"36844-000","region":"Rio de Janeiro","city":"Porciuncula","latitude":-20.96278,"longitude":-42.04083}}(window,'GeoPostal','BR');

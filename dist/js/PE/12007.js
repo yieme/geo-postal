@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12007"]={"code":"12007","region":"Junin","city":"Huancayo","latitude":-12.06667,"longitude":-75.23333}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92065"]={"code":"92065","region":"California","city":"Ramona","latitude":33.029982,"longitude":-116.860688}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00617"]={"code":"00617","region":"Barceloneta","city":"Bufalo","latitude":18.41828,"longitude":-66.57323}}(window,'GeoPostal','PR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04239"]={"code":"04239","region":"Maine","city":"Chisholm","latitude":44.48145,"longitude":-70.1995}}(window,'GeoPostal','US');

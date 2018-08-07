@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97119"]={"code":"97119","region":"Guadeloupe","city":"Vieux-Habitants","latitude":16.0589,"longitude":-61.76595}}(window,'GeoPostal','GP');

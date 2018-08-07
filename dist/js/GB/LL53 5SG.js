@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL53 5SG"]={"code":"LL53 5SG","region":"Wales","city":"Pwllheli","latitude":52.8899,"longitude":-4.41451}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21005"]={"code":"21005","region":"Maryland","city":"Aberdeen Proving Ground","latitude":39.4554,"longitude":-76.1491}}(window,'GeoPostal','US');

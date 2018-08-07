@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06507"]={"code":"06507","region":"Sachsen-Anhalt","city":"Siptenfelde","latitude":51.64419,"longitude":11.05135}}(window,'GeoPostal','DE');

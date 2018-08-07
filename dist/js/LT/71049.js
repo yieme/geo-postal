@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71049"]={"code":"71049","region":"Marijampoles apskritis","city":"Kudirkos Naumiestis","latitude":54.77306,"longitude":22.86306}}(window,'GeoPostal','LT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97375"]={"code":"97375","region":"OR","city":"Scotts Mills","latitude":44.9897,"longitude":-122.6187}}(window,'GeoPostal','US');

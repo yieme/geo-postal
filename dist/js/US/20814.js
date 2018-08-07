@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20814"]={"code":"20814","region":"Maryland","city":"Bethesda","latitude":39.000417,"longitude":-77.10506}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24360"]={"code":"24360","region":"Virginia","city":"Max Meadows","latitude":36.97167,"longitude":-80.955}}(window,'GeoPostal','US');

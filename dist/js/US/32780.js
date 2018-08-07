@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32780"]={"code":"32780","region":"Florida","city":"Titusville","latitude":28.61222,"longitude":-80.80755}}(window,'GeoPostal','US');

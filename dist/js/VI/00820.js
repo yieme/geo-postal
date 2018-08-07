@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00820"]={"code":"00820","region":"Virgin Islands","city":"Christiansted","latitude":17.75,"longitude":-64.75}}(window,'GeoPostal','VI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95676"]={"code":"95676","region":"CA","city":"Robbins","latitude":38.8702,"longitude":-121.7052}}(window,'GeoPostal','US');

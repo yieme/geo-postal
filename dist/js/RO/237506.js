@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237506"]={"code":"237506","region":"Olt","city":"Birca","latitude":43.96667,"longitude":23.61667}}(window,'GeoPostal','RO');

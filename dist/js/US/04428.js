@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04428"]={"code":"04428","region":"ME","city":"Eddington","latitude":44.7917,"longitude":-68.5777}}(window,'GeoPostal','US');

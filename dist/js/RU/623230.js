@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623230"]={"code":"623230","region":"Sverdlovskaya oblast'","city":"Achit","latitude":56.7985,"longitude":57.8994}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141292"]={"code":"141292","region":"Moskovskaya oblast'","city":"Krasnoarmeysk","latitude":56.1,"longitude":38.13333}}(window,'GeoPostal','RU');

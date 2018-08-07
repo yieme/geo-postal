@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45012"]={"code":"45012","region":"Souss-Massa-Draa","city":"Ouarzazat","latitude":30.91894,"longitude":-6.89341}}(window,'GeoPostal','MA');

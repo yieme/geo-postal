@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-150"]={"code":"64-150","region":"Wielkopolskie","city":"Brenno","latitude":51.92257,"longitude":16.21488}}(window,'GeoPostal','PL');

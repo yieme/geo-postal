@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54112"]={"code":"54112","region":"Wisconsin","city":"Coleman","latitude":45.06972,"longitude":-88.03417}}(window,'GeoPostal','US');

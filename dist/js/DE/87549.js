@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87549"]={"code":"87549","region":"Bayern","city":"Altach","latitude":47.56716,"longitude":10.28688}}(window,'GeoPostal','DE');

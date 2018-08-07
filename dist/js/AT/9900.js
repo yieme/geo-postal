@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9900"]={"code":"9900","region":"Tirol","city":"Lienz","latitude":46.8289,"longitude":12.76903}}(window,'GeoPostal','AT');

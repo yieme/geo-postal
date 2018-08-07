@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457160"]={"code":"457160","region":"Salaj","city":"Halmasd","latitude":47.15,"longitude":22.61667}}(window,'GeoPostal','RO');

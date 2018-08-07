@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9060"]={"code":"9060","region":"Beja","city":"Tastur","latitude":36.5513,"longitude":9.44307}}(window,'GeoPostal','TN');

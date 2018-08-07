@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7351"]={"code":"7351","region":"Khulna","city":"Kaliganj","latitude":23.4095,"longitude":89.1402}}(window,'GeoPostal','BD');

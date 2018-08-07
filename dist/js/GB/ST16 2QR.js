@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST16 2QR"]={"code":"ST16 2QR","region":"England","city":"Stafford","latitude":52.80521,"longitude":-2.11636}}(window,'GeoPostal','GB');

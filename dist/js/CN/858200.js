@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["858200"]={"code":"858200","region":"Xizang","city":"Xegar","latitude":28.63333,"longitude":87.08333}}(window,'GeoPostal','CN');

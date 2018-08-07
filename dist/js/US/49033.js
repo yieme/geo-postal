@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49033"]={"code":"49033","region":"MI","city":"Ceresco","latitude":42.2127,"longitude":-85.1128}}(window,'GeoPostal','US');

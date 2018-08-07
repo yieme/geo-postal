@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0E 0B0"]={"code":"X0E 0B0","region":"Northwest Territories","city":"Tsiigehtchic","latitude":67.4429,"longitude":-133.74369}}(window,'GeoPostal','CA');

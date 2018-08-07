@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57925"]={"code":"57925","region":"Grand-Est","city":"Distroff","latitude":49.33304,"longitude":6.26448}}(window,'GeoPostal','FR');

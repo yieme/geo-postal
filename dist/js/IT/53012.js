@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53012"]={"code":"53012","region":"Toscana","city":"Chiusdino","latitude":43.15463,"longitude":11.08423}}(window,'GeoPostal','IT');

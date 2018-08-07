@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4550000"]={"code":"4550000","region":"Biobio","city":"Nacimiento","latitude":-37.5,"longitude":-72.66667}}(window,'GeoPostal','CL');

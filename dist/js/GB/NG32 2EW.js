@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG32 2EW"]={"code":"NG32 2EW","region":"England","city":"Sedgebrook","latitude":52.93237,"longitude":-0.72716}}(window,'GeoPostal','GB');

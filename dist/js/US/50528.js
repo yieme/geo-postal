@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50528"]={"code":"50528","region":"Iowa","city":"Cylinder","latitude":43.08917,"longitude":-94.55}}(window,'GeoPostal','US');

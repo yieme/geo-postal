@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21219"]={"code":"21219","region":"MD","city":"Sparrows Point","latitude":39.2296,"longitude":-76.4455}}(window,'GeoPostal','US');

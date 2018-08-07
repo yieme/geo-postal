@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA11 8DY"]={"code":"WA11 8DY","region":"England","city":"Rainford","latitude":53.50223,"longitude":-2.78839}}(window,'GeoPostal','GB');

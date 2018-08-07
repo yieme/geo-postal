@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92039"]={"code":"92039","region":"Ile-de-France","city":"Puteaux","latitude":48.88341,"longitude":2.23894}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79078"]={"code":"79078","region":"TX","city":"Sanford","latitude":35.702,"longitude":-101.5346}}(window,'GeoPostal','US');

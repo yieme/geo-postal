@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 2G0"]={"code":"V0B 2G0","region":"British Columbia","city":"Sparwood","latitude":49.73332,"longitude":-114.88532}}(window,'GeoPostal','CA');

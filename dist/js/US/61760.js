@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61760"]={"code":"61760","region":"Illinois","city":"Minonk","latitude":40.89318,"longitude":-89.03568}}(window,'GeoPostal','US');

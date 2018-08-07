@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19406"]={"code":"19406","region":"Pennsylvania","city":"King of Prussia","latitude":40.11594,"longitude":-75.37374}}(window,'GeoPostal','US');

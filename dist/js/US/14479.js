@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14479"]={"code":"14479","region":"NY","city":"Knowlesville","latitude":43.2363,"longitude":-78.3138}}(window,'GeoPostal','US');

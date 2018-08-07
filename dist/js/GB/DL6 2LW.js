@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL6 2LW"]={"code":"DL6 2LW","region":"England","city":"West Rounton","latitude":54.42472,"longitude":-1.36466}}(window,'GeoPostal','GB');

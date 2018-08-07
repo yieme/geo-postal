@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46970"]={"code":"46970","region":"Indiana","city":"Peru","latitude":40.753346,"longitude":-86.074443}}(window,'GeoPostal','US');

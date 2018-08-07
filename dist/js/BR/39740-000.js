@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39740-000"]={"code":"39740-000","region":"Minas Gerais","city":"Guanhaes","latitude":-18.775,"longitude":-42.9325}}(window,'GeoPostal','BR');

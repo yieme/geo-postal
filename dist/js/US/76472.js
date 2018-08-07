@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76472"]={"code":"76472","region":"TX","city":"Santo","latitude":32.5979,"longitude":-98.1797}}(window,'GeoPostal','US');

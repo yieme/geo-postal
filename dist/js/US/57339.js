@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57339"]={"code":"57339","region":"SD","city":"Fort Thompson","latitude":44.0517,"longitude":-99.3973}}(window,'GeoPostal','US');

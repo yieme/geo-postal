@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6400"]={"code":"6400","region":"Guarda","city":"Pinhel","latitude":40.773273,"longitude":-7.068593}}(window,'GeoPostal','PT');

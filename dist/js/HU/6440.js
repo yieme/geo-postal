@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6440"]={"code":"6440","region":"Bacs-Kiskun","city":"Janoshalma","latitude":46.29861,"longitude":19.32583}}(window,'GeoPostal','HU');

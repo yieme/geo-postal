@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63770"]={"code":"63770","region":"MO","city":"Old Appleton","latitude":37.5975,"longitude":-89.703}}(window,'GeoPostal','US');

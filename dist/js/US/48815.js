@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48815"]={"code":"48815","region":"MI","city":"Clarksville","latitude":42.8302,"longitude":-85.2494}}(window,'GeoPostal','US');

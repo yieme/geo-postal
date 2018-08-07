@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30011"]={"code":"30011","region":"Georgia","city":"Auburn","latitude":34.02212,"longitude":-83.82641}}(window,'GeoPostal','US');

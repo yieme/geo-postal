@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2106"]={"code":"2106","region":"Noord-Holland","city":"Heemstede","latitude":52.34992,"longitude":4.62301}}(window,'GeoPostal','NL');

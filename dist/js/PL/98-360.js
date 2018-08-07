@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-360"]={"code":"98-360","region":"Lodzkie","city":"Lututow","latitude":51.37033,"longitude":18.4348}}(window,'GeoPostal','PL');

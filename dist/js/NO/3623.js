@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3623"]={"code":"3623","region":"Buskerud","city":"Lampeland","latitude":59.83486,"longitude":9.57912}}(window,'GeoPostal','NO');

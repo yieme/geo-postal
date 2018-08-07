@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93234"]={"code":"93234","region":"Vasterbottens lan","city":"Burea","latitude":64.61667,"longitude":21.2}}(window,'GeoPostal','SE');

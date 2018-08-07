@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83052"]={"code":"83052","region":"Campania","city":"Paternopoli","latitude":40.97332,"longitude":15.03205}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["411 48"]={"code":"411 48","region":"Ustecky kraj","city":"Kresice","latitude":50.52259,"longitude":14.2145}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68663"]={"code":"68663","region":"NE","city":"Silver Creek","latitude":41.319,"longitude":-97.6671}}(window,'GeoPostal','US');

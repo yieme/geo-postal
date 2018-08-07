@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE28 2TA"]={"code":"PE28 2TA","region":"England","city":"Warboys","latitude":52.40352,"longitude":-0.07931}}(window,'GeoPostal','GB');

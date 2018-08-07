@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02994"]={"code":"02994","region":"Sachsen","city":"Waldhof","latitude":51.36388,"longitude":14.04793}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27844"]={"code":"27844","region":"NC","city":"Hollister","latitude":36.259,"longitude":-77.9319}}(window,'GeoPostal','US');

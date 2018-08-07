@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188530"]={"code":"188530","region":"Sankt-Peterburg","city":"Lomonosov","latitude":59.90612,"longitude":29.77253}}(window,'GeoPostal','RU');

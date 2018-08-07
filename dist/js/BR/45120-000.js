@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45120-000"]={"code":"45120-000","region":"Bahia","city":"Vitoria da Conquista","latitude":-14.86611,"longitude":-40.83944}}(window,'GeoPostal','BR');

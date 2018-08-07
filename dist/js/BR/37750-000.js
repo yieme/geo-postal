@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37750-000"]={"code":"37750-000","region":"Minas Gerais","city":"Machado","latitude":-21.67472,"longitude":-45.91972}}(window,'GeoPostal','BR');

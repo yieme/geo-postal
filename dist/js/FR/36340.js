@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36340"]={"code":"36340","region":"Centre-Val de Loire","city":"Cluis","latitude":46.54486,"longitude":1.74933}}(window,'GeoPostal','FR');

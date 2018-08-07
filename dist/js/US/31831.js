@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31831"]={"code":"31831","region":"Georgia","city":"Waverly Hall","latitude":32.690625,"longitude":-84.740026}}(window,'GeoPostal','US');

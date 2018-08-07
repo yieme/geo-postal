@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21698"]={"code":"21698","region":"Niedersachsen","city":"Im Sande","latitude":53.45,"longitude":9.51667}}(window,'GeoPostal','DE');

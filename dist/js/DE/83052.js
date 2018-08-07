@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83052"]={"code":"83052","region":"Bayern","city":"Hinrichssegen","latitude":47.87122,"longitude":11.94454}}(window,'GeoPostal','DE');

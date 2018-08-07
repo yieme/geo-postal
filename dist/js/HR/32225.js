@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32225"]={"code":"32225","region":"Vukovarsko-srijemska zupanija","city":"Bobota","latitude":45.42111,"longitude":18.85389}}(window,'GeoPostal','HR');

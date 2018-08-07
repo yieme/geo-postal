@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39110"]={"code":"39110","region":"Bourgogne-Franche-Comte","city":"Salins-les-Bains","latitude":46.94663,"longitude":5.87763}}(window,'GeoPostal','FR');

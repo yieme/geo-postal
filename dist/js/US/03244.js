@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03244"]={"code":"03244","region":"New Hampshire","city":"Deering","latitude":43.130676,"longitude":-71.928696}}(window,'GeoPostal','US');

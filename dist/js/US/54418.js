@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54418"]={"code":"54418","region":"Wisconsin","city":"Bryant","latitude":45.22032,"longitude":-88.96866}}(window,'GeoPostal','US');

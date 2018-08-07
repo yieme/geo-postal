@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39736"]={"code":"39736","region":"MS","city":"Artesia","latitude":33.4115,"longitude":-88.6443}}(window,'GeoPostal','US');

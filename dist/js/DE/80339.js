@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80339"]={"code":"80339","region":"Bayern","city":"Schwantalerhoehe","latitude":48.13934,"longitude":11.54311}}(window,'GeoPostal','DE');

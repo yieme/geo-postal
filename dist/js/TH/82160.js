@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82160"]={"code":"82160","region":"Phangnga","city":"Kapong","latitude":8.69697,"longitude":98.40914}}(window,'GeoPostal','TH');

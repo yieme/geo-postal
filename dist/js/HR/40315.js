@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40315"]={"code":"40315","region":"Medimurska zupanija","city":"Peklenica","latitude":46.49528,"longitude":16.47611}}(window,'GeoPostal','HR');

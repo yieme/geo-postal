@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141551"]={"code":"141551","region":"Kaluzhskaya oblast'","city":"Kondrovo","latitude":54.80639,"longitude":35.92778}}(window,'GeoPostal','RU');

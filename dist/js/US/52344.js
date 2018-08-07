@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52344"]={"code":"52344","region":"IA","city":"Troy Mills","latitude":42.29,"longitude":-91.6824}}(window,'GeoPostal','US');

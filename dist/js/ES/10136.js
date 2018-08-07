@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10136"]={"code":"10136","region":"Extremadura","city":"Canamero","latitude":39.37995,"longitude":-5.38857}}(window,'GeoPostal','ES');

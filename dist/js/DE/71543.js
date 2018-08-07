@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71543"]={"code":"71543","region":"Baden-Wurttemberg","city":"Herrenholzle","latitude":49.13779,"longitude":9.45432}}(window,'GeoPostal','DE');

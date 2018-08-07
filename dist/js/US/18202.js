@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18202"]={"code":"18202","region":"Pennsylvania","city":"Hazleton","latitude":40.9393,"longitude":-75.992}}(window,'GeoPostal','US');

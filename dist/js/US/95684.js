@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95684"]={"code":"95684","region":"California","city":"Somerset","latitude":38.64778,"longitude":-120.68583}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-074"]={"code":"05-074","region":"Mazowieckie","city":"Halinow","latitude":52.2288,"longitude":21.3551}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69960-000"]={"code":"69960-000","region":"Acre","city":"Tarauaca","latitude":-8.16139,"longitude":-70.76556}}(window,'GeoPostal','BR');

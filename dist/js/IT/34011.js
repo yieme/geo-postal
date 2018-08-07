@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34011"]={"code":"34011","region":"Friuli-Venezia Giulia","city":"Duino","latitude":45.77342,"longitude":13.60436}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6232"]={"code":"6232","region":"Tirol","city":"Munster","latitude":47.42164,"longitude":11.83356}}(window,'GeoPostal','AT');

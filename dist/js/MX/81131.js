@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81131"]={"code":"81131","region":"Sinaloa","city":"La Trinidad","latitude":25.73333,"longitude":-108.48333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41777"]={"code":"41777","region":"Kentucky","city":"Yeaddiss","latitude":37.043212,"longitude":-83.220406}}(window,'GeoPostal','US');

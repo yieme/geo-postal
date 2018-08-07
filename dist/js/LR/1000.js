@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1000"]={"code":"1000","region":"Montserrado","city":"Monrovia","latitude":6.30054,"longitude":-10.7969}}(window,'GeoPostal','LR');

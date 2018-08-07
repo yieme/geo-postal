@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23922"]={"code":"23922","region":"Virginia","city":"Burkeville","latitude":37.187329,"longitude":-78.203085}}(window,'GeoPostal','US');

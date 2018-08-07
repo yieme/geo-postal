@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53040"]={"code":"53040","region":"Toscana","city":"Rapolano Terme","latitude":43.28954,"longitude":11.60524}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93130"]={"code":"93130","region":"Phatthalung","city":"Bang Kaeo","latitude":7.42947,"longitude":100.17803}}(window,'GeoPostal','TH');

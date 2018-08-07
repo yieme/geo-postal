@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0P 1X0"]={"code":"J0P 1X0","region":"Quebec","city":"Saint-Polycarpe","latitude":45.30009,"longitude":-74.29924}}(window,'GeoPostal','CA');

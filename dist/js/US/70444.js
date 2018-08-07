@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70444"]={"code":"70444","region":"LA","city":"Kentwood","latitude":30.8892,"longitude":-90.4728}}(window,'GeoPostal','US');

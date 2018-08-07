@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP30 9AB"]={"code":"IP30 9AB","region":"England","city":"Beyton","latitude":52.234,"longitude":0.82973}}(window,'GeoPostal','GB');

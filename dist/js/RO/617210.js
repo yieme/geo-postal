@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617210"]={"code":"617210","region":"Neamt","city":"Girov","latitude":46.95,"longitude":26.51667}}(window,'GeoPostal','RO');

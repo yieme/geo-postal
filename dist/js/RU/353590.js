@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353590"]={"code":"353590","region":"Krasnodarskiy kray","city":"Anastasiyevskaya","latitude":45.21576,"longitude":37.89258}}(window,'GeoPostal','RU');

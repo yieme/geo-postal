@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["736133"]={"code":"736133","region":"West Bengal","city":"Solap","latitude":22.12778,"longitude":88.15861}}(window,'GeoPostal','IN');

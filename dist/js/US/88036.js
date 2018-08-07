@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88036"]={"code":"88036","region":"NM","city":"Fort Bayard","latitude":32.7574,"longitude":-108.0075}}(window,'GeoPostal','US');

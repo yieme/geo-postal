@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71004"]={"code":"71004","region":"LA","city":"Belcher","latitude":32.7544,"longitude":-93.8508}}(window,'GeoPostal','US');

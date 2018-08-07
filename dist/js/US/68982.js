@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68982"]={"code":"68982","region":"NE","city":"Wilcox","latitude":40.3735,"longitude":-99.1539}}(window,'GeoPostal','US');

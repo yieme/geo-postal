@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69180-000"]={"code":"69180-000","region":"Amazonas","city":"Guajara","latitude":-2.96667,"longitude":-57.66667}}(window,'GeoPostal','BR');

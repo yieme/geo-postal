@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L4N 4V8"]={"code":"L4N 4V8","region":"Ontario","city":"Barrie","latitude":44.376593,"longitude":-79.715928}}(window,'GeoPostal','CA');

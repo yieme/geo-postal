@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29400"]={"code":"29400","region":"Andalucia","city":"Ronda","latitude":36.74231,"longitude":-5.16709}}(window,'GeoPostal','ES');

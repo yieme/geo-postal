@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61260"]={"code":"61260","region":"IL","city":"Joy","latitude":41.2262,"longitude":-90.8518}}(window,'GeoPostal','US');

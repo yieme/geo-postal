@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5573"]={"code":"5573","region":"South Australia","city":"Maitland","latitude":-34.37386,"longitude":137.67332}}(window,'GeoPostal','AU');

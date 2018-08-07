@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57334"]={"code":"57334","region":"SD","city":"Ethan","latitude":43.5478,"longitude":-97.9881}}(window,'GeoPostal','US');

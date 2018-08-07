@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45393"]={"code":"45393","region":"Vastra Gotalands lan","city":"Lysekil","latitude":58.27429,"longitude":11.43576}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446720"]={"code":"446720","region":"Samarskaya oblast'","city":"Shigony","latitude":53.3875,"longitude":48.6777}}(window,'GeoPostal','RU');

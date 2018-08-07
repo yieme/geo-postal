@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31775"]={"code":"31775","region":"GA","city":"Omega","latitude":31.33,"longitude":-83.5974}}(window,'GeoPostal','US');

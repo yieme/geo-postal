@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18844"]={"code":"18844","region":"PA","city":"Springville","latitude":41.7147,"longitude":-75.9025}}(window,'GeoPostal','US');

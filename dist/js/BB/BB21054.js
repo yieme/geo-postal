@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB21054"]={"code":"BB21054","region":"Saint Joseph","city":"Bathsheba","latitude":13.21667,"longitude":-59.51667}}(window,'GeoPostal','BB');

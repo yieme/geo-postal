@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82433"]={"code":"82433","region":"Wyoming","city":"Meeteetse","latitude":44.213858,"longitude":-108.829824}}(window,'GeoPostal','US');

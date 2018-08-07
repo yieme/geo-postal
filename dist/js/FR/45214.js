@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45214"]={"code":"45214","region":"Centre-Val de Loire","city":"Montargis","latitude":48,"longitude":2.75}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61290"]={"code":"61290","region":"Normandie","city":"Longny-au-Perche","latitude":48.52984,"longitude":0.75239}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22827"]={"code":"22827","region":"VA","city":"Elkton","latitude":38.4025,"longitude":-78.6321}}(window,'GeoPostal','US');

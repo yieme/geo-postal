@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24540"]={"code":"24540","region":"Khyber Pakhtunkhwa","city":"Tangi","latitude":34.30056,"longitude":71.65361}}(window,'GeoPostal','PK');

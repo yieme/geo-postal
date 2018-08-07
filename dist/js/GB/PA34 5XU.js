@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA34 5XU"]={"code":"PA34 5XU","region":"Scotland","city":"Fiunary","latitude":56.55,"longitude":-5.85}}(window,'GeoPostal','GB');

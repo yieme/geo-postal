@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-3352"]={"code":"MD-3352","region":"Stinga Nistrului, unitatea teritoriala din","city":"Dnestrovsc","latitude":46.62222,"longitude":29.91333}}(window,'GeoPostal','MD');

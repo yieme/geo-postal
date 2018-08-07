@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19120"]={"code":"19120","region":"Nouvelle-Aquitaine","city":"Beaulieu-sur-Dordogne","latitude":44.97826,"longitude":1.83835}}(window,'GeoPostal','FR');

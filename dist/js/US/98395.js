@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98395"]={"code":"98395","region":"WA","city":"Wauna","latitude":47.379,"longitude":-122.6426}}(window,'GeoPostal','US');

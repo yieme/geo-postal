@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16058"]={"code":"16058","region":"PA","city":"Turkey City","latitude":41.1853,"longitude":-79.6134}}(window,'GeoPostal','US');

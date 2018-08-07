@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57990-000"]={"code":"57990-000","region":"Alagoas","city":"Messias","latitude":-9.38333,"longitude":-35.84167}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["092052"]={"code":"092052","region":"Guayas","city":"Coronel Marcelino Mariduena","latitude":-2.2,"longitude":-79.41667}}(window,'GeoPostal','EC');

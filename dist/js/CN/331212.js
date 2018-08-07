@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331212"]={"code":"331212","region":"Jiangxi","city":"Liugongmiao","latitude":28.11053,"longitude":115.30574}}(window,'GeoPostal','CN');

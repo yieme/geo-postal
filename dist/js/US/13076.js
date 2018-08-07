@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13076"]={"code":"13076","region":"NY","city":"Hastings","latitude":43.3527,"longitude":-76.1477}}(window,'GeoPostal','US');

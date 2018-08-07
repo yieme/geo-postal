@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07700"]={"code":"07700","region":"Kocaeli","city":"Korfez","latitude":40.77667,"longitude":29.72972}}(window,'GeoPostal','TR');

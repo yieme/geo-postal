@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41-813"]={"code":"41-813","region":"Slaskie","city":"Zabrze","latitude":50.32492,"longitude":18.78576}}(window,'GeoPostal','PL');

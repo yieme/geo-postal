@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412425"]={"code":"412425","region":"Saratovskaya oblast'","city":"Atkarsk","latitude":51.87185,"longitude":45.00775}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4124"]={"code":"4124","region":"Basel-Landschaft","city":"Schonenbuch","latitude":47.53853,"longitude":7.50572}}(window,'GeoPostal','CH');

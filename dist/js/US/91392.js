@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91392"]={"code":"91392","region":"California","city":"Sylmar","latitude":34.30842,"longitude":-118.43088}}(window,'GeoPostal','US');

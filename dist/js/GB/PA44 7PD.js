@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA44 7PD"]={"code":"PA44 7PD","region":"Scotland","city":"Isle of Islay","latitude":55.78526,"longitude":-6.23886}}(window,'GeoPostal','GB');

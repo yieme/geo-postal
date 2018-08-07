@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21460"]={"code":"21460","region":"Juznobacki okrug","city":"Vrbas","latitude":45.57139,"longitude":19.64083}}(window,'GeoPostal','RS');

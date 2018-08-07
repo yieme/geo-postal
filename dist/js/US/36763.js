@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36763"]={"code":"36763","region":"AL","city":"Myrtlewood","latitude":32.2516,"longitude":-87.9494}}(window,'GeoPostal','US');

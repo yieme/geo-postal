@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2800"]={"code":"2800","region":"Abra","city":"Angad","latitude":17.5849,"longitude":120.6257}}(window,'GeoPostal','PH');

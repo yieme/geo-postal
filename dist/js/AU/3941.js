@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3941"]={"code":"3941","region":"Victoria","city":"Rye","latitude":-38.36667,"longitude":144.81667}}(window,'GeoPostal','AU');

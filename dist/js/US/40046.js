@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40046"]={"code":"40046","region":"KY","city":"Mount Eden","latitude":38.0352,"longitude":-85.1641}}(window,'GeoPostal','US');

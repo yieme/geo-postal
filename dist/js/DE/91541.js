@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91541"]={"code":"91541","region":"Bayern","city":"Rothenburg ob der Tauber","latitude":49.37885,"longitude":10.18711}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4726"]={"code":"4726","region":"Catamarca","city":"Huillapima","latitude":-28.72533,"longitude":-65.9787}}(window,'GeoPostal','AR');

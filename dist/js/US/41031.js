@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41031"]={"code":"41031","region":"Kentucky","city":"Cynthiana","latitude":38.389441,"longitude":-84.295098}}(window,'GeoPostal','US');

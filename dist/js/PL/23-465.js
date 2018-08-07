@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-465"]={"code":"23-465","region":"Lubelskie","city":"Turobin","latitude":50.82367,"longitude":22.74273}}(window,'GeoPostal','PL');

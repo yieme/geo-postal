@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97368"]={"code":"97368","region":"Oregon","city":"Otis","latitude":45.02444,"longitude":-123.94528}}(window,'GeoPostal','US');

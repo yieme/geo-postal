@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96007"]={"code":"96007","region":"California","city":"Anderson","latitude":40.44821,"longitude":-122.29778}}(window,'GeoPostal','US');

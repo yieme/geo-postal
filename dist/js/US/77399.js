@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77399"]={"code":"77399","region":"Texas","city":"West Livingston","latitude":30.69825,"longitude":-95.00188}}(window,'GeoPostal','US');

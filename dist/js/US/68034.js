@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68034"]={"code":"68034","region":"Nebraska","city":"Kennard","latitude":41.474762,"longitude":-96.203015}}(window,'GeoPostal','US');

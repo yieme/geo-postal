@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23947"]={"code":"23947","region":"Virginia","city":"Keysville","latitude":37.04,"longitude":-78.48361}}(window,'GeoPostal','US');

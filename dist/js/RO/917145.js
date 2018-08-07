@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["917145"]={"code":"917145","region":"Calarasi","city":"Jegalia","latitude":44.3,"longitude":27.63333}}(window,'GeoPostal','RO');

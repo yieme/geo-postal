@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18827"]={"code":"18827","region":"PA","city":"Lanesboro","latitude":41.957,"longitude":-75.5849}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10150"]={"code":"10150","region":"Grand-Est","city":"Creney-pres-Troyes","latitude":48.33333,"longitude":4.13333}}(window,'GeoPostal','FR');

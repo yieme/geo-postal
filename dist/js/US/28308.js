@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28308"]={"code":"28308","region":"NC","city":"Pope Army Airfield","latitude":35.0635,"longitude":-78.8943}}(window,'GeoPostal','US');

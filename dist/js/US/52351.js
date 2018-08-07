@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52351"]={"code":"52351","region":"IA","city":"Walford","latitude":41.877,"longitude":-91.8369}}(window,'GeoPostal','US');

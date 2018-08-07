@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4519"]={"code":"4519","region":"Queensland","city":"Beerwah","latitude":-26.85881,"longitude":152.96144}}(window,'GeoPostal','AU');

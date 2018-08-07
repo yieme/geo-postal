@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["700 02"]={"code":"700 02","region":"Kriti","city":"Yeryeri","latitude":35.13333,"longitude":24.95}}(window,'GeoPostal','GR');

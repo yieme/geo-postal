@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0C 3C0"]={"code":"G0C 3C0","region":"Quebec","city":"Bonaventure","latitude":48.076806,"longitude":-65.112068}}(window,'GeoPostal','CA');

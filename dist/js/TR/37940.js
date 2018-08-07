@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37940"]={"code":"37940","region":"Manisa","city":"Salihli","latitude":38.48258,"longitude":28.14774}}(window,'GeoPostal','TR');

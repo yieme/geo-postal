@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92285"]={"code":"92285","region":"CA","city":"Landers","latitude":34.3103,"longitude":-116.5241}}(window,'GeoPostal','US');

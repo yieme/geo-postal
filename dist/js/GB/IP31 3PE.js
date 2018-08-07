@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP31 3PE"]={"code":"IP31 3PE","region":"England","city":"Thurston","latitude":52.25244,"longitude":0.80749}}(window,'GeoPostal','GB');

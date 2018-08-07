@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-450"]={"code":"09-450","region":"Mazowieckie","city":"Wyszogrod","latitude":52.38988,"longitude":20.19081}}(window,'GeoPostal','PL');

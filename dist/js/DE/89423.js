@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89423"]={"code":"89423","region":"Bayern","city":"Gundelfingen","latitude":48.55347,"longitude":10.37223}}(window,'GeoPostal','DE');

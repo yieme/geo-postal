@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71940"]={"code":"71940","region":"Arkansas","city":"Delight","latitude":34.057339,"longitude":-93.532778}}(window,'GeoPostal','US');

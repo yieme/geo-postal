@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26561"]={"code":"26561","region":"WV","city":"Big Run","latitude":39.5845,"longitude":-80.5776}}(window,'GeoPostal','US');

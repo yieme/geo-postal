@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4740-089"]={"code":"4740-089","region":"Braga","city":"Apulia","latitude":41.48512,"longitude":-8.76413}}(window,'GeoPostal','PT');

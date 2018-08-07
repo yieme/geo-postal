@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85535"]={"code":"85535","region":"Arizona","city":"Pima","latitude":32.89618,"longitude":-109.82758}}(window,'GeoPostal','US');

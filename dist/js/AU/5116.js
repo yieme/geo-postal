@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5116"]={"code":"5116","region":"Tasmania","city":"Gawler","latitude":-41.18388,"longitude":146.15913}}(window,'GeoPostal','AU');

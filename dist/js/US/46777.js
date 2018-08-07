@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46777"]={"code":"46777","region":"Indiana","city":"Ossian","latitude":40.87092,"longitude":-85.15674}}(window,'GeoPostal','US');

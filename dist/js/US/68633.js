@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68633"]={"code":"68633","region":"Nebraska","city":"Dodge","latitude":41.725082,"longitude":-96.880044}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8233"]={"code":"8233","region":"Steiermark","city":"Lafnitz","latitude":47.36667,"longitude":16.01667}}(window,'GeoPostal','AT');

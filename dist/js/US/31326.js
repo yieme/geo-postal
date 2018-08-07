@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31326"]={"code":"31326","region":"Georgia","city":"Rincon","latitude":32.285746,"longitude":-81.223436}}(window,'GeoPostal','US');

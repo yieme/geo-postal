@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95482"]={"code":"95482","region":"Bayern","city":"Grunstein","latitude":50.088,"longitude":11.72867}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77232"]={"code":"77232","region":"Federacija Bosne i Hercegovine","city":"Podzvizd","latitude":45.17417,"longitude":15.87361}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW7 2ED"]={"code":"SW7 2ED","region":"England","city":"North Kensington","latitude":51.49544,"longitude":-0.17801}}(window,'GeoPostal','GB');

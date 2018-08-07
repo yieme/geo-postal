@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61545"]={"code":"61545","region":"IL","city":"Lowpoint","latitude":40.8793,"longitude":-89.3703}}(window,'GeoPostal','US');

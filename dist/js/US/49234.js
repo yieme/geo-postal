@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49234"]={"code":"49234","region":"MI","city":"Clarklake","latitude":42.1235,"longitude":-84.3521}}(window,'GeoPostal','US');

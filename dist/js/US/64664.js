@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64664"]={"code":"64664","region":"MO","city":"Mooresville","latitude":39.7425,"longitude":-93.7169}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12958"]={"code":"12958","region":"NY","city":"Mooers","latitude":44.9592,"longitude":-73.5834}}(window,'GeoPostal','US');

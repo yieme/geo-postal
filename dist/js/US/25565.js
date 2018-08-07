@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25565"]={"code":"25565","region":"WV","city":"Spurlockville","latitude":38.1057,"longitude":-82.0272}}(window,'GeoPostal','US');

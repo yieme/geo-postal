@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM5 0SP"]={"code":"CM5 0SP","region":"England","city":"Willingale Doe","latitude":51.75,"longitude":0.31667}}(window,'GeoPostal','GB');

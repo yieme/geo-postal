@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16501"]={"code":"16501","region":"Pennsylvania","city":"Erie","latitude":42.12922,"longitude":-80.08506}}(window,'GeoPostal','US');

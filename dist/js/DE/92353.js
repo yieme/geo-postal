@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92353"]={"code":"92353","region":"Bayern","city":"Brandl","latitude":47.76667,"longitude":11.45}}(window,'GeoPostal','DE');

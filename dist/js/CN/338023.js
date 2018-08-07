@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["338023"]={"code":"338023","region":"Jiangxi","city":"Shuibei","latitude":28.04118,"longitude":115.05725}}(window,'GeoPostal','CN');

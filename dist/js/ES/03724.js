@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03724"]={"code":"03724","region":"Valenciana, Comunidad","city":"Moraira","latitude":38.68866,"longitude":0.13484}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06610"]={"code":"06610","region":"Provence-Alpes-Cote d'Azur","city":"La Gaude","latitude":43.72235,"longitude":7.15083}}(window,'GeoPostal','FR');

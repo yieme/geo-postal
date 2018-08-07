@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66862"]={"code":"66862","region":"Kansas","city":"Matfield Green","latitude":38.15972,"longitude":-96.56194}}(window,'GeoPostal','US');

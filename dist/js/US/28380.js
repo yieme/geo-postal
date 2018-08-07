@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28380"]={"code":"28380","region":"NC","city":"Rockingham","latitude":34.9942,"longitude":-79.7673}}(window,'GeoPostal','US');

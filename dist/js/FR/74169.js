@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74169"]={"code":"74169","region":"Auvergne-Rhone-Alpes","city":"Saint-Julien-en-Genevois","latitude":46.14434,"longitude":6.08256}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98248"]={"code":"98248","region":"Washington","city":"Ferndale","latitude":48.8465,"longitude":-122.59101}}(window,'GeoPostal','US');

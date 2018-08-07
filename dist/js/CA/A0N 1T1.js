@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0N 1T1"]={"code":"A0N 1T1","region":"Newfoundland and Labrador","city":"Cape St. George-Petit Jardin-Grand Jardin-De Grau-Marches Point-Loretto","latitude":43.70011,"longitude":-79.4163}}(window,'GeoPostal','CA');

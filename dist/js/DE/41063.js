@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41063"]={"code":"41063","region":"Nordrhein-Westfalen","city":"Eicken","latitude":51.21135,"longitude":6.44262}}(window,'GeoPostal','DE');

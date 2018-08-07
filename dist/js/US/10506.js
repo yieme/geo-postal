@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10506"]={"code":"10506","region":"NY","city":"Bedford","latitude":41.1909,"longitude":-73.6355}}(window,'GeoPostal','US');

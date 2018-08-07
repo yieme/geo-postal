@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54136"]={"code":"54136","region":"Wisconsin","city":"Kimberly","latitude":44.269765,"longitude":-88.337835}}(window,'GeoPostal','US');

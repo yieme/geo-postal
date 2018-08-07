@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26217"]={"code":"26217","region":"WV","city":"Diana","latitude":38.5755,"longitude":-80.432}}(window,'GeoPostal','US');

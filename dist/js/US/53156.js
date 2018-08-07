@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53156"]={"code":"53156","region":"WI","city":"Palmyra","latitude":42.8793,"longitude":-88.5903}}(window,'GeoPostal','US');

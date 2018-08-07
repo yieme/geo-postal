@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4750-884"]={"code":"4750-884","region":"Braga","city":"Vila Frescainha","latitude":41.53846,"longitude":-8.63971}}(window,'GeoPostal','PT');

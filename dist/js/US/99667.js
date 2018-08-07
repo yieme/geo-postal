@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99667"]={"code":"99667","region":"AK","city":"Skwentna","latitude":61.9903,"longitude":-151.3978}}(window,'GeoPostal','US');

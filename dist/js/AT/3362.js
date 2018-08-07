@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3362"]={"code":"3362","region":"Niederosterreich","city":"Zeillern","latitude":48.11667,"longitude":14.8}}(window,'GeoPostal','AT');

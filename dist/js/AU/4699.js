@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4699"]={"code":"4699","region":"Queensland","city":"Marmor","latitude":-23.68333,"longitude":150.71667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3018"]={"code":"3018","region":"Santa Fe","city":"Recreo","latitude":-31.49076,"longitude":-60.73299}}(window,'GeoPostal','AR');

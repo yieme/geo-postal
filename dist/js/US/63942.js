@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63942"]={"code":"63942","region":"Missouri","city":"Gatewood","latitude":36.562999,"longitude":-91.074069}}(window,'GeoPostal','US');

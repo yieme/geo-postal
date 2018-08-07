@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98071"]={"code":"98071","region":"Sicilia","city":"Capo d'Orlando","latitude":38.14346,"longitude":14.73047}}(window,'GeoPostal','IT');

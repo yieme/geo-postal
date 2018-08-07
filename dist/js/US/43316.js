@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43316"]={"code":"43316","region":"OH","city":"Carey","latitude":40.9486,"longitude":-83.3836}}(window,'GeoPostal','US');

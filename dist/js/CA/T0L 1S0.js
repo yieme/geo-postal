@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0L 1S0"]={"code":"T0L 1S0","region":"Alberta","city":"Nobleford","latitude":49.88331,"longitude":-113.05186}}(window,'GeoPostal','CA');

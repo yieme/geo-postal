@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5733"]={"code":"5733","region":"San Luis","city":"Villa Mercedes","latitude":-33.67571,"longitude":-65.45783}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89520"]={"code":"89520","region":"Bourgogne-Franche-Comte","city":"Saint-Sauveur-en-Puisaye","latitude":47.6192,"longitude":3.1978}}(window,'GeoPostal','FR');

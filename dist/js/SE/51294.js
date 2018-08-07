@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51294"]={"code":"51294","region":"Vastra Gotalands lan","city":"Svenljunga","latitude":57.49551,"longitude":13.11078}}(window,'GeoPostal','SE');

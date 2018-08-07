@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55088"]={"code":"55088","region":"Minnesota","city":"Webster","latitude":44.509722,"longitude":-93.337222}}(window,'GeoPostal','US');

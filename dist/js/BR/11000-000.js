@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11000-000"]={"code":"11000-000","region":"Sao Paulo","city":"Bertioga","latitude":-23.85444,"longitude":-46.13861}}(window,'GeoPostal','BR');

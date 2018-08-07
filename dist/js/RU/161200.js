@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["161200"]={"code":"161200","region":"Vologodskaya oblast'","city":"Belozersk","latitude":60.03263,"longitude":37.79572}}(window,'GeoPostal','RU');

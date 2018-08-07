@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86477"]={"code":"86477","region":"Bayern","city":"Adelsried","latitude":48.41667,"longitude":10.71667}}(window,'GeoPostal','DE');

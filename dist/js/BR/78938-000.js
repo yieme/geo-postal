@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78938-000"]={"code":"78938-000","region":"Rondonia","city":"Porto Velho","latitude":-8.76194,"longitude":-63.90389}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56586"]={"code":"56586","region":"Minnesota","city":"Underwood","latitude":46.28528,"longitude":-95.87083}}(window,'GeoPostal','US');

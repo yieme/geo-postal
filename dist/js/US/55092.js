@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55092"]={"code":"55092","region":"Minnesota","city":"Wyoming","latitude":45.32964,"longitude":-93.0747}}(window,'GeoPostal','US');

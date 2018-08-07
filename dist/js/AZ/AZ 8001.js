@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 8001"]={"code":"AZ 8001","region":"Xizi","city":"Suraabad","latitude":40.81924,"longitude":49.46874}}(window,'GeoPostal','AZ');

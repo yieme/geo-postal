@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18320"]={"code":"18320","region":"Centre-Val de Loire","city":"Jouet-sur-l'Aubois","latitude":47.04562,"longitude":2.98725}}(window,'GeoPostal','FR');

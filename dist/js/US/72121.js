@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72121"]={"code":"72121","region":"Arkansas","city":"Pangburn","latitude":35.423032,"longitude":-91.840874}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45239"]={"code":"45239","region":"Nordrhein-Westfalen","city":"Werden","latitude":51.38829,"longitude":7.00307}}(window,'GeoPostal','DE');

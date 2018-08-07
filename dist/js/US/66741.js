@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66741"]={"code":"66741","region":"KS","city":"Garland","latitude":37.7175,"longitude":-94.6613}}(window,'GeoPostal','US');

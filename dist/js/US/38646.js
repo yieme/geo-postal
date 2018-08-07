@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38646"]={"code":"38646","region":"MS","city":"Marks","latitude":34.2607,"longitude":-90.2816}}(window,'GeoPostal','US');

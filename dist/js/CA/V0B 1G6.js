@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 1G6"]={"code":"V0B 1G6","region":"British Columbia","city":"Alice Siding","latitude":49.11657,"longitude":-116.52291}}(window,'GeoPostal','CA');

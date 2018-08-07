@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4440"]={"code":"4440","region":"Szabolcs-Szatmar-Bereg","city":"Tiszavasvari","latitude":47.96667,"longitude":21.35}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97037"]={"code":"97037","region":"Oregon","city":"Maupin","latitude":45.17389,"longitude":-121.08306}}(window,'GeoPostal','US');

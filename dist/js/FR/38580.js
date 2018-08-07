@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38580"]={"code":"38580","region":"Auvergne-Rhone-Alpes","city":"Allevard","latitude":45.39337,"longitude":6.0713}}(window,'GeoPostal','FR');

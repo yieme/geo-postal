@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340 04"]={"code":"340 04","region":"Sterea Ellada","city":"Mantoudion","latitude":38.8,"longitude":23.48333}}(window,'GeoPostal','GR');

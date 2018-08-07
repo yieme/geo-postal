@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330605"]={"code":"330605","region":"Jiangxi","city":"Gaohu","latitude":28.92611,"longitude":115.23636}}(window,'GeoPostal','CN');

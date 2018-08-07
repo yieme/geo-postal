@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6767"]={"code":"6767","region":"Tirol","city":"Steeg","latitude":47.24393,"longitude":10.29436}}(window,'GeoPostal','AT');

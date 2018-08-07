@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46779"]={"code":"46779","region":"Indiana","city":"Pleasant Lake","latitude":41.59368,"longitude":-85.01298}}(window,'GeoPostal','US');

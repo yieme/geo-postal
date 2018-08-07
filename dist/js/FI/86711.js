@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86711"]={"code":"86711","region":"Pohjois-Pohjanmaa","city":"Karsamaki","latitude":63.96667,"longitude":25.76667}}(window,'GeoPostal','FI');

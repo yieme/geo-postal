@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7152"]={"code":"7152","region":"Gelderland","city":"Eibergen","latitude":52.1,"longitude":6.64861}}(window,'GeoPostal','NL');

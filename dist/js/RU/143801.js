@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143801"]={"code":"143801","region":"Moskovskaya oblast'","city":"Lotoshino","latitude":56.22667,"longitude":35.64139}}(window,'GeoPostal','RU');

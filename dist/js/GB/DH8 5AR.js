@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH8 5AR"]={"code":"DH8 5AR","region":"England","city":"Consett","latitude":54.85404,"longitude":-1.8316}}(window,'GeoPostal','GB');

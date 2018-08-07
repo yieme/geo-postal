@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37062"]={"code":"37062","region":"TN","city":"Fairview","latitude":35.9755,"longitude":-87.1321}}(window,'GeoPostal','US');

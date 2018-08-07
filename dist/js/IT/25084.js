@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25084"]={"code":"25084","region":"Lombardia","city":"Gargnano","latitude":45.68909,"longitude":10.66088}}(window,'GeoPostal','IT');

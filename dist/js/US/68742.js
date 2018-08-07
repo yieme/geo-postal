@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68742"]={"code":"68742","region":"Nebraska","city":"Inman","latitude":42.344307,"longitude":-98.554817}}(window,'GeoPostal','US');

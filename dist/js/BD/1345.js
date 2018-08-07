@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1345"]={"code":"1345","region":"Rajshahi","city":"Par Naogaon","latitude":24.80287,"longitude":88.95084}}(window,'GeoPostal','BD');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06350"]={"code":"06350","region":"CT","city":"Hanover","latitude":41.6445,"longitude":-72.0677}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70478"]={"code":"70478","region":"Oaxaca","city":"Tlacolula de Matamoros","latitude":16.95,"longitude":-96.48333}}(window,'GeoPostal','MX');

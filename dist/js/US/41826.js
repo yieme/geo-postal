@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41826"]={"code":"41826","region":"Kentucky","city":"Jeremiah","latitude":37.165704,"longitude":-82.935248}}(window,'GeoPostal','US');

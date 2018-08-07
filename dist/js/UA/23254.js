@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23254"]={"code":"23254","region":"Vinnytska oblast","city":"Voronovytsya","latitude":49.10954,"longitude":28.68078}}(window,'GeoPostal','UA');

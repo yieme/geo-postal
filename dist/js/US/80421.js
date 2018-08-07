@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80421"]={"code":"80421","region":"Colorado","city":"Bailey","latitude":39.460068,"longitude":-105.482662}}(window,'GeoPostal','US');

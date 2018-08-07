@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["258 01"]={"code":"258 01","region":"Stredocesky kraj","city":"Vlasim","latitude":49.70632,"longitude":14.89881}}(window,'GeoPostal','CZ');

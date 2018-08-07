@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-550"]={"code":"06-550","region":"Mazowieckie","city":"Szrensk","latitude":53.01277,"longitude":20.12009}}(window,'GeoPostal','PL');

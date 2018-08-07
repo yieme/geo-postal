@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99631"]={"code":"99631","region":"Alaska","city":"Moose Pass","latitude":60.611623,"longitude":-149.248664}}(window,'GeoPostal','US');

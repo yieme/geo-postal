@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96900"]={"code":"96900","region":"Veracruz de Ignacio de la Llave","city":"Minatitlan","latitude":17.98333,"longitude":-94.51667}}(window,'GeoPostal','MX');

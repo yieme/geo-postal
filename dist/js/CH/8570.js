@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8570"]={"code":"8570","region":"Thurgau","city":"Weinfelden","latitude":47.56667,"longitude":9.1}}(window,'GeoPostal','CH');

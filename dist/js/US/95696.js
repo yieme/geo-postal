@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95696"]={"code":"95696","region":"California","city":"Vacaville","latitude":38.317482,"longitude":-121.922954}}(window,'GeoPostal','US');

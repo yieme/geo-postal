@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59400"]={"code":"59400","region":"Michoacan de Ocampo","city":"Acuitzio del Canje","latitude":19.48333,"longitude":-101.33333}}(window,'GeoPostal','MX');

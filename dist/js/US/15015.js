@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15015"]={"code":"15015","region":"PA","city":"Bradfordwoods","latitude":40.6372,"longitude":-80.0811}}(window,'GeoPostal','US');

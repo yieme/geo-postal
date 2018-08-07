@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16836"]={"code":"16836","region":"Pennsylvania","city":"Frenchville","latitude":41.146315,"longitude":-78.244302}}(window,'GeoPostal','US');

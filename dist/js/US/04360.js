@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04360"]={"code":"04360","region":"ME","city":"Vienna","latitude":44.5475,"longitude":-70.003}}(window,'GeoPostal','US');

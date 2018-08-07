@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13031"]={"code":"13031","region":"NY","city":"Camillus","latitude":43.0417,"longitude":-76.2807}}(window,'GeoPostal','US');

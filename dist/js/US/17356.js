@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17356"]={"code":"17356","region":"Pennsylvania","city":"Red Lion","latitude":40.48065,"longitude":-75.61602}}(window,'GeoPostal','US');

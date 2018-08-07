@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV9 5BD"]={"code":"WV9 5BD","region":"England","city":"Wolverhampton","latitude":52.58547,"longitude":-2.12296}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89300"]={"code":"89300","region":"Sabah","city":"Ranau","latitude":5.9538,"longitude":116.6641}}(window,'GeoPostal','MY');

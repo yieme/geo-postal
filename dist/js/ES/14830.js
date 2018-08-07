@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14830"]={"code":"14830","region":"Andalucia","city":"Espejo","latitude":37.6798,"longitude":-4.55355}}(window,'GeoPostal','ES');

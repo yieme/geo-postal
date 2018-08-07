@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35968"]={"code":"35968","region":"Alabama","city":"Fort Payne","latitude":34.444167,"longitude":-85.719722}}(window,'GeoPostal','US');

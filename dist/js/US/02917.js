@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02917"]={"code":"02917","region":"Rhode Island","city":"Smithfield","latitude":41.85516,"longitude":-71.49222}}(window,'GeoPostal','US');

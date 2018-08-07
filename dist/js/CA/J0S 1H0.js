@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0S 1H0"]={"code":"J0S 1H0","region":"Quebec","city":"Huntingdon","latitude":45.08339,"longitude":-74.16593}}(window,'GeoPostal','CA');

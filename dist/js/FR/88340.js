@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88340"]={"code":"88340","region":"Grand-Est","city":"Le Val-d'Ajol","latitude":47.9258,"longitude":6.4836}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70000"]={"code":"70000","region":"Sabaragamuwa Province","city":"Ratnapura","latitude":6.68278,"longitude":80.39917}}(window,'GeoPostal','LK');

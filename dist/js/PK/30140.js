@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30140"]={"code":"30140","region":"Punjab","city":"Kalur Kot","latitude":32.15639,"longitude":71.25944}}(window,'GeoPostal','PK');

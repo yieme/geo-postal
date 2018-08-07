@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7801-859"]={"code":"7801-859","region":"Beja","city":"Beja","latitude":38.01506,"longitude":-7.86323}}(window,'GeoPostal','PT');

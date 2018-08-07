@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57660"]={"code":"57660","region":"SD","city":"Watauga","latitude":45.9276,"longitude":-101.5129}}(window,'GeoPostal','US');

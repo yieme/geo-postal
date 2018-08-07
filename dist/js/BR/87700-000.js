@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87700-000"]={"code":"87700-000","region":"Parana","city":"Nova Aurora","latitude":-22.86667,"longitude":-52.56667}}(window,'GeoPostal','BR');

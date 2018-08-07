@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22710"]={"code":"22710","region":"Bretagne","city":"Penvenan","latitude":48.81182,"longitude":-3.2955}}(window,'GeoPostal','FR');

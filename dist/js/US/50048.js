@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50048"]={"code":"50048","region":"Iowa","city":"Casey","latitude":41.489275,"longitude":-94.429702}}(window,'GeoPostal','US');

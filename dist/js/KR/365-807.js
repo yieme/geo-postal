@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["365-807"]={"code":"365-807","region":"Chungcheongbuk-do","city":"Chinch'on","latitude":36.85667,"longitude":127.44333}}(window,'GeoPostal','KR');

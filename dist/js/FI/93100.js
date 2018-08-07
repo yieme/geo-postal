@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93100"]={"code":"93100","region":"Pohjois-Pohjanmaa","city":"Pudasjarvi","latitude":65.38333,"longitude":26.91667}}(window,'GeoPostal','FI');

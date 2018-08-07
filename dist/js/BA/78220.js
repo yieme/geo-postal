@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78220"]={"code":"78220","region":"Republika Srpska","city":"Kotor-Varos","latitude":44.61694,"longitude":17.37167}}(window,'GeoPostal','BA');

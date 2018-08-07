@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2421"]={"code":"2421","region":"Pangasinan","city":"Don Pedro","latitude":15.8894,"longitude":120.4281}}(window,'GeoPostal','PH');

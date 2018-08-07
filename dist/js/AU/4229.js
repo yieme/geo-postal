@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4229"]={"code":"4229","region":"Queensland","city":"Robina","latitude":-28.07071,"longitude":153.39329}}(window,'GeoPostal','AU');

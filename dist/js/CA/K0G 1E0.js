@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0G 1E0"]={"code":"K0G 1E0","region":"Ontario","city":"Elgin","latitude":44.60012,"longitude":-76.21608}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49285"]={"code":"49285","region":"Michigan","city":"Stockbridge","latitude":42.46765,"longitude":-84.210886}}(window,'GeoPostal','US');

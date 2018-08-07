@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15344"]={"code":"15344","region":"Brandenburg","city":"Strausberg","latitude":52.57859,"longitude":13.88741}}(window,'GeoPostal','DE');

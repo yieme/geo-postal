@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05000"]={"code":"05000","region":"Kedah","city":"Alor Setar","latitude":6.12104,"longitude":100.36014}}(window,'GeoPostal','MY');

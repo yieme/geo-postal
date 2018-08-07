@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0G 1V0"]={"code":"G0G 1V0","region":"Quebec","city":"Longue-Pointe-de-Mingan","latitude":50.26684,"longitude":-64.14867}}(window,'GeoPostal','CA');

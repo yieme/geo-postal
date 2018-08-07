@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64092"]={"code":"64092","region":"MO","city":"Waldron","latitude":39.2289,"longitude":-94.8057}}(window,'GeoPostal','US');

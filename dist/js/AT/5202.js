@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5202"]={"code":"5202","region":"Salzburg","city":"Neumarkt am Wallersee","latitude":47.95,"longitude":13.23333}}(window,'GeoPostal','AT');

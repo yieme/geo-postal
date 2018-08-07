@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24839"]={"code":"24839","region":"WV","city":"Hanover","latitude":37.563,"longitude":-81.8136}}(window,'GeoPostal','US');

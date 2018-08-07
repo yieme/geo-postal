@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19246"]={"code":"19246","region":"Mecklenburg-Vorpommern","city":"Schaliss","latitude":53.55774,"longitude":10.93846}}(window,'GeoPostal','DE');

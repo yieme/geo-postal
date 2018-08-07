@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54840"]={"code":"54840","region":"Grand-Est","city":"Gondreville","latitude":48.69436,"longitude":5.96551}}(window,'GeoPostal','FR');

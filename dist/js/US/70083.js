@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70083"]={"code":"70083","region":"Louisiana","city":"Port Sulphur","latitude":29.443063,"longitude":-89.7655}}(window,'GeoPostal','US');

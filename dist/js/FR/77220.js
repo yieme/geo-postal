@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77220"]={"code":"77220","region":"Ile-de-France","city":"Liverdy-en-Brie","latitude":48.69987,"longitude":2.77606}}(window,'GeoPostal','FR');

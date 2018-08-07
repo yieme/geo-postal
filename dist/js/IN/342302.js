@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["342302"]={"code":"342302","region":"Rajasthan","city":"Phalodi","latitude":27.13333,"longitude":72.36667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33550"]={"code":"33550","region":"Asturias, Principado de","city":"Cangas de Onis","latitude":43.3514,"longitude":-5.12916}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51080"]={"code":"51080","region":"Punjab","city":"Begowala","latitude":32.43759,"longitude":74.26824}}(window,'GeoPostal','PK');

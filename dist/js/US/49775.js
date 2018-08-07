@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49775"]={"code":"49775","region":"MI","city":"Pointe Aux Pins","latitude":45.7549,"longitude":-84.447}}(window,'GeoPostal','US');

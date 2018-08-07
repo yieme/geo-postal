@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62428"]={"code":"62428","region":"Illinois","city":"Greenup","latitude":39.202222,"longitude":-88.041111}}(window,'GeoPostal','US');

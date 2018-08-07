@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21760"]={"code":"21760","region":"Varsinais-Suomi","city":"Houtskar","latitude":60.22284,"longitude":21.37218}}(window,'GeoPostal','FI');

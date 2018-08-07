@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63379"]={"code":"63379","region":"Missouri","city":"Troy","latitude":39.00564,"longitude":-90.96246}}(window,'GeoPostal','US');

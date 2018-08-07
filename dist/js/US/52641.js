@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52641"]={"code":"52641","region":"Iowa","city":"Mount Pleasant","latitude":40.96364,"longitude":-91.55794}}(window,'GeoPostal','US');

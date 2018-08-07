@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29827"]={"code":"29827","region":"South Carolina","city":"Fairfax","latitude":32.95905,"longitude":-81.2365}}(window,'GeoPostal','US');

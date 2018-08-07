@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22811"]={"code":"22811","region":"VA","city":"Bergton","latitude":38.7925,"longitude":-78.9668}}(window,'GeoPostal','US');

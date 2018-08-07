@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34446"]={"code":"34446","region":"Florida","city":"Homosassa","latitude":28.78137,"longitude":-82.6151}}(window,'GeoPostal','US');

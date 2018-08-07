@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-100"]={"code":"18-100","region":"Podlaskie","city":"Lapy","latitude":52.9911,"longitude":22.88422}}(window,'GeoPostal','PL');

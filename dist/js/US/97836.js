@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97836"]={"code":"97836","region":"Oregon","city":"Heppner","latitude":45.35318,"longitude":-119.5578}}(window,'GeoPostal','US');

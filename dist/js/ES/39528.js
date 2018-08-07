@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39528"]={"code":"39528","region":"Cantabria","city":"Comillas","latitude":43.38603,"longitude":-4.29162}}(window,'GeoPostal','ES');

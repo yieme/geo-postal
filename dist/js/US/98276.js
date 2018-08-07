@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98276"]={"code":"98276","region":"WA","city":"Nooksack","latitude":48.9276,"longitude":-122.3215}}(window,'GeoPostal','US');

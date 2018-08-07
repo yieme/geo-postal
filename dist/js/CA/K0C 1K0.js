@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0C 1K0"]={"code":"K0C 1K0","region":"Ontario","city":"Finch","latitude":45.1334,"longitude":-75.0826}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28409"]={"code":"28409","region":"Centre-Val de Loire","city":"Nogent-le-Rotrou","latitude":48.31667,"longitude":0.83333}}(window,'GeoPostal','FR');

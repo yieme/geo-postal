@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13350"]={"code":"13350","region":"New York","city":"Herkimer","latitude":43.02563,"longitude":-74.98599}}(window,'GeoPostal','US');

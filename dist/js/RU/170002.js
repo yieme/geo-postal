@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["170002"]={"code":"170002","region":"Tverskaya oblast'","city":"Tver'","latitude":56.86194,"longitude":35.89306}}(window,'GeoPostal','RU');

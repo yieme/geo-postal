@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66713"]={"code":"66713","region":"Kansas","city":"Baxter Springs","latitude":37.022048,"longitude":-94.735852}}(window,'GeoPostal','US');

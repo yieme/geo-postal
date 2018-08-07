@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36769"]={"code":"36769","region":"Alabama","city":"Pine Hill","latitude":31.9482,"longitude":-87.55729}}(window,'GeoPostal','US');

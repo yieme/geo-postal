@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94700"]={"code":"94700","region":"Ile-de-France","city":"Maisons-Alfort","latitude":48.81171,"longitude":2.43945}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH16 5NL"]={"code":"PH16 5NL","region":"Scotland","city":"White Bridge","latitude":56.65,"longitude":-4}}(window,'GeoPostal','GB');

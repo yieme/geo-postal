@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V5H 1P1"]={"code":"V5H 1P1","region":"British Columbia","city":"Delta","latitude":49.232747,"longitude":-123.01097}}(window,'GeoPostal','CA');

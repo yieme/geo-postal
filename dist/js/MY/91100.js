@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91100"]={"code":"91100","region":"Sabah","city":"Lahad Datu","latitude":5.0268,"longitude":118.327}}(window,'GeoPostal','MY');

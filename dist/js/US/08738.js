@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08738"]={"code":"08738","region":"NJ","city":"Mantoloking","latitude":40.0261,"longitude":-74.0562}}(window,'GeoPostal','US');

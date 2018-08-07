@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95120"]={"code":"95120","region":"Yala","city":"Ka Bang","latitude":6.41536,"longitude":101.05456}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692438"]={"code":"692438","region":"Primorskiy kray","city":"Krasnorechenskiy","latitude":44.6265,"longitude":135.3532}}(window,'GeoPostal','RU');

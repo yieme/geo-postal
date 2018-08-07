@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["100032"]={"code":"100032","region":"Beijing","city":"Xicheng","latitude":39.91151,"longitude":116.36027}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15142"]={"code":"15142","region":"PA","city":"Presto","latitude":40.3847,"longitude":-80.1209}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41719"]={"code":"41719","region":"Kentucky","city":"Bonnyman","latitude":37.310518,"longitude":-83.220086}}(window,'GeoPostal','US');

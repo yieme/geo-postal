@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99840"]={"code":"99840","region":"Alaska","city":"Skagway","latitude":59.46861,"longitude":-135.30583}}(window,'GeoPostal','US');

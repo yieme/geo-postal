@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68752"]={"code":"68752","region":"NE","city":"Meadow Grove","latitude":42.0102,"longitude":-97.7334}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352113"]={"code":"352113","region":"Fujian","city":"Yangzhong","latitude":26.70556,"longitude":119.37444}}(window,'GeoPostal','CN');

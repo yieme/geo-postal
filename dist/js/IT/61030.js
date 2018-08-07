@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61030"]={"code":"61030","region":"Marche","city":"Montefelcino","latitude":43.73476,"longitude":12.83396}}(window,'GeoPostal','IT');

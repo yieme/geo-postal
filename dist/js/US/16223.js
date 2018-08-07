@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16223"]={"code":"16223","region":"PA","city":"Distant","latitude":40.9695,"longitude":-79.3567}}(window,'GeoPostal','US');

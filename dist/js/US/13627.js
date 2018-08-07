@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13627"]={"code":"13627","region":"NY","city":"Deer River","latitude":43.9298,"longitude":-75.5891}}(window,'GeoPostal','US');

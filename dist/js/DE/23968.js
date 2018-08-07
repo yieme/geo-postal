@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23968"]={"code":"23968","region":"Mecklenburg-Vorpommern","city":"Proseken","latitude":53.90646,"longitude":11.36736}}(window,'GeoPostal','DE');

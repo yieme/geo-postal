@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18926"]={"code":"18926","region":"PA","city":"Gardenville","latitude":40.37,"longitude":-75.1}}(window,'GeoPostal','US');

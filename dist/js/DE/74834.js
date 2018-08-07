@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74834"]={"code":"74834","region":"Baden-Wurttemberg","city":"Neckarburken","latitude":49.37817,"longitude":9.16906}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547575"]={"code":"547575","region":"Mures","city":"Stinceni","latitude":46.98333,"longitude":25.23333}}(window,'GeoPostal','RO');

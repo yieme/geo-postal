@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22005"]={"code":"22005","region":"Jutiapa","city":"Asuncion Mita","latitude":14.33083,"longitude":-89.71083}}(window,'GeoPostal','GT');

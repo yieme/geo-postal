@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41033"]={"code":"41033","region":"Emilia-Romagna","city":"Concordia sulla Secchia","latitude":44.91317,"longitude":10.9833}}(window,'GeoPostal','IT');

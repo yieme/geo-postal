@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44310"]={"code":"44310","region":"Ohio","city":"Akron","latitude":41.10579,"longitude":-81.501333}}(window,'GeoPostal','US');

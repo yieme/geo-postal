@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["564602"]={"code":"564602","region":"Guizhou","city":"Sanchahe","latitude":28.49528,"longitude":106.42833}}(window,'GeoPostal','CN');

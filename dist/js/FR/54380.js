@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54380"]={"code":"54380","region":"Grand-Est","city":"Dieulouard","latitude":48.8414,"longitude":6.06808}}(window,'GeoPostal','FR');

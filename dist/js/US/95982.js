@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95982"]={"code":"95982","region":"CA","city":"Sutter","latitude":39.1779,"longitude":-121.7758}}(window,'GeoPostal','US');

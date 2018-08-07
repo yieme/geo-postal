@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67-124"]={"code":"67-124","region":"Lubuskie","city":"Nowe Miasteczko","latitude":51.69097,"longitude":15.73174}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2640"]={"code":"2640","region":"Hovedstaden","city":"Flong","latitude":55.66212,"longitude":12.18698}}(window,'GeoPostal','DK');

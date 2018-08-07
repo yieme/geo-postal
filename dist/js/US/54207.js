@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54207"]={"code":"54207","region":"WI","city":"Collins","latitude":44.091,"longitude":-87.9902}}(window,'GeoPostal','US');

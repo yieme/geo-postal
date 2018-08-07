@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40061"]={"code":"40061","region":"Kentucky","city":"Saint Catharine","latitude":37.694588,"longitude":-85.26383}}(window,'GeoPostal','US');

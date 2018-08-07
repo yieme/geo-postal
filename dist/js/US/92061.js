@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92061"]={"code":"92061","region":"CA","city":"Pauma Valley","latitude":33.3063,"longitude":-116.9596}}(window,'GeoPostal','US');

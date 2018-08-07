@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72935"]={"code":"72935","region":"AR","city":"Dyer","latitude":35.4923,"longitude":-94.1377}}(window,'GeoPostal','US');

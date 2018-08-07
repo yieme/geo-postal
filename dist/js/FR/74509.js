@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74509"]={"code":"74509","region":"Auvergne-Rhone-Alpes","city":"Evian-les-Bains","latitude":46.40111,"longitude":6.58793}}(window,'GeoPostal','FR');

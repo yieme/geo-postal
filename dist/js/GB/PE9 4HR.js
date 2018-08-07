@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 4HR"]={"code":"PE9 4HR","region":"England","city":"Ryhall","latitude":52.68585,"longitude":-0.46846}}(window,'GeoPostal','GB');

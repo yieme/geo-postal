@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41420"]={"code":"41420","region":"Andalucia","city":"Fuentes de Andalucia","latitude":37.46409,"longitude":-5.34615}}(window,'GeoPostal','ES');

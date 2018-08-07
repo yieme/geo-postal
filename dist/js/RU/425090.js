@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425090"]={"code":"425090","region":"Mariy El, Respublika","city":"Krasnogorskiy","latitude":56.1525,"longitude":48.32583}}(window,'GeoPostal','RU');

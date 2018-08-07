@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666779"]={"code":"666779","region":"Irkutskaya oblast'","city":"Markovo","latitude":57.32056,"longitude":107.08806}}(window,'GeoPostal','RU');

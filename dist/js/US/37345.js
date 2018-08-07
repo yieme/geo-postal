@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37345"]={"code":"37345","region":"Tennessee","city":"Huntland","latitude":35.053652,"longitude":-86.271455}}(window,'GeoPostal','US');

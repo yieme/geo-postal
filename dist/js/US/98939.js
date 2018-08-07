@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98939"]={"code":"98939","region":"WA","city":"Parker","latitude":46.501,"longitude":-120.4653}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49331"]={"code":"49331","region":"Michigan","city":"Lowell","latitude":42.949957,"longitude":-85.36041}}(window,'GeoPostal','US');

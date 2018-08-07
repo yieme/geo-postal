@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54728"]={"code":"54728","region":"Wisconsin","city":"Chetek","latitude":45.31413,"longitude":-91.651}}(window,'GeoPostal','US');

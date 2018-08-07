@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26062"]={"code":"26062","region":"West Virginia","city":"Weirton","latitude":40.41896,"longitude":-80.58952}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413540"]={"code":"413540","region":"Saratovskaya oblast'","city":"Gornyy","latitude":51.7578,"longitude":48.5413}}(window,'GeoPostal','RU');

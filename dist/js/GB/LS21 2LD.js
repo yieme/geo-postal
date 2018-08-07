@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS21 2LD"]={"code":"LS21 2LD","region":"England","city":"Leathley","latitude":53.91863,"longitude":-1.64749}}(window,'GeoPostal','GB');

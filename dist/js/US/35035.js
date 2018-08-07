@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35035"]={"code":"35035","region":"AL","city":"Brierfield","latitude":33.0427,"longitude":-86.9517}}(window,'GeoPostal','US');

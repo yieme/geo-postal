@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77993"]={"code":"77993","region":"TX","city":"Weesatche","latitude":28.8472,"longitude":-97.448}}(window,'GeoPostal','US');

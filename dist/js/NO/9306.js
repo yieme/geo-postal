@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9306"]={"code":"9306","region":"Troms","city":"Finnsnes","latitude":69.22959,"longitude":17.98114}}(window,'GeoPostal','NO');

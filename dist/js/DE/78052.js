@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78052"]={"code":"78052","region":"Baden-Wurttemberg","city":"Villingen-Schwenningen","latitude":48.06226,"longitude":8.49358}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4601"]={"code":"4601","region":"Rezeknes novads","city":"Rezekne","latitude":56.5,"longitude":27.31667}}(window,'GeoPostal','LV');

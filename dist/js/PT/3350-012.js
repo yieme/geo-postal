@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3350-012"]={"code":"3350-012","region":"Coimbra","city":"Poiares","latitude":40.21026,"longitude":-8.25746}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J7R 5R5"]={"code":"J7R 5R5","region":"Quebec","city":"Saint-Eustache","latitude":45.563223,"longitude":-73.928059}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS7 5QA"]={"code":"HS7 5QA","region":"Scotland","city":"Benbecula","latitude":57.44707,"longitude":-7.34161}}(window,'GeoPostal','GB');

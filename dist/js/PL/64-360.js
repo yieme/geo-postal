@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-360"]={"code":"64-360","region":"Wielkopolskie","city":"Zbaszyn","latitude":52.2509,"longitude":15.9252}}(window,'GeoPostal','PL');

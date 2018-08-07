@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71360"]={"code":"71360","region":"Bourgogne-Franche-Comte","city":"Epinac","latitude":46.98333,"longitude":4.51667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18214"]={"code":"18214","region":"Pennsylvania","city":"Barnesville","latitude":40.824602,"longitude":-76.048612}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR2 4RT"]={"code":"TR2 4RT","region":"England","city":"Grampound","latitude":50.29921,"longitude":-4.90275}}(window,'GeoPostal','GB');

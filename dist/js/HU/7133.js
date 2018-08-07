@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7133"]={"code":"7133","region":"Tolna","city":"Fadd","latitude":46.46476,"longitude":18.81925}}(window,'GeoPostal','HU');

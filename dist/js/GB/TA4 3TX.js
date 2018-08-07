@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA4 3TX"]={"code":"TA4 3TX","region":"England","city":"Stogumber","latitude":51.12772,"longitude":-3.29145}}(window,'GeoPostal','GB');

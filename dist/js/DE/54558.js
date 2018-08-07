@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54558"]={"code":"54558","region":"Rheinland-Pfalz","city":"Saxler","latitude":50.13333,"longitude":6.9}}(window,'GeoPostal','DE');

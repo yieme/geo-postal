@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["441205"]={"code":"441205","region":"Maharashtra","city":"Mul","latitude":20.06667,"longitude":79.66667}}(window,'GeoPostal','IN');

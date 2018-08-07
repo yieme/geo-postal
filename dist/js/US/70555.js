@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70555"]={"code":"70555","region":"LA","city":"Maurice","latitude":30.0722,"longitude":-92.107}}(window,'GeoPostal','US');

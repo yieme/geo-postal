@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445200"]={"code":"445200","region":"Satu Mare","city":"Negresti-Oas","latitude":47.86667,"longitude":23.43333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06785"]={"code":"06785","region":"Sachsen-Anhalt","city":"Oranienbaum","latitude":51.7986,"longitude":12.40584}}(window,'GeoPostal','DE');

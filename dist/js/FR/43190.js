@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43190"]={"code":"43190","region":"Auvergne-Rhone-Alpes","city":"Tence","latitude":45.11503,"longitude":4.29166}}(window,'GeoPostal','FR');

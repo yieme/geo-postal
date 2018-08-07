@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38420"]={"code":"38420","region":"Auvergne-Rhone-Alpes","city":"Le Versoud","latitude":45.21386,"longitude":5.85815}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96369"]={"code":"96369","region":"Bayern","city":"Mostrach","latitude":50.21784,"longitude":11.33972}}(window,'GeoPostal','DE');

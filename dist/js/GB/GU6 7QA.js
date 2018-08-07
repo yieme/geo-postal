@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU6 7QA"]={"code":"GU6 7QA","region":"England","city":"Ewhurst","latitude":51.15394,"longitude":-0.4416}}(window,'GeoPostal','GB');

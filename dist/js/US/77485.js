@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77485"]={"code":"77485","region":"TX","city":"Wallis","latitude":29.6397,"longitude":-96.0456}}(window,'GeoPostal','US');

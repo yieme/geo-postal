@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65490-000"]={"code":"65490-000","region":"Maranhao","city":"Anajatuba","latitude":-3.26444,"longitude":-44.61972}}(window,'GeoPostal','BR');

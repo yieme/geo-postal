@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92389"]={"code":"92389","region":"California","city":"Tecopa","latitude":35.952,"longitude":-115.8981}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70653"]={"code":"70653","region":"Louisiana","city":"Merryville","latitude":30.75437,"longitude":-93.54045}}(window,'GeoPostal','US');

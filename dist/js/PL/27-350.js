@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-350"]={"code":"27-350","region":"Mazowieckie","city":"Sienno","latitude":51.08773,"longitude":21.48325}}(window,'GeoPostal','PL');

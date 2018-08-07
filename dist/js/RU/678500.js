@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678500"]={"code":"678500","region":"Saha, Respublika","city":"Batagay","latitude":67.63333,"longitude":134.63333}}(window,'GeoPostal','RU');

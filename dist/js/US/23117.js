@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23117"]={"code":"23117","region":"Virginia","city":"Mineral","latitude":38.00611,"longitude":-77.90944}}(window,'GeoPostal','US');

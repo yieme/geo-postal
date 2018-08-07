@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49082"]={"code":"49082","region":"Michigan","city":"Quincy","latitude":41.94421,"longitude":-84.88385}}(window,'GeoPostal','US');

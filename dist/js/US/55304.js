@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55304"]={"code":"55304","region":"Minnesota","city":"Ham Lake","latitude":45.25024,"longitude":-93.24995}}(window,'GeoPostal','US');

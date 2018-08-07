@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97941"]={"code":"97941","region":"Baden-Wurttemberg","city":"Tauberbischofsheim","latitude":49.62472,"longitude":9.66278}}(window,'GeoPostal','DE');

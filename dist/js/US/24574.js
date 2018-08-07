@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24574"]={"code":"24574","region":"Virginia","city":"Monroe","latitude":37.51827,"longitude":-79.185951}}(window,'GeoPostal','US');

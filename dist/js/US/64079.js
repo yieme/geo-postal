@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64079"]={"code":"64079","region":"Missouri","city":"Platte City","latitude":39.35484,"longitude":-94.7961}}(window,'GeoPostal','US');

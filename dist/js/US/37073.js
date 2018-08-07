@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37073"]={"code":"37073","region":"TN","city":"Greenbrier","latitude":36.4229,"longitude":-86.7914}}(window,'GeoPostal','US');

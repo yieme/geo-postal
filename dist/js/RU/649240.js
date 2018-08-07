@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["649240"]={"code":"649240","region":"Altay, Respublika","city":"Chemal","latitude":51.41111,"longitude":86.005}}(window,'GeoPostal','RU');

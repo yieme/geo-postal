@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48412"]={"code":"48412","region":"MI","city":"Attica","latitude":43.0547,"longitude":-83.1668}}(window,'GeoPostal','US');

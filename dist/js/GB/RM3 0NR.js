@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RM3 0NR"]={"code":"RM3 0NR","region":"England","city":"Harold Wood","latitude":51.59462,"longitude":0.23294}}(window,'GeoPostal','GB');

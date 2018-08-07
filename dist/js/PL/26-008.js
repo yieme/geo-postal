@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-008"]={"code":"26-008","region":"Swietokrzyskie","city":"Gorno","latitude":50.84774,"longitude":20.82501}}(window,'GeoPostal','PL');

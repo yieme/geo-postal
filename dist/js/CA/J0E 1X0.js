@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0E 1X0"]={"code":"J0E 1X0","region":"Quebec","city":"Potton","latitude":45.08339,"longitude":-72.3658}}(window,'GeoPostal','CA');

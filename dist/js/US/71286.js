@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71286"]={"code":"71286","region":"Louisiana","city":"Transylvania","latitude":32.667258,"longitude":-91.253255}}(window,'GeoPostal','US');

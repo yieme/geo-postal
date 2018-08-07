@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9670000"]={"code":"9670000","region":"Region Metropolitana de Santiago","city":"Talagante","latitude":-33.66667,"longitude":-70.93333}}(window,'GeoPostal','CL');

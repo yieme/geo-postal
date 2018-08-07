@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12456"]={"code":"12456","region":"NY","city":"Mount Marion","latitude":42.0357,"longitude":-74.0002}}(window,'GeoPostal','US');

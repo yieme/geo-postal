@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["505474"]={"code":"505474","region":"Telangana","city":"Karimnagar","latitude":18.43333,"longitude":79.15}}(window,'GeoPostal','IN');

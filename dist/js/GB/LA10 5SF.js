@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA10 5SF"]={"code":"LA10 5SF","region":"England","city":"Sedbergh","latitude":54.32123,"longitude":-2.52514}}(window,'GeoPostal','GB');

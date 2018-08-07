@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601800"]={"code":"601800","region":"Vladimirskaya oblast'","city":"Yur'yev-Pol'skiy","latitude":56.50339,"longitude":39.67911}}(window,'GeoPostal','RU');

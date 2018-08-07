@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39-200"]={"code":"39-200","region":"Podkarpackie","city":"Debica","latitude":50.05146,"longitude":21.41141}}(window,'GeoPostal','PL');

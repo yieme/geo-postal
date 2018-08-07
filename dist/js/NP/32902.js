@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32902"]={"code":"32902","region":"Lumbini","city":"Butwal","latitude":27.70055,"longitude":83.44836}}(window,'GeoPostal','NP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6326"]={"code":"6326","region":"Bohol","city":"Trinidad","latitude":10.07955,"longitude":124.34324}}(window,'GeoPostal','PH');

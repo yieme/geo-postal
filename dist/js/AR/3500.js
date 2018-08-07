@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3500"]={"code":"3500","region":"Chaco","city":"Resistencia","latitude":-27.46056,"longitude":-58.98389}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20682"]={"code":"20682","region":"MD","city":"Rock Point","latitude":38.2836,"longitude":-76.8481}}(window,'GeoPostal','US');

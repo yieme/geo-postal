@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21841"]={"code":"21841","region":"MD","city":"Newark","latitude":38.2489,"longitude":-75.2893}}(window,'GeoPostal','US');

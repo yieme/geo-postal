@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67571"]={"code":"67571","region":"Odeska oblast","city":"Fontanka","latitude":46.56255,"longitude":30.86071}}(window,'GeoPostal','UA');

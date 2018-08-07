@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78655"]={"code":"78655","region":"TX","city":"Martindale","latitude":29.8394,"longitude":-97.8508}}(window,'GeoPostal','US');

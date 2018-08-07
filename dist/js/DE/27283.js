@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27283"]={"code":"27283","region":"Niedersachsen","city":"Verden","latitude":52.92342,"longitude":9.23491}}(window,'GeoPostal','DE');

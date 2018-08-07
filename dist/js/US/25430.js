@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25430"]={"code":"25430","region":"West Virginia","city":"Kearneysville","latitude":39.38806,"longitude":-77.88556}}(window,'GeoPostal','US');

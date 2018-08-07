@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63185-000"]={"code":"63185-000","region":"Ceara","city":"Farias Brito","latitude":-6.93056,"longitude":-39.56556}}(window,'GeoPostal','BR');

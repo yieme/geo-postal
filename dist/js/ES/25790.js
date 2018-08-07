@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25790"]={"code":"25790","region":"Catalunya","city":"Oliana","latitude":42.06895,"longitude":1.31353}}(window,'GeoPostal','ES');

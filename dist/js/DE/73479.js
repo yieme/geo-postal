@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73479"]={"code":"73479","region":"Baden-Wurttemberg","city":"Eggenrot","latitude":48.97701,"longitude":10.09064}}(window,'GeoPostal','DE');

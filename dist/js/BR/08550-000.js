@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08550-000"]={"code":"08550-000","region":"Sao Paulo","city":"Ferraz de Vasconcelos","latitude":-23.54083,"longitude":-46.36861}}(window,'GeoPostal','BR');

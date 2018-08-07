@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56692"]={"code":"56692","region":"Jonkopings lan","city":"Habo","latitude":57.91185,"longitude":14.07444}}(window,'GeoPostal','SE');

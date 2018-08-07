@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45711"]={"code":"45711","region":"OH","city":"Amesville","latitude":39.4086,"longitude":-81.965}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92655"]={"code":"92655","region":"CA","city":"Midway City","latitude":33.7446,"longitude":-117.984}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58788"]={"code":"58788","region":"ND","city":"Towner","latitude":48.3636,"longitude":-100.4854}}(window,'GeoPostal','US');

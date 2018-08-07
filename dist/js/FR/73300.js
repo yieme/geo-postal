@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73300"]={"code":"73300","region":"Auvergne-Rhone-Alpes","city":"Villargondran","latitude":45.27113,"longitude":6.3695}}(window,'GeoPostal','FR');

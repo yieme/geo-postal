@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51053"]={"code":"51053","region":"Iowa","city":"Schaller","latitude":42.49722,"longitude":-95.29417}}(window,'GeoPostal','US');

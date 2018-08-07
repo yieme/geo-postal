@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49330"]={"code":"49330","region":"Jalisco","city":"Usmajac","latitude":19.86667,"longitude":-103.56667}}(window,'GeoPostal','MX');

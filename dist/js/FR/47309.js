@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47309"]={"code":"47309","region":"Nouvelle-Aquitaine","city":"Villeneuve-sur-Lot","latitude":44.4,"longitude":0.71667}}(window,'GeoPostal','FR');

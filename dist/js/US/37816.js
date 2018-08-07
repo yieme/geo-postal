@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37816"]={"code":"37816","region":"TN","city":"Morristown","latitude":36.2133,"longitude":-83.2752}}(window,'GeoPostal','US');

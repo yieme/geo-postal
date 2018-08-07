@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48741"]={"code":"48741","region":"Michigan","city":"Kingston","latitude":43.404543,"longitude":-83.178422}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8802"]={"code":"8802","region":"Fryslan","city":"Franeker","latitude":53.18546,"longitude":5.54123}}(window,'GeoPostal','NL');

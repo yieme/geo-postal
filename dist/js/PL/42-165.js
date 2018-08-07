@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-165"]={"code":"42-165","region":"Slaskie","city":"Lipie","latitude":51.01257,"longitude":18.79658}}(window,'GeoPostal','PL');

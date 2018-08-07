@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LU2 9EX"]={"code":"LU2 9EX","region":"England","city":"Luton","latitude":50.58333,"longitude":-3.55}}(window,'GeoPostal','GB');

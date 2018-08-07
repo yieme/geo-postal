@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2560"]={"code":"2560","region":"New South Wales","city":"Campbelltown","latitude":-34.06667,"longitude":150.81667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74816"]={"code":"74816","region":"Harjumaa","city":"Loksa","latitude":59.57639,"longitude":25.72139}}(window,'GeoPostal','EE');

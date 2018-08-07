@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S4H 0H8"]={"code":"S4H 0H8","region":"Saskatchewan","city":"Weyburn","latitude":49.662565,"longitude":-103.837087}}(window,'GeoPostal','CA');

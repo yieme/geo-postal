@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA14 5QN"]={"code":"WA14 5QN","region":"England","city":"Timperley","latitude":53.4,"longitude":-2.33333}}(window,'GeoPostal','GB');

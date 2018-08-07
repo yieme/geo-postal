@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38099"]={"code":"38099","region":"Auvergne-Rhone-Alpes","city":"Villefontaine","latitude":45.6125,"longitude":5.14558}}(window,'GeoPostal','FR');

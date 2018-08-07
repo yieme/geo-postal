@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431806"]={"code":"431806","region":"Hubei","city":"Songhe","latitude":31.19647,"longitude":113.28373}}(window,'GeoPostal','CN');

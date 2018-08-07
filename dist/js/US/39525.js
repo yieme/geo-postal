@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39525"]={"code":"39525","region":"Mississippi","city":"Diamondhead","latitude":30.38094,"longitude":-89.37048}}(window,'GeoPostal','US');

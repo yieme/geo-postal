@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32434"]={"code":"32434","region":"FL","city":"Mossy Head","latitude":30.7432,"longitude":-86.3149}}(window,'GeoPostal','US');

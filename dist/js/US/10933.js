@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10933"]={"code":"10933","region":"NY","city":"Johnson","latitude":41.3653,"longitude":-74.5109}}(window,'GeoPostal','US');

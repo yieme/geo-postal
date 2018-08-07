@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06228"]={"code":"06228","region":"Extremadura","city":"Hornachos","latitude":38.55428,"longitude":-6.06829}}(window,'GeoPostal','ES');

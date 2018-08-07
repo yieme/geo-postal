@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11149"]={"code":"11149","region":"Andalucia","city":"Conil de la Frontera","latitude":36.27719,"longitude":-6.0885}}(window,'GeoPostal','ES');

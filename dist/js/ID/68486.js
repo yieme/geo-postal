@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68486"]={"code":"68486","region":"Jawa Timur","city":"Balokan","latitude":-8.38898,"longitude":114.11984}}(window,'GeoPostal','ID');

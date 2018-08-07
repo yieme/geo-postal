@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 0P0"]={"code":"T0G 0P0","region":"Alberta","city":"Clyde","latitude":54.15015,"longitude":-113.65205}}(window,'GeoPostal','CA');

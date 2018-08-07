@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35586"]={"code":"35586","region":"Hessen","city":"Wetzlar","latitude":50.56109,"longitude":8.50495}}(window,'GeoPostal','DE');

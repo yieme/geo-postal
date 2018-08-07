@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52041"]={"code":"52041","region":"IA","city":"Earlville","latitude":42.5001,"longitude":-91.2597}}(window,'GeoPostal','US');

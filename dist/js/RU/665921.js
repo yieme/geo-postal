@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665921"]={"code":"665921","region":"Irkutskaya oblast'","city":"Listvyanka","latitude":51.8535,"longitude":104.8693}}(window,'GeoPostal','RU');

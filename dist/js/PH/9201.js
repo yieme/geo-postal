@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9201"]={"code":"9201","region":"Lanao del Norte","city":"Mantampay","latitude":8.16667,"longitude":124.21667}}(window,'GeoPostal','PH');

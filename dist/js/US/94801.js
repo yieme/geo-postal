@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94801"]={"code":"94801","region":"California","city":"Richmond","latitude":37.93576,"longitude":-122.34775}}(window,'GeoPostal','US');

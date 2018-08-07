@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD6 9ES"]={"code":"TD6 9ES","region":"Scotland","city":"Longnewton","latitude":55.53333,"longitude":-2.66667}}(window,'GeoPostal','GB');

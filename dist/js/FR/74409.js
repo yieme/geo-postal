@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74409"]={"code":"74409","region":"Auvergne-Rhone-Alpes","city":"Chamonix-Mont-Blanc","latitude":45.92375,"longitude":6.86933}}(window,'GeoPostal','FR');

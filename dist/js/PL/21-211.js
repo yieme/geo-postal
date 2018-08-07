@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-211"]={"code":"21-211","region":"Lubelskie","city":"Debowa Kloda","latitude":51.59446,"longitude":23.0064}}(window,'GeoPostal','PL');

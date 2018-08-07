@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29570"]={"code":"29570","region":"Bretagne","city":"Camaret-sur-Mer","latitude":48.27497,"longitude":-4.59615}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12092"]={"code":"12092","region":"NY","city":"Howes Cave","latitude":42.7045,"longitude":-74.3648}}(window,'GeoPostal','US');

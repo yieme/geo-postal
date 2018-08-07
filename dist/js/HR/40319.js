@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40319"]={"code":"40319","region":"Medimurska zupanija","city":"Belica","latitude":46.40417,"longitude":16.51833}}(window,'GeoPostal','HR');

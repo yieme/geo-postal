@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52219"]={"code":"52219","region":"IA","city":"Prairieburg","latitude":42.2383,"longitude":-91.4224}}(window,'GeoPostal','US');

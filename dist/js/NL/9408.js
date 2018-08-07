@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9408"]={"code":"9408","region":"Drenthe","city":"Assen","latitude":52.99667,"longitude":6.5625}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54110"]={"code":"54110","region":"Grand-Est","city":"Rosieres-aux-Salines","latitude":48.5929,"longitude":6.33208}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67349"]={"code":"67349","region":"Kansas","city":"Howard","latitude":37.47031,"longitude":-96.26361}}(window,'GeoPostal','US');

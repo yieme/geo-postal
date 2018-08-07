@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70659"]={"code":"70659","region":"Louisiana","city":"Rosepine","latitude":30.91991,"longitude":-93.28239}}(window,'GeoPostal','US');

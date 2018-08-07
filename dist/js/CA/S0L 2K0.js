@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 2K0"]={"code":"S0L 2K0","region":"Saskatchewan","city":"Marengo","latitude":51.48342,"longitude":-109.78485}}(window,'GeoPostal','CA');

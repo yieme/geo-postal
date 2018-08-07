@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58401"]={"code":"58401","region":"North Dakota","city":"Jamestown","latitude":46.91054,"longitude":-98.70844}}(window,'GeoPostal','US');

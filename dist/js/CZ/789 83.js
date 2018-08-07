@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["789 83"]={"code":"789 83","region":"Olomoucky kraj","city":"Lostice","latitude":49.7447,"longitude":16.92892}}(window,'GeoPostal','CZ');

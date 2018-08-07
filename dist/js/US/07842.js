@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07842"]={"code":"07842","region":"NJ","city":"Hibernia","latitude":40.944,"longitude":-74.4927}}(window,'GeoPostal','US');

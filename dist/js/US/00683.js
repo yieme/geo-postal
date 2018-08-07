@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00683"]={"code":"00683","region":"PR","city":"San German","latitude":18.08,"longitude":-67.04}}(window,'GeoPostal','US');

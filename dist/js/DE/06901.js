@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06901"]={"code":"06901","region":"Sachsen-Anhalt","city":"Wartenburg","latitude":51.8096,"longitude":12.77928}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68644"]={"code":"68644","region":"NE","city":"Lindsay","latitude":41.6926,"longitude":-97.6711}}(window,'GeoPostal','US');

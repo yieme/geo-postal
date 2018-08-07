@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70651"]={"code":"70651","region":"LA","city":"Leblanc","latitude":30.5648,"longitude":-92.9583}}(window,'GeoPostal','US');

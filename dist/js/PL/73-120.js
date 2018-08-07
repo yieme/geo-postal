@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73-120"]={"code":"73-120","region":"Zachodniopomorskie","city":"Chociwel","latitude":53.46696,"longitude":15.33342}}(window,'GeoPostal','PL');

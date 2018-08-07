@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15693"]={"code":"15693","region":"PA","city":"Whitney","latitude":40.2534,"longitude":-79.4103}}(window,'GeoPostal','US');

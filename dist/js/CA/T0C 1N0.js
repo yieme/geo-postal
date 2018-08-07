@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 1N0"]={"code":"T0C 1N0","region":"Alberta","city":"Hobbema","latitude":52.83342,"longitude":-113.45199}}(window,'GeoPostal','CA');

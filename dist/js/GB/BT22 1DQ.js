@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT22 1DQ"]={"code":"BT22 1DQ","region":"Northern Ireland","city":"Glastry","latitude":54.48333,"longitude":-5.48333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6013"]={"code":"6013","region":"Cebu","city":"Daanbantayan","latitude":11.2505,"longitude":124}}(window,'GeoPostal','PH');

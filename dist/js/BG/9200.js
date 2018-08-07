@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9200"]={"code":"9200","region":"Varna","city":"Provadiya","latitude":43.18333,"longitude":27.43333}}(window,'GeoPostal','BG');

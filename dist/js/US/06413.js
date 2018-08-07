@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06413"]={"code":"06413","region":"CT","city":"Clinton","latitude":41.2912,"longitude":-72.528}}(window,'GeoPostal','US');

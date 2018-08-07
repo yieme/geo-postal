@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58305-000"]={"code":"58305-000","region":"Paraiba","city":"Joao Pessoa","latitude":-7.115,"longitude":-34.86306}}(window,'GeoPostal','BR');

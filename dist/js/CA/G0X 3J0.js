@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 3J0"]={"code":"G0X 3J0","region":"Quebec","city":"Notre-Dame-du-Mont-Carmel","latitude":46.48335,"longitude":-72.64912}}(window,'GeoPostal','CA');

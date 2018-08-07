@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 2PS"]={"code":"TD15 2PS","region":"England","city":"Duddo","latitude":55.67685,"longitude":-2.10222}}(window,'GeoPostal','GB');

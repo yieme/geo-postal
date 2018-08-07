@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26600"]={"code":"26600","region":"Auvergne-Rhone-Alpes","city":"Granges-les-Beaumont","latitude":45.0519,"longitude":4.9833}}(window,'GeoPostal','FR');

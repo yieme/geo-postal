@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49429"]={"code":"49429","region":"MI","city":"Jenison","latitude":42.9072,"longitude":-85.792}}(window,'GeoPostal','US');

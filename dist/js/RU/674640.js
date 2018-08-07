@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674640"]={"code":"674640","region":"Zabaykal'skiy kray","city":"Aleksandrovskiy Zavod","latitude":50.9237,"longitude":117.9374}}(window,'GeoPostal','RU');

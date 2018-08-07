@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["WF"]={id:'WF',country:'Wallis and Futuna', postal:{'':{code:'',region:'Uvea',city:'Mata\'utu',latitude:-13.28163,longitude:-176.17453}}};

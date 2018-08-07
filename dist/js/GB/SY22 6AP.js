@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY22 6AP"]={"code":"SY22 6AP","region":"Wales","city":"Llansantffraid-ym-Mechain","latitude":52.77416,"longitude":-3.15857}}(window,'GeoPostal','GB');

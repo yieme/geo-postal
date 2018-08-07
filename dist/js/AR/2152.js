@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2152"]={"code":"2152","region":"Santa Fe","city":"Granadero Baigorria","latitude":-32.85683,"longitude":-60.71754}}(window,'GeoPostal','AR');

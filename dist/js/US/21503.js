@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21503"]={"code":"21503","region":"MD","city":"Cumberland","latitude":39.6529,"longitude":-78.7625}}(window,'GeoPostal','US');

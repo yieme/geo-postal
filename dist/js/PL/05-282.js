@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-282"]={"code":"05-282","region":"Mazowieckie","city":"Strachowka","latitude":52.42692,"longitude":21.635}}(window,'GeoPostal','PL');

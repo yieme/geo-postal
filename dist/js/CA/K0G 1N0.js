@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0G 1N0"]={"code":"K0G 1N0","region":"Ontario","city":"Merrickville","latitude":44.91681,"longitude":-75.83266}}(window,'GeoPostal','CA');

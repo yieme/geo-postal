@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23109"]={"code":"23109","region":"VA","city":"Mathews","latitude":37.4383,"longitude":-76.3544}}(window,'GeoPostal','US');

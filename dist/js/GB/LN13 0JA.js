@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN13 0JA"]={"code":"LN13 0JA","region":"England","city":"Saleby","latitude":53.28561,"longitude":0.18428}}(window,'GeoPostal','GB');

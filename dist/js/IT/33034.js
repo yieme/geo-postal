@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33034"]={"code":"33034","region":"Friuli-Venezia Giulia","city":"Fagagna","latitude":46.11417,"longitude":13.09389}}(window,'GeoPostal','IT');

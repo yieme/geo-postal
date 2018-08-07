@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54946"]={"code":"54946","region":"Wisconsin","city":"King","latitude":44.33748,"longitude":-89.14178}}(window,'GeoPostal','US');

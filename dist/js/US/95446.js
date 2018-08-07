@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95446"]={"code":"95446","region":"California","city":"Guerneville","latitude":38.493648,"longitude":-122.982261}}(window,'GeoPostal','US');

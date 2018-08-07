@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["582116"]={"code":"582116","region":"Karnataka","city":"Savanur","latitude":14.96667,"longitude":75.35}}(window,'GeoPostal','IN');

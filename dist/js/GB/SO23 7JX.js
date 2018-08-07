@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO23 7JX"]={"code":"SO23 7JX","region":"England","city":"Headbourne Worthy","latitude":51.08697,"longitude":-1.30943}}(window,'GeoPostal','GB');

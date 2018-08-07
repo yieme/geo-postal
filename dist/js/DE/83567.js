@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83567"]={"code":"83567","region":"Bayern","city":"Kirchloibersdorf","latitude":48.09461,"longitude":12.33128}}(window,'GeoPostal','DE');

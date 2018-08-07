@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67316"]={"code":"67316","region":"Jawa Timur","city":"Lumajang","latitude":-8.1335,"longitude":113.2248}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02239"]={"code":"02239","region":"MA","city":"Cambridge","latitude":42.36,"longitude":-71.1}}(window,'GeoPostal','US');

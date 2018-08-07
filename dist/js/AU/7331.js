@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7331"]={"code":"7331","region":"Tasmania","city":"Stanley","latitude":-40.76064,"longitude":145.29555}}(window,'GeoPostal','AU');

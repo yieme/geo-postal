@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4481"]={"code":"4481","region":"Queensland","city":"Windorah","latitude":-25.43333,"longitude":142.65}}(window,'GeoPostal','AU');

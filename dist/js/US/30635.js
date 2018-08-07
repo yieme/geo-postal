@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30635"]={"code":"30635","region":"Georgia","city":"Elberton","latitude":34.11122,"longitude":-82.86708}}(window,'GeoPostal','US');

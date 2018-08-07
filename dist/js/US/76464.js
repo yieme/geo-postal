@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76464"]={"code":"76464","region":"TX","city":"Moran","latitude":32.5549,"longitude":-99.1656}}(window,'GeoPostal','US');

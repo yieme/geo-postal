@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3204"]={"code":"3204","region":"Niederosterreich","city":"Kirchberg an der Pielach","latitude":48.0269,"longitude":15.42875}}(window,'GeoPostal','AT');

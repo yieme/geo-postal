@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89611"]={"code":"89611","region":"Baden-Wurttemberg","city":"Obermarchtal","latitude":48.23279,"longitude":9.57235}}(window,'GeoPostal','DE');

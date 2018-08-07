@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55423"]={"code":"55423","region":"Minnesota","city":"Richfield","latitude":44.8833,"longitude":-93.283}}(window,'GeoPostal','US');

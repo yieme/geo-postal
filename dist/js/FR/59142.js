@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59142"]={"code":"59142","region":"Hauts-de-France","city":"Villers-Outreaux","latitude":50.0359,"longitude":3.29947}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51226"]={"code":"51226","region":"Primorsko-goranska zupanija","city":"Hreljin","latitude":45.2825,"longitude":14.59917}}(window,'GeoPostal','HR');

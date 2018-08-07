@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37754"]={"code":"37754","region":"TN","city":"Heiskell","latitude":36.115,"longitude":-84.0438}}(window,'GeoPostal','US');

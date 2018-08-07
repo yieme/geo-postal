@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26954"]={"code":"26954","region":"Niedersachsen","city":"Suderseefeld","latitude":53.46399,"longitude":8.34938}}(window,'GeoPostal','DE');

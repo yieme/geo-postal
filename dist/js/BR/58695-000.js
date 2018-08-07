@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58695-000"]={"code":"58695-000","region":"Paraiba","city":"Desterro","latitude":-7.29056,"longitude":-37.09389}}(window,'GeoPostal','BR');

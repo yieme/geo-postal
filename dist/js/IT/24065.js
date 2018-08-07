@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24065"]={"code":"24065","region":"Lombardia","city":"Lovere","latitude":45.81169,"longitude":10.06896}}(window,'GeoPostal','IT');

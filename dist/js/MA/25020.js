@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25020"]={"code":"25020","region":"Chaouia-Ouardigha","city":"Khouribga","latitude":32.88108,"longitude":-6.9063}}(window,'GeoPostal','MA');

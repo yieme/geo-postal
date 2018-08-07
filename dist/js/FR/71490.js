@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71490"]={"code":"71490","region":"Bourgogne-Franche-Comte","city":"Couches","latitude":46.86667,"longitude":4.56667}}(window,'GeoPostal','FR');

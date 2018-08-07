@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95007"]={"code":"95007","region":"CA","city":"Brookdale","latitude":37.1063,"longitude":-122.105}}(window,'GeoPostal','US');

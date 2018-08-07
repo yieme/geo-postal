@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74428"]={"code":"74428","region":"Oklahoma","city":"Council Hill","latitude":35.536527,"longitude":-95.714956}}(window,'GeoPostal','US');

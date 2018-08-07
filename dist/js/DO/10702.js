@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10702"]={"code":"10702","region":"Espaillat","city":"Moca","latitude":19.39352,"longitude":-70.52598}}(window,'GeoPostal','DO');

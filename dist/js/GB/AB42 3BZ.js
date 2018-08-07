@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 3BZ"]={"code":"AB42 3BZ","region":"Scotland","city":"Burnhaven","latitude":57.48333,"longitude":-1.78333}}(window,'GeoPostal','GB');

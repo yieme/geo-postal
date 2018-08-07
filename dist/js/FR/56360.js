@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56360"]={"code":"56360","region":"Bretagne","city":"Le Palais","latitude":47.34557,"longitude":-3.15411}}(window,'GeoPostal','FR');

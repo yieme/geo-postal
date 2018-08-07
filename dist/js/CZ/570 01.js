@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570 01"]={"code":"570 01","region":"Pardubicky kraj","city":"Litomysl","latitude":49.86809,"longitude":16.31298}}(window,'GeoPostal','CZ');

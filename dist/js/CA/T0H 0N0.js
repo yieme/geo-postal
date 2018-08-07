@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 0N0"]={"code":"T0H 0N0","region":"Alberta","city":"Simon Lakes","latitude":56.48348,"longitude":-116.63591}}(window,'GeoPostal','CA');

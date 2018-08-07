@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01151"]={"code":"01151","region":"MA","city":"Indian Orchard","latitude":42.1532,"longitude":-72.505}}(window,'GeoPostal','US');

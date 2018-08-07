@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69301"]={"code":"69301","region":"Nebraska","city":"Alliance","latitude":42.10163,"longitude":-102.87214}}(window,'GeoPostal','US');

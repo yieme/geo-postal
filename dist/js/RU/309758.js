@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309758"]={"code":"309758","region":"Voronezhskaya oblast'","city":"Maslovka","latitude":51.55346,"longitude":39.23573}}(window,'GeoPostal','RU');

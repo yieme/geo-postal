@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["700-0821"]={"code":"700-0821","region":"Okayama","city":"Okayama","latitude":34.65,"longitude":133.917}}(window,'GeoPostal','JP');

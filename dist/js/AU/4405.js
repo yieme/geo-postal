@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4405"]={"code":"4405","region":"Queensland","city":"Kupunn","latitude":-27.23333,"longitude":151.11667}}(window,'GeoPostal','AU');

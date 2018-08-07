@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0L 1K0"]={"code":"L0L 1K0","region":"Ontario","city":"Churchill","latitude":43.65713,"longitude":-80.05497}}(window,'GeoPostal','CA');

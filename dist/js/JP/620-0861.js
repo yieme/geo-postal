@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620-0861"]={"code":"620-0861","region":"Kyoto","city":"Fukuchiyama","latitude":35.3,"longitude":135.133}}(window,'GeoPostal','JP');

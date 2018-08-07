@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72770"]={"code":"72770","region":"Arkansas","city":"Tontitown","latitude":36.189155,"longitude":-94.226808}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT18 9JQ"]={"code":"BT18 9JQ","region":"Northern Ireland","city":"Ardmore","latitude":55.01667,"longitude":-6.88333}}(window,'GeoPostal','GB');

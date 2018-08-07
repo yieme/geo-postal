@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08804"]={"code":"08804","region":"New Jersey","city":"Bloomsbury","latitude":40.65306,"longitude":-75.08528}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28812"]={"code":"28812","region":"Riau","city":"Dumai","latitude":1.68333,"longitude":101.45}}(window,'GeoPostal','ID');

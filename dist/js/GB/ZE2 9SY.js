@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9SY"]={"code":"ZE2 9SY","region":"Scotland","city":"Brae","latitude":60.39635,"longitude":-1.35296}}(window,'GeoPostal','GB');

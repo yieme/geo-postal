@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652100"]={"code":"652100","region":"Xinjiang","city":"Turpan","latitude":42.93333,"longitude":89.16667}}(window,'GeoPostal','CN');

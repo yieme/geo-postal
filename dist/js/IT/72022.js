@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72022"]={"code":"72022","region":"Puglia","city":"Latiano","latitude":40.55293,"longitude":17.72051}}(window,'GeoPostal','IT');

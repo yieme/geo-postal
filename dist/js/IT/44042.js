@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44042"]={"code":"44042","region":"Emilia-Romagna","city":"Cento","latitude":44.72597,"longitude":11.28821}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9Y 0B5"]={"code":"L9Y 0B5","region":"Ontario","city":"Blue Mountains","latitude":44.5584,"longitude":-80.458}}(window,'GeoPostal','CA');

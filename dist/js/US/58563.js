@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58563"]={"code":"58563","region":"ND","city":"New Salem","latitude":46.806,"longitude":-101.4291}}(window,'GeoPostal','US');

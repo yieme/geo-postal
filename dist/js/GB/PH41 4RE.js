@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH41 4RE"]={"code":"PH41 4RE","region":"Scotland","city":"Mallaig","latitude":57.00293,"longitude":-5.83082}}(window,'GeoPostal','GB');

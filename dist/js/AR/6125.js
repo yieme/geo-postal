@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6125"]={"code":"6125","region":"Cordoba","city":"Serrano","latitude":-34.46971,"longitude":-63.53842}}(window,'GeoPostal','AR');

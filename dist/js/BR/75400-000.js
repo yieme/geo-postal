@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75400-000"]={"code":"75400-000","region":"Goias","city":"Inhumas","latitude":-16.35778,"longitude":-49.49611}}(window,'GeoPostal','BR');

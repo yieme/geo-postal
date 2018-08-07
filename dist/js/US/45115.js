@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45115"]={"code":"45115","region":"OH","city":"Decatur","latitude":38.8237,"longitude":-83.6995}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16016"]={"code":"16016","region":"Pennsylvania","city":"Boyers","latitude":41.10828,"longitude":-79.89912}}(window,'GeoPostal','US');

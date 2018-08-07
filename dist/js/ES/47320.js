@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47320"]={"code":"47320","region":"Castilla y Leon","city":"Tudela de Duero","latitude":41.5845,"longitude":-4.58093}}(window,'GeoPostal','ES');

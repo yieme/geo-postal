@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9942"]={"code":"9942","region":"Tirol","city":"Obertilliach","latitude":46.71056,"longitude":12.61444}}(window,'GeoPostal','AT');

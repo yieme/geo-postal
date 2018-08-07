@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23398"]={"code":"23398","region":"VA","city":"Jamesville","latitude":37.5151,"longitude":-75.9305}}(window,'GeoPostal','US');

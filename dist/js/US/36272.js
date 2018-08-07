@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36272"]={"code":"36272","region":"Alabama","city":"Piedmont","latitude":33.92455,"longitude":-85.61135}}(window,'GeoPostal','US');

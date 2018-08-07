@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7754"]={"code":"7754","region":"Baranya","city":"Boly","latitude":45.96722,"longitude":18.51833}}(window,'GeoPostal','HU');

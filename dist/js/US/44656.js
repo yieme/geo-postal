@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44656"]={"code":"44656","region":"OH","city":"Mineral City","latitude":40.5705,"longitude":-81.3436}}(window,'GeoPostal','US');

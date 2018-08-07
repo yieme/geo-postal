@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["582 91"]={"code":"582 91","region":"Kraj Vysocina","city":"Svetla nad Sazavou","latitude":49.66801,"longitude":15.40393}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35470"]={"code":"35470","region":"Alabama","city":"Livingston","latitude":32.5843,"longitude":-88.18725}}(window,'GeoPostal','US');

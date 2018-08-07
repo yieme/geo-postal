@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65147"]={"code":"65147","region":"Jawa Timur","city":"Nganjuk","latitude":-7.6051,"longitude":111.9035}}(window,'GeoPostal','ID');

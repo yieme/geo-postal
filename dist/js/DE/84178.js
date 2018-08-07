@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84178"]={"code":"84178","region":"Bayern","city":"Jesendorf","latitude":48.52722,"longitude":12.3751}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42128"]={"code":"42128","region":"KY","city":"Drake","latitude":36.9834,"longitude":-86.394}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43177"]={"code":"43177","region":"Jawa Barat","city":"Cibinong","latitude":-7.2037,"longitude":106.5251}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79359"]={"code":"79359","region":"Texas","city":"Seagraves","latitude":32.94427,"longitude":-102.56492}}(window,'GeoPostal','US');

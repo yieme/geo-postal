@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR18 0NT"]={"code":"NR18 0NT","region":"England","city":"Wymondham","latitude":52.57012,"longitude":1.11623}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626117"]={"code":"626117","region":"Tamil Nadu","city":"Rajapalaiyam","latitude":9.45,"longitude":77.56667}}(window,'GeoPostal','IN');

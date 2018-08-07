@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64739"]={"code":"64739","region":"MO","city":"Creighton","latitude":38.5078,"longitude":-94.0926}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["410-0802"]={"code":"410-0802","region":"Shizuoka","city":"Numazu","latitude":35.1,"longitude":138.867}}(window,'GeoPostal','JP');

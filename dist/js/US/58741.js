@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58741"]={"code":"58741","region":"North Dakota","city":"Granville","latitude":48.25275,"longitude":-100.783259}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6030"]={"code":"6030","region":"Western Australia","city":"Clarkson","latitude":-31.68282,"longitude":115.7247}}(window,'GeoPostal','AU');

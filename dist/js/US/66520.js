@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66520"]={"code":"66520","region":"KS","city":"Olsburg","latitude":39.4125,"longitude":-96.6002}}(window,'GeoPostal','US');

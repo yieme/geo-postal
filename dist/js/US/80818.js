@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80818"]={"code":"80818","region":"CO","city":"Genoa","latitude":39.3383,"longitude":-103.4607}}(window,'GeoPostal','US');

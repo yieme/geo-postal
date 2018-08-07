@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83253"]={"code":"83253","region":"Souss-Massa-Draa","city":"Amalou","latitude":30.19153,"longitude":-8.74873}}(window,'GeoPostal','MA');

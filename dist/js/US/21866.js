@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21866"]={"code":"21866","region":"MD","city":"Tylerton","latitude":37.9666,"longitude":-76.0235}}(window,'GeoPostal','US');

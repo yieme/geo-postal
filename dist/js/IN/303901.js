@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303901"]={"code":"303901","region":"Rajasthan","city":"Chatsu","latitude":26.6,"longitude":75.95}}(window,'GeoPostal','IN');

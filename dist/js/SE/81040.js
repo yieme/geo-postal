@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81040"]={"code":"81040","region":"Gavleborgs lan","city":"Hedesunda","latitude":60.4,"longitude":17}}(window,'GeoPostal','SE');

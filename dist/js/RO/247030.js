@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247030"]={"code":"247030","region":"Maramures","city":"Giulesti","latitude":47.81667,"longitude":23.93333}}(window,'GeoPostal','RO');

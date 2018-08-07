@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA18 7PN"]={"code":"TA18 7PN","region":"England","city":"Middle Chinnock","latitude":50.91485,"longitude":-2.75187}}(window,'GeoPostal','GB');

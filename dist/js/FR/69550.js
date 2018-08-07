@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69550"]={"code":"69550","region":"Auvergne-Rhone-Alpes","city":"Amplepuis","latitude":45.9726,"longitude":4.3316}}(window,'GeoPostal','FR');

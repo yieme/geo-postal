@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70771"]={"code":"70771","region":"Baden-Wurttemberg","city":"Echterdingen","latitude":48.68844,"longitude":9.16775}}(window,'GeoPostal','DE');

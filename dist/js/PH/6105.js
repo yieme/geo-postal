@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6105"]={"code":"6105","region":"Negros Occidental","city":"Hinigaran","latitude":10.2706,"longitude":122.8507}}(window,'GeoPostal','PH');

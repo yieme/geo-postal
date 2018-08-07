@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66023"]={"code":"66023","region":"Abruzzo","city":"Francavilla al Mare","latitude":42.42064,"longitude":14.28701}}(window,'GeoPostal','IT');

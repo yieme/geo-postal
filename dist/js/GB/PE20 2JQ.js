@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE20 2JQ"]={"code":"PE20 2JQ","region":"England","city":"Sutterton","latitude":52.90269,"longitude":-0.09235}}(window,'GeoPostal','GB');

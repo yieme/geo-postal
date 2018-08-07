@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14841"]={"code":"14841","region":"NY","city":"Hector","latitude":42.4966,"longitude":-76.8786}}(window,'GeoPostal','US');

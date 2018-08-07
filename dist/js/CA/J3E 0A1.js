@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J3E 0A1"]={"code":"J3E 0A1","region":"Quebec","city":"Sainte-Julie","latitude":45.58338,"longitude":-73.33246}}(window,'GeoPostal','CA');

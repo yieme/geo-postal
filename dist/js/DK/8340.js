@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8340"]={"code":"8340","region":"Midtjylland","city":"Malling","latitude":56.03632,"longitude":10.19632}}(window,'GeoPostal','DK');

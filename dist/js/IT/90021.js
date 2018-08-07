@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90021"]={"code":"90021","region":"Sicilia","city":"Alia","latitude":37.77995,"longitude":13.71386}}(window,'GeoPostal','IT');

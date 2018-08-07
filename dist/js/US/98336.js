@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98336"]={"code":"98336","region":"Washington","city":"Glenoma","latitude":46.528079,"longitude":-122.120255}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14543"]={"code":"14543","region":"New York","city":"Rush","latitude":42.995196,"longitude":-77.665642}}(window,'GeoPostal','US');

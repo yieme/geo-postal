@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20135"]={"code":"20135","region":"Virginia","city":"Bluemont","latitude":39.0901,"longitude":-77.8399}}(window,'GeoPostal','US');

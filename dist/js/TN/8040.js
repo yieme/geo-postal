@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8040"]={"code":"8040","region":"Nabeul","city":"Bu 'Urqub","latitude":36.53853,"longitude":10.55093}}(window,'GeoPostal','TN');

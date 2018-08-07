@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29830-000"]={"code":"29830-000","region":"Espirito Santo","city":"Nova Venecia","latitude":-18.71056,"longitude":-40.40056}}(window,'GeoPostal','BR');

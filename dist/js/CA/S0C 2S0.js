@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 2S0"]={"code":"S0C 2S0","region":"Saskatchewan","city":"Kenosee Lake","latitude":49.83333,"longitude":-102.28429}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR3 2GH"]={"code":"PR3 2GH","region":"England","city":"Chipping","latitude":53.88333,"longitude":-2.58333}}(window,'GeoPostal','GB');

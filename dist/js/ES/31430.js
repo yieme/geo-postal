@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31430"]={"code":"31430","region":"Navarra, Comunidad Foral de","city":"Aoiz","latitude":42.78633,"longitude":-1.37252}}(window,'GeoPostal','ES');

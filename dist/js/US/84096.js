@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84096"]={"code":"84096","region":"UT","city":"Herriman","latitude":40.5144,"longitude":-112.0325}}(window,'GeoPostal','US');

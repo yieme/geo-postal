@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43644"]={"code":"43644","region":"Hidalgo","city":"Tulancingo","latitude":20.08333,"longitude":-98.36667}}(window,'GeoPostal','MX');

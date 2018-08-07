@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125207"]={"code":"125207","region":"Liaoning","city":"Dadianzi","latitude":40.23161,"longitude":119.80723}}(window,'GeoPostal','CN');

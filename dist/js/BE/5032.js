@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5032"]={"code":"5032","region":"Namur","city":"Gembloux","latitude":50.56149,"longitude":4.69889}}(window,'GeoPostal','BE');

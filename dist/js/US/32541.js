@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32541"]={"code":"32541","region":"Florida","city":"Destin","latitude":30.397991,"longitude":-86.479649}}(window,'GeoPostal','US');

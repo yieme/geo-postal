@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49230"]={"code":"49230","region":"Michigan","city":"Brooklyn","latitude":42.10587,"longitude":-84.24828}}(window,'GeoPostal','US');

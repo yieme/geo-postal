@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA9 3SQ"]={"code":"TA9 3SQ","region":"England","city":"Huntspill","latitude":51.20562,"longitude":-2.98735}}(window,'GeoPostal','GB');

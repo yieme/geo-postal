@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97218"]={"code":"97218","region":"Martinique","city":"Basse-Pointe","latitude":14.86954,"longitude":-61.11504}}(window,'GeoPostal','MQ');

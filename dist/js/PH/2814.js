@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2814"]={"code":"2814","region":"Isabela","city":"Banguero","latitude":17.02305,"longitude":121.77834}}(window,'GeoPostal','PH');

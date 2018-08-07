@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6056"]={"code":"6056","region":"Western Australia","city":"Stratton","latitude":-31.86828,"longitude":116.04066}}(window,'GeoPostal','AU');

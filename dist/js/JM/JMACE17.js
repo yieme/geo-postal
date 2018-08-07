@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMACE17"]={"code":"JMACE17","region":"Saint Catherine","city":"Lluidas Vale","latitude":18.12784,"longitude":-77.14764}}(window,'GeoPostal','JM');

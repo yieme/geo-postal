@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147161"]={"code":"147161","region":"Neamt","city":"Moldoveni","latitude":46.83333,"longitude":26.76667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30630"]={"code":"30630","region":"GA","city":"Crawford","latitude":33.9076,"longitude":-83.1646}}(window,'GeoPostal','US');

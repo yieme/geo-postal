@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301259"]={"code":"301259","region":"Tul'skaya oblast'","city":"Shchekino","latitude":54.00917,"longitude":37.51194}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13054"]={"code":"13054","region":"NY","city":"Durhamville","latitude":43.1579,"longitude":-75.6714}}(window,'GeoPostal','US');

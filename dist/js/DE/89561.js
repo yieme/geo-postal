@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89561"]={"code":"89561","region":"Baden-Wurttemberg","city":"Dischingen","latitude":48.7,"longitude":10.36667}}(window,'GeoPostal','DE');

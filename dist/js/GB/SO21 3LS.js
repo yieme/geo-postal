@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO21 3LS"]={"code":"SO21 3LS","region":"England","city":"Wonston","latitude":51.15243,"longitude":-1.32046}}(window,'GeoPostal','GB');

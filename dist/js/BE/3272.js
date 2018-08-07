@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3272"]={"code":"3272","region":"Vlaams-Brabant","city":"Scherpenheuvel-Zichem","latitude":51.01041,"longitude":4.97492}}(window,'GeoPostal','BE');

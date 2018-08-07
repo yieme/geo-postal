@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22578"]={"code":"22578","region":"Virginia","city":"White Stone","latitude":37.64528,"longitude":-76.39111}}(window,'GeoPostal','US');

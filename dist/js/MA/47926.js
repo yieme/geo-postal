@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47926"]={"code":"47926","region":"Souss-Massa-Draa","city":"Agdz","latitude":30.69356,"longitude":-6.44628}}(window,'GeoPostal','MA');

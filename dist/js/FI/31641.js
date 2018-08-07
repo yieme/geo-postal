@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31641"]={"code":"31641","region":"Kanta-Hame","city":"Humppila","latitude":60.93333,"longitude":23.36667}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E6G 0A1"]={"code":"E6G 0A1","region":"New Brunswick","city":"Nackawic","latitude":45.99666,"longitude":-67.24028}}(window,'GeoPostal','CA');

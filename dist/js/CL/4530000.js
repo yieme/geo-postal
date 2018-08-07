@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4530000"]={"code":"4530000","region":"Biobio","city":"Mulchen","latitude":-37.71667,"longitude":-72.23333}}(window,'GeoPostal','CL');

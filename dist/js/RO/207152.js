@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207152"]={"code":"207152","region":"Dolj","city":"Segarcea","latitude":44.1,"longitude":23.75}}(window,'GeoPostal','RO');

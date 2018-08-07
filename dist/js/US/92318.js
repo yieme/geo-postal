@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92318"]={"code":"92318","region":"CA","city":"Bryn Mawr","latitude":34.0483,"longitude":-117.2309}}(window,'GeoPostal','US');

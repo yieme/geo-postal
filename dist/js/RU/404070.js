@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404070"]={"code":"404070","region":"Volgogradskaya oblast'","city":"Primorsk","latitude":49.26532,"longitude":45.02889}}(window,'GeoPostal','RU');

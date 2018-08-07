@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA71 5DW"]={"code":"SA71 5DW","region":"Wales","city":"Bosherston","latitude":51.61389,"longitude":-4.93889}}(window,'GeoPostal','GB');

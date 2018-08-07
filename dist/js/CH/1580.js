@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1580"]={"code":"1580","region":"Vaud","city":"Avenches","latitude":46.88004,"longitude":7.04071}}(window,'GeoPostal','CH');

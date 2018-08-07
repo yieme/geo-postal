@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46530-000"]={"code":"46530-000","region":"Bahia","city":"Boquira","latitude":-12.82306,"longitude":-42.73056}}(window,'GeoPostal','BR');

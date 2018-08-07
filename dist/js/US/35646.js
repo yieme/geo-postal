@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35646"]={"code":"35646","region":"AL","city":"Leighton","latitude":34.711,"longitude":-87.5221}}(window,'GeoPostal','US');

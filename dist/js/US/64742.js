@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64742"]={"code":"64742","region":"MO","city":"Drexel","latitude":38.4956,"longitude":-94.5928}}(window,'GeoPostal','US');

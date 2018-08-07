@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29475"]={"code":"29475","region":"Niedersachsen","city":"Gorleben","latitude":53.04844,"longitude":11.35729}}(window,'GeoPostal','DE');

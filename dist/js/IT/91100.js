@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91100"]={"code":"91100","region":"Sicilia","city":"Trapani","latitude":38.01584,"longitude":12.51077}}(window,'GeoPostal','IT');

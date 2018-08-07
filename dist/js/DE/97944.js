@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97944"]={"code":"97944","region":"Baden-Wurttemberg","city":"Dainbach","latitude":49.49776,"longitude":9.71244}}(window,'GeoPostal','DE');

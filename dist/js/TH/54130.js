@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54130"]={"code":"54130","region":"Phrae","city":"Sung Men","latitude":18.05161,"longitude":100.11161}}(window,'GeoPostal','TH');

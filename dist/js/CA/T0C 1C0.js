@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 1C0"]={"code":"T0C 1C0","region":"Alberta","city":"Coronation","latitude":52.08343,"longitude":-111.45174}}(window,'GeoPostal','CA');

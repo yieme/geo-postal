@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68960"]={"code":"68960","region":"NE","city":"Naponee","latitude":40.1258,"longitude":-99.1277}}(window,'GeoPostal','US');

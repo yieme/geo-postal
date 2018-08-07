@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46880-000"]={"code":"46880-000","region":"Bahia","city":"Itaberaba","latitude":-12.5275,"longitude":-40.30694}}(window,'GeoPostal','BR');

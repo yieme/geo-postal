@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD9 0QD"]={"code":"TD9 0QD","region":"Scotland","city":"Newcastleton","latitude":55.17908,"longitude":-2.81336}}(window,'GeoPostal','GB');

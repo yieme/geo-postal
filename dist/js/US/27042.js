@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27042"]={"code":"27042","region":"NC","city":"Pine Hall","latitude":36.3482,"longitude":-80.0495}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84520"]={"code":"84520","region":"Utah","city":"East Carbon City","latitude":39.54774,"longitude":-110.41488}}(window,'GeoPostal','US');

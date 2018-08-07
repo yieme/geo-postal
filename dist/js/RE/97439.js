@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97439"]={"code":"97439","region":"Reunion","city":"Sainte-Rose","latitude":-21.12983,"longitude":55.79629}}(window,'GeoPostal','RE');

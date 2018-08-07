@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674200"]={"code":"674200","region":"Yunnan","city":"Yongbei","latitude":26.64623,"longitude":100.78073}}(window,'GeoPostal','CN');

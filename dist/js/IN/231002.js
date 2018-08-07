@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["231002"]={"code":"231002","region":"Uttar Pradesh","city":"Ghorawal","latitude":24.76667,"longitude":82.78333}}(window,'GeoPostal','IN');

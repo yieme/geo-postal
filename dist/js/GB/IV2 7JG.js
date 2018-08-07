@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV2 7JG"]={"code":"IV2 7JG","region":"Scotland","city":"Dalcross","latitude":57.53333,"longitude":-4.05}}(window,'GeoPostal','GB');

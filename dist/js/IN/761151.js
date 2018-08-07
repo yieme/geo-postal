@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["761151"]={"code":"761151","region":"Odisha","city":"Bhanjanagar","latitude":19.93333,"longitude":84.58333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67831"]={"code":"67831","region":"Kansas","city":"Ashland","latitude":37.18864,"longitude":-99.76568}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37409"]={"code":"37409","region":"Centre-Val de Loire","city":"Amboise","latitude":47.41249,"longitude":0.98266}}(window,'GeoPostal','FR');

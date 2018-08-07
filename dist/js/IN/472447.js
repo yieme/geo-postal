@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["472447"]={"code":"472447","region":"Madhya Pradesh","city":"Jatara","latitude":25.01667,"longitude":79.05}}(window,'GeoPostal','IN');

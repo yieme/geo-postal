@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1A 8B5"]={"code":"T1A 8B5","region":"Alberta","city":"Medicine Hat","latitude":50.03958,"longitude":-110.681167}}(window,'GeoPostal','CA');

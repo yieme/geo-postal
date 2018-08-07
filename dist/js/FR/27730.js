@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27730"]={"code":"27730","region":"Normandie","city":"Bueil","latitude":48.9319,"longitude":1.44257}}(window,'GeoPostal','FR');

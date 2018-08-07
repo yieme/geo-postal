@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47272"]={"code":"47272","region":"IN","city":"Saint Paul","latitude":39.4277,"longitude":-85.5994}}(window,'GeoPostal','US');

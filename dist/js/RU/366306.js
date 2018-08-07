@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366306"]={"code":"366306","region":"Chechenskaya Respublika","city":"Avtury","latitude":43.16,"longitude":46}}(window,'GeoPostal','RU');

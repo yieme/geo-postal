@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40953"]={"code":"40953","region":"KY","city":"Hinkle","latitude":36.9362,"longitude":-83.8045}}(window,'GeoPostal','US');

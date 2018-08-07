@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629168"]={"code":"629168","region":"Tamil Nadu","city":"Karur","latitude":10.95,"longitude":78.08333}}(window,'GeoPostal','IN');

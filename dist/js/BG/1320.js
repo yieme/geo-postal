@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1320"]={"code":"1320","region":"Sofia","city":"Bozhurishte","latitude":42.75,"longitude":23.2}}(window,'GeoPostal','BG');

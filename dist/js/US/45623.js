@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45623"]={"code":"45623","region":"Ohio","city":"Crown City","latitude":38.59028,"longitude":-82.28556}}(window,'GeoPostal','US');

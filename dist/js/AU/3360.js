@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3360"]={"code":"3360","region":"Victoria","city":"Linton","latitude":-37.68634,"longitude":143.5629}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188477"]={"code":"188477","region":"Leningradskaya oblast'","city":"Vistino","latitude":59.78029,"longitude":28.48157}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32810"]={"code":"32810","region":"Occitanie","city":"Preignan","latitude":43.71177,"longitude":0.62608}}(window,'GeoPostal','FR');

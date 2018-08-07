@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41014"]={"code":"41014","region":"KY","city":"Covington","latitude":39.0642,"longitude":-84.5118}}(window,'GeoPostal','US');

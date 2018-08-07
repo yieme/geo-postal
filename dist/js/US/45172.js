@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45172"]={"code":"45172","region":"OH","city":"Sinking Spring","latitude":39.0738,"longitude":-83.3853}}(window,'GeoPostal','US');

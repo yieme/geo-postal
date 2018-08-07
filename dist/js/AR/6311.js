@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6311"]={"code":"6311","region":"La Pampa","city":"Guatrache","latitude":-37.66776,"longitude":-63.53022}}(window,'GeoPostal','AR');

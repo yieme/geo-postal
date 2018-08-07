@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61250"]={"code":"61250","region":"Normandie","city":"Conde-sur-Sarthe","latitude":48.43197,"longitude":0.03398}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 6AH"]={"code":"PH2 6AH","region":"Scotland","city":"Saint Martins","latitude":56.45,"longitude":-3.38333}}(window,'GeoPostal','GB');

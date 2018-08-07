@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97432"]={"code":"97432","region":"Oregon","city":"Dillard","latitude":43.167265,"longitude":-123.450263}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO19 9PJ"]={"code":"SO19 9PJ","region":"England","city":"Woolston","latitude":50.89305,"longitude":-1.37801}}(window,'GeoPostal','GB');

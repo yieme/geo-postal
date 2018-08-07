@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62621"]={"code":"62621","region":"IL","city":"Bluffs","latitude":39.7296,"longitude":-90.5313}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394340"]={"code":"394340","region":"Gujarat","city":"Dwarka","latitude":22.23944,"longitude":68.96778}}(window,'GeoPostal','IN');

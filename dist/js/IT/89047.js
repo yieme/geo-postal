@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89047"]={"code":"89047","region":"Calabria","city":"Roccella Ionica","latitude":38.32198,"longitude":16.40091}}(window,'GeoPostal','IT');

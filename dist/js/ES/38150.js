@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38150"]={"code":"38150","region":"Canarias","city":"Valleseco","latitude":28.0433,"longitude":-15.57623}}(window,'GeoPostal','ES');

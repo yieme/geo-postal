@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8122"]={"code":"8122","region":"Thurgau","city":"Amriswil","latitude":47.54699,"longitude":9.29836}}(window,'GeoPostal','CH');

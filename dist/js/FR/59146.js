@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59146"]={"code":"59146","region":"Hauts-de-France","city":"Pecquencourt","latitude":50.3785,"longitude":3.21277}}(window,'GeoPostal','FR');

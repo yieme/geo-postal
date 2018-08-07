@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601293"]={"code":"601293","region":"Vladimirskaya oblast'","city":"Suzdal'","latitude":56.42274,"longitude":40.44668}}(window,'GeoPostal','RU');

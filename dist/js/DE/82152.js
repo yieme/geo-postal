@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82152"]={"code":"82152","region":"Bayern","city":"Planegg","latitude":48.1,"longitude":11.41667}}(window,'GeoPostal','DE');

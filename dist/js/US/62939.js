@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62939"]={"code":"62939","region":"Illinois","city":"Goreville","latitude":37.555412,"longitude":-88.971417}}(window,'GeoPostal','US');

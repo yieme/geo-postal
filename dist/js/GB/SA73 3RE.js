@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA73 3RE"]={"code":"SA73 3RE","region":"Wales","city":"Hubberston","latitude":51.71511,"longitude":-5.05554}}(window,'GeoPostal','GB');

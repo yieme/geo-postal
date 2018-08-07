@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61756"]={"code":"61756","region":"IL","city":"Maroa","latitude":40.0342,"longitude":-88.9578}}(window,'GeoPostal','US');

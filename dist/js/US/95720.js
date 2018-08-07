@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95720"]={"code":"95720","region":"CA","city":"Kyburz","latitude":38.7825,"longitude":-120.2569}}(window,'GeoPostal','US');

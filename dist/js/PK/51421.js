@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51421"]={"code":"51421","region":"Punjab","city":"Toba Tek Singh","latitude":30.97433,"longitude":72.48269}}(window,'GeoPostal','PK');

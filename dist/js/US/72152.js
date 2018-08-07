@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72152"]={"code":"72152","region":"AR","city":"Sherrill","latitude":34.3581,"longitude":-91.9933}}(window,'GeoPostal','US');

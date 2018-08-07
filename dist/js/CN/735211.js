@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735211"]={"code":"735211","region":"Gansu","city":"Xiaxihao","latitude":40.3,"longitude":97.16667}}(window,'GeoPostal','CN');

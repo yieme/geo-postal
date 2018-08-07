@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J7C 5J6"]={"code":"J7C 5J6","region":"Quebec","city":"Blainville","latitude":45.663399,"longitude":-73.887813}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61925"]={"code":"61925","region":"IL","city":"Dalton City","latitude":39.7119,"longitude":-88.7975}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32100"]={"code":"32100","region":"Veneto","city":"Belluno","latitude":46.145,"longitude":12.22139}}(window,'GeoPostal','IT');

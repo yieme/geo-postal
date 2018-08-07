@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6728"]={"code":"6728","region":"Western Australia","city":"Derby","latitude":-17.3,"longitude":123.96667}}(window,'GeoPostal','AU');

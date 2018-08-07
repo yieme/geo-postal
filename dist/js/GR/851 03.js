@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["851 03"]={"code":"851 03","region":"Notio Aigaio","city":"Afantou","latitude":36.29354,"longitude":28.16225}}(window,'GeoPostal','GR');

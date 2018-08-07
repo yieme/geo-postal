@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44250"]={"code":"44250","region":"Pays-de-la-Loire","city":"Saint-Brevin-les-Pins","latitude":47.25,"longitude":-2.16667}}(window,'GeoPostal','FR');

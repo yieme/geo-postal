@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1880000"]={"code":"1880000","region":"Coquimbo","city":"Monte Patria","latitude":-30.69194,"longitude":-70.94667}}(window,'GeoPostal','CL');

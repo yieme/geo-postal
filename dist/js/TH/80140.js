@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80140"]={"code":"80140","region":"Nakhon Si Thammarat","city":"Pak Phanang","latitude":8.35109,"longitude":100.20195}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95935"]={"code":"95935","region":"CA","city":"Dobbins","latitude":39.3662,"longitude":-121.2256}}(window,'GeoPostal','US');

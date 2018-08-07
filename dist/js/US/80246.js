@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80246"]={"code":"80246","region":"Colorado","city":"Glendale","latitude":39.70246,"longitude":-104.93111}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26740"]={"code":"26740","region":"Auvergne-Rhone-Alpes","city":"Sauzet","latitude":44.60288,"longitude":4.81789}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57580-000"]={"code":"57580-000","region":"Alagoas","city":"Major Isidoro","latitude":-9.53222,"longitude":-36.985}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27809"]={"code":"27809","region":"Bremen","city":"Aumund","latitude":53.17538,"longitude":8.62611}}(window,'GeoPostal','DE');

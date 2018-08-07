@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77624"]={"code":"77624","region":"Ivano-Frankivska oblast","city":"Spas","latitude":48.88992,"longitude":24.06293}}(window,'GeoPostal','UA');

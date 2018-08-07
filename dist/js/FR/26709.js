@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26709"]={"code":"26709","region":"Auvergne-Rhone-Alpes","city":"Pierrelatte","latitude":44.37756,"longitude":4.70198}}(window,'GeoPostal','FR');

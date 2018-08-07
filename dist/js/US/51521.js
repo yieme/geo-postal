@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51521"]={"code":"51521","region":"Iowa","city":"Avoca","latitude":41.47666,"longitude":-95.33805}}(window,'GeoPostal','US');

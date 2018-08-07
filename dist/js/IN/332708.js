@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332708"]={"code":"332708","region":"Rajasthan","city":"Ringas","latitude":27.35,"longitude":75.56667}}(window,'GeoPostal','IN');

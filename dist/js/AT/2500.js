@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2500"]={"code":"2500","region":"Niederosterreich","city":"Baden","latitude":48.00221,"longitude":16.23097}}(window,'GeoPostal','AT');

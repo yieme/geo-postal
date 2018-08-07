@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16859"]={"code":"16859","region":"PA","city":"Moshannon","latitude":41.0342,"longitude":-78.0095}}(window,'GeoPostal','US');

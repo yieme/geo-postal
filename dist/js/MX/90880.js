@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90880"]={"code":"90880","region":"Tlaxcala","city":"Tenancingo","latitude":19.14722,"longitude":-98.18056}}(window,'GeoPostal','MX');

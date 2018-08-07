@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24113"]={"code":"24113","region":"Virginia","city":"Martinsville","latitude":36.68028,"longitude":-79.8537}}(window,'GeoPostal','US');

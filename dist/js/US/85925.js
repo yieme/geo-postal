@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85925"]={"code":"85925","region":"Arizona","city":"Eagar","latitude":34.11116,"longitude":-109.29148}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32066"]={"code":"32066","region":"Florida","city":"Mayo","latitude":30.053,"longitude":-83.17486}}(window,'GeoPostal','US');

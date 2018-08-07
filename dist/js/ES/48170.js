@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48170"]={"code":"48170","region":"Pais Vasco","city":"Zamudio","latitude":43.286,"longitude":-2.87}}(window,'GeoPostal','ES');

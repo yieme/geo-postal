@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171450"]={"code":"171450","region":"Tverskaya oblast'","city":"Sonkovo","latitude":57.77816,"longitude":37.15707}}(window,'GeoPostal','RU');

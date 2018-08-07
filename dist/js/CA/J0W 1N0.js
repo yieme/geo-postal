@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0W 1N0"]={"code":"J0W 1N0","region":"Quebec","city":"Montcerf-Lytton","latitude":46.53341,"longitude":-76.04934}}(window,'GeoPostal','CA');

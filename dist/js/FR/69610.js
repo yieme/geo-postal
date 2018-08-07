@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69610"]={"code":"69610","region":"Auvergne-Rhone-Alpes","city":"Sainte-Foy-l'Argentiere","latitude":45.70832,"longitude":4.47266}}(window,'GeoPostal','FR');

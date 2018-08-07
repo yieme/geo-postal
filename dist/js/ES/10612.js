@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10612"]={"code":"10612","region":"Extremadura","city":"Jerte","latitude":40.22271,"longitude":-5.75011}}(window,'GeoPostal','ES');

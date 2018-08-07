@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1654"]={"code":"1654","region":"Vlaams-Brabant","city":"Beersel","latitude":50.76589,"longitude":4.3002}}(window,'GeoPostal','BE');

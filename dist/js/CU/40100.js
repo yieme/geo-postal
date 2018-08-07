@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40100"]={"code":"40100","region":"Matanzas","city":"Matanzas","latitude":23.04111,"longitude":-81.5775}}(window,'GeoPostal','CU');

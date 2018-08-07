@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45846"]={"code":"45846","region":"Ohio","city":"Fort Recovery","latitude":40.41282,"longitude":-84.77635}}(window,'GeoPostal','US');

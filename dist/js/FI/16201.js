@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16201"]={"code":"16201","region":"Paijat-Hame","city":"Artjarvi","latitude":60.74544,"longitude":26.07084}}(window,'GeoPostal','FI');

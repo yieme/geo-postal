@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60550"]={"code":"60550","region":"Etela-Pohjanmaa","city":"Nurmo","latitude":62.8287,"longitude":22.9099}}(window,'GeoPostal','FI');

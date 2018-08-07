@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64120-000"]={"code":"64120-000","region":"Piaui","city":"Uniao","latitude":-4.58583,"longitude":-42.86417}}(window,'GeoPostal','BR');

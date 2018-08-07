@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25370"]={"code":"25370","region":"Bourgogne-Franche-Comte","city":"Jougne","latitude":46.76291,"longitude":6.38838}}(window,'GeoPostal','FR');

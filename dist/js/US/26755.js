@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26755"]={"code":"26755","region":"WV","city":"Rio","latitude":39.1847,"longitude":-78.727}}(window,'GeoPostal','US');

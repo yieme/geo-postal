@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78621"]={"code":"78621","region":"Ivano-Frankivska oblast","city":"Yabluniv","latitude":48.40418,"longitude":24.93874}}(window,'GeoPostal','UA');

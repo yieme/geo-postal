@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68736"]={"code":"68736","region":"NE","city":"Fordyce","latitude":42.7309,"longitude":-97.3567}}(window,'GeoPostal','US');

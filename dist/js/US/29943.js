@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29943"]={"code":"29943","region":"SC","city":"Tillman","latitude":32.468,"longitude":-81.1667}}(window,'GeoPostal','US');

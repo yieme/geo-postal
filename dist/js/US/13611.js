@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13611"]={"code":"13611","region":"NY","city":"Belleville","latitude":43.778,"longitude":-76.1259}}(window,'GeoPostal','US');

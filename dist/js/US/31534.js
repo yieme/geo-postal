@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31534"]={"code":"31534","region":"GA","city":"Douglas","latitude":31.5088,"longitude":-82.8499}}(window,'GeoPostal','US');

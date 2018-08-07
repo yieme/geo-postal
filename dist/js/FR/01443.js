@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01443"]={"code":"01443","region":"Auvergne-Rhone-Alpes","city":"Viriat","latitude":46.25484,"longitude":5.21567}}(window,'GeoPostal','FR');

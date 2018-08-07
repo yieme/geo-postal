@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15462"]={"code":"15462","region":"Pennsylvania","city":"Melcroft","latitude":40.063161,"longitude":-79.358291}}(window,'GeoPostal','US');

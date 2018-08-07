@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 6LP"]={"code":"SA44 6LP","region":"Wales","city":"Llanllwchaiarn","latitude":52.18333,"longitude":-4.36667}}(window,'GeoPostal','GB');

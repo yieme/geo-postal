@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5098"]={"code":"5098","region":"South Australia","city":"Pooraka","latitude":-34.82471,"longitude":138.62637}}(window,'GeoPostal','AU');

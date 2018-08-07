@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48703"]={"code":"48703","region":"Nordrhein-Westfalen","city":"Stadtlohn","latitude":51.99399,"longitude":6.91918}}(window,'GeoPostal','DE');

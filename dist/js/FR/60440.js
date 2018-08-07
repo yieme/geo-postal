@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60440"]={"code":"60440","region":"Hauts-de-France","city":"Nanteuil-le-Haudouin","latitude":49.14082,"longitude":2.81142}}(window,'GeoPostal','FR');

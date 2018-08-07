@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56858"]={"code":"56858","region":"Rheinland-Pfalz","city":"Neef","latitude":50.1,"longitude":7.13333}}(window,'GeoPostal','DE');

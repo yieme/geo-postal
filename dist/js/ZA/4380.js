@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4380"]={"code":"4380","region":"Kwazulu-Natal","city":"Ballitoville","latitude":-29.53897,"longitude":31.21439}}(window,'GeoPostal','ZA');

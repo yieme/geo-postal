@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31004"]={"code":"31004","region":"GA","city":"Bolingbroke","latitude":32.947,"longitude":-83.8006}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 1W0"]={"code":"S0A 1W0","region":"Saskatchewan","city":"Kelvington","latitude":52.16669,"longitude":-103.5343}}(window,'GeoPostal','CA');

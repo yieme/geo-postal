@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50700"]={"code":"50700","region":"Normandie","city":"Valognes","latitude":49.50881,"longitude":-1.47047}}(window,'GeoPostal','FR');

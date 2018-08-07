@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41257"]={"code":"41257","region":"Kentucky","city":"Stambaugh","latitude":37.840074,"longitude":-82.762415}}(window,'GeoPostal','US');

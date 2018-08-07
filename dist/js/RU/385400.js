@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385400"]={"code":"385400","region":"Adygeya, Respublika","city":"Koshekhabl'","latitude":44.89722,"longitude":40.51194}}(window,'GeoPostal','RU');

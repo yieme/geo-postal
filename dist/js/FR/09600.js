@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09600"]={"code":"09600","region":"Occitanie","city":"Laroque-d'Olmes","latitude":42.9711,"longitude":1.8728}}(window,'GeoPostal','FR');

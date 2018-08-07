@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19081"]={"code":"19081","region":"Pennsylvania","city":"Swarthmore","latitude":39.897253,"longitude":-75.345177}}(window,'GeoPostal','US');

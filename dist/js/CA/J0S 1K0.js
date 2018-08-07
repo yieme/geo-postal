@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0S 1K0"]={"code":"J0S 1K0","region":"Quebec","city":"Ormstown","latitude":45.13338,"longitude":-73.99922}}(window,'GeoPostal','CA');

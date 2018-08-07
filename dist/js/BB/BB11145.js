@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB11145"]={"code":"BB11145","region":"Saint Michael","city":"Bridgetown","latitude":13.1,"longitude":-59.61667}}(window,'GeoPostal','BB');

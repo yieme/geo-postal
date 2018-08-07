@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12066"]={"code":"12066","region":"NY","city":"Esperance","latitude":42.7717,"longitude":-74.2882}}(window,'GeoPostal','US');

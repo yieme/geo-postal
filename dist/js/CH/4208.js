@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4208"]={"code":"4208","region":"Solothurn","city":"Nunningen","latitude":47.3945,"longitude":7.62122}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20862"]={"code":"20862","region":"MD","city":"Brinklow","latitude":39.1838,"longitude":-77.0163}}(window,'GeoPostal','US');

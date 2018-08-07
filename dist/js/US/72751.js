@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72751"]={"code":"72751","region":"AR","city":"Pea Ridge","latitude":36.4539,"longitude":-94.118}}(window,'GeoPostal','US');

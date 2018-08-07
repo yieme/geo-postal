@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62480"]={"code":"62480","region":"Hauts-de-France","city":"Le Portel","latitude":50.70559,"longitude":1.57574}}(window,'GeoPostal','FR');

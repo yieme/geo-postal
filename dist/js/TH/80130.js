@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80130"]={"code":"80130","region":"Nakhon Si Thammarat","city":"Ron Phibun","latitude":8.17911,"longitude":99.85425}}(window,'GeoPostal','TH');

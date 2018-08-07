@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3063"]={"code":"3063","region":"Nograd","city":"Jobbagyi","latitude":47.83238,"longitude":19.67762}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 3E0"]={"code":"J0K 3E0","region":"Quebec","city":"Saint-Paul","latitude":45.43758,"longitude":-72.88083}}(window,'GeoPostal','CA');

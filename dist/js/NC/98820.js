@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98820"]={"code":"98820","region":"Province des iles Loyaute","city":"We","latitude":-20.91687,"longitude":167.26461}}(window,'GeoPostal','NC');

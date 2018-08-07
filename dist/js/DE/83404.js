@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83404"]={"code":"83404","region":"Bayern","city":"Feldkirchen","latitude":47.80434,"longitude":12.96029}}(window,'GeoPostal','DE');

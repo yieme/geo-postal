@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43190"]={"code":"43190","region":"Nong Khai","city":"Pak Khat","latitude":18.30556,"longitude":103.30441}}(window,'GeoPostal','TH');

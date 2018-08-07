@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-130"]={"code":"33-130","region":"Malopolskie","city":"Radlow","latitude":50.08419,"longitude":20.84967}}(window,'GeoPostal','PL');

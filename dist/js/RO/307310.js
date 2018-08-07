@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307310"]={"code":"307310","region":"Timis","city":"Peciu Nou","latitude":45.60639,"longitude":21.05778}}(window,'GeoPostal','RO');

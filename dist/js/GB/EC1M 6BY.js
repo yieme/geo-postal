@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC1M 6BY"]={"code":"EC1M 6BY","region":"England","city":"Farringdon","latitude":51.52012,"longitude":-0.10476}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO17 8LA"]={"code":"YO17 8LA","region":"England","city":"Rillington","latitude":54.15779,"longitude":-0.69494}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88072"]={"code":"88072","region":"NM","city":"Vado","latitude":32.1187,"longitude":-106.649}}(window,'GeoPostal','US');

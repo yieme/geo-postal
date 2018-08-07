@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 7NW"]={"code":"IP13 7NW","region":"England","city":"Tannington","latitude":52.26516,"longitude":1.29394}}(window,'GeoPostal','GB');

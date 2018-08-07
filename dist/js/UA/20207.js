@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20207"]={"code":"20207","region":"Cherkaska oblast","city":"Zvenyhorodka","latitude":49.07866,"longitude":30.96754}}(window,'GeoPostal','UA');

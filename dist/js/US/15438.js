@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15438"]={"code":"15438","region":"PA","city":"Fayette City","latitude":40.0988,"longitude":-79.8366}}(window,'GeoPostal','US');

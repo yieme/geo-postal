@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67851"]={"code":"67851","region":"KS","city":"Holcomb","latitude":37.9931,"longitude":-100.9893}}(window,'GeoPostal','US');

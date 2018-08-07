@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24100"]={"code":"24100","region":"Castilla y Leon","city":"Villablino","latitude":42.93932,"longitude":-6.31943}}(window,'GeoPostal','ES');

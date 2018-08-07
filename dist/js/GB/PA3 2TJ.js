@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA3 2TJ"]={"code":"PA3 2TJ","region":"Scotland","city":"Merksworth","latitude":55.86667,"longitude":-4.43333}}(window,'GeoPostal','GB');

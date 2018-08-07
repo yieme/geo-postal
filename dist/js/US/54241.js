@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54241"]={"code":"54241","region":"Wisconsin","city":"Two Rivers","latitude":44.15388,"longitude":-87.56925}}(window,'GeoPostal','US');

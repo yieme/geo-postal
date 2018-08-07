@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["915 01"]={"code":"915 01","region":"Trenciansky kraj","city":"Nove Mesto nad Vahom","latitude":48.75763,"longitude":17.8309}}(window,'GeoPostal','SK');

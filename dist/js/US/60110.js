@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60110"]={"code":"60110","region":"Illinois","city":"Carpentersville","latitude":42.12133,"longitude":-88.268025}}(window,'GeoPostal','US');

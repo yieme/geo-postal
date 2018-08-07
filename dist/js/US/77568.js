@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77568"]={"code":"77568","region":"Texas","city":"La Marque","latitude":29.364914,"longitude":-94.975981}}(window,'GeoPostal','US');

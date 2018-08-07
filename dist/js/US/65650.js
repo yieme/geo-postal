@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65650"]={"code":"65650","region":"Missouri","city":"Flemington","latitude":37.771188,"longitude":-93.45033}}(window,'GeoPostal','US');

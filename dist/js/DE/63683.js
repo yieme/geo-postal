@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63683"]={"code":"63683","region":"Hessen","city":"Dudenrod","latitude":50.32222,"longitude":9.11007}}(window,'GeoPostal','DE');

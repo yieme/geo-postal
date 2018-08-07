@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2038"]={"code":"2038","region":"New South Wales","city":"Annandale","latitude":-33.88333,"longitude":151.16667}}(window,'GeoPostal','AU');

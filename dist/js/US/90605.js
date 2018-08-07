@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90605"]={"code":"90605","region":"California","city":"Santa Fe Springs","latitude":33.94724,"longitude":-118.08535}}(window,'GeoPostal','US');

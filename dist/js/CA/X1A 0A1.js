@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X1A 0A1"]={"code":"X1A 0A1","region":"Northwest Territories","city":"Yellowknife","latitude":62.456,"longitude":-114.35255}}(window,'GeoPostal','CA');

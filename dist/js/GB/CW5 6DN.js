@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW5 6DN"]={"code":"CW5 6DN","region":"England","city":"Worleston","latitude":53.10495,"longitude":-2.51229}}(window,'GeoPostal','GB');

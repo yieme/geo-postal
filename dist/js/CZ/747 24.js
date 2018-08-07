@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["747 24"]={"code":"747 24","region":"Liberecky kraj","city":"Chuchelna","latitude":49.98664,"longitude":18.11656}}(window,'GeoPostal','CZ');

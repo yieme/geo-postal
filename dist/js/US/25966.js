@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25966"]={"code":"25966","region":"WV","city":"Green Sulphur Springs","latitude":37.6485,"longitude":-80.8774}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31023"]={"code":"31023","region":"Khmelnytska oblast","city":"Antoniny","latitude":49.80974,"longitude":26.87714}}(window,'GeoPostal','UA');

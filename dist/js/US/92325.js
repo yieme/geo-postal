@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92325"]={"code":"92325","region":"California","city":"Crestline","latitude":34.24195,"longitude":-117.2856}}(window,'GeoPostal','US');

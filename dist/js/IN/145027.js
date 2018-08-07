@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["145027"]={"code":"145027","region":"Punjab","city":"Dinanagar","latitude":32.15,"longitude":75.46667}}(window,'GeoPostal','IN');

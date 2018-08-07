@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17876"]={"code":"17876","region":"PA","city":"Shamokin Dam","latitude":40.8459,"longitude":-76.8224}}(window,'GeoPostal','US');

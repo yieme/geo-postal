@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38029"]={"code":"38029","region":"TN","city":"Ellendale","latitude":35.2306,"longitude":-89.8259}}(window,'GeoPostal','US');

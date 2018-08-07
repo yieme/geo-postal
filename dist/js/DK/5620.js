@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5620"]={"code":"5620","region":"Syddanmark","city":"Glamsbjerg","latitude":55.27237,"longitude":10.10483}}(window,'GeoPostal','DK');

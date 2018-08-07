@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["906 13"]={"code":"906 13","region":"Nitriansky kraj","city":"Brezova pod Bradlom","latitude":48.6635,"longitude":17.53904}}(window,'GeoPostal','SK');

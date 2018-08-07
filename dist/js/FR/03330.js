@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03330"]={"code":"03330","region":"Auvergne-Rhone-Alpes","city":"Bellenaves","latitude":46.19979,"longitude":3.08215}}(window,'GeoPostal','FR');

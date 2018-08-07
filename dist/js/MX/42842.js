@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42842"]={"code":"42842","region":"Hidalgo","city":"San Miguel Vindho","latitude":19.99694,"longitude":-99.32333}}(window,'GeoPostal','MX');

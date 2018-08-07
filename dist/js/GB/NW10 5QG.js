@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NW10 5QG"]={"code":"NW10 5QG","region":"England","city":"Willesden","latitude":51.53333,"longitude":-0.23333}}(window,'GeoPostal','GB');

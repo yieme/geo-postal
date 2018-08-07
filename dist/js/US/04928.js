@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04928"]={"code":"04928","region":"Maine","city":"Corinna","latitude":44.92117,"longitude":-69.26171}}(window,'GeoPostal','US');

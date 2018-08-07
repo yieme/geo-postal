@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33570"]={"code":"33570","region":"Florida","city":"Ruskin","latitude":27.70938,"longitude":-82.44714}}(window,'GeoPostal','US');

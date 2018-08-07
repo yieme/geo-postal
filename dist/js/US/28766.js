@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28766"]={"code":"28766","region":"NC","city":"Penrose","latitude":35.2524,"longitude":-82.6222}}(window,'GeoPostal','US');

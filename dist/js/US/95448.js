@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95448"]={"code":"95448","region":"California","city":"Healdsburg","latitude":38.620333,"longitude":-122.860933}}(window,'GeoPostal','US');

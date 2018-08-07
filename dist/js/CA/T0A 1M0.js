@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 1M0"]={"code":"T0A 1M0","region":"Alberta","city":"Frog Lake","latitude":53.83348,"longitude":-110.41834}}(window,'GeoPostal','CA');

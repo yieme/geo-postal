@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88210"]={"code":"88210","region":"Grand-Est","city":"Senones","latitude":48.39475,"longitude":6.97818}}(window,'GeoPostal','FR');

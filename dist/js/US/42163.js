@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42163"]={"code":"42163","region":"KY","city":"Rocky Hill","latitude":37.0689,"longitude":-86.1364}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57200"]={"code":"57200","region":"Etela-Savo","city":"Savonlinna","latitude":61.8699,"longitude":28.87999}}(window,'GeoPostal','FI');

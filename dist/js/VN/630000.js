@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["630000"]={"code":"630000","region":"Dak Lak","city":"Buon Ma Thuot","latitude":12.66667,"longitude":108.05}}(window,'GeoPostal','VN');

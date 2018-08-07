@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91631"]={"code":"91631","region":"Bayern","city":"Grimmschwinden","latitude":49.20113,"longitude":10.1652}}(window,'GeoPostal','DE');

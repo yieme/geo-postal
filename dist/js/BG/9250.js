@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9250"]={"code":"9250","region":"Varna","city":"Dulgopol","latitude":43.05,"longitude":27.35}}(window,'GeoPostal','BG');

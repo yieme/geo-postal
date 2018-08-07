@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8020"]={"code":"8020","region":"West-Vlaanderen","city":"Oostkamp","latitude":51.15432,"longitude":3.23128}}(window,'GeoPostal','BE');

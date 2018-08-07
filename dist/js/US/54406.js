@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54406"]={"code":"54406","region":"WI","city":"Amherst","latitude":44.4231,"longitude":-89.3035}}(window,'GeoPostal','US');

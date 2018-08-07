@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333103"]={"code":"333103","region":"Jiangxi","city":"Gaojialing","latitude":29.16754,"longitude":116.7823}}(window,'GeoPostal','CN');

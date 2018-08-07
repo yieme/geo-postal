@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12108"]={"code":"12108","region":"New York","city":"Lake Pleasant","latitude":43.4709,"longitude":-74.41265}}(window,'GeoPostal','US');

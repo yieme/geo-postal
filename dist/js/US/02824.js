@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02824"]={"code":"02824","region":"RI","city":"Forestdale","latitude":42.0002,"longitude":-71.5631}}(window,'GeoPostal','US');

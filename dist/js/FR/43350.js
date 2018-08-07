@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43350"]={"code":"43350","region":"Auvergne-Rhone-Alpes","city":"Saint-Paulien","latitude":45.1365,"longitude":3.81384}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47830"]={"code":"47830","region":"IN","city":"Bellmore","latitude":39.7791,"longitude":-87.2218}}(window,'GeoPostal','US');

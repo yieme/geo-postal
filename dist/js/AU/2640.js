@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2640"]={"code":"2640","region":"New South Wales","city":"Albury","latitude":-36.07494,"longitude":146.92394}}(window,'GeoPostal','AU');

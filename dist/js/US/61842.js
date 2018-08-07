@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61842"]={"code":"61842","region":"IL","city":"Farmer City","latitude":40.2447,"longitude":-88.6634}}(window,'GeoPostal','US');

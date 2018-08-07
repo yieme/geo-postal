@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77333"]={"code":"77333","region":"TX","city":"Dobbin","latitude":30.3365,"longitude":-95.7723}}(window,'GeoPostal','US');

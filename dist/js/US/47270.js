@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47270"]={"code":"47270","region":"IN","city":"Paris Crossing","latitude":38.8558,"longitude":-85.7487}}(window,'GeoPostal','US');

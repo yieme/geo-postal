@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28016"]={"code":"28016","region":"NC","city":"Bessemer City","latitude":35.2849,"longitude":-81.2863}}(window,'GeoPostal','US');

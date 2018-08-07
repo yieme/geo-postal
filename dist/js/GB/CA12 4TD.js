@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA12 4TD"]={"code":"CA12 4TD","region":"England","city":"Keswick","latitude":52.58333,"longitude":1.26667}}(window,'GeoPostal','GB');

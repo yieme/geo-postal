@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00042"]={"code":"00042","region":"Lazio","city":"Anzio","latitude":41.44749,"longitude":12.62707}}(window,'GeoPostal','IT');

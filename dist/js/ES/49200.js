@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49200"]={"code":"49200","region":"Castilla y Leon","city":"Bermillo de Sayago","latitude":41.36648,"longitude":-6.11223}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25332"]={"code":"25332","region":"Catalunya","city":"La Fuliola","latitude":41.71358,"longitude":1.01746}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06065"]={"code":"06065","region":"Umbria","city":"Passignano sul Trasimeno","latitude":43.19414,"longitude":12.12925}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70532"]={"code":"70532","region":"Zaporizka oblast","city":"Komyshuvakha","latitude":47.71758,"longitude":35.52882}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33052"]={"code":"33052","region":"FL","city":"Marathon Shores","latitude":24.7233,"longitude":-81.0632}}(window,'GeoPostal','US');

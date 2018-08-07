@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["788819"]={"code":"788819","region":"Assam","city":"Haflong","latitude":25.18333,"longitude":93.03333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67560"]={"code":"67560","region":"Grand-Est","city":"Rosheim","latitude":48.4971,"longitude":7.47105}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL40 1BB"]={"code":"LL40 1BB","region":"Wales","city":"Dolgellau","latitude":52.7432,"longitude":-3.88508}}(window,'GeoPostal','GB');

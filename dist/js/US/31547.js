@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31547"]={"code":"31547","region":"GA","city":"Kings Bay","latitude":30.7906,"longitude":-81.5607}}(window,'GeoPostal','US');

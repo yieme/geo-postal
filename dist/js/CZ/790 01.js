@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["790 01"]={"code":"790 01","region":"Olomoucky kraj","city":"Jesenik","latitude":50.22937,"longitude":17.20464}}(window,'GeoPostal','CZ');

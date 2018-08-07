@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675 22"]={"code":"675 22","region":"Kraj Vysocina","city":"Starec","latitude":49.19783,"longitude":15.82791}}(window,'GeoPostal','CZ');

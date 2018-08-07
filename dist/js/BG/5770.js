@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5770"]={"code":"5770","region":"Lovech","city":"Lukovit","latitude":43.2,"longitude":24.16667}}(window,'GeoPostal','BG');

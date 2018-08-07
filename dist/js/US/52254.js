@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52254"]={"code":"52254","region":"Iowa","city":"Lost Nation","latitude":41.963912,"longitude":-90.816948}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79196"]={"code":"79196","region":"Dalarnas lan","city":"Falun","latitude":60.60357,"longitude":15.62597}}(window,'GeoPostal','SE');

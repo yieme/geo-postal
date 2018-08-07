@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-580"]={"code":"62-580","region":"Wielkopolskie","city":"Grodziec","latitude":52.03855,"longitude":18.05972}}(window,'GeoPostal','PL');

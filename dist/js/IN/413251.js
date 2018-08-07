@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413251"]={"code":"413251","region":"Maharashtra","city":"Kurduvadi","latitude":18.08333,"longitude":75.43333}}(window,'GeoPostal','IN');

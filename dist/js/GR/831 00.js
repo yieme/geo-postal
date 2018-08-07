@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["831 00"]={"code":"831 00","region":"Voreio Aigaio","city":"Samos","latitude":37.75722,"longitude":26.97694}}(window,'GeoPostal','GR');

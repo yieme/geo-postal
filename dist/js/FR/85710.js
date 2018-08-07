@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85710"]={"code":"85710","region":"Pays-de-la-Loire","city":"Bois-de-Cene","latitude":46.93689,"longitude":-1.88656}}(window,'GeoPostal','FR');

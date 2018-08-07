@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63600"]={"code":"63600","region":"Nayarit","city":"Ruiz","latitude":21.95,"longitude":-105.15}}(window,'GeoPostal','MX');

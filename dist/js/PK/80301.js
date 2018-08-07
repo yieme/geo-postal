@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80301"]={"code":"80301","region":"Balochistan","city":"Usta Muhammad","latitude":28.17943,"longitude":68.04454}}(window,'GeoPostal','PK');

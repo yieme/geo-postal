@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92358"]={"code":"92358","region":"Bayern","city":"Seubersdorf","latitude":49.16212,"longitude":11.62714}}(window,'GeoPostal','DE');

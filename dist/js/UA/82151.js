@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82151"]={"code":"82151","region":"Lvivska oblast","city":"Rykhtichi","latitude":49.38511,"longitude":23.55662}}(window,'GeoPostal','UA');

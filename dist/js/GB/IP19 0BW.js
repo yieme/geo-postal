@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP19 0BW"]={"code":"IP19 0BW","region":"England","city":"Cratfield","latitude":52.32448,"longitude":1.39492}}(window,'GeoPostal','GB');

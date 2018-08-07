@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87018"]={"code":"87018","region":"Calabria","city":"San Marco Argentano","latitude":39.5583,"longitude":16.12009}}(window,'GeoPostal','IT');

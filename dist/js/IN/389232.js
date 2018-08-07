@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["389232"]={"code":"389232","region":"Gujarat","city":"Meghraj","latitude":23.5,"longitude":73.5}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61019"]={"code":"61019","region":"IL","city":"Davis","latitude":42.4422,"longitude":-89.4067}}(window,'GeoPostal','US');

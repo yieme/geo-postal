@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["848-0404"]={"code":"848-0404","region":"Nagasaki","city":"Matsuura","latitude":33.333,"longitude":129.717}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR4 6HR"]={"code":"PR4 6HR","region":"England","city":"Sollom","latitude":53.66265,"longitude":-2.82609}}(window,'GeoPostal','GB');

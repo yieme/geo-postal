@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14410"]={"code":"14410","region":"Normandie","city":"Vassy","latitude":48.85381,"longitude":-0.67485}}(window,'GeoPostal','FR');

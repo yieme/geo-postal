@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88230"]={"code":"88230","region":"NM","city":"Dexter","latitude":33.191,"longitude":-104.3833}}(window,'GeoPostal','US');

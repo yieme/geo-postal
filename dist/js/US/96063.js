@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96063"]={"code":"96063","region":"CA","city":"Mineral","latitude":40.3564,"longitude":-121.571}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72238"]={"code":"72238","region":"Federacija Bosne i Hercegovine","city":"Lijesnica","latitude":44.49417,"longitude":18.07417}}(window,'GeoPostal','BA');

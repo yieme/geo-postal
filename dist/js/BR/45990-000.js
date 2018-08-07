@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45990-000"]={"code":"45990-000","region":"Bahia","city":"Prado","latitude":-17.34111,"longitude":-39.22083}}(window,'GeoPostal','BR');

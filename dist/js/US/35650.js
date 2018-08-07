@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35650"]={"code":"35650","region":"AL","city":"Moulton","latitude":34.5058,"longitude":-87.2224}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28653"]={"code":"28653","region":"NC","city":"Montezuma","latitude":36.0651,"longitude":-81.9017}}(window,'GeoPostal','US');

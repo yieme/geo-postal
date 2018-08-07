@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY23 4QY"]={"code":"SY23 4QY","region":"Wales","city":"Devils Bridge","latitude":52.37497,"longitude":-3.8562}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62248"]={"code":"62248","region":"IL","city":"Hecker","latitude":38.3044,"longitude":-89.9935}}(window,'GeoPostal','US');

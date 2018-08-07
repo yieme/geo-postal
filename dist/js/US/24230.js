@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24230"]={"code":"24230","region":"VA","city":"Coeburn","latitude":36.9605,"longitude":-82.4735}}(window,'GeoPostal','US');

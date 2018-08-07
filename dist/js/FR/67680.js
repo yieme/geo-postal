@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67680"]={"code":"67680","region":"Grand-Est","city":"Epfig","latitude":48.35933,"longitude":7.46427}}(window,'GeoPostal','FR');

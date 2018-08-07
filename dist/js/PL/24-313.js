@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24-313"]={"code":"24-313","region":"Mazowieckie","city":"Chotcza","latitude":51.24043,"longitude":21.77662}}(window,'GeoPostal','PL');

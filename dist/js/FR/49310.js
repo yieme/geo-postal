@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49310"]={"code":"49310","region":"Pays-de-la-Loire","city":"Vihiers","latitude":47.14631,"longitude":-0.53238}}(window,'GeoPostal','FR');

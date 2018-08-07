@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82211"]={"code":"82211","region":"Bayern","city":"Wartaweil","latitude":47.96917,"longitude":11.1509}}(window,'GeoPostal','DE');

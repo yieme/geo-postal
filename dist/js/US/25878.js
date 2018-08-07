@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25878"]={"code":"25878","region":"WV","city":"Midway","latitude":37.7171,"longitude":-81.24}}(window,'GeoPostal','US');

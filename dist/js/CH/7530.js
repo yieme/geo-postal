@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7530"]={"code":"7530","region":"Graubunden","city":"Zernez","latitude":46.70087,"longitude":10.09461}}(window,'GeoPostal','CH');

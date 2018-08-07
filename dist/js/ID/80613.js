@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80613"]={"code":"80613","region":"Bali","city":"Bangli","latitude":-8.4542,"longitude":115.3545}}(window,'GeoPostal','ID');

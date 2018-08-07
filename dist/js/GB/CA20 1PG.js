@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA20 1PG"]={"code":"CA20 1PG","region":"England","city":"Sellafield","latitude":54.42202,"longitude":-3.50548}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12923"]={"code":"12923","region":"NY","city":"Churubusco","latitude":44.9432,"longitude":-73.9355}}(window,'GeoPostal','US');

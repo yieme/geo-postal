@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53045"]={"code":"53045","region":"Toscana","city":"Montepulciano","latitude":43.10174,"longitude":11.78684}}(window,'GeoPostal','IT');

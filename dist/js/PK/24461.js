@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24461"]={"code":"24461","region":"Khyber Pakhtunkhwa","city":"Charsadda","latitude":34.14345,"longitude":71.73173}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62948"]={"code":"62948","region":"IL","city":"Herrin","latitude":37.8019,"longitude":-89.0232}}(window,'GeoPostal','US');

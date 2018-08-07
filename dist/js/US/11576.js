@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11576"]={"code":"11576","region":"New York","city":"Roslyn","latitude":40.79982,"longitude":-73.65096}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87935"]={"code":"87935","region":"New Mexico","city":"Elephant Butte","latitude":33.14868,"longitude":-107.18475}}(window,'GeoPostal','US');

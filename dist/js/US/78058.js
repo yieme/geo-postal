@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78058"]={"code":"78058","region":"TX","city":"Mountain Home","latitude":30.1725,"longitude":-99.485}}(window,'GeoPostal','US');

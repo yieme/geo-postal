@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB10 1SD"]={"code":"CB10 1SD","region":"England","city":"Saffron Walden","latitude":52.02337,"longitude":0.24234}}(window,'GeoPostal','GB');

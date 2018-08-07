@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68902"]={"code":"68902","region":"NE","city":"Hastings","latitude":40.5896,"longitude":-98.3972}}(window,'GeoPostal','US');

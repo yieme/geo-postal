@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60034"]={"code":"60034","region":"Marche","city":"Cupramontana","latitude":43.44586,"longitude":13.11547}}(window,'GeoPostal','IT');

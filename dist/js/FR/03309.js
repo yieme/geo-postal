@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03309"]={"code":"03309","region":"Auvergne-Rhone-Alpes","city":"Cusset","latitude":46.13002,"longitude":3.45963}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62024"]={"code":"62024","region":"Illinois","city":"East Alton","latitude":38.8564,"longitude":-90.0535}}(window,'GeoPostal','US');

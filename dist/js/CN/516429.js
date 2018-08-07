@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516429"]={"code":"516429","region":"Guangdong","city":"Ketang","latitude":22.94365,"longitude":115.452}}(window,'GeoPostal','CN');

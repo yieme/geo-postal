@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["542401"]={"code":"542401","region":"Guangxi","city":"Pingle","latitude":24.64522,"longitude":110.64306}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66300"]={"code":"66300","region":"Pohjois-Pohjanmaa","city":"Jurva","latitude":64.93333,"longitude":27.1}}(window,'GeoPostal','FI');

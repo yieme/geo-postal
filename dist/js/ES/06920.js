@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06920"]={"code":"06920","region":"Extremadura","city":"Azuaga","latitude":38.26667,"longitude":-5.68333}}(window,'GeoPostal','ES');

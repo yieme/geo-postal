@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12459"]={"code":"12459","region":"Berlin","city":"Karlshorst","latitude":52.48419,"longitude":13.53185}}(window,'GeoPostal','DE');

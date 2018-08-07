@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP19 9LN"]={"code":"IP19 9LN","region":"England","city":"Blythburgh","latitude":52.32039,"longitude":1.59679}}(window,'GeoPostal','GB');

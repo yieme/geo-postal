@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13089"]={"code":"13089","region":"NY","city":"Liverpool","latitude":43.0214,"longitude":-76.1977}}(window,'GeoPostal','US');

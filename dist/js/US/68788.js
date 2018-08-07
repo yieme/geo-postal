@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68788"]={"code":"68788","region":"Nebraska","city":"West Point","latitude":41.844321,"longitude":-96.711402}}(window,'GeoPostal','US');

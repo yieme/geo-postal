@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95316"]={"code":"95316","region":"CA","city":"Denair","latitude":37.539,"longitude":-120.7758}}(window,'GeoPostal','US');

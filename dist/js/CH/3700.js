@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3700"]={"code":"3700","region":"Bern","city":"Spiez","latitude":46.68473,"longitude":7.69111}}(window,'GeoPostal','CH');

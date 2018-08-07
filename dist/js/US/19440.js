@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19440"]={"code":"19440","region":"Pennsylvania","city":"Hatfield","latitude":40.271601,"longitude":-75.292461}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08750"]={"code":"08750","region":"New Jersey","city":"Sea Girt","latitude":40.134029,"longitude":-74.043121}}(window,'GeoPostal','US');

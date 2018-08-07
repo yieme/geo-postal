@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63352"]={"code":"63352","region":"Missouri","city":"Laddonia","latitude":39.240401,"longitude":-91.64287}}(window,'GeoPostal','US');

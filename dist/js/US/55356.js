@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55356"]={"code":"55356","region":"Minnesota","city":"Long Lake","latitude":44.984094,"longitude":-93.58203}}(window,'GeoPostal','US');

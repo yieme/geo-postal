@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J9T 2H3"]={"code":"J9T 2H3","region":"Quebec","city":"Amos","latitude":48.573326,"longitude":-78.113754}}(window,'GeoPostal','CA');

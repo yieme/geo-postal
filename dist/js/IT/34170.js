@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34170"]={"code":"34170","region":"Friuli-Venezia Giulia","city":"Gorizia","latitude":45.94088,"longitude":13.62167}}(window,'GeoPostal','IT');

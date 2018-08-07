@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22380"]={"code":"22380","region":"Bretagne","city":"Saint-Cast-le-Guildo","latitude":48.63028,"longitude":-2.25777}}(window,'GeoPostal','FR');

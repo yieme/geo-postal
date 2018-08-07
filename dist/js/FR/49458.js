@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49458"]={"code":"49458","region":"Pays-de-la-Loire","city":"Saint-Macaire-en-Mauges","latitude":47.12357,"longitude":-0.9912}}(window,'GeoPostal','FR');

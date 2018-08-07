@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19050"]={"code":"19050","region":"Pennsylvania","city":"Lansdowne","latitude":39.93654,"longitude":-75.26358}}(window,'GeoPostal','US');

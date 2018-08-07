@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59570-000"]={"code":"59570-000","region":"Rio Grande do Norte","city":"Ceara Mirim","latitude":-5.63444,"longitude":-35.42556}}(window,'GeoPostal','BR');

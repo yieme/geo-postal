@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37394"]={"code":"37394","region":"TN","city":"Viola","latitude":35.5384,"longitude":-85.8591}}(window,'GeoPostal','US');

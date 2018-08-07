@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40965"]={"code":"40965","region":"Kentucky","city":"Middlesboro","latitude":36.60842,"longitude":-83.71658}}(window,'GeoPostal','US');

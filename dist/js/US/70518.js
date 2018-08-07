@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70518"]={"code":"70518","region":"Louisiana","city":"Broussard","latitude":30.140516,"longitude":-91.95766}}(window,'GeoPostal','US');

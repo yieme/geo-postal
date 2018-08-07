@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617750"]={"code":"617750","region":"Permskiy kray","city":"Foki","latitude":56.693,"longitude":54.34985}}(window,'GeoPostal','RU');

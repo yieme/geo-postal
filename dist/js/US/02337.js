@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02337"]={"code":"02337","region":"MA","city":"Elmwood","latitude":42.0098,"longitude":-70.962}}(window,'GeoPostal','US');

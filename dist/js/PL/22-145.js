@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-145"]={"code":"22-145","region":"Lubelskie","city":"Dubienka","latitude":51.04862,"longitude":23.89252}}(window,'GeoPostal','PL');

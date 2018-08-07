@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG4 7HY"]={"code":"SG4 7HY","region":"England","city":"Little Wymondley","latitude":51.93268,"longitude":-0.23552}}(window,'GeoPostal','GB');

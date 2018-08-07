@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA48 7PX"]={"code":"SA48 7PX","region":"Wales","city":"Llanerch-Aeron","latitude":52.2,"longitude":-4.23333}}(window,'GeoPostal','GB');

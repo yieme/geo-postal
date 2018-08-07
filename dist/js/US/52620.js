@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52620"]={"code":"52620","region":"IA","city":"Bonaparte","latitude":40.7148,"longitude":-91.7897}}(window,'GeoPostal','US');

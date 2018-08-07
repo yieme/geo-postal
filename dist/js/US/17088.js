@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17088"]={"code":"17088","region":"PA","city":"Schaefferstown","latitude":40.2984,"longitude":-76.2944}}(window,'GeoPostal','US');

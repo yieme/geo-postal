@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6365"]={"code":"6365","region":"La Pampa","city":"General Pico","latitude":-35.65662,"longitude":-63.75682}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9847"]={"code":"9847","region":"Southland","city":"Riverton","latitude":-46.35,"longitude":168.01667}}(window,'GeoPostal','NZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12217"]={"code":"12217","region":"Khartoum","city":"Khartoum","latitude":15.55177,"longitude":32.53241}}(window,'GeoPostal','SD');

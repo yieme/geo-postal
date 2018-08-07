@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU15 2NH"]={"code":"HU15 2NH","region":"England","city":"North Cave","latitude":53.78012,"longitude":-0.64965}}(window,'GeoPostal','GB');

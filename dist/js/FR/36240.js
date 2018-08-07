@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36240"]={"code":"36240","region":"Centre-Val de Loire","city":"Ecueille","latitude":47.08462,"longitude":1.34668}}(window,'GeoPostal','FR');

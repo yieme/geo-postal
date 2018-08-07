@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53805"]={"code":"53805","region":"Wisconsin","city":"Boscobel","latitude":43.13443,"longitude":-90.7054}}(window,'GeoPostal','US');

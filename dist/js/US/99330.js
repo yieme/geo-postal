@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99330"]={"code":"99330","region":"WA","city":"Eltopia","latitude":46.475,"longitude":-119.1013}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25119"]={"code":"25119","region":"WV","city":"Kincaid","latitude":38.0407,"longitude":-81.2701}}(window,'GeoPostal','US');

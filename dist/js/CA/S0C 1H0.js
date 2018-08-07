@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 1H0"]={"code":"S0C 1H0","region":"Saskatchewan","city":"Ralph","latitude":49.56675,"longitude":-103.68436}}(window,'GeoPostal','CA');

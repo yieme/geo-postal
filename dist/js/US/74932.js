@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74932"]={"code":"74932","region":"Oklahoma","city":"Cameron","latitude":35.13583,"longitude":-94.53556}}(window,'GeoPostal','US');

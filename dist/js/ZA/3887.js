@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3887"]={"code":"3887","region":"Kwazulu-Natal","city":"eSikhawini","latitude":-28.87097,"longitude":31.89961}}(window,'GeoPostal','ZA');

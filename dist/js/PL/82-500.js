@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82-500"]={"code":"82-500","region":"Pomorskie","city":"Kwidzyn","latitude":53.72495,"longitude":18.93114}}(window,'GeoPostal','PL');

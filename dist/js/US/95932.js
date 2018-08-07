@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95932"]={"code":"95932","region":"California","city":"Colusa","latitude":39.21433,"longitude":-122.00942}}(window,'GeoPostal','US');

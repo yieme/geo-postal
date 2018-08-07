@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M33 2DH"]={"code":"M33 2DH","region":"England","city":"Northenden","latitude":53.40799,"longitude":-2.25782}}(window,'GeoPostal','GB');

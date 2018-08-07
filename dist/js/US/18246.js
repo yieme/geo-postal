@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18246"]={"code":"18246","region":"PA","city":"Rock Glen","latitude":40.9654,"longitude":-76.1844}}(window,'GeoPostal','US');

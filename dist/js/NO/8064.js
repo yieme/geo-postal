@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8064"]={"code":"8064","region":"Nordland","city":"Rost","latitude":67.51754,"longitude":12.1176}}(window,'GeoPostal','NO');

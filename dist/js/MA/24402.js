@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24402"]={"code":"24402","region":"Doukhala-Abda","city":"Sidi Smail","latitude":32.82268,"longitude":-8.5081}}(window,'GeoPostal','MA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5559"]={"code":"5559","region":"Hordaland","city":"Sveio","latitude":59.5419,"longitude":5.35178}}(window,'GeoPostal','NO');

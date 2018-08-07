@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47229"]={"code":"47229","region":"IN","city":"Crothersville","latitude":38.8067,"longitude":-85.847}}(window,'GeoPostal','US');

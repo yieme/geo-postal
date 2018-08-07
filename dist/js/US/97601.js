@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97601"]={"code":"97601","region":"Oregon","city":"Klamath Falls","latitude":42.22487,"longitude":-121.78167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64910"]={"code":"64910","region":"Usak","city":"Ulubey","latitude":38.41987,"longitude":29.29129}}(window,'GeoPostal','TR');

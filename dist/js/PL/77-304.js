@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-304"]={"code":"77-304","region":"Pomorskie","city":"Rzeczenica","latitude":53.7579,"longitude":17.10752}}(window,'GeoPostal','PL');

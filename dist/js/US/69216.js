@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69216"]={"code":"69216","region":"Nebraska","city":"Kilgore","latitude":42.8736,"longitude":-101.015804}}(window,'GeoPostal','US');

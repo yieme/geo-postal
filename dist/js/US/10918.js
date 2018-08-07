@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10918"]={"code":"10918","region":"NY","city":"Chester","latitude":41.3554,"longitude":-74.2651}}(window,'GeoPostal','US');

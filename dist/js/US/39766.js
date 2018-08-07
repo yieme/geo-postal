@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39766"]={"code":"39766","region":"MS","city":"Steens","latitude":33.5671,"longitude":-88.3278}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46322"]={"code":"46322","region":"Indiana","city":"Highland","latitude":41.55365,"longitude":-87.45198}}(window,'GeoPostal','US');

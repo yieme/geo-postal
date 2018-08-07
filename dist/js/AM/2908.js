@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2908"]={"code":"2908","region":"Sirak","city":"Dzit'hank'ov","latitude":40.50891,"longitude":43.82107}}(window,'GeoPostal','AM');

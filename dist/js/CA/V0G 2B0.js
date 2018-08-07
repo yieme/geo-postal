@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 2B0"]={"code":"V0G 2B0","region":"British Columbia","city":"Silverton","latitude":49.95265,"longitude":-117.3605}}(window,'GeoPostal','CA');

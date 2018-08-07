@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52660"]={"code":"52660","region":"IA","city":"Yarmouth","latitude":40.9835,"longitude":-91.3026}}(window,'GeoPostal','US');

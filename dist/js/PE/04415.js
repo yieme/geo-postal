@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04415"]={"code":"04415","region":"Arequipa","city":"Mollendo","latitude":-17.02306,"longitude":-72.01472}}(window,'GeoPostal','PE');

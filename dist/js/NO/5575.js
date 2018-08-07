@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5575"]={"code":"5575","region":"Rogaland","city":"Aksdal","latitude":59.42408,"longitude":5.44553}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28657"]={"code":"28657","region":"NC","city":"Newland","latitude":36.059,"longitude":-81.9303}}(window,'GeoPostal','US');

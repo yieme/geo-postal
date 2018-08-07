@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL32 8JU"]={"code":"LL32 8JU","region":"Wales","city":"Dolgarrog","latitude":53.18959,"longitude":-3.84341}}(window,'GeoPostal','GB');

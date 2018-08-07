@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66517"]={"code":"66517","region":"KS","city":"Ogden","latitude":39.1153,"longitude":-96.7101}}(window,'GeoPostal','US');

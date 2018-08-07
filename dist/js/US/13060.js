@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13060"]={"code":"13060","region":"New York","city":"Elbridge","latitude":43.0254,"longitude":-76.42224}}(window,'GeoPostal','US');

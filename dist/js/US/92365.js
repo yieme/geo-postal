@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92365"]={"code":"92365","region":"CA","city":"Newberry Springs","latitude":34.885,"longitude":-116.7464}}(window,'GeoPostal','US');

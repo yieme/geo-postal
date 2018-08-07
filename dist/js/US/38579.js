@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38579"]={"code":"38579","region":"TN","city":"Quebeck","latitude":35.8303,"longitude":-85.552}}(window,'GeoPostal','US');

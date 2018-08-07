@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85777"]={"code":"85777","region":"AZ","city":"Ariz Correctional Ctr","latitude":32.09,"longitude":-110.91}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-438"]={"code":"97-438","region":"Lodzkie","city":"Rusiec","latitude":51.32444,"longitude":18.98506}}(window,'GeoPostal','PL');

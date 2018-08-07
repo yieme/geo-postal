@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR1 3AE"]={"code":"NR1 3AE","region":"England","city":"Leicester","latitude":52.6386,"longitude":-1.13169}}(window,'GeoPostal','GB');

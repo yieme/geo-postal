@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59859"]={"code":"59859","region":"Montana","city":"Plains","latitude":47.46021,"longitude":-114.88291}}(window,'GeoPostal','US');

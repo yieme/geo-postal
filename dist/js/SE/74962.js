@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74962"]={"code":"74962","region":"Uppsala lan","city":"Orsundsbro","latitude":59.73333,"longitude":17.3}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07758"]={"code":"07758","region":"New Jersey","city":"Port Monmouth","latitude":40.430117,"longitude":-74.107271}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82022"]={"code":"82022","region":"Gavleborgs lan","city":"Sandarne","latitude":61.26667,"longitude":17.16667}}(window,'GeoPostal','SE');

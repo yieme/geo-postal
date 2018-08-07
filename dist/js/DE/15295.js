@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15295"]={"code":"15295","region":"Brandenburg","city":"Wiesenau","latitude":52.23071,"longitude":14.59107}}(window,'GeoPostal','DE');

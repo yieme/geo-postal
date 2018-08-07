@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95224"]={"code":"95224","region":"California","city":"Avery","latitude":38.2119,"longitude":-120.368167}}(window,'GeoPostal','US');

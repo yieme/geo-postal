@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL18 4SS"]={"code":"LL18 4SS","region":"Wales","city":"Rhyl","latitude":53.31955,"longitude":-3.48862}}(window,'GeoPostal','GB');

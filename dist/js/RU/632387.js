@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632387"]={"code":"632387","region":"Novosibirskaya oblast'","city":"Kuybyshev","latitude":55.44753,"longitude":78.32181}}(window,'GeoPostal','RU');

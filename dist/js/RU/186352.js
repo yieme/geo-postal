@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186352"]={"code":"186352","region":"Kareliya, Respublika","city":"Medvezh'yegorsk","latitude":62.91713,"longitude":34.45689}}(window,'GeoPostal','RU');

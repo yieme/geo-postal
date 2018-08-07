@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49765"]={"code":"49765","region":"Michigan","city":"Onaway","latitude":45.35694,"longitude":-84.22583}}(window,'GeoPostal','US');

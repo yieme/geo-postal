@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59860"]={"code":"59860","region":"Hauts-de-France","city":"Bruay-sur-l'Escaut","latitude":50.39918,"longitude":3.5438}}(window,'GeoPostal','FR');

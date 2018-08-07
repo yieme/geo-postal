@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23042"]={"code":"23042","region":"Skane lan","city":"Tygelsjo","latitude":55.51667,"longitude":13}}(window,'GeoPostal','SE');

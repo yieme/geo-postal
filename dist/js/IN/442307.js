@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442307"]={"code":"442307","region":"Maharashtra","city":"Hinganghat","latitude":20.56667,"longitude":78.83333}}(window,'GeoPostal','IN');

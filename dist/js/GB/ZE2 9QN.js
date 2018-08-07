@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9QN"]={"code":"ZE2 9QN","region":"Scotland","city":"Busta","latitude":60.38621,"longitude":-1.37226}}(window,'GeoPostal','GB');

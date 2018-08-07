@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37343"]={"code":"37343","region":"Tennessee","city":"Middle Valley","latitude":35.1959,"longitude":-85.18468}}(window,'GeoPostal','US');

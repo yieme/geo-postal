@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72280"]={"code":"72280","region":"Baden-Wurttemberg","city":"Dornstetten","latitude":48.47198,"longitude":8.49817}}(window,'GeoPostal','DE');

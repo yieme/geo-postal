@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL2 3DL"]={"code":"PL2 3DL","region":"England","city":"Devonport","latitude":50.37807,"longitude":-4.17534}}(window,'GeoPostal','GB');

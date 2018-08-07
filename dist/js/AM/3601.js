@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3601"]={"code":"3601","region":"Vayoc Jor","city":"Yeghegnadzor","latitude":39.76389,"longitude":45.33239}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97873"]={"code":"97873","region":"OR","city":"Seneca","latitude":44.1346,"longitude":-118.9716}}(window,'GeoPostal','US');

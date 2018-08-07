@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366132"]={"code":"366132","region":"Chechenskaya Respublika","city":"Ishcherskaya","latitude":43.71528,"longitude":45.12639}}(window,'GeoPostal','RU');

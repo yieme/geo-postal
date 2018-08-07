@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["960-8042"]={"code":"960-8042","region":"Fukushima","city":"Fukushima","latitude":37.767,"longitude":140.467}}(window,'GeoPostal','JP');

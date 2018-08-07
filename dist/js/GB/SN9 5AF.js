@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN9 5AF"]={"code":"SN9 5AF","region":"England","city":"Pewsey","latitude":51.33855,"longitude":-1.76545}}(window,'GeoPostal','GB');

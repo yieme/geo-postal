@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13732"]={"code":"13732","region":"NY","city":"Apalachin","latitude":42.0556,"longitude":-76.1519}}(window,'GeoPostal','US');

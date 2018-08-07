@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33025"]={"code":"33025","region":"Florida","city":"Miramar","latitude":25.992876,"longitude":-80.274221}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32727"]={"code":"32727","region":"Florida","city":"Eustis","latitude":28.831329,"longitude":-81.658943}}(window,'GeoPostal','US');

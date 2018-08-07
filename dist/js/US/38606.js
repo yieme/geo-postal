@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38606"]={"code":"38606","region":"Mississippi","city":"Batesville","latitude":34.317405,"longitude":-89.951646}}(window,'GeoPostal','US');

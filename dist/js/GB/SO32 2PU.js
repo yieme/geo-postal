@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO32 2PU"]={"code":"SO32 2PU","region":"England","city":"Swanmore","latitude":50.94404,"longitude":-1.18021}}(window,'GeoPostal','GB');

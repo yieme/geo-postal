@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4J 0A1"]={"code":"E4J 0A1","region":"New Brunswick","city":"Salisbury","latitude":46.03905,"longitude":-65.04628}}(window,'GeoPostal','CA');

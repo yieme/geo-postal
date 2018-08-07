@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37481"]={"code":"37481","region":"Castilla y Leon","city":"Fuentes de Onoro","latitude":40.59102,"longitude":-6.81144}}(window,'GeoPostal','ES');

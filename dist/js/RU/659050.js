@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659050"]={"code":"659050","region":"Altayskiy kray","city":"Shelabolikha","latitude":53.4131,"longitude":82.6167}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652120"]={"code":"652120","region":"Kemerovskaya oblast'","city":"Izhmorskiy","latitude":56.194,"longitude":86.6414}}(window,'GeoPostal','RU');

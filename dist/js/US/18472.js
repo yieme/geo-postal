@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18472"]={"code":"18472","region":"Pennsylvania","city":"Waymart","latitude":41.583268,"longitude":-75.409425}}(window,'GeoPostal','US');

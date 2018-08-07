@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10607"]={"code":"10607","region":"Azua","city":"Pueblo Viejo","latitude":18.4,"longitude":-70.76765}}(window,'GeoPostal','DO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84322"]={"code":"84322","region":"Utah","city":"Logan","latitude":41.74645,"longitude":-111.80887}}(window,'GeoPostal','US');

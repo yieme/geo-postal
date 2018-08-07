@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["321602"]={"code":"321602","region":"Rajasthan","city":"Nagar","latitude":27.43333,"longitude":77.1}}(window,'GeoPostal','IN');

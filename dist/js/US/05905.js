@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05905"]={"code":"05905","region":"Vermont","city":"Guildhall","latitude":44.56506,"longitude":-71.55981}}(window,'GeoPostal','US');

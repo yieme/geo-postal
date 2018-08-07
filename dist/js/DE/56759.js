@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56759"]={"code":"56759","region":"Rheinland-Pfalz","city":"Kaisersesch","latitude":50.23148,"longitude":7.13864}}(window,'GeoPostal','DE');

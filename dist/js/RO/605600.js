@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["605600"]={"code":"605600","region":"Covasna","city":"Tirgu Ocna","latitude":46.28333,"longitude":26.61667}}(window,'GeoPostal','RO');

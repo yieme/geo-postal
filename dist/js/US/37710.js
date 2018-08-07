@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37710"]={"code":"37710","region":"TN","city":"Briceville","latitude":36.1626,"longitude":-84.2992}}(window,'GeoPostal','US');

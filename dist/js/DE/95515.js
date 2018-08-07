@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95515"]={"code":"95515","region":"Bayern","city":"Obernsees","latitude":49.91896,"longitude":11.38396}}(window,'GeoPostal','DE');

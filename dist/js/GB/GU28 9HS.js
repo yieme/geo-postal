@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU28 9HS"]={"code":"GU28 9HS","region":"England","city":"North Chapel","latitude":51.05693,"longitude":-0.64356}}(window,'GeoPostal','GB');

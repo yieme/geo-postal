@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13210"]={"code":"13210","region":"Castilla-La Mancha","city":"Villarta de San Juan","latitude":39.23785,"longitude":-3.42332}}(window,'GeoPostal','ES');

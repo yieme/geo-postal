@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9800"]={"code":"9800","region":"Finnmark","city":"Vadso","latitude":70.07436,"longitude":29.74872}}(window,'GeoPostal','NO');

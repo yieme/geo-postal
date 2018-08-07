@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12150"]={"code":"12150","region":"Pathum Thani","city":"Ban Lam Luk Ka","latitude":13.97738,"longitude":100.77776}}(window,'GeoPostal','TH');

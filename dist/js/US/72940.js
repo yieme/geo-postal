@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72940"]={"code":"72940","region":"AR","city":"Huntington","latitude":35.0963,"longitude":-94.3313}}(window,'GeoPostal','US');

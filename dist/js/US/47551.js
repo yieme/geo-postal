@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47551"]={"code":"47551","region":"Indiana","city":"Leopold","latitude":38.102859,"longitude":-86.605619}}(window,'GeoPostal','US');

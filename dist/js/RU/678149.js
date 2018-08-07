@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678149"]={"code":"678149","region":"Saha, Respublika","city":"Lensk","latitude":60.72528,"longitude":114.92778}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL6 7PL"]={"code":"PL6 7PL","region":"England","city":"Plymouth","latitude":50.37153,"longitude":-4.14305}}(window,'GeoPostal','GB');

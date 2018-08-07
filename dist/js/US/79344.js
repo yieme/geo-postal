@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79344"]={"code":"79344","region":"TX","city":"Maple","latitude":33.8487,"longitude":-102.8985}}(window,'GeoPostal','US');

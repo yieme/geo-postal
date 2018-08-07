@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06777"]={"code":"06777","region":"CT","city":"New Preston Marble Dale","latitude":41.6903,"longitude":-73.3103}}(window,'GeoPostal','US');

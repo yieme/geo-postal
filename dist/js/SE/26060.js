@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26060"]={"code":"26060","region":"Skane lan","city":"Kvidinge","latitude":56.13333,"longitude":13.06667}}(window,'GeoPostal','SE');

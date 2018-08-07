@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71392"]={"code":"71392","region":"Orebro lan","city":"As","latitude":59.53333,"longitude":14.98333}}(window,'GeoPostal','SE');

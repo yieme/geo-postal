@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36042"]={"code":"36042","region":"Alabama","city":"Honoraville","latitude":31.877954,"longitude":-86.398381}}(window,'GeoPostal','US');

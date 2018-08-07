@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18922"]={"code":"18922","region":"PA","city":"Forest Grove","latitude":40.2923,"longitude":-75.0591}}(window,'GeoPostal','US');

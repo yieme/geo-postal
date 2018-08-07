@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52100"]={"code":"52100","region":"Istarska zupanija","city":"Pula","latitude":44.86833,"longitude":13.84806}}(window,'GeoPostal','HR');

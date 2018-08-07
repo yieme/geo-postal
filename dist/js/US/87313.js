@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87313"]={"code":"87313","region":"New Mexico","city":"Crownpoint","latitude":35.67808,"longitude":-108.15118}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27827"]={"code":"27827","region":"NC","city":"Falkland","latitude":35.6966,"longitude":-77.5132}}(window,'GeoPostal','US');

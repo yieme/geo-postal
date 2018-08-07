@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24238"]={"code":"24238","region":"Schleswig-Holstein","city":"Selent","latitude":54.3,"longitude":10.43333}}(window,'GeoPostal','DE');

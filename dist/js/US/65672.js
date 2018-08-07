@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65672"]={"code":"65672","region":"Missouri","city":"Hollister","latitude":36.630074,"longitude":-93.208352}}(window,'GeoPostal','US');

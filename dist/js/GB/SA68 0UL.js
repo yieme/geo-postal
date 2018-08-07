@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA68 0UL"]={"code":"SA68 0UL","region":"Wales","city":"Stepaside","latitude":51.73028,"longitude":-4.70639}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368948"]={"code":"368948","region":"Dagestan, Respublika","city":"Shamil'kala","latitude":42.68581,"longitude":46.86393}}(window,'GeoPostal','RU');

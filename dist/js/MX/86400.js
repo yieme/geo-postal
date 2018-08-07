@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86400"]={"code":"86400","region":"Tabasco","city":"Huimanguillo","latitude":17.85,"longitude":-93.38333}}(window,'GeoPostal','MX');

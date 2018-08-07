@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45663"]={"code":"45663","region":"OH","city":"West Portsmouth","latitude":38.7495,"longitude":-83.1335}}(window,'GeoPostal','US');

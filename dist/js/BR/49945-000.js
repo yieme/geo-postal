@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49945-000"]={"code":"49945-000","region":"Sergipe","city":"Japoata","latitude":-10.34667,"longitude":-36.80111}}(window,'GeoPostal','BR');

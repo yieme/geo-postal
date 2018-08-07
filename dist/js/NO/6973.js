@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6973"]={"code":"6973","region":"Sogn og Fjordane","city":"Sande","latitude":61.32511,"longitude":5.79773}}(window,'GeoPostal','NO');

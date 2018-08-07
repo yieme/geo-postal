@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01510"]={"code":"01510","region":"MA","city":"Clinton","latitude":42.4181,"longitude":-71.6828}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68850"]={"code":"68850","region":"Nebraska","city":"Lexington","latitude":40.78084,"longitude":-99.7415}}(window,'GeoPostal','US');

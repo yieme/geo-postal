@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["432408"]={"code":"432408","region":"Hubei","city":"Qingminghe","latitude":31.03537,"longitude":113.68917}}(window,'GeoPostal','CN');

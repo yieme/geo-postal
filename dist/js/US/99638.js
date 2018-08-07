@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99638"]={"code":"99638","region":"AK","city":"Nikolski","latitude":52.9381,"longitude":-168.8678}}(window,'GeoPostal','US');

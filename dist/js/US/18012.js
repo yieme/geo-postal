@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18012"]={"code":"18012","region":"PA","city":"Aquashicola","latitude":40.8133,"longitude":-75.592}}(window,'GeoPostal','US');

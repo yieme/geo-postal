@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2560"]={"code":"2560","region":"Antwerpen","city":"Nijlen","latitude":51.16096,"longitude":4.67008}}(window,'GeoPostal','BE');

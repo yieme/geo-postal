@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02059"]={"code":"02059","region":"MA","city":"North Marshfield","latitude":42.1432,"longitude":-70.7703}}(window,'GeoPostal','US');

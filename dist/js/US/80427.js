@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80427"]={"code":"80427","region":"CO","city":"Central City","latitude":39.8019,"longitude":-105.5142}}(window,'GeoPostal','US');

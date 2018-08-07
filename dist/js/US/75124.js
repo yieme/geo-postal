@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75124"]={"code":"75124","region":"Texas","city":"Eustace","latitude":32.30889,"longitude":-96.00917}}(window,'GeoPostal','US');

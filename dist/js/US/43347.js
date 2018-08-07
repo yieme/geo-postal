@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43347"]={"code":"43347","region":"OH","city":"Rushsylvania","latitude":40.4658,"longitude":-83.6598}}(window,'GeoPostal','US');

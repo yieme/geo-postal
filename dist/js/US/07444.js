@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07444"]={"code":"07444","region":"New Jersey","city":"Pompton Plains","latitude":40.96986,"longitude":-74.30712}}(window,'GeoPostal','US');

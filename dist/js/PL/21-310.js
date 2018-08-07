@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-310"]={"code":"21-310","region":"Lubelskie","city":"Wohyn","latitude":51.75642,"longitude":22.78582}}(window,'GeoPostal','PL');

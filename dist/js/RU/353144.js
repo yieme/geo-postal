@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353144"]={"code":"353144","region":"Krasnodarskiy kray","city":"Irkliyevskaya","latitude":45.85635,"longitude":39.65381}}(window,'GeoPostal','RU');

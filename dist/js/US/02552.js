@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02552"]={"code":"02552","region":"MA","city":"Menemsha","latitude":41.3798,"longitude":-70.6431}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64043"]={"code":"64043","region":"Abruzzo","city":"Crognaleto","latitude":42.58794,"longitude":13.48959}}(window,'GeoPostal','IT');

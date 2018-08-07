@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47850"]={"code":"47850","region":"IN","city":"Farmersburg","latitude":39.2685,"longitude":-87.5024}}(window,'GeoPostal','US');

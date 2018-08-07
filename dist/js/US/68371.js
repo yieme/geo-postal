@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68371"]={"code":"68371","region":"Nebraska","city":"Henderson","latitude":40.785,"longitude":-97.78332}}(window,'GeoPostal','US');

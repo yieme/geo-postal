@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-830"]={"code":"63-830","region":"Wielkopolskie","city":"Pepowo","latitude":51.76569,"longitude":17.12661}}(window,'GeoPostal','PL');

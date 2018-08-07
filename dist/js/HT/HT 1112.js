@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 1112"]={"code":"HT 1112","region":"Nord","city":"Cap-Haitien","latitude":19.75778,"longitude":-72.20417}}(window,'GeoPostal','HT');

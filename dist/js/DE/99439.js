@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99439"]={"code":"99439","region":"Thuringen","city":"Hottelstedt","latitude":51.03803,"longitude":11.22885}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627280"]={"code":"627280","region":"Vrancea","city":"Racoasa","latitude":46,"longitude":26.88333}}(window,'GeoPostal','RO');

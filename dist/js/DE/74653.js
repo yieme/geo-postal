@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74653"]={"code":"74653","region":"Baden-Wurttemberg","city":"Ingelfingen","latitude":49.30103,"longitude":9.65123}}(window,'GeoPostal','DE');

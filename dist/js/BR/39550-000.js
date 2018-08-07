@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39550-000"]={"code":"39550-000","region":"Minas Gerais","city":"Taiobeiras","latitude":-15.80778,"longitude":-42.23306}}(window,'GeoPostal','BR');

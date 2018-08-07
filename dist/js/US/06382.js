@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06382"]={"code":"06382","region":"Connecticut","city":"Uncasville","latitude":41.459364,"longitude":-72.113073}}(window,'GeoPostal','US');

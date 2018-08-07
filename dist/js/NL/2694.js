@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2694"]={"code":"2694","region":"Zuid-Holland","city":"'s-Gravenzande","latitude":52.00167,"longitude":4.16528}}(window,'GeoPostal','NL');

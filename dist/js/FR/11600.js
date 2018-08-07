@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11600"]={"code":"11600","region":"Occitanie","city":"Villegailhenc","latitude":43.26867,"longitude":2.3547}}(window,'GeoPostal','FR');

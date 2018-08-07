@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04628"]={"code":"04628","region":"ME","city":"Dennysville","latitude":44.8961,"longitude":-67.2244}}(window,'GeoPostal','US');

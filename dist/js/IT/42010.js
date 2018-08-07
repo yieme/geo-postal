@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42010"]={"code":"42010","region":"Emilia-Romagna","city":"Toano","latitude":44.37636,"longitude":10.5612}}(window,'GeoPostal','IT');

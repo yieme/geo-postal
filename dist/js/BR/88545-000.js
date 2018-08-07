@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88545-000"]={"code":"88545-000","region":"Santa Catarina","city":"Otacilio Costa","latitude":-27.48306,"longitude":-50.12194}}(window,'GeoPostal','BR');

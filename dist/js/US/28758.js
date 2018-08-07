@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28758"]={"code":"28758","region":"NC","city":"Mountain Home","latitude":35.3711,"longitude":-82.4938}}(window,'GeoPostal','US');

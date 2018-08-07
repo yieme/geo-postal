@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45865-000"]={"code":"45865-000","region":"Bahia","city":"Mascote","latitude":-15.56306,"longitude":-39.3025}}(window,'GeoPostal','BR');

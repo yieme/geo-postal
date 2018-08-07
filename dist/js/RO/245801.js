@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245801"]={"code":"245801","region":"Valcea","city":"Horezu","latitude":45.15,"longitude":24.01667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22046"]={"code":"22046","region":"Baja California","city":"Tecolots","latitude":32.56667,"longitude":-114.98333}}(window,'GeoPostal','MX');

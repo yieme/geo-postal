@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35054"]={"code":"35054","region":"AL","city":"Cropwell","latitude":33.5296,"longitude":-86.3007}}(window,'GeoPostal','US');

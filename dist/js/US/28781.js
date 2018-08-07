@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28781"]={"code":"28781","region":"North Carolina","city":"Topton","latitude":35.256655,"longitude":-83.695247}}(window,'GeoPostal','US');

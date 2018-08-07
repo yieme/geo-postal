@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26034"]={"code":"26034","region":"Skane lan","city":"Morarp","latitude":56.06667,"longitude":12.86667}}(window,'GeoPostal','SE');

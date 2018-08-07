@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74210"]={"code":"74210","region":"Auvergne-Rhone-Alpes","city":"Faverges","latitude":45.74752,"longitude":6.29297}}(window,'GeoPostal','FR');

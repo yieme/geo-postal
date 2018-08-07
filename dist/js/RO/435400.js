@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435400"]={"code":"435400","region":"Maramures","city":"Seini","latitude":47.75,"longitude":23.28333}}(window,'GeoPostal','RO');

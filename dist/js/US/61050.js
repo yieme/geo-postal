@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61050"]={"code":"61050","region":"IL","city":"Mc Connell","latitude":42.4281,"longitude":-89.7643}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12002"]={"code":"12002","region":"Valenciana, Comunidad","city":"Castello de la Plana","latitude":39.98333,"longitude":-0.03333}}(window,'GeoPostal','ES');

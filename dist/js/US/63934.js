@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63934"]={"code":"63934","region":"Missouri","city":"Clubb","latitude":37.2342,"longitude":-90.35832}}(window,'GeoPostal','US');

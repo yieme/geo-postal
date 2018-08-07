@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-303"]={"code":"38-303","region":"Malopolskie","city":"Kobylanka","latitude":49.66891,"longitude":21.22293}}(window,'GeoPostal','PL');

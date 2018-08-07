@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97067"]={"code":"97067","region":"Oregon","city":"Welches","latitude":45.32833,"longitude":-121.95972}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617110"]={"code":"617110","region":"Permskiy kray","city":"Zyukayka","latitude":58.2025,"longitude":54.70028}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72166"]={"code":"72166","region":"AR","city":"Tichnor","latitude":34.0893,"longitude":-91.2437}}(window,'GeoPostal','US');

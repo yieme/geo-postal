@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15470"]={"code":"15470","region":"PA","city":"Ohiopyle","latitude":39.8507,"longitude":-79.523}}(window,'GeoPostal','US');

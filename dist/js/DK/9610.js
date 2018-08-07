@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9610"]={"code":"9610","region":"Nordjylland","city":"Alestrup","latitude":56.6947,"longitude":9.49336}}(window,'GeoPostal','DK');

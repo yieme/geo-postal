@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95980"]={"code":"95980","region":"Veracruz de Ignacio de la Llave","city":"Chinameca","latitude":18.01667,"longitude":-94.66667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93225"]={"code":"93225","region":"California","city":"Frazier Park","latitude":34.830946,"longitude":-119.03931}}(window,'GeoPostal','US');

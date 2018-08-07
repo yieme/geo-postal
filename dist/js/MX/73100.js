@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73100"]={"code":"73100","region":"Puebla","city":"Pahuatlan del Valle","latitude":20.28333,"longitude":-98.15}}(window,'GeoPostal','MX');

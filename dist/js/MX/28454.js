@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28454"]={"code":"28454","region":"Chihuahua","city":"Hidalgo del Parral","latitude":26.93333,"longitude":-105.66667}}(window,'GeoPostal','MX');

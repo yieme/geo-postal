@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13480"]={"code":"13480","region":"NY","city":"Waterville","latitude":42.9332,"longitude":-75.3815}}(window,'GeoPostal','US');

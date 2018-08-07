@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133001"]={"code":"133001","region":"Haryana","city":"Ambala","latitude":30.37833,"longitude":76.78083}}(window,'GeoPostal','IN');

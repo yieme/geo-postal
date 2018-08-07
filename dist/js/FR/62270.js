@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62270"]={"code":"62270","region":"Hauts-de-France","city":"Frevent","latitude":50.27608,"longitude":2.28725}}(window,'GeoPostal','FR');

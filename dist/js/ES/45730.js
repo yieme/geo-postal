@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45730"]={"code":"45730","region":"Castilla-La Mancha","city":"Villafranca de los Caballeros","latitude":39.42824,"longitude":-3.36079}}(window,'GeoPostal','ES');

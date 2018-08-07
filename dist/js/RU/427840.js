@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427840"]={"code":"427840","region":"Udmurtskaya Respublika","city":"Kiyasovo","latitude":56.34907,"longitude":53.12439}}(window,'GeoPostal','RU');

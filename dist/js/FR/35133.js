@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35133"]={"code":"35133","region":"Bretagne","city":"Lecousse","latitude":48.36458,"longitude":-1.21289}}(window,'GeoPostal','FR');

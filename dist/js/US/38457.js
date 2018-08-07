@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38457"]={"code":"38457","region":"Tennessee","city":"Five Points","latitude":35.030565,"longitude":-87.283154}}(window,'GeoPostal','US');

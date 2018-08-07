@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617200"]={"code":"617200","region":"Sichuan","city":"Panlian","latitude":26.88778,"longitude":102.10836}}(window,'GeoPostal','CN');

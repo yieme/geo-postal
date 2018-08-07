@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25812"]={"code":"25812","region":"WV","city":"Ansted","latitude":38.1369,"longitude":-81.0955}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["384 02"]={"code":"384 02","region":"Jihocesky kraj","city":"Lhenice","latitude":48.99479,"longitude":14.1498}}(window,'GeoPostal','CZ');

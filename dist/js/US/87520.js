@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87520"]={"code":"87520","region":"New Mexico","city":"Chama","latitude":36.90307,"longitude":-106.57948}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3733"]={"code":"3733","region":"Borsod-Abauj-Zemplen","city":"Rudabanya","latitude":48.38333,"longitude":20.63333}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23441"]={"code":"23441","region":"Virginia","city":"Tasley","latitude":37.717321,"longitude":-75.774399}}(window,'GeoPostal','US');

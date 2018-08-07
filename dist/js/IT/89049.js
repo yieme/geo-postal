@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89049"]={"code":"89049","region":"Calabria","city":"Stilo","latitude":38.47708,"longitude":16.46841}}(window,'GeoPostal','IT');

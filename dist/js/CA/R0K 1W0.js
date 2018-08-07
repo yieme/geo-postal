@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0K 1W0"]={"code":"R0K 1W0","region":"Manitoba","city":"Rapid City","latitude":50.12082,"longitude":-100.03667}}(window,'GeoPostal','CA');

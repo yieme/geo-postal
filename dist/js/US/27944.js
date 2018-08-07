@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27944"]={"code":"27944","region":"North Carolina","city":"Hertford","latitude":36.14964,"longitude":-76.34892}}(window,'GeoPostal','US');

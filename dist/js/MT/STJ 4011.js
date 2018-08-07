@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["STJ 4011"]={"code":"STJ 4011","region":"Saint Julian's","city":"San Giljan","latitude":35.91839,"longitude":14.48977}}(window,'GeoPostal','MT');

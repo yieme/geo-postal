@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE20 2BU"]={"code":"PE20 2BU","region":"England","city":"Fosdyke","latitude":52.88034,"longitude":-0.04588}}(window,'GeoPostal','GB');

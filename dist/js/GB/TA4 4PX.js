@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA4 4PX"]={"code":"TA4 4PX","region":"England","city":"Williton","latitude":51.16083,"longitude":-3.32083}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36916"]={"code":"36916","region":"Alabama","city":"Pennington","latitude":32.246646,"longitude":-88.080611}}(window,'GeoPostal','US');

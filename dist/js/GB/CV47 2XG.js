@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV47 2XG"]={"code":"CV47 2XG","region":"England","city":"Wormleighton","latitude":52.17893,"longitude":-1.34514}}(window,'GeoPostal','GB');

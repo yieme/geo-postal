@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BR4 0RJ"]={"code":"BR4 0RJ","region":"England","city":"Kent","latitude":51.25,"longitude":0.75}}(window,'GeoPostal','GB');

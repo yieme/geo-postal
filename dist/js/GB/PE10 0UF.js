@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE10 0UF"]={"code":"PE10 0UF","region":"England","city":"Hacconby","latitude":52.81433,"longitude":-0.36169}}(window,'GeoPostal','GB');

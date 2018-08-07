@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90723"]={"code":"90723","region":"California","city":"Paramount","latitude":33.88946,"longitude":-118.15979}}(window,'GeoPostal','US');

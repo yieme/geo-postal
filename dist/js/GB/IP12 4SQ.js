@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP12 4SQ"]={"code":"IP12 4SQ","region":"England","city":"Martlesham","latitude":52.07376,"longitude":1.28205}}(window,'GeoPostal','GB');

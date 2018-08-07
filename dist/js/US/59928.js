@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59928"]={"code":"59928","region":"Montana","city":"Polebridge","latitude":48.903777,"longitude":-114.404228}}(window,'GeoPostal','US');

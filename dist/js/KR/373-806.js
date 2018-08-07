@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["373-806"]={"code":"373-806","region":"Chungcheongbuk-do","city":"ogcheongun","latitude":36.3012,"longitude":127.568}}(window,'GeoPostal','KR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67051"]={"code":"67051","region":"Kansas","city":"Geuda Springs","latitude":37.06152,"longitude":-97.16922}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31493"]={"code":"31493","region":"Hallands lan","city":"Hyltebruk","latitude":56.99892,"longitude":13.23958}}(window,'GeoPostal','SE');

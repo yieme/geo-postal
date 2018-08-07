@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58507"]={"code":"58507","region":"Nordrhein-Westfalen","city":"Ludenscheid","latitude":51.21977,"longitude":7.6273}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73239"]={"code":"73239","region":"Auvergne-Rhone-Alpes","city":"Saint-Alban-Leysse","latitude":45.58333,"longitude":5.95}}(window,'GeoPostal','FR');

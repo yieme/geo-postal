@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99922"]={"code":"99922","region":"Alaska","city":"Hydaburg","latitude":55.159856,"longitude":-132.437664}}(window,'GeoPostal','US');

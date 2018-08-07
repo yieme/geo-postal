@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71825"]={"code":"71825","region":"AR","city":"Blevins","latitude":33.8718,"longitude":-93.5771}}(window,'GeoPostal','US');

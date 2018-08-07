@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01969"]={"code":"01969","region":"MA","city":"Rowley","latitude":42.7138,"longitude":-70.907}}(window,'GeoPostal','US');

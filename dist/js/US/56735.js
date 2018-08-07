@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56735"]={"code":"56735","region":"MN","city":"Lancaster","latitude":48.9153,"longitude":-96.6366}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65633"]={"code":"65633","region":"MO","city":"Crane","latitude":36.9258,"longitude":-93.5303}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA43 2RL"]={"code":"SA43 2RL","region":"Wales","city":"Pont Hirwaun","latitude":52.06667,"longitude":-4.53333}}(window,'GeoPostal','GB');

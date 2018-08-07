@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44895-000"]={"code":"44895-000","region":"Bahia","city":"Barro Alto","latitude":-11.76083,"longitude":-41.91167}}(window,'GeoPostal','BR');

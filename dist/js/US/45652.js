@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45652"]={"code":"45652","region":"OH","city":"Mc Dermott","latitude":38.8362,"longitude":-83.0689}}(window,'GeoPostal','US');

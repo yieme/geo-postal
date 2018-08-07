@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81091"]={"code":"81091","region":"Colorado","city":"Weston","latitude":37.17456,"longitude":-104.89554}}(window,'GeoPostal','US');

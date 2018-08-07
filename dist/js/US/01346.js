@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01346"]={"code":"01346","region":"MA","city":"Heath","latitude":42.6853,"longitude":-72.8391}}(window,'GeoPostal','US');

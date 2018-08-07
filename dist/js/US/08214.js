@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08214"]={"code":"08214","region":"NJ","city":"Dennisville","latitude":39.1932,"longitude":-74.8252}}(window,'GeoPostal','US');

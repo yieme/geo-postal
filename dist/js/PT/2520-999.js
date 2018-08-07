@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2520-999"]={"code":"2520-999","region":"Leiria","city":"Peniche","latitude":39.3558,"longitude":-9.38112}}(window,'GeoPostal','PT');

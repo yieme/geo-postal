@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141320"]={"code":"141320","region":"Moskovskaya oblast'","city":"Peresvet","latitude":56.42302,"longitude":38.17612}}(window,'GeoPostal','RU');

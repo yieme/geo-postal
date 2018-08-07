@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32668"]={"code":"32668","region":"FL","city":"Morriston","latitude":29.2813,"longitude":-82.4917}}(window,'GeoPostal','US');

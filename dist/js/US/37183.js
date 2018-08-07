@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37183"]={"code":"37183","region":"TN","city":"Wartrace","latitude":35.5123,"longitude":-86.3277}}(window,'GeoPostal','US');

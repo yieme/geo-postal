@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41606"]={"code":"41606","region":"KY","city":"Bevinsville","latitude":37.3465,"longitude":-82.7403}}(window,'GeoPostal','US');

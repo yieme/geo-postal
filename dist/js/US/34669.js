@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34669"]={"code":"34669","region":"FL","city":"Hudson","latitude":28.3506,"longitude":-82.6288}}(window,'GeoPostal','US');

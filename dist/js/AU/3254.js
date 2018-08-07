@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3254"]={"code":"3254","region":"Victoria","city":"Cororooke","latitude":-38.28333,"longitude":143.51667}}(window,'GeoPostal','AU');

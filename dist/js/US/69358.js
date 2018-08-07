@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69358"]={"code":"69358","region":"Nebraska","city":"Morrill","latitude":41.965595,"longitude":-103.925787}}(window,'GeoPostal','US');

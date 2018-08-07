@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61368"]={"code":"61368","region":"Illinois","city":"Tiskilwa","latitude":41.29167,"longitude":-89.50639}}(window,'GeoPostal','US');

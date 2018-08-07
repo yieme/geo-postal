@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18439"]={"code":"18439","region":"Mecklenburg-Vorpommern","city":"Stralsund","latitude":54.30911,"longitude":13.0818}}(window,'GeoPostal','DE');

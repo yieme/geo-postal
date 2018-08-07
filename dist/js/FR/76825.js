@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76825"]={"code":"76825","region":"Normandie","city":"Mont-Saint-Aignan","latitude":49.46307,"longitude":1.09364}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 2C0"]={"code":"V0G 2C0","region":"British Columbia","city":"Slocan","latitude":49.76656,"longitude":-117.46893}}(window,'GeoPostal','CA');

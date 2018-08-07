@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14-140"]={"code":"14-140","region":"Warminsko-mazurskie","city":"Milomlyn","latitude":53.76449,"longitude":19.838}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66603"]={"code":"66603","region":"Kansas","city":"Topeka","latitude":39.055495,"longitude":-95.675389}}(window,'GeoPostal','US');

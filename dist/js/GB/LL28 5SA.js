@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL28 5SA"]={"code":"LL28 5SA","region":"Wales","city":"Tal-y-Cafn","latitude":53.21667,"longitude":-3.81667}}(window,'GeoPostal','GB');

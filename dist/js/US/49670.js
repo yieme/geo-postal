@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49670"]={"code":"49670","region":"Michigan","city":"Northport","latitude":45.133476,"longitude":-85.612113}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404109"]={"code":"404109","region":"Volgogradskaya oblast'","city":"Volzhskiy","latitude":48.78583,"longitude":44.77973}}(window,'GeoPostal','RU');

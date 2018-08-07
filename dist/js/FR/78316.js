@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78316"]={"code":"78316","region":"Ile-de-France","city":"Maurepas","latitude":48.76486,"longitude":1.92923}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42502"]={"code":"42502","region":"Sumska oblast","city":"Lypova Dolyna","latitude":50.56428,"longitude":33.79793}}(window,'GeoPostal','UA');

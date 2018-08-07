@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["174580"]={"code":"174580","region":"Novgorodskaya oblast'","city":"Khvoynaya","latitude":58.9,"longitude":34.53333}}(window,'GeoPostal','RU');

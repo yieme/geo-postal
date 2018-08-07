@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84150"]={"code":"84150","region":"Surat Thani","city":"Surat Thani","latitude":9.14011,"longitude":99.33311}}(window,'GeoPostal','TH');

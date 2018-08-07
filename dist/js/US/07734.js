@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07734"]={"code":"07734","region":"NJ","city":"Keansburg","latitude":40.4414,"longitude":-74.1306}}(window,'GeoPostal','US');

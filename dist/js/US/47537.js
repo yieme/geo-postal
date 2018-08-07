@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47537"]={"code":"47537","region":"Indiana","city":"Gentryville","latitude":38.217541,"longitude":-86.863644}}(window,'GeoPostal','US');

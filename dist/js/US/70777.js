@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70777"]={"code":"70777","region":"LA","city":"Slaughter","latitude":30.7383,"longitude":-91.07}}(window,'GeoPostal','US');

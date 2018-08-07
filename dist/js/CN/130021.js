@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130021"]={"code":"130021","region":"Qinghai","city":"Jishi","latitude":35.84613,"longitude":102.48171}}(window,'GeoPostal','CN');

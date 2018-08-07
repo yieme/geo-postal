@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01590"]={"code":"01590","region":"MA","city":"Sutton","latitude":42.1266,"longitude":-71.7552}}(window,'GeoPostal','US');

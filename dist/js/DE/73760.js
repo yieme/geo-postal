@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73760"]={"code":"73760","region":"Baden-Wurttemberg","city":"Ostfildern","latitude":48.72704,"longitude":9.24954}}(window,'GeoPostal','DE');

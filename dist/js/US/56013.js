@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56013"]={"code":"56013","region":"Minnesota","city":"Blue Earth","latitude":43.639824,"longitude":-94.093434}}(window,'GeoPostal','US');

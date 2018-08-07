@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31716"]={"code":"31716","region":"GA","city":"Baconton","latitude":31.3878,"longitude":-84.1135}}(window,'GeoPostal','US');

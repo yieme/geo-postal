@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27325"]={"code":"27325","region":"NC","city":"Robbins","latitude":35.4528,"longitude":-79.582}}(window,'GeoPostal','US');

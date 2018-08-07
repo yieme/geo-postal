@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE7 9YE"]={"code":"LE7 9YE","region":"England","city":"Skeffington","latitude":52.61768,"longitude":-0.90214}}(window,'GeoPostal','GB');

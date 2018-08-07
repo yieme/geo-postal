@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96332"]={"code":"96332","region":"Bayern","city":"Rothenkirchen","latitude":50.36353,"longitude":11.31742}}(window,'GeoPostal','DE');

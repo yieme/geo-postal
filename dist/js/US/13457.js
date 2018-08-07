@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13457"]={"code":"13457","region":"NY","city":"Schuyler Lake","latitude":42.7758,"longitude":-75.0485}}(window,'GeoPostal','US');

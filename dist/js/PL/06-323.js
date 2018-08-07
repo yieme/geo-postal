@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-323"]={"code":"06-323","region":"Mazowieckie","city":"Jednorozec","latitude":53.14116,"longitude":21.05161}}(window,'GeoPostal','PL');

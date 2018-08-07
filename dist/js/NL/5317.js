@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5317"]={"code":"5317","region":"Gelderland","city":"Nederhemert-Noord","latitude":51.76322,"longitude":5.17305}}(window,'GeoPostal','NL');

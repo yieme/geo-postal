@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA65 9HA"]={"code":"SA65 9HA","region":"Wales","city":"Fishguard","latitude":51.99376,"longitude":-4.97631}}(window,'GeoPostal','GB');

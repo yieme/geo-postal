@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78730"]={"code":"78730","region":"Ile-de-France","city":"Saint-Arnoult-en-Yvelines","latitude":48.57111,"longitude":1.9395}}(window,'GeoPostal','FR');

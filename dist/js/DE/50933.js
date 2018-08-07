@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50933"]={"code":"50933","region":"Nordrhein-Westfalen","city":"Braunsfeld","latitude":50.93636,"longitude":6.89821}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21144"]={"code":"21144","region":"Maryland","city":"Severn","latitude":39.127605,"longitude":-76.687619}}(window,'GeoPostal','US');

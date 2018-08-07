@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1420"]={"code":"1420","region":"Trbovlje","city":"Trbovlje","latitude":46.155,"longitude":15.05333}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49821"]={"code":"49821","region":"Michigan","city":"Daggett","latitude":45.46306,"longitude":-87.60278}}(window,'GeoPostal','US');

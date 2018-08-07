@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88112"]={"code":"88112","region":"NM","city":"Broadview","latitude":34.804,"longitude":-103.1292}}(window,'GeoPostal','US');

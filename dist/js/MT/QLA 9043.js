@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["QLA 9043"]={"code":"QLA 9043","region":"Qala","city":"Qala","latitude":36.03611,"longitude":14.30944}}(window,'GeoPostal','MT');

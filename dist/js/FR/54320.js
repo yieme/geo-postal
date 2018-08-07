@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54320"]={"code":"54320","region":"Grand-Est","city":"Maxeville","latitude":48.70816,"longitude":6.1696}}(window,'GeoPostal','FR');

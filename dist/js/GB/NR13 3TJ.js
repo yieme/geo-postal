@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR13 3TJ"]={"code":"NR13 3TJ","region":"England","city":"Reedham","latitude":52.56054,"longitude":1.57122}}(window,'GeoPostal','GB');

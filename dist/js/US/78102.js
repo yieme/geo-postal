@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78102"]={"code":"78102","region":"Texas","city":"Beeville","latitude":28.404009,"longitude":-97.749874}}(window,'GeoPostal','US');

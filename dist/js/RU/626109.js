@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626109"]={"code":"626109","region":"Tyumenskaya oblast'","city":"Irtyshskiy","latitude":58.33333,"longitude":68.13333}}(window,'GeoPostal','RU');

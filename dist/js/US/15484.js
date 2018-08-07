@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15484"]={"code":"15484","region":"Pennsylvania","city":"Uledi","latitude":39.892456,"longitude":-79.787056}}(window,'GeoPostal','US');

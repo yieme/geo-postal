@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353101"]={"code":"353101","region":"Fujian","city":"Nanya","latitude":26.87625,"longitude":118.30747}}(window,'GeoPostal','CN');

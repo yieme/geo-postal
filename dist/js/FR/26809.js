@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26809"]={"code":"26809","region":"Auvergne-Rhone-Alpes","city":"Portes-les-Valence","latitude":44.8737,"longitude":4.881}}(window,'GeoPostal','FR');

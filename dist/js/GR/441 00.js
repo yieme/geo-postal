@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["441 00"]={"code":"441 00","region":"Ipeiros","city":"Konitsa","latitude":40.04861,"longitude":20.75667}}(window,'GeoPostal','GR');

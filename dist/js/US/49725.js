@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49725"]={"code":"49725","region":"Michigan","city":"De Tour Village","latitude":45.984476,"longitude":-83.902407}}(window,'GeoPostal','US');

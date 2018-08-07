@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47851"]={"code":"47851","region":"IN","city":"Fontanet","latitude":39.5737,"longitude":-87.2454}}(window,'GeoPostal','US');

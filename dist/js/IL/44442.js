@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44442"]={"code":"44442","region":"HaMerkaz","city":"Kfar Saba","latitude":32.175,"longitude":34.90694}}(window,'GeoPostal','IL');

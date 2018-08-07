@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75143"]={"code":"75143","region":"Texas","city":"Kemp","latitude":32.36604,"longitude":-96.28668}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2640"]={"code":"2640","region":"Kyustendil","city":"Kocherinovo","latitude":42.08333,"longitude":23.06667}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78351"]={"code":"78351","region":"Ile-de-France","city":"Jouy-en-Josas","latitude":48.75909,"longitude":2.16966}}(window,'GeoPostal','FR');

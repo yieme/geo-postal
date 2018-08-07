@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO13 9NP"]={"code":"YO13 9NP","region":"England","city":"Ebberston","latitude":54.23151,"longitude":-0.62373}}(window,'GeoPostal','GB');

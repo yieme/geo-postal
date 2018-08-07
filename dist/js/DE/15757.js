@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15757"]={"code":"15757","region":"Brandenburg","city":"Freidorf","latitude":52.06826,"longitude":13.69621}}(window,'GeoPostal','DE');

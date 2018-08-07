@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43061"]={"code":"43061","region":"OH","city":"Ostrander","latitude":40.274,"longitude":-83.1978}}(window,'GeoPostal','US');

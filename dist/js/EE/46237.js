@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46237"]={"code":"46237","region":"Laane-Virumaa","city":"Vaike-Maarja","latitude":59.12639,"longitude":26.25}}(window,'GeoPostal','EE');

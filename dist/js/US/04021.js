@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04021"]={"code":"04021","region":"Maine","city":"Cumberland Center","latitude":43.79647,"longitude":-70.25894}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48253"]={"code":"48253","region":"Ternopilska oblast","city":"Druzhba","latitude":49.04251,"longitude":25.45055}}(window,'GeoPostal','UA');

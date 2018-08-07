@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20645"]={"code":"20645","region":"MD","city":"Issue","latitude":38.2926,"longitude":-76.9059}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4L 2P2"]={"code":"T4L 2P2","region":"Alberta","city":"Lochinvar","latitude":52.53342,"longitude":-113.6687}}(window,'GeoPostal','CA');

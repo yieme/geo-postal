@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3446"]={"code":"3446","region":"Victoria","city":"Malmsbury","latitude":-37.18856,"longitude":144.38475}}(window,'GeoPostal','AU');

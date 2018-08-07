@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47346"]={"code":"47346","region":"IN","city":"Hagerstown","latitude":39.9228,"longitude":-85.1601}}(window,'GeoPostal','US');

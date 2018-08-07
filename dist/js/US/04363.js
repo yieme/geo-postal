@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04363"]={"code":"04363","region":"ME","city":"Windsor","latitude":44.3009,"longitude":-69.5806}}(window,'GeoPostal','US');

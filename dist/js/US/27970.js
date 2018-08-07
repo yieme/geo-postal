@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27970"]={"code":"27970","region":"North Carolina","city":"Roper","latitude":35.876241,"longitude":-76.614323}}(window,'GeoPostal','US');

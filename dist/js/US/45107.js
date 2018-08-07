@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45107"]={"code":"45107","region":"OH","city":"Blanchester","latitude":39.3034,"longitude":-83.974}}(window,'GeoPostal','US');

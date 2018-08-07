@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457670"]={"code":"457670","region":"Chelyabinskaya oblast'","city":"Verkhneural'sk","latitude":53.87694,"longitude":59.21056}}(window,'GeoPostal','RU');

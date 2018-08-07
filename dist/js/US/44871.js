@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44871"]={"code":"44871","region":"OH","city":"Sandusky","latitude":41.4489,"longitude":-82.708}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49677"]={"code":"49677","region":"Michigan","city":"Reed City","latitude":43.87502,"longitude":-85.51005}}(window,'GeoPostal','US');

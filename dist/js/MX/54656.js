@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54656"]={"code":"54656","region":"Mexico","city":"Santa Gertrudis","latitude":19.73333,"longitude":-99.36667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64703"]={"code":"64703","region":"Kharkivska oblast","city":"Barvinkove","latitude":48.9097,"longitude":37.02051}}(window,'GeoPostal','UA');

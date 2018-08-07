@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83822"]={"code":"83822","region":"Idaho","city":"Oldtown","latitude":48.178737,"longitude":-117.03548}}(window,'GeoPostal','US');

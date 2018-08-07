@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06120"]={"code":"06120","region":"Sachsen-Anhalt","city":"Lieskau","latitude":51.50395,"longitude":11.86208}}(window,'GeoPostal','DE');

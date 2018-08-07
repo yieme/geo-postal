@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63105"]={"code":"63105","region":"Missouri","city":"Clayton","latitude":38.64546,"longitude":-90.32574}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56140"]={"code":"56140","region":"Bretagne","city":"Caro","latitude":47.86429,"longitude":-2.31924}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["747505"]={"code":"747505","region":"Gansu","city":"Biandu","latitude":34.65768,"longitude":103.64006}}(window,'GeoPostal','CN');

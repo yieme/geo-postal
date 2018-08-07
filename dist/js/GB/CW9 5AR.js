@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW9 5AR"]={"code":"CW9 5AR","region":"England","city":"Northwich","latitude":53.26138,"longitude":-2.51225}}(window,'GeoPostal','GB');

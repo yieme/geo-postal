@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22270"]={"code":"22270","region":"Skane lan","city":"Lund","latitude":55.70584,"longitude":13.19321}}(window,'GeoPostal','SE');

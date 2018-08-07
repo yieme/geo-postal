@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423430"]={"code":"423430","region":"Tatarstan, Respublika","city":"Russkiy Aktash","latitude":55.0384,"longitude":52.1214}}(window,'GeoPostal','RU');

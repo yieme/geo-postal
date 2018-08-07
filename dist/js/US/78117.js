@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78117"]={"code":"78117","region":"Texas","city":"Hobson","latitude":28.937491,"longitude":-97.981127}}(window,'GeoPostal','US');

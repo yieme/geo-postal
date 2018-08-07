@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4510"]={"code":"4510","region":"Queensland","city":"Caboolture","latitude":-27.08465,"longitude":152.9511}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1002"]={"code":"1002","region":"Riga","city":"Riga","latitude":56.946,"longitude":24.10589}}(window,'GeoPostal','LV');

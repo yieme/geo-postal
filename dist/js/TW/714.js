@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["714"]={"code":"714","region":"Tainan","city":"Yujing","latitude":23.12493,"longitude":120.46138}}(window,'GeoPostal','TW');

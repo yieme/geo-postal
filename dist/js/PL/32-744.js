@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-744"]={"code":"32-744","region":"Malopolskie","city":"Lapczyca","latitude":49.95994,"longitude":20.38445}}(window,'GeoPostal','PL');

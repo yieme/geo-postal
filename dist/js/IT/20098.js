@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20098"]={"code":"20098","region":"Lombardia","city":"San Giuliano Milanese","latitude":45.39574,"longitude":9.28757}}(window,'GeoPostal','IT');

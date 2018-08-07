@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3959"]={"code":"3959","region":"Victoria","city":"Waratah North","latitude":-38.75,"longitude":146.08333}}(window,'GeoPostal','AU');

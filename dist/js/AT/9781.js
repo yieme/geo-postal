@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9781"]={"code":"9781","region":"Karnten","city":"Oberdrauburg","latitude":46.74306,"longitude":12.97028}}(window,'GeoPostal','AT');

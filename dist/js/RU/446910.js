@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446910"]={"code":"446910","region":"Samarskaya oblast'","city":"Shentala","latitude":54.45,"longitude":51.48333}}(window,'GeoPostal','RU');

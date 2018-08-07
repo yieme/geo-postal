@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12788"]={"code":"12788","region":"NY","city":"Woodbourne","latitude":41.7708,"longitude":-74.5928}}(window,'GeoPostal','US');

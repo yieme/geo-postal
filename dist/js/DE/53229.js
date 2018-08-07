@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53229"]={"code":"53229","region":"Nordrhein-Westfalen","city":"Birlinghoven","latitude":50.74805,"longitude":7.2241}}(window,'GeoPostal','DE');

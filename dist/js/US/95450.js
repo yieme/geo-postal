@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95450"]={"code":"95450","region":"CA","city":"Jenner","latitude":38.4987,"longitude":-123.1974}}(window,'GeoPostal','US');

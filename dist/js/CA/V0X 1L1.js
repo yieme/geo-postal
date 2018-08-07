@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0X 1L1"]={"code":"V0X 1L1","region":"British Columbia","city":"Othello","latitude":49.383,"longitude":-121.35253}}(window,'GeoPostal','CA');

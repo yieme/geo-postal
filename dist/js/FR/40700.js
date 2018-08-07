@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40700"]={"code":"40700","region":"Nouvelle-Aquitaine","city":"Aubagnan","latitude":43.6681,"longitude":-0.4875}}(window,'GeoPostal','FR');

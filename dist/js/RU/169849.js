@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169849"]={"code":"169849","region":"Komi, Respublika","city":"Inta","latitude":66.03169,"longitude":60.16594}}(window,'GeoPostal','RU');

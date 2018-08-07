@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56172"]={"code":"56172","region":"Minnesota","city":"Marshall","latitude":43.986938,"longitude":-95.755344}}(window,'GeoPostal','US');

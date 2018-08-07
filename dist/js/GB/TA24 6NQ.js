@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA24 6NQ"]={"code":"TA24 6NQ","region":"England","city":"Carhampton","latitude":51.17453,"longitude":-3.42142}}(window,'GeoPostal','GB');

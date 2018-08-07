@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE65 6HD"]={"code":"DE65 6HD","region":"England","city":"Egginton","latitude":52.85027,"longitude":-1.60452}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65622"]={"code":"65622","region":"Missouri","city":"Buffalo","latitude":37.64393,"longitude":-93.09241}}(window,'GeoPostal','US');

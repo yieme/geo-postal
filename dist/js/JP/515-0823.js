@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515-0823"]={"code":"515-0823","region":"Mie","city":"Matsusaka","latitude":34.583,"longitude":136.533}}(window,'GeoPostal','JP');

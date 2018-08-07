@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79808"]={"code":"79808","region":"Raplamaa","city":"Kohila","latitude":59.16806,"longitude":24.7575}}(window,'GeoPostal','EE');

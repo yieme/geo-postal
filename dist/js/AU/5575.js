@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5575"]={"code":"5575","region":"South Australia","city":"Hardwicke Bay","latitude":-34.8888,"longitude":137.45801}}(window,'GeoPostal','AU');

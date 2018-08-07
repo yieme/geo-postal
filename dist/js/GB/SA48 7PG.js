@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA48 7PG"]={"code":"SA48 7PG","region":"Wales","city":"Llanfihangel-Ystrad","latitude":52.18333,"longitude":-4.16667}}(window,'GeoPostal','GB');

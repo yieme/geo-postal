@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56479"]={"code":"56479","region":"Rheinland-Pfalz","city":"Rehe","latitude":50.63333,"longitude":8.11667}}(window,'GeoPostal','DE');

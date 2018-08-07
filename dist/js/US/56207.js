@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56207"]={"code":"56207","region":"MN","city":"Alberta","latitude":45.5571,"longitude":-96.0498}}(window,'GeoPostal','US');

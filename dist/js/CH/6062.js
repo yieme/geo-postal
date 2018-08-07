@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6062"]={"code":"6062","region":"Obwalden","city":"Sachseln","latitude":46.86718,"longitude":8.23344}}(window,'GeoPostal','CH');

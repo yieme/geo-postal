@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78610"]={"code":"78610","region":"Texas","city":"Buda","latitude":30.084074,"longitude":-97.843827}}(window,'GeoPostal','US');

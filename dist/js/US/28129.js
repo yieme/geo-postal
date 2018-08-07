@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28129"]={"code":"28129","region":"North Carolina","city":"Oakboro","latitude":35.2257,"longitude":-80.32895}}(window,'GeoPostal','US');

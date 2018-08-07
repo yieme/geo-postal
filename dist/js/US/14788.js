@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14788"]={"code":"14788","region":"New York","city":"Westons Mills","latitude":42.06229,"longitude":-78.37724}}(window,'GeoPostal','US');

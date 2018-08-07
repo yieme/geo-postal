@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35116"]={"code":"35116","region":"AL","city":"Morris","latitude":33.7392,"longitude":-86.7726}}(window,'GeoPostal','US');

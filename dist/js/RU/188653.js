@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188653"]={"code":"188653","region":"Leningradskaya oblast'","city":"Agalatovo","latitude":60.2195,"longitude":30.27388}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 5730"]={"code":"AZ 5730","region":"Samkir","city":"Dzagam","latitude":40.9033,"longitude":45.88564}}(window,'GeoPostal','AZ');

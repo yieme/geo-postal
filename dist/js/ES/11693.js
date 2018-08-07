@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11693"]={"code":"11693","region":"Andalucia","city":"Setenil de las Bodegas","latitude":36.86397,"longitude":-5.18177}}(window,'GeoPostal','ES');

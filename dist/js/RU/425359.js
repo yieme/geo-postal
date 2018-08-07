@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425359"]={"code":"425359","region":"Mariy El, Respublika","city":"Koz'modem'yansk","latitude":56.3419,"longitude":46.56353}}(window,'GeoPostal','RU');

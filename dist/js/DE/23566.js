@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23566"]={"code":"23566","region":"Mecklenburg-Vorpommern","city":"Herrnburg","latitude":53.8398,"longitude":10.75655}}(window,'GeoPostal','DE');

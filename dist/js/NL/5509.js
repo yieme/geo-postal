@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5509"]={"code":"5509","region":"Noord-Brabant","city":"Veldhoven","latitude":51.41833,"longitude":5.40278}}(window,'GeoPostal','NL');

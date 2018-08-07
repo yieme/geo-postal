@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93042"]={"code":"93042","region":"California","city":"Point Mugu Nawc","latitude":34.122991,"longitude":-119.093817}}(window,'GeoPostal','US');

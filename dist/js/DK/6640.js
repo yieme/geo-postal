@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6640"]={"code":"6640","region":"Syddanmark","city":"Lunderskov","latitude":55.48375,"longitude":9.29917}}(window,'GeoPostal','DK');

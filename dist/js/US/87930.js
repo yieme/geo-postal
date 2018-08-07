@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87930"]={"code":"87930","region":"NM","city":"Arrey","latitude":32.8487,"longitude":-107.3192}}(window,'GeoPostal','US');

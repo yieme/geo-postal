@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47665-000"]={"code":"47665-000","region":"Bahia","city":"Santa Maria da Vitoria","latitude":-13.39472,"longitude":-44.18861}}(window,'GeoPostal','BR');

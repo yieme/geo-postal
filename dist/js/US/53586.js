@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53586"]={"code":"53586","region":"Wisconsin","city":"Shullsburg","latitude":42.57334,"longitude":-90.23096}}(window,'GeoPostal','US');

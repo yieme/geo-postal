@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["825402"]={"code":"825402","region":"Jharkhand","city":"Hazaribag","latitude":23.98333,"longitude":85.35}}(window,'GeoPostal','IN');

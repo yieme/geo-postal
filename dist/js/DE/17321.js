@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17321"]={"code":"17321","region":"Mecklenburg-Vorpommern","city":"Rothenklempenow","latitude":53.51667,"longitude":14.2}}(window,'GeoPostal','DE');

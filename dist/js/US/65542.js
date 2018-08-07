@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65542"]={"code":"65542","region":"Missouri","city":"Licking","latitude":37.49949,"longitude":-91.8571}}(window,'GeoPostal','US');

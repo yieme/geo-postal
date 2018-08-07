@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9080"]={"code":"9080","region":"Beja","city":"Quballat","latitude":36.54178,"longitude":9.66334}}(window,'GeoPostal','TN');

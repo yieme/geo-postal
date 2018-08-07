@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32800"]={"code":"32800","region":"Isparta","city":"Sarkikaraagac","latitude":38.07944,"longitude":31.36639}}(window,'GeoPostal','TR');

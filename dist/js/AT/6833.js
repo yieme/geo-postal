@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6833"]={"code":"6833","region":"Vorarlberg","city":"Klaus","latitude":47.30913,"longitude":9.64678}}(window,'GeoPostal','AT');

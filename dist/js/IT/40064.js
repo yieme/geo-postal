@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40064"]={"code":"40064","region":"Emilia-Romagna","city":"Ozzano dell'Emilia","latitude":44.44427,"longitude":11.47552}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83428"]={"code":"83428","region":"ID","city":"Irwin","latitude":43.3861,"longitude":-111.2527}}(window,'GeoPostal','US');

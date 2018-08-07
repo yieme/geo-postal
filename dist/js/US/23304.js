@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23304"]={"code":"23304","region":"VA","city":"Battery Park","latitude":36.9965,"longitude":-76.5741}}(window,'GeoPostal','US');

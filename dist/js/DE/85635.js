@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85635"]={"code":"85635","region":"Bayern","city":"Siegertsbrunn","latitude":48.02013,"longitude":11.72894}}(window,'GeoPostal','DE');

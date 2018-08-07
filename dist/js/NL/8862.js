@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8862"]={"code":"8862","region":"Fryslan","city":"Harlingen","latitude":53.17477,"longitude":5.42244}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17000"]={"code":"17000","region":"Kelantan","city":"Pasir Mas","latitude":6.04934,"longitude":102.13987}}(window,'GeoPostal','MY');

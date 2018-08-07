@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22135"]={"code":"22135","region":"Virginia","city":"Quantico","latitude":38.52245,"longitude":-77.289687}}(window,'GeoPostal','US');

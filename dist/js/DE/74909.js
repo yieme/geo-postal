@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74909"]={"code":"74909","region":"Baden-Wurttemberg","city":"Meckesheim","latitude":49.32167,"longitude":8.81944}}(window,'GeoPostal','DE');

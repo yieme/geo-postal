@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13790"]={"code":"13790","region":"Provence-Alpes-Cote d'Azur","city":"Peynier","latitude":43.44837,"longitude":5.64139}}(window,'GeoPostal','FR');

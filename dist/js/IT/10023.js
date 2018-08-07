@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10023"]={"code":"10023","region":"Piemonte","city":"Chieri","latitude":45.01395,"longitude":7.82233}}(window,'GeoPostal','IT');

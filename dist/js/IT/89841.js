@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89841"]={"code":"89841","region":"Calabria","city":"Filandari","latitude":38.61508,"longitude":16.0314}}(window,'GeoPostal','IT');

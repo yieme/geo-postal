@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97753"]={"code":"97753","region":"OR","city":"Powell Butte","latitude":44.2415,"longitude":-121.0113}}(window,'GeoPostal','US');

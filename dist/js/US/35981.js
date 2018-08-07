@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35981"]={"code":"35981","region":"Alabama","city":"Ider","latitude":34.729436,"longitude":-85.636563}}(window,'GeoPostal','US');

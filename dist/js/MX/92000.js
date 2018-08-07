@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92000"]={"code":"92000","region":"Veracruz de Ignacio de la Llave","city":"Alamo","latitude":20.91667,"longitude":-97.68333}}(window,'GeoPostal','MX');

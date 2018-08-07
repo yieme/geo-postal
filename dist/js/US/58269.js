@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58269"]={"code":"58269","region":"ND","city":"Osnabrock","latitude":48.6689,"longitude":-98.1512}}(window,'GeoPostal','US');

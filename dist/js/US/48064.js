@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48064"]={"code":"48064","region":"MI","city":"Casco","latitude":42.7674,"longitude":-82.6728}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107492"]={"code":"107492","region":"Prahova","city":"Puchenii Mari","latitude":44.81667,"longitude":26.08333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2A 5C5"]={"code":"V2A 5C5","region":"British Columbia","city":"Penticton","latitude":49.496486,"longitude":-119.591005}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92040"]={"code":"92040","region":"California","city":"Lakeside","latitude":32.859045,"longitude":-116.917642}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71194"]={"code":"71194","region":"Orebro lan","city":"Lindesberg","latitude":59.59202,"longitude":15.2304}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A1L 3G5"]={"code":"A1L 3G5","region":"Newfoundland and Labrador","city":"Otterbury","latitude":47.54989,"longitude":-52.89806}}(window,'GeoPostal','CA');

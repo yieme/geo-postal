@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40580"]={"code":"40580","region":"Guerrero","city":"Cocula","latitude":18.23333,"longitude":-99.66667}}(window,'GeoPostal','MX');

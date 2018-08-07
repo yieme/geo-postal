@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53965"]={"code":"53965","region":"Wisconsin","city":"Wisconsin Dells","latitude":43.62748,"longitude":-89.77096}}(window,'GeoPostal','US');

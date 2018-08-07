@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37800"]={"code":"37800","region":"Guanajuato","city":"Dolores Hidalgo","latitude":21.15611,"longitude":-100.93083}}(window,'GeoPostal','MX');

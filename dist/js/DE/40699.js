@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40699"]={"code":"40699","region":"Nordrhein-Westfalen","city":"Erkrath","latitude":51.22235,"longitude":6.9083}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51019"]={"code":"51019","region":"Iowa","city":"Danbury","latitude":42.260888,"longitude":-95.783386}}(window,'GeoPostal','US');

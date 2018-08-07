@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 4DL"]={"code":"LE14 4DL","region":"England","city":"Scalford","latitude":52.80961,"longitude":-0.86964}}(window,'GeoPostal','GB');

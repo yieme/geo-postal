@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97611"]={"code":"97611","region":"Maluku","city":"Tual","latitude":-5.66667,"longitude":132.75}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130000"]={"code":"130000","region":"Mangghystau oblysy","city":"Aktau","latitude":48.03333,"longitude":72.83333}}(window,'GeoPostal','KZ');

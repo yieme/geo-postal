@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73459"]={"code":"73459","region":"Oklahoma","city":"Thackerville","latitude":33.787764,"longitude":-97.134537}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["720100"]={"code":"720100","region":"Batken","city":"Batken","latitude":40.06259,"longitude":70.81939}}(window,'GeoPostal','KG');

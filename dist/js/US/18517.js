@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18517"]={"code":"18517","region":"PA","city":"Taylor","latitude":41.3904,"longitude":-75.7158}}(window,'GeoPostal','US');

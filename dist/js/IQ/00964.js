@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00964"]={"code":"00964","region":"Baghdad","city":"Baghdad","latitude":33.34058,"longitude":44.40088}}(window,'GeoPostal','IQ');

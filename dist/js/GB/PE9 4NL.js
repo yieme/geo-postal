@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 4NL"]={"code":"PE9 4NL","region":"England","city":"Braceborough","latitude":52.70624,"longitude":-0.40289}}(window,'GeoPostal','GB');

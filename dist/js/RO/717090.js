@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717090"]={"code":"717090","region":"Botosani","city":"Cotusca","latitude":48.13333,"longitude":26.85}}(window,'GeoPostal','RO');

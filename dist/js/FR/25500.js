@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25500"]={"code":"25500","region":"Bourgogne-Franche-Comte","city":"Les Fins","latitude":47.07764,"longitude":6.63002}}(window,'GeoPostal','FR');

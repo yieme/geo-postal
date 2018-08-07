@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45711"]={"code":"45711","region":"Nordrhein-Westfalen","city":"Datteln","latitude":51.66667,"longitude":7.38333}}(window,'GeoPostal','DE');

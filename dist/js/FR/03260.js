@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03260"]={"code":"03260","region":"Auvergne-Rhone-Alpes","city":"Saint-Germain-des-Fosses","latitude":46.20211,"longitude":3.43245}}(window,'GeoPostal','FR');

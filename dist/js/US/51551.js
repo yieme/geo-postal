@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51551"]={"code":"51551","region":"IA","city":"Malvern","latitude":41.0074,"longitude":-95.584}}(window,'GeoPostal','US');

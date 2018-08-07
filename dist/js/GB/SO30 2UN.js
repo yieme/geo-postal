@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO30 2UN"]={"code":"SO30 2UN","region":"England","city":"Stevenage","latitude":51.90224,"longitude":-0.20256}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["622150"]={"code":"622150","region":"Sichuan","city":"Wenchang","latitude":31.63626,"longitude":105.15502}}(window,'GeoPostal','CN');

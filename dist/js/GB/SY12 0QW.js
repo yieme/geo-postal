@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY12 0QW"]={"code":"SY12 0QW","region":"England","city":"Colemere","latitude":52.88933,"longitude":-2.8429}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50250"]={"code":"50250","region":"Normandie","city":"La Haye-du-Puits","latitude":49.28973,"longitude":-1.54324}}(window,'GeoPostal','FR');

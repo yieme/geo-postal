@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0J 3E0"]={"code":"S0J 3E0","region":"Saskatchewan","city":"Candle Lake","latitude":53.7501,"longitude":-105.25094}}(window,'GeoPostal','CA');

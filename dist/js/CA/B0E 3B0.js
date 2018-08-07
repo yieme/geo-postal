@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0E 3B0"]={"code":"B0E 3B0","region":"Nova Scotia","city":"St. Peter's","latitude":45.66684,"longitude":-60.8652}}(window,'GeoPostal','CA');

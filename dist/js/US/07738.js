@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07738"]={"code":"07738","region":"New Jersey","city":"Lincroft","latitude":40.337797,"longitude":-74.123529}}(window,'GeoPostal','US');

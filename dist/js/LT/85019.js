@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85019"]={"code":"85019","region":"Siauliu apskritis","city":"Venta","latitude":56.2,"longitude":22.7}}(window,'GeoPostal','LT');

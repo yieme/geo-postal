@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18070"]={"code":"18070","region":"Pennsylvania","city":"Palm","latitude":40.4356,"longitude":-75.5406}}(window,'GeoPostal','US');

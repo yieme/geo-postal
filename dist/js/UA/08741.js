@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08741"]={"code":"08741","region":"Kyivska oblast","city":"Tripol'ye","latitude":50.11802,"longitude":30.78141}}(window,'GeoPostal','UA');

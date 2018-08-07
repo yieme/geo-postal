@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56587"]={"code":"56587","region":"Minnesota","city":"Vergas","latitude":46.65583,"longitude":-95.80611}}(window,'GeoPostal','US');

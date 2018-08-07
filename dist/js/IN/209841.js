@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["209841"]={"code":"209841","region":"Uttar Pradesh","city":"Mohan","latitude":26.78333,"longitude":80.68333}}(window,'GeoPostal','IN');

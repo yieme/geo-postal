@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83053"]={"code":"83053","region":"Campania","city":"Sant'Andrea di Conza","latitude":40.84482,"longitude":15.36966}}(window,'GeoPostal','IT');

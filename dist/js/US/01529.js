@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01529"]={"code":"01529","region":"MA","city":"Millville","latitude":42.0331,"longitude":-71.5798}}(window,'GeoPostal','US');

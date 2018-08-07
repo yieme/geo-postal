@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52507"]={"code":"52507","region":"Dnipropetrovska oblast","city":"Synel'nykove","latitude":48.32044,"longitude":35.51792}}(window,'GeoPostal','UA');

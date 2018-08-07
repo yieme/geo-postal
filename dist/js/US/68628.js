@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68628"]={"code":"68628","region":"Nebraska","city":"Clarks","latitude":41.21694,"longitude":-97.83889}}(window,'GeoPostal','US');

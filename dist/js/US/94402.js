@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94402"]={"code":"94402","region":"California","city":"San Mateo","latitude":37.547426,"longitude":-122.330592}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17027"]={"code":"17027","region":"Pennsylvania","city":"Grantham","latitude":40.15639,"longitude":-76.99639}}(window,'GeoPostal','US');

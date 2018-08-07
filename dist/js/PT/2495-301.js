@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2495-301"]={"code":"2495-301","region":"Santarem","city":"Fatima","latitude":39.62071,"longitude":-8.65237}}(window,'GeoPostal','PT');

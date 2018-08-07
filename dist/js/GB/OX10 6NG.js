@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX10 6NG"]={"code":"OX10 6NG","region":"England","city":"Benson","latitude":51.62073,"longitude":-1.10979}}(window,'GeoPostal','GB');

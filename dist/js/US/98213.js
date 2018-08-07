@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98213"]={"code":"98213","region":"WA","city":"Everett","latitude":47.9451,"longitude":-122.2269}}(window,'GeoPostal','US');

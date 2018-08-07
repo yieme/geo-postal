@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88809"]={"code":"88809","region":"Grand-Est","city":"Vittel","latitude":48.20085,"longitude":5.94843}}(window,'GeoPostal','FR');

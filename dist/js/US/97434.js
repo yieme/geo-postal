@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97434"]={"code":"97434","region":"OR","city":"Dorena","latitude":43.7361,"longitude":-122.8946}}(window,'GeoPostal','US');

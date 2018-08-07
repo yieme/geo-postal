@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70140"]={"code":"70140","region":"Ratchaburi","city":"Pak Tho","latitude":13.37263,"longitude":99.83938}}(window,'GeoPostal','TH');

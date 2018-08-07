@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75658"]={"code":"75658","region":"TX","city":"Joinerville","latitude":32.1959,"longitude":-94.9065}}(window,'GeoPostal','US');

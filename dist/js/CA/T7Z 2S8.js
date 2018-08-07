@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7Z 2S8"]={"code":"T7Z 2S8","region":"Alberta","city":"Beach Corner","latitude":53.53343,"longitude":-114.11876}}(window,'GeoPostal','CA');

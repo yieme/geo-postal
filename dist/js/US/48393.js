@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48393"]={"code":"48393","region":"Michigan","city":"Wixom","latitude":42.5201,"longitude":-83.5417}}(window,'GeoPostal','US');

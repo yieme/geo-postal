@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70902"]={"code":"70902","region":"Oaxaca","city":"Huatulco","latitude":15.84361,"longitude":-96.32667}}(window,'GeoPostal','MX');

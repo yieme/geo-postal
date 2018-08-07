@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8408"]={"code":"8408","region":"Veszprem","city":"Ajka","latitude":47.10196,"longitude":17.55892}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE1 1HT"]={"code":"PE1 1HT","region":"England","city":"Peterborough","latitude":52.57364,"longitude":-0.24777}}(window,'GeoPostal','GB');

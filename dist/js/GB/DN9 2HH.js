@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN9 2HH"]={"code":"DN9 2HH","region":"England","city":"Haxey","latitude":53.48937,"longitude":-0.8402}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["197729"]={"code":"197729","region":"Leningradskaya oblast'","city":"Yakovlevo","latitude":60.29409,"longitude":29.488}}(window,'GeoPostal','RU');

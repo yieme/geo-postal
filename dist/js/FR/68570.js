@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68570"]={"code":"68570","region":"Grand-Est","city":"Soultzmatt","latitude":47.96188,"longitude":7.23759}}(window,'GeoPostal','FR');

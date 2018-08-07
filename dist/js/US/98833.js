@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98833"]={"code":"98833","region":"WA","city":"Mazama","latitude":48.5977,"longitude":-120.388}}(window,'GeoPostal','US');

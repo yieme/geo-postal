@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13700"]={"code":"13700","region":"Castilla-La Mancha","city":"Tomelloso","latitude":39.15218,"longitude":-3.02431}}(window,'GeoPostal','ES');

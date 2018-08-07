@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17310"]={"code":"17310","region":"PA","city":"Cashtown","latitude":39.8906,"longitude":-77.3566}}(window,'GeoPostal','US');

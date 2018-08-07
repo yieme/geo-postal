@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44420"]={"code":"44420","region":"Ohio","city":"Girard","latitude":41.161569,"longitude":-80.689483}}(window,'GeoPostal','US');

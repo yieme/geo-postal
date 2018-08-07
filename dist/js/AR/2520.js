@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2520"]={"code":"2520","region":"Santa Fe","city":"Las Rosas","latitude":-32.47661,"longitude":-61.58041}}(window,'GeoPostal','AR');

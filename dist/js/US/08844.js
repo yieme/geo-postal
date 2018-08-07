@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08844"]={"code":"08844","region":"New Jersey","city":"Hillsborough","latitude":40.4775,"longitude":-74.627222}}(window,'GeoPostal','US');

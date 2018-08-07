@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68510"]={"code":"68510","region":"Grand-Est","city":"Sierentz","latitude":47.65852,"longitude":7.45426}}(window,'GeoPostal','FR');

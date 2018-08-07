@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["649000"]={"code":"649000","region":"Altay, Respublika","city":"Gorno-Altaysk","latitude":51.95611,"longitude":85.955}}(window,'GeoPostal','RU');

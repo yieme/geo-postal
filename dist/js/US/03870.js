@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03870"]={"code":"03870","region":"New Hampshire","city":"Rye","latitude":43.006228,"longitude":-70.767093}}(window,'GeoPostal','US');

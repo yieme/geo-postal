@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437200"]={"code":"437200","region":"Maramures","city":"Oarta de Jos","latitude":47.45,"longitude":23.13333}}(window,'GeoPostal','RO');

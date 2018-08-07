@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12835"]={"code":"12835","region":"NY","city":"Hadley","latitude":43.3173,"longitude":-73.8482}}(window,'GeoPostal','US');

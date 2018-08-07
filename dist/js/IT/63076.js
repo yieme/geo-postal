@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63076"]={"code":"63076","region":"Marche","city":"Monteprandone","latitude":42.92005,"longitude":13.84259}}(window,'GeoPostal','IT');

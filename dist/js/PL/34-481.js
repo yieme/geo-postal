@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-481"]={"code":"34-481","region":"Malopolskie","city":"Lipnica Mala","latitude":49.51507,"longitude":19.63497}}(window,'GeoPostal','PL');

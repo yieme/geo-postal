@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08252"]={"code":"08252","region":"NJ","city":"Whitesboro","latitude":39.0421,"longitude":-74.8618}}(window,'GeoPostal','US');

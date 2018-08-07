@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38860"]={"code":"38860","region":"MS","city":"Okolona","latitude":33.9694,"longitude":-88.7638}}(window,'GeoPostal','US');

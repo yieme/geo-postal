@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1242"]={"code":"1242","region":"Sveti Jurij","city":"Videm","latitude":46.5711,"longitude":16.0233}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16312"]={"code":"16312","region":"PA","city":"Chandlers Valley","latitude":41.9358,"longitude":-79.3097}}(window,'GeoPostal','US');

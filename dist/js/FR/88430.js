@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88430"]={"code":"88430","region":"Grand-Est","city":"Corcieux","latitude":48.17236,"longitude":6.88148}}(window,'GeoPostal','FR');

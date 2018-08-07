@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28636"]={"code":"28636","region":"NC","city":"Hiddenite","latitude":35.9504,"longitude":-81.0487}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66165"]={"code":"66165","region":"Occitanie","city":"el Volo","latitude":42.52424,"longitude":2.83336}}(window,'GeoPostal','FR');

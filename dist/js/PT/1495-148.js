@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1495-148"]={"code":"1495-148","region":"Lisboa","city":"Alges","latitude":38.70245,"longitude":-9.22936}}(window,'GeoPostal','PT');

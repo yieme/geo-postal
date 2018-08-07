@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0L 1Z0"]={"code":"N0L 1Z0","region":"Ontario","city":"Newbury","latitude":42.68339,"longitude":-81.79978}}(window,'GeoPostal','CA');

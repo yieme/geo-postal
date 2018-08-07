@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46760"]={"code":"46760","region":"Valenciana, Comunidad","city":"Tavernes de la Valldigna","latitude":39.06667,"longitude":-0.26667}}(window,'GeoPostal','ES');

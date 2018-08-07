@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25331"]={"code":"25331","region":"Chiapas","city":"Ixtacomitan","latitude":17.41667,"longitude":-93.1}}(window,'GeoPostal','MX');

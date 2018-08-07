@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39815"]={"code":"39815","region":"Georgia","city":"Attapulgus","latitude":30.74833,"longitude":-84.48389}}(window,'GeoPostal','US');

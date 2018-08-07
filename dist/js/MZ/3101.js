@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3101"]={"code":"3101","region":"Nampula","city":"Antonio Enes","latitude":-16.2325,"longitude":39.90861}}(window,'GeoPostal','MZ');

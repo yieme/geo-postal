@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57571"]={"code":"57571","region":"SD","city":"Saint Charles","latitude":43.0852,"longitude":-99.0925}}(window,'GeoPostal','US');

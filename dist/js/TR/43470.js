@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43470"]={"code":"43470","region":"Sinop","city":"Ayancik","latitude":41.94472,"longitude":34.58611}}(window,'GeoPostal','TR');

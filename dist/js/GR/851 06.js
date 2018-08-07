@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["851 06"]={"code":"851 06","region":"Notio Aigaio","city":"Embonas","latitude":36.21667,"longitude":27.86667}}(window,'GeoPostal','GR');

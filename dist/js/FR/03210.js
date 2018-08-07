@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03210"]={"code":"03210","region":"Auvergne-Rhone-Alpes","city":"Souvigny","latitude":46.53352,"longitude":3.19247}}(window,'GeoPostal','FR');

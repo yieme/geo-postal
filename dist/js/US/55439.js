@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55439"]={"code":"55439","region":"Minnesota","city":"Edina","latitude":44.87478,"longitude":-93.36624}}(window,'GeoPostal','US');

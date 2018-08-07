@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52166"]={"code":"52166","region":"Iowa","city":"Saint Lucas","latitude":43.066633,"longitude":-91.933139}}(window,'GeoPostal','US');

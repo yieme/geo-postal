@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41250"]={"code":"41250","region":"Centre-Val de Loire","city":"Bracieux","latitude":47.54895,"longitude":1.5412}}(window,'GeoPostal','FR');

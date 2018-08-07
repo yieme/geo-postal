@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["486342"]={"code":"486342","region":"Madhya Pradesh","city":"Mauganj","latitude":24.68333,"longitude":81.88333}}(window,'GeoPostal','IN');

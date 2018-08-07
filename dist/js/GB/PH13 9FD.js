@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH13 9FD"]={"code":"PH13 9FD","region":"Scotland","city":"Coupar Angus","latitude":56.54552,"longitude":-3.26774}}(window,'GeoPostal','GB');

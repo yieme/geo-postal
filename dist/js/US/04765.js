@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04765"]={"code":"04765","region":"ME","city":"Patten","latitude":46.0132,"longitude":-68.4647}}(window,'GeoPostal','US');

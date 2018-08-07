@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79600"]={"code":"79600","region":"Etela-Savo","city":"Joroinen","latitude":62.17823,"longitude":27.83165}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37640"]={"code":"37640","region":"Tennessee","city":"Butler","latitude":36.341331,"longitude":-82.2173}}(window,'GeoPostal','US');

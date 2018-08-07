@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54519"]={"code":"54519","region":"Wisconsin","city":"Conover","latitude":46.04111,"longitude":-89.28583}}(window,'GeoPostal','US');

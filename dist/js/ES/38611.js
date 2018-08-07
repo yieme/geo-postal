@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38611"]={"code":"38611","region":"Canarias","city":"Granadilla de Abona","latitude":28.11882,"longitude":-16.57599}}(window,'GeoPostal','ES');

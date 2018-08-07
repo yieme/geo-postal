@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74899"]={"code":"74899","region":"Pohjois-Savo","city":"Kiuruvesi","latitude":63.65,"longitude":26.61667}}(window,'GeoPostal','FI');

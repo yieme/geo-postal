@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["410515"]={"code":"410515","region":"Maharashtra","city":"Kalamb","latitude":19.05,"longitude":73.95}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73068"]={"code":"73068","region":"Oklahoma","city":"Noble","latitude":35.144105,"longitude":-97.363582}}(window,'GeoPostal','US');

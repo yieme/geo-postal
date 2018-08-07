@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14270"]={"code":"14270","region":"Andalucia","city":"Hinojosa del Duque","latitude":38.50057,"longitude":-5.1465}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42477"]={"code":"42477","region":"Nordrhein-Westfalen","city":"Radevormwald","latitude":51.20218,"longitude":7.36027}}(window,'GeoPostal','DE');

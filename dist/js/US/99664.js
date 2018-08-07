@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99664"]={"code":"99664","region":"Alaska","city":"Seward","latitude":60.10417,"longitude":-149.44222}}(window,'GeoPostal','US');

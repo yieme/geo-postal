@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04049"]={"code":"04049","region":"ME","city":"Limington","latitude":43.726,"longitude":-70.6752}}(window,'GeoPostal','US');

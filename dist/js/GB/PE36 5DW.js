@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE36 5DW"]={"code":"PE36 5DW","region":"England","city":"New Hunstanton","latitude":52.93653,"longitude":0.49211}}(window,'GeoPostal','GB');

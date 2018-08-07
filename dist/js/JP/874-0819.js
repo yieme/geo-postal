@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["874-0819"]={"code":"874-0819","region":"Oita","city":"Beppu","latitude":33.279528,"longitude":131.500028}}(window,'GeoPostal','JP');

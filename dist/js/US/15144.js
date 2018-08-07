@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15144"]={"code":"15144","region":"PA","city":"Springdale","latitude":40.544,"longitude":-79.7844}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10331"]={"code":"10331","region":"Extremadura","city":"Carrascalejo","latitude":39.63333,"longitude":-5.21667}}(window,'GeoPostal','ES');

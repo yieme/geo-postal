@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1914"]={"code":"1914","region":"Gauteng","city":"Vanderbijlpark","latitude":-26.71171,"longitude":27.83795}}(window,'GeoPostal','ZA');

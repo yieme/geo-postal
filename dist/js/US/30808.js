@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30808"]={"code":"30808","region":"GA","city":"Dearing","latitude":33.407,"longitude":-82.3955}}(window,'GeoPostal','US');

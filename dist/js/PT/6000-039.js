@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6000-039"]={"code":"6000-039","region":"Guarda","city":"Alcains","latitude":39.91642,"longitude":-7.45655}}(window,'GeoPostal','PT');

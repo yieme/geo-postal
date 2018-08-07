@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44660"]={"code":"44660","region":"Pays-de-la-Loire","city":"Rouge","latitude":47.78367,"longitude":-1.44763}}(window,'GeoPostal','FR');

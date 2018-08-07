@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV51 9JY"]={"code":"IV51 9JY","region":"Scotland","city":"Stenscholl","latitude":57.63333,"longitude":-6.23333}}(window,'GeoPostal','GB');

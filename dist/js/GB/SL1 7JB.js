@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL1 7JB"]={"code":"SL1 7JB","region":"England","city":"Burnham","latitude":51.53534,"longitude":-0.66579}}(window,'GeoPostal','GB');

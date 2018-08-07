@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91100"]={"code":"91100","region":"Ile-de-France","city":"Villabe","latitude":48.58949,"longitude":2.45096}}(window,'GeoPostal','FR');

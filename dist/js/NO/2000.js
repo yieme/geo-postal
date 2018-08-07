@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2000"]={"code":"2000","region":"Akershus","city":"Lillestrom","latitude":59.95597,"longitude":11.04918}}(window,'GeoPostal','NO');

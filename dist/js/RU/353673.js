@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353673"]={"code":"353673","region":"Krasnodarskiy kray","city":"Yasenskaya","latitude":46.3592,"longitude":38.269}}(window,'GeoPostal','RU');

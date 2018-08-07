@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP19 0HP"]={"code":"IP19 0HP","region":"England","city":"Saint James","latitude":52.37832,"longitude":1.40724}}(window,'GeoPostal','GB');

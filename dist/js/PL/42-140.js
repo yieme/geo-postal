@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-140"]={"code":"42-140","region":"Slaskie","city":"Panki","latitude":50.88333,"longitude":18.7516}}(window,'GeoPostal','PL');

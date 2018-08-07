@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19361"]={"code":"19361","region":"Nouvelle-Aquitaine","city":"Malemort-sur-Correze","latitude":45.17009,"longitude":1.56193}}(window,'GeoPostal','FR');

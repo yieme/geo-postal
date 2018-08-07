@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64874"]={"code":"64874","region":"Missouri","city":"Wheaton","latitude":36.762919,"longitude":-94.059333}}(window,'GeoPostal','US');

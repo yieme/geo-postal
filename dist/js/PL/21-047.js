@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-047"]={"code":"21-047","region":"Lubelskie","city":"Swidnik","latitude":51.21898,"longitude":22.69621}}(window,'GeoPostal','PL');

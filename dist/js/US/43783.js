@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43783"]={"code":"43783","region":"Ohio","city":"Somerset","latitude":39.80701,"longitude":-82.29709}}(window,'GeoPostal','US');

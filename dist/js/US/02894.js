@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02894"]={"code":"02894","region":"RI","city":"Wood River Junction","latitude":41.45,"longitude":-71.7074}}(window,'GeoPostal','US');

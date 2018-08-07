@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5831"]={"code":"5831","region":"Noord-Brabant","city":"Boxmeer","latitude":51.64667,"longitude":5.94722}}(window,'GeoPostal','NL');

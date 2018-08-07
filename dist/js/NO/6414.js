@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6414"]={"code":"6414","region":"More og Romsdal","city":"Molde","latitude":62.73752,"longitude":7.15912}}(window,'GeoPostal','NO');

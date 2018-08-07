@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06740"]={"code":"06740","region":"Extremadura","city":"Orellana la Vieja","latitude":39.00617,"longitude":-5.53441}}(window,'GeoPostal','ES');

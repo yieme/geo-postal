@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62464"]={"code":"62464","region":"IL","city":"Stoy","latitude":38.9898,"longitude":-87.8396}}(window,'GeoPostal','US');

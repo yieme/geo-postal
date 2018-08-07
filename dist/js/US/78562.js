@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78562"]={"code":"78562","region":"TX","city":"La Villa","latitude":26.2999,"longitude":-97.9247}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38464"]={"code":"38464","region":"Tennessee","city":"Lawrenceburg","latitude":35.2423,"longitude":-87.33474}}(window,'GeoPostal','US');

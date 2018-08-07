@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93960"]={"code":"93960","region":"Veracruz de Ignacio de la Llave","city":"Vega de Alatorre","latitude":20.03333,"longitude":-96.63333}}(window,'GeoPostal','MX');

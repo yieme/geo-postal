@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38846"]={"code":"38846","region":"Mississippi","city":"Glen","latitude":34.845135,"longitude":-88.421958}}(window,'GeoPostal','US');

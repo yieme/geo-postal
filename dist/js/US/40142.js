@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40142"]={"code":"40142","region":"KY","city":"Guston","latitude":37.8951,"longitude":-86.2155}}(window,'GeoPostal','US');

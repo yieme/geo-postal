@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37142"]={"code":"37142","region":"TN","city":"Palmyra","latitude":36.4176,"longitude":-87.4914}}(window,'GeoPostal','US');

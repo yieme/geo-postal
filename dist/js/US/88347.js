@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88347"]={"code":"88347","region":"NM","city":"Sacramento","latitude":32.8052,"longitude":-105.6211}}(window,'GeoPostal','US');

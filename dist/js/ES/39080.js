@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39080"]={"code":"39080","region":"Cantabria","city":"Santander","latitude":43.46472,"longitude":-3.80444}}(window,'GeoPostal','ES');

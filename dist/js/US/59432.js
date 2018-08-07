@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59432"]={"code":"59432","region":"MT","city":"Dupuyer","latitude":48.1925,"longitude":-112.4995}}(window,'GeoPostal','US');

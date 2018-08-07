@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA4 3NF"]={"code":"TA4 3NF","region":"England","city":"Ash Priors","latitude":51.05778,"longitude":-3.2125}}(window,'GeoPostal','GB');

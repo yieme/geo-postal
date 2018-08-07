@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51901"]={"code":"51901","region":"Etela-Savo","city":"Juva","latitude":61.9,"longitude":27.85}}(window,'GeoPostal','FI');

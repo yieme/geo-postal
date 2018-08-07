@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70345"]={"code":"70345","region":"LA","city":"Cut Off","latitude":29.5232,"longitude":-90.3393}}(window,'GeoPostal','US');

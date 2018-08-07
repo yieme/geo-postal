@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7050"]={"code":"7050","region":"Graubunden","city":"Arosa","latitude":46.77793,"longitude":9.67621}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73439"]={"code":"73439","region":"OK","city":"Kingston","latitude":33.9517,"longitude":-96.712}}(window,'GeoPostal','US');

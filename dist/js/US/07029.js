@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07029"]={"code":"07029","region":"New Jersey","city":"Harrison","latitude":40.74336,"longitude":-74.15208}}(window,'GeoPostal','US');

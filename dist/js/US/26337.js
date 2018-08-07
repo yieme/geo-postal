@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26337"]={"code":"26337","region":"WV","city":"Cairo","latitude":39.2325,"longitude":-81.1554}}(window,'GeoPostal','US');

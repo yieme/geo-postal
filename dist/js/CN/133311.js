@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133311"]={"code":"133311","region":"Jilin","city":"Xitumenzi","latitude":43.19514,"longitude":131.07257}}(window,'GeoPostal','CN');

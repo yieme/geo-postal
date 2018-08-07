@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA16 6NS"]={"code":"CA16 6NS","region":"England","city":"Croasdale","latitude":54.55,"longitude":-2.4}}(window,'GeoPostal','GB');

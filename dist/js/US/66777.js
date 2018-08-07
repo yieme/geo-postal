@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66777"]={"code":"66777","region":"Kansas","city":"Toronto","latitude":37.79879,"longitude":-95.949218}}(window,'GeoPostal','US');

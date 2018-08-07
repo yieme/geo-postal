@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5612"]={"code":"5612","region":"Salzburg","city":"Huttschlag","latitude":47.16667,"longitude":13.23333}}(window,'GeoPostal','AT');

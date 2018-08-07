@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55361"]={"code":"55361","region":"MN","city":"Minnetonka Beach","latitude":44.9402,"longitude":-93.5927}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48073"]={"code":"48073","region":"Michigan","city":"Royal Oak","latitude":42.519009,"longitude":-83.165457}}(window,'GeoPostal','US');

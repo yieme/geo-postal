@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62627"]={"code":"62627","region":"IL","city":"Chandlerville","latitude":40.0374,"longitude":-90.1163}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571531"]={"code":"571531","region":"Hainan","city":"Nanqiao","latitude":18.66813,"longitude":110.12505}}(window,'GeoPostal','CN');

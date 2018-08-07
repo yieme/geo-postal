@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369114"]={"code":"369114","region":"Karachayevo-Cherkesskaya Respublika","city":"Udarnyy","latitude":44.34917,"longitude":42.50528}}(window,'GeoPostal','RU');

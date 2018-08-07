@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21035"]={"code":"21035","region":"Maryland","city":"Davidsonville","latitude":38.93858,"longitude":-76.629985}}(window,'GeoPostal','US');

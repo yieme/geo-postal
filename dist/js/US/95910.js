@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95910"]={"code":"95910","region":"CA","city":"Alleghany","latitude":39.4826,"longitude":-120.8483}}(window,'GeoPostal','US');

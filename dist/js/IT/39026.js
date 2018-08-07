@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39026"]={"code":"39026","region":"Trentino-Alto Adige","city":"Prato allo Stelvio","latitude":46.61901,"longitude":10.59136}}(window,'GeoPostal','IT');

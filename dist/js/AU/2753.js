@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2753"]={"code":"2753","region":"New South Wales","city":"Bowen Mountain","latitude":-33.57192,"longitude":150.62563}}(window,'GeoPostal','AU');

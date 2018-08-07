@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79734"]={"code":"79734","region":"Texas","city":"Fort Davis","latitude":30.58821,"longitude":-103.89463}}(window,'GeoPostal','US');

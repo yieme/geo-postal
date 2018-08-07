@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157204"]={"code":"157204","region":"Heilongjiang","city":"Daohe","latitude":44.03321,"longitude":130.82857}}(window,'GeoPostal','CN');

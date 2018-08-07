@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88054"]={"code":"88054","region":"Calabria","city":"Sersale","latitude":39.01089,"longitude":16.72691}}(window,'GeoPostal','IT');

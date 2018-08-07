@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38369"]={"code":"38369","region":"Tennessee","city":"Rutherford","latitude":36.12757,"longitude":-88.9859}}(window,'GeoPostal','US');

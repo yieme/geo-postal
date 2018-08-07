@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94107"]={"code":"94107","region":"Bayern","city":"Taubing","latitude":48.5862,"longitude":13.66871}}(window,'GeoPostal','DE');

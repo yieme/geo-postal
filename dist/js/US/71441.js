@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71441"]={"code":"71441","region":"Louisiana","city":"Kelly","latitude":32.002681,"longitude":-92.148236}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95245"]={"code":"95245","region":"California","city":"Mokelumne Hill","latitude":38.30056,"longitude":-120.70639}}(window,'GeoPostal','US');

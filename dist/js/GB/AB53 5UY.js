@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB53 5UY"]={"code":"AB53 5UY","region":"Scotland","city":"Newbyth","latitude":57.56667,"longitude":-2.3}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16560"]={"code":"16560","region":"Nouvelle-Aquitaine","city":"Tourriers","latitude":45.7983,"longitude":0.1925}}(window,'GeoPostal','FR');

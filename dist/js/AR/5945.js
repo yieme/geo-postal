@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5945"]={"code":"5945","region":"Cordoba","city":"Sacanta","latitude":-31.663,"longitude":-63.04505}}(window,'GeoPostal','AR');

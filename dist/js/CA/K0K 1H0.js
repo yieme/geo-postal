@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 1H0"]={"code":"K0K 1H0","region":"Ontario","city":"Brighton","latitude":44.03342,"longitude":-77.73279}}(window,'GeoPostal','CA');

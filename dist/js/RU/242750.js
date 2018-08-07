@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242750"]={"code":"242750","region":"Bryanskaya oblast'","city":"Dubrovka","latitude":53.6907,"longitude":33.5071}}(window,'GeoPostal','RU');

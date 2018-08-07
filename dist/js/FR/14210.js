@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14210"]={"code":"14210","region":"Normandie","city":"Cheux","latitude":49.16611,"longitude":-0.52544}}(window,'GeoPostal','FR');

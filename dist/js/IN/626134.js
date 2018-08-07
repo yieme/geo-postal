@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626134"]={"code":"626134","region":"Tamil Nadu","city":"Kombai","latitude":9.83333,"longitude":77.31667}}(window,'GeoPostal','IN');

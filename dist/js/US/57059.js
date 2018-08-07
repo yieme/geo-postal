@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57059"]={"code":"57059","region":"SD","city":"Scotland","latitude":43.1212,"longitude":-97.7296}}(window,'GeoPostal','US');

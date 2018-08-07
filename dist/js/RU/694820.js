@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694820"]={"code":"694820","region":"Sakhalinskaya oblast'","city":"Tomari","latitude":47.76583,"longitude":142.06833}}(window,'GeoPostal','RU');

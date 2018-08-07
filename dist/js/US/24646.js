@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24646"]={"code":"24646","region":"VA","city":"Rowe","latitude":37.1276,"longitude":-82.0274}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY8 3BX"]={"code":"SY8 3BX","region":"England","city":"Greet","latitude":52.33333,"longitude":-2.63333}}(window,'GeoPostal','GB');

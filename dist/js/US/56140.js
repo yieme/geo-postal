@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56140"]={"code":"56140","region":"MN","city":"Ihlen","latitude":43.9072,"longitude":-96.3673}}(window,'GeoPostal','US');

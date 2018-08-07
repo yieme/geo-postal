@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21856"]={"code":"21856","region":"MD","city":"Quantico","latitude":38.3339,"longitude":-75.7851}}(window,'GeoPostal','US');

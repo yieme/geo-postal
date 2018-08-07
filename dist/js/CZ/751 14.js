@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["751 14"]={"code":"751 14","region":"Olomoucky kraj","city":"Drevohostice","latitude":49.42594,"longitude":17.59204}}(window,'GeoPostal','CZ');

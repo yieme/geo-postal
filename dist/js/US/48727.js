@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48727"]={"code":"48727","region":"MI","city":"Clifford","latitude":43.31,"longitude":-83.1741}}(window,'GeoPostal','US');

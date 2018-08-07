@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE74 2LN"]={"code":"DE74 2LN","region":"England","city":"Donington","latitude":52.90461,"longitude":-0.20505}}(window,'GeoPostal','GB');

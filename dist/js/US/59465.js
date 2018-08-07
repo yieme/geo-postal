@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59465"]={"code":"59465","region":"MT","city":"Neihart","latitude":46.9391,"longitude":-110.7328}}(window,'GeoPostal','US');

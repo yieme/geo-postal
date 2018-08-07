@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50628"]={"code":"50628","region":"IA","city":"Elma","latitude":43.2786,"longitude":-92.3981}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-026"]={"code":"26-026","region":"Swietokrzyskie","city":"Morawica","latitude":50.74678,"longitude":20.61756}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38046"]={"code":"38046","region":"TN","city":"La Grange","latitude":35.0454,"longitude":-89.2437}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L5T 2B7"]={"code":"L5T 2B7","region":"Ontario","city":"Malton","latitude":43.663852,"longitude":-79.67463}}(window,'GeoPostal','CA');

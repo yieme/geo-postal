@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8700-199"]={"code":"8700-199","region":"Faro","city":"Olhao","latitude":37.0286,"longitude":-7.8411}}(window,'GeoPostal','PT');

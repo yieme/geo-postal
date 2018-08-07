@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96058"]={"code":"96058","region":"California","city":"Macdoel","latitude":41.82667,"longitude":-122.00528}}(window,'GeoPostal','US');

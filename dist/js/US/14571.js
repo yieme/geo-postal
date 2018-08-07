@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14571"]={"code":"14571","region":"New York","city":"Waterport","latitude":43.347516,"longitude":-78.248238}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3016"]={"code":"3016","region":"Victoria","city":"Williamstown","latitude":-37.857,"longitude":144.89769}}(window,'GeoPostal','AU');

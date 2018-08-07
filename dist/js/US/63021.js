@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63021"]={"code":"63021","region":"Missouri","city":"Ellisville","latitude":38.57645,"longitude":-90.528696}}(window,'GeoPostal','US');

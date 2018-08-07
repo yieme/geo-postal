@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7116"]={"code":"7116","region":"Tasmania","city":"Geeveston","latitude":-43.16337,"longitude":146.92549}}(window,'GeoPostal','AU');

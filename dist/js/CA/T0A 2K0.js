@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 2K0"]={"code":"T0A 2K0","region":"Alberta","city":"Mallaig","latitude":54.21688,"longitude":-111.36852}}(window,'GeoPostal','CA');

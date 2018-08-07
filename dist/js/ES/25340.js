@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25340"]={"code":"25340","region":"Catalunya","city":"Verdu","latitude":41.61057,"longitude":1.14284}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85402"]={"code":"85402","region":"Bayern","city":"Kranzberg","latitude":48.40613,"longitude":11.61246}}(window,'GeoPostal','DE');

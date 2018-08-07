@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03460"]={"code":"03460","region":"Valenciana, Comunidad","city":"Beneixama","latitude":38.7,"longitude":-0.76667}}(window,'GeoPostal','ES');

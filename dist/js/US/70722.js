@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70722"]={"code":"70722","region":"Louisiana","city":"Clinton","latitude":30.711293,"longitude":-90.899517}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H107"]={"code":"H107","region":"Hhohho","city":"Lobamba","latitude":-26.46667,"longitude":31.2}}(window,'GeoPostal','SZ');

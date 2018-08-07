@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7940"]={"code":"7940","region":"Baranya","city":"Szentlorinc","latitude":46.04016,"longitude":17.98719}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713434"]={"code":"713434","region":"West Bengal","city":"Barddhaman","latitude":23.25,"longitude":87.85}}(window,'GeoPostal','IN');

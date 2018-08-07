@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA1 2NE"]={"code":"BA1 2NE","region":"England","city":"Bristol","latitude":51.45523,"longitude":-2.59665}}(window,'GeoPostal','GB');

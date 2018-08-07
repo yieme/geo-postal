@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28227"]={"code":"28227","region":"North Carolina","city":"Mint Hill","latitude":35.17959,"longitude":-80.64729}}(window,'GeoPostal','US');

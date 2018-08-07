@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50032"]={"code":"50032","region":"IA","city":"Berwick","latitude":41.6658,"longitude":-93.5432}}(window,'GeoPostal','US');

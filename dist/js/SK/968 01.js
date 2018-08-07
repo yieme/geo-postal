@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["968 01"]={"code":"968 01","region":"Banskobystricky kraj","city":"Nova Bana","latitude":48.42305,"longitude":18.64037}}(window,'GeoPostal','SK');

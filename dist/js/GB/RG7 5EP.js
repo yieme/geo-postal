@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG7 5EP"]={"code":"RG7 5EP","region":"England","city":"Englefield","latitude":51.44251,"longitude":-1.10164}}(window,'GeoPostal','GB');

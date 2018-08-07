@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL13 2BA"]={"code":"DL13 2BA","region":"England","city":"Rookhope","latitude":54.78106,"longitude":-2.09668}}(window,'GeoPostal','GB');

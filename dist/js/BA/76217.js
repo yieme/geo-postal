@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76217"]={"code":"76217","region":"Republika Srpska","city":"Bosanski Brod","latitude":45.1375,"longitude":17.98972}}(window,'GeoPostal','BA');

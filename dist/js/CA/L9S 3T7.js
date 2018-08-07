@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9S 3T7"]={"code":"L9S 3T7","region":"Ontario","city":"Bon Secours Beach","latitude":44.33341,"longitude":-79.53293}}(window,'GeoPostal','CA');

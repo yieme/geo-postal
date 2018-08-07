@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187349"]={"code":"187349","region":"Leningradskaya oblast'","city":"Kirovsk","latitude":59.88101,"longitude":30.99507}}(window,'GeoPostal','RU');

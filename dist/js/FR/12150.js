@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12150"]={"code":"12150","region":"Occitanie","city":"Severac-le-Chateau","latitude":44.32429,"longitude":3.05929}}(window,'GeoPostal','FR');

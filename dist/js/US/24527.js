@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24527"]={"code":"24527","region":"VA","city":"Blairs","latitude":36.6799,"longitude":-79.3731}}(window,'GeoPostal','US');

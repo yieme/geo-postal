@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7330"]={"code":"7330","region":"Razgrad","city":"Zavet","latitude":43.76667,"longitude":26.66667}}(window,'GeoPostal','BG');

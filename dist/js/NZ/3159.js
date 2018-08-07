@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3159"]={"code":"3159","region":"Bay of Plenty","city":"Whakatane","latitude":-37.95855,"longitude":176.98545}}(window,'GeoPostal','NZ');

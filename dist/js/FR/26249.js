@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26249"]={"code":"26249","region":"Auvergne-Rhone-Alpes","city":"Saint-Vallier","latitude":45.17592,"longitude":4.81514}}(window,'GeoPostal','FR');

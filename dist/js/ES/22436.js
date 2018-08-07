@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22436"]={"code":"22436","region":"Aragon","city":"Graus","latitude":42.18885,"longitude":0.33749}}(window,'GeoPostal','ES');

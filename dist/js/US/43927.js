@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43927"]={"code":"43927","region":"OH","city":"Fairpoint","latitude":40.1225,"longitude":-80.938}}(window,'GeoPostal','US');

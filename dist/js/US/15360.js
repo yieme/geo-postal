@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15360"]={"code":"15360","region":"PA","city":"Scenery Hill","latitude":40.0859,"longitude":-80.0703}}(window,'GeoPostal','US');

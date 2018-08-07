@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41862"]={"code":"41862","region":"Kentucky","city":"Topmost","latitude":37.324722,"longitude":-82.768056}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05260"]={"code":"05260","region":"VT","city":"North Pownal","latitude":42.8098,"longitude":-73.2534}}(window,'GeoPostal','US');

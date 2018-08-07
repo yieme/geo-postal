@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84180"]={"code":"84180","region":"Sonora","city":"Naco","latitude":31.33472,"longitude":-109.94833}}(window,'GeoPostal','MX');

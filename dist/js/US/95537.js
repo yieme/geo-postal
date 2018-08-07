@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95537"]={"code":"95537","region":"CA","city":"Fields Landing","latitude":40.7268,"longitude":-124.2174}}(window,'GeoPostal','US');

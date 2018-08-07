@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0P 1K0"]={"code":"L0P 1K0","region":"Ontario","city":"Delrex","latitude":43.646919,"longitude":-79.858526}}(window,'GeoPostal','CA');

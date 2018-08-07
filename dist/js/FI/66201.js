@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66201"]={"code":"66201","region":"Pohjanmaa","city":"Korsnas","latitude":62.78333,"longitude":21.2}}(window,'GeoPostal','FI');

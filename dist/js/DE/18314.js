@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18314"]={"code":"18314","region":"Mecklenburg-Vorpommern","city":"Neuendorf Heide","latitude":54.34045,"longitude":12.54759}}(window,'GeoPostal','DE');

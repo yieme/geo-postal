@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["552 03"]={"code":"552 03","region":"Kralovehradecky kraj","city":"Ceska Skalice","latitude":50.39467,"longitude":16.04276}}(window,'GeoPostal','CZ');

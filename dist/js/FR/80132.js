@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80132"]={"code":"80132","region":"Hauts-de-France","city":"Huchenneville","latitude":50.0517,"longitude":1.8008}}(window,'GeoPostal','FR');

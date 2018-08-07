@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81226"]={"code":"81226","region":"Colorado","city":"Florence","latitude":38.37006,"longitude":-105.11976}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65923-000"]={"code":"65923-000","region":"Maranhao","city":"Amarante do Maranhao","latitude":-5.56667,"longitude":-46.74222}}(window,'GeoPostal','BR');

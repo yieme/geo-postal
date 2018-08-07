@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18181"]={"code":"18181","region":"Andalucia","city":"Darro","latitude":37.34987,"longitude":-3.29465}}(window,'GeoPostal','ES');

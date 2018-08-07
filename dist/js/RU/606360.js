@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606360"]={"code":"606360","region":"Nizhegorodskaya oblast'","city":"Bol'shoye Murashkino","latitude":55.78261,"longitude":44.77541}}(window,'GeoPostal','RU');

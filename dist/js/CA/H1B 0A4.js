@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H1B 0A4"]={"code":"H1B 0A4","region":"Quebec","city":"Montreal-Est","latitude":45.63202,"longitude":-73.5075}}(window,'GeoPostal','CA');

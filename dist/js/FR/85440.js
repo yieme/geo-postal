@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85440"]={"code":"85440","region":"Pays-de-la-Loire","city":"Avrille","latitude":46.4684,"longitude":-1.48049}}(window,'GeoPostal','FR');

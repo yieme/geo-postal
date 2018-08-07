@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41240"]={"code":"41240","region":"Kentucky","city":"Paintsville","latitude":37.81454,"longitude":-82.80711}}(window,'GeoPostal','US');

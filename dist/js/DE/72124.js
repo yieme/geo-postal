@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72124"]={"code":"72124","region":"Baden-Wurttemberg","city":"Pliezhausen","latitude":48.55934,"longitude":9.20749}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27024"]={"code":"27024","region":"Lombardia","city":"Cilavegna","latitude":45.31006,"longitude":8.74474}}(window,'GeoPostal','IT');

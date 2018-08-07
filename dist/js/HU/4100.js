@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4100"]={"code":"4100","region":"Hajdu-Bihar","city":"Berettyoujfalu","latitude":47.21667,"longitude":21.55}}(window,'GeoPostal','HU');

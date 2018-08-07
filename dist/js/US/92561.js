@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92561"]={"code":"92561","region":"CA","city":"Mountain Center","latitude":33.7042,"longitude":-116.7259}}(window,'GeoPostal','US');

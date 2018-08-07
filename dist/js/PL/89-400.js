@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-400"]={"code":"89-400","region":"Kujawsko-pomorskie","city":"Sepolno Krajenskie","latitude":53.45198,"longitude":17.53169}}(window,'GeoPostal','PL');

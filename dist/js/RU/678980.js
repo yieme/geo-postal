@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678980"]={"code":"678980","region":"Saha, Respublika","city":"Serebryanyy Bor","latitude":56.8,"longitude":124.8}}(window,'GeoPostal','RU');

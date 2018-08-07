@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25393"]={"code":"25393","region":"Sumatera Barat","city":"Muara Siberut","latitude":-1.59787,"longitude":99.21097}}(window,'GeoPostal','ID');

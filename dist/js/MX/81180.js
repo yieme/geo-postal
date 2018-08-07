@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81180"]={"code":"81180","region":"Sinaloa","city":"Compuertas","latitude":25.45,"longitude":-108.35}}(window,'GeoPostal','MX');

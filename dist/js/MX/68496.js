@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68496"]={"code":"68496","region":"Oaxaca","city":"Santo Domingo Tehuantepec","latitude":16.33333,"longitude":-95.23333}}(window,'GeoPostal','MX');

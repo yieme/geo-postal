@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21015"]={"code":"21015","region":"Lombardia","city":"Lonate Pozzolo","latitude":45.59677,"longitude":8.75474}}(window,'GeoPostal','IT');

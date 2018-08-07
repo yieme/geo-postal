@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18280"]={"code":"18280","region":"Andalucia","city":"Algarinejo","latitude":37.32526,"longitude":-4.1585}}(window,'GeoPostal','ES');

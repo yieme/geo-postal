@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69412"]={"code":"69412","region":"Baden-Wurttemberg","city":"Rockenau","latitude":49.44576,"longitude":8.99806}}(window,'GeoPostal','DE');

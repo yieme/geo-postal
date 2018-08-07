@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14126"]={"code":"14126","region":"NY","city":"Olcott","latitude":43.3378,"longitude":-78.7148}}(window,'GeoPostal','US');

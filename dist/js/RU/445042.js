@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445042"]={"code":"445042","region":"Samarskaya oblast'","city":"Tolyatti","latitude":53.5303,"longitude":49.3461}}(window,'GeoPostal','RU');

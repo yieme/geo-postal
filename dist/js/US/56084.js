@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56084"]={"code":"56084","region":"MN","city":"Searles","latitude":44.2286,"longitude":-94.4347}}(window,'GeoPostal','US');

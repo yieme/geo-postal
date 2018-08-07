@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52171"]={"code":"52171","region":"Iowa","city":"Waucoma","latitude":43.061189,"longitude":-91.990039}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02002"]={"code":"02002","region":"Chlef","city":"Boukadir","latitude":36.06629,"longitude":1.12602}}(window,'GeoPostal','DZ');

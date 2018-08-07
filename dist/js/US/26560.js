@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26560"]={"code":"26560","region":"WV","city":"Baxter","latitude":39.544,"longitude":-80.1423}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50043"]={"code":"50043","region":"IA","city":"Buckeye","latitude":42.4179,"longitude":-93.3755}}(window,'GeoPostal','US');

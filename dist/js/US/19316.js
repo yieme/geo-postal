@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19316"]={"code":"19316","region":"PA","city":"Brandamore","latitude":40.055,"longitude":-75.8378}}(window,'GeoPostal','US');

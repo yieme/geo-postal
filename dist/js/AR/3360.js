@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3360"]={"code":"3360","region":"Misiones","city":"Obera","latitude":-27.48706,"longitude":-55.11994}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01462"]={"code":"01462","region":"Massachusetts","city":"Lunenburg","latitude":42.588601,"longitude":-71.730467}}(window,'GeoPostal','US');

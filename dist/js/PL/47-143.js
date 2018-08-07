@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-143"]={"code":"47-143","region":"Opolskie","city":"Slawiecice","latitude":50.37207,"longitude":18.32176}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11118"]={"code":"11118","region":"Beograd","city":"Belgrade","latitude":44.80401,"longitude":20.46513}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9073"]={"code":"9073","region":"Gyor-Moson-Sopron","city":"Bony","latitude":47.65,"longitude":17.86977}}(window,'GeoPostal','HU');

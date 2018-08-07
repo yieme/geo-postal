@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12035"]={"code":"12035","region":"Piemonte","city":"Racconigi","latitude":44.76984,"longitude":7.67893}}(window,'GeoPostal','IT');

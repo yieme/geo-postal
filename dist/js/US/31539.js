@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31539"]={"code":"31539","region":"Georgia","city":"Hazlehurst","latitude":31.86963,"longitude":-82.5943}}(window,'GeoPostal','US');

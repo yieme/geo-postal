@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59180"]={"code":"59180","region":"Michoacan de Ocampo","city":"Pajacuaran","latitude":20.11667,"longitude":-102.56667}}(window,'GeoPostal','MX');

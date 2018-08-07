@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65710"]={"code":"65710","region":"MO","city":"Morrisville","latitude":37.4686,"longitude":-93.4275}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19889"]={"code":"19889","region":"DE","city":"Beneficial Natl Bank","latitude":39.74,"longitude":-75.54}}(window,'GeoPostal','US');

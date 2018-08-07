@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76255"]={"code":"76255","region":"Texas","city":"Nocona","latitude":33.797514,"longitude":-97.71232}}(window,'GeoPostal','US');

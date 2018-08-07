@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL74 8WY"]={"code":"LL74 8WY","region":"Wales","city":"Benllech","latitude":53.32044,"longitude":-4.22607}}(window,'GeoPostal','GB');

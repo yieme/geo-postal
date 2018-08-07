@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99155"]={"code":"99155","region":"Washington","city":"Nespelem","latitude":48.16639,"longitude":-118.97556}}(window,'GeoPostal','US');

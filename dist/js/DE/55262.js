@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55262"]={"code":"55262","region":"Rheinland-Pfalz","city":"Heidenfahrt","latitude":50.00807,"longitude":8.09692}}(window,'GeoPostal','DE');

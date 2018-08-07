@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94415"]={"code":"94415","region":"Luhanska oblast","city":"Molodogvardeysk","latitude":48.34578,"longitude":39.65824}}(window,'GeoPostal','UA');

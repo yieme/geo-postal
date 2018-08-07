@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137100"]={"code":"137100","region":"Jilin","city":"Taonan","latitude":45.33333,"longitude":122.78333}}(window,'GeoPostal','CN');

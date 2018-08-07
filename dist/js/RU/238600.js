@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238600"]={"code":"238600","region":"Kaliningradskaya oblast'","city":"Slavsk","latitude":55.0425,"longitude":21.67704}}(window,'GeoPostal','RU');

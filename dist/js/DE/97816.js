@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97816"]={"code":"97816","region":"Bayern","city":"Lohr","latitude":49.32854,"longitude":10.16878}}(window,'GeoPostal','DE');

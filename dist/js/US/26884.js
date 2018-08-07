@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26884"]={"code":"26884","region":"West Virginia","city":"Seneca Rocks","latitude":38.843203,"longitude":-79.381862}}(window,'GeoPostal','US');

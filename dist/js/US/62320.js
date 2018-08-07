@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62320"]={"code":"62320","region":"Illinois","city":"Camp Point","latitude":40.041185,"longitude":-91.064912}}(window,'GeoPostal','US');

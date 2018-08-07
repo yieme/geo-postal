@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE15 0QS"]={"code":"PE15 0QS","region":"England","city":"Wimblington","latitude":52.50925,"longitude":0.08416}}(window,'GeoPostal','GB');

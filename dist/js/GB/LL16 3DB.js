@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL16 3DB"]={"code":"LL16 3DB","region":"Wales","city":"Denbigh","latitude":53.18333,"longitude":-3.41667}}(window,'GeoPostal','GB');

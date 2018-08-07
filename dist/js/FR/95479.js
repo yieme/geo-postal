@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95479"]={"code":"95479","region":"Ile-de-France","city":"Fosses","latitude":49.09808,"longitude":2.50957}}(window,'GeoPostal','FR');

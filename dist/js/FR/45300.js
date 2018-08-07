@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45300"]={"code":"45300","region":"Centre-Val de Loire","city":"Pithiviers-le-Vieil","latitude":48.16313,"longitude":2.20922}}(window,'GeoPostal','FR');

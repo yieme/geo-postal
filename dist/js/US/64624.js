@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64624"]={"code":"64624","region":"Missouri","city":"Braymer","latitude":39.592462,"longitude":-93.790029}}(window,'GeoPostal','US');

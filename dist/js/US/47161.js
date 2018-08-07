@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47161"]={"code":"47161","region":"IN","city":"New Salisbury","latitude":38.3399,"longitude":-86.0887}}(window,'GeoPostal','US');

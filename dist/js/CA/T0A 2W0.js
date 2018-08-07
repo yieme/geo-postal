@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 2W0"]={"code":"T0A 2W0","region":"Alberta","city":"Redwater","latitude":53.95015,"longitude":-113.10199}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5743"]={"code":"5743","region":"Salzburg","city":"Krimml","latitude":47.21667,"longitude":12.18333}}(window,'GeoPostal','AT');

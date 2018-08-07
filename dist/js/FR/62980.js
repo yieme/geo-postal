@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62980"]={"code":"62980","region":"Hauts-de-France","city":"Vermelles","latitude":50.48949,"longitude":2.74739}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3019"]={"code":"3019","region":"Sirak","city":"Anushavan","latitude":40.65013,"longitude":43.97756}}(window,'GeoPostal','AM');

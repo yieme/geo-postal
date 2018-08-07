@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40176"]={"code":"40176","region":"Kentucky","city":"Webster","latitude":37.92748,"longitude":-86.395601}}(window,'GeoPostal','US');

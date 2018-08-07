@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00012"]={"code":"00012","region":"Lazio","city":"Guidonia Montecelio","latitude":41.99362,"longitude":12.72238}}(window,'GeoPostal','IT');

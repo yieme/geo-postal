@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65028"]={"code":"65028","region":"Abruzzo","city":"Tocco da Casauria","latitude":42.21374,"longitude":13.9135}}(window,'GeoPostal','IT');

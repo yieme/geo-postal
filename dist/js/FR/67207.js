@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67207"]={"code":"67207","region":"Grand-Est","city":"Niederhausbergen","latitude":48.624,"longitude":7.7021}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS27 3AA"]={"code":"BS27 3AA","region":"England","city":"Cheddar","latitude":51.27537,"longitude":-2.77662}}(window,'GeoPostal','GB');

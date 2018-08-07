@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48853"]={"code":"48853","region":"MI","city":"Maple Rapids","latitude":43.0992,"longitude":-84.6898}}(window,'GeoPostal','US');

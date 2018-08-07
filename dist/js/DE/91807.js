@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91807"]={"code":"91807","region":"Bayern","city":"Solnhofen","latitude":48.89582,"longitude":10.9956}}(window,'GeoPostal','DE');

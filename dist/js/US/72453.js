@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72453"]={"code":"72453","region":"AR","city":"Peach Orchard","latitude":36.283,"longitude":-90.6702}}(window,'GeoPostal','US');

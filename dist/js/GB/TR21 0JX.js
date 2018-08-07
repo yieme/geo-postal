@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR21 0JX"]={"code":"TR21 0JX","region":"England","city":"Hugh Town","latitude":49.91447,"longitude":-6.31145}}(window,'GeoPostal','GB');

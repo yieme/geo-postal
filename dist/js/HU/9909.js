@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9909"]={"code":"9909","region":"Vas","city":"Kormend","latitude":47.01096,"longitude":16.60596}}(window,'GeoPostal','HU');

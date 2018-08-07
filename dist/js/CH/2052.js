@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2052"]={"code":"2052","region":"Neuchatel","city":"Fontainemelon","latitude":47.05495,"longitude":6.8868}}(window,'GeoPostal','CH');

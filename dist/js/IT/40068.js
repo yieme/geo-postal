@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40068"]={"code":"40068","region":"Emilia-Romagna","city":"San Lazzaro di Savena","latitude":44.46777,"longitude":11.41401}}(window,'GeoPostal','IT');

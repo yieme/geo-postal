@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37890"]={"code":"37890","region":"TN","city":"White Pine","latitude":36.0776,"longitude":-83.2998}}(window,'GeoPostal','US');

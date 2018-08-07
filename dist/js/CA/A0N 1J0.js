@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0N 1J0"]={"code":"A0N 1J0","region":"Newfoundland and Labrador","city":"O'Regan's","latitude":47.85925,"longitude":-59.22729}}(window,'GeoPostal','CA');

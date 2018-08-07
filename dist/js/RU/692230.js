@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692230"]={"code":"692230","region":"Kemerovskaya oblast'","city":"Spassk","latitude":52.747,"longitude":87.7545}}(window,'GeoPostal','RU');

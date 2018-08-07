@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97480"]={"code":"97480","region":"Reunion","city":"Saint-Joseph","latitude":-21.37838,"longitude":55.61918}}(window,'GeoPostal','RE');

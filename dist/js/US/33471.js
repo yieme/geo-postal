@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33471"]={"code":"33471","region":"Florida","city":"Moore Haven","latitude":26.83312,"longitude":-81.09312}}(window,'GeoPostal','US');

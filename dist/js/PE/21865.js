@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21865"]={"code":"21865","region":"Puno","city":"Ayaviri","latitude":-14.88639,"longitude":-70.58889}}(window,'GeoPostal','PE');

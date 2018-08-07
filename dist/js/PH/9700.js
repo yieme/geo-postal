@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9700"]={"code":"9700","region":"Lanao del Sur","city":"Marawi","latitude":7.99861,"longitude":124.29278}}(window,'GeoPostal','PH');

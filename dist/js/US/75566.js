@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75566"]={"code":"75566","region":"TX","city":"Marietta","latitude":33.1735,"longitude":-94.5424}}(window,'GeoPostal','US');

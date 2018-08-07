@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5001"]={"code":"5001","region":"Iloilo","city":"Ungca","latitude":10.75,"longitude":122.55}}(window,'GeoPostal','PH');

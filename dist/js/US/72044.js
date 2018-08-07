@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72044"]={"code":"72044","region":"Arkansas","city":"Edgemont","latitude":35.648704,"longitude":-92.189581}}(window,'GeoPostal','US');

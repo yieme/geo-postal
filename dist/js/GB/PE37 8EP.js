@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE37 8EP"]={"code":"PE37 8EP","region":"England","city":"Necton","latitude":52.64994,"longitude":0.77539}}(window,'GeoPostal','GB');

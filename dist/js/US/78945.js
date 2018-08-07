@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78945"]={"code":"78945","region":"Texas","city":"La Grange","latitude":29.911967,"longitude":-96.871312}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["035401"]={"code":"035401","region":"Shanxi","city":"Jinchang","latitude":38.49808,"longitude":112.9236}}(window,'GeoPostal','CN');

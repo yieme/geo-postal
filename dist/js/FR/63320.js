@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63320"]={"code":"63320","region":"Auvergne-Rhone-Alpes","city":"Saint-Vincent","latitude":45.5497,"longitude":3.1336}}(window,'GeoPostal','FR');

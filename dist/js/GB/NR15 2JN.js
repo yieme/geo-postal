@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR15 2JN"]={"code":"NR15 2JN","region":"England","city":"Aslacton","latitude":52.47517,"longitude":1.17429}}(window,'GeoPostal','GB');

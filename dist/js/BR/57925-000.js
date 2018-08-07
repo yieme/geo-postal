@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57925-000"]={"code":"57925-000","region":"Alagoas","city":"Barra de Santo Antonio","latitude":-9.40472,"longitude":-35.50722}}(window,'GeoPostal','BR');

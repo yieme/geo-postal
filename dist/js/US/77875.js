@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77875"]={"code":"77875","region":"TX","city":"Roans Prairie","latitude":30.6075,"longitude":-95.9579}}(window,'GeoPostal','US');

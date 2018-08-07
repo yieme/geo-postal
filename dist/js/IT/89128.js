@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89128"]={"code":"89128","region":"Calabria","city":"Reggio di Calabria","latitude":38.11047,"longitude":15.66129}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57636"]={"code":"57636","region":"SD","city":"Lantry","latitude":45.0144,"longitude":-101.4315}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN7 1SD"]={"code":"BN7 1SD","region":"England","city":"Lewes","latitude":50.87363,"longitude":0.01133}}(window,'GeoPostal','GB');

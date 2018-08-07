@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45333"]={"code":"45333","region":"OH","city":"Houston","latitude":40.2535,"longitude":-84.3521}}(window,'GeoPostal','US');

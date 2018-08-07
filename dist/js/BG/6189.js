@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6189"]={"code":"6189","region":"Stara Zagora","city":"Gurkovo","latitude":42.66667,"longitude":25.8}}(window,'GeoPostal','BG');

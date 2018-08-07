@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79848"]={"code":"79848","region":"Baden-Wurttemberg","city":"Steinasage","latitude":47.80777,"longitude":8.31368}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41085"]={"code":"41085","region":"KY","city":"Silver Grove","latitude":39.0343,"longitude":-84.3908}}(window,'GeoPostal','US');

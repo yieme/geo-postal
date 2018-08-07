@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["121248"]={"code":"121248","region":"Yaroslavskaya oblast'","city":"Konstantinovskiy","latitude":57.83005,"longitude":39.58989}}(window,'GeoPostal','RU');

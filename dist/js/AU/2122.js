@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2122"]={"code":"2122","region":"South Australia","city":"Eastwood","latitude":-34.94234,"longitude":138.62176}}(window,'GeoPostal','AU');

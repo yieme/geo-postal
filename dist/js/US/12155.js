@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12155"]={"code":"12155","region":"New York","city":"Schenevus","latitude":42.55,"longitude":-74.817}}(window,'GeoPostal','US');

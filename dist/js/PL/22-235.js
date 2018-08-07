@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-235"]={"code":"22-235","region":"Lubelskie","city":"Hansk","latitude":51.41286,"longitude":23.39942}}(window,'GeoPostal','PL');

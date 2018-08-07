@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59409"]={"code":"59409","region":"Hauts-de-France","city":"Cambrai","latitude":50.16667,"longitude":3.23333}}(window,'GeoPostal','FR');

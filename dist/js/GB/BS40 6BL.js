@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS40 6BL"]={"code":"BS40 6BL","region":"England","city":"South Widcombe","latitude":51.3075,"longitude":-2.6025}}(window,'GeoPostal','GB');

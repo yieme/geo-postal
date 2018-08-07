@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT13 9NJ"]={"code":"CT13 9NJ","region":"England","city":"Kent","latitude":51.25,"longitude":0.75}}(window,'GeoPostal','GB');

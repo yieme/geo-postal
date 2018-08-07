@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49790-000"]={"code":"49790-000","region":"Sergipe","city":"Aquidaba","latitude":-10.28139,"longitude":-37.01861}}(window,'GeoPostal','BR');

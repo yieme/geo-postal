@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54620"]={"code":"54620","region":"WI","city":"Cataract","latitude":44.0876,"longitude":-90.8423}}(window,'GeoPostal','US');

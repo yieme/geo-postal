@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT12 1LH"]={"code":"KT12 1LH","region":"England","city":"Walton-on-Thames","latitude":51.38533,"longitude":-0.42066}}(window,'GeoPostal','GB');

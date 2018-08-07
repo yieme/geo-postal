@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97864"]={"code":"97864","region":"Oregon","city":"Monument","latitude":44.86906,"longitude":-119.448538}}(window,'GeoPostal','US');

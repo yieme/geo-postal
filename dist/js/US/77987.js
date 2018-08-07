@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77987"]={"code":"77987","region":"TX","city":"Sweet Home","latitude":29.3426,"longitude":-97.0756}}(window,'GeoPostal','US');

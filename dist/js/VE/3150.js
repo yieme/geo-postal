@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3150"]={"code":"3150","region":"Trujillo","city":"Trujillo","latitude":9.37084,"longitude":-70.43472}}(window,'GeoPostal','VE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61273"]={"code":"61273","region":"Illinois","city":"Orion","latitude":41.36688,"longitude":-90.43314}}(window,'GeoPostal','US');

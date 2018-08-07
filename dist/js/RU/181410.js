@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["181410"]={"code":"181410","region":"Pskovskaya oblast'","city":"Pytalovo","latitude":57.0679,"longitude":27.91384}}(window,'GeoPostal','RU');

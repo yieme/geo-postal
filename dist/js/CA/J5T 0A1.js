@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J5T 0A1"]={"code":"J5T 0A1","region":"Quebec","city":"Lavaltrie","latitude":45.88338,"longitude":-73.28245}}(window,'GeoPostal','CA');

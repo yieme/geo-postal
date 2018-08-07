@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST10 3EN"]={"code":"ST10 3EN","region":"England","city":"Cauldon","latitude":53.04105,"longitude":-1.88737}}(window,'GeoPostal','GB');

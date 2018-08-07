@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65644"]={"code":"65644","region":"MO","city":"Elkland","latitude":37.4336,"longitude":-93.021}}(window,'GeoPostal','US');

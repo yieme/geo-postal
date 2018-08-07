@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14827"]={"code":"14827","region":"NY","city":"Coopers Plains","latitude":42.1785,"longitude":-77.1414}}(window,'GeoPostal','US');

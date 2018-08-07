@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV4 7JH"]={"code":"IV4 7JH","region":"Scotland","city":"Camault Muir","latitude":57.43128,"longitude":-4.49083}}(window,'GeoPostal','GB');

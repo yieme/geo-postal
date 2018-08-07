@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79890-000"]={"code":"79890-000","region":"Mato Grosso do Sul","city":"Itapora","latitude":-22.078889,"longitude":-54.788889}}(window,'GeoPostal','BR');

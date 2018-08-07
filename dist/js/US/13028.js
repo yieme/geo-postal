@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13028"]={"code":"13028","region":"NY","city":"Bernhards Bay","latitude":43.2717,"longitude":-75.9373}}(window,'GeoPostal','US');

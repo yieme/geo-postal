@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5604"]={"code":"5604","region":"Aklan","city":"Kalibo","latitude":11.70611,"longitude":122.36444}}(window,'GeoPostal','PH');

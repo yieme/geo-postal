@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["078 01"]={"code":"078 01","region":"Kosicky kraj","city":"Secovce","latitude":48.70074,"longitude":21.66104}}(window,'GeoPostal','SK');

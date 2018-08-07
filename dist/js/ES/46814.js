@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46814"]={"code":"46814","region":"Valenciana, Comunidad","city":"Llosa de Ranes","latitude":39.02163,"longitude":-0.53803}}(window,'GeoPostal','ES');

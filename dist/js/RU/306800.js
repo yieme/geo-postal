@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["306800"]={"code":"306800","region":"Kurskaya oblast'","city":"Gorshechnoye","latitude":51.5244,"longitude":38.0365}}(window,'GeoPostal','RU');

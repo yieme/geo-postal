@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76871"]={"code":"76871","region":"TX","city":"Richland Springs","latitude":31.3003,"longitude":-98.9128}}(window,'GeoPostal','US');

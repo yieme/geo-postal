@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02702"]={"code":"02702","region":"MA","city":"Assonet","latitude":41.7975,"longitude":-71.0607}}(window,'GeoPostal','US');

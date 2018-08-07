@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58765-000"]={"code":"58765-000","region":"Paraiba","city":"Pianco","latitude":-7.19806,"longitude":-37.92917}}(window,'GeoPostal','BR');

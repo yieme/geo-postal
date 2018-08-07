@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618255"]={"code":"618255","region":"Permskiy kray","city":"Gubakha","latitude":58.83862,"longitude":57.55325}}(window,'GeoPostal','RU');

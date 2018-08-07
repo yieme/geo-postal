@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 9YF"]={"code":"NE65 9YF","region":"England","city":"Hadston","latitude":55.29428,"longitude":-1.60392}}(window,'GeoPostal','GB');

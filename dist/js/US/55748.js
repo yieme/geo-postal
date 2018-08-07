@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55748"]={"code":"55748","region":"Minnesota","city":"Hill City","latitude":46.9881,"longitude":-93.59388}}(window,'GeoPostal','US');

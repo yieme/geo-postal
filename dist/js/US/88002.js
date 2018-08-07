@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88002"]={"code":"88002","region":"New Mexico","city":"White Sands","latitude":32.260451,"longitude":-106.47094}}(window,'GeoPostal','US');

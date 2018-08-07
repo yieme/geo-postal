@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59602"]={"code":"59602","region":"Nordrhein-Westfalen","city":"Menzel","latitude":51.52439,"longitude":8.4092}}(window,'GeoPostal','DE');

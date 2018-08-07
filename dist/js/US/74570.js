@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74570"]={"code":"74570","region":"OK","city":"Stuart","latitude":34.8826,"longitude":-96.1381}}(window,'GeoPostal','US');

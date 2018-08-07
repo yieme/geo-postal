@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43543"]={"code":"43543","region":"Ohio","city":"Montpelier","latitude":41.5845,"longitude":-84.60551}}(window,'GeoPostal','US');

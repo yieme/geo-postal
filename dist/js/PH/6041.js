@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6041"]={"code":"6041","region":"Cebu","city":"Buanoy","latitude":10.46746,"longitude":123.6999}}(window,'GeoPostal','PH');

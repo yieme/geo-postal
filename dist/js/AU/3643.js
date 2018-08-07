@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3643"]={"code":"3643","region":"Victoria","city":"Cobram","latitude":-35.92069,"longitude":145.64066}}(window,'GeoPostal','AU');

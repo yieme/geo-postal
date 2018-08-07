@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95805"]={"code":"95805","region":"Veracruz de Ignacio de la Llave","city":"Comoapan","latitude":18.41667,"longitude":-95.16667}}(window,'GeoPostal','MX');

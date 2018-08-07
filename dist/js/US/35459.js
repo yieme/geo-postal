@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35459"]={"code":"35459","region":"AL","city":"Emelle","latitude":32.755,"longitude":-88.3057}}(window,'GeoPostal','US');

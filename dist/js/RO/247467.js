@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247467"]={"code":"247467","region":"Valcea","city":"Pausesti-Ursaresti","latitude":45.06667,"longitude":24.13333}}(window,'GeoPostal','RO');

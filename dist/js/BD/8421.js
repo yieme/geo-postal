@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8421"]={"code":"8421","region":"Chittagong","city":"Nalchiti","latitude":22.63333,"longitude":90.28333}}(window,'GeoPostal','BD');

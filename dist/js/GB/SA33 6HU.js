@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 6HU"]={"code":"SA33 6HU","region":"Wales","city":"Bronwydd Arms","latitude":51.88771,"longitude":-4.30089}}(window,'GeoPostal','GB');

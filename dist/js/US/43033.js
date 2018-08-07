@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43033"]={"code":"43033","region":"OH","city":"Kirkersville","latitude":39.961,"longitude":-82.5998}}(window,'GeoPostal','US');

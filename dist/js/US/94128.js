@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94128"]={"code":"94128","region":"California","city":"San Francisco","latitude":37.6097,"longitude":-122.38695}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA73 2HL"]={"code":"SA73 2HL","region":"Wales","city":"Milford Haven","latitude":51.71278,"longitude":-5.0341}}(window,'GeoPostal','GB');

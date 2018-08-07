@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62421"]={"code":"62421","region":"IL","city":"Claremont","latitude":38.7429,"longitude":-87.9727}}(window,'GeoPostal','US');

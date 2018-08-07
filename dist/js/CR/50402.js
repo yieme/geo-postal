@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50402"]={"code":"50402","region":"Guanacaste","city":"Fortuna","latitude":10.67384,"longitude":-85.19984}}(window,'GeoPostal','CR');

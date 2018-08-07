@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87634"]={"code":"87634","region":"Bayern","city":"Autenried","latitude":47.81677,"longitude":10.44557}}(window,'GeoPostal','DE');

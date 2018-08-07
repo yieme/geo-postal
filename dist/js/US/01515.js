@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01515"]={"code":"01515","region":"MA","city":"East Brookfield","latitude":42.2193,"longitude":-72.0481}}(window,'GeoPostal','US');

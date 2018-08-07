@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24905"]={"code":"24905","region":"Campeche","city":"Calkini","latitude":20.36667,"longitude":-90.05}}(window,'GeoPostal','MX');

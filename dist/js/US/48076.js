@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48076"]={"code":"48076","region":"Michigan","city":"Lathrup Village","latitude":42.49812,"longitude":-83.23236}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71620"]={"code":"71620","region":"Bourgogne-Franche-Comte","city":"Saint-Martin-en-Bresse","latitude":46.81725,"longitude":5.06027}}(window,'GeoPostal','FR');

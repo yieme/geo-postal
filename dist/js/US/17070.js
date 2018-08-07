@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17070"]={"code":"17070","region":"PA","city":"New Cumberland","latitude":40.2151,"longitude":-76.8689}}(window,'GeoPostal','US');

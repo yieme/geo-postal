@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30510"]={"code":"30510","region":"Georgia","city":"Raoul","latitude":34.44954,"longitude":-83.59434}}(window,'GeoPostal','US');

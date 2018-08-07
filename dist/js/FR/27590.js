@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27590"]={"code":"27590","region":"Normandie","city":"Pitres","latitude":49.3203,"longitude":1.2269}}(window,'GeoPostal','FR');

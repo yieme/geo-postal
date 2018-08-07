@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39096"]={"code":"39096","region":"Mississippi","city":"Lorman","latitude":31.819737,"longitude":-91.198508}}(window,'GeoPostal','US');

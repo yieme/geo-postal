@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0J 3C0"]={"code":"B0J 3C0","region":"Nova Scotia","city":"Sherbrooke","latitude":45.14246,"longitude":-61.98272}}(window,'GeoPostal','CA');

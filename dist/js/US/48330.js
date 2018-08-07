@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48330"]={"code":"48330","region":"MI","city":"Drayton Plains","latitude":42.6754,"longitude":-83.3637}}(window,'GeoPostal','US');

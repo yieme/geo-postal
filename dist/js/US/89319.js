@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89319"]={"code":"89319","region":"Nevada","city":"Ruth","latitude":39.278738,"longitude":-114.98934}}(window,'GeoPostal','US');

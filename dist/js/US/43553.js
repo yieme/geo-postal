@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43553"]={"code":"43553","region":"OH","city":"Pettisville","latitude":41.5306,"longitude":-84.2297}}(window,'GeoPostal','US');

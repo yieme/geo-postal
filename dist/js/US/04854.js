@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04854"]={"code":"04854","region":"Maine","city":"Owls Head","latitude":44.08003,"longitude":-69.086025}}(window,'GeoPostal','US');

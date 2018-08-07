@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21057"]={"code":"21057","region":"Lombardia","city":"Olgiate Olona","latitude":45.63706,"longitude":8.88147}}(window,'GeoPostal','IT');

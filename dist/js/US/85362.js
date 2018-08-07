@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85362"]={"code":"85362","region":"AZ","city":"Yarnell","latitude":34.2508,"longitude":-112.7567}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17886"]={"code":"17886","region":"PA","city":"West Milton","latitude":41.0179,"longitude":-76.8708}}(window,'GeoPostal','US');

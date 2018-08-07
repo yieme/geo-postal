@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34079"]={"code":"34079","region":"Friuli-Venezia Giulia","city":"Staranzano","latitude":45.80722,"longitude":13.50333}}(window,'GeoPostal','IT');

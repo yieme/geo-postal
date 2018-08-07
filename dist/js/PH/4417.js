@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4417"]={"code":"4417","region":"Camarines Sur","city":"Bahay","latitude":13.5437,"longitude":123.0407}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47017"]={"code":"47017","region":"Indiana","city":"Cross Plains","latitude":38.946206,"longitude":-85.220933}}(window,'GeoPostal','US');

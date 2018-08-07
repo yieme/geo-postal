@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77973"]={"code":"77973","region":"TX","city":"Mcfaddin","latitude":28.5511,"longitude":-97.0099}}(window,'GeoPostal','US');

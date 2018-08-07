@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2786"]={"code":"2786","region":"North-West","city":"Schweizer-Reneke","latitude":-27.18871,"longitude":25.32931}}(window,'GeoPostal','ZA');

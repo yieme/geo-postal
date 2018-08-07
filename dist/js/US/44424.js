@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44424"]={"code":"44424","region":"OH","city":"Hartford","latitude":41.3091,"longitude":-80.5847}}(window,'GeoPostal','US');

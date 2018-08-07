@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["362259"]={"code":"362259","region":"Gujarat","city":"Veraval","latitude":20.9,"longitude":70.36667}}(window,'GeoPostal','IN');

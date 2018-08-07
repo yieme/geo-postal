@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 1Y0"]={"code":"V0K 1Y0","region":"British Columbia","city":"Lower Nicola","latitude":50.14975,"longitude":-120.88581}}(window,'GeoPostal','CA');

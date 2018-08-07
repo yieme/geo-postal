@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54566"]={"code":"54566","region":"Wisconsin","city":"Wabeno","latitude":45.44194,"longitude":-88.56972}}(window,'GeoPostal','US');

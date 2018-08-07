@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768 32"]={"code":"768 32","region":"Zlinsky kraj","city":"Zborovice","latitude":49.24889,"longitude":17.28464}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13656"]={"code":"13656","region":"NY","city":"La Fargeville","latitude":44.1987,"longitude":-75.9569}}(window,'GeoPostal','US');

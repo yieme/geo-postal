@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-211"]={"code":"38-211","region":"Podkarpackie","city":"Jaslo","latitude":49.74506,"longitude":21.47252}}(window,'GeoPostal','PL');

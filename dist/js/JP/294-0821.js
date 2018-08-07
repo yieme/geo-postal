@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["294-0821"]={"code":"294-0821","region":"Chiba","city":"Minamiboso","latitude":35.043139,"longitude":139.839972}}(window,'GeoPostal','JP');

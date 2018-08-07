@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 2R0"]={"code":"T0H 2R0","region":"Alberta","city":"Nampa","latitude":56.0334,"longitude":-117.13594}}(window,'GeoPostal','CA');

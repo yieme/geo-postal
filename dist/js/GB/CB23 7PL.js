@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB23 7PL"]={"code":"CB23 7PL","region":"England","city":"Coton","latitude":52.21058,"longitude":0.06094}}(window,'GeoPostal','GB');

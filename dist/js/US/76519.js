@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76519"]={"code":"76519","region":"TX","city":"Burlington","latitude":30.9736,"longitude":-96.9642}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2367"]={"code":"2367","region":"Vuzenica","city":"Vuzenica","latitude":46.59639,"longitude":15.16722}}(window,'GeoPostal','SI');

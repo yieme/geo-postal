@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0K 2C0"]={"code":"L0K 2C0","region":"Ontario","city":"Waubaushene","latitude":44.75011,"longitude":-79.69965}}(window,'GeoPostal','CA');

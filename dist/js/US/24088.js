@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24088"]={"code":"24088","region":"Virginia","city":"Ferrum","latitude":36.929464,"longitude":-80.018494}}(window,'GeoPostal','US');

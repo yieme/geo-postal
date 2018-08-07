@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14220"]={"code":"14220","region":"Normandie","city":"Ouffieres","latitude":49.0244,"longitude":-0.49}}(window,'GeoPostal','FR');

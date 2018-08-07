@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137037"]={"code":"137037","region":"Dambovita","city":"Bezdead","latitude":45.15,"longitude":25.51667}}(window,'GeoPostal','RO');

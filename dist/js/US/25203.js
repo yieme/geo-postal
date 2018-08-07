@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25203"]={"code":"25203","region":"WV","city":"Turtle Creek","latitude":38.0298,"longitude":-81.8729}}(window,'GeoPostal','US');

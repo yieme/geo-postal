@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26340"]={"code":"26340","region":"Niedersachsen","city":"Zetel","latitude":53.41667,"longitude":7.98333}}(window,'GeoPostal','DE');

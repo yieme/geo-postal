@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37716"]={"code":"37716","region":"Tennessee","city":"Clinton","latitude":36.099681,"longitude":-84.139211}}(window,'GeoPostal','US');

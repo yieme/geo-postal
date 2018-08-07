@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07647"]={"code":"07647","region":"New Jersey","city":"Northvale","latitude":41.00958,"longitude":-73.9467}}(window,'GeoPostal','US');

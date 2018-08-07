@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66560"]={"code":"66560","region":"Occitanie","city":"Ortaffa","latitude":42.57978,"longitude":2.92653}}(window,'GeoPostal','FR');

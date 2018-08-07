@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13452"]={"code":"13452","region":"New York","city":"Saint Johnsville","latitude":42.99813,"longitude":-74.68292}}(window,'GeoPostal','US');

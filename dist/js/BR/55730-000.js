@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55730-000"]={"code":"55730-000","region":"Pernambuco","city":"Bom Jardim","latitude":-7.79583,"longitude":-35.58722}}(window,'GeoPostal','BR');

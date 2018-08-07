@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1016"]={"code":"1016","region":"Laguna","city":"Santa Maria","latitude":14.4719,"longitude":121.4286}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46787"]={"code":"46787","region":"Indiana","city":"South Whitley","latitude":41.084175,"longitude":-85.616657}}(window,'GeoPostal','US');

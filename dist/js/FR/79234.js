@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79234"]={"code":"79234","region":"Nouvelle-Aquitaine","city":"Prahecq","latitude":46.25897,"longitude":-0.34426}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27530"]={"code":"27530","region":"Normandie","city":"Croth","latitude":48.84557,"longitude":1.37861}}(window,'GeoPostal','FR');

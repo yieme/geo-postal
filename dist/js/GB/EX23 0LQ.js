@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX23 0LQ"]={"code":"EX23 0LQ","region":"England","city":"Saint Gennys","latitude":50.73333,"longitude":-4.63333}}(window,'GeoPostal','GB');

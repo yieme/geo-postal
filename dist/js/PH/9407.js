@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9407"]={"code":"9407","region":"Cotabato","city":"Kabacan","latitude":7.10667,"longitude":124.82917}}(window,'GeoPostal','PH');

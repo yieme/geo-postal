@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39813"]={"code":"39813","region":"Cantabria","city":"Ramales de la Victoria","latitude":43.2572,"longitude":-3.46516}}(window,'GeoPostal','ES');

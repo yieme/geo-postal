@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74700"]={"code":"74700","region":"Auvergne-Rhone-Alpes","city":"Domancy","latitude":45.91418,"longitude":6.6474}}(window,'GeoPostal','FR');

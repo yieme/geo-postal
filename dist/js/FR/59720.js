@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59720"]={"code":"59720","region":"Hauts-de-France","city":"Louvroil","latitude":50.26427,"longitude":3.96272}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54871"]={"code":"54871","region":"Wisconsin","city":"Shell Lake","latitude":45.73939,"longitude":-91.92545}}(window,'GeoPostal','US');

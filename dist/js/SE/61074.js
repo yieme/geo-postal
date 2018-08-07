@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61074"]={"code":"61074","region":"Sodermanlands lan","city":"Vagnharad","latitude":58.95,"longitude":17.51667}}(window,'GeoPostal','SE');

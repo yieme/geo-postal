@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140704"]={"code":"140704","region":"Moskovskaya oblast'","city":"Shatura","latitude":55.57253,"longitude":39.53682}}(window,'GeoPostal','RU');

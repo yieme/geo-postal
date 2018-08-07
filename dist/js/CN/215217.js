@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215217"]={"code":"215217","region":"Jiangsu","city":"Tongli","latitude":31.1594,"longitude":120.71264}}(window,'GeoPostal','CN');

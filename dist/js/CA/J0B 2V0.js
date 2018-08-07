@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 2V0"]={"code":"J0B 2V0","region":"Quebec","city":"Saint-Francois-Xavier-de-Brompton","latitude":45.53338,"longitude":-72.04909}}(window,'GeoPostal','CA');

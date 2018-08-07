@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30122"]={"code":"30122","region":"Georgia","city":"Lithia Springs","latitude":33.7757,"longitude":-84.6377}}(window,'GeoPostal','US');

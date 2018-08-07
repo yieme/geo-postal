@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32744"]={"code":"32744","region":"FL","city":"Lake Helen","latitude":28.9806,"longitude":-81.2334}}(window,'GeoPostal','US');

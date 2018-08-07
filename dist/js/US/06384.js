@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06384"]={"code":"06384","region":"CT","city":"Voluntown","latitude":41.5831,"longitude":-71.855}}(window,'GeoPostal','US');

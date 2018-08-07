@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00-132"]={"code":"00-132","region":"Mazowieckie","city":"Radom","latitude":51.40253,"longitude":21.14714}}(window,'GeoPostal','PL');

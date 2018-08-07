@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-324"]={"code":"88-324","region":"Kujawsko-pomorskie","city":"Jeziora Wielkie","latitude":52.53043,"longitude":18.26803}}(window,'GeoPostal','PL');

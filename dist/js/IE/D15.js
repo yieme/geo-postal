@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["D15"]={"code":"D15","region":"Meath","city":"Dunboyne","latitude":53.4,"longitude":-6.46667}}(window,'GeoPostal','IE');

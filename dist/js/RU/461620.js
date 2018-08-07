@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461620"]={"code":"461620","region":"Bashkortostan, Respublika","city":"Ufa","latitude":54.78517,"longitude":56.04562}}(window,'GeoPostal','RU');

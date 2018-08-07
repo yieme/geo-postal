@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35447"]={"code":"35447","region":"Alabama","city":"Carrollton","latitude":33.26179,"longitude":-88.09503}}(window,'GeoPostal','US');

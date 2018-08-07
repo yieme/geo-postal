@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61328"]={"code":"61328","region":"Illinois","city":"Kasbeer","latitude":41.50412,"longitude":-89.46693}}(window,'GeoPostal','US');

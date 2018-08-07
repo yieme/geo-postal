@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["691 08"]={"code":"691 08","region":"Jihomoravsky kraj","city":"Boretice","latitude":48.91302,"longitude":16.85306}}(window,'GeoPostal','CZ');

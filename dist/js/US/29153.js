@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29153"]={"code":"29153","region":"SC","city":"Sumter","latitude":33.9446,"longitude":-80.3206}}(window,'GeoPostal','US');

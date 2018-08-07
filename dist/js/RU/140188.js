@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140188"]={"code":"140188","region":"Moskovskaya oblast'","city":"Zhukovskiy","latitude":55.59528,"longitude":38.12028}}(window,'GeoPostal','RU');

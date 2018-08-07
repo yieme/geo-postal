@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79745"]={"code":"79745","region":"Texas","city":"Kermit","latitude":31.853763,"longitude":-103.093272}}(window,'GeoPostal','US');

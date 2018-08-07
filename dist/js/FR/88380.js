@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88380"]={"code":"88380","region":"Grand-Est","city":"Arches","latitude":48.11856,"longitude":6.52806}}(window,'GeoPostal','FR');

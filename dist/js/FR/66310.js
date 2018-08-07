@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66310"]={"code":"66310","region":"Occitanie","city":"Estagel","latitude":42.77314,"longitude":2.69665}}(window,'GeoPostal','FR');

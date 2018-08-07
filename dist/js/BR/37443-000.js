@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37443-000"]={"code":"37443-000","region":"Minas Gerais","city":"Baependi","latitude":-21.95889,"longitude":-44.89}}(window,'GeoPostal','BR');

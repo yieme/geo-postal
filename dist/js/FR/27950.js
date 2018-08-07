@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27950"]={"code":"27950","region":"Normandie","city":"Saint-Pierre-d'Autils","latitude":49.1186,"longitude":1.4383}}(window,'GeoPostal','FR');

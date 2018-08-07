@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17943"]={"code":"17943","region":"PA","city":"Lavelle","latitude":40.7634,"longitude":-76.3827}}(window,'GeoPostal','US');

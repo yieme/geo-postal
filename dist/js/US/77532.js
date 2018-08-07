@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77532"]={"code":"77532","region":"Texas","city":"Crosby","latitude":29.924979,"longitude":-95.070431}}(window,'GeoPostal','US');

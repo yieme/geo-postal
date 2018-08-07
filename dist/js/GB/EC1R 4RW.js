@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC1R 4RW"]={"code":"EC1R 4RW","region":"England","city":"Clerkenwell","latitude":51.52438,"longitude":-0.11022}}(window,'GeoPostal','GB');

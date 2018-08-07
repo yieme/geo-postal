@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90201"]={"code":"90201","region":"California","city":"Bell Gardens","latitude":33.96529,"longitude":-118.15146}}(window,'GeoPostal','US');

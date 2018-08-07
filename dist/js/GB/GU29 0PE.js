@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU29 0PE"]={"code":"GU29 0PE","region":"England","city":"Iping","latitude":50.99847,"longitude":-0.78595}}(window,'GeoPostal','GB');

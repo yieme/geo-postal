@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15400"]={"code":"15400","region":"Punjab","city":"Shujaabad","latitude":29.87967,"longitude":71.29313}}(window,'GeoPostal','PK');

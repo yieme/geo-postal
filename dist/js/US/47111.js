@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47111"]={"code":"47111","region":"IN","city":"Charlestown","latitude":38.4568,"longitude":-85.6606}}(window,'GeoPostal','US');

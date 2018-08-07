@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73-260"]={"code":"73-260","region":"Zachodniopomorskie","city":"Pelczyce","latitude":53.04354,"longitude":15.30447}}(window,'GeoPostal','PL');

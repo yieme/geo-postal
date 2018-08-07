@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99635"]={"code":"99635","region":"Alaska","city":"Nikiski","latitude":60.69028,"longitude":-151.28889}}(window,'GeoPostal','US');

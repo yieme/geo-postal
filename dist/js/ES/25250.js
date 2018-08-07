@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25250"]={"code":"25250","region":"Catalunya","city":"Bellpuig","latitude":41.62595,"longitude":1.01144}}(window,'GeoPostal','ES');

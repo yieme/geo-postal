@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0152"]={"code":"0152","region":"Gauteng","city":"Soshanguve","latitude":-25.522646,"longitude":28.100572}}(window,'GeoPostal','ZA');

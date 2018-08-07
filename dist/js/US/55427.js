@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55427"]={"code":"55427","region":"Minnesota","city":"New Hope","latitude":45.03802,"longitude":-93.38662}}(window,'GeoPostal','US');

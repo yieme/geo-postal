@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MGR 9090"]={"code":"MGR 9090","region":"Ghajnsielem","city":"Mgarr","latitude":35.92056,"longitude":14.36639}}(window,'GeoPostal','MT');

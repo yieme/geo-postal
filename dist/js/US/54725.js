@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54725"]={"code":"54725","region":"Wisconsin","city":"Boyceville","latitude":45.04357,"longitude":-92.04101}}(window,'GeoPostal','US');

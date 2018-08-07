@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3050"]={"code":"3050","region":"Sfax","city":"Skhira","latitude":34.2992,"longitude":10.06999}}(window,'GeoPostal','TN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28212"]={"code":"28212","region":"Madrid, Comunidad de","city":"Fresnedillas","latitude":40.48704,"longitude":-4.17146}}(window,'GeoPostal','ES');

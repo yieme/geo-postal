@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1901"]={"code":"1901","region":"Akershus","city":"Fetsund","latitude":59.92898,"longitude":11.16247}}(window,'GeoPostal','NO');

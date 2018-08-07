@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85774"]={"code":"85774","region":"Bayern","city":"Unterfohring","latitude":48.19253,"longitude":11.64293}}(window,'GeoPostal','DE');

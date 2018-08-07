@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3691"]={"code":"3691","region":"Victoria","city":"Bungil","latitude":-36.06667,"longitude":147.35}}(window,'GeoPostal','AU');

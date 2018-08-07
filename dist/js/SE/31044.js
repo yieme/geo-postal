@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31044"]={"code":"31044","region":"Hallands lan","city":"Getinge","latitude":56.81667,"longitude":12.73333}}(window,'GeoPostal','SE');

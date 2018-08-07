@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-445"]={"code":"42-445","region":"Slaskie","city":"Szczekociny","latitude":50.62669,"longitude":19.825}}(window,'GeoPostal','PL');

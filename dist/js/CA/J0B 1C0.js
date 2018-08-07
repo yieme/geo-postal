@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 1C0"]={"code":"J0B 1C0","region":"Quebec","city":"Ayer's Cliff","latitude":45.16679,"longitude":-72.04908}}(window,'GeoPostal','CA');

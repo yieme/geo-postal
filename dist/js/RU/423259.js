@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423259"]={"code":"423259","region":"Tatarstan, Respublika","city":"Leninogorsk","latitude":54.60256,"longitude":52.46087}}(window,'GeoPostal','RU');

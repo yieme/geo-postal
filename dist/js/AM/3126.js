@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3126"]={"code":"3126","region":"Sirak","city":"Gyumri","latitude":40.7942,"longitude":43.84528}}(window,'GeoPostal','AM');

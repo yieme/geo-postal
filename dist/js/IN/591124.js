@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["591124"]={"code":"591124","region":"Karnataka","city":"Belgaum","latitude":15.86667,"longitude":74.5}}(window,'GeoPostal','IN');

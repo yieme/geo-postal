@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25230"]={"code":"25230","region":"Bourgogne-Franche-Comte","city":"Seloncourt","latitude":47.45989,"longitude":6.85535}}(window,'GeoPostal','FR');

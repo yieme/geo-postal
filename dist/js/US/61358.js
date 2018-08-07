@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61358"]={"code":"61358","region":"IL","city":"Rutland","latitude":40.9844,"longitude":-89.0388}}(window,'GeoPostal','US');

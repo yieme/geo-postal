@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K4R 1E1"]={"code":"K4R 1E1","region":"Ontario","city":"Limoges","latitude":45.256353,"longitude":-75.359071}}(window,'GeoPostal','CA');

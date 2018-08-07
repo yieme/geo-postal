@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42134"]={"code":"42134","region":"Kentucky","city":"Franklin","latitude":36.727709,"longitude":-86.575377}}(window,'GeoPostal','US');

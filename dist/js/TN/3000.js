@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3000"]={"code":"3000","region":"Sfax","city":"Sfax","latitude":34.74056,"longitude":10.76028}}(window,'GeoPostal','TN');

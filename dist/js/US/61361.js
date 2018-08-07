@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61361"]={"code":"61361","region":"Illinois","city":"Sheffield","latitude":41.354672,"longitude":-89.735646}}(window,'GeoPostal','US');

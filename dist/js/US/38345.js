@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38345"]={"code":"38345","region":"TN","city":"Huron","latitude":35.6144,"longitude":-88.5195}}(window,'GeoPostal','US');

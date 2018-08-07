@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN4 3EB"]={"code":"LN4 3EB","region":"England","city":"Metheringham","latitude":53.14015,"longitude":-0.40368}}(window,'GeoPostal','GB');

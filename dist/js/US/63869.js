@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63869"]={"code":"63869","region":"MO","city":"New Madrid","latitude":36.6073,"longitude":-89.5366}}(window,'GeoPostal','US');

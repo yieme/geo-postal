@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13612"]={"code":"13612","region":"NY","city":"Black River","latitude":44.0042,"longitude":-75.7958}}(window,'GeoPostal','US');

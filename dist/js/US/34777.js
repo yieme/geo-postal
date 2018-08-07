@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34777"]={"code":"34777","region":"Florida","city":"Winter Garden","latitude":28.56528,"longitude":-81.58618}}(window,'GeoPostal','US');

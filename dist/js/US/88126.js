@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88126"]={"code":"88126","region":"NM","city":"Pep","latitude":33.8362,"longitude":-103.3355}}(window,'GeoPostal','US');

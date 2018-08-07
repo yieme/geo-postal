@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH20 1JB"]={"code":"RH20 1JB","region":"England","city":"Fittleworth","latitude":50.96151,"longitude":-0.56236}}(window,'GeoPostal','GB');

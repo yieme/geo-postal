@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG33 4QX"]={"code":"NG33 4QX","region":"England","city":"Little Bytham","latitude":52.75042,"longitude":-0.4985}}(window,'GeoPostal','GB');

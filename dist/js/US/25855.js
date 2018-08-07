@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25855"]={"code":"25855","region":"WV","city":"Hilltop","latitude":37.9429,"longitude":-81.1509}}(window,'GeoPostal','US');

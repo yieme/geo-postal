@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2V 0A2"]={"code":"V2V 0A2","region":"British Columbia","city":"Mission","latitude":49.13298,"longitude":-122.30258}}(window,'GeoPostal','CA');

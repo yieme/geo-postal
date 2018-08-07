@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 7SB"]={"code":"AB51 7SB","region":"Scotland","city":"Tillyfourie","latitude":57.20072,"longitude":-2.59182}}(window,'GeoPostal','GB');

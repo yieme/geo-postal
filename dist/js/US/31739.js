@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31739"]={"code":"31739","region":"GA","city":"Cotton","latitude":31.1616,"longitude":-84.0668}}(window,'GeoPostal','US');

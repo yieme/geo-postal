@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14730-000"]={"code":"14730-000","region":"Sao Paulo","city":"Monte Azul Paulista","latitude":-20.90722,"longitude":-48.64139}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333100"]={"code":"333100","region":"Jiangxi","city":"Poyang","latitude":28.99242,"longitude":116.66754}}(window,'GeoPostal','CN');

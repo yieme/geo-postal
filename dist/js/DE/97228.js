@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97228"]={"code":"97228","region":"Bayern","city":"Rottendorf","latitude":49.45554,"longitude":12.06057}}(window,'GeoPostal','DE');

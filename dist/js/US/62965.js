@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62965"]={"code":"62965","region":"IL","city":"Muddy","latitude":37.765,"longitude":-88.5167}}(window,'GeoPostal','US');

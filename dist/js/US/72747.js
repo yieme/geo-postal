@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72747"]={"code":"72747","region":"AR","city":"Maysville","latitude":36.3811,"longitude":-94.5783}}(window,'GeoPostal','US');

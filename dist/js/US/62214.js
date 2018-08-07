@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62214"]={"code":"62214","region":"Illinois","city":"Addieville","latitude":38.39167,"longitude":-89.4875}}(window,'GeoPostal','US');

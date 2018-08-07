@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46321"]={"code":"46321","region":"Valenciana, Comunidad","city":"Sinarcas","latitude":39.73333,"longitude":-1.23333}}(window,'GeoPostal','ES');

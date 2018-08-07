@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55080"]={"code":"55080","region":"MN","city":"Stanchfield","latitude":45.6675,"longitude":-93.2433}}(window,'GeoPostal','US');

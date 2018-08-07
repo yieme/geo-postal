@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89822"]={"code":"89822","region":"Calabria","city":"Serra San Bruno","latitude":38.57538,"longitude":16.3244}}(window,'GeoPostal','IT');

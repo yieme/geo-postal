@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["113"]={"code":"113","region":"Antananarivo","city":"Betafo","latitude":-19.83333,"longitude":46.85}}(window,'GeoPostal','MG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-534"]={"code":"37-534","region":"Podkarpackie","city":"Adamowka","latitude":50.25857,"longitude":22.69595}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67151"]={"code":"67151","region":"KS","city":"Walton","latitude":38.1239,"longitude":-97.2361}}(window,'GeoPostal','US');

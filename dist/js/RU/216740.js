@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["216740"]={"code":"216740","region":"Smolenskaya oblast'","city":"Golynki","latitude":54.86964,"longitude":31.38609}}(window,'GeoPostal','RU');

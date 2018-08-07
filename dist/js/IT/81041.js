@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81041"]={"code":"81041","region":"Campania","city":"Vitulazio","latitude":41.16412,"longitude":14.21692}}(window,'GeoPostal','IT');

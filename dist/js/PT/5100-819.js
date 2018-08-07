@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5100-819"]={"code":"5100-819","region":"Viseu","city":"Lamego","latitude":41.09741,"longitude":-7.80991}}(window,'GeoPostal','PT');

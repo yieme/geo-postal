@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4784"]={"code":"4784","region":"Liege","city":"Saint-Vith","latitude":50.28146,"longitude":6.12724}}(window,'GeoPostal','BE');

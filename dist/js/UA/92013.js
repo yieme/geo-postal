@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92013"]={"code":"92013","region":"Luhanska oblast","city":"Roskoshnoye","latitude":48.50743,"longitude":39.30036}}(window,'GeoPostal','UA');

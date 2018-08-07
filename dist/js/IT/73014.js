@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73014"]={"code":"73014","region":"Puglia","city":"Gallipoli","latitude":40.05556,"longitude":17.97639}}(window,'GeoPostal','IT');

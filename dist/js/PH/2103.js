@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2103"]={"code":"2103","region":"Bataan","city":"Limay","latitude":14.56194,"longitude":120.59833}}(window,'GeoPostal','PH');

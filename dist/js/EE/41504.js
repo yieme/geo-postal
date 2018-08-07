@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41504"]={"code":"41504","region":"Ida-Virumaa","city":"Johvi","latitude":59.35917,"longitude":27.42111}}(window,'GeoPostal','EE');

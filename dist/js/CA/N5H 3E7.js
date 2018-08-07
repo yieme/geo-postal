@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N5H 3E7"]={"code":"N5H 3E7","region":"Ontario","city":"Aylmer","latitude":42.772032,"longitude":-80.984315}}(window,'GeoPostal','CA');

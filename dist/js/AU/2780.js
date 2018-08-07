@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2780"]={"code":"2780","region":"New South Wales","city":"Blackheath","latitude":-33.63375,"longitude":150.28576}}(window,'GeoPostal','AU');

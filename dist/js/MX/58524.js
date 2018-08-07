@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58524"]={"code":"58524","region":"Michoacan de Ocampo","city":"Puruandiro","latitude":20.08333,"longitude":-101.5}}(window,'GeoPostal','MX');

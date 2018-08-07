@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19205"]={"code":"19205","region":"Mecklenburg-Vorpommern","city":"Roggendorf","latitude":53.7,"longitude":11.01667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15344"]={"code":"15344","region":"Attiki","city":"Pallini","latitude":37.99702,"longitude":23.87723}}(window,'GeoPostal','GR');

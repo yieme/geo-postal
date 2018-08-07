@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54329"]={"code":"54329","region":"Rheinland-Pfalz","city":"Konz","latitude":49.70045,"longitude":6.57652}}(window,'GeoPostal','DE');

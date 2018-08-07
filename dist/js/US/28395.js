@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28395"]={"code":"28395","region":"NC","city":"Wade","latitude":35.1606,"longitude":-78.7249}}(window,'GeoPostal','US');

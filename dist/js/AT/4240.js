@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4240"]={"code":"4240","region":"Oberosterreich","city":"Freistadt","latitude":48.51103,"longitude":14.50453}}(window,'GeoPostal','AT');

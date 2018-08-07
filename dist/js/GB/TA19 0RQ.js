@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA19 0RQ"]={"code":"TA19 0RQ","region":"England","city":"Donyatt","latitude":50.92156,"longitude":-2.94206}}(window,'GeoPostal','GB');

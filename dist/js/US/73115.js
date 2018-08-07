@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73115"]={"code":"73115","region":"Oklahoma","city":"Del City","latitude":35.44201,"longitude":-97.44087}}(window,'GeoPostal','US');

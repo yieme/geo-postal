@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356824"]={"code":"356824","region":"Stavropol'skiy kray","city":"Pokoynoye","latitude":44.80972,"longitude":44.25167}}(window,'GeoPostal','RU');

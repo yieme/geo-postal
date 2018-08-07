@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368870"]={"code":"368870","region":"Dagestan, Respublika","city":"Tarumovka","latitude":44.07606,"longitude":46.53613}}(window,'GeoPostal','RU');

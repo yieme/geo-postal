@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP12 1DB"]={"code":"IP12 1DB","region":"England","city":"Woodbridge","latitude":52.09332,"longitude":1.32042}}(window,'GeoPostal','GB');

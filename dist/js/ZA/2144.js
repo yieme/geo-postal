@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2144"]={"code":"2144","region":"Gauteng","city":"Sandton","latitude":-26.05447,"longitude":28.05891}}(window,'GeoPostal','ZA');

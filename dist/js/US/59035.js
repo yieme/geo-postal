@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59035"]={"code":"59035","region":"MT","city":"Fort Smith","latitude":45.3127,"longitude":-107.9371}}(window,'GeoPostal','US');

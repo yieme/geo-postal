@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71250"]={"code":"71250","region":"LA","city":"Jones","latitude":32.9663,"longitude":-91.5965}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76-220"]={"code":"76-220","region":"Pomorskie","city":"Glowczyce","latitude":54.61935,"longitude":17.3723}}(window,'GeoPostal','PL');

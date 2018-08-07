@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49614"]={"code":"49614","region":"Michigan","city":"Bear Lake","latitude":44.42028,"longitude":-86.14528}}(window,'GeoPostal','US');

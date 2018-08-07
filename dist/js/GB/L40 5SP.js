@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L40 5SP"]={"code":"L40 5SP","region":"England","city":"Burscough","latitude":53.5964,"longitude":-2.83972}}(window,'GeoPostal','GB');

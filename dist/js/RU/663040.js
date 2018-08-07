@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663040"]={"code":"663040","region":"Krasnoyarskiy kray","city":"Sukhobuzimskoye","latitude":56.5,"longitude":93.27278}}(window,'GeoPostal','RU');

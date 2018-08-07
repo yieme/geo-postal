@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67741"]={"code":"67741","region":"Kansas","city":"Kanorado","latitude":39.336494,"longitude":-102.03677}}(window,'GeoPostal','US');

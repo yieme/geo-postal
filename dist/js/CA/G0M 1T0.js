@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0M 1T0"]={"code":"G0M 1T0","region":"Quebec","city":"Saint-Gedeon-de-Beauce","latitude":45.85008,"longitude":-70.63233}}(window,'GeoPostal','CA');

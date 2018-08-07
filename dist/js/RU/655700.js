@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655700"]={"code":"655700","region":"Khakasiya, Respublika","city":"Askiz","latitude":53.13194,"longitude":90.52639}}(window,'GeoPostal','RU');

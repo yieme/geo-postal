@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA19 1YP"]={"code":"CA19 1YP","region":"England","city":"Santon Bridge","latitude":54.38333,"longitude":-3.36667}}(window,'GeoPostal','GB');

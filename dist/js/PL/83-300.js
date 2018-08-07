@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-300"]={"code":"83-300","region":"Pomorskie","city":"Kartuzy","latitude":54.33424,"longitude":18.19735}}(window,'GeoPostal','PL');

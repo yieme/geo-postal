@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["248179"]={"code":"248179","region":"Uttarakhand","city":"Uttarkashi","latitude":30.73333,"longitude":78.45}}(window,'GeoPostal','IN');

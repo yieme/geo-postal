@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40384"]={"code":"40384","region":"KY","city":"Versailles","latitude":38.0526,"longitude":-84.7299}}(window,'GeoPostal','US');

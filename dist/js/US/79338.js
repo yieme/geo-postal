@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79338"]={"code":"79338","region":"TX","city":"Levelland","latitude":33.5932,"longitude":-102.3627}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73728"]={"code":"73728","region":"Oklahoma","city":"Cherokee","latitude":36.75447,"longitude":-98.35674}}(window,'GeoPostal','US');

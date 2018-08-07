@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62230"]={"code":"62230","region":"Illinois","city":"Breese","latitude":38.610387,"longitude":-89.527346}}(window,'GeoPostal','US');

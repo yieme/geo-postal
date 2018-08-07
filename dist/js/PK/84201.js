@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84201"]={"code":"84201","region":"Balochistan","city":"Duki","latitude":30.15414,"longitude":68.5728}}(window,'GeoPostal','PK');

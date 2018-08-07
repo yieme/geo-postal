@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["684350"]={"code":"684350","region":"Kamchatskiy kray","city":"Esso","latitude":55.93333,"longitude":158.7}}(window,'GeoPostal','RU');

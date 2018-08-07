@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94227"]={"code":"94227","region":"Bayern","city":"Zwiesel","latitude":49.01693,"longitude":13.23765}}(window,'GeoPostal','DE');

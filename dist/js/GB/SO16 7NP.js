@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO16 7NP"]={"code":"SO16 7NP","region":"England","city":"Southampton","latitude":50.90395,"longitude":-1.40428}}(window,'GeoPostal','GB');

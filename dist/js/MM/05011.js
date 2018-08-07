@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05011"]={"code":"05011","region":"Mandalay","city":"Mandalay","latitude":21.97473,"longitude":96.08359}}(window,'GeoPostal','MM');

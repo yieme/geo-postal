@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42167"]={"code":"42167","region":"Banten","city":"Dahu","latitude":-6.2163,"longitude":105.874}}(window,'GeoPostal','ID');

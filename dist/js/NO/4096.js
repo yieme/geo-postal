@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4096"]={"code":"4096","region":"Rogaland","city":"Randaberg","latitude":58.99955,"longitude":5.61871}}(window,'GeoPostal','NO');

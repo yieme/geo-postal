@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83520"]={"code":"83520","region":"ID","city":"Ahsahka","latitude":46.5394,"longitude":-116.3233}}(window,'GeoPostal','US');

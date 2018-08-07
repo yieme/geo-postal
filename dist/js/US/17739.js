@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17739"]={"code":"17739","region":"Pennsylvania","city":"Jersey Mills","latitude":41.405645,"longitude":-77.455443}}(window,'GeoPostal','US');

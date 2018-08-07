@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31013"]={"code":"31013","region":"GA","city":"Clinchfield","latitude":32.3386,"longitude":-83.6926}}(window,'GeoPostal','US');

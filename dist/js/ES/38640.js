@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38640"]={"code":"38640","region":"Canarias","city":"Arona","latitude":28.09962,"longitude":-16.68102}}(window,'GeoPostal','ES');

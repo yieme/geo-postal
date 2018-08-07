@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01432"]={"code":"01432","region":"Massachusetts","city":"Ayer","latitude":42.5616,"longitude":-71.5622}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60000"]={"code":"60000","region":"Hauts-de-France","city":"Frocourt","latitude":49.3836,"longitude":2.085}}(window,'GeoPostal','FR');

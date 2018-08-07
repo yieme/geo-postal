@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56841"]={"code":"56841","region":"Rheinland-Pfalz","city":"Rissbach","latitude":49.96255,"longitude":7.10529}}(window,'GeoPostal','DE');

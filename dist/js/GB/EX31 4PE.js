@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX31 4PE"]={"code":"EX31 4PE","region":"England","city":"Parracombe","latitude":51.18658,"longitude":-3.90952}}(window,'GeoPostal','GB');

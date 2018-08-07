@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13120"]={"code":"13120","region":"NY","city":"Nedrow","latitude":42.9559,"longitude":-76.1529}}(window,'GeoPostal','US');

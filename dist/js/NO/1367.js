@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1367"]={"code":"1367","region":"Akershus","city":"Nesoddtangen","latitude":59.86553,"longitude":10.6594}}(window,'GeoPostal','NO');

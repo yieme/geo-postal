@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8772"]={"code":"8772","region":"Glarus","city":"Schwanden","latitude":46.99541,"longitude":9.0701}}(window,'GeoPostal','CH');

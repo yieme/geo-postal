@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49782"]={"code":"49782","region":"Michigan","city":"Beaver Island","latitude":45.667,"longitude":-85.533}}(window,'GeoPostal','US');

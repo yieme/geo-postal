@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249096"]={"code":"249096","region":"Kaluzhskaya oblast'","city":"Maloyaroslavets","latitude":55.01457,"longitude":36.47185}}(window,'GeoPostal','RU');

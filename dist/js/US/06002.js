@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06002"]={"code":"06002","region":"Connecticut","city":"Bloomfield","latitude":41.8407,"longitude":-72.7423}}(window,'GeoPostal','US');

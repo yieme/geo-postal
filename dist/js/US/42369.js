@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42369"]={"code":"42369","region":"KY","city":"Rockport","latitude":37.3554,"longitude":-87.0065}}(window,'GeoPostal','US');

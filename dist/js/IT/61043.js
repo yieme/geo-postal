@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61043"]={"code":"61043","region":"Marche","city":"Cagli","latitude":43.54566,"longitude":12.65266}}(window,'GeoPostal','IT');

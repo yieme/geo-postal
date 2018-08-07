@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA11 1DR"]={"code":"SA11 1DR","region":"Wales","city":"Neath","latitude":51.66317,"longitude":-3.80443}}(window,'GeoPostal','GB');

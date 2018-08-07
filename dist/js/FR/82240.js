@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82240"]={"code":"82240","region":"Occitanie","city":"Septfonds","latitude":44.17813,"longitude":1.61806}}(window,'GeoPostal','FR');

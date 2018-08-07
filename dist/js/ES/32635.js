@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32635"]={"code":"32635","region":"Galicia","city":"Xinzo de Limia","latitude":42.0635,"longitude":-7.72459}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62600"]={"code":"62600","region":"Keski-Pohjanmaa","city":"Kaustinen","latitude":63.54878,"longitude":23.68845}}(window,'GeoPostal','FI');

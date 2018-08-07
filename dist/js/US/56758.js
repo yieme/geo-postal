@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56758"]={"code":"56758","region":"Minnesota","city":"Strandquist","latitude":48.456784,"longitude":-96.452229}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49302"]={"code":"49302","region":"MI","city":"Alto","latitude":42.8243,"longitude":-85.4256}}(window,'GeoPostal','US');

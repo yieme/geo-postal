@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48700-000"]={"code":"48700-000","region":"Bahia","city":"Serrinha","latitude":-11.66417,"longitude":-39.0075}}(window,'GeoPostal','BR');

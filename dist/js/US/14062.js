@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14062"]={"code":"14062","region":"NY","city":"Forestville","latitude":42.4482,"longitude":-79.1607}}(window,'GeoPostal','US');

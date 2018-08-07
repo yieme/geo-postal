@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0A 1J0"]={"code":"N0A 1J0","region":"Ontario","city":"Haldimand County","latitude":42.887534,"longitude":-80.112455}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88439"]={"code":"88439","region":"NM","city":"Trementina","latitude":35.4563,"longitude":-104.6796}}(window,'GeoPostal','US');

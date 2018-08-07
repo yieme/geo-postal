@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00604"]={"code":"00604","region":"Aguadilla","city":"San Antonio","latitude":18.49217,"longitude":-67.09851}}(window,'GeoPostal','PR');

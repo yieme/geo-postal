@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0V 2P0"]={"code":"P0V 2P0","region":"Ontario","city":"Sachigo Lake","latitude":53.86687,"longitude":-92.16697}}(window,'GeoPostal','CA');

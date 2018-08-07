@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8100"]={"code":"8100","region":"Jendouba","city":"Jendouba","latitude":36.50114,"longitude":8.78024}}(window,'GeoPostal','TN');

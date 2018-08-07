@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25676"]={"code":"25676","region":"West Virginia","city":"Lenore","latitude":37.807671,"longitude":-82.270128}}(window,'GeoPostal','US');

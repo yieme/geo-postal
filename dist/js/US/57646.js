@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57646"]={"code":"57646","region":"South Dakota","city":"Mound City","latitude":45.72527,"longitude":-100.06845}}(window,'GeoPostal','US');

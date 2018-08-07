@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37143"]={"code":"37143","region":"TN","city":"Pegram","latitude":36.1129,"longitude":-87.0316}}(window,'GeoPostal','US');

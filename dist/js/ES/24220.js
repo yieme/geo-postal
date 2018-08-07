@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24220"]={"code":"24220","region":"Castilla y Leon","city":"Valderas","latitude":42.0783,"longitude":-5.44355}}(window,'GeoPostal','ES');

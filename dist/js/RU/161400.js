@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["161400"]={"code":"161400","region":"Vologodskaya oblast'","city":"Kichmengskiy Gorodok","latitude":59.98164,"longitude":45.78543}}(window,'GeoPostal','RU');

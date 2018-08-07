@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169250"]={"code":"169250","region":"Komi, Respublika","city":"Blagoyevo","latitude":63.36667,"longitude":47.91667}}(window,'GeoPostal','RU');

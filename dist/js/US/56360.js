@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56360"]={"code":"56360","region":"Minnesota","city":"Osakis","latitude":45.86691,"longitude":-95.15225}}(window,'GeoPostal','US');

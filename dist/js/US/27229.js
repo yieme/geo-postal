@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27229"]={"code":"27229","region":"NC","city":"Candor","latitude":35.2234,"longitude":-79.7876}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84300"]={"code":"84300","region":"Provence-Alpes-Cote d'Azur","city":"Taillades","latitude":43.83592,"longitude":5.09216}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8M 0A1"]={"code":"G8M 0A1","region":"Quebec","city":"Albanel","latitude":48.88324,"longitude":-72.44867}}(window,'GeoPostal','CA');

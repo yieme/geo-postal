@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2655-241"]={"code":"2655-241","region":"Lisboa","city":"Ericeira","latitude":38.96275,"longitude":-9.41563}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83043"]={"code":"83043","region":"Campania","city":"Bagnoli Irpino","latitude":40.83312,"longitude":15.07255}}(window,'GeoPostal','IT');

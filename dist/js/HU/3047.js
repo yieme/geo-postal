@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3047"]={"code":"3047","region":"Nograd","city":"Bujak","latitude":47.88352,"longitude":19.54381}}(window,'GeoPostal','HU');

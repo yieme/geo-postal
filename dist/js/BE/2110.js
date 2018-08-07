@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2110"]={"code":"2110","region":"Antwerpen","city":"Wijnegem","latitude":51.22787,"longitude":4.51895}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B6L 0A3"]={"code":"B6L 0A3","region":"Nova Scotia","city":"Riversdale","latitude":45.41685,"longitude":-63.04866}}(window,'GeoPostal','CA');

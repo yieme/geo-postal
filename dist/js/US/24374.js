@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24374"]={"code":"24374","region":"Virginia","city":"Speedwell","latitude":36.786757,"longitude":-81.193654}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69928-000"]={"code":"69928-000","region":"Acre","city":"Placido de Castro","latitude":-10.33528,"longitude":-67.18556}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29829"]={"code":"29829","region":"SC","city":"Graniteville","latitude":33.563,"longitude":-81.8147}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV12 4SD"]={"code":"IV12 4SD","region":"Scotland","city":"Nairn","latitude":57.58094,"longitude":-3.87973}}(window,'GeoPostal','GB');

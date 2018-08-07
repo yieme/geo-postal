@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90352"]={"code":"90352","region":"Zakarpatska oblast","city":"Bobovo","latitude":48.07166,"longitude":22.89585}}(window,'GeoPostal','UA');

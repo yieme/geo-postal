@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["075000"]={"code":"075000","region":"Hebei","city":"Zhangjiakou","latitude":40.81,"longitude":114.87944}}(window,'GeoPostal','CN');

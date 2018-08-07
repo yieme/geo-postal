@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4030000"]={"code":"4030000","region":"Biobio","city":"Concepcion","latitude":-36.82699,"longitude":-73.04977}}(window,'GeoPostal','CL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83623"]={"code":"83623","region":"Idaho","city":"Glenns Ferry","latitude":42.952195,"longitude":-115.298877}}(window,'GeoPostal','US');

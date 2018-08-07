@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68347"]={"code":"68347","region":"NE","city":"Eagle","latitude":40.8169,"longitude":-96.429}}(window,'GeoPostal','US');

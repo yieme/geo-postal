@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06642"]={"code":"06642","region":"Sachsen-Anhalt","city":"Wangen","latitude":51.2695,"longitude":11.54593}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3664"]={"code":"3664","region":"Borsod-Abauj-Zemplen","city":"Jardanhaza","latitude":48.15,"longitude":20.25}}(window,'GeoPostal','HU');

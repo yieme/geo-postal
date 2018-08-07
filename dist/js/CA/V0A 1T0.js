@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0A 1T0"]={"code":"V0A 1T0","region":"British Columbia","city":"Panorama","latitude":50.4687,"longitude":-116.22256}}(window,'GeoPostal','CA');

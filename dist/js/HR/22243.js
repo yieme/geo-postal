@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22243"]={"code":"22243","region":"Sibensko-kninska zupanija","city":"Murter","latitude":43.8125,"longitude":15.60611}}(window,'GeoPostal','HR');

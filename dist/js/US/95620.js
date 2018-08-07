@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95620"]={"code":"95620","region":"California","city":"Dixon","latitude":38.44546,"longitude":-121.8233}}(window,'GeoPostal','US');

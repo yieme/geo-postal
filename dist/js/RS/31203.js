@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31203"]={"code":"31203","region":"Prizrenski okrug","city":"Gjinoc","latitude":42.31833,"longitude":20.81861}}(window,'GeoPostal','RS');

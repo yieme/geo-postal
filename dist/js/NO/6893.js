@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6893"]={"code":"6893","region":"Sogn og Fjordane","city":"Vikoyri","latitude":61.08794,"longitude":6.5797}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16270"]={"code":"16270","region":"Castilla-La Mancha","city":"Villalpardo","latitude":39.46667,"longitude":-1.63333}}(window,'GeoPostal','ES');

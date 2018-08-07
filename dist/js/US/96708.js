@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96708"]={"code":"96708","region":"Hawaii","city":"Haiku","latitude":20.909638,"longitude":-156.300192}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07830"]={"code":"07830","region":"NJ","city":"Califon","latitude":40.7162,"longitude":-74.8152}}(window,'GeoPostal','US');

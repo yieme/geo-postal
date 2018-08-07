@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["660271"]={"code":"660271","region":"Taraba","city":"Jalingo","latitude":8.88333,"longitude":11.36667}}(window,'GeoPostal','NG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6532"]={"code":"6532","region":"Cebu","city":"Atop-atop","latitude":11.2322,"longitude":123.7602}}(window,'GeoPostal','PH');

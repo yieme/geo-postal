@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3580"]={"code":"3580","region":"Santa Fe","city":"Villa Ocampo","latitude":-28.48752,"longitude":-59.35515}}(window,'GeoPostal','AR');

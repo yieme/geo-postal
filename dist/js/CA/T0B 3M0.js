@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 3M0"]={"code":"T0B 3M0","region":"Alberta","city":"New Sarepta","latitude":53.26683,"longitude":-113.13528}}(window,'GeoPostal','CA');

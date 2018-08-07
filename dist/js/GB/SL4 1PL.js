@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL4 1PL"]={"code":"SL4 1PL","region":"England","city":"Cavendish","latitude":52.08721,"longitude":0.63352}}(window,'GeoPostal','GB');

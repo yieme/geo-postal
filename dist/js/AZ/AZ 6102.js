@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 6102"]={"code":"AZ 6102","region":"Ucar","city":"Ujar","latitude":40.51902,"longitude":47.65423}}(window,'GeoPostal','AZ');

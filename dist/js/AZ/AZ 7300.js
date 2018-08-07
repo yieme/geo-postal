@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 7300"]={"code":"AZ 7300","region":"Naxcivan","city":"Sedarak","latitude":39.71144,"longitude":44.88805}}(window,'GeoPostal','AZ');

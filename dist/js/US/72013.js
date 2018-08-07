@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72013"]={"code":"72013","region":"AR","city":"Bee Branch","latitude":35.4683,"longitude":-92.3779}}(window,'GeoPostal','US');

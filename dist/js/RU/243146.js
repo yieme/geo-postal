@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243146"]={"code":"243146","region":"Bryanskaya oblast'","city":"Klintsy","latitude":52.76019,"longitude":32.23934}}(window,'GeoPostal','RU');

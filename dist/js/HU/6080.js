@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6080"]={"code":"6080","region":"Bacs-Kiskun","city":"Szabadszallas","latitude":46.87575,"longitude":19.22324}}(window,'GeoPostal','HU');

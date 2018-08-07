@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364522"]={"code":"364522","region":"Gujarat","city":"Bagasra","latitude":21.48333,"longitude":70.95}}(window,'GeoPostal','IN');

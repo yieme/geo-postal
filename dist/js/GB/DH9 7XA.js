@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH9 7XA"]={"code":"DH9 7XA","region":"England","city":"Annfield Plain","latitude":54.85749,"longitude":-1.73827}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53380"]={"code":"53380","region":"Pays-de-la-Loire","city":"Juvigne","latitude":48.22891,"longitude":-1.03408}}(window,'GeoPostal','FR');

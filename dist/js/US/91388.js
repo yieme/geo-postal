@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91388"]={"code":"91388","region":"CA","city":"Pacific Tel","latitude":34.2,"longitude":-118.47}}(window,'GeoPostal','US');

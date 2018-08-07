@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17310"]={"code":"17310","region":"Nouvelle-Aquitaine","city":"Boyard-Ville","latitude":45.96717,"longitude":-1.24289}}(window,'GeoPostal','FR');

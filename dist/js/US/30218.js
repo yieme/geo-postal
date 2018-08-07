@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30218"]={"code":"30218","region":"Georgia","city":"Gay","latitude":33.104884,"longitude":-84.63108}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX31 4EB"]={"code":"EX31 4EB","region":"England","city":"Marwood","latitude":51.11898,"longitude":-4.08014}}(window,'GeoPostal','GB');

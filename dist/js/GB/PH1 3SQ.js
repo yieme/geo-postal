@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH1 3SQ"]={"code":"PH1 3SQ","region":"Scotland","city":"Buchanty","latitude":56.43463,"longitude":-3.73032}}(window,'GeoPostal','GB');

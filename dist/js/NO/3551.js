@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3551"]={"code":"3551","region":"Buskerud","city":"Gol","latitude":60.7014,"longitude":8.94572}}(window,'GeoPostal','NO');

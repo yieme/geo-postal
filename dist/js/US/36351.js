@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36351"]={"code":"36351","region":"AL","city":"New Brockton","latitude":31.369,"longitude":-85.9404}}(window,'GeoPostal','US');

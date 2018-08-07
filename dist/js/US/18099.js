@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18099"]={"code":"18099","region":"PA","city":"Emmaus","latitude":40.5395,"longitude":-75.4969}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40170"]={"code":"40170","region":"Kentucky","city":"Stephensport","latitude":37.898554,"longitude":-86.536842}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15680"]={"code":"15680","region":"PA","city":"Salina","latitude":40.5189,"longitude":-79.4959}}(window,'GeoPostal','US');

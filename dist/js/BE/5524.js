@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5524"]={"code":"5524","region":"Namur","city":"Onhaye","latitude":50.24148,"longitude":4.84069}}(window,'GeoPostal','BE');

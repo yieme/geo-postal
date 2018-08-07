@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57376"]={"code":"57376","region":"SD","city":"Tripp","latitude":43.2404,"longitude":-97.9713}}(window,'GeoPostal','US');

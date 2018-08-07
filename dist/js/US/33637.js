@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33637"]={"code":"33637","region":"Florida","city":"Temple Terrace","latitude":28.03024,"longitude":-82.36568}}(window,'GeoPostal','US');

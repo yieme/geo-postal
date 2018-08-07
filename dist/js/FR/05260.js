@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05260"]={"code":"05260","region":"Provence-Alpes-Cote d'Azur","city":"Chabottes","latitude":44.6439,"longitude":6.1717}}(window,'GeoPostal','FR');

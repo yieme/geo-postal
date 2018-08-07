@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368120"]={"code":"368120","region":"Dagestan, Respublika","city":"Kizilyurt","latitude":43.20697,"longitude":46.8679}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2042"]={"code":"2042","region":"Asuncion","city":"Asuncion","latitude":-25.30066,"longitude":-57.63591}}(window,'GeoPostal','PY');

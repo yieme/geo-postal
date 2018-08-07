@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2200"]={"code":"2200","region":"Tozeur","city":"Tozeur","latitude":33.91968,"longitude":8.13352}}(window,'GeoPostal','TN');

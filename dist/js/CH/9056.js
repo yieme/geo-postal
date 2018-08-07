@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9056"]={"code":"9056","region":"Appenzell Ausserrhoden","city":"Gais","latitude":47.3615,"longitude":9.45356}}(window,'GeoPostal','CH');

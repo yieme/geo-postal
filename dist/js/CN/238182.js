@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238182"]={"code":"238182","region":"Anhui","city":"Huanfeng","latitude":31.71667,"longitude":118.1}}(window,'GeoPostal','CN');

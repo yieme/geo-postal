@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-247"]={"code":"44-247","region":"Slaskie","city":"Zory","latitude":50.04523,"longitude":18.70062}}(window,'GeoPostal','PL');

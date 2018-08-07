@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692941"]={"code":"692941","region":"Primorskiy kray","city":"Vrangel'","latitude":42.72972,"longitude":133.08389}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67659"]={"code":"67659","region":"KS","city":"Penokee","latitude":39.3482,"longitude":-99.9719}}(window,'GeoPostal','US');

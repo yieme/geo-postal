@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 2J0"]={"code":"V0K 2J0","region":"British Columbia","city":"Copper Creek","latitude":50.78307,"longitude":-120.76924}}(window,'GeoPostal','CA');

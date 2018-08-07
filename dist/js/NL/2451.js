@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2451"]={"code":"2451","region":"Zuid-Holland","city":"Leimuiden","latitude":52.22417,"longitude":4.66944}}(window,'GeoPostal','NL');

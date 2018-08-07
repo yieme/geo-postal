@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247626"]={"code":"247626","region":"Valcea","city":"Pietrari","latitude":45.1,"longitude":24.13333}}(window,'GeoPostal','RO');

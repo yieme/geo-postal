@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74254"]={"code":"74254","region":"Federacija Bosne i Hercegovine","city":"Novi Seher","latitude":44.51028,"longitude":18.02583}}(window,'GeoPostal','BA');

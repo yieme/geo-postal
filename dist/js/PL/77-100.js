@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-100"]={"code":"77-100","region":"Pomorskie","city":"Bytow","latitude":54.17057,"longitude":17.49187}}(window,'GeoPostal','PL');

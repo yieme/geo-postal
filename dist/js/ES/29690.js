@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29690"]={"code":"29690","region":"Andalucia","city":"Casares","latitude":36.44689,"longitude":-5.2858}}(window,'GeoPostal','ES');

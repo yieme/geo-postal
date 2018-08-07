@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76690"]={"code":"76690","region":"TX","city":"Walnut Springs","latitude":32.0593,"longitude":-97.7514}}(window,'GeoPostal','US');

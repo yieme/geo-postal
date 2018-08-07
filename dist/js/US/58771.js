@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58771"]={"code":"58771","region":"North Dakota","city":"Plaza","latitude":48.02472,"longitude":-101.96056}}(window,'GeoPostal','US');

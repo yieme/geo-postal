@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3853"]={"code":"3853","region":"Gelderland","city":"Horst","latitude":52.30833,"longitude":5.58194}}(window,'GeoPostal','NL');

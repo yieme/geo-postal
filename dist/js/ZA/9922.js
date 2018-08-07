@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9922"]={"code":"9922","region":"Northern Cape","city":"Colesberg","latitude":-30.71999,"longitude":25.09718}}(window,'GeoPostal','ZA');

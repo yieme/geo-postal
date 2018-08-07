@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP6 9NJ"]={"code":"IP6 9NJ","region":"England","city":"Swilland","latitude":52.13109,"longitude":1.19648}}(window,'GeoPostal','GB');

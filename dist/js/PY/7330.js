@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7330"]={"code":"7330","region":"Alto Parana","city":"Itaquyry","latitude":-24.93333,"longitude":-55.21667}}(window,'GeoPostal','PY');

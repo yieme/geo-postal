@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84017"]={"code":"84017","region":"Utah","city":"Coalville","latitude":40.91773,"longitude":-111.39936}}(window,'GeoPostal','US');

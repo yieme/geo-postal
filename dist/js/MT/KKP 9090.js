@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KKP 9090"]={"code":"KKP 9090","region":"Kirkop","city":"Kirkop","latitude":35.84222,"longitude":14.48528}}(window,'GeoPostal','MT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396340"]={"code":"396340","region":"Voronezhskaya oblast'","city":"Kolodeznyy","latitude":51.33333,"longitude":39.18333}}(window,'GeoPostal','RU');

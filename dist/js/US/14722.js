@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14722"]={"code":"14722","region":"NY","city":"Chautauqua","latitude":42.2098,"longitude":-79.4667}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39006"]={"code":"39006","region":"Poltavska oblast","city":"Hlobyne","latitude":49.38784,"longitude":33.25959}}(window,'GeoPostal','UA');

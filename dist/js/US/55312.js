@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55312"]={"code":"55312","region":"Minnesota","city":"Brownton","latitude":44.732133,"longitude":-94.350305}}(window,'GeoPostal','US');

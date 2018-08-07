@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3501"]={"code":"3501","region":"Elbasan","city":"Peqin","latitude":41.04611,"longitude":19.75111}}(window,'GeoPostal','AL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 2H0"]={"code":"S0C 2H0","region":"Saskatchewan","city":"Redvers","latitude":49.56672,"longitude":-101.70093}}(window,'GeoPostal','CA');

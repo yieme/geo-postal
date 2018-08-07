@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41006"]={"code":"41006","region":"KY","city":"Butler","latitude":38.8013,"longitude":-84.3446}}(window,'GeoPostal','US');

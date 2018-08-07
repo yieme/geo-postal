@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29448"]={"code":"29448","region":"SC","city":"Harleyville","latitude":33.2205,"longitude":-80.4501}}(window,'GeoPostal','US');

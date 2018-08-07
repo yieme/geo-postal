@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN17 4QN"]={"code":"DN17 4QN","region":"England","city":"Luddington","latitude":53.63333,"longitude":-0.75}}(window,'GeoPostal','GB');

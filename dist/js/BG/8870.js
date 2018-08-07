@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8870"]={"code":"8870","region":"Sliven","city":"Kermen","latitude":42.5,"longitude":26.25}}(window,'GeoPostal','BG');

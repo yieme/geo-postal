@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76377"]={"code":"76377","region":"TX","city":"Petrolia","latitude":34.0132,"longitude":-98.2323}}(window,'GeoPostal','US');

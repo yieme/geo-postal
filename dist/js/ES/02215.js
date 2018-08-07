@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02215"]={"code":"02215","region":"Castilla-La Mancha","city":"Villatoya","latitude":39.33333,"longitude":-1.3}}(window,'GeoPostal','ES');

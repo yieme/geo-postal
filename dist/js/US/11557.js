@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11557"]={"code":"11557","region":"New York","city":"Hewlett","latitude":40.633056,"longitude":-73.695833}}(window,'GeoPostal','US');

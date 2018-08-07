@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29583"]={"code":"29583","region":"South Carolina","city":"Pamplico","latitude":33.996,"longitude":-79.57006}}(window,'GeoPostal','US');

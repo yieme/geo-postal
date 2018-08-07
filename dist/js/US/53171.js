@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53171"]={"code":"53171","region":"WI","city":"Somers","latitude":42.6423,"longitude":-87.9032}}(window,'GeoPostal','US');

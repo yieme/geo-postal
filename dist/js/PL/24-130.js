@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24-130"]={"code":"24-130","region":"Lubelskie","city":"Konskowola","latitude":51.40922,"longitude":22.05175}}(window,'GeoPostal','PL');

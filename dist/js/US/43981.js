@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43981"]={"code":"43981","region":"OH","city":"New Athens","latitude":40.1839,"longitude":-80.9959}}(window,'GeoPostal','US');

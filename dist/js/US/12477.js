@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12477"]={"code":"12477","region":"New York","city":"Saugerties","latitude":42.07759,"longitude":-73.95291}}(window,'GeoPostal','US');

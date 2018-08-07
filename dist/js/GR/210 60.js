@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["210 60"]={"code":"210 60","region":"Peloponnisos","city":"Drepanon","latitude":37.54255,"longitude":22.89419}}(window,'GeoPostal','GR');

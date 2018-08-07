@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43032"]={"code":"43032","region":"OH","city":"Kilbourne","latitude":40.3286,"longitude":-82.9588}}(window,'GeoPostal','US');

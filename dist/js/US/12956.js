@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12956"]={"code":"12956","region":"New York","city":"Mineville","latitude":44.09283,"longitude":-73.51818}}(window,'GeoPostal','US');

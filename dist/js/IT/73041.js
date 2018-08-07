@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73041"]={"code":"73041","region":"Puglia","city":"Carmiano","latitude":40.34483,"longitude":18.04302}}(window,'GeoPostal','IT');

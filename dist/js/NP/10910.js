@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10910"]={"code":"10910","region":"Seti","city":"Dhangarhi","latitude":28.70792,"longitude":80.59611}}(window,'GeoPostal','NP');

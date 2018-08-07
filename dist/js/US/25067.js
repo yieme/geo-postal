@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25067"]={"code":"25067","region":"WV","city":"East Bank","latitude":38.2099,"longitude":-81.4381}}(window,'GeoPostal','US');

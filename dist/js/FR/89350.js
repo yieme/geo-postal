@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89350"]={"code":"89350","region":"Bourgogne-Franche-Comte","city":"Champignelles","latitude":47.78009,"longitude":3.07457}}(window,'GeoPostal','FR');

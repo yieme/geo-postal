@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4608"]={"code":"4608","region":"Queensland","city":"Tingoora","latitude":-26.36667,"longitude":151.81667}}(window,'GeoPostal','AU');

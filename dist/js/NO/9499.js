@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9499"]={"code":"9499","region":"Troms","city":"Harstad","latitude":68.79833,"longitude":16.54165}}(window,'GeoPostal','NO');

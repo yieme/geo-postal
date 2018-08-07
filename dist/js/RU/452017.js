@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452017"]={"code":"452017","region":"Bashkortostan, Respublika","city":"Priyutovo","latitude":53.9,"longitude":53.93333}}(window,'GeoPostal','RU');

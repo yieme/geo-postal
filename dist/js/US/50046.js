@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50046"]={"code":"50046","region":"IA","city":"Cambridge","latitude":41.9025,"longitude":-93.5305}}(window,'GeoPostal','US');

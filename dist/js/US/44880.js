@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44880"]={"code":"44880","region":"OH","city":"Sullivan","latitude":41.0368,"longitude":-82.2172}}(window,'GeoPostal','US');

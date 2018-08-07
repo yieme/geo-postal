@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17965"]={"code":"17965","region":"PA","city":"Port Carbon","latitude":40.6977,"longitude":-76.166}}(window,'GeoPostal','US');

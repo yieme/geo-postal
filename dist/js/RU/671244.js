@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671244"]={"code":"671244","region":"Buryatiya, Respublika","city":"Kabansk","latitude":52.04861,"longitude":106.65278}}(window,'GeoPostal','RU');

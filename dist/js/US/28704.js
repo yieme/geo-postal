@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28704"]={"code":"28704","region":"North Carolina","city":"Arden","latitude":35.472328,"longitude":-82.52116}}(window,'GeoPostal','US');

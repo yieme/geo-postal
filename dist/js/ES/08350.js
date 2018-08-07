@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08350"]={"code":"08350","region":"Catalunya","city":"Arenys de Mar","latitude":41.5819,"longitude":2.54936}}(window,'GeoPostal','ES');

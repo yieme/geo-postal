@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4520-819"]={"code":"4520-819","region":"Aveiro","city":"Cortegaca","latitude":40.94883,"longitude":-8.6213}}(window,'GeoPostal','PT');

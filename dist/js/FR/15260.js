@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15260"]={"code":"15260","region":"Auvergne-Rhone-Alpes","city":"Neuveglise","latitude":44.92787,"longitude":2.98343}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20646"]={"code":"20646","region":"Maryland","city":"La Plata","latitude":38.524678,"longitude":-76.97363}}(window,'GeoPostal','US');

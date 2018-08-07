@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84330"]={"code":"84330","region":"Sonora","city":"Santa Ana","latitude":30.55,"longitude":-111.11667}}(window,'GeoPostal','MX');

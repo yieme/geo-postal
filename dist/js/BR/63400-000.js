@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63400-000"]={"code":"63400-000","region":"Ceara","city":"Cedro","latitude":-6.60667,"longitude":-39.06222}}(window,'GeoPostal','BR');

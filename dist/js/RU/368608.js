@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368608"]={"code":"368608","region":"Dagestan, Respublika","city":"Derbent","latitude":42.0678,"longitude":48.28987}}(window,'GeoPostal','RU');

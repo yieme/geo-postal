@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO15 2AJ"]={"code":"YO15 2AJ","region":"England","city":"Bridlington","latitude":54.08306,"longitude":-0.19192}}(window,'GeoPostal','GB');

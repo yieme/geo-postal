@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12417"]={"code":"12417","region":"NY","city":"Connelly","latitude":41.9076,"longitude":-73.9893}}(window,'GeoPostal','US');

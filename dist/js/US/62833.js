@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62833"]={"code":"62833","region":"Illinois","city":"Ellery","latitude":38.360093,"longitude":-88.133392}}(window,'GeoPostal','US');

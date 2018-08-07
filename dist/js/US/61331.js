@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61331"]={"code":"61331","region":"IL","city":"Lee Center","latitude":41.7488,"longitude":-89.2827}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8093"]={"code":"8093","region":"Steiermark","city":"Mettersdorf am Sassbach","latitude":46.80583,"longitude":15.71111}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 6RY"]={"code":"PE31 6RY","region":"England","city":"Shernborne","latitude":52.86177,"longitude":0.54412}}(window,'GeoPostal','GB');

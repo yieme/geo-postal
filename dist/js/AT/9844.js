@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9844"]={"code":"9844","region":"Karnten","city":"Heiligenblut","latitude":47.03979,"longitude":12.84345}}(window,'GeoPostal','AT');

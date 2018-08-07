@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06178"]={"code":"06178","region":"Extremadura","city":"Valle de Santa Ana","latitude":38.36637,"longitude":-6.7886}}(window,'GeoPostal','ES');

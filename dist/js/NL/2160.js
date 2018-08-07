@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2160"]={"code":"2160","region":"Zuid-Holland","city":"Lisse","latitude":52.26,"longitude":4.55694}}(window,'GeoPostal','NL');

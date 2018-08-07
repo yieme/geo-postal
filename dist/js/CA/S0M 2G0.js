@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 2G0"]={"code":"S0M 2G0","region":"Saskatchewan","city":"Paradise Hill","latitude":53.53348,"longitude":-109.46821}}(window,'GeoPostal','CA');

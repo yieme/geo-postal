@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5547"]={"code":"5547","region":"Rogaland","city":"Utsira","latitude":59.3057,"longitude":4.8862}}(window,'GeoPostal','NO');

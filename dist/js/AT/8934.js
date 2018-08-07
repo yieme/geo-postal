@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8934"]={"code":"8934","region":"Oberosterreich","city":"Weyer Markt","latitude":47.85,"longitude":14.66667}}(window,'GeoPostal','AT');

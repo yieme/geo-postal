@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL18 6AH"]={"code":"LL18 6AH","region":"Wales","city":"Dyserth","latitude":53.30032,"longitude":-3.41262}}(window,'GeoPostal','GB');

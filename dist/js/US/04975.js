@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04975"]={"code":"04975","region":"ME","city":"Shawmut","latitude":44.6245,"longitude":-69.5869}}(window,'GeoPostal','US');

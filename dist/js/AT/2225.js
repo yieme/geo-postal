@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2225"]={"code":"2225","region":"Niederosterreich","city":"Zistersdorf","latitude":48.53333,"longitude":16.75}}(window,'GeoPostal','AT');

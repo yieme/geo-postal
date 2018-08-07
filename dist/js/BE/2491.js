@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2491"]={"code":"2491","region":"Antwerpen","city":"Balen","latitude":51.16837,"longitude":5.17027}}(window,'GeoPostal','BE');

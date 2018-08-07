@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23347"]={"code":"23347","region":"Virginia","city":"Eastville","latitude":37.35264,"longitude":-75.94576}}(window,'GeoPostal','US');

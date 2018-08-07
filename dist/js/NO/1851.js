@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1851"]={"code":"1851","region":"Ostfold","city":"Mysen","latitude":59.55354,"longitude":11.32578}}(window,'GeoPostal','NO');

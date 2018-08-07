@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4W 0B3"]={"code":"E4W 0B3","region":"New Brunswick","city":"Rexton","latitude":46.64983,"longitude":-64.88294}}(window,'GeoPostal','CA');

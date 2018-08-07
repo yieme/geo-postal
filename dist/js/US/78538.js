@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78538"]={"code":"78538","region":"TX","city":"Edcouch","latitude":26.3328,"longitude":-97.9622}}(window,'GeoPostal','US');

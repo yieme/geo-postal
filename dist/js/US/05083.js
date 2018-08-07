@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05083"]={"code":"05083","region":"VT","city":"West Fairlee","latitude":43.9189,"longitude":-72.2681}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO21 2JJ"]={"code":"YO21 2JJ","region":"England","city":"Danby","latitude":54.46606,"longitude":-0.91073}}(window,'GeoPostal','GB');

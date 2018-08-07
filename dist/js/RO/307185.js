@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307185"]={"code":"307185","region":"Timis","city":"Gataia","latitude":45.43111,"longitude":21.43}}(window,'GeoPostal','RO');

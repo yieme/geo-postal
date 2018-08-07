@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77905"]={"code":"77905","region":"Texas","city":"Victoria","latitude":28.886019,"longitude":-97.173507}}(window,'GeoPostal','US');

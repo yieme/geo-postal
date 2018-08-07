@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4347"]={"code":"4347","region":"Queensland","city":"Grantham","latitude":-27.57918,"longitude":152.20168}}(window,'GeoPostal','AU');

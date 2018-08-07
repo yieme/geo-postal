@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 6AE"]={"code":"SA33 6AE","region":"Wales","city":"Bwlchnewydd","latitude":51.89055,"longitude":-4.36597}}(window,'GeoPostal','GB');

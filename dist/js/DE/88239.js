@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88239"]={"code":"88239","region":"Baden-Wurttemberg","city":"Sattel","latitude":47.68333,"longitude":9.81667}}(window,'GeoPostal','DE');

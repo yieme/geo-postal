@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39772"]={"code":"39772","region":"Mississippi","city":"Weir","latitude":33.2661,"longitude":-89.28252}}(window,'GeoPostal','US');

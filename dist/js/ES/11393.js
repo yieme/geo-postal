@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11393"]={"code":"11393","region":"Andalucia","city":"Zahara de los Atunes","latitude":36.1369,"longitude":-5.84592}}(window,'GeoPostal','ES');

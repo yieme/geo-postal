@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO38 2PY"]={"code":"PO38 2PY","region":"England","city":"Whitwell","latitude":50.59844,"longitude":-1.2642}}(window,'GeoPostal','GB');

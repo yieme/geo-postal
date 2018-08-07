@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32242"]={"code":"32242","region":"Vukovarsko-srijemska zupanija","city":"Slakovci","latitude":45.22472,"longitude":18.95028}}(window,'GeoPostal','HR');

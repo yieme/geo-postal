@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08244"]={"code":"08244","region":"New Jersey","city":"Somers Point","latitude":39.321757,"longitude":-74.600816}}(window,'GeoPostal','US');

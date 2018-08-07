@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356615"]={"code":"356615","region":"Rostovskaya oblast'","city":"Krasnaya Polyana","latitude":46.11293,"longitude":41.50157}}(window,'GeoPostal','RU');

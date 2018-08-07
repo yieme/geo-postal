@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88301"]={"code":"88301","region":"NM","city":"Carrizozo","latitude":33.6496,"longitude":-105.8696}}(window,'GeoPostal','US');

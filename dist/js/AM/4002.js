@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4002"]={"code":"4002","region":"Tavus","city":"Ijevan","latitude":40.87832,"longitude":45.14922}}(window,'GeoPostal','AM');

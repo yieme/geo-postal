@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["444806"]={"code":"444806","region":"Maharashtra","city":"Amravati","latitude":20.93333,"longitude":77.75}}(window,'GeoPostal','IN');

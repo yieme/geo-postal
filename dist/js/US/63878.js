@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63878"]={"code":"63878","region":"MO","city":"Tallapoosa","latitude":36.503,"longitude":-89.8224}}(window,'GeoPostal','US');

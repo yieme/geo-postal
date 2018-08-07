@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84515"]={"code":"84515","region":"Utah","city":"Cisco","latitude":38.97071,"longitude":-109.31879}}(window,'GeoPostal','US');

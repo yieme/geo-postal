@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45641"]={"code":"45641","region":"Castilla-La Mancha","city":"El Real de San Vicente","latitude":40.13561,"longitude":-4.69095}}(window,'GeoPostal','ES');

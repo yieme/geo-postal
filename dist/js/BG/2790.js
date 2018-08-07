@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2790"]={"code":"2790","region":"Blagoevgrad","city":"Yakoruda","latitude":42.02528,"longitude":23.68417}}(window,'GeoPostal','BG');

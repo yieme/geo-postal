@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL1 4QZ"]={"code":"DL1 4QZ","region":"England","city":"Darlington","latitude":54.52429,"longitude":-1.55039}}(window,'GeoPostal','GB');

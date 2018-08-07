@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55384"]={"code":"55384","region":"MN","city":"Spring Park","latitude":44.9356,"longitude":-93.6341}}(window,'GeoPostal','US');

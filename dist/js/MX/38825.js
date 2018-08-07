@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38825"]={"code":"38825","region":"Guanajuato","city":"Moroleon","latitude":20.13333,"longitude":-101.2}}(window,'GeoPostal','MX');

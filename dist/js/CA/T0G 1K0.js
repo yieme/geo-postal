@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 1K0"]={"code":"T0G 1K0","region":"Alberta","city":"Kinuso","latitude":55.33342,"longitude":-115.41906}}(window,'GeoPostal','CA');

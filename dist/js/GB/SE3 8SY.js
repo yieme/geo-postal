@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE3 8SY"]={"code":"SE3 8SY","region":"England","city":"Blackheath","latitude":51.20554,"longitude":-0.52546}}(window,'GeoPostal','GB');

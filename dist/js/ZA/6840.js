@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6840"]={"code":"6840","region":"Western Cape","city":"Ceres","latitude":-33.36889,"longitude":19.31096}}(window,'GeoPostal','ZA');

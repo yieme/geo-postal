@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8532"]={"code":"8532","region":"Rio Negro","city":"Sierra Grande","latitude":-41.60602,"longitude":-65.35574}}(window,'GeoPostal','AR');

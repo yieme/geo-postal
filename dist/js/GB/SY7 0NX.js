@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY7 0NX"]={"code":"SY7 0NX","region":"England","city":"Broome","latitude":52.41667,"longitude":-2.88333}}(window,'GeoPostal','GB');

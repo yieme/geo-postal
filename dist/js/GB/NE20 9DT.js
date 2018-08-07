@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE20 9DT"]={"code":"NE20 9DT","region":"England","city":"Darras Hall","latitude":55.0356,"longitude":-1.76425}}(window,'GeoPostal','GB');

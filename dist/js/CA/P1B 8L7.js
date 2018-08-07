@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P1B 8L7"]={"code":"P1B 8L7","region":"Ontario","city":"North Bay","latitude":46.340541,"longitude":-79.490885}}(window,'GeoPostal','CA');

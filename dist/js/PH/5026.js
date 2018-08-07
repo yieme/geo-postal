@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5026"]={"code":"5026","region":"Iloilo","city":"Leon","latitude":10.78085,"longitude":122.3894}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86500"]={"code":"86500","region":"Nouvelle-Aquitaine","city":"Saulge","latitude":46.37758,"longitude":0.87577}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR6 6RA"]={"code":"WR6 6RA","region":"England","city":"Shelsley Beauchamp","latitude":52.26324,"longitude":-2.39498}}(window,'GeoPostal','GB');

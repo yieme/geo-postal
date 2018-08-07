@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05055"]={"code":"05055","region":"Vermont","city":"Norwich","latitude":43.73028,"longitude":-72.30306}}(window,'GeoPostal','US');

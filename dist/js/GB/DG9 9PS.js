@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 9PS"]={"code":"DG9 9PS","region":"Scotland","city":"Drummore","latitude":54.69006,"longitude":-4.89381}}(window,'GeoPostal','GB');

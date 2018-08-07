@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 5QT"]={"code":"DL8 5QT","region":"England","city":"Bellerby","latitude":54.33132,"longitude":-1.82478}}(window,'GeoPostal','GB');

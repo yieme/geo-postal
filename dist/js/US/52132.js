@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52132"]={"code":"52132","region":"Iowa","city":"Calmar","latitude":43.18194,"longitude":-91.86639}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607362"]={"code":"607362","region":"Arad","city":"Traian","latitude":43.76667,"longitude":25}}(window,'GeoPostal','RO');

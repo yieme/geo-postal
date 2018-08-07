@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607812"]={"code":"607812","region":"Nizhegorodskaya oblast'","city":"Lukoyanov","latitude":55.02772,"longitude":44.47865}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73080"]={"code":"73080","region":"Oklahoma","city":"Purcell","latitude":35.01368,"longitude":-97.36114}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 4Y0"]={"code":"S0G 4Y0","region":"Saskatchewan","city":"Vibank","latitude":50.33337,"longitude":-103.93437}}(window,'GeoPostal','CA');

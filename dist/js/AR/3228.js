@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3228"]={"code":"3228","region":"Entre Rios","city":"Chajari","latitude":-30.75048,"longitude":-57.97962}}(window,'GeoPostal','AR');

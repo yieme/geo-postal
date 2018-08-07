@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58219"]={"code":"58219","region":"Jawa Tengah","city":"Medang","latitude":-6.9136,"longitude":111.4396}}(window,'GeoPostal','ID');

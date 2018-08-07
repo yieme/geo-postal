@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48105"]={"code":"48105","region":"Ternopilska oblast","city":"Terebovlya","latitude":49.30187,"longitude":25.70997}}(window,'GeoPostal','UA');

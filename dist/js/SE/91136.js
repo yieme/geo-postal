@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91136"]={"code":"91136","region":"Vasterbottens lan","city":"Vannasby","latitude":63.93333,"longitude":19.83333}}(window,'GeoPostal','SE');

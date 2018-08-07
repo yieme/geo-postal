@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06031"]={"code":"06031","region":"Umbria","city":"Bevagna","latitude":42.93374,"longitude":12.60836}}(window,'GeoPostal','IT');

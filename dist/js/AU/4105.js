@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4105"]={"code":"4105","region":"Queensland","city":"Moorooka","latitude":-27.53436,"longitude":153.0246}}(window,'GeoPostal','AU');

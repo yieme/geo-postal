@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05847"]={"code":"05847","region":"Vermont","city":"Lowell","latitude":44.791657,"longitude":-72.457062}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41130"]={"code":"41130","region":"Centre-Val de Loire","city":"Selles-sur-Cher","latitude":47.27904,"longitude":1.55388}}(window,'GeoPostal','FR');

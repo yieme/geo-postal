@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15412"]={"code":"15412","region":"PA","city":"Allenport","latitude":40.0959,"longitude":-79.8499}}(window,'GeoPostal','US');

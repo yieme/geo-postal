@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05350"]={"code":"05350","region":"Vermont","city":"Readsboro","latitude":42.829722,"longitude":-72.988056}}(window,'GeoPostal','US');

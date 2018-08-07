@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61893"]={"code":"61893","region":"Ostergotlands lan","city":"Krokek","latitude":58.66667,"longitude":16.4}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9014"]={"code":"9014","region":"Misamis Oriental","city":"Mariano","latitude":8.83333,"longitude":125.11667}}(window,'GeoPostal','PH');

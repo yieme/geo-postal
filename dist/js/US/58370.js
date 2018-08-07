@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58370"]={"code":"58370","region":"ND","city":"Saint Michael","latitude":47.985,"longitude":-98.8721}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7153"]={"code":"7153","region":"Tolna","city":"Bonyhad","latitude":46.29921,"longitude":18.53024}}(window,'GeoPostal','HU');

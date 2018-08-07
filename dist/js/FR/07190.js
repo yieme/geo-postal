@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07190"]={"code":"07190","region":"Auvergne-Rhone-Alpes","city":"Saint-Sauveur-de-Montagut","latitude":44.82142,"longitude":4.57993}}(window,'GeoPostal','FR');

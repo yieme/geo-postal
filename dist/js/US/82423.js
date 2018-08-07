@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82423"]={"code":"82423","region":"Wyoming","city":"Frannie","latitude":44.971459,"longitude":-108.621016}}(window,'GeoPostal','US');

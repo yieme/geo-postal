@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98700"]={"code":"98700","region":"Sarawak","city":"Limbang","latitude":4.75,"longitude":115}}(window,'GeoPostal','MY');

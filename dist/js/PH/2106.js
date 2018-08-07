@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2106"]={"code":"2106","region":"Bataan","city":"Mariveles","latitude":14.4361,"longitude":120.4857}}(window,'GeoPostal','PH');

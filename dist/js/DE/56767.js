@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56767"]={"code":"56767","region":"Rheinland-Pfalz","city":"Hochstberg","latitude":50.25,"longitude":7}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82718"]={"code":"82718","region":"Wyoming","city":"Gillette","latitude":44.265481,"longitude":-105.522924}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125033"]={"code":"125033","region":"Haryana","city":"Hansi","latitude":29.1,"longitude":75.96667}}(window,'GeoPostal','IN');

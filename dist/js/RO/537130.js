@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537130"]={"code":"537130","region":"Harghita","city":"Ciumani","latitude":46.68333,"longitude":25.51667}}(window,'GeoPostal','RO');

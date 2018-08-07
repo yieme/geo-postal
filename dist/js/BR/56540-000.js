@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56540-000"]={"code":"56540-000","region":"Pernambuco","city":"Tupanatinga","latitude":-8.75333,"longitude":-37.33972}}(window,'GeoPostal','BR');

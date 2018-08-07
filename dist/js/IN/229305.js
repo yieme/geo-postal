@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["229305"]={"code":"229305","region":"Uttar Pradesh","city":"Jais","latitude":26.25,"longitude":81.53333}}(window,'GeoPostal','IN');

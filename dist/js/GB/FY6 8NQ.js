@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FY6 8NQ"]={"code":"FY6 8NQ","region":"England","city":"Great Singleton","latitude":53.83333,"longitude":-2.93333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24325"]={"code":"24325","region":"VA","city":"Dugspur","latitude":36.8145,"longitude":-80.6123}}(window,'GeoPostal','US');

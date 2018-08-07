@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97310"]={"code":"97310","region":"Guyane","city":"Kourou","latitude":5.15518,"longitude":-52.64779}}(window,'GeoPostal','GF');

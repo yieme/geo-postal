@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10120"]={"code":"10120","region":"Grand-Est","city":"Saint-Germain","latitude":48.25736,"longitude":4.03264}}(window,'GeoPostal','FR');

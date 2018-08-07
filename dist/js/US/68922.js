@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68922"]={"code":"68922","region":"Nebraska","city":"Arapahoe","latitude":40.305571,"longitude":-99.898944}}(window,'GeoPostal','US');

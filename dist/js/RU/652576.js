@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652576"]={"code":"652576","region":"Kemerovskaya oblast'","city":"Krasnoye","latitude":54.6068,"longitude":85.3899}}(window,'GeoPostal','RU');

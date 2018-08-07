@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16237"]={"code":"16237","region":"Castilla-La Mancha","city":"Ledana","latitude":39.36667,"longitude":-1.7}}(window,'GeoPostal','ES');

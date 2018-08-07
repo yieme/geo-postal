@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39737"]={"code":"39737","region":"MS","city":"Bellefontaine","latitude":33.6487,"longitude":-89.3101}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51466"]={"code":"51466","region":"Iowa","city":"Wall Lake","latitude":42.271481,"longitude":-95.092255}}(window,'GeoPostal','US');

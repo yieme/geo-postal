@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28040"]={"code":"28040","region":"NC","city":"Ellenboro","latitude":35.3344,"longitude":-81.7707}}(window,'GeoPostal','US');

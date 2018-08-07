@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63040"]={"code":"63040","region":"Missouri","city":"Wildwood","latitude":38.576576,"longitude":-90.628174}}(window,'GeoPostal','US');

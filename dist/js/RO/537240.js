@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537240"]={"code":"537240","region":"Harghita","city":"Praid","latitude":46.55,"longitude":25.13333}}(window,'GeoPostal','RO');

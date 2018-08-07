@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49849"]={"code":"49849","region":"Michigan","city":"Ishpeming","latitude":46.4952,"longitude":-87.72558}}(window,'GeoPostal','US');

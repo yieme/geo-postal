@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7031"]={"code":"7031","region":"Graubunden","city":"Laax","latitude":46.80452,"longitude":9.25787}}(window,'GeoPostal','CH');

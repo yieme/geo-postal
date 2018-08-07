@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15300"]={"code":"15300","region":"Auvergne-Rhone-Alpes","city":"Murat","latitude":45.10797,"longitude":2.86665}}(window,'GeoPostal','FR');

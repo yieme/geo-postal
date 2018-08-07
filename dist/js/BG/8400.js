@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8400"]={"code":"8400","region":"Burgas","city":"Karnobat","latitude":42.65,"longitude":26.98333}}(window,'GeoPostal','BG');

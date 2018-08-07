@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15155"]={"code":"15155","region":"Galicia","city":"Fisterra","latitude":42.90492,"longitude":-9.26289}}(window,'GeoPostal','ES');

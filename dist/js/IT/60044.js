@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60044"]={"code":"60044","region":"Marche","city":"Fabriano","latitude":43.34065,"longitude":12.90726}}(window,'GeoPostal','IT');

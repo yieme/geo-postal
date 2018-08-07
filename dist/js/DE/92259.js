@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92259"]={"code":"92259","region":"Bayern","city":"Peilstein","latitude":49.529,"longitude":11.64379}}(window,'GeoPostal','DE');

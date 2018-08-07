@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69033"]={"code":"69033","region":"Nebraska","city":"Imperial","latitude":40.51694,"longitude":-101.64323}}(window,'GeoPostal','US');

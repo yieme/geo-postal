@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK10 4JA"]={"code":"FK10 4JA","region":"Scotland","city":"Clackmannan","latitude":56.10743,"longitude":-3.75098}}(window,'GeoPostal','GB');

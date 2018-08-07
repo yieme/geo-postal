@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82-340"]={"code":"82-340","region":"Warminsko-mazurskie","city":"Tolkmicko","latitude":54.32038,"longitude":19.52695}}(window,'GeoPostal','PL');

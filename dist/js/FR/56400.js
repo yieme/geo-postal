@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56400"]={"code":"56400","region":"Bretagne","city":"Pluneret","latitude":47.67525,"longitude":-2.95782}}(window,'GeoPostal','FR');

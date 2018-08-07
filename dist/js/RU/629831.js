@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629831"]={"code":"629831","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Gubkinskiy","latitude":64.434,"longitude":76.50261}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15559"]={"code":"15559","region":"PA","city":"Schellsburg","latitude":40.0487,"longitude":-78.6482}}(window,'GeoPostal','US');

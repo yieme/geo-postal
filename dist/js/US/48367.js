@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48367"]={"code":"48367","region":"MI","city":"Leonard","latitude":42.8437,"longitude":-83.1406}}(window,'GeoPostal','US');

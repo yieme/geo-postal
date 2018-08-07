@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40290"]={"code":"40290","region":"Nouvelle-Aquitaine","city":"Habas","latitude":43.5718,"longitude":-0.92976}}(window,'GeoPostal','FR');

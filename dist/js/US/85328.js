@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85328"]={"code":"85328","region":"Arizona","city":"Cibola","latitude":33.31639,"longitude":-114.665}}(window,'GeoPostal','US');

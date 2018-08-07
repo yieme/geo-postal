@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19426"]={"code":"19426","region":"Pennsylvania","city":"Collegeville","latitude":40.18896,"longitude":-75.42636}}(window,'GeoPostal','US');

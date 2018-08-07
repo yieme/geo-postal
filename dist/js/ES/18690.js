@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18690"]={"code":"18690","region":"Andalucia","city":"Almunecar","latitude":36.73393,"longitude":-3.69072}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28423"]={"code":"28423","region":"North Carolina","city":"Bolton","latitude":34.32,"longitude":-78.405}}(window,'GeoPostal','US');

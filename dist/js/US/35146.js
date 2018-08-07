@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35146"]={"code":"35146","region":"AL","city":"Springville","latitude":33.7386,"longitude":-86.4394}}(window,'GeoPostal','US');

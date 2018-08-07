@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399770"]={"code":"399770","region":"Lipetskaya oblast'","city":"Yelets","latitude":52.62366,"longitude":38.50169}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9535"]={"code":"9535","region":"Karnten","city":"Velden am Worthersee","latitude":46.61301,"longitude":14.0413}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6000"]={"code":"6000","region":"Cebu","city":"Cebu City","latitude":10.31672,"longitude":123.89071}}(window,'GeoPostal','PH');

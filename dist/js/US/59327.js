@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59327"]={"code":"59327","region":"Montana","city":"Forsyth","latitude":46.26638,"longitude":-106.67781}}(window,'GeoPostal','US');

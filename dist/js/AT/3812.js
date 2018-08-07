@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3812"]={"code":"3812","region":"Niederosterreich","city":"Gross-Siegharts","latitude":48.78333,"longitude":15.4}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9169"]={"code":"9169","region":"Troms","city":"Burfjord","latitude":69.93804,"longitude":22.05205}}(window,'GeoPostal','NO');

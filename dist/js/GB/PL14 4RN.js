@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 4RN"]={"code":"PL14 4RN","region":"England","city":"Saint Keyne","latitude":50.41667,"longitude":-4.46667}}(window,'GeoPostal','GB');

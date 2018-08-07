@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58466"]={"code":"58466","region":"ND","city":"Marion","latitude":46.5514,"longitude":-98.369}}(window,'GeoPostal','US');

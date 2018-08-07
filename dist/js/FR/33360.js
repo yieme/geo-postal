@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33360"]={"code":"33360","region":"Nouvelle-Aquitaine","city":"Quinsac","latitude":44.75535,"longitude":-0.48697}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59343"]={"code":"59343","region":"MT","city":"Olive","latitude":45.5506,"longitude":-105.528}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02660"]={"code":"02660","region":"MA","city":"South Dennis","latitude":41.7097,"longitude":-70.1585}}(window,'GeoPostal','US');

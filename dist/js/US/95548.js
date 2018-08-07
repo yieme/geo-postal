@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95548"]={"code":"95548","region":"CA","city":"Klamath","latitude":41.5804,"longitude":-124.0387}}(window,'GeoPostal','US');

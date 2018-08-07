@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90027"]={"code":"90027","region":"California","city":"Hollywood","latitude":34.09834,"longitude":-118.32674}}(window,'GeoPostal','US');

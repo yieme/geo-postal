@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2140"]={"code":"2140","region":"New South Wales","city":"Flemington","latitude":-33.86667,"longitude":151.06667}}(window,'GeoPostal','AU');

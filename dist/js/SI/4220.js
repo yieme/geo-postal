@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4220"]={"code":"4220","region":"Skofja Loka","city":"Skofja Loka","latitude":46.16551,"longitude":14.30626}}(window,'GeoPostal','SI');

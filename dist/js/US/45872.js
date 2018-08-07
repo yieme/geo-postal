@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45872"]={"code":"45872","region":"OH","city":"North Baltimore","latitude":41.1867,"longitude":-83.6806}}(window,'GeoPostal','US');

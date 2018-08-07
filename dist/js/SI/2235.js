@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2235"]={"code":"2235","region":"Lenart","city":"Lenart v Slovenskih Goricah","latitude":46.57611,"longitude":15.83139}}(window,'GeoPostal','SI');

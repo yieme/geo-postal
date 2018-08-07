@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17489"]={"code":"17489","region":"Mecklenburg-Vorpommern","city":"Greifswald","latitude":54.09311,"longitude":13.38786}}(window,'GeoPostal','DE');

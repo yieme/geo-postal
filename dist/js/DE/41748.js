@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41748"]={"code":"41748","region":"Nordrhein-Westfalen","city":"Viersen","latitude":51.25435,"longitude":6.39441}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37530"]={"code":"37530","region":"Centre-Val de Loire","city":"Poce-sur-Cisse","latitude":47.4433,"longitude":0.99142}}(window,'GeoPostal','FR');

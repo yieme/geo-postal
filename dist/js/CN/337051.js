@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337051"]={"code":"337051","region":"Jiangxi","city":"Yinhe","latitude":27.69988,"longitude":114.11777}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79380"]={"code":"79380","region":"TX","city":"Whitharral","latitude":33.7354,"longitude":-102.3419}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43330"]={"code":"43330","region":"Auvergne-Rhone-Alpes","city":"Pont-Salomon","latitude":45.33924,"longitude":4.2481}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO8 5AB"]={"code":"CO8 5AB","region":"England","city":"Bures Saint Mary","latitude":51.9724,"longitude":0.77488}}(window,'GeoPostal','GB');

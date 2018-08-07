@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3500-999"]={"code":"3500-999","region":"Viseu","city":"Viseu","latitude":40.66101,"longitude":-7.90971}}(window,'GeoPostal','PT');

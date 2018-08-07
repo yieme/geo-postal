@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85037"]={"code":"85037","region":"Basilicata","city":"Sant'Arcangelo","latitude":40.24731,"longitude":16.27118}}(window,'GeoPostal','IT');

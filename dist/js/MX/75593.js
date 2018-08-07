@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75593"]={"code":"75593","region":"Puebla","city":"Morelos Canada","latitude":18.73333,"longitude":-97.41667}}(window,'GeoPostal','MX');

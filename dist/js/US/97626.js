@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97626"]={"code":"97626","region":"Oregon","city":"Fort Klamath","latitude":42.70234,"longitude":-121.99462}}(window,'GeoPostal','US');

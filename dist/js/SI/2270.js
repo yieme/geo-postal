@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2270"]={"code":"2270","region":"Ormoz","city":"Ormoz","latitude":46.41139,"longitude":16.15444}}(window,'GeoPostal','SI');

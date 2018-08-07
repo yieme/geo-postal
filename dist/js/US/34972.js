@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34972"]={"code":"34972","region":"Florida","city":"Okeechobee","latitude":27.24393,"longitude":-80.82978}}(window,'GeoPostal','US');

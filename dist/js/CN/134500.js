@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134500"]={"code":"134500","region":"Jilin","city":"Fusong","latitude":42.32505,"longitude":127.27265}}(window,'GeoPostal','CN');

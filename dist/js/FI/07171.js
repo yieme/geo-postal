@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07171"]={"code":"07171","region":"Uusimaa","city":"Pornainen","latitude":60.47581,"longitude":25.3749}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02725"]={"code":"02725","region":"Massachusetts","city":"Somerset","latitude":41.72346,"longitude":-71.17704}}(window,'GeoPostal','US');

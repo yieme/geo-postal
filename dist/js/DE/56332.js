@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56332"]={"code":"56332","region":"Rheinland-Pfalz","city":"Dieblich","latitude":50.31667,"longitude":7.46667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49816"]={"code":"49816","region":"MI","city":"Chatham","latitude":46.3477,"longitude":-86.929}}(window,'GeoPostal','US');

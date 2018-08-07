@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4625-429"]={"code":"4625-429","region":"Porto","city":"Teloes","latitude":41.31054,"longitude":-8.11101}}(window,'GeoPostal','PT');

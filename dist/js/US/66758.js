@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66758"]={"code":"66758","region":"KS","city":"Neosho Falls","latitude":37.9669,"longitude":-95.5497}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4645"]={"code":"4645","region":"Oberosterreich","city":"Gruenau im Almtal","latitude":47.85493,"longitude":13.95573}}(window,'GeoPostal','AT');

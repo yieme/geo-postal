@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16410"]={"code":"16410","region":"Ankara","city":"Etimesgut","latitude":39.95328,"longitude":32.63285}}(window,'GeoPostal','TR');

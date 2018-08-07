@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45775"]={"code":"45775","region":"OH","city":"Rutland","latitude":39.0909,"longitude":-82.1486}}(window,'GeoPostal','US');

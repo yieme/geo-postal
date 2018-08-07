@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6342"]={"code":"6342","region":"Tirol","city":"Niederndorf","latitude":47.65,"longitude":12.21667}}(window,'GeoPostal','AT');

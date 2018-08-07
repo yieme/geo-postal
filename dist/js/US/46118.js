@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46118"]={"code":"46118","region":"Indiana","city":"Clayton","latitude":39.68944,"longitude":-86.52278}}(window,'GeoPostal','US');

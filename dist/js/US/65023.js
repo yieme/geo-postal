@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65023"]={"code":"65023","region":"MO","city":"Centertown","latitude":38.6297,"longitude":-92.3995}}(window,'GeoPostal','US');

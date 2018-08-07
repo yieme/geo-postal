@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67484"]={"code":"67484","region":"KS","city":"Tescott","latitude":38.9916,"longitude":-97.8319}}(window,'GeoPostal','US');

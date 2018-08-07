@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76634"]={"code":"76634","region":"Texas","city":"Clifton","latitude":31.8117,"longitude":-97.49082}}(window,'GeoPostal','US');

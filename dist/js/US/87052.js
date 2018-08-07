@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87052"]={"code":"87052","region":"NM","city":"Santo Domingo Pueblo","latitude":35.5269,"longitude":-106.3445}}(window,'GeoPostal','US');

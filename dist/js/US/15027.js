@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15027"]={"code":"15027","region":"PA","city":"Conway","latitude":40.6649,"longitude":-80.2349}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 0B0"]={"code":"T0K 0B0","region":"Alberta","city":"Barnwell","latitude":49.76673,"longitude":-112.25181}}(window,'GeoPostal','CA');

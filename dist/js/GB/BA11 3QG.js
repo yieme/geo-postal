@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA11 3QG"]={"code":"BA11 3QG","region":"England","city":"Mells","latitude":51.24,"longitude":-2.39139}}(window,'GeoPostal','GB');

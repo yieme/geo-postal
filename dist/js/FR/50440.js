@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50440"]={"code":"50440","region":"Normandie","city":"Acqueville","latitude":49.6103,"longitude":-1.7481}}(window,'GeoPostal','FR');

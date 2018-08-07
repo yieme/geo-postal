@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54173"]={"code":"54173","region":"WI","city":"Suamico","latitude":44.6435,"longitude":-88.0317}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO21 3NE"]={"code":"SO21 3NE","region":"England","city":"Bullington","latitude":51.16667,"longitude":-1.33333}}(window,'GeoPostal','GB');

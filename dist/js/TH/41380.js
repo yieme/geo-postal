@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41380"]={"code":"41380","region":"Udon Thani","city":"Ban Phan Don","latitude":17.14272,"longitude":102.97261}}(window,'GeoPostal','TH');

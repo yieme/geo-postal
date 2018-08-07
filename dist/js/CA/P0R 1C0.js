@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0R 1C0"]={"code":"P0R 1C0","region":"Ontario","city":"Bruce Mines","latitude":46.30006,"longitude":-83.79992}}(window,'GeoPostal','CA');

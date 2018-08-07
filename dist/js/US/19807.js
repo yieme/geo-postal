@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19807"]={"code":"19807","region":"Delaware","city":"Greenville","latitude":39.79488,"longitude":-75.61674}}(window,'GeoPostal','US');

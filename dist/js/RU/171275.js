@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171275"]={"code":"171275","region":"Tverskaya oblast'","city":"Zavidovo","latitude":56.53333,"longitude":36.53333}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6475"]={"code":"6475","region":"Western Australia","city":"Koorda","latitude":-30.82565,"longitude":117.4879}}(window,'GeoPostal','AU');

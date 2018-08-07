@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61075"]={"code":"61075","region":"Illinois","city":"Scales Mound","latitude":42.47806,"longitude":-90.25056}}(window,'GeoPostal','US');

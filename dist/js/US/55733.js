@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55733"]={"code":"55733","region":"MN","city":"Esko","latitude":46.7126,"longitude":-92.3569}}(window,'GeoPostal','US');

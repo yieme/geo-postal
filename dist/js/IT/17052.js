@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17052"]={"code":"17052","region":"Liguria","city":"Borghetto Santo Spirito","latitude":44.11187,"longitude":8.24129}}(window,'GeoPostal','IT');

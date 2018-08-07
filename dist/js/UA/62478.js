@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62478"]={"code":"62478","region":"Kharkivska oblast","city":"Merefa","latitude":49.82302,"longitude":36.05069}}(window,'GeoPostal','UA');

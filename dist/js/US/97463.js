@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97463"]={"code":"97463","region":"Oregon","city":"Oakridge","latitude":43.74651,"longitude":-122.46172}}(window,'GeoPostal','US');

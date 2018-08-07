@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17314"]={"code":"17314","region":"PA","city":"Delta","latitude":39.7518,"longitude":-76.3441}}(window,'GeoPostal','US');

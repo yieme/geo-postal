@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346480"]={"code":"346480","region":"Rostovskaya oblast'","city":"Kamenolomni","latitude":47.66852,"longitude":40.2051}}(window,'GeoPostal','RU');

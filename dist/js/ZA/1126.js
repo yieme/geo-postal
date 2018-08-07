@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1126"]={"code":"1126","region":"Mpumalanga","city":"Lydenburg","latitude":-25.0978,"longitude":30.45967}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84003"]={"code":"84003","region":"Utah","city":"American Fork","latitude":40.41924,"longitude":-111.56526}}(window,'GeoPostal','US');

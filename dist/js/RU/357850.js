@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357850"]={"code":"357850","region":"Stavropol'skiy kray","city":"Kurskaya","latitude":44.05,"longitude":44.45}}(window,'GeoPostal','RU');

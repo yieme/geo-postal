@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68313"]={"code":"68313","region":"Nebraska","city":"Beaver Crossing","latitude":40.77889,"longitude":-97.28222}}(window,'GeoPostal','US');

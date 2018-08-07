@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26059"]={"code":"26059","region":"West Virginia","city":"Triadelphia","latitude":40.090243,"longitude":-80.621523}}(window,'GeoPostal','US');

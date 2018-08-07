@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62379"]={"code":"62379","region":"IL","city":"Warsaw","latitude":40.3544,"longitude":-91.4348}}(window,'GeoPostal','US');

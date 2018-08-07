@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL9 3NL"]={"code":"DL9 3NL","region":"England","city":"Catterick Camp","latitude":54.35,"longitude":-1.71667}}(window,'GeoPostal','GB');

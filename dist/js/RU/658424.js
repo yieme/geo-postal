@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658424"]={"code":"658424","region":"Altayskiy kray","city":"Gornyak","latitude":50.99417,"longitude":81.46611}}(window,'GeoPostal','RU');

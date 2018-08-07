@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48100"]={"code":"48100","region":"Emilia-Romagna","city":"Ravenna","latitude":44.4175,"longitude":12.20111}}(window,'GeoPostal','IT');

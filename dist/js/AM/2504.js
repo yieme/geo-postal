@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2504"]={"code":"2504","region":"Kotayk'","city":"Bjni","latitude":40.4559,"longitude":44.64812}}(window,'GeoPostal','AM');

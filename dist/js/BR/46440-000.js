@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46440-000"]={"code":"46440-000","region":"Bahia","city":"Carinhanha","latitude":-14.30472,"longitude":-43.765}}(window,'GeoPostal','BR');

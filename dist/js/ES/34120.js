@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34120"]={"code":"34120","region":"Castilla y Leon","city":"Carrion de los Condes","latitude":42.3413,"longitude":-4.60071}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47845"]={"code":"47845","region":"IN","city":"Coalmont","latitude":39.1934,"longitude":-87.2311}}(window,'GeoPostal','US');

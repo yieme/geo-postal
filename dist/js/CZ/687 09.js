@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687 09"]={"code":"687 09","region":"Zlinsky kraj","city":"Borsice","latitude":49.06254,"longitude":17.35084}}(window,'GeoPostal','CZ');

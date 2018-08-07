@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB31 6LZ"]={"code":"AB31 6LZ","region":"Scotland","city":"Finzean","latitude":57.02111,"longitude":-2.63294}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4615"]={"code":"4615","region":"Queensland","city":"Nanango","latitude":-26.67157,"longitude":152.00211}}(window,'GeoPostal','AU');

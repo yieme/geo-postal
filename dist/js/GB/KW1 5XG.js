@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW1 5XG"]={"code":"KW1 5XG","region":"Scotland","city":"Watten","latitude":58.47262,"longitude":-3.30589}}(window,'GeoPostal','GB');

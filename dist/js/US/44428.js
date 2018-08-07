@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44428"]={"code":"44428","region":"OH","city":"Kinsman","latitude":41.4354,"longitude":-80.5765}}(window,'GeoPostal','US');

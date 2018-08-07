@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30542"]={"code":"30542","region":"Georgia","city":"Roswell","latitude":34.186617,"longitude":-83.908277}}(window,'GeoPostal','US');

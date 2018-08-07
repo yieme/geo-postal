@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95981"]={"code":"95981","region":"California","city":"Strawberry Valley","latitude":39.564167,"longitude":-121.105833}}(window,'GeoPostal','US');

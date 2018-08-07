@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03222"]={"code":"03222","region":"NH","city":"Bristol","latitude":43.612,"longitude":-71.7507}}(window,'GeoPostal','US');

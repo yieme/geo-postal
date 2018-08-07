@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57509"]={"code":"57509","region":"Grand-Est","city":"Saint-Avold","latitude":49.1027,"longitude":6.70064}}(window,'GeoPostal','FR');

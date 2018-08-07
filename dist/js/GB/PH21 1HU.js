@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH21 1HU"]={"code":"PH21 1HU","region":"Scotland","city":"Kingussie","latitude":57.07996,"longitude":-4.05231}}(window,'GeoPostal','GB');

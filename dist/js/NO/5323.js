@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5323"]={"code":"5323","region":"Hordaland","city":"Askoy","latitude":60.4,"longitude":5.18333}}(window,'GeoPostal','NO');

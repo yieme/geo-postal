@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07069"]={"code":"07069","region":"NJ","city":"Watchung","latitude":40.6378,"longitude":-74.4514}}(window,'GeoPostal','US');

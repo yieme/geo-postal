@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04786"]={"code":"04786","region":"ME","city":"Washburn","latitude":46.7883,"longitude":-68.1338}}(window,'GeoPostal','US');

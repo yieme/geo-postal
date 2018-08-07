@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45885"]={"code":"45885","region":"Ohio","city":"Saint Marys","latitude":40.54227,"longitude":-84.3894}}(window,'GeoPostal','US');

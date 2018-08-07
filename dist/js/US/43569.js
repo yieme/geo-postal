@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43569"]={"code":"43569","region":"OH","city":"Weston","latitude":41.3516,"longitude":-83.7973}}(window,'GeoPostal','US');

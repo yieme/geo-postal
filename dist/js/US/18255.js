@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18255"]={"code":"18255","region":"Pennsylvania","city":"Weatherly","latitude":40.941024,"longitude":-75.827904}}(window,'GeoPostal','US');

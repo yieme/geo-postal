@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["441803"]={"code":"441803","region":"Hubei","city":"Gucheng","latitude":32.26604,"longitude":111.63476}}(window,'GeoPostal','CN');

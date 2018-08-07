@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71510"]={"code":"71510","region":"Oaxaca","city":"Oaxaca de Juarez","latitude":17.05,"longitude":-96.71667}}(window,'GeoPostal','MX');

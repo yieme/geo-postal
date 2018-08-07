@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA7 8EZ"]={"code":"TA7 8EZ","region":"England","city":"Woolavington","latitude":51.16493,"longitude":-2.93814}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62376"]={"code":"62376","region":"IL","city":"Ursa","latitude":40.0809,"longitude":-91.3733}}(window,'GeoPostal','US');

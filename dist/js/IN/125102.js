@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125102"]={"code":"125102","region":"Haryana","city":"Ellenabad","latitude":29.45,"longitude":74.65}}(window,'GeoPostal','IN');

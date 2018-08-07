@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95799"]={"code":"95799","region":"Norrbottens lan","city":"OEvertornea","latitude":66.38778,"longitude":23.65425}}(window,'GeoPostal','SE');

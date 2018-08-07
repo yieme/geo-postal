@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25430"]={"code":"25430","region":"Bourgogne-Franche-Comte","city":"Sancey-le-Grand","latitude":47.29489,"longitude":6.58287}}(window,'GeoPostal','FR');

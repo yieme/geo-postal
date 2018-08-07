@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44619"]={"code":"44619","region":"OH","city":"Damascus","latitude":40.9021,"longitude":-80.9628}}(window,'GeoPostal','US');

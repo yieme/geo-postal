@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0L 1C0"]={"code":"J0L 1C0","region":"Quebec","city":"Contrecoeur","latitude":45.85008,"longitude":-73.23245}}(window,'GeoPostal','CA');

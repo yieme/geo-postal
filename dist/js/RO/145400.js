@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["145400"]={"code":"145400","region":"Teleorman","city":"Zimnicea","latitude":43.66667,"longitude":25.36667}}(window,'GeoPostal','RO');

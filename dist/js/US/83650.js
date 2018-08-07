@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83650"]={"code":"83650","region":"ID","city":"Murphy","latitude":42.8481,"longitude":-116.6371}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317301"]={"code":"317301","region":"Arad","city":"Chisineu Cris","latitude":46.53333,"longitude":21.51667}}(window,'GeoPostal','RO');

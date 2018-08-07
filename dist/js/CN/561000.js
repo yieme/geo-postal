@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["561000"]={"code":"561000","region":"Guizhou","city":"Anshun","latitude":26.25,"longitude":105.93333}}(window,'GeoPostal','CN');

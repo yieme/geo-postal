@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75169"]={"code":"75169","region":"Texas","city":"Wills Point","latitude":32.7093,"longitude":-96.0083}}(window,'GeoPostal','US');

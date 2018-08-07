@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23451"]={"code":"23451","region":"Punjab","city":"Rawalpindi","latitude":33.6007,"longitude":73.0679}}(window,'GeoPostal','PK');

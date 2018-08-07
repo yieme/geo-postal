@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71450"]={"code":"71450","region":"LA","city":"Marthaville","latitude":31.7726,"longitude":-93.3954}}(window,'GeoPostal','US');

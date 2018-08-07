@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 1Y0"]={"code":"T0J 1Y0","region":"Alberta","city":"Lyalta","latitude":51.11682,"longitude":-113.60195}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3405"]={"code":"3405","region":"Corrientes","city":"Lomas de Vallejos","latitude":-27.73501,"longitude":-57.9185}}(window,'GeoPostal','AR');

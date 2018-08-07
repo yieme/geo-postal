@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35584"]={"code":"35584","region":"AL","city":"Sipsey","latitude":33.8201,"longitude":-87.0779}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42025"]={"code":"42025","region":"Emilia-Romagna","city":"Reggio nell'Emilia","latitude":44.69825,"longitude":10.63125}}(window,'GeoPostal','IT');

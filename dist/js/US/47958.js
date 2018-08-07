@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47958"]={"code":"47958","region":"IN","city":"Mellott","latitude":40.1641,"longitude":-87.1475}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70104"]={"code":"70104","region":"Viljandimaa","city":"Viiratsi","latitude":58.36,"longitude":25.63722}}(window,'GeoPostal','EE');

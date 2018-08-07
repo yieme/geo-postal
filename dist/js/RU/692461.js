@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692461"]={"code":"692461","region":"Primorskiy kray","city":"Ol'ga","latitude":43.74444,"longitude":135.28917}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50130"]={"code":"50130","region":"Etela-Savo","city":"Mikkeli","latitude":61.68857,"longitude":27.27227}}(window,'GeoPostal','FI');

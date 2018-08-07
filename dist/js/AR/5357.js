@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5357"]={"code":"5357","region":"La Rioja","city":"Vinchina","latitude":-28.75964,"longitude":-68.20692}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6314"]={"code":"6314","region":"Tirol","city":"Wildschoenau","latitude":47.40619,"longitude":12.03784}}(window,'GeoPostal','AT');

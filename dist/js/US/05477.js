@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05477"]={"code":"05477","region":"Vermont","city":"Richmond","latitude":44.38344,"longitude":-72.97356}}(window,'GeoPostal','US');

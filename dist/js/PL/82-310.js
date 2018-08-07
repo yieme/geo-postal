@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82-310"]={"code":"82-310","region":"Warminsko-mazurskie","city":"Elblag","latitude":54.1522,"longitude":19.40884}}(window,'GeoPostal','PL');

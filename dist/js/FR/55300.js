@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55300"]={"code":"55300","region":"Grand-Est","city":"Saint-Mihiel","latitude":48.88746,"longitude":5.55099}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76834"]={"code":"76834","region":"Texas","city":"Coleman","latitude":31.82737,"longitude":-99.42645}}(window,'GeoPostal','US');

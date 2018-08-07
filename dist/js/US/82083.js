@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82083"]={"code":"82083","region":"WY","city":"Rock River","latitude":41.7461,"longitude":-105.9746}}(window,'GeoPostal','US');

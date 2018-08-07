@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23002"]={"code":"23002","region":"Annaba","city":"Annaba","latitude":36.9,"longitude":7.76667}}(window,'GeoPostal','DZ');

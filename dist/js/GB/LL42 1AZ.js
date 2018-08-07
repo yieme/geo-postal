@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL42 1AZ"]={"code":"LL42 1AZ","region":"Wales","city":"Llanaber","latitude":52.74079,"longitude":-4.07382}}(window,'GeoPostal','GB');

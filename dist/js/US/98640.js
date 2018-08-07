@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98640"]={"code":"98640","region":"Washington","city":"Ocean Park","latitude":46.49149,"longitude":-124.05016}}(window,'GeoPostal','US');

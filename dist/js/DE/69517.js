@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69517"]={"code":"69517","region":"Hessen","city":"Kunzenbach","latitude":49.53333,"longitude":8.71667}}(window,'GeoPostal','DE');

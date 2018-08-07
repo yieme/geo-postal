@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132125"]={"code":"132125","region":"Haryana","city":"Thanesar","latitude":29.98333,"longitude":76.81667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62478"]={"code":"62478","region":"Illinois","city":"West York","latitude":39.206944,"longitude":-87.727243}}(window,'GeoPostal','US');

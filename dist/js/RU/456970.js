@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456970"]={"code":"456970","region":"Chelyabinskaya oblast'","city":"Nyazepetrovsk","latitude":56.05306,"longitude":59.60278}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84718"]={"code":"84718","region":"Utah","city":"Cannonville","latitude":37.566099,"longitude":-112.054132}}(window,'GeoPostal','US');

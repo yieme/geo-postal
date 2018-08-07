@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25843"]={"code":"25843","region":"WV","city":"Ghent","latitude":37.6208,"longitude":-81.1019}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH26 3DE"]={"code":"PH26 3DE","region":"Scotland","city":"Skye of Curr","latitude":57.3,"longitude":-3.66667}}(window,'GeoPostal','GB');

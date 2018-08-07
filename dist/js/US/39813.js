@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39813"]={"code":"39813","region":"Georgia","city":"Arlington","latitude":31.4399,"longitude":-84.72492}}(window,'GeoPostal','US');

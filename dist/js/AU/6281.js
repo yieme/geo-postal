@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6281"]={"code":"6281","region":"Western Australia","city":"Quindalup","latitude":-33.62906,"longitude":115.1223}}(window,'GeoPostal','AU');

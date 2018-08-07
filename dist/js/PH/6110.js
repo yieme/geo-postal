@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6110"]={"code":"6110","region":"Negros Occidental","city":"Caningay","latitude":9.8297,"longitude":122.6442}}(window,'GeoPostal','PH');

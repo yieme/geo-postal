@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["817215"]={"code":"817215","region":"Braila","city":"Viziru","latitude":45.01667,"longitude":27.7}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35576"]={"code":"35576","region":"Alabama","city":"Millport","latitude":33.56345,"longitude":-88.08142}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13830-000"]={"code":"13830-000","region":"Sao Paulo","city":"Santo Antonio de Posse","latitude":-22.60611,"longitude":-46.91944}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06716"]={"code":"06716","region":"Connecticut","city":"Wolcott","latitude":41.5915,"longitude":-72.97425}}(window,'GeoPostal','US');

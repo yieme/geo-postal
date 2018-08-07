@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22010"]={"code":"22010","region":"Lombardia","city":"Castello","latitude":46.02832,"longitude":9.05462}}(window,'GeoPostal','IT');

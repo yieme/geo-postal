@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423458"]={"code":"423458","region":"Tatarstan, Respublika","city":"Al'met'yevsk","latitude":54.90442,"longitude":52.3154}}(window,'GeoPostal','RU');

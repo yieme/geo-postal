@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78683"]={"code":"78683","region":"TX","city":"Round Rock","latitude":30.6568,"longitude":-97.6026}}(window,'GeoPostal','US');

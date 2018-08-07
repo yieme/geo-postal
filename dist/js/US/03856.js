@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03856"]={"code":"03856","region":"NH","city":"Newfields","latitude":43.0374,"longitude":-70.9782}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59909"]={"code":"59909","region":"Nordrhein-Westfalen","city":"Bestwig","latitude":51.36667,"longitude":8.4}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19078"]={"code":"19078","region":"PA","city":"Ridley Park","latitude":39.8784,"longitude":-75.3215}}(window,'GeoPostal','US');

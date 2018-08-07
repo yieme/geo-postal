@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52561"]={"code":"52561","region":"IA","city":"Fremont","latitude":41.2117,"longitude":-92.4362}}(window,'GeoPostal','US');

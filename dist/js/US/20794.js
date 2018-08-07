@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20794"]={"code":"20794","region":"Maryland","city":"Jessup","latitude":39.156108,"longitude":-76.809918}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4561"]={"code":"4561","region":"Salta","city":"Tartagal","latitude":-22.51636,"longitude":-63.80131}}(window,'GeoPostal','AR');

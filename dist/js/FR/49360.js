@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49360"]={"code":"49360","region":"Pays-de-la-Loire","city":"Yzernay","latitude":47.02229,"longitude":-0.70294}}(window,'GeoPostal','FR');

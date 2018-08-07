@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55024"]={"code":"55024","region":"Minnesota","city":"Lakeville","latitude":44.64969,"longitude":-93.24272}}(window,'GeoPostal','US');

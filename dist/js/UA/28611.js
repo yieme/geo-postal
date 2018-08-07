@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28611"]={"code":"28611","region":"Kirovohradska oblast","city":"Oleksandriya","latitude":48.66961,"longitude":33.11593}}(window,'GeoPostal','UA');

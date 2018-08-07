@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04467"]={"code":"04467","region":"ME","city":"Olamon","latitude":45.12,"longitude":-68.61}}(window,'GeoPostal','US');

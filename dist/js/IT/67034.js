@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67034"]={"code":"67034","region":"Abruzzo","city":"Pettorano sul Gizio","latitude":41.97453,"longitude":13.95871}}(window,'GeoPostal','IT');

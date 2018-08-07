@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38450"]={"code":"38450","region":"Tennessee","city":"Collinwood","latitude":35.14747,"longitude":-87.70389}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57346"]={"code":"57346","region":"SD","city":"Stephan","latitude":44.248,"longitude":-99.4532}}(window,'GeoPostal','US');

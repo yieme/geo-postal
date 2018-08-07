@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29478"]={"code":"29478","region":"Niedersachsen","city":"Restorf","latitude":53.04266,"longitude":11.44484}}(window,'GeoPostal','DE');

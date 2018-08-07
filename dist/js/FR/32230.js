@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32230"]={"code":"32230","region":"Occitanie","city":"Marciac","latitude":43.52321,"longitude":0.16091}}(window,'GeoPostal','FR');

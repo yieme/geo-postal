@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57995-000"]={"code":"57995-000","region":"Alagoas","city":"Flexeiras","latitude":-9.1975,"longitude":-35.78083}}(window,'GeoPostal','BR');

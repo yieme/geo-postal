@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33540"]={"code":"33540","region":"Florida","city":"Zephyrhills","latitude":28.2278,"longitude":-82.1511}}(window,'GeoPostal','US');

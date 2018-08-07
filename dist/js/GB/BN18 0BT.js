@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN18 0BT"]={"code":"BN18 0BT","region":"England","city":"Arun","latitude":50.82341,"longitude":-0.57569}}(window,'GeoPostal','GB');

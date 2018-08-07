@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24150"]={"code":"24150","region":"Chachoengsao","city":"Ban Nam Priao","latitude":13.84739,"longitude":101.05306}}(window,'GeoPostal','TH');

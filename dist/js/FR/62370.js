@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62370"]={"code":"62370","region":"Hauts-de-France","city":"Nortkerque","latitude":50.87519,"longitude":2.02464}}(window,'GeoPostal','FR');

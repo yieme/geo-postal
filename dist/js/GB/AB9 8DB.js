@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB9 8DB"]={"code":"AB9 8DB","region":"Scotland","city":"Aberdeen","latitude":57.14369,"longitude":-2.09814}}(window,'GeoPostal','GB');

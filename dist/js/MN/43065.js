@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43065"]={"code":"43065","region":"Selenge","city":"Dzuunharaa","latitude":48.85229,"longitude":106.45786}}(window,'GeoPostal','MN');

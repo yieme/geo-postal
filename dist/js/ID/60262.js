@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60262"]={"code":"60262","region":"Jawa Timur","city":"Blokagung","latitude":-8.43989,"longitude":114.10432}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HX1 3UZ"]={"code":"HX1 3UZ","region":"England","city":"Calderdale","latitude":53.72,"longitude":-1.97}}(window,'GeoPostal','GB');

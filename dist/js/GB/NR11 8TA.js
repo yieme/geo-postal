@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR11 8TA"]={"code":"NR11 8TA","region":"England","city":"Roughton","latitude":52.88333,"longitude":1.3}}(window,'GeoPostal','GB');

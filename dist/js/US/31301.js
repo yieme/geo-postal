@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31301"]={"code":"31301","region":"GA","city":"Allenhurst","latitude":31.7741,"longitude":-81.6186}}(window,'GeoPostal','US');

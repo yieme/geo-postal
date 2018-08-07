@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62672"]={"code":"62672","region":"IL","city":"Nilwood","latitude":39.398,"longitude":-89.8045}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7S 0A3"]={"code":"T7S 0A3","region":"Alberta","city":"Whitecourt","latitude":54.132497,"longitude":-115.620516}}(window,'GeoPostal','CA');

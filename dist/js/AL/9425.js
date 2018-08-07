@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9425"]={"code":"9425","region":"Vlore","city":"Himare","latitude":40.10167,"longitude":19.74472}}(window,'GeoPostal','AL');

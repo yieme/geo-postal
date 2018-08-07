@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1W 1A1"]={"code":"B1W 1A1","region":"Nova Scotia","city":"Eskasoni","latitude":45.93277,"longitude":-60.64384}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65789"]={"code":"65789","region":"Missouri","city":"Pomona","latitude":36.86722,"longitude":-91.91444}}(window,'GeoPostal','US');

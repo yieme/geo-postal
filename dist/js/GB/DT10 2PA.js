@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT10 2PA"]={"code":"DT10 2PA","region":"England","city":"Stalbridge","latitude":50.95807,"longitude":-2.37548}}(window,'GeoPostal','GB');

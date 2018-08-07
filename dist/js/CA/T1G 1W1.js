@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1G 1W1"]={"code":"T1G 1W1","region":"Alberta","city":"Taber","latitude":49.785486,"longitude":-112.146026}}(window,'GeoPostal','CA');

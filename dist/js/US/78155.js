@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78155"]={"code":"78155","region":"Texas","city":"Seguin","latitude":29.569433,"longitude":-97.96574}}(window,'GeoPostal','US');

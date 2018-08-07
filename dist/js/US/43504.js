@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43504"]={"code":"43504","region":"OH","city":"Berkey","latitude":41.6989,"longitude":-83.831}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["164200"]={"code":"164200","region":"Arkhangel'skaya oblast'","city":"Nyandoma","latitude":61.66903,"longitude":40.19907}}(window,'GeoPostal','RU');

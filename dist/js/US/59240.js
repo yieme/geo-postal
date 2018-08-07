@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59240"]={"code":"59240","region":"MT","city":"Glentana","latitude":48.8481,"longitude":-106.2495}}(window,'GeoPostal','US');

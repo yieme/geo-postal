@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-120"]={"code":"17-120","region":"Podlaskie","city":"Bransk","latitude":52.7444,"longitude":22.83774}}(window,'GeoPostal','PL');

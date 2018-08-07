@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH26 3LN"]={"code":"PH26 3LN","region":"Scotland","city":"Cromdale","latitude":57.3376,"longitude":-3.53831}}(window,'GeoPostal','GB');

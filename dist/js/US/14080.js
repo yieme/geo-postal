@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14080"]={"code":"14080","region":"NY","city":"Holland","latitude":42.6396,"longitude":-78.5439}}(window,'GeoPostal','US');

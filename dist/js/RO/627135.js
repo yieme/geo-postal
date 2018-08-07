@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627135"]={"code":"627135","region":"Vrancea","city":"Fitionesti","latitude":45.98333,"longitude":27.05}}(window,'GeoPostal','RO');

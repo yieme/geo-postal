@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41661"]={"code":"41661","region":"Andalucia","city":"Algamitas","latitude":37.01516,"longitude":-5.14949}}(window,'GeoPostal','ES');

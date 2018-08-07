@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX23 9EQ"]={"code":"EX23 9EQ","region":"England","city":"Poughill","latitude":50.85,"longitude":-4.53333}}(window,'GeoPostal','GB');

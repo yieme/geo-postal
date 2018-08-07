@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12031"]={"code":"12031","region":"NY","city":"Carlisle","latitude":42.7648,"longitude":-74.4569}}(window,'GeoPostal','US');

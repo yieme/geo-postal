@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK19 6AZ"]={"code":"MK19 6AZ","region":"England","city":"Stratford","latitude":51.53333,"longitude":0}}(window,'GeoPostal','GB');

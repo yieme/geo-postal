@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["527035"]={"code":"527035","region":"Covasna","city":"Bodoc","latitude":45.95,"longitude":25.85}}(window,'GeoPostal','RO');

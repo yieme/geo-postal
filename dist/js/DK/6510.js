@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6510"]={"code":"6510","region":"Syddanmark","city":"Gram","latitude":55.28948,"longitude":9.04913}}(window,'GeoPostal','DK');

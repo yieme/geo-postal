@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29801"]={"code":"29801","region":"South Carolina","city":"Aiken","latitude":33.563294,"longitude":-81.70739}}(window,'GeoPostal','US');

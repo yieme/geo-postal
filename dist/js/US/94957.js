@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94957"]={"code":"94957","region":"California","city":"Ross","latitude":37.964188,"longitude":-122.557889}}(window,'GeoPostal','US');

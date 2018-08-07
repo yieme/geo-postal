@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96752"]={"code":"96752","region":"Hawaii","city":"Kekaha","latitude":21.96831,"longitude":-159.71318}}(window,'GeoPostal','US');

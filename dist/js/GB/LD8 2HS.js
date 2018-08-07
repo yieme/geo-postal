@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD8 2HS"]={"code":"LD8 2HS","region":"England","city":"Byton","latitude":52.27026,"longitude":-2.92437}}(window,'GeoPostal','GB');

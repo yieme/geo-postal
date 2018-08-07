@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21131"]={"code":"21131","region":"MD","city":"Phoenix","latitude":39.4833,"longitude":-76.5776}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6000"]={"code":"6000","region":"Syddanmark","city":"Kolding","latitude":55.4904,"longitude":9.47216}}(window,'GeoPostal','DK');

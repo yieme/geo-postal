@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29813"]={"code":"29813","region":"South Carolina","city":"Hilda","latitude":33.24378,"longitude":-81.36318}}(window,'GeoPostal','US');

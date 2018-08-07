@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49453"]={"code":"49453","region":"MI","city":"Saugatuck","latitude":42.6456,"longitude":-86.1655}}(window,'GeoPostal','US');

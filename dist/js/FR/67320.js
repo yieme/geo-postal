@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67320"]={"code":"67320","region":"Grand-Est","city":"Drulingen","latitude":48.86834,"longitude":7.18761}}(window,'GeoPostal','FR');

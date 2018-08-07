@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87511"]={"code":"87511","region":"NM","city":"Alcalde","latitude":36.0889,"longitude":-106.0536}}(window,'GeoPostal','US');

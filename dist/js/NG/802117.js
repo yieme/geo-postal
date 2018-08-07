@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["802117"]={"code":"802117","region":"Kaduna","city":"Kachia","latitude":9.86667,"longitude":7.95}}(window,'GeoPostal','NG');

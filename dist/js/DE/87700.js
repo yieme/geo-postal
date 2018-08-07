@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87700"]={"code":"87700","region":"Bayern","city":"Memmingen","latitude":47.98372,"longitude":10.18527}}(window,'GeoPostal','DE');

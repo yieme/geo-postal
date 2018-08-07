@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34051"]={"code":"34051","region":"Punjab","city":"Kot Addu","latitude":30.4692,"longitude":70.96714}}(window,'GeoPostal','PK');

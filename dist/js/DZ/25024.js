@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25024"]={"code":"25024","region":"Constantine","city":"Didouche Mourad","latitude":36.4525,"longitude":6.63639}}(window,'GeoPostal','DZ');

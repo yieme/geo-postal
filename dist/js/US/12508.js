@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12508"]={"code":"12508","region":"NY","city":"Beacon","latitude":41.5097,"longitude":-73.9634}}(window,'GeoPostal','US');

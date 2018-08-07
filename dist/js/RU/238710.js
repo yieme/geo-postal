@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238710"]={"code":"238710","region":"Kaliningradskaya oblast'","city":"Neman","latitude":55.03111,"longitude":22.02639}}(window,'GeoPostal','RU');

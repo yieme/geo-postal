@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35188"]={"code":"35188","region":"Durango","city":"Nazareno","latitude":25.38333,"longitude":-103.41667}}(window,'GeoPostal','MX');

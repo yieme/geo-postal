@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76006"]={"code":"76006","region":"Baden-Wurttemberg","city":"Oststadt","latitude":49.00956,"longitude":8.42454}}(window,'GeoPostal','DE');

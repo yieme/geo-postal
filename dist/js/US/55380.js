@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55380"]={"code":"55380","region":"MN","city":"Silver Creek","latitude":45.3158,"longitude":-93.9798}}(window,'GeoPostal','US');

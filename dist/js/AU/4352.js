@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4352"]={"code":"4352","region":"Queensland","city":"Mallow","latitude":-28.63333,"longitude":151.78333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58632"]={"code":"58632","region":"ND","city":"Golva","latitude":46.7075,"longitude":-103.9575}}(window,'GeoPostal','US');

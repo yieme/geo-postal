@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333 01"]={"code":"333 01","region":"Plzensky kraj","city":"Stod","latitude":49.63909,"longitude":13.16474}}(window,'GeoPostal','CZ');

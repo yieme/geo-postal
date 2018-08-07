@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768 05"]={"code":"768 05","region":"Zlinsky kraj","city":"Korycany","latitude":49.10639,"longitude":17.16433}}(window,'GeoPostal','CZ');

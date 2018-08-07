@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59872"]={"code":"59872","region":"Nordrhein-Westfalen","city":"Alexander","latitude":51.3,"longitude":8.36667}}(window,'GeoPostal','DE');

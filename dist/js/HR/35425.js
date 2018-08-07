@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35425"]={"code":"35425","region":"Brodsko-posavska zupanija","city":"Davor","latitude":45.11528,"longitude":17.51639}}(window,'GeoPostal','HR');

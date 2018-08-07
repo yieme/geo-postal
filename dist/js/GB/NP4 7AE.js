@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP4 7AE"]={"code":"NP4 7AE","region":"Wales","city":"Abersychan","latitude":51.72468,"longitude":-3.06348}}(window,'GeoPostal','GB');

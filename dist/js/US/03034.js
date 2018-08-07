@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03034"]={"code":"03034","region":"New Hampshire","city":"Candia","latitude":43.051789,"longitude":-71.303856}}(window,'GeoPostal','US');

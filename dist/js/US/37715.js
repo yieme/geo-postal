@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37715"]={"code":"37715","region":"TN","city":"Clairfield","latitude":36.565,"longitude":-83.9397}}(window,'GeoPostal','US');

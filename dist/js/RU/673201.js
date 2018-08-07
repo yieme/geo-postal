@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673201"]={"code":"673201","region":"Zabaykal'skiy kray","city":"Khilok","latitude":51.3674,"longitude":110.4676}}(window,'GeoPostal','RU');

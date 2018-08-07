@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2950"]={"code":"2950","region":"Jura","city":"Courgenay","latitude":47.40365,"longitude":7.12416}}(window,'GeoPostal','CH');

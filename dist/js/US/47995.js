@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47995"]={"code":"47995","region":"IN","city":"Wolcott","latitude":40.7516,"longitude":-87.029}}(window,'GeoPostal','US');

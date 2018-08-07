@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13365"]={"code":"13365","region":"New York","city":"Little Falls","latitude":43.08642,"longitude":-74.904}}(window,'GeoPostal','US');

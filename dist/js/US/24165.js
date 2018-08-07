@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24165"]={"code":"24165","region":"VA","city":"Spencer","latitude":36.5968,"longitude":-80.0373}}(window,'GeoPostal','US');

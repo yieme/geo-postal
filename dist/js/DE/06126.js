@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06126"]={"code":"06126","region":"Sachsen-Anhalt","city":"Halle (Saale)","latitude":51.5,"longitude":12}}(window,'GeoPostal','DE');

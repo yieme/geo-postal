@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46799"]={"code":"46799","region":"IN","city":"Zanesville","latitude":40.9188,"longitude":-85.2824}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36284"]={"code":"36284","region":"Hessen","city":"Oberbreitzbach","latitude":50.8065,"longitude":9.92237}}(window,'GeoPostal','DE');

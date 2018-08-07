@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98626"]={"code":"98626","region":"Washington","city":"Kelso","latitude":46.146992,"longitude":-122.880125}}(window,'GeoPostal','US');

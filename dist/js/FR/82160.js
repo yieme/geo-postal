@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82160"]={"code":"82160","region":"Occitanie","city":"Caylus","latitude":44.23607,"longitude":1.77168}}(window,'GeoPostal','FR');

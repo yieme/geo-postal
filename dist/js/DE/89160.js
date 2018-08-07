@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89160"]={"code":"89160","region":"Bayern","city":"Dornstadt","latitude":49.0023,"longitude":10.584}}(window,'GeoPostal','DE');

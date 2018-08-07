@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42100"]={"code":"42100","region":"Pohjois-Pohjanmaa","city":"Jamsa","latitude":65.96667,"longitude":29.96667}}(window,'GeoPostal','FI');

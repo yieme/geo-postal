@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30801"]={"code":"30801","region":"Hallands lan","city":"Halmstad","latitude":56.67446,"longitude":12.85676}}(window,'GeoPostal','SE');

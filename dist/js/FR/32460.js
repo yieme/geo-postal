@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32460"]={"code":"32460","region":"Occitanie","city":"Le Houga","latitude":43.77464,"longitude":-0.17833}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95310"]={"code":"95310","region":"Ile-de-France","city":"Saint-Ouen-l'Aumone","latitude":49.04353,"longitude":2.12134}}(window,'GeoPostal','FR');

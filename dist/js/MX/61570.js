@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61570"]={"code":"61570","region":"Michoacan de Ocampo","city":"Benito Juarez","latitude":19.23333,"longitude":-100.46667}}(window,'GeoPostal','MX');

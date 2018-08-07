@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20600"]={"code":"20600","region":"Pais Vasco","city":"Eibar","latitude":43.18493,"longitude":-2.47158}}(window,'GeoPostal','ES');

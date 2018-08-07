@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188544"]={"code":"188544","region":"Leningradskaya oblast'","city":"Sosnovyy Bor","latitude":59.9,"longitude":29.11667}}(window,'GeoPostal','RU');

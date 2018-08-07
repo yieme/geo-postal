@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7350"]={"code":"7350","region":"Hainaut","city":"Hensies","latitude":50.43263,"longitude":3.68411}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49726"]={"code":"49726","region":"Michigan","city":"Drummond Island","latitude":45.9982,"longitude":-83.71592}}(window,'GeoPostal','US');

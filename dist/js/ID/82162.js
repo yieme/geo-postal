@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82162"]={"code":"82162","region":"Bali","city":"Banjar Delodrurung","latitude":-8.5003,"longitude":115.0188}}(window,'GeoPostal','ID');

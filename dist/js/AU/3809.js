@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3809"]={"code":"3809","region":"Victoria","city":"Officer","latitude":-38.05916,"longitude":145.40947}}(window,'GeoPostal','AU');

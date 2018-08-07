@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C1N 0A1"]={"code":"C1N 0A1","region":"Prince Edward Island","city":"Summerside","latitude":46.39593,"longitude":-63.78762}}(window,'GeoPostal','CA');

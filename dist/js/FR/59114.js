@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59114"]={"code":"59114","region":"Hauts-de-France","city":"Steenvoorde","latitude":50.81046,"longitude":2.58244}}(window,'GeoPostal','FR');

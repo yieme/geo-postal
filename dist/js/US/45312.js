@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45312"]={"code":"45312","region":"OH","city":"Casstown","latitude":40.0716,"longitude":-84.1088}}(window,'GeoPostal','US');

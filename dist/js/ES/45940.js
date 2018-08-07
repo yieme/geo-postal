@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45940"]={"code":"45940","region":"Castilla-La Mancha","city":"Valmojado","latitude":40.20444,"longitude":-4.09146}}(window,'GeoPostal','ES');

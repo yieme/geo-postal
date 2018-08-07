@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89104"]={"code":"89104","region":"Zakarpatska oblast","city":"Volovets","latitude":48.7109,"longitude":23.1851}}(window,'GeoPostal','UA');

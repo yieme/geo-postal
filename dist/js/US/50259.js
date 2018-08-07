@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50259"]={"code":"50259","region":"IA","city":"Gifford","latitude":42.3831,"longitude":-93.2506}}(window,'GeoPostal','US');

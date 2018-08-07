@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682647"]={"code":"682647","region":"Khabarovskiy kray","city":"Amursk","latitude":50.22611,"longitude":136.89944}}(window,'GeoPostal','RU');

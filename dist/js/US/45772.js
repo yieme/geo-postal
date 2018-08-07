@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45772"]={"code":"45772","region":"OH","city":"Reedsville","latitude":39.149,"longitude":-81.7924}}(window,'GeoPostal','US');

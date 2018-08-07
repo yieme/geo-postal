@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["730 03"]={"code":"730 03","region":"Kriti","city":"Kalivai","latitude":35.45116,"longitude":24.17353}}(window,'GeoPostal','GR');

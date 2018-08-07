@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7167"]={"code":"7167","region":"Buenos Aires","city":"Pinamar","latitude":-37.10794,"longitude":-56.8614}}(window,'GeoPostal','AR');

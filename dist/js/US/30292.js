@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30292"]={"code":"30292","region":"GA","city":"Williamson","latitude":33.1598,"longitude":-84.3795}}(window,'GeoPostal','US');

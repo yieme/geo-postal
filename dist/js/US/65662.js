@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65662"]={"code":"65662","region":"Missouri","city":"Grovespring","latitude":37.39972,"longitude":-92.60972}}(window,'GeoPostal','US');

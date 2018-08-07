@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA14 4RE"]={"code":"CA14 4RE","region":"England","city":"Gilgarran","latitude":54.59385,"longitude":-3.50206}}(window,'GeoPostal','GB');

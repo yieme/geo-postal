@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35770"]={"code":"35770","region":"Bretagne","city":"Vern-sur-Seiche","latitude":48.04514,"longitude":-1.60057}}(window,'GeoPostal','FR');

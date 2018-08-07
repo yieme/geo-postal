@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32953"]={"code":"32953","region":"FL","city":"Merritt Island","latitude":28.3888,"longitude":-80.7301}}(window,'GeoPostal','US');

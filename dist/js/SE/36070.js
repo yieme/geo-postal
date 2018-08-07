@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36070"]={"code":"36070","region":"Kronobergs lan","city":"Aseda","latitude":57.1701,"longitude":15.3443}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90813"]={"code":"90813","region":"California","city":"Long Beach","latitude":33.78147,"longitude":-118.193375}}(window,'GeoPostal','US');

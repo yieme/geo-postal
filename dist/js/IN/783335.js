@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783335"]={"code":"783335","region":"West Bengal","city":"Tufanganj","latitude":26.31667,"longitude":89.66667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40150"]={"code":"40150","region":"Nouvelle-Aquitaine","city":"Soorts-Hossegor","latitude":43.6649,"longitude":-1.39717}}(window,'GeoPostal','FR');

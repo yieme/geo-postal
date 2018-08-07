@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50075"]={"code":"50075","region":"Iowa","city":"Ellsworth","latitude":42.313572,"longitude":-93.578709}}(window,'GeoPostal','US');

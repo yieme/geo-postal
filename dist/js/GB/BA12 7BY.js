@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 7BY"]={"code":"BA12 7BY","region":"England","city":"Sutton Veny","latitude":51.17822,"longitude":-2.14987}}(window,'GeoPostal','GB');

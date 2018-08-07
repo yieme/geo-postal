@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16063"]={"code":"16063","region":"Pennsylvania","city":"Zelienople","latitude":40.79451,"longitude":-80.13673}}(window,'GeoPostal','US');

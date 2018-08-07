@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9300"]={"code":"9300","region":"Dobrich","city":"Dobrich","latitude":43.56667,"longitude":27.83333}}(window,'GeoPostal','BG');

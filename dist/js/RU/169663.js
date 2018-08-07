@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169663"]={"code":"169663","region":"Komi, Respublika","city":"Kozhva","latitude":65.10727,"longitude":57.0459}}(window,'GeoPostal','RU');

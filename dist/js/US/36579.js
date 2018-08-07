@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36579"]={"code":"36579","region":"AL","city":"Stockton","latitude":31.0129,"longitude":-87.8633}}(window,'GeoPostal','US');

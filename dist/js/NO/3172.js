@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3172"]={"code":"3172","region":"Vestfold","city":"Sem","latitude":59.28333,"longitude":10.33333}}(window,'GeoPostal','NO');

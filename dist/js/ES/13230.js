@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13230"]={"code":"13230","region":"Castilla-La Mancha","city":"Membrilla","latitude":38.97198,"longitude":-3.3433}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64045"]={"code":"64045","region":"Abruzzo","city":"Isola del Gran Sasso d'Italia","latitude":42.50324,"longitude":13.65721}}(window,'GeoPostal','IT');

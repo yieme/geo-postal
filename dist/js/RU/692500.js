@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692500"]={"code":"692500","region":"Primorskiy kray","city":"Nakhodka","latitude":42.83333,"longitude":132.89472}}(window,'GeoPostal','RU');

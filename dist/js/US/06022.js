@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06022"]={"code":"06022","region":"CT","city":"Collinsville","latitude":41.8513,"longitude":-72.9283}}(window,'GeoPostal','US');

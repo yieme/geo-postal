@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5760"]={"code":"5760","region":"Eastern Cape","city":"Adelaide","latitude":-32.70747,"longitude":26.29564}}(window,'GeoPostal','ZA');

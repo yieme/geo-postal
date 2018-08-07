@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 0M0"]={"code":"S0H 0M0","region":"Saskatchewan","city":"Brownlee","latitude":50.73336,"longitude":-106.01789}}(window,'GeoPostal','CA');

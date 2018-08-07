@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-311"]={"code":"08-311","region":"Mazowieckie","city":"Bielany","latitude":52.34174,"longitude":22.24929}}(window,'GeoPostal','PL');

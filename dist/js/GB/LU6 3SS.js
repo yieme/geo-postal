@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LU6 3SS"]={"code":"LU6 3SS","region":"England","city":"Dunstable","latitude":51.886,"longitude":-0.52099}}(window,'GeoPostal','GB');

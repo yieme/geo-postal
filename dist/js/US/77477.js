@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77477"]={"code":"77477","region":"Texas","city":"Stafford","latitude":29.61607,"longitude":-95.55772}}(window,'GeoPostal','US');

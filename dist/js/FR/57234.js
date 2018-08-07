@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57234"]={"code":"57234","region":"Grand-Est","city":"Bitche","latitude":49.05009,"longitude":7.42672}}(window,'GeoPostal','FR');

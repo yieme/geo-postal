@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02767"]={"code":"02767","region":"Massachusetts","city":"Raynham","latitude":41.929118,"longitude":-71.045866}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO22 5LX"]={"code":"YO22 5LX","region":"England","city":"Goathland","latitude":54.40001,"longitude":-0.71954}}(window,'GeoPostal','GB');

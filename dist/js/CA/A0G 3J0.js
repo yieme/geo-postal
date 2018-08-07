@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0G 3J0"]={"code":"A0G 3J0","region":"Newfoundland and Labrador","city":"Doting Cove","latitude":49.44991,"longitude":-53.94807}}(window,'GeoPostal','CA');

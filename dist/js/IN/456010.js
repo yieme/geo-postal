@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456010"]={"code":"456010","region":"Madhya Pradesh","city":"Ujjain","latitude":23.18333,"longitude":75.76667}}(window,'GeoPostal','IN');

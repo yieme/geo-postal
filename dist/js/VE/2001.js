@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2001"]={"code":"2001","region":"Carabobo","city":"Valencia","latitude":10.16202,"longitude":-68.00765}}(window,'GeoPostal','VE');

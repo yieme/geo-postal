@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66516"]={"code":"66516","region":"Kansas","city":"Netawaka","latitude":39.609555,"longitude":-95.732558}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["779-1630"]={"code":"779-1630","region":"Tokushima","city":"Anan","latitude":33.917,"longitude":134.667}}(window,'GeoPostal','JP');

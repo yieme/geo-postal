@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28270"]={"code":"28270","region":"Centre-Val de Loire","city":"Brezolles","latitude":48.69033,"longitude":1.07404}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3417"]={"code":"3417","region":"Utrecht","city":"Montfoort","latitude":52.04583,"longitude":4.95278}}(window,'GeoPostal','NL');

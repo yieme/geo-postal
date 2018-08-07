@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23758"]={"code":"23758","region":"Schleswig-Holstein","city":"Oldenburg in Holstein","latitude":54.29576,"longitude":10.90156}}(window,'GeoPostal','DE');

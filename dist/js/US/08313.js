@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08313"]={"code":"08313","region":"NJ","city":"Deerfield Street","latitude":39.5293,"longitude":-75.2249}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07764"]={"code":"07764","region":"New Jersey","city":"West Long Branch","latitude":40.289708,"longitude":-74.018936}}(window,'GeoPostal','US');

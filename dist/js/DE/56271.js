@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56271"]={"code":"56271","region":"Rheinland-Pfalz","city":"Isenburg","latitude":50.48333,"longitude":7.6}}(window,'GeoPostal','DE');

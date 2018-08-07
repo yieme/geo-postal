@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51240"]={"code":"51240","region":"Iowa","city":"Inwood","latitude":43.307273,"longitude":-96.430844}}(window,'GeoPostal','US');

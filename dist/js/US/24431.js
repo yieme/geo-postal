@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24431"]={"code":"24431","region":"VA","city":"Crimora","latitude":38.1684,"longitude":-78.8413}}(window,'GeoPostal','US');

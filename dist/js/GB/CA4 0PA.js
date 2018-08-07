@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA4 0PA"]={"code":"CA4 0PA","region":"England","city":"Ivegill","latitude":54.78058,"longitude":-2.90656}}(window,'GeoPostal','GB');

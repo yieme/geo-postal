@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["211219"]={"code":"211219","region":"Jiangsu","city":"Honglan","latitude":31.60732,"longitude":118.98023}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60966"]={"code":"60966","region":"Illinois","city":"Sheldon","latitude":40.7692,"longitude":-87.56392}}(window,'GeoPostal','US');

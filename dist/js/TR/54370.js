@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54370"]={"code":"54370","region":"Corum","city":"Ortakoy","latitude":40.27352,"longitude":35.25175}}(window,'GeoPostal','TR');

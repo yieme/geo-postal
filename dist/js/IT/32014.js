@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32014"]={"code":"32014","region":"Veneto","city":"Ponte nell'Alpi","latitude":46.18083,"longitude":12.28333}}(window,'GeoPostal','IT');

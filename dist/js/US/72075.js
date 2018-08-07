@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72075"]={"code":"72075","region":"AR","city":"Jacksonport","latitude":35.6414,"longitude":-91.3072}}(window,'GeoPostal','US');

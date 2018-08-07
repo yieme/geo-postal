@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04094"]={"code":"04094","region":"ME","city":"West Kennebunk","latitude":43.4061,"longitude":-70.5733}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45470"]={"code":"45470","region":"Castilla-La Mancha","city":"Los Yebenes","latitude":39.58158,"longitude":-3.87058}}(window,'GeoPostal','ES');

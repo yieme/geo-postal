@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89419"]={"code":"89419","region":"Nevada","city":"Lovelock","latitude":40.17935,"longitude":-118.47348}}(window,'GeoPostal','US');

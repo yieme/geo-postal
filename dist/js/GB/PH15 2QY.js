@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH15 2QY"]={"code":"PH15 2QY","region":"Scotland","city":"Grandtully","latitude":56.65612,"longitude":-3.77455}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN5 5SG"]={"code":"NN5 5SG","region":"England","city":"Northampton","latitude":52.25,"longitude":-0.88333}}(window,'GeoPostal','GB');

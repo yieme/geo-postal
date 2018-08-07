@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59300"]={"code":"59300","region":"Kirikkale","city":"Baliseyh","latitude":39.91411,"longitude":33.72333}}(window,'GeoPostal','TR');

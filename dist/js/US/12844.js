@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12844"]={"code":"12844","region":"New York","city":"Kattskill Bay","latitude":43.515833,"longitude":-73.629722}}(window,'GeoPostal','US');

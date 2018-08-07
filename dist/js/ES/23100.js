@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23100"]={"code":"23100","region":"Andalucia","city":"Mancha Real","latitude":37.78627,"longitude":-3.61226}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24817"]={"code":"24817","region":"West Virginia","city":"Bradshaw","latitude":37.352882,"longitude":-81.800869}}(window,'GeoPostal','US');

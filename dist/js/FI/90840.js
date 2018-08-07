@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90840"]={"code":"90840","region":"Pohjois-Pohjanmaa","city":"Haukipudas","latitude":65.17654,"longitude":25.35233}}(window,'GeoPostal','FI');

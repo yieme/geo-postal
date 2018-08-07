@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04479"]={"code":"04479","region":"Andalucia","city":"Laujar de Andarax","latitude":36.99516,"longitude":-2.89033}}(window,'GeoPostal','ES');

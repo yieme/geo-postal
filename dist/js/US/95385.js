@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95385"]={"code":"95385","region":"CA","city":"Vernalis","latitude":37.6176,"longitude":-121.2581}}(window,'GeoPostal','US');

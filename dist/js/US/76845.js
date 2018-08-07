@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76845"]={"code":"76845","region":"Texas","city":"Gouldbusk","latitude":31.516503,"longitude":-99.530861}}(window,'GeoPostal','US');

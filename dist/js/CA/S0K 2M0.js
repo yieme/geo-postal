@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 2M0"]={"code":"S0K 2M0","region":"Saskatchewan","city":"Lanigan","latitude":51.85006,"longitude":-105.03443}}(window,'GeoPostal','CA');

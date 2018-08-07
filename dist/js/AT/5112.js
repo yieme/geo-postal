@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5112"]={"code":"5112","region":"Salzburg","city":"Lamprechtshausen","latitude":47.98333,"longitude":12.95}}(window,'GeoPostal','AT');

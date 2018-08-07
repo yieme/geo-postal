@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33073"]={"code":"33073","region":"Florida","city":"Coconut Creek","latitude":26.309695,"longitude":-80.187038}}(window,'GeoPostal','US');

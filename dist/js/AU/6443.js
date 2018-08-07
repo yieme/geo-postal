@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6443"]={"code":"6443","region":"Western Australia","city":"Norseman","latitude":-32.19769,"longitude":121.77873}}(window,'GeoPostal','AU');

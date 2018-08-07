@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR4 0XJ"]={"code":"PR4 0XJ","region":"England","city":"Preston","latitude":50.65,"longitude":-2.41667}}(window,'GeoPostal','GB');

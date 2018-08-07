@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 7PP"]={"code":"EX22 7PP","region":"England","city":"Sutcombe","latitude":50.88097,"longitude":-4.35192}}(window,'GeoPostal','GB');

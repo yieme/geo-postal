@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400"]={"code":"400","region":"Vestfirdir","city":"Isafjoerdur","latitude":66.07549,"longitude":-23.124}}(window,'GeoPostal','IS');

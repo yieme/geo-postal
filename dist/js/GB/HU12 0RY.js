@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU12 0RY"]={"code":"HU12 0RY","region":"England","city":"Welwick","latitude":53.66824,"longitude":0.03155}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91948"]={"code":"91948","region":"California","city":"Mount Laguna","latitude":32.87046,"longitude":-116.41668}}(window,'GeoPostal','US');

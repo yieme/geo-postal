@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62975"]={"code":"62975","region":"IL","city":"Pomona","latitude":37.6501,"longitude":-89.3693}}(window,'GeoPostal','US');

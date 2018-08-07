@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99150-000"]={"code":"99150-000","region":"Rio Grande do Sul","city":"Marau","latitude":-28.44917,"longitude":-52.2}}(window,'GeoPostal','BR');

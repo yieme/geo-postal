@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52385"]={"code":"52385","region":"Nordrhein-Westfalen","city":"Wollersheim","latitude":50.67159,"longitude":6.56518}}(window,'GeoPostal','DE');

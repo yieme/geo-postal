@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087180"]={"code":"087180","region":"Giurgiu","city":"Prundu","latitude":44.09472,"longitude":26.22694}}(window,'GeoPostal','RO');

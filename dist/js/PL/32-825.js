@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-825"]={"code":"32-825","region":"Malopolskie","city":"Borzecin","latitude":50.0654,"longitude":20.71103}}(window,'GeoPostal','PL');

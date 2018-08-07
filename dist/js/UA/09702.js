@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09702"]={"code":"09702","region":"Kyivska oblast","city":"Bohuslav","latitude":49.54939,"longitude":30.8744}}(window,'GeoPostal','UA');

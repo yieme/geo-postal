@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14040"]={"code":"14040","region":"NY","city":"Darien Center","latitude":42.8948,"longitude":-78.3878}}(window,'GeoPostal','US');

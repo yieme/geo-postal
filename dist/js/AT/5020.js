@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5020"]={"code":"5020","region":"Salzburg","city":"Salzburg","latitude":47.79941,"longitude":13.04399}}(window,'GeoPostal','AT');

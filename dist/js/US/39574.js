@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39574"]={"code":"39574","region":"MS","city":"Saucier","latitude":30.5961,"longitude":-89.1477}}(window,'GeoPostal','US');

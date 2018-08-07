@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA7 8LZ"]={"code":"CA7 8LZ","region":"England","city":"Westward","latitude":54.79346,"longitude":-3.13059}}(window,'GeoPostal','GB');

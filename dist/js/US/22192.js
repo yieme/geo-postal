@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22192"]={"code":"22192","region":"Virginia","city":"Lake Ridge","latitude":38.68789,"longitude":-77.29776}}(window,'GeoPostal','US');

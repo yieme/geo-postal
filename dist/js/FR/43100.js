@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43100"]={"code":"43100","region":"Auvergne-Rhone-Alpes","city":"Vieille-Brioude","latitude":45.26648,"longitude":3.40272}}(window,'GeoPostal','FR');

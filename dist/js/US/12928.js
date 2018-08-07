@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12928"]={"code":"12928","region":"New York","city":"Crown Point","latitude":43.96698,"longitude":-73.46178}}(window,'GeoPostal','US');

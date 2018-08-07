@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82418"]={"code":"82418","region":"Bayern","city":"Weindorf","latitude":47.68157,"longitude":11.20949}}(window,'GeoPostal','DE');

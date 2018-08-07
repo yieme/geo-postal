@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62880-000"]={"code":"62880-000","region":"Ceara","city":"Horizonte","latitude":-4.1,"longitude":-38.48333}}(window,'GeoPostal','BR');

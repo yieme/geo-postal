@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57345"]={"code":"57345","region":"South Dakota","city":"Highmore","latitude":44.518198,"longitude":-99.443552}}(window,'GeoPostal','US');

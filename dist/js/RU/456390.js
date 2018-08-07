@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456390"]={"code":"456390","region":"Chelyabinskaya oblast'","city":"Turgoyak","latitude":55.15,"longitude":60.11833}}(window,'GeoPostal','RU');

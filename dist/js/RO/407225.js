@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407225"]={"code":"407225","region":"Braila","city":"Tichilesti","latitude":45.11667,"longitude":27.9}}(window,'GeoPostal','RO');

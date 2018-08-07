@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL76 8TQ"]={"code":"LL76 8TQ","region":"Wales","city":"Llanbedrgoch","latitude":53.30026,"longitude":-4.23643}}(window,'GeoPostal','GB');

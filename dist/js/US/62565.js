@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62565"]={"code":"62565","region":"Illinois","city":"Shelbyville","latitude":39.4074,"longitude":-88.800766}}(window,'GeoPostal','US');

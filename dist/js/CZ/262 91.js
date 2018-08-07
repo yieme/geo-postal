@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262 91"]={"code":"262 91","region":"Stredocesky kraj","city":"Kosova Hora","latitude":49.65414,"longitude":14.47173}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23086"]={"code":"23086","region":"Virginia","city":"King William","latitude":37.68736,"longitude":-77.01358}}(window,'GeoPostal','US');

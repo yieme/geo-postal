@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 7TH"]={"code":"EX22 7TH","region":"England","city":"Bradworthy","latitude":50.90218,"longitude":-4.38368}}(window,'GeoPostal','GB');

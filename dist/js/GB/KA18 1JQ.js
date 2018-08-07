@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA18 1JQ"]={"code":"KA18 1JQ","region":"Scotland","city":"Cumnock","latitude":55.45445,"longitude":-4.26644}}(window,'GeoPostal','GB');

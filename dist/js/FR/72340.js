@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72340"]={"code":"72340","region":"Pays-de-la-Loire","city":"Marcon","latitude":47.71059,"longitude":0.51101}}(window,'GeoPostal','FR');

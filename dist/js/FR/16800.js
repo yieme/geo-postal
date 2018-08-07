@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16800"]={"code":"16800","region":"Nouvelle-Aquitaine","city":"Soyaux","latitude":45.65,"longitude":0.2}}(window,'GeoPostal','FR');

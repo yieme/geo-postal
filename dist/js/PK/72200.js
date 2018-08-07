@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72200"]={"code":"72200","region":"Sindh","city":"Badin","latitude":24.65599,"longitude":68.83841}}(window,'GeoPostal','PK');

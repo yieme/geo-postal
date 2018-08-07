@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83555"]={"code":"83555","region":"Bayern","city":"Gars","latitude":48.15386,"longitude":12.27767}}(window,'GeoPostal','DE');

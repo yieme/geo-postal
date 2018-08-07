@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["240101"]={"code":"240101","region":"Kwara","city":"Ilorin","latitude":8.5,"longitude":4.55}}(window,'GeoPostal','NG');

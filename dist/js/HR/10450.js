@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10450"]={"code":"10450","region":"Zagrebacka zupanija","city":"Jastrebarsko","latitude":45.66833,"longitude":15.64861}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04300"]={"code":"04300","region":"Uusimaa","city":"Tuusula","latitude":60.40368,"longitude":25.02638}}(window,'GeoPostal','FI');

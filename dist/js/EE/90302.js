@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90302"]={"code":"90302","region":"Laanemaa","city":"Lihula","latitude":58.68139,"longitude":23.84528}}(window,'GeoPostal','EE');

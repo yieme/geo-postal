@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347568"]={"code":"347568","region":"Rostovskaya oblast'","city":"Letnik","latitude":46.011,"longitude":41.2657}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67728"]={"code":"67728","region":"Grand-Est","city":"Hoerdt","latitude":48.7,"longitude":7.78333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89269"]={"code":"89269","region":"Bayern","city":"Vohringen","latitude":48.27839,"longitude":10.08236}}(window,'GeoPostal','DE');

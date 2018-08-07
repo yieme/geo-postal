@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP23 8BT"]={"code":"IP23 8BT","region":"England","city":"Yaxley","latitude":52.3228,"longitude":1.11065}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84629"]={"code":"84629","region":"Utah","city":"Fairview","latitude":39.85482,"longitude":-111.44532}}(window,'GeoPostal','US');

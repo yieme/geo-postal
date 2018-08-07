@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97125"]={"code":"97125","region":"Guadeloupe","city":"Bouillante","latitude":16.13041,"longitude":-61.76919}}(window,'GeoPostal','GP');

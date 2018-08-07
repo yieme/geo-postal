@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7130"]={"code":"7130","region":"Western Cape","city":"Somerset West","latitude":-34.083333,"longitude":18.85}}(window,'GeoPostal','ZA');

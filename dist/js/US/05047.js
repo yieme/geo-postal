@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05047"]={"code":"05047","region":"Vermont","city":"Hartford","latitude":43.665,"longitude":-72.37167}}(window,'GeoPostal','US');

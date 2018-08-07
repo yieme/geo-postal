@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6143"]={"code":"6143","region":"More og Romsdal","city":"Fiska","latitude":62.10059,"longitude":5.55788}}(window,'GeoPostal','NO');

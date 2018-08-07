@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06770"]={"code":"06770","region":"Connecticut","city":"Naugatuck","latitude":41.48593,"longitude":-73.05066}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40404"]={"code":"40404","region":"Heredia","city":"Heredia","latitude":10,"longitude":-84.11667}}(window,'GeoPostal','CR');

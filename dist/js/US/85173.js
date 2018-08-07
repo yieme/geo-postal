@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85173"]={"code":"85173","region":"AZ","city":"Superior","latitude":33.2887,"longitude":-111.0985}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45356"]={"code":"45356","region":"Ohio","city":"Piqua","latitude":40.149502,"longitude":-84.24363}}(window,'GeoPostal','US');

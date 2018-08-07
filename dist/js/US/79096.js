@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79096"]={"code":"79096","region":"Texas","city":"Wheeler","latitude":35.44533,"longitude":-100.27096}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["443548"]={"code":"443548","region":"Samarskaya oblast'","city":"Smyshlyayevka","latitude":53.23913,"longitude":50.39072}}(window,'GeoPostal','RU');

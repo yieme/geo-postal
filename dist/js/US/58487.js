@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58487"]={"code":"58487","region":"North Dakota","city":"Tappen","latitude":46.80658,"longitude":-99.57377}}(window,'GeoPostal','US');

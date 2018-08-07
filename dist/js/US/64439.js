@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64439"]={"code":"64439","region":"MO","city":"Dearborn","latitude":39.5172,"longitude":-94.7664}}(window,'GeoPostal','US');

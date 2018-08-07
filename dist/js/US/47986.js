@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47986"]={"code":"47986","region":"IN","city":"Templeton","latitude":40.5055,"longitude":-87.207}}(window,'GeoPostal','US');

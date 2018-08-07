@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32663"]={"code":"32663","region":"FL","city":"Lowell","latitude":29.3424,"longitude":-82.2126}}(window,'GeoPostal','US');

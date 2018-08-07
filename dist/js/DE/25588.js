@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25588"]={"code":"25588","region":"Schleswig-Holstein","city":"Oldendorf","latitude":53.95341,"longitude":9.45858}}(window,'GeoPostal','DE');

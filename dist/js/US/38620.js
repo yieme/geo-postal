@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38620"]={"code":"38620","region":"MS","city":"Courtland","latitude":34.2596,"longitude":-89.9396}}(window,'GeoPostal','US');

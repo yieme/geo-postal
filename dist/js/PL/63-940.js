@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-940"]={"code":"63-940","region":"Wielkopolskie","city":"Bojanowo","latitude":51.70749,"longitude":16.74827}}(window,'GeoPostal','PL');

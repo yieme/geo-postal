@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91710"]={"code":"91710","region":"Kainuu","city":"Vaala","latitude":64.56667,"longitude":26.83333}}(window,'GeoPostal','FI');

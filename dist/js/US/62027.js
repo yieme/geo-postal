@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62027"]={"code":"62027","region":"Illinois","city":"Eldred","latitude":39.28722,"longitude":-90.552799}}(window,'GeoPostal','US');

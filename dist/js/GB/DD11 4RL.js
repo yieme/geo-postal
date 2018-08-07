@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD11 4RL"]={"code":"DD11 4RL","region":"Scotland","city":"Letham Grange","latitude":56.60304,"longitude":-2.61063}}(window,'GeoPostal','GB');

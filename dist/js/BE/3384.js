@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3384"]={"code":"3384","region":"Vlaams-Brabant","city":"Glabbeek-Zuurbemde","latitude":50.87348,"longitude":4.94442}}(window,'GeoPostal','BE');

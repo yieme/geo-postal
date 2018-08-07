@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20249"]={"code":"20249","region":"Aguascalientes","city":"Calvillo","latitude":21.85,"longitude":-102.71667}}(window,'GeoPostal','MX');

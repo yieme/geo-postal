@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60921"]={"code":"60921","region":"Illinois","city":"Chatsworth","latitude":40.75365,"longitude":-88.29199}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48330-000"]={"code":"48330-000","region":"Bahia","city":"Rio Real","latitude":-11.48472,"longitude":-37.93278}}(window,'GeoPostal','BR');

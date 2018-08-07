@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95257"]={"code":"95257","region":"CA","city":"Wilseyville","latitude":38.3793,"longitude":-120.4627}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21410"]={"code":"21410","region":"Splitsko-dalmatinska zupanija","city":"Postire","latitude":43.37639,"longitude":16.63222}}(window,'GeoPostal','HR');

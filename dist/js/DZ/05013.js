@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05013"]={"code":"05013","region":"Batna","city":"Merouana","latitude":35.63106,"longitude":5.91186}}(window,'GeoPostal','DZ');

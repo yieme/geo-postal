@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50720"]={"code":"50720","region":"Normandie","city":"Barenton","latitude":48.60027,"longitude":-0.83258}}(window,'GeoPostal','FR');

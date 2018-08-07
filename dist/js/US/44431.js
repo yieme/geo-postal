@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44431"]={"code":"44431","region":"OH","city":"Leetonia","latitude":40.8631,"longitude":-80.7585}}(window,'GeoPostal','US');

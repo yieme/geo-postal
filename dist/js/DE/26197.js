@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26197"]={"code":"26197","region":"Niedersachsen","city":"Krumland","latitude":52.9681,"longitude":8.23674}}(window,'GeoPostal','DE');

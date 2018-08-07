@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15665"]={"code":"15665","region":"PA","city":"Manor","latitude":40.334,"longitude":-79.67}}(window,'GeoPostal','US');

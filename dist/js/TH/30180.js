@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30180"]={"code":"30180","region":"Buri Ram","city":"Ban Mai Chaiyaphot","latitude":15.57361,"longitude":102.83331}}(window,'GeoPostal','TH');

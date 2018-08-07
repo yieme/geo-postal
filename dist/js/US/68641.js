@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68641"]={"code":"68641","region":"NE","city":"Howells","latitude":41.725,"longitude":-97.0028}}(window,'GeoPostal','US');

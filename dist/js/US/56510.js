@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56510"]={"code":"56510","region":"Minnesota","city":"Ada","latitude":47.29969,"longitude":-96.51535}}(window,'GeoPostal','US');

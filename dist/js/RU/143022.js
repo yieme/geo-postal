@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143022"]={"code":"143022","region":"Vladimirskaya oblast'","city":"Kirzhach","latitude":56.15273,"longitude":38.85509}}(window,'GeoPostal','RU');

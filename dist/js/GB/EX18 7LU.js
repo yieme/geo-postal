@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX18 7LU"]={"code":"EX18 7LU","region":"England","city":"Ashreigney","latitude":50.90613,"longitude":-3.95097}}(window,'GeoPostal','GB');

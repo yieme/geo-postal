@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57-330"]={"code":"57-330","region":"Dolnoslaskie","city":"Szczytna","latitude":50.41343,"longitude":16.44743}}(window,'GeoPostal','PL');

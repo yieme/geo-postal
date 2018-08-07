@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03178"]={"code":"03178","region":"Valenciana, Comunidad","city":"Benijofar","latitude":38.07785,"longitude":-0.7368}}(window,'GeoPostal','ES');

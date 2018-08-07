@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48454"]={"code":"48454","region":"Michigan","city":"Melvin","latitude":43.200592,"longitude":-82.81974}}(window,'GeoPostal','US');

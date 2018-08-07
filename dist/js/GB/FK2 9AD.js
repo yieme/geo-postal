@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK2 9AD"]={"code":"FK2 9AD","region":"Scotland","city":"Falkirk","latitude":55.99917,"longitude":-3.78713}}(window,'GeoPostal','GB');

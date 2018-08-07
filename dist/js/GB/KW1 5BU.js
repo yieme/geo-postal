@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW1 5BU"]={"code":"KW1 5BU","region":"Scotland","city":"Dunnet","latitude":58.51667,"longitude":-3.33333}}(window,'GeoPostal','GB');

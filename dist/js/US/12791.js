@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12791"]={"code":"12791","region":"NY","city":"Youngsville","latitude":41.8032,"longitude":-74.8888}}(window,'GeoPostal','US');

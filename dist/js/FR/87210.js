@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87210"]={"code":"87210","region":"Nouvelle-Aquitaine","city":"Le Dorat","latitude":46.21514,"longitude":1.08152}}(window,'GeoPostal','FR');

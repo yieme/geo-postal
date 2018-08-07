@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50208"]={"code":"50208","region":"Iowa","city":"Newton","latitude":41.69736,"longitude":-93.04746}}(window,'GeoPostal','US');

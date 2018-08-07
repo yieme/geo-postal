@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67628"]={"code":"67628","region":"KS","city":"Cedar","latitude":39.6602,"longitude":-98.9369}}(window,'GeoPostal','US');

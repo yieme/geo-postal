@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["840 08"]={"code":"840 08","region":"Notio Aigaio","city":"Kamarion","latitude":36.8,"longitude":25.81667}}(window,'GeoPostal','GR');

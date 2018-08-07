@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67111"]={"code":"67111","region":"Balochistan","city":"Sibi","latitude":29.5448,"longitude":67.8764}}(window,'GeoPostal','PK');

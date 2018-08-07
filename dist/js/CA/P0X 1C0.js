@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0X 1C0"]={"code":"P0X 1C0","region":"Ontario","city":"Keewatin","latitude":49.76042,"longitude":-94.55452}}(window,'GeoPostal','CA');

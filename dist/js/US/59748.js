@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59748"]={"code":"59748","region":"MT","city":"Ramsay","latitude":46.0058,"longitude":-112.6861}}(window,'GeoPostal','US');

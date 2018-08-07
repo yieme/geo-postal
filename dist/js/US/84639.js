@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84639"]={"code":"84639","region":"Utah","city":"Levan","latitude":39.554011,"longitude":-111.860865}}(window,'GeoPostal','US');

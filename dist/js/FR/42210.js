@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42210"]={"code":"42210","region":"Auvergne-Rhone-Alpes","city":"Montrond-les-Bains","latitude":45.65098,"longitude":4.23187}}(window,'GeoPostal','FR');

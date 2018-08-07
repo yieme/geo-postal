@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140251"]={"code":"140251","region":"Moskovskaya oblast'","city":"Beloozerskiy","latitude":55.45978,"longitude":38.44358}}(window,'GeoPostal','RU');

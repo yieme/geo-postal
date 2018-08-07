@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB7 4QR"]={"code":"BB7 4QR","region":"England","city":"Grindleton","latitude":53.90501,"longitude":-2.36791}}(window,'GeoPostal','GB');

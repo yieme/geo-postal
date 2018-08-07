@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79498"]={"code":"79498","region":"Dalarnas lan","city":"Orsa","latitude":61.12034,"longitude":14.6155}}(window,'GeoPostal','SE');

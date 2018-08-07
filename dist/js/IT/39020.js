@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39020"]={"code":"39020","region":"Trentino-Alto Adige","city":"Sluderno","latitude":46.66451,"longitude":10.58496}}(window,'GeoPostal','IT');

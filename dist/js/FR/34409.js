@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34409"]={"code":"34409","region":"Occitanie","city":"Lunel","latitude":43.67778,"longitude":4.13611}}(window,'GeoPostal','FR');

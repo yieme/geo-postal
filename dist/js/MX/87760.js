@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87760"]={"code":"87760","region":"Tamaulipas","city":"Abasolo","latitude":24.06667,"longitude":-98.36667}}(window,'GeoPostal','MX');

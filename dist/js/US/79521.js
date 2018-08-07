@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79521"]={"code":"79521","region":"Texas","city":"Haskell","latitude":33.1576,"longitude":-99.7337}}(window,'GeoPostal','US');

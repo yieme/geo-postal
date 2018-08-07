@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24177"]={"code":"24177","region":"VA","city":"Vesta","latitude":36.7241,"longitude":-80.3581}}(window,'GeoPostal','US');

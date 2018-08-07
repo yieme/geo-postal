@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68815"]={"code":"68815","region":"Nebraska","city":"Arcadia","latitude":41.52366,"longitude":-99.037172}}(window,'GeoPostal','US');

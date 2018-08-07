@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["172235"]={"code":"172235","region":"Tverskaya oblast'","city":"Selishche","latitude":56.88794,"longitude":33.26914}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98550"]={"code":"98550","region":"Lappi","city":"Pyhajarvi","latitude":67.0701,"longitude":27.21763}}(window,'GeoPostal','FI');

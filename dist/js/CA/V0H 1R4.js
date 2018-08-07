@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0H 1R4"]={"code":"V0H 1R4","region":"British Columbia","city":"Zamora","latitude":49.14977,"longitude":-118.98561}}(window,'GeoPostal','CA');

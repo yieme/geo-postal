@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94011"]={"code":"94011","region":"Sicilia","city":"Agira","latitude":37.65615,"longitude":14.52158}}(window,'GeoPostal','IT');

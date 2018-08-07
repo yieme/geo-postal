@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23050"]={"code":"23050","region":"Khyber Pakhtunkhwa","city":"Malakand","latitude":34.56561,"longitude":71.93043}}(window,'GeoPostal','PK');

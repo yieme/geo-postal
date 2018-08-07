@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15641"]={"code":"15641","region":"PA","city":"Hyde Park","latitude":40.6311,"longitude":-79.5899}}(window,'GeoPostal','US');

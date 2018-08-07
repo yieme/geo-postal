@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO22 4LD"]={"code":"YO22 4LD","region":"England","city":"Hawsker","latitude":54.45601,"longitude":-0.57518}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39260-000"]={"code":"39260-000","region":"Minas Gerais","city":"Varzea da Palma","latitude":-17.59806,"longitude":-44.73083}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47368"]={"code":"47368","region":"IN","city":"Parker City","latitude":40.1938,"longitude":-85.1963}}(window,'GeoPostal','US');

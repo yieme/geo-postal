@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52012"]={"code":"52012","region":"Meknes-Tafilalet","city":"Errachidia","latitude":31.92754,"longitude":-4.42852}}(window,'GeoPostal','MA');

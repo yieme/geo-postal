@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666610"]={"code":"666610","region":"Irkutskaya oblast'","city":"Yerbogachen","latitude":61.27667,"longitude":108.01083}}(window,'GeoPostal','RU');

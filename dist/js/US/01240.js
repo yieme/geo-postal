@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01240"]={"code":"01240","region":"Massachusetts","city":"Lenox","latitude":42.362854,"longitude":-73.272935}}(window,'GeoPostal','US');

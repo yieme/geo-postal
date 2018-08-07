@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659000"]={"code":"659000","region":"Altayskiy kray","city":"Pavlovsk","latitude":53.31861,"longitude":82.98222}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41365"]={"code":"41365","region":"Kentucky","city":"Rogers","latitude":37.710248,"longitude":-83.629429}}(window,'GeoPostal','US');

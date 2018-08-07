@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03658"]={"code":"03658","region":"Valenciana, Comunidad","city":"Pinoso","latitude":38.40164,"longitude":-1.04196}}(window,'GeoPostal','ES');

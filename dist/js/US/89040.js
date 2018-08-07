@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89040"]={"code":"89040","region":"Nevada","city":"Overton","latitude":36.54246,"longitude":-114.45341}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23600"]={"code":"23600","region":"Andalucia","city":"Martos","latitude":37.72107,"longitude":-3.97264}}(window,'GeoPostal','ES');

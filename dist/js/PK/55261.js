@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55261"]={"code":"55261","region":"Punjab","city":"Bhai Pheru","latitude":31.2,"longitude":73.95}}(window,'GeoPostal','PK');

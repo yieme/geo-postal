@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59030"]={"code":"59030","region":"Tekirdag","city":"Tekirdag","latitude":40.97801,"longitude":27.50852}}(window,'GeoPostal','TR');

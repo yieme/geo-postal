@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21230"]={"code":"21230","region":"Bourgogne-Franche-Comte","city":"Arnay-le-Duc","latitude":47.13202,"longitude":4.48595}}(window,'GeoPostal','FR');

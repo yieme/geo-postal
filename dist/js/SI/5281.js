@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5281"]={"code":"5281","region":"Idrija","city":"Spodnja Idrija","latitude":46.03194,"longitude":14.02722}}(window,'GeoPostal','SI');

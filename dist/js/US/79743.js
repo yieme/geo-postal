@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79743"]={"code":"79743","region":"Texas","city":"Imperial","latitude":31.27194,"longitude":-102.69583}}(window,'GeoPostal','US');

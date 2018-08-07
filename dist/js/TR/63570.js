@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63570"]={"code":"63570","region":"Erzincan","city":"Refahiye","latitude":39.90083,"longitude":38.76667}}(window,'GeoPostal','TR');

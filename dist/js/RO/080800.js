@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["080800"]={"code":"080800","region":"Ialomita","city":"Slobozia","latitude":43.85,"longitude":25.9}}(window,'GeoPostal','RO');

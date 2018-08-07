@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS12 3AS"]={"code":"TS12 3AS","region":"England","city":"Boosbeck","latitude":54.54265,"longitude":-0.98139}}(window,'GeoPostal','GB');

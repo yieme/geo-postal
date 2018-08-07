@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52216"]={"code":"52216","region":"Iowa","city":"Clarence","latitude":41.881538,"longitude":-91.061908}}(window,'GeoPostal','US');

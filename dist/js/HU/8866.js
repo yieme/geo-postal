@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8866"]={"code":"8866","region":"Zala","city":"Becsehely","latitude":46.44755,"longitude":16.7771}}(window,'GeoPostal','HU');

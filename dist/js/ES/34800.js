@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34800"]={"code":"34800","region":"Castilla y Leon","city":"Aguilar de Campoo","latitude":42.79452,"longitude":-4.25892}}(window,'GeoPostal','ES');

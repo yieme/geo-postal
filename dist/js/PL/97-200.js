@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-200"]={"code":"97-200","region":"Lodzkie","city":"Tomaszow Mazowiecki","latitude":51.53131,"longitude":20.00855}}(window,'GeoPostal','PL');

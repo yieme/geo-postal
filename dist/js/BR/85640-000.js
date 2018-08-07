@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85640-000"]={"code":"85640-000","region":"Parana","city":"Ampere","latitude":-25.915,"longitude":-53.47278}}(window,'GeoPostal','BR');

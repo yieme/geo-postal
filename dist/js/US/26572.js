@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26572"]={"code":"26572","region":"WV","city":"Four States","latitude":39.4798,"longitude":-80.3098}}(window,'GeoPostal','US');

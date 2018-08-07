@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0G 2L0"]={"code":"R0G 2L0","region":"Manitoba","city":"Somerset","latitude":49.41221,"longitude":-98.66138}}(window,'GeoPostal','CA');

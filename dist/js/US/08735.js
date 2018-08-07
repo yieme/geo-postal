@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08735"]={"code":"08735","region":"NJ","city":"Lavallette","latitude":39.9775,"longitude":-74.0704}}(window,'GeoPostal','US');

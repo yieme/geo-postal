@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03823"]={"code":"03823","region":"NH","city":"Madbury","latitude":43.1729,"longitude":-70.9412}}(window,'GeoPostal','US');

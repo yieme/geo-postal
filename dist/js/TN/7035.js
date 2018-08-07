@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7035"]={"code":"7035","region":"Bizerte","city":"Menzel Abderhaman","latitude":37.23737,"longitude":9.86313}}(window,'GeoPostal','TN');

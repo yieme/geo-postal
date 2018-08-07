@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0E 2L0"]={"code":"J0E 2L0","region":"Quebec","city":"Valcourt","latitude":45.50008,"longitude":-72.31581}}(window,'GeoPostal','CA');

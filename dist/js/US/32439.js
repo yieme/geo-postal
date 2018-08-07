@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32439"]={"code":"32439","region":"Florida","city":"Freeport","latitude":30.49825,"longitude":-86.13605}}(window,'GeoPostal','US');

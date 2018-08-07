@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72123"]={"code":"72123","region":"AR","city":"Patterson","latitude":35.2588,"longitude":-91.237}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 6RB"]={"code":"PE31 6RB","region":"England","city":"Bircham Newton","latitude":52.87358,"longitude":0.66007}}(window,'GeoPostal','GB');

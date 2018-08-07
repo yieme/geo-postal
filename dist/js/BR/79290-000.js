@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79290-000"]={"code":"79290-000","region":"Mato Grosso do Sul","city":"Bonito","latitude":-21.12111,"longitude":-56.48194}}(window,'GeoPostal','BR');

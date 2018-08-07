@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST9 9HH"]={"code":"ST9 9HH","region":"England","city":"Endon","latitude":53.07687,"longitude":-2.11297}}(window,'GeoPostal','GB');

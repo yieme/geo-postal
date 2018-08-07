@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G63 0SG"]={"code":"G63 0SG","region":"Scotland","city":"Kepculloch","latitude":56.08333,"longitude":-4.35}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2309"]={"code":"2309","region":"Kotayk'","city":"Hrazdan","latitude":40.49748,"longitude":44.7662}}(window,'GeoPostal','AM');

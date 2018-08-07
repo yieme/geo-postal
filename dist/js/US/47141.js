@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47141"]={"code":"47141","region":"IN","city":"Marysville","latitude":38.5856,"longitude":-85.6436}}(window,'GeoPostal','US');

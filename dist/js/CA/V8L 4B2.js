@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V8L 4B2"]={"code":"V8L 4B2","region":"British Columbia","city":"Sidney","latitude":48.651095,"longitude":-123.405529}}(window,'GeoPostal','CA');

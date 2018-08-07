@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30170"]={"code":"30170","region":"Murcia, Region de","city":"Mula","latitude":38.04094,"longitude":-1.49014}}(window,'GeoPostal','ES');

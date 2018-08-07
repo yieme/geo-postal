@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33029"]={"code":"33029","region":"Friuli-Venezia Giulia","city":"Villa Santina","latitude":46.4175,"longitude":12.92222}}(window,'GeoPostal','IT');

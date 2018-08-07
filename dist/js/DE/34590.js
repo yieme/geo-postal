@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34590"]={"code":"34590","region":"Hessen","city":"Zennern","latitude":51.10996,"longitude":9.31324}}(window,'GeoPostal','DE');

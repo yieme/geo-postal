@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22820"]={"code":"22820","region":"VA","city":"Criders","latitude":38.7497,"longitude":-78.9974}}(window,'GeoPostal','US');

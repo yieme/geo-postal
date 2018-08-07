@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646404"]={"code":"646404","region":"Omskaya oblast'","city":"Krasnoyarka","latitude":55.33333,"longitude":73.11667}}(window,'GeoPostal','RU');

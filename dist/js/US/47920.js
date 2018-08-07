@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47920"]={"code":"47920","region":"IN","city":"Battle Ground","latitude":40.5248,"longitude":-86.8238}}(window,'GeoPostal','US');

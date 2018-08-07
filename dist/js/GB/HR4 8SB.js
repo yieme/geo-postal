@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR4 8SB"]={"code":"HR4 8SB","region":"England","city":"Weobley","latitude":52.1596,"longitude":-2.875}}(window,'GeoPostal','GB');

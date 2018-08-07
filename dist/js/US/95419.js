@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95419"]={"code":"95419","region":"CA","city":"Camp Meeker","latitude":38.425,"longitude":-122.9485}}(window,'GeoPostal','US');

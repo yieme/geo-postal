@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8660"]={"code":"8660","region":"Somogy","city":"Tab","latitude":46.73135,"longitude":18.03201}}(window,'GeoPostal','HU');

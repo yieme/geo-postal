@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62336"]={"code":"62336","region":"Hauts-de-France","city":"Lens","latitude":50.43302,"longitude":2.82791}}(window,'GeoPostal','FR');

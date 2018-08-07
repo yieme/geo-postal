@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00685"]={"code":"00685","region":"PR","city":"San Sebastian","latitude":18.33,"longitude":-66.99}}(window,'GeoPostal','US');

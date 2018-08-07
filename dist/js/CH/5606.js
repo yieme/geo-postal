@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5606"]={"code":"5606","region":"Aargau","city":"Dottikon","latitude":47.38333,"longitude":8.23333}}(window,'GeoPostal','CH');

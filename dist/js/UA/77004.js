@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77004"]={"code":"77004","region":"Ivano-Frankivska oblast","city":"Rogatin","latitude":49.409,"longitude":24.60926}}(window,'GeoPostal','UA');

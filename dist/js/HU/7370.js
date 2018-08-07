@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7370"]={"code":"7370","region":"Baranya","city":"Sasd","latitude":46.2552,"longitude":18.10776}}(window,'GeoPostal','HU');

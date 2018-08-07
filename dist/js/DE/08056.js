@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08056"]={"code":"08056","region":"Sachsen","city":"Zwickau","latitude":50.72724,"longitude":12.48839}}(window,'GeoPostal','DE');

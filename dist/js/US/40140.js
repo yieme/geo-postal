@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40140"]={"code":"40140","region":"KY","city":"Garfield","latitude":37.7828,"longitude":-86.3575}}(window,'GeoPostal','US');

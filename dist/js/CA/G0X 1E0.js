@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 1E0"]={"code":"G0X 1E0","region":"Quebec","city":"Charette","latitude":46.45006,"longitude":-72.93244}}(window,'GeoPostal','CA');

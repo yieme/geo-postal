@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E14 3RW"]={"code":"E14 3RW","region":"England","city":"Millwall","latitude":51.49058,"longitude":-0.02375}}(window,'GeoPostal','GB');

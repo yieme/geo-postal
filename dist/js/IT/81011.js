@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81011"]={"code":"81011","region":"Campania","city":"Alife","latitude":41.32612,"longitude":14.33403}}(window,'GeoPostal','IT');

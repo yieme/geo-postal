@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY13 2SE"]={"code":"SY13 2SE","region":"Wales","city":"Plattlane","latitude":52.91667,"longitude":-2.73333}}(window,'GeoPostal','GB');

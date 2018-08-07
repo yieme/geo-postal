@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["831 01"]={"code":"831 01","region":"Voreio Aigaio","city":"Chora","latitude":37.70361,"longitude":26.90556}}(window,'GeoPostal','GR');

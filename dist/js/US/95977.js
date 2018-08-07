@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95977"]={"code":"95977","region":"CA","city":"Smartsville","latitude":39.2076,"longitude":-121.3001}}(window,'GeoPostal','US');

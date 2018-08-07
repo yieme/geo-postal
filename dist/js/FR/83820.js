@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83820"]={"code":"83820","region":"Provence-Alpes-Cote d'Azur","city":"Rayol-Canadel-sur-Mer","latitude":43.1594,"longitude":6.4625}}(window,'GeoPostal','FR');

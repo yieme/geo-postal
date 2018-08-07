@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 2DQ"]={"code":"LE14 2DQ","region":"England","city":"Thorpe Satchville","latitude":52.69823,"longitude":-0.91662}}(window,'GeoPostal','GB');

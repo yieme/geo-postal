@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["720 55"]={"code":"720 55","region":"Kriti","city":"Makry Gialos","latitude":35.0397,"longitude":25.9542}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79556"]={"code":"79556","region":"Texas","city":"Sweetwater","latitude":32.46594,"longitude":-100.38624}}(window,'GeoPostal','US');

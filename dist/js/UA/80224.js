@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80224"]={"code":"80224","region":"Lvivska oblast","city":"Kulikov","latitude":50.31424,"longitude":24.81757}}(window,'GeoPostal','UA');

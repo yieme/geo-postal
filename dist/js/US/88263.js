@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88263"]={"code":"88263","region":"NM","city":"Malaga","latitude":32.1813,"longitude":-104.0668}}(window,'GeoPostal','US');

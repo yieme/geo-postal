@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23162"]={"code":"23162","region":"Virginia","city":"Studley","latitude":37.6755,"longitude":-77.2911}}(window,'GeoPostal','US');

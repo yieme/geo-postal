@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA65 9QB"]={"code":"SA65 9QB","region":"Wales","city":"Panteg","latitude":51.97417,"longitude":-5.02139}}(window,'GeoPostal','GB');

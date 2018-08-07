@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55800"]={"code":"55800","region":"Grand-Est","city":"Revigny-sur-Ornain","latitude":48.83016,"longitude":4.98558}}(window,'GeoPostal','FR');

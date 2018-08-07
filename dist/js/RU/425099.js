@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425099"]={"code":"425099","region":"Mariy El, Respublika","city":"Zvenigovo","latitude":55.97539,"longitude":48.01304}}(window,'GeoPostal','RU');

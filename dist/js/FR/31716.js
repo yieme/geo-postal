@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31716"]={"code":"31716","region":"Occitanie","city":"Blagnac","latitude":43.63276,"longitude":1.39399}}(window,'GeoPostal','FR');

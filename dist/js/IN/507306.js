@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507306"]={"code":"507306","region":"Telangana","city":"Sathupalli","latitude":17.24968,"longitude":80.86899}}(window,'GeoPostal','IN');

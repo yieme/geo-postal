@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-375"]={"code":"22-375","region":"Lubelskie","city":"Izbica","latitude":50.88728,"longitude":23.15248}}(window,'GeoPostal','PL');

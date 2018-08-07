@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47432"]={"code":"47432","region":"Indiana","city":"French Lick","latitude":38.545864,"longitude":-86.61898}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14467"]={"code":"14467","region":"New York","city":"Henrietta","latitude":43.059444,"longitude":-77.614722}}(window,'GeoPostal','US');

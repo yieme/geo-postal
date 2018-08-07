@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435001"]={"code":"435001","region":"Hubei","city":"Wangren","latitude":30.15372,"longitude":115.1235}}(window,'GeoPostal','CN');

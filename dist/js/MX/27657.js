@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27657"]={"code":"27657","region":"Chiapas","city":"Mapastepec","latitude":15.43333,"longitude":-92.9}}(window,'GeoPostal','MX');

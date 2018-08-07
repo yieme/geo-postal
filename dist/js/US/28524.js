@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28524"]={"code":"28524","region":"NC","city":"Davis","latitude":34.7974,"longitude":-76.4602}}(window,'GeoPostal','US');

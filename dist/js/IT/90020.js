@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90020"]={"code":"90020","region":"Sicilia","city":"Bompietro","latitude":37.74495,"longitude":14.09296}}(window,'GeoPostal','IT');

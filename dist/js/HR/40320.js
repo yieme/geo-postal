@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40320"]={"code":"40320","region":"Medimurska zupanija","city":"Hodosan","latitude":46.39528,"longitude":16.64389}}(window,'GeoPostal','HR');

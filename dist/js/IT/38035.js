@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38035"]={"code":"38035","region":"Trentino-Alto Adige","city":"Moena","latitude":46.37732,"longitude":11.66109}}(window,'GeoPostal','IT');

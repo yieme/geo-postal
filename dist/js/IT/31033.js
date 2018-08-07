@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31033"]={"code":"31033","region":"Veneto","city":"Riese","latitude":45.729,"longitude":11.919}}(window,'GeoPostal','IT');

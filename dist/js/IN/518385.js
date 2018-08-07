@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["518385"]={"code":"518385","region":"Andhra Pradesh","city":"Kosigi","latitude":15.85,"longitude":77.26667}}(window,'GeoPostal','IN');

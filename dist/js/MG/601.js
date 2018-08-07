@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601"]={"code":"601","region":"Toliara","city":"Toliara","latitude":-23.35,"longitude":43.66667}}(window,'GeoPostal','MG');

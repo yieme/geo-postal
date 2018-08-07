@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63005"]={"code":"63005","region":"Missouri","city":"Chesterfield","latitude":38.66311,"longitude":-90.57707}}(window,'GeoPostal','US');

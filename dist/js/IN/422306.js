@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422306"]={"code":"422306","region":"Maharashtra","city":"Chandvad","latitude":20.33333,"longitude":74.25}}(window,'GeoPostal','IN');

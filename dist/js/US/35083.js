@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35083"]={"code":"35083","region":"AL","city":"Holly Pond","latitude":34.1901,"longitude":-86.6174}}(window,'GeoPostal','US');

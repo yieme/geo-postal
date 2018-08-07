@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60534"]={"code":"60534","region":"Illinois","city":"Lyons","latitude":41.813408,"longitude":-87.822178}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30380"]={"code":"30380","region":"Occitanie","city":"Saint-Christol-les-Ales","latitude":44.08256,"longitude":4.07506}}(window,'GeoPostal','FR');

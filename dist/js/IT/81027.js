@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81027"]={"code":"81027","region":"Campania","city":"Cancello","latitude":41.06667,"longitude":14.05}}(window,'GeoPostal','IT');

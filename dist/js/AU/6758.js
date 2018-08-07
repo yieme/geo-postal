@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6758"]={"code":"6758","region":"Western Australia","city":"Nullagine","latitude":-21.88333,"longitude":120.1}}(window,'GeoPostal','AU');

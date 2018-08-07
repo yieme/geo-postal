@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55746"]={"code":"55746","region":"Minnesota","city":"Hibbing","latitude":47.42715,"longitude":-92.93769}}(window,'GeoPostal','US');

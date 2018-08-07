@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29849"]={"code":"29849","region":"SC","city":"Ulmer","latitude":33.0988,"longitude":-81.2068}}(window,'GeoPostal','US');

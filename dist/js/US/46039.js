@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46039"]={"code":"46039","region":"IN","city":"Forest","latitude":40.3757,"longitude":-86.3201}}(window,'GeoPostal','US');

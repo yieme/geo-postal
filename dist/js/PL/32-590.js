@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-590"]={"code":"32-590","region":"Malopolskie","city":"Libiaz","latitude":50.10396,"longitude":19.31568}}(window,'GeoPostal','PL');

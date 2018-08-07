@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417 02"]={"code":"417 02","region":"Ustecky kraj","city":"Dubi","latitude":50.68558,"longitude":13.78561}}(window,'GeoPostal','CZ');

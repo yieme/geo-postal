@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66606"]={"code":"66606","region":"Saarland","city":"Sankt Wendel","latitude":49.46633,"longitude":7.16814}}(window,'GeoPostal','DE');

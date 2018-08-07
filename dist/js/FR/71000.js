@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71000"]={"code":"71000","region":"Bourgogne-Franche-Comte","city":"Sance","latitude":46.33926,"longitude":4.83049}}(window,'GeoPostal','FR');

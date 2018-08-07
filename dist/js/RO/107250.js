@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107250"]={"code":"107250","region":"Prahova","city":"Filipestii de Tirg","latitude":44.98333,"longitude":25.78333}}(window,'GeoPostal','RO');

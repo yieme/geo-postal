@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E1X 0A9"]={"code":"E1X 0A9","region":"New Brunswick","city":"Tracadie-Sheila","latitude":47.51444,"longitude":-64.91806}}(window,'GeoPostal','CA');

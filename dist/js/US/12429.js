@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12429"]={"code":"12429","region":"NY","city":"Esopus","latitude":41.8279,"longitude":-73.9651}}(window,'GeoPostal','US');

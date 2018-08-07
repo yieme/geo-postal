@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2500"]={"code":"2500","region":"New South Wales","city":"Wollongong","latitude":-34.424,"longitude":150.89345}}(window,'GeoPostal','AU');

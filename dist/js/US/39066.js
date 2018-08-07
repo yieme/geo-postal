@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39066"]={"code":"39066","region":"MS","city":"Edwards","latitude":32.316,"longitude":-90.5984}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03100"]={"code":"03100","region":"Uusimaa","city":"Vihti","latitude":60.41699,"longitude":24.31965}}(window,'GeoPostal','FI');

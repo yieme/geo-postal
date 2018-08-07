@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE16 7RU"]={"code":"LE16 7RU","region":"England","city":"Gumley","latitude":52.50276,"longitude":-0.9943}}(window,'GeoPostal','GB');

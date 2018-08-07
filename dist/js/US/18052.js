@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18052"]={"code":"18052","region":"Pennsylvania","city":"Whitehall","latitude":40.658588,"longitude":-75.491844}}(window,'GeoPostal','US');

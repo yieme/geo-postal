@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95761"]={"code":"95761","region":"Sulawesi Utara","city":"Lolak","latitude":0.8755,"longitude":124.0098}}(window,'GeoPostal','ID');

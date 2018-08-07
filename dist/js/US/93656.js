@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93656"]={"code":"93656","region":"CA","city":"Riverdale","latitude":36.4295,"longitude":-119.872}}(window,'GeoPostal','US');

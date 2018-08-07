@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17580"]={"code":"17580","region":"PA","city":"Talmage","latitude":40.1168,"longitude":-76.2131}}(window,'GeoPostal','US');

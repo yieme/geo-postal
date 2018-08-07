@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217365"]={"code":"217365","region":"Gorj","city":"Polovragi","latitude":45.18333,"longitude":23.8}}(window,'GeoPostal','RO');

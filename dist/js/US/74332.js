@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74332"]={"code":"74332","region":"Oklahoma","city":"Big Cabin","latitude":36.54417,"longitude":-95.22056}}(window,'GeoPostal','US');

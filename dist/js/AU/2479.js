@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2479"]={"code":"2479","region":"New South Wales","city":"Bangalow","latitude":-28.68675,"longitude":153.52393}}(window,'GeoPostal','AU');

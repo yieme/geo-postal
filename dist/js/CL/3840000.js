@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3840000"]={"code":"3840000","region":"Biobio","city":"San Carlos","latitude":-36.42477,"longitude":-71.958}}(window,'GeoPostal','CL');

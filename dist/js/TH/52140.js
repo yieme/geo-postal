@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52140"]={"code":"52140","region":"Lampang","city":"Wang Nuea","latitude":19.14678,"longitude":99.61933}}(window,'GeoPostal','TH');

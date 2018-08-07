@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["763 14"]={"code":"763 14","region":"Zlinsky kraj","city":"Hvozdna","latitude":49.24848,"longitude":17.75163}}(window,'GeoPostal','CZ');

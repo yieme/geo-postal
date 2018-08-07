@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["545"]={"code":"545","region":"Nantou","city":"Puli","latitude":23.96639,"longitude":120.96952}}(window,'GeoPostal','TW');

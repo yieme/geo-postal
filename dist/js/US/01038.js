@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01038"]={"code":"01038","region":"MA","city":"Hatfield","latitude":42.3844,"longitude":-72.6167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37547"]={"code":"37547","region":"Niedersachsen","city":"Haieshausen","latitude":51.83871,"longitude":9.972}}(window,'GeoPostal','DE');

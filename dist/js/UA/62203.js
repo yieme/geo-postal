@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62203"]={"code":"62203","region":"Kharkivska oblast","city":"Zolochiv","latitude":50.27985,"longitude":35.98178}}(window,'GeoPostal','UA');

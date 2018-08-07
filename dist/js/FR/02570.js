@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02570"]={"code":"02570","region":"Hauts-de-France","city":"Chezy-sur-Marne","latitude":48.98881,"longitude":3.36786}}(window,'GeoPostal','FR');

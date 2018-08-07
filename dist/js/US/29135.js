@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29135"]={"code":"29135","region":"South Carolina","city":"Saint Matthews","latitude":33.66488,"longitude":-80.77787}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03779"]={"code":"03779","region":"NH","city":"Piermont","latitude":43.9906,"longitude":-72.0813}}(window,'GeoPostal','US');

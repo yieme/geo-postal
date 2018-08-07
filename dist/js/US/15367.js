@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15367"]={"code":"15367","region":"Pennsylvania","city":"Venetia","latitude":40.270813,"longitude":-80.059767}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01057"]={"code":"01057","region":"MA","city":"Monson","latitude":42.101,"longitude":-72.3196}}(window,'GeoPostal','US');

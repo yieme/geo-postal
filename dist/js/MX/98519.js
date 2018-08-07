@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98519"]={"code":"98519","region":"Zacatecas","city":"Jerez de Garcia Salinas","latitude":22.65,"longitude":-103}}(window,'GeoPostal','MX');

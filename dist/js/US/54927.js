@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54927"]={"code":"54927","region":"WI","city":"Butte Des Morts","latitude":44.1031,"longitude":-88.6539}}(window,'GeoPostal','US');

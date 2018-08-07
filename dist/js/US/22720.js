@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22720"]={"code":"22720","region":"VA","city":"Goldvein","latitude":38.4725,"longitude":-77.6423}}(window,'GeoPostal','US');

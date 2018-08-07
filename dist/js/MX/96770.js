@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96770"]={"code":"96770","region":"Veracruz de Ignacio de la Llave","city":"Hidalgo","latitude":19.96667,"longitude":-96.86667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71479"]={"code":"71479","region":"LA","city":"Tullos","latitude":31.8569,"longitude":-92.374}}(window,'GeoPostal','US');

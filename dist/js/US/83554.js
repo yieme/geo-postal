@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83554"]={"code":"83554","region":"ID","city":"White Bird","latitude":45.7521,"longitude":-116.2889}}(window,'GeoPostal','US');

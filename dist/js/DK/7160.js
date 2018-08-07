@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7160"]={"code":"7160","region":"Midtjylland","city":"Torring","latitude":55.85,"longitude":9.48333}}(window,'GeoPostal','DK');

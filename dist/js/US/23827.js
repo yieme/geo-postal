@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23827"]={"code":"23827","region":"VA","city":"Boykins","latitude":36.5951,"longitude":-77.1975}}(window,'GeoPostal','US');

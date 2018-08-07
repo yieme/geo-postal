@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72948"]={"code":"72948","region":"AR","city":"Natural Dam","latitude":35.6743,"longitude":-94.4124}}(window,'GeoPostal','US');

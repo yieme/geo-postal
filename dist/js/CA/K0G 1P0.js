@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0G 1P0"]={"code":"K0G 1P0","region":"Ontario","city":"Newboro","latitude":44.65012,"longitude":-76.31609}}(window,'GeoPostal','CA');

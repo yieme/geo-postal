@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NW10 7QP"]={"code":"NW10 7QP","region":"England","city":"Leeds","latitude":51.24677,"longitude":0.60682}}(window,'GeoPostal','GB');

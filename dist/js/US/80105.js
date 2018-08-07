@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80105"]={"code":"80105","region":"Colorado","city":"Deer Trail","latitude":39.615098,"longitude":-104.042777}}(window,'GeoPostal','US');

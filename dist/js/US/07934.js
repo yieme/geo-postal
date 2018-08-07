@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07934"]={"code":"07934","region":"New Jersey","city":"Gladstone","latitude":40.722308,"longitude":-74.670522}}(window,'GeoPostal','US');

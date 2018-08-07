@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17261"]={"code":"17261","region":"Pennsylvania","city":"South Mountain","latitude":39.83705,"longitude":-77.476986}}(window,'GeoPostal','US');

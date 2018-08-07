@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50542"]={"code":"50542","region":"Iowa","city":"Goldfield","latitude":42.734727,"longitude":-93.921175}}(window,'GeoPostal','US');

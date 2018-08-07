@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66012"]={"code":"66012","region":"KS","city":"Bonner Springs","latitude":39.0672,"longitude":-94.9227}}(window,'GeoPostal','US');

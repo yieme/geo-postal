@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71259"]={"code":"71259","region":"LA","city":"Mangham","latitude":32.3331,"longitude":-91.7976}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92028"]={"code":"92028","region":"California","city":"Fallbrook","latitude":33.369385,"longitude":-117.21816}}(window,'GeoPostal','US');

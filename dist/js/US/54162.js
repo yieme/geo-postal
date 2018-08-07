@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54162"]={"code":"54162","region":"Wisconsin","city":"Pulaski","latitude":44.653663,"longitude":-88.211783}}(window,'GeoPostal','US');

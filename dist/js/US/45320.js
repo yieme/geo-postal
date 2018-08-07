@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45320"]={"code":"45320","region":"Ohio","city":"Eaton","latitude":39.74394,"longitude":-84.63662}}(window,'GeoPostal','US');

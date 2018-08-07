@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59111"]={"code":"59111","region":"Hauts-de-France","city":"Lieu-Saint-Amand","latitude":50.27318,"longitude":3.34624}}(window,'GeoPostal','FR');

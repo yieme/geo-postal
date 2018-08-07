@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15610"]={"code":"15610","region":"Pennsylvania","city":"Acme","latitude":40.12722,"longitude":-79.43472}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-523"]={"code":"22-523","region":"Lubelskie","city":"Horodlo","latitude":50.89459,"longitude":24.03723}}(window,'GeoPostal','PL');

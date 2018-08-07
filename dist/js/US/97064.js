@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97064"]={"code":"97064","region":"OR","city":"Vernonia","latitude":45.8573,"longitude":-123.1967}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57427"]={"code":"57427","region":"South Dakota","city":"Bath","latitude":45.461666,"longitude":-98.330108}}(window,'GeoPostal','US');

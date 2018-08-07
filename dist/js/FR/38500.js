@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38500"]={"code":"38500","region":"Auvergne-Rhone-Alpes","city":"Coublevie","latitude":45.35624,"longitude":5.61759}}(window,'GeoPostal','FR');

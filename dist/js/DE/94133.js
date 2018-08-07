@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94133"]={"code":"94133","region":"Bayern","city":"Roehrnbach","latitude":48.73859,"longitude":13.52271}}(window,'GeoPostal','DE');

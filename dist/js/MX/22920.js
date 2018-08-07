@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22920"]={"code":"22920","region":"Baja California","city":"Colonia Vicente Guerrero","latitude":30.75,"longitude":-116}}(window,'GeoPostal','MX');

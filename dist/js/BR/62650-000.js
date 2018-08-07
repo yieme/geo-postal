@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62650-000"]={"code":"62650-000","region":"Ceara","city":"Uruburetama","latitude":-3.625,"longitude":-39.50833}}(window,'GeoPostal','BR');

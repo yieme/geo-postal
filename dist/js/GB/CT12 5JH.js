@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT12 5JH"]={"code":"CT12 5JH","region":"England","city":"Cliffsend","latitude":51.32997,"longitude":1.36677}}(window,'GeoPostal','GB');

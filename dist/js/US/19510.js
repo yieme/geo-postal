@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19510"]={"code":"19510","region":"PA","city":"Blandon","latitude":40.4435,"longitude":-75.8837}}(window,'GeoPostal','US');

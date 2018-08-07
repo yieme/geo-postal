@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14748"]={"code":"14748","region":"New York","city":"Kill Buck","latitude":42.148906,"longitude":-78.639019}}(window,'GeoPostal','US');

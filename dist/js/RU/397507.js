@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["397507"]={"code":"397507","region":"Voronezhskaya oblast'","city":"Buturlinovka","latitude":50.82389,"longitude":40.60917}}(window,'GeoPostal','RU');

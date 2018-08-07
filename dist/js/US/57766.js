@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57766"]={"code":"57766","region":"SD","city":"Oral","latitude":43.3876,"longitude":-103.1832}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37753"]={"code":"37753","region":"TN","city":"Hartford","latitude":35.8256,"longitude":-83.0996}}(window,'GeoPostal','US');

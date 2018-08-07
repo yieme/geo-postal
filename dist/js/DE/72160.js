@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72160"]={"code":"72160","region":"Baden-Wurttemberg","city":"Nordstetten","latitude":48.08255,"longitude":8.47458}}(window,'GeoPostal','DE');

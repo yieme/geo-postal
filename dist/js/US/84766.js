@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84766"]={"code":"84766","region":"UT","city":"Sevier","latitude":38.5785,"longitude":-112.3108}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM9 4LT"]={"code":"CM9 4LT","region":"England","city":"Heybridge","latitude":51.74085,"longitude":0.68459}}(window,'GeoPostal','GB');

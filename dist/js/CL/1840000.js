@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1840000"]={"code":"1840000","region":"Coquimbo","city":"Ovalle","latitude":-30.59833,"longitude":-71.20028}}(window,'GeoPostal','CL');

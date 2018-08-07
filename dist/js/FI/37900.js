@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37900"]={"code":"37900","region":"Pirkanmaa","city":"Kylmakoski","latitude":61.154,"longitude":23.68858}}(window,'GeoPostal','FI');

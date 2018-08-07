@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3003"]={"code":"3003","region":"Bulacan","city":"Calumpit","latitude":14.91639,"longitude":120.76583}}(window,'GeoPostal','PH');

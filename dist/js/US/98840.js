@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98840"]={"code":"98840","region":"Washington","city":"Okanogan","latitude":48.365927,"longitude":-119.580655}}(window,'GeoPostal','US');

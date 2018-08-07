@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9228"]={"code":"9228","region":"Gyor-Moson-Sopron","city":"Halaszi","latitude":47.8893,"longitude":17.32615}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15940"]={"code":"15940","region":"Pennsylvania","city":"Loretto","latitude":40.507972,"longitude":-78.640977}}(window,'GeoPostal','US');

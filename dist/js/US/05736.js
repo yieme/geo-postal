@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05736"]={"code":"05736","region":"VT","city":"Center Rutland","latitude":43.6023,"longitude":-73.017}}(window,'GeoPostal','US');

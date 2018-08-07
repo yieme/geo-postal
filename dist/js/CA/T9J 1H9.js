@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9J 1H9"]={"code":"T9J 1H9","region":"Alberta","city":"Fort McMurray","latitude":56.709507,"longitude":-111.385625}}(window,'GeoPostal','CA');

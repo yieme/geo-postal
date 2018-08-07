@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EN6 2DJ"]={"code":"EN6 2DJ","region":"England","city":"Potters Bar","latitude":51.69353,"longitude":-0.17835}}(window,'GeoPostal','GB');

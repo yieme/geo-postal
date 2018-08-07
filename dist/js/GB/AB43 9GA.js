@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB43 9GA"]={"code":"AB43 9GA","region":"Scotland","city":"Fraserburgh","latitude":57.68744,"longitude":-2.01844}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32001"]={"code":"32001","region":"Utenos apskritis","city":"Zarasai","latitude":55.73333,"longitude":26.25}}(window,'GeoPostal','LT');

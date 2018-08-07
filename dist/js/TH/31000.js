@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31000"]={"code":"31000","region":"Sa Kaeo","city":"Khao Chakan","latitude":13.6535,"longitude":102.08825}}(window,'GeoPostal','TH');

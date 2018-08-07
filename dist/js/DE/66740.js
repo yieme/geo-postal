@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66740"]={"code":"66740","region":"Saarland","city":"Saarlouis","latitude":49.31366,"longitude":6.75154}}(window,'GeoPostal','DE');

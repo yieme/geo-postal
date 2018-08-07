@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79240-000"]={"code":"79240-000","region":"Mato Grosso do Sul","city":"Jardim","latitude":-21.48028,"longitude":-56.13806}}(window,'GeoPostal','BR');

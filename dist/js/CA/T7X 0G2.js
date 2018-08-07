@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7X 0G2"]={"code":"T7X 0G2","region":"Alberta","city":"Spruce Grove","latitude":53.580345,"longitude":-113.917349}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41562"]={"code":"41562","region":"Kentucky","city":"Shelbiana","latitude":37.39326,"longitude":-82.4712}}(window,'GeoPostal','US');

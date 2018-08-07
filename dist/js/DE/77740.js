@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77740"]={"code":"77740","region":"Baden-Wurttemberg","city":"Bad Peterstal","latitude":48.42846,"longitude":8.20201}}(window,'GeoPostal','DE');

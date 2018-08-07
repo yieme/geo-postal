@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46020"]={"code":"46020","region":"Lombardia","city":"Quingentole","latitude":45.03908,"longitude":11.0458}}(window,'GeoPostal','IT');

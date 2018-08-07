@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61072"]={"code":"61072","region":"IL","city":"Rockton","latitude":42.4544,"longitude":-89.0887}}(window,'GeoPostal','US');

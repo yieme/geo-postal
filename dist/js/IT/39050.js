@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39050"]={"code":"39050","region":"Trentino-Alto Adige","city":"Fie","latitude":46.51672,"longitude":11.50128}}(window,'GeoPostal','IT');

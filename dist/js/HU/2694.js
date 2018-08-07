@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2694"]={"code":"2694","region":"Nograd","city":"Romhany","latitude":47.92618,"longitude":19.25723}}(window,'GeoPostal','HU');

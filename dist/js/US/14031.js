@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14031"]={"code":"14031","region":"New York","city":"Clarence","latitude":42.982352,"longitude":-78.618701}}(window,'GeoPostal','US');

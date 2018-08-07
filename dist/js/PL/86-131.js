@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-131"]={"code":"86-131","region":"Kujawsko-pomorskie","city":"Jezewo","latitude":53.51061,"longitude":18.49437}}(window,'GeoPostal','PL');

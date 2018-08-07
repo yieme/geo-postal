@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202150"]={"code":"202150","region":"Rajasthan","city":"Hindaun","latitude":26.71667,"longitude":77.01667}}(window,'GeoPostal','IN');

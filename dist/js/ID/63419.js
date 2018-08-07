@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63419"]={"code":"63419","region":"Jawa Timur","city":"Ponorogo","latitude":-7.8685,"longitude":111.462}}(window,'GeoPostal','ID');

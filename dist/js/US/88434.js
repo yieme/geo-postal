@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88434"]={"code":"88434","region":"NM","city":"San Jon","latitude":35.1198,"longitude":-103.2846}}(window,'GeoPostal','US');

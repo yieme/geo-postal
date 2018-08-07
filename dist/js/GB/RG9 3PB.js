@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG9 3PB"]={"code":"RG9 3PB","region":"England","city":"Henley on Thames","latitude":51.53333,"longitude":-0.9}}(window,'GeoPostal','GB');

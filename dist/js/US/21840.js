@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21840"]={"code":"21840","region":"MD","city":"Nanticoke","latitude":38.2672,"longitude":-75.9021}}(window,'GeoPostal','US');

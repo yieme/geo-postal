@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68362"]={"code":"68362","region":"Nebraska","city":"Gilead","latitude":40.14556,"longitude":-97.41528}}(window,'GeoPostal','US');

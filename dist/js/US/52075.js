@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52075"]={"code":"52075","region":"IA","city":"Springbrook","latitude":42.1674,"longitude":-90.4846}}(window,'GeoPostal','US');

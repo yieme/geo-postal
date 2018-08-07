@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54926"]={"code":"54926","region":"WI","city":"Big Falls","latitude":44.6178,"longitude":-89.0166}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91004"]={"code":"91004","region":"Tanger-Tetouan","city":"Chefchaouene","latitude":35.16878,"longitude":-5.2636}}(window,'GeoPostal','MA');

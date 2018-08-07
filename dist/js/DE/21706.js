@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21706"]={"code":"21706","region":"Niedersachsen","city":"Drochtersen","latitude":53.71015,"longitude":9.38463}}(window,'GeoPostal','DE');

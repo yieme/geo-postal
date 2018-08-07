@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99324"]={"code":"99324","region":"Washington","city":"College Place","latitude":46.044005,"longitude":-118.383955}}(window,'GeoPostal','US');

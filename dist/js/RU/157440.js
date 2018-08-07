@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157440"]={"code":"157440","region":"Kostromskaya oblast'","city":"Kologriv","latitude":58.82748,"longitude":44.31777}}(window,'GeoPostal','RU');

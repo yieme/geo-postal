@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15714"]={"code":"15714","region":"Pennsylvania","city":"Northern Cambria","latitude":40.662768,"longitude":-78.782194}}(window,'GeoPostal','US');

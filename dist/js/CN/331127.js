@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331127"]={"code":"331127","region":"Zhejiang","city":"Hexi","latitude":27.98047,"longitude":119.63528}}(window,'GeoPostal','CN');

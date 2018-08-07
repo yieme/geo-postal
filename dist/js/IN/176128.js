@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["176128"]={"code":"176128","region":"Himachal Pradesh","city":"Jogindarnagar","latitude":31.98333,"longitude":76.76667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12000"]={"code":"12000","region":"Occitanie","city":"Le Monastere","latitude":44.34165,"longitude":2.57956}}(window,'GeoPostal','FR');

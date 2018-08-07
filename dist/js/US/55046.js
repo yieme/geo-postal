@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55046"]={"code":"55046","region":"Minnesota","city":"Lonsdale","latitude":44.4456,"longitude":-93.41328}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27680"]={"code":"27680","region":"Normandie","city":"Quillebeuf-sur-Seine","latitude":49.46934,"longitude":0.52793}}(window,'GeoPostal','FR');

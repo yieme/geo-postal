@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452122"]={"code":"452122","region":"Bashkortostan, Respublika","city":"Rayevskiy","latitude":54.0658,"longitude":54.9468}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 1G0"]={"code":"V0G 1G0","region":"British Columbia","city":"Kinnaird","latitude":49.212809,"longitude":-117.69152}}(window,'GeoPostal','CA');

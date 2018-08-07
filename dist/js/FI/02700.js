@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02700"]={"code":"02700","region":"Uusimaa","city":"Kauniainen","latitude":60.21209,"longitude":24.72756}}(window,'GeoPostal','FI');

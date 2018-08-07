@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK9 1DS"]={"code":"MK9 1DS","region":"England","city":"Milton","latitude":50.73333,"longitude":-1.65}}(window,'GeoPostal','GB');

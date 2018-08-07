@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71040"]={"code":"71040","region":"Louisiana","city":"Homer","latitude":32.78893,"longitude":-93.060519}}(window,'GeoPostal','US');

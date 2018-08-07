@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97870"]={"code":"97870","region":"OR","city":"Richland","latitude":44.797,"longitude":-117.3018}}(window,'GeoPostal','US');

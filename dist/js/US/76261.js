@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76261"]={"code":"76261","region":"Texas","city":"Ringgold","latitude":33.82028,"longitude":-97.94361}}(window,'GeoPostal','US');

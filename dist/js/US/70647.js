@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70647"]={"code":"70647","region":"Louisiana","city":"Iowa","latitude":30.23687,"longitude":-93.01376}}(window,'GeoPostal','US');

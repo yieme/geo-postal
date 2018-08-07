@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP6 9ED"]={"code":"IP6 9ED","region":"England","city":"Playford","latitude":52.0851,"longitude":1.23343}}(window,'GeoPostal','GB');

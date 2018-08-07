@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-630"]={"code":"66-630","region":"Lubuskie","city":"Bytnica","latitude":52.15066,"longitude":15.16946}}(window,'GeoPostal','PL');

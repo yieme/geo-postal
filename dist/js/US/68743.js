@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68743"]={"code":"68743","region":"Nebraska","city":"Jackson","latitude":42.46424,"longitude":-96.579975}}(window,'GeoPostal','US');

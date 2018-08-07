@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96237"]={"code":"96237","region":"Bayern","city":"Wildenheid","latitude":50.34489,"longitude":11.12965}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["522663"]={"code":"522663","region":"Andhra Pradesh","city":"Narasaraopet","latitude":16.25,"longitude":80.06667}}(window,'GeoPostal','IN');

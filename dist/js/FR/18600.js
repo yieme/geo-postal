@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18600"]={"code":"18600","region":"Centre-Val de Loire","city":"Sancoins","latitude":46.83314,"longitude":2.92238}}(window,'GeoPostal','FR');

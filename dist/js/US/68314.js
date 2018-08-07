@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68314"]={"code":"68314","region":"NE","city":"Bee","latitude":41.0007,"longitude":-97.0745}}(window,'GeoPostal','US');

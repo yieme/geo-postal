@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77622"]={"code":"77622","region":"TX","city":"Hamshire","latitude":29.8668,"longitude":-94.3187}}(window,'GeoPostal','US');

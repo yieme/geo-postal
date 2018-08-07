@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81631"]={"code":"81631","region":"Colorado","city":"Eagle","latitude":39.64796,"longitude":-106.836264}}(window,'GeoPostal','US');

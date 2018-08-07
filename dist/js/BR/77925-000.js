@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77925-000"]={"code":"77925-000","region":"Maranhao","city":"Imperatriz","latitude":-5.52639,"longitude":-47.49167}}(window,'GeoPostal','BR');

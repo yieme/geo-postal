@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64780"]={"code":"64780","region":"Nouvelle-Aquitaine","city":"Itxassou","latitude":43.32893,"longitude":-1.40617}}(window,'GeoPostal','FR');

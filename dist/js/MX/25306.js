@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25306"]={"code":"25306","region":"Chiapas","city":"Ixtapa","latitude":16.8,"longitude":-92.91667}}(window,'GeoPostal','MX');

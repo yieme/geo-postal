@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61252"]={"code":"61252","region":"Illinois","city":"Fulton","latitude":41.86725,"longitude":-90.15957}}(window,'GeoPostal','US');

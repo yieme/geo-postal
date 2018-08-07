@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17566"]={"code":"17566","region":"Pennsylvania","city":"Quarryville","latitude":39.88026,"longitude":-76.15152}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX1 3BQ"]={"code":"OX1 3BQ","region":"England","city":"Blackwell","latitude":53.11667,"longitude":-1.33333}}(window,'GeoPostal','GB');

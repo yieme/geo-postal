@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76214"]={"code":"76214","region":"Harjumaa","city":"Riisipere","latitude":59.11417,"longitude":24.31056}}(window,'GeoPostal','EE');

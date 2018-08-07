@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0504"]={"code":"0504","region":"Aragacotn","city":"T'alin","latitude":40.38428,"longitude":43.87387}}(window,'GeoPostal','AM');

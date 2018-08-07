@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84521"]={"code":"84521","region":"UT","city":"Elmo","latitude":39.4033,"longitude":-110.81}}(window,'GeoPostal','US');

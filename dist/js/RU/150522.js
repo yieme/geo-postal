@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150522"]={"code":"150522","region":"Yaroslavskaya oblast'","city":"Krasnyye Tkachi","latitude":57.49259,"longitude":39.75629}}(window,'GeoPostal','RU');

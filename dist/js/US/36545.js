@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36545"]={"code":"36545","region":"Alabama","city":"Jackson","latitude":31.525597,"longitude":-87.890201}}(window,'GeoPostal','US');

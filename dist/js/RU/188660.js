@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188660"]={"code":"188660","region":"Leningradskaya oblast'","city":"Bugry","latitude":60.07121,"longitude":30.39225}}(window,'GeoPostal','RU');

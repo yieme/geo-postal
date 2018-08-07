@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31075"]={"code":"31075","region":"Georgia","city":"Rentz","latitude":32.334022,"longitude":-82.883205}}(window,'GeoPostal','US');

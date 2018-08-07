@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86825"]={"code":"86825","region":"Bayern","city":"Holzmann","latitude":47.75577,"longitude":12.20633}}(window,'GeoPostal','DE');

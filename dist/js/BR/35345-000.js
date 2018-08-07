@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35345-000"]={"code":"35345-000","region":"Minas Gerais","city":"Bom Jesus do Galho","latitude":-19.82889,"longitude":-42.31611}}(window,'GeoPostal','BR');

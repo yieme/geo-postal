@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27173"]={"code":"27173","region":"Skane lan","city":"Kopingebro","latitude":55.46667,"longitude":13.93333}}(window,'GeoPostal','SE');

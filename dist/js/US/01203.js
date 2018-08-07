@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01203"]={"code":"01203","region":"MA","city":"Pittsfield","latitude":42.3929,"longitude":-73.2285}}(window,'GeoPostal','US');

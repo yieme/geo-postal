@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX21 5SG"]={"code":"EX21 5SG","region":"England","city":"Shebbear","latitude":50.86255,"longitude":-4.21446}}(window,'GeoPostal','GB');

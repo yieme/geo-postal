@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78420-000"]={"code":"78420-000","region":"Mato Grosso","city":"Arenapolis","latitude":-14.45028,"longitude":-56.84611}}(window,'GeoPostal','BR');

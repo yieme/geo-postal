@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2152"]={"code":"2152","region":"Malpils novads","city":"Malpils","latitude":57.01111,"longitude":24.96306}}(window,'GeoPostal','LV');

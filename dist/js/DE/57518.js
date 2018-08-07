@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57518"]={"code":"57518","region":"Rheinland-Pfalz","city":"Betzdorf","latitude":50.79094,"longitude":7.87189}}(window,'GeoPostal','DE');

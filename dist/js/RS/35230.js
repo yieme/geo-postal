@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35230"]={"code":"35230","region":"Podunavski okrug","city":"Cuprija","latitude":43.9275,"longitude":21.37}}(window,'GeoPostal','RS');

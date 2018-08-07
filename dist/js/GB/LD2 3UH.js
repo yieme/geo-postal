@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD2 3UH"]={"code":"LD2 3UH","region":"Wales","city":"Alltmawr","latitude":52.11264,"longitude":-3.3541}}(window,'GeoPostal','GB');

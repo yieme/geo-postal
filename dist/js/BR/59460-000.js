@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59460-000"]={"code":"59460-000","region":"Rio Grande do Norte","city":"Sao Paulo do Potengi","latitude":-5.895,"longitude":-35.76278}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53000-000"]={"code":"53000-000","region":"Pernambuco","city":"Recife","latitude":-8.05389,"longitude":-34.88111}}(window,'GeoPostal','BR');

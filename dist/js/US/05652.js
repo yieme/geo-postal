@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05652"]={"code":"05652","region":"VT","city":"Eden","latitude":44.7343,"longitude":-72.5863}}(window,'GeoPostal','US');

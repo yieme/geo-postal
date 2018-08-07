@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95924"]={"code":"95924","region":"California","city":"Cedar Ridge","latitude":38.06576,"longitude":-120.27686}}(window,'GeoPostal','US');

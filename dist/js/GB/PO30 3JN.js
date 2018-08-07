@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO30 3JN"]={"code":"PO30 3JN","region":"England","city":"Shorwell","latitude":50.64448,"longitude":-1.35488}}(window,'GeoPostal','GB');

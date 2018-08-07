@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26833"]={"code":"26833","region":"West Virginia","city":"Maysville","latitude":39.092215,"longitude":-79.202209}}(window,'GeoPostal','US');

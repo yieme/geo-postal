@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43028"]={"code":"43028","region":"Emilia-Romagna","city":"Parma","latitude":44.80266,"longitude":10.32898}}(window,'GeoPostal','IT');

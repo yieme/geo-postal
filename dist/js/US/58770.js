@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58770"]={"code":"58770","region":"North Dakota","city":"Parshall","latitude":47.95472,"longitude":-102.13444}}(window,'GeoPostal','US');

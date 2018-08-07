@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13615"]={"code":"13615","region":"NY","city":"Brownville","latitude":44.007,"longitude":-75.9841}}(window,'GeoPostal','US');

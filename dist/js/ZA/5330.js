@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5330"]={"code":"5330","region":"Eastern Cape","city":"Queenstown","latitude":-31.89756,"longitude":26.87533}}(window,'GeoPostal','ZA');

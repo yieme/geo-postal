@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144218"]={"code":"144218","region":"Punjab","city":"Dasua","latitude":31.81833,"longitude":75.65972}}(window,'GeoPostal','IN');

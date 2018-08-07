@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84644"]={"code":"84644","region":"Utah","city":"Meadow","latitude":38.886799,"longitude":-112.405926}}(window,'GeoPostal','US');

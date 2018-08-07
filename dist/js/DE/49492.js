@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49492"]={"code":"49492","region":"Nordrhein-Westfalen","city":"Oberseeste","latitude":52.34124,"longitude":7.87894}}(window,'GeoPostal','DE');

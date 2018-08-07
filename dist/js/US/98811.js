@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98811"]={"code":"98811","region":"WA","city":"Ardenvoir","latitude":47.7373,"longitude":-120.369}}(window,'GeoPostal','US');

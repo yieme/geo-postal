@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P6A 1Z2"]={"code":"P6A 1Z2","region":"Ontario","city":"Sault Ste. Marie","latitude":46.512807,"longitude":-84.334777}}(window,'GeoPostal','CA');

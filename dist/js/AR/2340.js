@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2340"]={"code":"2340","region":"Santa Fe","city":"Ceres","latitude":-29.881,"longitude":-61.94504}}(window,'GeoPostal','AR');

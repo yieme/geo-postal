@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5330"]={"code":"5330","region":"Salzburg","city":"Fuschl am See","latitude":47.8,"longitude":13.3}}(window,'GeoPostal','AT');

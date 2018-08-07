@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39154"]={"code":"39154","region":"Mississippi","city":"Raymond","latitude":32.22396,"longitude":-90.44304}}(window,'GeoPostal','US');

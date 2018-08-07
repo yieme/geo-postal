@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16827"]={"code":"16827","region":"PA","city":"Boalsburg","latitude":40.7793,"longitude":-77.7822}}(window,'GeoPostal','US');

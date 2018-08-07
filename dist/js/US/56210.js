@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56210"]={"code":"56210","region":"MN","city":"Barry","latitude":45.5593,"longitude":-96.5589}}(window,'GeoPostal','US');

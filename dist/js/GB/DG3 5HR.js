@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG3 5HR"]={"code":"DG3 5HR","region":"Scotland","city":"Closeburn","latitude":55.21266,"longitude":-3.73584}}(window,'GeoPostal','GB');

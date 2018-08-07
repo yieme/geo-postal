@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64426"]={"code":"64426","region":"Missouri","city":"Blythedale","latitude":40.472337,"longitude":-93.925409}}(window,'GeoPostal','US');

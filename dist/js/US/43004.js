@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43004"]={"code":"43004","region":"Ohio","city":"Blacklick","latitude":40.011055,"longitude":-82.809803}}(window,'GeoPostal','US');

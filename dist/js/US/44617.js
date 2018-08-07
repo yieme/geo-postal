@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44617"]={"code":"44617","region":"OH","city":"Charm","latitude":40.5071,"longitude":-81.7829}}(window,'GeoPostal','US');

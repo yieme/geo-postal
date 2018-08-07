@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54139"]={"code":"54139","region":"WI","city":"Lena","latitude":44.956,"longitude":-88.075}}(window,'GeoPostal','US');

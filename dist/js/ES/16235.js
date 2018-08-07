@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16235"]={"code":"16235","region":"Castilla-La Mancha","city":"Iniesta","latitude":39.43333,"longitude":-1.75}}(window,'GeoPostal','ES');

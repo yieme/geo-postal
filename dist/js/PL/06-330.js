@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-330"]={"code":"06-330","region":"Mazowieckie","city":"Chorzele","latitude":53.26075,"longitude":20.89728}}(window,'GeoPostal','PL');

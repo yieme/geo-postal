@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437033"]={"code":"437033","region":"Alba","city":"Stremt","latitude":46.21667,"longitude":23.63333}}(window,'GeoPostal','RO');

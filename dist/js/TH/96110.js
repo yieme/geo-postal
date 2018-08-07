@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96110"]={"code":"96110","region":"Narathiwat","city":"Tak Bai","latitude":6.25947,"longitude":102.05461}}(window,'GeoPostal','TH');

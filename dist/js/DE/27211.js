@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27211"]={"code":"27211","region":"Niedersachsen","city":"Bassum","latitude":52.85059,"longitude":8.72791}}(window,'GeoPostal','DE');

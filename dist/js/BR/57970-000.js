@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57970-000"]={"code":"57970-000","region":"Alagoas","city":"Novo Lino","latitude":-8.915,"longitude":-35.64667}}(window,'GeoPostal','BR');

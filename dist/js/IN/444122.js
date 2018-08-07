@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["444122"]={"code":"444122","region":"Maharashtra","city":"Karanja","latitude":20.48333,"longitude":77.48333}}(window,'GeoPostal','IN');

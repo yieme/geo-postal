@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32689"]={"code":"32689","region":"Galicia","city":"Cualedro","latitude":41.98897,"longitude":-7.59464}}(window,'GeoPostal','ES');

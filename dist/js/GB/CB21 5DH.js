@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB21 5DH"]={"code":"CB21 5DH","region":"England","city":"Fulbourn","latitude":52.18325,"longitude":0.22213}}(window,'GeoPostal','GB');

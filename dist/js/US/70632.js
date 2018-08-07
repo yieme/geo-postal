@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70632"]={"code":"70632","region":"LA","city":"Creole","latitude":29.8646,"longitude":-93.0033}}(window,'GeoPostal','US');

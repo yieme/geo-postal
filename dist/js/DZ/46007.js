@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46007"]={"code":"46007","region":"Ain Temouchent","city":"El Malah","latitude":35.39138,"longitude":-1.09238}}(window,'GeoPostal','DZ');

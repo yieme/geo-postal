@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 1S0"]={"code":"T0J 1S0","region":"Alberta","city":"Hussar","latitude":51.05012,"longitude":-112.68517}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49793"]={"code":"49793","region":"MI","city":"Trout Lake","latitude":46.1936,"longitude":-85.019}}(window,'GeoPostal','US');

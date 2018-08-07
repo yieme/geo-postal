@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99341"]={"code":"99341","region":"Washington","city":"Lind","latitude":46.9725,"longitude":-118.61639}}(window,'GeoPostal','US');

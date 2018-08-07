@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95661"]={"code":"95661","region":"California","city":"Roseville","latitude":38.75212,"longitude":-121.28801}}(window,'GeoPostal','US');

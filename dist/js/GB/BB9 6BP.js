@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB9 6BP"]={"code":"BB9 6BP","region":"England","city":"Barrowford","latitude":53.8465,"longitude":-2.21838}}(window,'GeoPostal','GB');

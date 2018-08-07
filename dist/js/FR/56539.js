@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56539"]={"code":"56539","region":"Bretagne","city":"Queven","latitude":47.78333,"longitude":-3.41667}}(window,'GeoPostal','FR');

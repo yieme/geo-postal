@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618235"]={"code":"618235","region":"Permskiy kray","city":"Lyamino","latitude":58.2839,"longitude":57.725}}(window,'GeoPostal','RU');

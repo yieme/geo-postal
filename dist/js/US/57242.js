@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57242"]={"code":"57242","region":"SD","city":"Hazel","latitude":44.7572,"longitude":-97.3083}}(window,'GeoPostal','US');

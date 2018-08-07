@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40379"]={"code":"40379","region":"KY","city":"Stamping Ground","latitude":38.2888,"longitude":-84.6818}}(window,'GeoPostal','US');

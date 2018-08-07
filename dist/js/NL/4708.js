@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4708"]={"code":"4708","region":"Noord-Brabant","city":"Roosendaal","latitude":51.53083,"longitude":4.46528}}(window,'GeoPostal','NL');

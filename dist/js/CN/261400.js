@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["261400"]={"code":"261400","region":"Shandong","city":"Weichanglu","latitude":37.17167,"longitude":119.92139}}(window,'GeoPostal','CN');

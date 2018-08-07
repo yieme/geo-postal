@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53942"]={"code":"53942","region":"Pays-de-la-Loire","city":"Saint-Berthevin","latitude":48.06667,"longitude":-0.83333}}(window,'GeoPostal','FR');

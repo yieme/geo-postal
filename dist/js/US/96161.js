@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96161"]={"code":"96161","region":"California","city":"Truckee","latitude":39.35471,"longitude":-120.19327}}(window,'GeoPostal','US');

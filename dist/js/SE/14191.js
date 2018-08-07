@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14191"]={"code":"14191","region":"Stockholms lan","city":"Huddinge","latitude":59.23705,"longitude":17.98192}}(window,'GeoPostal','SE');

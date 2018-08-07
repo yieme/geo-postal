@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6340"]={"code":"6340","region":"Syddanmark","city":"Krusa","latitude":54.85097,"longitude":9.40129}}(window,'GeoPostal','DK');

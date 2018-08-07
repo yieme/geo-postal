@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83607"]={"code":"83607","region":"Bayern","city":"Holzkirchen","latitude":47.87663,"longitude":11.70181}}(window,'GeoPostal','DE');

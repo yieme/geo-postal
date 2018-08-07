@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13780"]={"code":"13780","region":"New York","city":"Guilford","latitude":42.40306,"longitude":-75.45222}}(window,'GeoPostal','US');

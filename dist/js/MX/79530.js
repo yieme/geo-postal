@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79530"]={"code":"79530","region":"San Luis Potosi","city":"Villa de Reyes","latitude":21.8,"longitude":-100.93333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78122"]={"code":"78122","region":"TX","city":"Leesville","latitude":29.3961,"longitude":-97.7566}}(window,'GeoPostal','US');

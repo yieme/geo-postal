@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11511"]={"code":"11511","region":"Zhytomyrska oblast","city":"Korosten'","latitude":50.95937,"longitude":28.63855}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["121103"]={"code":"121103","region":"Ogun","city":"Iperu","latitude":6.91002,"longitude":3.66557}}(window,'GeoPostal','NG');

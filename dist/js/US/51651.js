@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51651"]={"code":"51651","region":"Iowa","city":"Shambaugh","latitude":40.681373,"longitude":-95.063924}}(window,'GeoPostal','US');

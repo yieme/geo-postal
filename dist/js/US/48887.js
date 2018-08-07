@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48887"]={"code":"48887","region":"MI","city":"Smyrna","latitude":43.0595,"longitude":-85.2628}}(window,'GeoPostal','US');

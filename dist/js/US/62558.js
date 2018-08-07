@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62558"]={"code":"62558","region":"IL","city":"Pawnee","latitude":39.6086,"longitude":-89.5678}}(window,'GeoPostal','US');

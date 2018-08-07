@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8074"]={"code":"8074","region":"Steiermark","city":"Grambach","latitude":47.01667,"longitude":15.5}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2423"]={"code":"2423","region":"Burgenland","city":"Deutsch Jahrndorf","latitude":48.01667,"longitude":17.1}}(window,'GeoPostal','AT');

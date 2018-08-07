@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78144"]={"code":"78144","region":"Baden-Wurttemberg","city":"Oberreichenbach","latitude":48.2015,"longitude":8.29812}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2629"]={"code":"2629","region":"Zuid-Holland","city":"Delft","latitude":52.00667,"longitude":4.35556}}(window,'GeoPostal','NL');

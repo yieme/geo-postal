@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97200"]={"code":"97200","region":"Martinique","city":"Fort-de-France","latitude":14.60892,"longitude":-61.07334}}(window,'GeoPostal','MQ');

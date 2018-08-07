@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10890"]={"code":"10890","region":"Extremadura","city":"Valverde del Fresno","latitude":40.2221,"longitude":-6.87848}}(window,'GeoPostal','ES');

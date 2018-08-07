@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37430-000"]={"code":"37430-000","region":"Minas Gerais","city":"Conceicao do Rio Verde","latitude":-21.88083,"longitude":-45.08528}}(window,'GeoPostal','BR');

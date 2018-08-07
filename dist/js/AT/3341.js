@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3341"]={"code":"3341","region":"Niederosterreich","city":"Ybbsitz","latitude":47.93333,"longitude":14.88333}}(window,'GeoPostal','AT');

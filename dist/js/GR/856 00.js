@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["856 00"]={"code":"856 00","region":"Notio Aigaio","city":"Symi","latitude":36.61333,"longitude":27.84083}}(window,'GeoPostal','GR');

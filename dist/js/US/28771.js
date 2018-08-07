@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28771"]={"code":"28771","region":"North Carolina","city":"Robbinsville","latitude":35.32287,"longitude":-83.8074}}(window,'GeoPostal','US');

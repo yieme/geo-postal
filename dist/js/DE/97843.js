@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97843"]={"code":"97843","region":"Bayern","city":"Neuhutten","latitude":50,"longitude":9.41667}}(window,'GeoPostal','DE');

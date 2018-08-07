@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0S 1K0"]={"code":"V0S 1K0","region":"British Columbia","city":"Port Renfrew","latitude":48.552966,"longitude":-124.422299}}(window,'GeoPostal','CA');

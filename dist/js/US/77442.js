@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77442"]={"code":"77442","region":"Texas","city":"Garwood","latitude":29.448714,"longitude":-96.396456}}(window,'GeoPostal','US');

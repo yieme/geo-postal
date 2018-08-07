@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95030"]={"code":"95030","region":"Bayern","city":"Hofeck","latitude":50.3309,"longitude":11.89258}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP30 0ER"]={"code":"IP30 0ER","region":"England","city":"Rushbrooke","latitude":52.22004,"longitude":0.76938}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["285 61"]={"code":"285 61","region":"Stredocesky kraj","city":"Zleby","latitude":49.88958,"longitude":15.48853}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP8 5SW"]={"code":"SP8 5SW","region":"England","city":"Stour Provost","latitude":50.99254,"longitude":-2.29267}}(window,'GeoPostal','GB');

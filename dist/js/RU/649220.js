@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["649220"]={"code":"649220","region":"Altay, Respublika","city":"Shebalino","latitude":51.29167,"longitude":85.67722}}(window,'GeoPostal','RU');

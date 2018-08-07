@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80309"]={"code":"80309","region":"Hauts-de-France","city":"Albert","latitude":50.00091,"longitude":2.65096}}(window,'GeoPostal','FR');

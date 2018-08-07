@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08629"]={"code":"08629","region":"NJ","city":"Trenton","latitude":40.2196,"longitude":-74.7334}}(window,'GeoPostal','US');

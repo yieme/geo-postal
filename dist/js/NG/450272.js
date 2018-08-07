@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["450272"]={"code":"450272","region":"Abia","city":"Aba","latitude":5.10658,"longitude":7.36667}}(window,'GeoPostal','NG');

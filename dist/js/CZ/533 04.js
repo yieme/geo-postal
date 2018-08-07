@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["533 04"]={"code":"533 04","region":"Pardubicky kraj","city":"Sezemice","latitude":50.06651,"longitude":15.8527}}(window,'GeoPostal','CZ');

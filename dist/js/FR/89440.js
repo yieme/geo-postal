@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89440"]={"code":"89440","region":"Bourgogne-Franche-Comte","city":"Joux-la-Ville","latitude":47.62241,"longitude":3.86217}}(window,'GeoPostal','FR');

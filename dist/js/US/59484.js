@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59484"]={"code":"59484","region":"MT","city":"Sweet Grass","latitude":48.9961,"longitude":-111.9606}}(window,'GeoPostal','US');

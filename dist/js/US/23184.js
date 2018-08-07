@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23184"]={"code":"23184","region":"VA","city":"Wicomico","latitude":37.291,"longitude":-76.5094}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 7DA"]={"code":"PE31 7DA","region":"England","city":"Heacham","latitude":52.90782,"longitude":0.49387}}(window,'GeoPostal','GB');

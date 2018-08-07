@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88600"]={"code":"88600","region":"Grand-Est","city":"Laveline-devant-Bruyeres","latitude":48.1847,"longitude":6.7603}}(window,'GeoPostal','FR');

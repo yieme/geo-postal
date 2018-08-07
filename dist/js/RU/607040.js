@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607040"]={"code":"607040","region":"Nizhegorodskaya oblast'","city":"Vilya","latitude":55.24556,"longitude":42.20889}}(window,'GeoPostal','RU');

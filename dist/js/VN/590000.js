@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["590000"]={"code":"590000","region":"Binh Dinh","city":"Quy Nhon","latitude":13.76667,"longitude":109.23333}}(window,'GeoPostal','VN');

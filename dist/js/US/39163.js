@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39163"]={"code":"39163","region":"MS","city":"Sharon","latitude":32.6424,"longitude":-90.0907}}(window,'GeoPostal','US');

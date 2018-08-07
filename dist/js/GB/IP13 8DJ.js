@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 8DJ"]={"code":"IP13 8DJ","region":"England","city":"Laxfield","latitude":52.30206,"longitude":1.36586}}(window,'GeoPostal','GB');

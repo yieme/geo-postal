@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16331"]={"code":"16331","region":"Pennsylvania","city":"Kossuth","latitude":41.289419,"longitude":-79.589362}}(window,'GeoPostal','US');

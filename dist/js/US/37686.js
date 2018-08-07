@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37686"]={"code":"37686","region":"TN","city":"Piney Flats","latitude":36.4461,"longitude":-82.334}}(window,'GeoPostal','US');

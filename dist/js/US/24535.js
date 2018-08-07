@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24535"]={"code":"24535","region":"Virginia","city":"Cluster Springs","latitude":36.621111,"longitude":-78.921667}}(window,'GeoPostal','US');

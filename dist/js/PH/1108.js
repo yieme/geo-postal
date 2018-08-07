@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1108"]={"code":"1108","region":"Batangas","city":"Alupay","latitude":13.84194,"longitude":121.29583}}(window,'GeoPostal','PH');

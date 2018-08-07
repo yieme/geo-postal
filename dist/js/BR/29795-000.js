@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29795-000"]={"code":"29795-000","region":"Espirito Santo","city":"Aguia Branca","latitude":-18.98306,"longitude":-40.74028}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2329"]={"code":"2329","region":"New South Wales","city":"Cassilis","latitude":-32,"longitude":149.98333}}(window,'GeoPostal','AU');

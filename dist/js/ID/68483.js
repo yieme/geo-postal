@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68483"]={"code":"68483","region":"Jawa Timur","city":"Siderejo","latitude":-8.491,"longitude":114.2577}}(window,'GeoPostal','ID');

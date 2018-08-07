@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9450"]={"code":"9450","region":"Sankt Gallen","city":"Altstatten","latitude":47.37766,"longitude":9.54746}}(window,'GeoPostal','CH');

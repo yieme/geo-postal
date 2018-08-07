@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8806"]={"code":"8806","region":"Schwyz","city":"Wollerau","latitude":47.19478,"longitude":8.71903}}(window,'GeoPostal','CH');

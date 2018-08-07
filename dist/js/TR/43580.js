@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43580"]={"code":"43580","region":"Bolu","city":"Kibriscik","latitude":40.40778,"longitude":31.85194}}(window,'GeoPostal','TR');

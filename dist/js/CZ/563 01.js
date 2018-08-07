@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["563 01"]={"code":"563 01","region":"Pardubicky kraj","city":"Lanskroun","latitude":49.91217,"longitude":16.6119}}(window,'GeoPostal','CZ');

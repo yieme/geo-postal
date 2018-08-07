@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13300"]={"code":"13300","region":"La Libertad","city":"Huamachuco","latitude":-7.8,"longitude":-78.06667}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["793 76"]={"code":"793 76","region":"Olomoucky kraj","city":"Zlate Hory","latitude":50.2638,"longitude":17.39602}}(window,'GeoPostal','CZ');

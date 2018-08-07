@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05904"]={"code":"05904","region":"Vermont","city":"Gilman","latitude":44.415063,"longitude":-71.719499}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50166"]={"code":"50166","region":"IA","city":"Milo","latitude":41.2904,"longitude":-93.4454}}(window,'GeoPostal','US');

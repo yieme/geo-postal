@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05842"]={"code":"05842","region":"Vermont","city":"Greensboro Bend","latitude":44.5569,"longitude":-72.25134}}(window,'GeoPostal','US');

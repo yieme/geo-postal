@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3847"]={"code":"3847","region":"Victoria","city":"Rosedale","latitude":-38.15452,"longitude":146.7886}}(window,'GeoPostal','AU');

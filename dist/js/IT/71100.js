@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71100"]={"code":"71100","region":"Puglia","city":"Foggia","latitude":41.46093,"longitude":15.54925}}(window,'GeoPostal','IT');

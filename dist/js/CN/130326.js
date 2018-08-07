@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130326"]={"code":"130326","region":"Jilin","city":"Dehui","latitude":44.53333,"longitude":125.7}}(window,'GeoPostal','CN');

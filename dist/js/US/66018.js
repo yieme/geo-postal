@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66018"]={"code":"66018","region":"Kansas","city":"De Soto","latitude":38.968357,"longitude":-94.967965}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG7 5QW"]={"code":"SG7 5QW","region":"England","city":"Ashwell","latitude":52.03866,"longitude":-0.15398}}(window,'GeoPostal','GB');

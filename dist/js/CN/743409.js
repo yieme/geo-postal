@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["743409"]={"code":"743409","region":"Gansu","city":"Lidian","latitude":35.22682,"longitude":105.68755}}(window,'GeoPostal','CN');

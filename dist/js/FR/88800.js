@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88800"]={"code":"88800","region":"Grand-Est","city":"Monthureux-le-Sec","latitude":48.1719,"longitude":6.0261}}(window,'GeoPostal','FR');

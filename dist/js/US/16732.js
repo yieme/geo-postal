@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16732"]={"code":"16732","region":"Pennsylvania","city":"Gifford","latitude":41.8572,"longitude":-78.57432}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80310"]={"code":"80310","region":"Hauts-de-France","city":"Picquigny","latitude":49.94413,"longitude":2.14376}}(window,'GeoPostal','FR');

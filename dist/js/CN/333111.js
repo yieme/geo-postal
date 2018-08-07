@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333111"]={"code":"333111","region":"Jiangxi","city":"Houjiagang","latitude":29.52327,"longitude":116.84738}}(window,'GeoPostal','CN');

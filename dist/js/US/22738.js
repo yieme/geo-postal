@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22738"]={"code":"22738","region":"VA","city":"Rochelle","latitude":38.3215,"longitude":-78.3042}}(window,'GeoPostal','US');

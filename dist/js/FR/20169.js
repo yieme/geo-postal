@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20169"]={"code":"20169","region":"Corse","city":"Bonifacio","latitude":41.3874,"longitude":9.15942}}(window,'GeoPostal','FR');

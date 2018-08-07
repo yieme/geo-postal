@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL61 6EJ"]={"code":"LL61 6EJ","region":"Wales","city":"Llanedwen","latitude":53.19311,"longitude":-4.23593}}(window,'GeoPostal','GB');

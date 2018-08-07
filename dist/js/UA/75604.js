@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75604"]={"code":"75604","region":"Khersonska oblast","city":"Hola Prystan'","latitude":46.5272,"longitude":32.52417}}(window,'GeoPostal','UA');

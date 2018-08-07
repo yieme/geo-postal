@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19805"]={"code":"19805","region":"Cherkaska oblast","city":"Drabiv","latitude":49.96302,"longitude":32.15291}}(window,'GeoPostal','UA');

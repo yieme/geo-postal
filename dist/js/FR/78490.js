@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78490"]={"code":"78490","region":"Ile-de-France","city":"Le Tremblay-sur-Mauldre","latitude":48.7783,"longitude":1.8792}}(window,'GeoPostal','FR');

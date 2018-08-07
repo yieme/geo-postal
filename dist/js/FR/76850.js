@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76850"]={"code":"76850","region":"Normandie","city":"Bosc-le-Hard","latitude":49.62734,"longitude":1.17483}}(window,'GeoPostal','FR');

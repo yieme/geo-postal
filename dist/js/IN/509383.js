@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["509383"]={"code":"509383","region":"Telangana","city":"Narayanpet","latitude":16.73333,"longitude":77.5}}(window,'GeoPostal','IN');

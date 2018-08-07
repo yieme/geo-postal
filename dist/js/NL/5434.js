@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5434"]={"code":"5434","region":"Utrecht","city":"Vianen","latitude":51.9925,"longitude":5.09167}}(window,'GeoPostal','NL');

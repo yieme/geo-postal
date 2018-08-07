@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73743"]={"code":"73743","region":"OK","city":"Hillsdale","latitude":36.5631,"longitude":-97.9915}}(window,'GeoPostal','US');

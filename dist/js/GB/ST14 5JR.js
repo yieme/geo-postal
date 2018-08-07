@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST14 5JR"]={"code":"ST14 5JR","region":"England","city":"Uttoxeter","latitude":52.89838,"longitude":-1.86488}}(window,'GeoPostal','GB');

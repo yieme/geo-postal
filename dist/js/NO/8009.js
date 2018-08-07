@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8009"]={"code":"8009","region":"Nordland","city":"Bodo","latitude":67.28,"longitude":14.40501}}(window,'GeoPostal','NO');

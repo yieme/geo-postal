@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02035"]={"code":"02035","region":"Massachusetts","city":"Foxborough","latitude":42.064882,"longitude":-71.242132}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO9 4AP"]={"code":"CO9 4AP","region":"England","city":"Birdbrook","latitude":52.04272,"longitude":0.48923}}(window,'GeoPostal','GB');

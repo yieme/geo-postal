@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP14 4SG"]={"code":"IP14 4SG","region":"England","city":"Wyverstone","latitude":52.27051,"longitude":0.99033}}(window,'GeoPostal','GB');

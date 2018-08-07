@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4719"]={"code":"4719","region":"Queensland","city":"Theodore","latitude":-24.94743,"longitude":150.07529}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16640"]={"code":"16640","region":"PA","city":"Flinton","latitude":40.6876,"longitude":-78.5523}}(window,'GeoPostal','US');

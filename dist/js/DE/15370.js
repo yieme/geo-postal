@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15370"]={"code":"15370","region":"Brandenburg","city":"Kolonie Fredersdorf","latitude":52.50235,"longitude":13.72375}}(window,'GeoPostal','DE');

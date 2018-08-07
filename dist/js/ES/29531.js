@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29531"]={"code":"29531","region":"Andalucia","city":"Mollina","latitude":37.12534,"longitude":-4.65686}}(window,'GeoPostal','ES');

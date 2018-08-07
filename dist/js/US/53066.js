@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53066"]={"code":"53066","region":"Wisconsin","city":"Oconomowoc","latitude":43.102854,"longitude":-88.477256}}(window,'GeoPostal','US');

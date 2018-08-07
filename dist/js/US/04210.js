@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04210"]={"code":"04210","region":"Maine","city":"Auburn","latitude":44.09785,"longitude":-70.23117}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37870"]={"code":"37870","region":"Tennessee","city":"Speedwell","latitude":36.45861,"longitude":-83.87194}}(window,'GeoPostal','US');

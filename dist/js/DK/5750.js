@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5750"]={"code":"5750","region":"Syddanmark","city":"Ringe","latitude":55.24506,"longitude":10.47065}}(window,'GeoPostal','DK');

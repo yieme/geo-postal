@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20092"]={"code":"20092","region":"Lombardia","city":"Cinisello Balsamo","latitude":45.55707,"longitude":9.22185}}(window,'GeoPostal','IT');

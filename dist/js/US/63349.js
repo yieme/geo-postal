@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63349"]={"code":"63349","region":"MO","city":"Hawk Point","latitude":38.9766,"longitude":-91.1211}}(window,'GeoPostal','US');

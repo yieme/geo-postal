@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45638"]={"code":"45638","region":"Ohio","city":"Ironton","latitude":38.53675,"longitude":-82.68294}}(window,'GeoPostal','US');

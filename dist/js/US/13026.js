@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13026"]={"code":"13026","region":"New York","city":"Aurora","latitude":42.743896,"longitude":-76.652246}}(window,'GeoPostal','US');

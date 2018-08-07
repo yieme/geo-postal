@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47522"]={"code":"47522","region":"Indiana","city":"Crane","latitude":38.89278,"longitude":-86.90139}}(window,'GeoPostal','US');

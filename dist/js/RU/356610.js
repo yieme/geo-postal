@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356610"]={"code":"356610","region":"Stavropol'skiy kray","city":"Kevsala","latitude":45.79833,"longitude":42.69028}}(window,'GeoPostal','RU');

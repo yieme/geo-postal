@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH35 4HR"]={"code":"PH35 4HR","region":"Scotland","city":"Inchlaggan","latitude":57.06911,"longitude":-5.01431}}(window,'GeoPostal','GB');

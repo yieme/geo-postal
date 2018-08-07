@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75773"]={"code":"75773","region":"Texas","city":"Mineola","latitude":32.66319,"longitude":-95.48829}}(window,'GeoPostal','US');

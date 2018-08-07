@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23821"]={"code":"23821","region":"Virginia","city":"Alberta","latitude":36.86361,"longitude":-77.88139}}(window,'GeoPostal','US');

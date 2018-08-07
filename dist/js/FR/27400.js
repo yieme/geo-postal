@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27400"]={"code":"27400","region":"Normandie","city":"Heudebouville","latitude":49.1944,"longitude":1.24}}(window,'GeoPostal','FR');

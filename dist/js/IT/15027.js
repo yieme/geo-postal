@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15027"]={"code":"15027","region":"Piemonte","city":"Pontestura","latitude":45.14246,"longitude":8.33324}}(window,'GeoPostal','IT');

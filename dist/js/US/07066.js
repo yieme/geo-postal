@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07066"]={"code":"07066","region":"New Jersey","city":"Clark","latitude":40.621051,"longitude":-74.309552}}(window,'GeoPostal','US');

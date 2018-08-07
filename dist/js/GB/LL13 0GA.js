@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL13 0GA"]={"code":"LL13 0GA","region":"Wales","city":"Worthenbury","latitude":53.00915,"longitude":-2.86588}}(window,'GeoPostal','GB');

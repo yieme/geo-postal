@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23568"]={"code":"23568","region":"Mecklenburg-Vorpommern","city":"Lauen","latitude":53.87826,"longitude":10.81823}}(window,'GeoPostal','DE');

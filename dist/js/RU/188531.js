@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188531"]={"code":"188531","region":"Sankt-Peterburg","city":"Bol'shaya Izhora","latitude":59.93796,"longitude":29.57721}}(window,'GeoPostal','RU');

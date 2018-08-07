@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38760"]={"code":"38760","region":"Canarias","city":"Los Llanos de Aridane","latitude":28.65851,"longitude":-17.91821}}(window,'GeoPostal','ES');

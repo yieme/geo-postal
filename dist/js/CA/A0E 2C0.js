@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0E 2C0"]={"code":"A0E 2C0","region":"Newfoundland and Labrador","city":"Point May","latitude":46.89995,"longitude":-55.93165}}(window,'GeoPostal','CA');

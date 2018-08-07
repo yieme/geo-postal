@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907-0024"]={"code":"907-0024","region":"Okinawa","city":"Ishigaki","latitude":24.34056,"longitude":124.15556}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30056"]={"code":"30056","region":"Georgia","city":"Newborn","latitude":33.48326,"longitude":-83.66283}}(window,'GeoPostal','US');

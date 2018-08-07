@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50227"]={"code":"50227","region":"IA","city":"Popejoy","latitude":42.5974,"longitude":-93.4279}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS6 5DW"]={"code":"HS6 5DW","region":"Scotland","city":"Paible","latitude":57.6,"longitude":-7.46667}}(window,'GeoPostal','GB');

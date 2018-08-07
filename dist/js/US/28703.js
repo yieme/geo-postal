@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28703"]={"code":"28703","region":"North Carolina","city":"Mount Airy","latitude":35.2354,"longitude":-83.5749}}(window,'GeoPostal','US');

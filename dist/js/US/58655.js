@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58655"]={"code":"58655","region":"ND","city":"South Heart","latitude":46.8127,"longitude":-103.0162}}(window,'GeoPostal','US');

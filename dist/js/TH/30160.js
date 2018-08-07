@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30160"]={"code":"30160","region":"Nakhon Ratchasima","city":"Non Sung","latitude":15.18014,"longitude":102.25694}}(window,'GeoPostal','TH');

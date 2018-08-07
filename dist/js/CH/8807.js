@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8807"]={"code":"8807","region":"Schwyz","city":"Freienbach","latitude":47.20534,"longitude":8.75842}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35594"]={"code":"35594","region":"Alabama","city":"Winfield","latitude":33.92899,"longitude":-87.81725}}(window,'GeoPostal','US');

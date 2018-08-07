@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59072"]={"code":"59072","region":"Montana","city":"Roundup","latitude":46.44524,"longitude":-108.5418}}(window,'GeoPostal','US');

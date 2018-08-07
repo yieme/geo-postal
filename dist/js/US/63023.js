@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63023"]={"code":"63023","region":"MO","city":"Dittmer","latitude":38.3155,"longitude":-90.6911}}(window,'GeoPostal','US');

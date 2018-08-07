@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6717"]={"code":"6717","region":"Luxembourg","city":"Attert","latitude":49.75035,"longitude":5.78634}}(window,'GeoPostal','BE');

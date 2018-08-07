@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12-122"]={"code":"12-122","region":"Warminsko-mazurskie","city":"Jedwabno","latitude":53.5299,"longitude":20.72657}}(window,'GeoPostal','PL');

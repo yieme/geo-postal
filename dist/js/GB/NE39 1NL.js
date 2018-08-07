@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE39 1NL"]={"code":"NE39 1NL","region":"England","city":"Lintz Green","latitude":54.90147,"longitude":-1.76356}}(window,'GeoPostal','GB');

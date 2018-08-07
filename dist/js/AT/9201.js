@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9201"]={"code":"9201","region":"Karnten","city":"Moosburg","latitude":46.6575,"longitude":14.17472}}(window,'GeoPostal','AT');

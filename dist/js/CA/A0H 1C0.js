@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0H 1C0"]={"code":"A0H 1C0","region":"Newfoundland and Labrador","city":"Bishop's Falls","latitude":49.01664,"longitude":-55.4815}}(window,'GeoPostal','CA');

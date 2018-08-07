@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10106"]={"code":"10106","region":"Maria Trinidad Sanchez","city":"Rio San Juan","latitude":19.64385,"longitude":-70.07635}}(window,'GeoPostal','DO');

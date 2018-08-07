@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91596"]={"code":"91596","region":"Bayern","city":"Matzmannsdorf","latitude":49.12038,"longitude":10.46522}}(window,'GeoPostal','DE');

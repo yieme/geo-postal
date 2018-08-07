@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0M 1G0"]={"code":"L0M 1G0","region":"Ontario","city":"Creemore","latitude":44.32704,"longitude":-80.1075}}(window,'GeoPostal','CA');

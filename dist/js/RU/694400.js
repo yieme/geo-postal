@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694400"]={"code":"694400","region":"Sakhalinskaya oblast'","city":"Tymovskoye","latitude":50.84556,"longitude":142.655}}(window,'GeoPostal','RU');

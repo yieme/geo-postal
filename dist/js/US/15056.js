@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15056"]={"code":"15056","region":"PA","city":"Leetsdale","latitude":40.5662,"longitude":-80.2099}}(window,'GeoPostal','US');

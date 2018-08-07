@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57468"]={"code":"57468","region":"SD","city":"Pierpont","latitude":45.496,"longitude":-97.8128}}(window,'GeoPostal','US');

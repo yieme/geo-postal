@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE30 3EA"]={"code":"PE30 3EA","region":"England","city":"South Wootton","latitude":52.77403,"longitude":0.43775}}(window,'GeoPostal','GB');

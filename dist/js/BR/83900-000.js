@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83900-000"]={"code":"83900-000","region":"Parana","city":"Sao Mateus do Sul","latitude":-25.87417,"longitude":-50.38278}}(window,'GeoPostal','BR');

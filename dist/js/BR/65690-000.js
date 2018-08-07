@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65690-000"]={"code":"65690-000","region":"Maranhao","city":"Colinas","latitude":-6.02583,"longitude":-44.24917}}(window,'GeoPostal','BR');

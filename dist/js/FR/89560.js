@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89560"]={"code":"89560","region":"Bourgogne-Franche-Comte","city":"Fontenailles","latitude":47.54988,"longitude":3.46215}}(window,'GeoPostal','FR');

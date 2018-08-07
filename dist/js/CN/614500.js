@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["614500"]={"code":"614500","region":"Sichuan","city":"Muxi","latitude":28.95964,"longitude":103.90086}}(window,'GeoPostal','CN');

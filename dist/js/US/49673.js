@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49673"]={"code":"49673","region":"Michigan","city":"Old Mission","latitude":44.95569,"longitude":-85.489989}}(window,'GeoPostal','US');

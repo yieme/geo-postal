@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["360-011"]={"code":"360-011","region":"Chungcheongbuk-do","city":"Tyundyu","latitude":36.63722,"longitude":127.48972}}(window,'GeoPostal','KR');

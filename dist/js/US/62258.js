@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62258"]={"code":"62258","region":"Illinois","city":"Mascoutah","latitude":38.45178,"longitude":-89.76102}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06001"]={"code":"06001","region":"Connecticut","city":"Avon","latitude":41.792239,"longitude":-72.857563}}(window,'GeoPostal','US');

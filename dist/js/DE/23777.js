@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23777"]={"code":"23777","region":"Schleswig-Holstein","city":"Fargemiel","latitude":54.27944,"longitude":11.03306}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42553"]={"code":"42553","region":"Kentucky","city":"Science Hill","latitude":37.17528,"longitude":-84.63556}}(window,'GeoPostal','US');

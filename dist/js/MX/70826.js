@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70826"]={"code":"70826","region":"Oaxaca","city":"Miahuatlan de Porfirio Diaz","latitude":16.33333,"longitude":-96.6}}(window,'GeoPostal','MX');

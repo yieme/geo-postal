@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3090"]={"code":"3090","region":"Vlaams-Brabant","city":"Overijse","latitude":50.77436,"longitude":4.53461}}(window,'GeoPostal','BE');

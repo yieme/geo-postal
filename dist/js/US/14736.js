@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14736"]={"code":"14736","region":"New York","city":"Findley Lake","latitude":42.108308,"longitude":-79.731657}}(window,'GeoPostal','US');

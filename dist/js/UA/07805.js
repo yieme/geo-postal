@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07805"]={"code":"07805","region":"Kyivska oblast","city":"Borodyanka","latitude":50.64484,"longitude":29.9201}}(window,'GeoPostal','UA');

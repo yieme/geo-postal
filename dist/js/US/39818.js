@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39818"]={"code":"39818","region":"GA","city":"Bainbridge","latitude":30.8845,"longitude":-84.5655}}(window,'GeoPostal','US');

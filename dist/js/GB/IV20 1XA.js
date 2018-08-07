@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV20 1XA"]={"code":"IV20 1XA","region":"Scotland","city":"Hilton of Cadboll","latitude":57.76232,"longitude":-3.89839}}(window,'GeoPostal','GB');

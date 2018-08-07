@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19939"]={"code":"19939","region":"Delaware","city":"Dagsboro","latitude":38.54833,"longitude":-75.24639}}(window,'GeoPostal','US');

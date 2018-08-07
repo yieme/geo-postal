@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607580"]={"code":"607580","region":"Nizhegorodskaya oblast'","city":"Sechenovo","latitude":55.22444,"longitude":45.89056}}(window,'GeoPostal','RU');

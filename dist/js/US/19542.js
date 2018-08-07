@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19542"]={"code":"19542","region":"PA","city":"Monocacy Station","latitude":40.26,"longitude":-75.74}}(window,'GeoPostal','US');

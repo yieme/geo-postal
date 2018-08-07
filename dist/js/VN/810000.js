@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["810000"]={"code":"810000","region":"Dong Nai","city":"Bien Hoa","latitude":10.95,"longitude":106.81667}}(window,'GeoPostal','VN');

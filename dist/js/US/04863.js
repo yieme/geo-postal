@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04863"]={"code":"04863","region":"ME","city":"Vinalhaven","latitude":44.0397,"longitude":-68.8368}}(window,'GeoPostal','US');

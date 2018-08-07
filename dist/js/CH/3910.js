@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3910"]={"code":"3910","region":"Valais","city":"Saas-Grund","latitude":46.12281,"longitude":7.93651}}(window,'GeoPostal','CH');

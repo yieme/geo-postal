@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08884"]={"code":"08884","region":"New Jersey","city":"Spotswood","latitude":40.387484,"longitude":-74.393424}}(window,'GeoPostal','US');

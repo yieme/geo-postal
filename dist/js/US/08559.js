@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08559"]={"code":"08559","region":"NJ","city":"Stockton","latitude":40.4397,"longitude":-74.9554}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM9 6PD"]={"code":"CM9 6PD","region":"England","city":"Mundon","latitude":51.69047,"longitude":0.70364}}(window,'GeoPostal','GB');

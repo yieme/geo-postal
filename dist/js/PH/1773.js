@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1773"]={"code":"1773","region":"National Capital Region","city":"Muntinlupa","latitude":14.383333,"longitude":121.05}}(window,'GeoPostal','PH');

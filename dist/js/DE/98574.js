@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98574"]={"code":"98574","region":"Thuringen","city":"Schmalkalden","latitude":50.72136,"longitude":10.44386}}(window,'GeoPostal','DE');

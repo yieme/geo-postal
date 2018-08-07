@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-242"]={"code":"42-242","region":"Slaskie","city":"Redziny","latitude":50.85922,"longitude":19.2162}}(window,'GeoPostal','PL');

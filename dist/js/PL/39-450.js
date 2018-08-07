@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39-450"]={"code":"39-450","region":"Podkarpackie","city":"Padew Narodowa","latitude":50.43947,"longitude":21.50059}}(window,'GeoPostal','PL');

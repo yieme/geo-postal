@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16500"]={"code":"16500","region":"Loreto","city":"Yurimaguas","latitude":-5.9,"longitude":-76.08333}}(window,'GeoPostal','PE');

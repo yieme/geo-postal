@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2820"]={"code":"2820","region":"Antwerpen","city":"Bonheiden","latitude":51.02261,"longitude":4.54714}}(window,'GeoPostal','BE');

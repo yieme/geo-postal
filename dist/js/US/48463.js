@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48463"]={"code":"48463","region":"MI","city":"Otisville","latitude":43.1706,"longitude":-83.5172}}(window,'GeoPostal','US');

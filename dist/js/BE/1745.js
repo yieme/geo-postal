@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1745"]={"code":"1745","region":"Vlaams-Brabant","city":"Opwijk","latitude":50.96724,"longitude":4.18442}}(window,'GeoPostal','BE');

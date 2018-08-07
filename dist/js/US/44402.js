@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44402"]={"code":"44402","region":"OH","city":"Bristolville","latitude":41.3797,"longitude":-80.8568}}(window,'GeoPostal','US');

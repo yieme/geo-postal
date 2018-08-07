@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9721"]={"code":"9721","region":"Vas","city":"Gencsapati","latitude":47.28496,"longitude":16.59575}}(window,'GeoPostal','HU');

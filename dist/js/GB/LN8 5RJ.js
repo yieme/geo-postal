@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 5RJ"]={"code":"LN8 5RJ","region":"England","city":"Wragby","latitude":53.28333,"longitude":-0.3}}(window,'GeoPostal','GB');

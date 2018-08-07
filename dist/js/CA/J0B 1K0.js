@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 1K0"]={"code":"J0B 1K0","region":"Quebec","city":"Chartierville","latitude":45.30009,"longitude":-71.19904}}(window,'GeoPostal','CA');

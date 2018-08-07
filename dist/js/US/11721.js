@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11721"]={"code":"11721","region":"New York","city":"Centerport","latitude":40.890872,"longitude":-73.373716}}(window,'GeoPostal','US');

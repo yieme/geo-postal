@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73170"]={"code":"73170","region":"Auvergne-Rhone-Alpes","city":"Yenne","latitude":45.7042,"longitude":5.75795}}(window,'GeoPostal','FR');

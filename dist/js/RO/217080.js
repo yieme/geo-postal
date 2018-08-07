@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217080"]={"code":"217080","region":"Gorj","city":"Bolbosi","latitude":44.75,"longitude":23.21667}}(window,'GeoPostal','RO');

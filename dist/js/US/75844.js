@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75844"]={"code":"75844","region":"TX","city":"Grapeland","latitude":31.4972,"longitude":-95.4447}}(window,'GeoPostal','US');

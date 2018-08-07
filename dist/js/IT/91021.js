@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91021"]={"code":"91021","region":"Sicilia","city":"Campobello di Mazara","latitude":37.63584,"longitude":12.74434}}(window,'GeoPostal','IT');

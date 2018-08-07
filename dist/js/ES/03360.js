@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03360"]={"code":"03360","region":"Valenciana, Comunidad","city":"Callosa de Segura","latitude":38.12497,"longitude":-0.87822}}(window,'GeoPostal','ES');

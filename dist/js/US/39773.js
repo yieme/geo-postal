@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39773"]={"code":"39773","region":"Mississippi","city":"West Point","latitude":33.62958,"longitude":-88.66428}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28365"]={"code":"28365","region":"North Carolina","city":"Mount Olive","latitude":35.19655,"longitude":-78.06638}}(window,'GeoPostal','US');

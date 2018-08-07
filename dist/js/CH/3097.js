@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3097"]={"code":"3097","region":"Bern","city":"Koniz","latitude":46.92436,"longitude":7.41457}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE44 6HJ"]={"code":"NE44 6HJ","region":"England","city":"Riding Mill","latitude":54.94866,"longitude":-1.97316}}(window,'GeoPostal','GB');

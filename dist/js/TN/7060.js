@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7060"]={"code":"7060","region":"Bizerte","city":"Zahanah","latitude":37.03959,"longitude":10.03876}}(window,'GeoPostal','TN');

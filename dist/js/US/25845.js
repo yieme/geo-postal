@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25845"]={"code":"25845","region":"WV","city":"Glen Fork","latitude":37.6959,"longitude":-81.529}}(window,'GeoPostal','US');

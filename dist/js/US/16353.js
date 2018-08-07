@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16353"]={"code":"16353","region":"Pennsylvania","city":"Tionesta","latitude":41.49534,"longitude":-79.45588}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83361"]={"code":"83361","region":"Bayern","city":"Grossing","latitude":48.03404,"longitude":12.46838}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68523"]={"code":"68523","region":"Odeska oblast","city":"Serpneve","latitude":46.30094,"longitude":29.01958}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["246722"]={"code":"246722","region":"Uttar Pradesh","city":"Afzalgarh","latitude":29.4,"longitude":78.68333}}(window,'GeoPostal','IN');

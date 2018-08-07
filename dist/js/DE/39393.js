@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39393"]={"code":"39393","region":"Niedersachsen","city":"Offleben","latitude":52.13886,"longitude":11.0392}}(window,'GeoPostal','DE');

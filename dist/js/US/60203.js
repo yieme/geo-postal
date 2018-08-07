@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60203"]={"code":"60203","region":"Illinois","city":"Evanston","latitude":42.048782,"longitude":-87.717471}}(window,'GeoPostal','US');

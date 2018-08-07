@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58900-000"]={"code":"58900-000","region":"Paraiba","city":"Cajazeiras","latitude":-6.89028,"longitude":-38.55528}}(window,'GeoPostal','BR');

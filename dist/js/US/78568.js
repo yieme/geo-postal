@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78568"]={"code":"78568","region":"TX","city":"Lozano","latitude":26.1904,"longitude":-97.5423}}(window,'GeoPostal','US');

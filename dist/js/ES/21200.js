@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21200"]={"code":"21200","region":"Andalucia","city":"Aracena","latitude":37.89396,"longitude":-6.56116}}(window,'GeoPostal','ES');

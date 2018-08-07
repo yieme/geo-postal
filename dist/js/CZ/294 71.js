@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["294 71"]={"code":"294 71","region":"Stredocesky kraj","city":"Benatky nad Jizerou","latitude":50.29085,"longitude":14.82343}}(window,'GeoPostal','CZ');

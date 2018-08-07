@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7830"]={"code":"7830","region":"Hainaut","city":"Silly","latitude":50.64877,"longitude":3.92363}}(window,'GeoPostal','BE');

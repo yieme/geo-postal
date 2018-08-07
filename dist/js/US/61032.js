@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61032"]={"code":"61032","region":"Illinois","city":"Freeport","latitude":42.29669,"longitude":-89.62123}}(window,'GeoPostal','US');

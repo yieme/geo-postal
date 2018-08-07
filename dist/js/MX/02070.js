@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02070"]={"code":"02070","region":"Ciudad de Mexico","city":"Azcapotzalco","latitude":19.48889,"longitude":-99.18361}}(window,'GeoPostal','MX');

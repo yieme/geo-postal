@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45186"]={"code":"45186","region":"Jawa Barat","city":"Karangsembung","latitude":-6.8487,"longitude":108.6422}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25500-000"]={"code":"25500-000","region":"Rio de Janeiro","city":"Sao Joao de Meriti","latitude":-22.80389,"longitude":-43.37222}}(window,'GeoPostal','BR');

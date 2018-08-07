@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56236"]={"code":"56236","region":"Minnesota","city":"Dumont","latitude":45.718753,"longitude":-96.422874}}(window,'GeoPostal','US');

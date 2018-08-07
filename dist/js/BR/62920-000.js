@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62920-000"]={"code":"62920-000","region":"Ceara","city":"Russas","latitude":-4.94028,"longitude":-37.97583}}(window,'GeoPostal','BR');

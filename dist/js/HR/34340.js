@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34340"]={"code":"34340","region":"Pozesko-slavonska zupanija","city":"Kutjevo","latitude":45.42611,"longitude":17.8825}}(window,'GeoPostal','HR');

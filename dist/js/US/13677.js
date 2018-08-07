@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13677"]={"code":"13677","region":"NY","city":"Pyrites","latitude":44.5148,"longitude":-75.1858}}(window,'GeoPostal','US');

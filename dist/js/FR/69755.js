@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69755"]={"code":"69755","region":"Auvergne-Rhone-Alpes","city":"Charbonnieres-les-Bains","latitude":45.7842,"longitude":4.7463}}(window,'GeoPostal','FR');

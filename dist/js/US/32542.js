@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32542"]={"code":"32542","region":"Florida","city":"Eglin Air Force Base","latitude":30.463262,"longitude":-86.537473}}(window,'GeoPostal','US');

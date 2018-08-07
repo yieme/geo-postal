@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62352"]={"code":"62352","region":"L'Oriental","city":"Kariat Arkmane","latitude":35.1071,"longitude":-2.74693}}(window,'GeoPostal','MA');

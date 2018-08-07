@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50576"]={"code":"50576","region":"IA","city":"Rembrandt","latitude":42.826,"longitude":-95.1652}}(window,'GeoPostal','US');

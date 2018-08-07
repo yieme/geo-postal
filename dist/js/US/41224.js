@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41224"]={"code":"41224","region":"Kentucky","city":"Inez","latitude":37.86648,"longitude":-82.53876}}(window,'GeoPostal','US');

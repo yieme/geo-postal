@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY21 8AH"]={"code":"SY21 8AH","region":"Wales","city":"Welshpool","latitude":52.65973,"longitude":-3.1471}}(window,'GeoPostal','GB');

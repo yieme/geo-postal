@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01708"]={"code":"01708","region":"Auvergne-Rhone-Alpes","city":"Miribel","latitude":45.8258,"longitude":4.9544}}(window,'GeoPostal','FR');

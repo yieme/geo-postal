@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94160"]={"code":"94160","region":"Ile-de-France","city":"Saint-Mande","latitude":48.83864,"longitude":2.41579}}(window,'GeoPostal','FR');

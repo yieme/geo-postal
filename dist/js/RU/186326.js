@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186326"]={"code":"186326","region":"Kareliya, Respublika","city":"Povenets","latitude":62.8487,"longitude":34.82621}}(window,'GeoPostal','RU');

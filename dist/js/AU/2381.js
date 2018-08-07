@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2381"]={"code":"2381","region":"New South Wales","city":"Piallaway","latitude":-31.16667,"longitude":150.58333}}(window,'GeoPostal','AU');

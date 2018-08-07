@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2110"]={"code":"2110","region":"Bataan","city":"Dinalupihan","latitude":14.8732,"longitude":120.4651}}(window,'GeoPostal','PH');

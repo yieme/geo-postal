@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62329"]={"code":"62329","region":"IL","city":"Colusa","latitude":40.5714,"longitude":-91.1682}}(window,'GeoPostal','US');

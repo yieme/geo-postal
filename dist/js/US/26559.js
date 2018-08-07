@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26559"]={"code":"26559","region":"WV","city":"Barrackville","latitude":39.5052,"longitude":-80.1725}}(window,'GeoPostal','US');

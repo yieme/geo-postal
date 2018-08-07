@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37307"]={"code":"37307","region":"Tennessee","city":"Benton","latitude":35.17424,"longitude":-84.65355}}(window,'GeoPostal','US');

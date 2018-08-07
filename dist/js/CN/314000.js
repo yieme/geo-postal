@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["314000"]={"code":"314000","region":"Zhejiang","city":"Jiaxing","latitude":30.7522,"longitude":120.75}}(window,'GeoPostal','CN');

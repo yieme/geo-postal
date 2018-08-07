@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42528"]={"code":"42528","region":"KY","city":"Dunnville","latitude":37.1906,"longitude":-84.9835}}(window,'GeoPostal','US');

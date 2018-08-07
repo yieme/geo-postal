@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24064"]={"code":"24064","region":"VA","city":"Blue Ridge","latitude":37.3885,"longitude":-79.8172}}(window,'GeoPostal','US');

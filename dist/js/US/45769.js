@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45769"]={"code":"45769","region":"Ohio","city":"Pomeroy","latitude":39.08808,"longitude":-82.03176}}(window,'GeoPostal','US');

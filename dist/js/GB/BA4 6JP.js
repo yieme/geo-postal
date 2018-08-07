@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA4 6JP"]={"code":"BA4 6JP","region":"England","city":"Evercreech","latitude":51.14806,"longitude":-2.50556}}(window,'GeoPostal','GB');

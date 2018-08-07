@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9V 0B6"]={"code":"T9V 0B6","region":"Alberta","city":"Lloydminster","latitude":53.278141,"longitude":-110.021738}}(window,'GeoPostal','CA');

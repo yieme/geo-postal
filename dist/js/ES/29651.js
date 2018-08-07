@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29651"]={"code":"29651","region":"Andalucia","city":"Mijas","latitude":36.59575,"longitude":-4.63728}}(window,'GeoPostal','ES');

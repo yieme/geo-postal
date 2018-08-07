@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92563"]={"code":"92563","region":"California","city":"Murrieta","latitude":33.565355,"longitude":-117.170848}}(window,'GeoPostal','US');

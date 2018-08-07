@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV54 8LR"]={"code":"IV54 8LR","region":"Scotland","city":"Applecross","latitude":57.43317,"longitude":-5.81433}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-212"]={"code":"06-212","region":"Mazowieckie","city":"Krasnosielc","latitude":53.03378,"longitude":21.15735}}(window,'GeoPostal','PL');

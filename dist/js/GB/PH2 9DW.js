@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 9DW"]={"code":"PH2 9DW","region":"Scotland","city":"Carsebreck","latitude":56.26667,"longitude":-3.51667}}(window,'GeoPostal','GB');

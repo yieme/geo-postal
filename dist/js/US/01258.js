@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01258"]={"code":"01258","region":"MA","city":"South Egremont","latitude":42.1012,"longitude":-73.4566}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2222"]={"code":"2222","region":"Pest","city":"Vecses","latitude":47.40705,"longitude":19.28648}}(window,'GeoPostal','HU');

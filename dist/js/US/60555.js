@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60555"]={"code":"60555","region":"Illinois","city":"Warrenville","latitude":41.822551,"longitude":-88.183633}}(window,'GeoPostal','US');

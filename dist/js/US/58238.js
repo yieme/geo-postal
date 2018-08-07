@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58238"]={"code":"58238","region":"ND","city":"Hamilton","latitude":48.7942,"longitude":-97.4693}}(window,'GeoPostal','US');

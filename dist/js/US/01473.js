@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01473"]={"code":"01473","region":"MA","city":"Westminster","latitude":42.5483,"longitude":-71.9096}}(window,'GeoPostal','US');

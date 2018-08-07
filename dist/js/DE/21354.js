@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21354"]={"code":"21354","region":"Niedersachsen","city":"Bleckede","latitude":53.28972,"longitude":10.73372}}(window,'GeoPostal','DE');

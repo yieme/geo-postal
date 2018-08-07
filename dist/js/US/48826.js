@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48826"]={"code":"48826","region":"Michigan","city":"East Lansing","latitude":42.74568,"longitude":-84.48378}}(window,'GeoPostal','US');

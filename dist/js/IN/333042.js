@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333042"]={"code":"333042","region":"Rajasthan","city":"Nawalgarh","latitude":27.85,"longitude":75.26667}}(window,'GeoPostal','IN');

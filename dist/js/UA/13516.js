@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13516"]={"code":"13516","region":"Zhytomyrska oblast","city":"Kornyn","latitude":50.0953,"longitude":29.53581}}(window,'GeoPostal','UA');

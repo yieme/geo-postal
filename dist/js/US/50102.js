@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50102"]={"code":"50102","region":"IA","city":"Garden City","latitude":42.2455,"longitude":-93.3955}}(window,'GeoPostal','US');

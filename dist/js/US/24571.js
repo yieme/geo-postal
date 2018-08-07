@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24571"]={"code":"24571","region":"VA","city":"Lynch Station","latitude":37.1528,"longitude":-79.3297}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64743"]={"code":"64743","region":"Hessen","city":"Falken-Gesass","latitude":49.56028,"longitude":8.93087}}(window,'GeoPostal','DE');

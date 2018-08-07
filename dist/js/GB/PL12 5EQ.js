@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL12 5EQ"]={"code":"PL12 5EQ","region":"England","city":"Saint Germans","latitude":50.4,"longitude":-4.3}}(window,'GeoPostal','GB');

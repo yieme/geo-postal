@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85652"]={"code":"85652","region":"Arizona","city":"Cortaro","latitude":32.385564,"longitude":-111.114249}}(window,'GeoPostal','US');

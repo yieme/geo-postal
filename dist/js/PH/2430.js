@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2430"]={"code":"2430","region":"Pangasinan","city":"Manaoag","latitude":16.0438,"longitude":120.4861}}(window,'GeoPostal','PH');

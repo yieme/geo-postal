@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14000-000"]={"code":"14000-000","region":"Sao Paulo","city":"Ribeirao Preto","latitude":-21.1775,"longitude":-47.81028}}(window,'GeoPostal','BR');

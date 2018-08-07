@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117106"]={"code":"117106","region":"Liaoning","city":"Dongyingfang","latitude":41.21982,"longitude":124.52269}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23602"]={"code":"23602","region":"Virginia","city":"Newport News","latitude":37.127508,"longitude":-76.521914}}(window,'GeoPostal','US');

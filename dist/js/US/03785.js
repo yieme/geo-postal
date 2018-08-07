@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03785"]={"code":"03785","region":"New Hampshire","city":"Woodsville","latitude":44.15229,"longitude":-72.03731}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17751"]={"code":"17751","region":"Pennsylvania","city":"Mill Hall","latitude":41.10729,"longitude":-77.48443}}(window,'GeoPostal','US');

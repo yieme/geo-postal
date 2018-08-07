@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182320"]={"code":"182320","region":"Jammu and Kashmir","city":"Katra","latitude":32.98333,"longitude":74.95}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN24 5LH"]={"code":"BN24 5LH","region":"England","city":"Pevensey","latitude":50.81966,"longitude":0.33963}}(window,'GeoPostal','GB');

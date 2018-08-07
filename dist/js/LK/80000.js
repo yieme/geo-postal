@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80000"]={"code":"80000","region":"Southern Province","city":"Galle","latitude":6.0367,"longitude":80.217}}(window,'GeoPostal','LK');

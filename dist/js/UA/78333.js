@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78333"]={"code":"78333","region":"Ivano-Frankivska oblast","city":"Stetseva","latitude":48.52767,"longitude":25.57572}}(window,'GeoPostal','UA');

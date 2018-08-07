@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29661"]={"code":"29661","region":"SC","city":"Marietta","latitude":35.0296,"longitude":-82.5136}}(window,'GeoPostal','US');

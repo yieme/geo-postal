@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652642"]={"code":"652642","region":"Kemerovskaya oblast'","city":"Bachatskiy","latitude":54.2927,"longitude":86.1285}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38380"]={"code":"38380","region":"Auvergne-Rhone-Alpes","city":"Saint-Laurent-du-Pont","latitude":45.39009,"longitude":5.73521}}(window,'GeoPostal','FR');

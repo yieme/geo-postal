@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59584-000"]={"code":"59584-000","region":"Rio Grande do Norte","city":"Touros","latitude":-5.19889,"longitude":-35.46083}}(window,'GeoPostal','BR');

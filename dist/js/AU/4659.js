@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4659"]={"code":"4659","region":"Queensland","city":"Burrum Heads","latitude":-25.18457,"longitude":152.61262}}(window,'GeoPostal','AU');

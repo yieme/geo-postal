@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74082"]={"code":"74082","region":"OK","city":"Vera","latitude":36.4501,"longitude":-95.8814}}(window,'GeoPostal','US');

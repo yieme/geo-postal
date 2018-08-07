@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58483"]={"code":"58483","region":"North Dakota","city":"Streeter","latitude":46.656915,"longitude":-99.358374}}(window,'GeoPostal','US');

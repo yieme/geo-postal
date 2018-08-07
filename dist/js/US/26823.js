@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26823"]={"code":"26823","region":"West Virginia","city":"Capon Springs","latitude":39.13611,"longitude":-78.48444}}(window,'GeoPostal','US');

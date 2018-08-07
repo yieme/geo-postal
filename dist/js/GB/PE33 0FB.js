@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE33 0FB"]={"code":"PE33 0FB","region":"England","city":"Setchey","latitude":52.69912,"longitude":0.41928}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["953 05"]={"code":"953 05","region":"Nitriansky kraj","city":"Zlate Moravce","latitude":48.38553,"longitude":18.40063}}(window,'GeoPostal','SK');

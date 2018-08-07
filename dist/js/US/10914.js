@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10914"]={"code":"10914","region":"NY","city":"Blooming Grove","latitude":41.4093,"longitude":-74.1951}}(window,'GeoPostal','US');

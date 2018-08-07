@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30204"]={"code":"30204","region":"Georgia","city":"Barnesville","latitude":33.054111,"longitude":-84.158627}}(window,'GeoPostal','US');

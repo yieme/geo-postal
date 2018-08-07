@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907175"]={"code":"907175","region":"Tulcea","city":"Crisan","latitude":44.96667,"longitude":29.46667}}(window,'GeoPostal','RO');

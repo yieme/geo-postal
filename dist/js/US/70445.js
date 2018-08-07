@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70445"]={"code":"70445","region":"LA","city":"Lacombe","latitude":30.322,"longitude":-89.9297}}(window,'GeoPostal','US');

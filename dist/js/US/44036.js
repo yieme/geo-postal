@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44036"]={"code":"44036","region":"Ohio","city":"Elyria","latitude":41.37,"longitude":-82.0965}}(window,'GeoPostal','US');

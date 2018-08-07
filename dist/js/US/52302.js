@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52302"]={"code":"52302","region":"Iowa","city":"Marion","latitude":42.03417,"longitude":-91.59768}}(window,'GeoPostal','US');

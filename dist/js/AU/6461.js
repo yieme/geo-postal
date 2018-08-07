@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6461"]={"code":"6461","region":"Western Australia","city":"Oak Park","latitude":-31.16667,"longitude":116.9}}(window,'GeoPostal','AU');

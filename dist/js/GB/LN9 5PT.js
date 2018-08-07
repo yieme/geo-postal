@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN9 5PT"]={"code":"LN9 5PT","region":"England","city":"West Ashby","latitude":53.23376,"longitude":-0.10467}}(window,'GeoPostal','GB');

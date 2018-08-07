@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10595"]={"code":"10595","region":"New York","city":"Valhalla","latitude":41.090731,"longitude":-73.777383}}(window,'GeoPostal','US');

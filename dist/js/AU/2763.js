@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2763"]={"code":"2763","region":"New South Wales","city":"Quakers Hill","latitude":-33.73333,"longitude":150.88333}}(window,'GeoPostal','AU');

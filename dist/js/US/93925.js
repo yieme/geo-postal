@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93925"]={"code":"93925","region":"CA","city":"Chualar","latitude":36.595,"longitude":-121.432}}(window,'GeoPostal','US');

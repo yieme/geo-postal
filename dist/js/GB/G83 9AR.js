@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G83 9AR"]={"code":"G83 9AR","region":"Scotland","city":"Jamestown","latitude":55.98333,"longitude":-4.56667}}(window,'GeoPostal','GB');

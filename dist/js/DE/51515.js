@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51515"]={"code":"51515","region":"Nordrhein-Westfalen","city":"Waldmuhle","latitude":51.03333,"longitude":7.25}}(window,'GeoPostal','DE');

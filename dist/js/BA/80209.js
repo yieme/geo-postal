@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80209"]={"code":"80209","region":"Federacija Bosne i Hercegovine","city":"Zabrisce","latitude":43.7925,"longitude":16.94222}}(window,'GeoPostal','BA');

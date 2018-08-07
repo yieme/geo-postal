@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61010"]={"code":"61010","region":"Illinois","city":"Byron","latitude":42.126166,"longitude":-89.264479}}(window,'GeoPostal','US');

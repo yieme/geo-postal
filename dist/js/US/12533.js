@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12533"]={"code":"12533","region":"New York","city":"Hopewell Junction","latitude":41.58417,"longitude":-73.79972}}(window,'GeoPostal','US');

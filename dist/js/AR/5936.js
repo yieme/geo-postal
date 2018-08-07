@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5936"]={"code":"5936","region":"Cordoba","city":"Tio Pujio","latitude":-32.2879,"longitude":-63.35598}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27052"]={"code":"27052","region":"Lombardia","city":"Rivanazzano","latitude":44.92908,"longitude":9.01368}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17861"]={"code":"17861","region":"PA","city":"Paxtonville","latitude":40.7725,"longitude":-77.0833}}(window,'GeoPostal','US');

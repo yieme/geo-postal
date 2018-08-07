@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0V 1X0"]={"code":"P0V 1X0","region":"Ontario","city":"Hudson","latitude":47.53725,"longitude":-79.8028}}(window,'GeoPostal','CA');

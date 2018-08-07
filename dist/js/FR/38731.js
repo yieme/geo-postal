@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38731"]={"code":"38731","region":"Auvergne-Rhone-Alpes","city":"La Tour-du-Pin","latitude":45.56667,"longitude":5.45}}(window,'GeoPostal','FR');

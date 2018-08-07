@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93545"]={"code":"93545","region":"California","city":"Lone Pine","latitude":36.586566,"longitude":-118.057992}}(window,'GeoPostal','US');

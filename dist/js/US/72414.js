@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72414"]={"code":"72414","region":"AR","city":"Black Oak","latitude":35.8368,"longitude":-90.4005}}(window,'GeoPostal','US');

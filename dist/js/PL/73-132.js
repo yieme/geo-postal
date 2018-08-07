@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73-132"]={"code":"73-132","region":"Zachodniopomorskie","city":"Suchan","latitude":53.28003,"longitude":15.32541}}(window,'GeoPostal','PL');

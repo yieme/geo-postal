@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 11"]={"code":"696 11","region":"Jihomoravsky kraj","city":"Mutenice","latitude":48.90413,"longitude":17.02917}}(window,'GeoPostal','CZ');

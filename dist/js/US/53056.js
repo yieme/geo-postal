@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53056"]={"code":"53056","region":"Wisconsin","city":"Merton","latitude":43.14667,"longitude":-88.30676}}(window,'GeoPostal','US');

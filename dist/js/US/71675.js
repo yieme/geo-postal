@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71675"]={"code":"71675","region":"Arkansas","city":"Wilmar","latitude":33.62142,"longitude":-91.9278}}(window,'GeoPostal','US');

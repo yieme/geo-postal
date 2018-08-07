@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["670000"]={"code":"670000","region":"Lam Dong","city":"Da Lat","latitude":11.94646,"longitude":108.44193}}(window,'GeoPostal','VN');

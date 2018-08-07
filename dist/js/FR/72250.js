@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72250"]={"code":"72250","region":"Pays-de-la-Loire","city":"Challes","latitude":47.93033,"longitude":0.41511}}(window,'GeoPostal','FR');

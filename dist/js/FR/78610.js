@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78610"]={"code":"78610","region":"Ile-de-France","city":"Auffargis","latitude":48.70049,"longitude":1.88696}}(window,'GeoPostal','FR');

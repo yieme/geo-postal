@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["151102"]={"code":"151102","region":"Punjab","city":"Bhatinda","latitude":30.2,"longitude":74.95}}(window,'GeoPostal','IN');

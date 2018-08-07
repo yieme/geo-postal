@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9327"]={"code":"9327","region":"Sankt Gallen","city":"Horn","latitude":47.49425,"longitude":9.46246}}(window,'GeoPostal','CH');

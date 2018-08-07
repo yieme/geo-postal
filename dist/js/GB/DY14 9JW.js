@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DY14 9JW"]={"code":"DY14 9JW","region":"England","city":"Mamble","latitude":52.34006,"longitude":-2.4576}}(window,'GeoPostal','GB');

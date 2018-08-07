@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL66 0AB"]={"code":"LL66 0AB","region":"Wales","city":"Rhosgoch","latitude":53.37693,"longitude":-4.39093}}(window,'GeoPostal','GB');

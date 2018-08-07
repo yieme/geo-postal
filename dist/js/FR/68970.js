@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68970"]={"code":"68970","region":"Grand-Est","city":"Guemar","latitude":48.18869,"longitude":7.39706}}(window,'GeoPostal','FR');

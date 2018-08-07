@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60110"]={"code":"60110","region":"Phichit","city":"Dong Charoen","latitude":16.02058,"longitude":100.66286}}(window,'GeoPostal','TH');

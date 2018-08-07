@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3572"]={"code":"3572","region":"Santa Fe","city":"Malabrigo","latitude":-29.34636,"longitude":-59.96957}}(window,'GeoPostal','AR');

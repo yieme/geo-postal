@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57022"]={"code":"57022","region":"SD","city":"Dell Rapids","latitude":43.8228,"longitude":-96.7223}}(window,'GeoPostal','US');

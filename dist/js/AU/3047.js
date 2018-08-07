@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3047"]={"code":"3047","region":"Victoria","city":"Broadmeadows","latitude":-37.68015,"longitude":144.91877}}(window,'GeoPostal','AU');

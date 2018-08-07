@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31637"]={"code":"31637","region":"GA","city":"Lenox","latitude":31.2664,"longitude":-83.4481}}(window,'GeoPostal','US');

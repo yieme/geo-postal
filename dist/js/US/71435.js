@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71435"]={"code":"71435","region":"Louisiana","city":"Grayson","latitude":32.01188,"longitude":-91.950097}}(window,'GeoPostal','US');

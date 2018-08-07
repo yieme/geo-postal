@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98722"]={"code":"98722","region":"Iles du Vent","city":"Tautira","latitude":-17.73333,"longitude":-149.15}}(window,'GeoPostal','PF');

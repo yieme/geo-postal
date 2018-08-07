@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68284"]={"code":"68284","region":"Jawa Timur","city":"Duwe","latitude":-7.8742,"longitude":114.0014}}(window,'GeoPostal','ID');

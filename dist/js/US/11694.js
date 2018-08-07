@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11694"]={"code":"11694","region":"New York","city":"Rockaway Park","latitude":40.57734,"longitude":-73.84296}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89010"]={"code":"89010","region":"Calabria","city":"Molochio","latitude":38.30717,"longitude":16.0293}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07656"]={"code":"07656","region":"New Jersey","city":"Park Ridge","latitude":41.03198,"longitude":-74.041248}}(window,'GeoPostal','US');

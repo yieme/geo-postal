@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50233"]={"code":"50233","region":"IA","city":"Redfield","latitude":41.5873,"longitude":-94.1897}}(window,'GeoPostal','US');

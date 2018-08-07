@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38056"]={"code":"38056","region":"Trentino-Alto Adige","city":"Levico Terme","latitude":46.0129,"longitude":11.30718}}(window,'GeoPostal','IT');

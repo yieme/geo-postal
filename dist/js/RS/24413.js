@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24413"]={"code":"24413","region":"Severnobacki okrug","city":"Subotica","latitude":46.1,"longitude":19.66667}}(window,'GeoPostal','RS');

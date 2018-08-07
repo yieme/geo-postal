@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA6 4SJ"]={"code":"CA6 4SJ","region":"England","city":"Kingstown","latitude":54.9338,"longitude":-2.96296}}(window,'GeoPostal','GB');

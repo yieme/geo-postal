@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94039"]={"code":"94039","region":"California","city":"Mountain View","latitude":37.39308,"longitude":-122.07702}}(window,'GeoPostal','US');

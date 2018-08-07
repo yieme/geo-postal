@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5206"]={"code":"5206","region":"Barinas","city":"Barinitas","latitude":8.76222,"longitude":-70.41111}}(window,'GeoPostal','VE');

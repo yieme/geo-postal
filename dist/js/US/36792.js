@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36792"]={"code":"36792","region":"AL","city":"Randolph","latitude":32.8888,"longitude":-86.907}}(window,'GeoPostal','US');

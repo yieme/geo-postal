@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD8 2RH"]={"code":"LD8 2RH","region":"Wales","city":"Old Radnor","latitude":52.22434,"longitude":-3.09998}}(window,'GeoPostal','GB');

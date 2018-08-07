@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63620"]={"code":"63620","region":"MO","city":"Annapolis","latitude":37.3981,"longitude":-90.6702}}(window,'GeoPostal','US');

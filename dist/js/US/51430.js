@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51430"]={"code":"51430","region":"Iowa","city":"Arcadia","latitude":42.087901,"longitude":-95.046475}}(window,'GeoPostal','US');

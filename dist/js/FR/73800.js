@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73800"]={"code":"73800","region":"Auvergne-Rhone-Alpes","city":"Les Marches","latitude":45.49921,"longitude":6.00087}}(window,'GeoPostal','FR');

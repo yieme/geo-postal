@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29790"]={"code":"29790","region":"Andalucia","city":"Loja","latitude":37.16887,"longitude":-4.15129}}(window,'GeoPostal','ES');

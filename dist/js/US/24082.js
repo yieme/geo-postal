@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24082"]={"code":"24082","region":"Virginia","city":"Critz","latitude":36.616874,"longitude":-80.121828}}(window,'GeoPostal','US');

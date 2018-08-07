@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["695-913"]={"code":"695-913","region":"Jeju-teukbyeoljachido","city":"Gaigeturi","latitude":33.46444,"longitude":126.31833}}(window,'GeoPostal','KR');

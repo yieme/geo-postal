@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90325"]={"code":"90325","region":"Zakarpatska oblast","city":"Podvinogradov","latitude":48.13947,"longitude":22.97194}}(window,'GeoPostal','UA');

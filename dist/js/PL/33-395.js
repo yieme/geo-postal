@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-395"]={"code":"33-395","region":"Malopolskie","city":"Nowy Sacz","latitude":49.62177,"longitude":20.69705}}(window,'GeoPostal','PL');

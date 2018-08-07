@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0A 3P0"]={"code":"K0A 3P0","region":"Ontario","city":"Richmond","latitude":45.192595,"longitude":-75.834083}}(window,'GeoPostal','CA');

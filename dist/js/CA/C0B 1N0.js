@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0B 1N0"]={"code":"C0B 1N0","region":"Prince Edward Island","city":"Kinkora","latitude":46.31683,"longitude":-63.59872}}(window,'GeoPostal','CA');

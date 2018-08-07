@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09420"]={"code":"09420","region":"Occitanie","city":"Rimont","latitude":42.9964,"longitude":1.2836}}(window,'GeoPostal','FR');

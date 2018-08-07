@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80950"]={"code":"80950","region":"Aksaray","city":"Aksaray","latitude":38.37255,"longitude":34.02537}}(window,'GeoPostal','TR');

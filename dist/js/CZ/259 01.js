@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["259 01"]={"code":"259 01","region":"Stredocesky kraj","city":"Votice","latitude":49.64013,"longitude":14.63809}}(window,'GeoPostal','CZ');

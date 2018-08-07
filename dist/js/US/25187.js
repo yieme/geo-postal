@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25187"]={"code":"25187","region":"WV","city":"Southside","latitude":38.712,"longitude":-81.9966}}(window,'GeoPostal','US');

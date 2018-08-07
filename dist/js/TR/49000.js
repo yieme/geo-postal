@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49000"]={"code":"49000","region":"Siirt","city":"Kurtalan","latitude":37.92717,"longitude":41.70282}}(window,'GeoPostal','TR');

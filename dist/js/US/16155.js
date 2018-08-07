@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16155"]={"code":"16155","region":"PA","city":"Villa Maria","latitude":41.0737,"longitude":-80.5073}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV6 7UA"]={"code":"IV6 7UA","region":"Scotland","city":"Muir of Ord","latitude":57.51976,"longitude":-4.45939}}(window,'GeoPostal','GB');

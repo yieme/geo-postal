@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49912"]={"code":"49912","region":"Michigan","city":"Bruce Crossing","latitude":46.53759,"longitude":-89.202829}}(window,'GeoPostal','US');

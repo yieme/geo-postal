@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40049"]={"code":"40049","region":"KY","city":"Nerinx","latitude":37.6603,"longitude":-85.3932}}(window,'GeoPostal','US');

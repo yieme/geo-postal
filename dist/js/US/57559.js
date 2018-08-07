@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57559"]={"code":"57559","region":"South Dakota","city":"Murdo","latitude":43.88832,"longitude":-100.71291}}(window,'GeoPostal','US');

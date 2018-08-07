@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92377"]={"code":"92377","region":"California","city":"Rialto","latitude":34.1514,"longitude":-117.4085}}(window,'GeoPostal','US');

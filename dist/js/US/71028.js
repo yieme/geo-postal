@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71028"]={"code":"71028","region":"LA","city":"Gibsland","latitude":32.5299,"longitude":-93.0706}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453565"]={"code":"453565","region":"Bashkortostan, Respublika","city":"Abzakovo","latitude":53.82861,"longitude":58.59333}}(window,'GeoPostal','RU');

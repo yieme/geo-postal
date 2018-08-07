@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP14 5RY"]={"code":"IP14 5RY","region":"England","city":"Mendlesham","latitude":52.25014,"longitude":1.0813}}(window,'GeoPostal','GB');

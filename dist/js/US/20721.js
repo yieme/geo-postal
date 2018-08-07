@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20721"]={"code":"20721","region":"Maryland","city":"Mitchellville","latitude":38.9307,"longitude":-76.7856}}(window,'GeoPostal','US');

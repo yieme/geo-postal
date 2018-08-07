@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE12 0PQ"]={"code":"PE12 0PQ","region":"England","city":"Gedney Hill","latitude":52.68434,"longitude":-0.02008}}(window,'GeoPostal','GB');

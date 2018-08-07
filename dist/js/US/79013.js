@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79013"]={"code":"79013","region":"Texas","city":"Cactus","latitude":36.05226,"longitude":-102.0024}}(window,'GeoPostal','US');

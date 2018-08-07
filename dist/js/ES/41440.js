@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41440"]={"code":"41440","region":"Andalucia","city":"Lora del Rio","latitude":37.65896,"longitude":-5.52751}}(window,'GeoPostal','ES');

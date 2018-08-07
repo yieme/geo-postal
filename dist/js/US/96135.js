@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96135"]={"code":"96135","region":"CA","city":"Vinton","latitude":39.8043,"longitude":-120.1783}}(window,'GeoPostal','US');

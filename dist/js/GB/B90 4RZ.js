@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B90 4RZ"]={"code":"B90 4RZ","region":"England","city":"Cranmore","latitude":51.18694,"longitude":-2.475}}(window,'GeoPostal','GB');

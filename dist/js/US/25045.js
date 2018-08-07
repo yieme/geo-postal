@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25045"]={"code":"25045","region":"WV","city":"Clendenin","latitude":38.4539,"longitude":-81.3572}}(window,'GeoPostal','US');

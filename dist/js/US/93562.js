@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93562"]={"code":"93562","region":"CA","city":"Trona","latitude":35.7481,"longitude":-117.3808}}(window,'GeoPostal','US');

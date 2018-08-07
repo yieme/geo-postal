@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["635-807"]={"code":"635-807","region":"Gyeongsangnam-do","city":"Changnyeong","latitude":35.54145,"longitude":128.49506}}(window,'GeoPostal','KR');

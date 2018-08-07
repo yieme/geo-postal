@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83212"]={"code":"83212","region":"ID","city":"Arbon","latitude":42.5026,"longitude":-112.5585}}(window,'GeoPostal','US');

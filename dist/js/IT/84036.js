@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84036"]={"code":"84036","region":"Campania","city":"Sala Consilina","latitude":40.39121,"longitude":15.59887}}(window,'GeoPostal','IT');

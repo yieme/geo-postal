@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70748"]={"code":"70748","region":"Louisiana","city":"Saint Francisville","latitude":30.778536,"longitude":-91.210208}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11013"]={"code":"11013","region":"Valle d'Aosta","city":"Courmayeur","latitude":45.79386,"longitude":6.97139}}(window,'GeoPostal','IT');

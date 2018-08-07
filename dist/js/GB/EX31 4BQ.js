@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX31 4BQ"]={"code":"EX31 4BQ","region":"England","city":"Chivenor","latitude":51.0924,"longitude":-4.13476}}(window,'GeoPostal','GB');

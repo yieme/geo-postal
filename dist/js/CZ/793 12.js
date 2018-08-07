@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["793 12"]={"code":"793 12","region":"Moravskoslezsky kraj","city":"Horni Benesov","latitude":49.96682,"longitude":17.60262}}(window,'GeoPostal','CZ');

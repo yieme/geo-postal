@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27182"]={"code":"27182","region":"Chaouia-Ouardigha","city":"Nouaseur","latitude":33.3802,"longitude":-7.62105}}(window,'GeoPostal','MA');

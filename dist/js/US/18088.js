@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18088"]={"code":"18088","region":"PA","city":"Walnutport","latitude":40.7615,"longitude":-75.5657}}(window,'GeoPostal','US');

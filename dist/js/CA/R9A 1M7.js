@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R9A 1M7"]={"code":"R9A 1M7","region":"Manitoba","city":"The Pas","latitude":53.82595,"longitude":-101.25592}}(window,'GeoPostal','CA');

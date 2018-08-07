@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0S 1M0"]={"code":"L0S 1M0","region":"Ontario","city":"Pelham","latitude":43.061372,"longitude":-79.332505}}(window,'GeoPostal','CA');

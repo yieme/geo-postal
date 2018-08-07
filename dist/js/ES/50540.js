@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50540"]={"code":"50540","region":"Aragon","city":"Borja","latitude":41.83412,"longitude":-1.53271}}(window,'GeoPostal','ES');

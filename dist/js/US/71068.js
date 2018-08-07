@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71068"]={"code":"71068","region":"Louisiana","city":"Ringgold","latitude":32.32849,"longitude":-93.27989}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 6LH"]={"code":"BD23 6LH","region":"England","city":"Rylstone","latitude":54.0242,"longitude":-2.0485}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63453"]={"code":"63453","region":"Missouri","city":"Luray","latitude":40.509663,"longitude":-91.889747}}(window,'GeoPostal','US');

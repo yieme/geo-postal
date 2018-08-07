@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47164"]={"code":"47164","region":"IN","city":"Palmyra","latitude":38.4105,"longitude":-86.0888}}(window,'GeoPostal','US');

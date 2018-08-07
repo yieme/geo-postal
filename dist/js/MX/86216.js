@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86216"]={"code":"86216","region":"Tabasco","city":"Comalcalco","latitude":18.26667,"longitude":-93.21667}}(window,'GeoPostal','MX');

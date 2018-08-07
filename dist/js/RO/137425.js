@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137425"]={"code":"137425","region":"Dambovita","city":"Selaru","latitude":44.46667,"longitude":25.3}}(window,'GeoPostal','RO');

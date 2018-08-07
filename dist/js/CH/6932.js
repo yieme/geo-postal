@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6932"]={"code":"6932","region":"Ticino","city":"Sorengo","latitude":45.99855,"longitude":8.93713}}(window,'GeoPostal','CH');

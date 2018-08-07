@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59780"]={"code":"59780","region":"Michoacan de Ocampo","city":"Chilchota","latitude":19.85,"longitude":-102.13333}}(window,'GeoPostal','MX');

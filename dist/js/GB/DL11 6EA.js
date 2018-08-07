@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL11 6EA"]={"code":"DL11 6EA","region":"England","city":"West Stonesdale","latitude":54.41513,"longitude":-2.17117}}(window,'GeoPostal','GB');

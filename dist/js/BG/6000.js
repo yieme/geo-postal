@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6000"]={"code":"6000","region":"Stara Zagora","city":"Stara Zagora","latitude":42.43278,"longitude":25.64194}}(window,'GeoPostal','BG');

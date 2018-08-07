@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR34 7PW"]={"code":"NR34 7PW","region":"England","city":"North Cove","latitude":52.44636,"longitude":1.62901}}(window,'GeoPostal','GB');

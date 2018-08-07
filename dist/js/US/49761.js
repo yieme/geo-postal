@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49761"]={"code":"49761","region":"MI","city":"Mullett Lake","latitude":45.5595,"longitude":-84.5221}}(window,'GeoPostal','US');

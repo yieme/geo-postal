@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL27 6UB"]={"code":"PL27 6UB","region":"England","city":"New Polzeath","latitude":50.57779,"longitude":-4.91311}}(window,'GeoPostal','GB');

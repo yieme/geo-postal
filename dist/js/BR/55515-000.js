@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55515-000"]={"code":"55515-000","region":"Pernambuco","city":"Amaraji","latitude":-8.38306,"longitude":-35.4525}}(window,'GeoPostal','BR');

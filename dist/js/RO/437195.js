@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437195"]={"code":"437195","region":"Maramures","city":"Moisei","latitude":47.65562,"longitude":24.54011}}(window,'GeoPostal','RO');

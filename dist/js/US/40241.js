@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40241"]={"code":"40241","region":"Kentucky","city":"Louisville","latitude":38.302353,"longitude":-85.583585}}(window,'GeoPostal','US');

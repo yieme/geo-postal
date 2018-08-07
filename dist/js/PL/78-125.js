@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-125"]={"code":"78-125","region":"Zachodniopomorskie","city":"Ryman","latitude":53.94391,"longitude":15.52866}}(window,'GeoPostal','PL');

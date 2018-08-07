@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18962"]={"code":"18962","region":"PA","city":"Silverdale","latitude":40.3445,"longitude":-75.2687}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626125"]={"code":"626125","region":"Tyumenskaya oblast'","city":"Abalak","latitude":58.12861,"longitude":68.59444}}(window,'GeoPostal','RU');

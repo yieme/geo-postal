@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75476"]={"code":"75476","region":"TX","city":"Ravenna","latitude":33.7098,"longitude":-96.1452}}(window,'GeoPostal','US');

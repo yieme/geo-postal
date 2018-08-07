@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62966"]={"code":"62966","region":"IL","city":"Murphysboro","latitude":37.7655,"longitude":-89.3317}}(window,'GeoPostal','US');

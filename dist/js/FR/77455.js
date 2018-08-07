@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77455"]={"code":"77455","region":"Ile-de-France","city":"Champs-sur-Marne","latitude":48.85,"longitude":2.6}}(window,'GeoPostal','FR');

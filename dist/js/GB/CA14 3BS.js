@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA14 3BS"]={"code":"CA14 3BS","region":"England","city":"Workington","latitude":54.6425,"longitude":-3.54413}}(window,'GeoPostal','GB');

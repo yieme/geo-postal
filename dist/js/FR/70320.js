@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70320"]={"code":"70320","region":"Bourgogne-Franche-Comte","city":"Corbenay","latitude":47.89275,"longitude":6.33047}}(window,'GeoPostal','FR');

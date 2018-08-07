@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31531"]={"code":"31531","region":"Osjecko-baranjska zupanija","city":"Viljevo","latitude":45.75139,"longitude":18.06306}}(window,'GeoPostal','HR');

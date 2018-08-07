@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21634"]={"code":"21634","region":"Maryland","city":"Fishing Creek","latitude":38.2995,"longitude":-76.2048}}(window,'GeoPostal','US');

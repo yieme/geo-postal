@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["041-0805"]={"code":"041-0805","region":"Hokkaido","city":"Hakodate","latitude":41.767,"longitude":140.733}}(window,'GeoPostal','JP');

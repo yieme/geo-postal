@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO16 4UH"]={"code":"YO16 4UH","region":"England","city":"Bessingby","latitude":54.07626,"longitude":-0.2302}}(window,'GeoPostal','GB');

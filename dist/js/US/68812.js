@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68812"]={"code":"68812","region":"NE","city":"Amherst","latitude":40.8495,"longitude":-99.2609}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38664"]={"code":"38664","region":"Mississippi","city":"Robinsonville","latitude":34.817778,"longitude":-90.370833}}(window,'GeoPostal','US');

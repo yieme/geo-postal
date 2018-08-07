@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC2A 3SB"]={"code":"EC2A 3SB","region":"England","city":"Charterhouse","latitude":51.29915,"longitude":-2.71599}}(window,'GeoPostal','GB');

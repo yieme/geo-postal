@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46382"]={"code":"46382","region":"IN","city":"Union Mills","latitude":41.4602,"longitude":-86.8355}}(window,'GeoPostal','US');

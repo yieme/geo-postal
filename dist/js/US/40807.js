@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40807"]={"code":"40807","region":"Kentucky","city":"Benham","latitude":36.965086,"longitude":-82.95658}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25524"]={"code":"25524","region":"West Virginia","city":"Harts","latitude":38.03056,"longitude":-82.12806}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453550"]={"code":"453550","region":"Bashkortostan, Respublika","city":"Tukan","latitude":53.8409,"longitude":57.4552}}(window,'GeoPostal','RU');

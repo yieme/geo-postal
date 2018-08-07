@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1411"]={"code":"1411","region":"Zagorje ob Savi","city":"Izlake","latitude":46.15,"longitude":14.95}}(window,'GeoPostal','SI');

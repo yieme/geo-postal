@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68874"]={"code":"68874","region":"Nebraska","city":"Sargent","latitude":41.642085,"longitude":-99.372444}}(window,'GeoPostal','US');

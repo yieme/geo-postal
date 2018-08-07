@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28817"]={"code":"28817","region":"Madrid, Comunidad de","city":"Los Santos de la Humosa","latitude":40.49968,"longitude":-3.25332}}(window,'GeoPostal','ES');

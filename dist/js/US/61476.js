@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61476"]={"code":"61476","region":"Illinois","city":"Seaton","latitude":41.102518,"longitude":-90.799625}}(window,'GeoPostal','US');

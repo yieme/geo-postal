@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61955"]={"code":"61955","region":"IL","city":"Vermilion","latitude":39.5811,"longitude":-87.5889}}(window,'GeoPostal','US');

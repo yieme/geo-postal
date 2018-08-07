@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8152"]={"code":"8152","region":"Zurich","city":"Opfikon","latitude":47.43169,"longitude":8.57588}}(window,'GeoPostal','CH');

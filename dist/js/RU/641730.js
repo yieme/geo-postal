@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641730"]={"code":"641730","region":"Kurganskaya oblast'","city":"Dalmatovo","latitude":56.26,"longitude":62.9362}}(window,'GeoPostal','RU');

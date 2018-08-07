@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2439"]={"code":"2439","region":"New South Wales","city":"Kendall","latitude":-31.63295,"longitude":152.70393}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52301"]={"code":"52301","region":"Iowa","city":"Marengo","latitude":41.79806,"longitude":-92.07074}}(window,'GeoPostal','US');

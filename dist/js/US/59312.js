@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59312"]={"code":"59312","region":"MT","city":"Angela","latitude":46.73,"longitude":-106.2011}}(window,'GeoPostal','US');

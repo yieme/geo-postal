@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36859"]={"code":"36859","region":"AL","city":"Holy Trinity","latitude":32.2298,"longitude":-85.0082}}(window,'GeoPostal','US');

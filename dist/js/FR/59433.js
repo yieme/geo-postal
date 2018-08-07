@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59433"]={"code":"59433","region":"Hauts-de-France","city":"Halluin","latitude":50.78628,"longitude":3.12611}}(window,'GeoPostal','FR');

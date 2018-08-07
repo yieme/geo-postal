@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537202"]={"code":"537202","region":"Dolj","city":"Bailesti","latitude":44.01667,"longitude":23.35}}(window,'GeoPostal','RO');

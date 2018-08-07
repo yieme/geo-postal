@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2583"]={"code":"2583","region":"Cordoba","city":"General Baldissera","latitude":-33.12246,"longitude":-62.3063}}(window,'GeoPostal','AR');

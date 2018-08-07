@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["720-0843"]={"code":"720-0843","region":"Hiroshima","city":"Fukuyama","latitude":34.483,"longitude":133.367}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73763"]={"code":"73763","region":"Oklahoma","city":"Okeene","latitude":36.11615,"longitude":-98.31702}}(window,'GeoPostal','US');

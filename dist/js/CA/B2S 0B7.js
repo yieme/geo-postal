@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B2S 0B7"]={"code":"B2S 0B7","region":"Nova Scotia","city":"Grant Valley","latitude":45.13345,"longitude":-63.6654}}(window,'GeoPostal','CA');

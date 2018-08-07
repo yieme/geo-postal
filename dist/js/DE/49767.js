@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49767"]={"code":"49767","region":"Niedersachsen","city":"Twist","latitude":52.63333,"longitude":7.05}}(window,'GeoPostal','DE');

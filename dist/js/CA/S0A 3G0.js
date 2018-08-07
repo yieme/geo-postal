@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 3G0"]={"code":"S0A 3G0","region":"Saskatchewan","city":"Quinton","latitude":51.38337,"longitude":-104.4011}}(window,'GeoPostal','CA');

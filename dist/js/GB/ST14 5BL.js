@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST14 5BL"]={"code":"ST14 5BL","region":"England","city":"Combridge","latitude":52.93793,"longitude":-1.86038}}(window,'GeoPostal','GB');

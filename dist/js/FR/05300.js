@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05300"]={"code":"05300","region":"Provence-Alpes-Cote d'Azur","city":"Laragne-Monteglin","latitude":44.31667,"longitude":5.81667}}(window,'GeoPostal','FR');

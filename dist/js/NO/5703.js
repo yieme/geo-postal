@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5703"]={"code":"5703","region":"Hordaland","city":"Vossevangen","latitude":60.62296,"longitude":6.42286}}(window,'GeoPostal','NO');

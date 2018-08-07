@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59370"]={"code":"59370","region":"Hauts-de-France","city":"Mons-en-Baroeul","latitude":50.63333,"longitude":3.11667}}(window,'GeoPostal','FR');

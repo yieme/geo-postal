@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5214"]={"code":"5214","region":"Mindoro Occidental","city":"Santa Teresa","latitude":12.25186,"longitude":121.11251}}(window,'GeoPostal','PH');

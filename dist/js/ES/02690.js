@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02690"]={"code":"02690","region":"Castilla-La Mancha","city":"Alpera","latitude":38.96667,"longitude":-1.21667}}(window,'GeoPostal','ES');

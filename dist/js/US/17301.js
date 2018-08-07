@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17301"]={"code":"17301","region":"PA","city":"Abbottstown","latitude":39.8881,"longitude":-76.9931}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6522"]={"code":"6522","region":"Tirol","city":"Prutz","latitude":47.08333,"longitude":10.66667}}(window,'GeoPostal','AT');

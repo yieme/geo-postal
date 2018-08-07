@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU30 7AL"]={"code":"GU30 7AL","region":"England","city":"Liphook","latitude":51.07716,"longitude":-0.8032}}(window,'GeoPostal','GB');

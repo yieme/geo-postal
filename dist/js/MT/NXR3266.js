@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NXR3266"]={"code":"NXR3266","region":"Naxxar","city":"Naxxar","latitude":35.91361,"longitude":14.44361}}(window,'GeoPostal','MT');

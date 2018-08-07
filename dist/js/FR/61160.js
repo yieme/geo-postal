@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61160"]={"code":"61160","region":"Normandie","city":"Trun","latitude":48.84268,"longitude":0.03268}}(window,'GeoPostal','FR');

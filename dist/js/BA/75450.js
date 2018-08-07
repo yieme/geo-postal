@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75450"]={"code":"75450","region":"Republika Srpska","city":"Sekovici","latitude":44.29861,"longitude":18.85278}}(window,'GeoPostal','BA');

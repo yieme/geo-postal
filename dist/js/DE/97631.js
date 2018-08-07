@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97631"]={"code":"97631","region":"Bayern","city":"Gabolshausen","latitude":50.2715,"longitude":10.50447}}(window,'GeoPostal','DE');

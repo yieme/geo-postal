@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54394"]={"code":"54394","region":"Vastra Gotalands lan","city":"Tibro","latitude":58.42453,"longitude":14.16162}}(window,'GeoPostal','SE');

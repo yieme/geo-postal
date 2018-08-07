@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53095"]={"code":"53095","region":"Wisconsin","city":"West Bend","latitude":43.3907,"longitude":-88.1649}}(window,'GeoPostal','US');

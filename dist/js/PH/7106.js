@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7106"]={"code":"7106","region":"Zamboanga del Norte","city":"Polanco","latitude":8.5329,"longitude":123.3617}}(window,'GeoPostal','PH');

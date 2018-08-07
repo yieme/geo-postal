@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25989"]={"code":"25989","region":"WV","city":"White Oak","latitude":37.6929,"longitude":-81.0729}}(window,'GeoPostal','US');

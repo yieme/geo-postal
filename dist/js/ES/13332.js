@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13332"]={"code":"13332","region":"Castilla-La Mancha","city":"Villahermosa","latitude":38.75023,"longitude":-2.87066}}(window,'GeoPostal','ES');

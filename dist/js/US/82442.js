@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82442"]={"code":"82442","region":"WY","city":"Ten Sleep","latitude":43.9978,"longitude":-107.4153}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39055"]={"code":"39055","region":"Trentino-Alto Adige","city":"Bolzano","latitude":46.49272,"longitude":11.33358}}(window,'GeoPostal','IT');

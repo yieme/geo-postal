@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML11 8HH"]={"code":"ML11 8HH","region":"Scotland","city":"Carnwath","latitude":55.70036,"longitude":-3.62579}}(window,'GeoPostal','GB');

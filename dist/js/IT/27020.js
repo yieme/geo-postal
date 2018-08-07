@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27020"]={"code":"27020","region":"Lombardia","city":"Gravellona","latitude":45.32766,"longitude":8.76414}}(window,'GeoPostal','IT');

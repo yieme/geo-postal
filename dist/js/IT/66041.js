@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66041"]={"code":"66041","region":"Abruzzo","city":"Atessa","latitude":42.06934,"longitude":14.45112}}(window,'GeoPostal','IT');

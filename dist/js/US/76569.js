@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76569"]={"code":"76569","region":"TX","city":"Rogers","latitude":30.955,"longitude":-97.2228}}(window,'GeoPostal','US');

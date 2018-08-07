@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29566"]={"code":"29566","region":"South Carolina","city":"Little River","latitude":33.87323,"longitude":-78.61418}}(window,'GeoPostal','US');

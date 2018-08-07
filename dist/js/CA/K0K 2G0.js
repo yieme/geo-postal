@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 2G0"]={"code":"K0K 2G0","region":"Ontario","city":"Grafton","latitude":44.00012,"longitude":-78.01621}}(window,'GeoPostal','CA');

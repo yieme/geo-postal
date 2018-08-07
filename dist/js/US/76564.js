@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76564"]={"code":"76564","region":"TX","city":"Pendleton","latitude":31.1952,"longitude":-97.3486}}(window,'GeoPostal','US');

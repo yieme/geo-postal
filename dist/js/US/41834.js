@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41834"]={"code":"41834","region":"Kentucky","city":"Littcarr","latitude":37.259044,"longitude":-82.967175}}(window,'GeoPostal','US');

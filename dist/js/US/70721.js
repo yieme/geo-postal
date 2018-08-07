@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70721"]={"code":"70721","region":"LA","city":"Carville","latitude":30.2184,"longitude":-91.0925}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG7 2AL"]={"code":"DG7 2AL","region":"Scotland","city":"Ringford","latitude":54.89768,"longitude":-4.04586}}(window,'GeoPostal','GB');

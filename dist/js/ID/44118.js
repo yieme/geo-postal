@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44118"]={"code":"44118","region":"Jawa Barat","city":"Garut","latitude":-7.2024,"longitude":107.8878}}(window,'GeoPostal','ID');

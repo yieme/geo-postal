@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54579"]={"code":"54579","region":"Nordrhein-Westfalen","city":"Dollendorf","latitude":50.37138,"longitude":6.7066}}(window,'GeoPostal','DE');

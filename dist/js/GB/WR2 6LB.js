@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR2 6LB"]={"code":"WR2 6LB","region":"England","city":"Hallow","latitude":52.22344,"longitude":-2.25468}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65600"]={"code":"65600","region":"Tokat","city":"Erbaa","latitude":40.66889,"longitude":36.5675}}(window,'GeoPostal','TR');

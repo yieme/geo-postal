@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17030"]={"code":"17030","region":"PA","city":"Gratz","latitude":40.6082,"longitude":-76.7375}}(window,'GeoPostal','US');

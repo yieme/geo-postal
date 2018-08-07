@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35187"]={"code":"35187","region":"AL","city":"Wilton","latitude":33.081,"longitude":-86.8793}}(window,'GeoPostal','US');

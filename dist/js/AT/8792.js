@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8792"]={"code":"8792","region":"Steiermark","city":"Leoben","latitude":47.38333,"longitude":15.1}}(window,'GeoPostal','AT');

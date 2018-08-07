@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-313"]={"code":"63-313","region":"Wielkopolskie","city":"Chocz","latitude":51.97642,"longitude":17.86995}}(window,'GeoPostal','PL');

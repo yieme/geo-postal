@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82872"]={"code":"82872","region":"Sinaloa","city":"Agua Verde","latitude":22.9,"longitude":-106.05}}(window,'GeoPostal','MX');

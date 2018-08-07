@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08110"]={"code":"08110","region":"Kyivska oblast","city":"Irpin'","latitude":50.52175,"longitude":30.25055}}(window,'GeoPostal','UA');

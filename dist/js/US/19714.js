@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19714"]={"code":"19714","region":"Delaware","city":"Newark","latitude":39.714416,"longitude":-75.739734}}(window,'GeoPostal','US');

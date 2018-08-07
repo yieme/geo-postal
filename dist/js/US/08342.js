@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08342"]={"code":"08342","region":"NJ","city":"Mizpah","latitude":39.5021,"longitude":-74.8335}}(window,'GeoPostal','US');

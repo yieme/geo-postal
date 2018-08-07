@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38610"]={"code":"38610","region":"Mississippi","city":"Blue Mountain","latitude":34.67056,"longitude":-89.02861}}(window,'GeoPostal','US');

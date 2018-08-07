@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B69 2RD"]={"code":"B69 2RD","region":"England","city":"Oldbury","latitude":52.5,"longitude":-2.01667}}(window,'GeoPostal','GB');

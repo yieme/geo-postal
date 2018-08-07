@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98923"]={"code":"98923","region":"WA","city":"Cowiche","latitude":46.6661,"longitude":-120.7149}}(window,'GeoPostal','US');

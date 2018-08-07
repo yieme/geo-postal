@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37150"]={"code":"37150","region":"Tennessee","city":"Red Boiling Springs","latitude":36.53339,"longitude":-85.84998}}(window,'GeoPostal','US');

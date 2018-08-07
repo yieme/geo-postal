@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-6201"]={"code":"MD-6201","region":"Singerei","city":"Singerei","latitude":47.64056,"longitude":28.14194}}(window,'GeoPostal','MD');

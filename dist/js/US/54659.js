@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54659"]={"code":"54659","region":"Wisconsin","city":"Taylor","latitude":44.328424,"longitude":-91.109979}}(window,'GeoPostal','US');

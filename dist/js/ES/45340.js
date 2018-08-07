@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45340"]={"code":"45340","region":"Castilla-La Mancha","city":"Ontigola","latitude":40.00421,"longitude":-3.57227}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 3A0"]={"code":"K0L 3A0","region":"Ontario","city":"Douro","latitude":44.430061,"longitude":-78.1373}}(window,'GeoPostal','CA');

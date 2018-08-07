@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE61 6UA"]={"code":"NE61 6UA","region":"England","city":"Pegswood","latitude":55.1793,"longitude":-1.64525}}(window,'GeoPostal','GB');

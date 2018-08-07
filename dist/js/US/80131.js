@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80131"]={"code":"80131","region":"CO","city":"Louviers","latitude":39.4764,"longitude":-105.0075}}(window,'GeoPostal','US');

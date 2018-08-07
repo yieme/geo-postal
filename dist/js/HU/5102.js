@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5102"]={"code":"5102","region":"Jasz-Nagykun-Szolnok","city":"Jaszbereny","latitude":47.5,"longitude":19.91667}}(window,'GeoPostal','HU');

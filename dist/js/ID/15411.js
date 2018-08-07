@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15411"]={"code":"15411","region":"Banten","city":"Cipayung","latitude":-6.2074,"longitude":106.0158}}(window,'GeoPostal','ID');

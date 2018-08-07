@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA14 9LS"]={"code":"BA14 9LS","region":"England","city":"Wingfield","latitude":51.30889,"longitude":-2.25278}}(window,'GeoPostal','GB');

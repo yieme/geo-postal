@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03420"]={"code":"03420","region":"Valenciana, Comunidad","city":"Castalla","latitude":38.59694,"longitude":-0.67207}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26474"]={"code":"26474","region":"Niedersachsen","city":"Spiekeroog","latitude":53.77012,"longitude":7.69481}}(window,'GeoPostal','DE');

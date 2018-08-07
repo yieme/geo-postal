@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["441500"]={"code":"441500","region":"Guangdong","city":"Shanwei","latitude":22.78199,"longitude":115.3475}}(window,'GeoPostal','CN');

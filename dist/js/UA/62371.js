@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62371"]={"code":"62371","region":"Kharkivska oblast","city":"Derhachi","latitude":50.10659,"longitude":36.12112}}(window,'GeoPostal','UA');

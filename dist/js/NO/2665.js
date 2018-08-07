@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2665"]={"code":"2665","region":"Oppland","city":"Lesja","latitude":62.11837,"longitude":8.86424}}(window,'GeoPostal','NO');

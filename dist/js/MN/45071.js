@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45071"]={"code":"45071","region":"Darhan uul","city":"Darhan","latitude":49.48667,"longitude":105.92278}}(window,'GeoPostal','MN');

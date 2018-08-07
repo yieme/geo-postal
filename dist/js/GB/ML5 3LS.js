@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML5 3LS"]={"code":"ML5 3LS","region":"Scotland","city":"Coatbridge","latitude":55.86216,"longitude":-4.02469}}(window,'GeoPostal','GB');

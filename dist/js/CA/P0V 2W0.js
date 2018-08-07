@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0V 2W0"]={"code":"P0V 2W0","region":"Ontario","city":"Wabigoon","latitude":49.71674,"longitude":-92.58361}}(window,'GeoPostal','CA');

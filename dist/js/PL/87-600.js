@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-600"]={"code":"87-600","region":"Kujawsko-pomorskie","city":"Lipno","latitude":52.84436,"longitude":19.17852}}(window,'GeoPostal','PL');

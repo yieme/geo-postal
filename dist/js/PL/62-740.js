@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-740"]={"code":"62-740","region":"Wielkopolskie","city":"Tuliszkow","latitude":52.07658,"longitude":18.29549}}(window,'GeoPostal','PL');

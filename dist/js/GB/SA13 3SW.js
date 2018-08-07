@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA13 3SW"]={"code":"SA13 3SW","region":"Wales","city":"Croeserw","latitude":51.64472,"longitude":-3.64028}}(window,'GeoPostal','GB');

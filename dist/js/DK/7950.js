@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7950"]={"code":"7950","region":"Nordjylland","city":"Nykobing Mors","latitude":56.79334,"longitude":8.85282}}(window,'GeoPostal','DK');

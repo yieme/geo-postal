@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4460"]={"code":"4460","region":"Basel-Landschaft","city":"Gelterkinden","latitude":47.46497,"longitude":7.85174}}(window,'GeoPostal','CH');

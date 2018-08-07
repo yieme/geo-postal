@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["373 71"]={"code":"373 71","region":"Jihocesky kraj","city":"Rudolfov","latitude":48.99339,"longitude":14.54179}}(window,'GeoPostal','CZ');

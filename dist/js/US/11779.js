@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11779"]={"code":"11779","region":"New York","city":"Ronkonkoma","latitude":40.81812,"longitude":-73.1208}}(window,'GeoPostal','US');

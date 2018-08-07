@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45180-000"]={"code":"45180-000","region":"Bahia","city":"Anage","latitude":-14.61222,"longitude":-41.13556}}(window,'GeoPostal','BR');

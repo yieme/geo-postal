@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03451"]={"code":"03451","region":"New Hampshire","city":"Hinsdale","latitude":42.78619,"longitude":-72.48648}}(window,'GeoPostal','US');

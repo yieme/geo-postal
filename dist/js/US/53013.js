@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53013"]={"code":"53013","region":"WI","city":"Cedar Grove","latitude":43.5751,"longitude":-87.8401}}(window,'GeoPostal','US');

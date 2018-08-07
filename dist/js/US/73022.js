@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73022"]={"code":"73022","region":"Oklahoma","city":"Concho","latitude":35.615556,"longitude":-97.994167}}(window,'GeoPostal','US');

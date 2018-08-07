@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5336"]={"code":"5336","region":"Namur","city":"Assesse","latitude":50.36934,"longitude":5.02204}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 1B0"]={"code":"J0B 1B0","region":"Quebec","city":"Austin","latitude":45.18339,"longitude":-72.2824}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33850"]={"code":"33850","region":"FL","city":"Lake Alfred","latitude":28.0895,"longitude":-81.7271}}(window,'GeoPostal','US');

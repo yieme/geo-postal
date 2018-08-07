@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00744"]={"code":"00744","region":"PR","city":"Rio Blanco","latitude":18.22,"longitude":-65.79}}(window,'GeoPostal','US');

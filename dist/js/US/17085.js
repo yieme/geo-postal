@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17085"]={"code":"17085","region":"PA","city":"Rexmont","latitude":40.2771,"longitude":-76.3857}}(window,'GeoPostal','US');

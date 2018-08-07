@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67840"]={"code":"67840","region":"Samsun","city":"Vezirkopru","latitude":41.14361,"longitude":35.45472}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83349"]={"code":"83349","region":"Idaho","city":"Richfield","latitude":43.051506,"longitude":-114.151424}}(window,'GeoPostal','US');

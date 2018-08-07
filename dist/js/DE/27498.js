@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27498"]={"code":"27498","region":"Schleswig-Holstein","city":"Helgoland","latitude":54.18143,"longitude":7.8863}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75023"]={"code":"75023","region":"Khersonska oblast","city":"Chornobayivka","latitude":46.69412,"longitude":32.55371}}(window,'GeoPostal','UA');

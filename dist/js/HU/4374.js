@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4374"]={"code":"4374","region":"Szabolcs-Szatmar-Bereg","city":"Encsencs","latitude":47.73333,"longitude":22.11667}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR29 3BH"]={"code":"NR29 3BH","region":"England","city":"Clippesby","latitude":52.67404,"longitude":1.59283}}(window,'GeoPostal','GB');

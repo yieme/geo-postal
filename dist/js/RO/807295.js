@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807295"]={"code":"807295","region":"Galati","city":"Suceveni","latitude":46.01222,"longitude":28.01806}}(window,'GeoPostal','RO');

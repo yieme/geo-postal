@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91052"]={"code":"91052","region":"Bayern","city":"Erlangen","latitude":49.59561,"longitude":10.99497}}(window,'GeoPostal','DE');

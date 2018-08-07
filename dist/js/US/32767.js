@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32767"]={"code":"32767","region":"FL","city":"Paisley","latitude":28.9993,"longitude":-81.503}}(window,'GeoPostal','US');

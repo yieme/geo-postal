@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49406"]={"code":"49406","region":"MI","city":"Douglas","latitude":42.6369,"longitude":-86.2022}}(window,'GeoPostal','US');

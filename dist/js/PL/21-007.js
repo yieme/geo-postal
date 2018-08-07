@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-007"]={"code":"21-007","region":"Lubelskie","city":"Melgiew","latitude":51.22519,"longitude":22.78414}}(window,'GeoPostal','PL');

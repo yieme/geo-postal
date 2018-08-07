@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30628"]={"code":"30628","region":"GA","city":"Colbert","latitude":34.0382,"longitude":-83.2191}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72583"]={"code":"72583","region":"AR","city":"Viola","latitude":36.3924,"longitude":-91.9932}}(window,'GeoPostal','US');

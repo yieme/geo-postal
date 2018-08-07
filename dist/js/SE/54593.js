@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54593"]={"code":"54593","region":"Vastra Gotalands lan","city":"Toereboda","latitude":58.70739,"longitude":14.12597}}(window,'GeoPostal','SE');

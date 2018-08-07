@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28204"]={"code":"28204","region":"Kirovohradska oblast","city":"Novhorodka","latitude":48.36506,"longitude":32.65785}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162002"]={"code":"162002","region":"Vologodskaya oblast'","city":"Gryazovets","latitude":58.88,"longitude":40.2525}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA22 0LB"]={"code":"LA22 0LB","region":"England","city":"Near Sawrey","latitude":54.35316,"longitude":-2.97271}}(window,'GeoPostal','GB');

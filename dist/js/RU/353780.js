@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353780"]={"code":"353780","region":"Krasnodarskiy kray","city":"Kalininskaya","latitude":45.4844,"longitude":38.66221}}(window,'GeoPostal','RU');

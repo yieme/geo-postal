@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-406"]={"code":"38-406","region":"Podkarpackie","city":"Odrzykon","latitude":49.74057,"longitude":21.74074}}(window,'GeoPostal','PL');

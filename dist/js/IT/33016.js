@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33016"]={"code":"33016","region":"Friuli-Venezia Giulia","city":"Pontebba","latitude":46.50722,"longitude":13.31139}}(window,'GeoPostal','IT');

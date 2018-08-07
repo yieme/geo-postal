@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41075"]={"code":"41075","region":"KY","city":"Fort Thomas","latitude":39.0786,"longitude":-84.4523}}(window,'GeoPostal','US');

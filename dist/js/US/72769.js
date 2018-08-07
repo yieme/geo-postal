@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72769"]={"code":"72769","region":"AR","city":"Summers","latitude":36.0138,"longitude":-94.5}}(window,'GeoPostal','US');

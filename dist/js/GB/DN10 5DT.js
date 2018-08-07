@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN10 5DT"]={"code":"DN10 5DT","region":"England","city":"Mattersey","latitude":53.39618,"longitude":-0.96493}}(window,'GeoPostal','GB');

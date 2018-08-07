@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82730"]={"code":"82730","region":"Wyoming","city":"Upton","latitude":44.0997,"longitude":-104.62802}}(window,'GeoPostal','US');

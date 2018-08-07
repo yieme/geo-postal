@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17067"]={"code":"17067","region":"Pennsylvania","city":"Myerstown","latitude":40.38138,"longitude":-76.3143}}(window,'GeoPostal','US');

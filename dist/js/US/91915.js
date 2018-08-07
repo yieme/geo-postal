@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91915"]={"code":"91915","region":"CA","city":"Chula Vista","latitude":32.6315,"longitude":-116.9408}}(window,'GeoPostal','US');

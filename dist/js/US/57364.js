@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57364"]={"code":"57364","region":"South Dakota","city":"New Holland","latitude":43.4355,"longitude":-98.6478}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50071"]={"code":"50071","region":"Iowa","city":"Dows","latitude":42.656105,"longitude":-93.503603}}(window,'GeoPostal','US');

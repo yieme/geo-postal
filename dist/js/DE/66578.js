@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66578"]={"code":"66578","region":"Saarland","city":"Schiffweiler","latitude":49.36667,"longitude":7.13333}}(window,'GeoPostal','DE');

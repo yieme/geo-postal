@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26083"]={"code":"26083","region":"Skane lan","city":"Vejbystrand","latitude":56.31778,"longitude":12.76722}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344511"]={"code":"344511","region":"Jiangxi","city":"Baishe","latitude":27.04042,"longitude":116.43682}}(window,'GeoPostal','CN');

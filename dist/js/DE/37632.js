@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37632"]={"code":"37632","region":"Niedersachsen","city":"Wickensen","latitude":51.92288,"longitude":9.65299}}(window,'GeoPostal','DE');

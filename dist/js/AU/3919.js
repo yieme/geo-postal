@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3919"]={"code":"3919","region":"Victoria","city":"Crib Point","latitude":-38.35,"longitude":145.2}}(window,'GeoPostal','AU');

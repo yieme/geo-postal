@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12857"]={"code":"12857","region":"NY","city":"Olmstedville","latitude":43.7799,"longitude":-73.9335}}(window,'GeoPostal','US');

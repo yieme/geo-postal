@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80477"]={"code":"80477","region":"Colorado","city":"Steamboat Springs","latitude":40.48498,"longitude":-106.83172}}(window,'GeoPostal','US');

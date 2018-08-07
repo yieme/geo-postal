@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54856"]={"code":"54856","region":"WI","city":"Mason","latitude":46.4399,"longitude":-91.1318}}(window,'GeoPostal','US');

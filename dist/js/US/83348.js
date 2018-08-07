@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83348"]={"code":"83348","region":"ID","city":"Picabo","latitude":43.3101,"longitude":-114.0861}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26320"]={"code":"26320","region":"West Virginia","city":"Alma","latitude":39.4197,"longitude":-80.8233}}(window,'GeoPostal','US');

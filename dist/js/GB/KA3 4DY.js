@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA3 4DY"]={"code":"KA3 4DY","region":"Scotland","city":"Lugton","latitude":55.74447,"longitude":-4.52956}}(window,'GeoPostal','GB');

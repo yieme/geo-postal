@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["120101"]={"code":"120101","region":"Ogun","city":"Ijebu-Ode","latitude":6.81609,"longitude":3.91588}}(window,'GeoPostal','NG');

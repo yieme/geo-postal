@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84091"]={"code":"84091","region":"Campania","city":"Battipaglia","latitude":40.61091,"longitude":14.98515}}(window,'GeoPostal','IT');

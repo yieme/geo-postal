@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25265"]={"code":"25265","region":"West Virginia","city":"New Haven","latitude":38.98647,"longitude":-81.97347}}(window,'GeoPostal','US');

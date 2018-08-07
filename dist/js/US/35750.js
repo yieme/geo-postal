@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35750"]={"code":"35750","region":"AL","city":"Hazel Green","latitude":34.9496,"longitude":-86.5935}}(window,'GeoPostal','US');

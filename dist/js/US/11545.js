@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11545"]={"code":"11545","region":"NY","city":"Glen Head","latitude":40.8281,"longitude":-73.6076}}(window,'GeoPostal','US');

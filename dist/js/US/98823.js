@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98823"]={"code":"98823","region":"Washington","city":"Ephrata","latitude":47.318139,"longitude":-119.545102}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90026"]={"code":"90026","region":"Sicilia","city":"Petralia Soprana","latitude":37.80055,"longitude":14.10756}}(window,'GeoPostal','IT');

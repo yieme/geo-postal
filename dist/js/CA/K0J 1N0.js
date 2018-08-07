@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0J 1N0"]={"code":"K0J 1N0","region":"Ontario","city":"Dacre","latitude":45.36681,"longitude":-76.96614}}(window,'GeoPostal','CA');

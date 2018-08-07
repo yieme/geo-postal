@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96027"]={"code":"96027","region":"California","city":"Etna","latitude":41.45722,"longitude":-122.89694}}(window,'GeoPostal','US');

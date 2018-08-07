@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39016"]={"code":"39016","region":"El Oued","city":"Reguiba","latitude":33.56391,"longitude":6.70326}}(window,'GeoPostal','DZ');

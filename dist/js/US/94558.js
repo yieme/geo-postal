@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94558"]={"code":"94558","region":"California","city":"Napa","latitude":38.29714,"longitude":-122.28553}}(window,'GeoPostal','US');

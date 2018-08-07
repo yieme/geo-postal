@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13778"]={"code":"13778","region":"NY","city":"Greene","latitude":42.3401,"longitude":-75.7342}}(window,'GeoPostal','US');

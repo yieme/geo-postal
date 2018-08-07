@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14879"]={"code":"14879","region":"NY","city":"Savona","latitude":42.3041,"longitude":-77.2083}}(window,'GeoPostal','US');

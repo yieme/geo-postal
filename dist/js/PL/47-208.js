@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-208"]={"code":"47-208","region":"Opolskie","city":"Kozle","latitude":50.3356,"longitude":18.14332}}(window,'GeoPostal','PL');

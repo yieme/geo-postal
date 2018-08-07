@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63936"]={"code":"63936","region":"Missouri","city":"Dudley","latitude":36.818334,"longitude":-90.134567}}(window,'GeoPostal','US');

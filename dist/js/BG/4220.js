@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4220"]={"code":"4220","region":"Plovdiv","city":"Krichim","latitude":42.05,"longitude":24.46667}}(window,'GeoPostal','BG');

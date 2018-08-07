@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25252"]={"code":"25252","region":"WV","city":"Le Roy","latitude":38.8888,"longitude":-81.5326}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13667"]={"code":"13667","region":"New York","city":"Norfolk","latitude":44.80089,"longitude":-74.99103}}(window,'GeoPostal','US');

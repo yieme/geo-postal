@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17320"]={"code":"17320","region":"PA","city":"Fairfield","latitude":39.7808,"longitude":-77.3619}}(window,'GeoPostal','US');

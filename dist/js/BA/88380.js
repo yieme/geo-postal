@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88380"]={"code":"88380","region":"Republika Srpska","city":"Ljubinje","latitude":42.95083,"longitude":18.08861}}(window,'GeoPostal','BA');

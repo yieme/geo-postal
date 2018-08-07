@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3546"]={"code":"3546","region":"Waikato","city":"Tairua","latitude":-37.01667,"longitude":175.85}}(window,'GeoPostal','NZ');

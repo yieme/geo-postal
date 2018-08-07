@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24400"]={"code":"24400","region":"Severnobanatski okrug","city":"Senta","latitude":45.9275,"longitude":20.07722}}(window,'GeoPostal','RS');

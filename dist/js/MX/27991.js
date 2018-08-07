@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27991"]={"code":"27991","region":"Chiapas","city":"Escuintla","latitude":15.33333,"longitude":-92.63333}}(window,'GeoPostal','MX');

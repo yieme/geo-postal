@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-070"]={"code":"21-070","region":"Lubelskie","city":"Cycow","latitude":51.29928,"longitude":23.14124}}(window,'GeoPostal','PL');

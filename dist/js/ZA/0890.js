@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0890"]={"code":"0890","region":"Limpopo","city":"Nkowakowa","latitude":-23.88782,"longitude":30.28708}}(window,'GeoPostal','ZA');

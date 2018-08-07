@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J3L 4N4"]={"code":"J3L 4N4","region":"Quebec","city":"Carignan","latitude":45.460254,"longitude":-73.316061}}(window,'GeoPostal','CA');

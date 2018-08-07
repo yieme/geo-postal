@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62502"]={"code":"62502","region":"L'Oriental","city":"Midar","latitude":34.94025,"longitude":-3.53311}}(window,'GeoPostal','MA');

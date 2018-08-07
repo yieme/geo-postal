@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3780-295"]={"code":"3780-295","region":"Aveiro","city":"Arcos","latitude":40.44779,"longitude":-8.44171}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21290"]={"code":"21290","region":"Pohjois-Pohjanmaa","city":"Rusko","latitude":65.04828,"longitude":25.53815}}(window,'GeoPostal','FI');

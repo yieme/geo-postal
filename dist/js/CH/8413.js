@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8413"]={"code":"8413","region":"Zurich","city":"Neftenbach / Dorf Neftenbach","latitude":47.52764,"longitude":8.6649}}(window,'GeoPostal','CH');

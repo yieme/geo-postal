@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2320"]={"code":"2320","region":"Niederosterreich","city":"Schwechat","latitude":48.13333,"longitude":16.46667}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087115"]={"code":"087115","region":"Giurgiu","city":"Gradinari","latitude":44.39222,"longitude":25.81556}}(window,'GeoPostal','RO');

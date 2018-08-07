@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR2 5QX"]={"code":"TR2 5QX","region":"England","city":"Portloe","latitude":50.21876,"longitude":-4.89254}}(window,'GeoPostal','GB');

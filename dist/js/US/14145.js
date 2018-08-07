@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14145"]={"code":"14145","region":"NY","city":"Strykersville","latitude":42.7249,"longitude":-78.4347}}(window,'GeoPostal','US');

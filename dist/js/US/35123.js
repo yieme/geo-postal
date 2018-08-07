@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35123"]={"code":"35123","region":"AL","city":"Palmerdale","latitude":33.7387,"longitude":-86.6461}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95026"]={"code":"95026","region":"CA","city":"Holy City","latitude":37.1584,"longitude":-121.986}}(window,'GeoPostal','US');

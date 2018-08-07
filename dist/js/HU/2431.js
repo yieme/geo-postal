@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2431"]={"code":"2431","region":"Fejer","city":"Perkata","latitude":47.04701,"longitude":18.78734}}(window,'GeoPostal','HU');

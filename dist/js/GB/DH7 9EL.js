@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH7 9EL"]={"code":"DH7 9EL","region":"England","city":"Cornsay","latitude":54.78655,"longitude":-1.77605}}(window,'GeoPostal','GB');

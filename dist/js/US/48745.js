@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48745"]={"code":"48745","region":"Michigan","city":"Mikado","latitude":44.56389,"longitude":-83.52917}}(window,'GeoPostal','US');

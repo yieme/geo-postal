@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45103"]={"code":"45103","region":"Ohio","city":"Batavia","latitude":39.07701,"longitude":-84.17688}}(window,'GeoPostal','US');

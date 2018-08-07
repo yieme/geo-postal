@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45130"]={"code":"45130","region":"Centre-Val de Loire","city":"Baule","latitude":47.81084,"longitude":1.67259}}(window,'GeoPostal','FR');

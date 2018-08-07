@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62365"]={"code":"62365","region":"IL","city":"Plainville","latitude":39.8004,"longitude":-91.1436}}(window,'GeoPostal','US');

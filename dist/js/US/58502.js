@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58502"]={"code":"58502","region":"North Dakota","city":"Mandan","latitude":46.84947,"longitude":-100.71779}}(window,'GeoPostal','US');

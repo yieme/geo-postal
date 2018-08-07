@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56356"]={"code":"56356","region":"Minnesota","city":"New Munich","latitude":45.62861,"longitude":-94.75333}}(window,'GeoPostal','US');

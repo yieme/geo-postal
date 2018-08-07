@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44560"]={"code":"44560","region":"Pays-de-la-Loire","city":"Paimboeuf","latitude":47.28654,"longitude":-2.03048}}(window,'GeoPostal','FR');

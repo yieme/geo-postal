@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 2J0"]={"code":"T0H 2J0","region":"Alberta","city":"Buffalo Lake","latitude":55.38327,"longitude":-119.01944}}(window,'GeoPostal','CA');

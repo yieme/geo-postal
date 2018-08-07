@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152123"]={"code":"152123","region":"Punjab","city":"Fazilka","latitude":30.4,"longitude":74.03333}}(window,'GeoPostal','IN');

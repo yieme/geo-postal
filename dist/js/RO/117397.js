@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117397"]={"code":"117397","region":"Harghita","city":"Dealu","latitude":46.4,"longitude":25.3}}(window,'GeoPostal','RO');

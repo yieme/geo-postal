@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48500-000"]={"code":"48500-000","region":"Bahia","city":"Euclides da Cunha","latitude":-10.5075,"longitude":-39.01583}}(window,'GeoPostal','BR');

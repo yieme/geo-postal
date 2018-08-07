@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59921"]={"code":"59921","region":"Montana","city":"West Glacier","latitude":48.5,"longitude":-113.97861}}(window,'GeoPostal','US');

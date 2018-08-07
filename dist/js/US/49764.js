@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49764"]={"code":"49764","region":"Michigan","city":"Oden","latitude":45.422738,"longitude":-84.826651}}(window,'GeoPostal','US');

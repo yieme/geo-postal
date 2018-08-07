@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69680-000"]={"code":"69680-000","region":"Amazonas","city":"Sao Paulo de Olivenca","latitude":-3.37833,"longitude":-68.8725}}(window,'GeoPostal','BR');

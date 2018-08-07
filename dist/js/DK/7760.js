@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7760"]={"code":"7760","region":"Nordjylland","city":"Hurup","latitude":56.74944,"longitude":8.41952}}(window,'GeoPostal','DK');

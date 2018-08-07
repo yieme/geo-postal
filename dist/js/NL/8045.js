@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8045"]={"code":"8045","region":"Overijssel","city":"Zwolle","latitude":52.5125,"longitude":6.09444}}(window,'GeoPostal','NL');

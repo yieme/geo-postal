@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30104"]={"code":"30104","region":"Khmelnytska oblast","city":"Netishyn","latitude":50.34004,"longitude":26.64171}}(window,'GeoPostal','UA');

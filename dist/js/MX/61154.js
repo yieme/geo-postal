@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61154"]={"code":"61154","region":"Michoacan de Ocampo","city":"Ciudad Hidalgo","latitude":19.68333,"longitude":-100.56667}}(window,'GeoPostal','MX');

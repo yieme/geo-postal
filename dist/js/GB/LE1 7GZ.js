@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE1 7GZ"]={"code":"LE1 7GZ","region":"England","city":"Leicester","latitude":52.6386,"longitude":-1.13169}}(window,'GeoPostal','GB');

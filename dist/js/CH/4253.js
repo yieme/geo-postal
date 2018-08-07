@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4253"]={"code":"4253","region":"Basel-Landschaft","city":"Liesberg","latitude":47.40398,"longitude":7.42787}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58011"]={"code":"58011","region":"Toscana","city":"Capalbio","latitude":42.45342,"longitude":11.42175}}(window,'GeoPostal','IT');

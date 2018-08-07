@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22652"]={"code":"22652","region":"VA","city":"Fort Valley","latitude":38.8407,"longitude":-78.4276}}(window,'GeoPostal','US');

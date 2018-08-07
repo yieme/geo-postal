@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249929"]={"code":"249929","region":"Kaluzhskaya oblast'","city":"Yukhnov","latitude":54.74444,"longitude":35.22972}}(window,'GeoPostal','RU');

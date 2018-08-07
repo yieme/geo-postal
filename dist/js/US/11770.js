@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11770"]={"code":"11770","region":"NY","city":"Ocean Beach","latitude":40.6443,"longitude":-73.1613}}(window,'GeoPostal','US');

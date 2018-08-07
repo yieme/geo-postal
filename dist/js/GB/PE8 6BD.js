@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE8 6BD"]={"code":"PE8 6BD","region":"England","city":"Wittering","latitude":52.60972,"longitude":-0.44151}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO22 5EW"]={"code":"YO22 5EW","region":"England","city":"Aislaby","latitude":54.45,"longitude":-0.66667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55335"]={"code":"55335","region":"Minnesota","city":"Gibbon","latitude":44.533333,"longitude":-94.52417}}(window,'GeoPostal','US');

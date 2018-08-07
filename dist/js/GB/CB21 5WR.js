@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB21 5WR"]={"code":"CB21 5WR","region":"England","city":"Balsham","latitude":52.13238,"longitude":0.31586}}(window,'GeoPostal','GB');

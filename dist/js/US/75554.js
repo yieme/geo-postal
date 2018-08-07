@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75554"]={"code":"75554","region":"Texas","city":"Avery","latitude":33.55361,"longitude":-94.78028}}(window,'GeoPostal','US');

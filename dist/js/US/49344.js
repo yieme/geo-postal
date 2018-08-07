@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49344"]={"code":"49344","region":"MI","city":"Shelbyville","latitude":42.5936,"longitude":-85.6282}}(window,'GeoPostal','US');

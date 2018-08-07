@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19487"]={"code":"19487","region":"PA","city":"Kng Of Prussa","latitude":40.1,"longitude":-75.47}}(window,'GeoPostal','US');

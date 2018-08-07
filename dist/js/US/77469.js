@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77469"]={"code":"77469","region":"Texas","city":"Rosenberg","latitude":29.55718,"longitude":-95.80856}}(window,'GeoPostal','US');

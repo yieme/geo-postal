@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14603"]={"code":"14603","region":"Normandie","city":"Honfleur","latitude":49.41985,"longitude":0.23294}}(window,'GeoPostal','FR');

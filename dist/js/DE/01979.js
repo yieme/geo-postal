@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01979"]={"code":"01979","region":"Brandenburg","city":"Lauchhammer","latitude":51.48813,"longitude":13.76623}}(window,'GeoPostal','DE');

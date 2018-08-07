@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["625"]={"code":"625","region":"Nordurland eystra","city":"Dalvik","latitude":65.97018,"longitude":-18.52861}}(window,'GeoPostal','IS');

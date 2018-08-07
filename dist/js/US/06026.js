@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06026"]={"code":"06026","region":"Connecticut","city":"East Granby","latitude":41.932225,"longitude":-72.745989}}(window,'GeoPostal','US');

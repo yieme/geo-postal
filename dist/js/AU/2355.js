@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2355"]={"code":"2355","region":"New South Wales","city":"Watsons Creek","latitude":-30.73333,"longitude":151.05}}(window,'GeoPostal','AU');

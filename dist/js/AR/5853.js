@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5853"]={"code":"5853","region":"Cordoba","city":"Corralito","latitude":-32.02462,"longitude":-64.19216}}(window,'GeoPostal','AR');

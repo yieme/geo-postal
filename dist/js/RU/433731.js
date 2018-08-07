@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433731"]={"code":"433731","region":"Ul'yanovskaya oblast'","city":"Zhadovka","latitude":53.57464,"longitude":46.94985}}(window,'GeoPostal','RU');

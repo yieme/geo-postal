@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["384375"]={"code":"384375","region":"Gujarat","city":"Visnagar","latitude":23.7,"longitude":72.55}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40387"]={"code":"40387","region":"Kentucky","city":"Wellington","latitude":37.981043,"longitude":-83.473053}}(window,'GeoPostal','US');

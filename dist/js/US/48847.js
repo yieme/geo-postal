@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48847"]={"code":"48847","region":"Michigan","city":"Ithaca","latitude":43.273537,"longitude":-84.591088}}(window,'GeoPostal','US');

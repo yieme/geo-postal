@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46922"]={"code":"46922","region":"IN","city":"Delong","latitude":41.1384,"longitude":-86.4164}}(window,'GeoPostal','US');

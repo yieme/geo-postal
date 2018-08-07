@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["040000"]={"code":"040000","region":"Ongtustik Qazaqstan oblysy","city":"Shymkent","latitude":42.3,"longitude":69.6}}(window,'GeoPostal','KZ');

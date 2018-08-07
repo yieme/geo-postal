@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA14 4QE"]={"code":"WA14 4QE","region":"Scotland","city":"Bowden","latitude":55.55,"longitude":-2.71667}}(window,'GeoPostal','GB');

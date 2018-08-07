@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82177"]={"code":"82177","region":"Lvivska oblast","city":"Ulichnoye","latitude":49.23385,"longitude":23.65111}}(window,'GeoPostal','UA');

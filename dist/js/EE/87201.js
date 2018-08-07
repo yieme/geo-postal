@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87201"]={"code":"87201","region":"Parnumaa","city":"Parnu-Jaagupi","latitude":58.61052,"longitude":24.50689}}(window,'GeoPostal','EE');

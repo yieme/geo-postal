@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44472"]={"code":"44472","region":"Pays-de-la-Loire","city":"Carquefou","latitude":47.29822,"longitude":-1.49024}}(window,'GeoPostal','FR');

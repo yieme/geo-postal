@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K6H 7J6"]={"code":"K6H 7J6","region":"Ontario","city":"Cornwall","latitude":45.048959,"longitude":-74.6121}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8026"]={"code":"8026","region":"Nabeul","city":"Beni Khiar","latitude":36.46917,"longitude":10.78222}}(window,'GeoPostal','TN');

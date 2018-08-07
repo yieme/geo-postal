@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27397"]={"code":"27397","region":"Skane lan","city":"Tomelilla","latitude":55.54293,"longitude":13.9546}}(window,'GeoPostal','SE');

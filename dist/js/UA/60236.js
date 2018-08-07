@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60236"]={"code":"60236","region":"Chernivetska oblast","city":"Chernivtsi","latitude":48.29149,"longitude":25.94034}}(window,'GeoPostal','UA');

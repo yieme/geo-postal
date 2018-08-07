@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68750-000"]={"code":"68750-000","region":"Para","city":"Curuca","latitude":-0.72889,"longitude":-47.84806}}(window,'GeoPostal','BR');

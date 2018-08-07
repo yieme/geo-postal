@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79699"]={"code":"79699","region":"Dalarnas lan","city":"AElvdalen","latitude":61.22774,"longitude":14.03935}}(window,'GeoPostal','SE');

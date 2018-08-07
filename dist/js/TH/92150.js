@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92150"]={"code":"92150","region":"Trang","city":"Sikao","latitude":7.57158,"longitude":99.34494}}(window,'GeoPostal','TH');

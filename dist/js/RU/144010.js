@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144010"]={"code":"144010","region":"Moskovskaya oblast'","city":"Elektrostal'","latitude":55.78959,"longitude":38.44671}}(window,'GeoPostal','RU');

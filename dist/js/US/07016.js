@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07016"]={"code":"07016","region":"New Jersey","city":"Cranford","latitude":40.655696,"longitude":-74.305508}}(window,'GeoPostal','US');

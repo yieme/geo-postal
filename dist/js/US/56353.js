@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56353"]={"code":"56353","region":"Minnesota","city":"Milaca","latitude":45.7558,"longitude":-93.65441}}(window,'GeoPostal','US');

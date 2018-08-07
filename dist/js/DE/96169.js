@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96169"]={"code":"96169","region":"Bayern","city":"Deusdorf","latitude":49.98208,"longitude":10.77034}}(window,'GeoPostal','DE');

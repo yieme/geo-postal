@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 1A0"]={"code":"T0A 1A0","region":"Alberta","city":"Elk Point","latitude":53.90017,"longitude":-110.9017}}(window,'GeoPostal','CA');

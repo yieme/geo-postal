@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11321"]={"code":"11321","region":"Podunavski okrug","city":"Lugavcina","latitude":44.51889,"longitude":21.06833}}(window,'GeoPostal','RS');

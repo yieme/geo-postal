@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE16 4PD"]={"code":"NE16 4PD","region":"England","city":"Whickham","latitude":54.94561,"longitude":-1.67635}}(window,'GeoPostal','GB');

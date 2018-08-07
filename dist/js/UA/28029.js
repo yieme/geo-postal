@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28029"]={"code":"28029","region":"Kirovohradska oblast","city":"Pryyutivka","latitude":48.72094,"longitude":33.07078}}(window,'GeoPostal','UA');

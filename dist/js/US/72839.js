@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72839"]={"code":"72839","region":"AR","city":"Hagarville","latitude":35.6155,"longitude":-93.2726}}(window,'GeoPostal','US');

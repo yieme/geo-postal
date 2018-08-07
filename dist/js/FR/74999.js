@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74999"]={"code":"74999","region":"Auvergne-Rhone-Alpes","city":"Annecy","latitude":45.9,"longitude":6.11667}}(window,'GeoPostal','FR');

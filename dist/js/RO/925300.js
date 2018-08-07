@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["925300"]={"code":"925300","region":"Ialomita","city":"Urziceni","latitude":44.71667,"longitude":26.63333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14113"]={"code":"14113","region":"New York","city":"North Java","latitude":42.672871,"longitude":-78.336752}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26611"]={"code":"26611","region":"WV","city":"Cedarville","latitude":38.8451,"longitude":-80.8323}}(window,'GeoPostal','US');

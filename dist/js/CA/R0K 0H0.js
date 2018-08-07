@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0K 0H0"]={"code":"R0K 0H0","region":"Manitoba","city":"Carberry","latitude":49.86893,"longitude":-99.36021}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37688"]={"code":"37688","region":"TN","city":"Shady Valley","latitude":36.5272,"longitude":-81.9068}}(window,'GeoPostal','US');

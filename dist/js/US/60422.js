@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60422"]={"code":"60422","region":"Illinois","city":"Homewood","latitude":41.55726,"longitude":-87.6656}}(window,'GeoPostal','US');

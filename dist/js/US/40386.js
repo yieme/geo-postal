@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40386"]={"code":"40386","region":"KY","city":"Grolier Books","latitude":38.02,"longitude":-84.74}}(window,'GeoPostal','US');

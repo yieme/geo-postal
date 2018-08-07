@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54121"]={"code":"54121","region":"Wisconsin","city":"Florence","latitude":45.92218,"longitude":-88.2518}}(window,'GeoPostal','US');

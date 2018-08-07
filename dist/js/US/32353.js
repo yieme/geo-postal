@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32353"]={"code":"32353","region":"FL","city":"Quincy","latitude":30.5497,"longitude":-84.6069}}(window,'GeoPostal','US');

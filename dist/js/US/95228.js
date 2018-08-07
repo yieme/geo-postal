@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95228"]={"code":"95228","region":"California","city":"Copperopolis","latitude":37.960093,"longitude":-120.640185}}(window,'GeoPostal','US');

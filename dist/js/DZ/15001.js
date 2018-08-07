@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15001"]={"code":"15001","region":"Tizi Ouzou","city":"Azazga","latitude":36.74472,"longitude":4.37222}}(window,'GeoPostal','DZ');

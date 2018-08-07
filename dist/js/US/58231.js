@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58231"]={"code":"58231","region":"North Dakota","city":"Fordville","latitude":48.2384,"longitude":-97.838255}}(window,'GeoPostal','US');

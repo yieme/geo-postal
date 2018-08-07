@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98673"]={"code":"98673","region":"Thuringen","city":"Crock","latitude":50.45187,"longitude":10.88709}}(window,'GeoPostal','DE');

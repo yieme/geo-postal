@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-220"]={"code":"37-220","region":"Podkarpackie","city":"Kanczuga","latitude":49.98346,"longitude":22.41168}}(window,'GeoPostal','PL');

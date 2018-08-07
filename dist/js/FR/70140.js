@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70140"]={"code":"70140","region":"Bourgogne-Franche-Comte","city":"Pesmes","latitude":47.28008,"longitude":5.56698}}(window,'GeoPostal','FR');

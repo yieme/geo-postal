@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19323"]={"code":"19323","region":"Castilla-La Mancha","city":"Tordesilos","latitude":40.67074,"longitude":-1.59372}}(window,'GeoPostal','ES');

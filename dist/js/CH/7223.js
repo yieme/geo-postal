@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7223"]={"code":"7223","region":"Graubunden","city":"Jenaz","latitude":46.92892,"longitude":9.71275}}(window,'GeoPostal','CH');

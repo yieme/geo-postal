@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13480-000"]={"code":"13480-000","region":"Sao Paulo","city":"Limeira","latitude":-22.56472,"longitude":-47.40167}}(window,'GeoPostal','BR');

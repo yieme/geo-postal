@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93420"]={"code":"93420","region":"California","city":"Arroyo Grande","latitude":35.11859,"longitude":-120.59073}}(window,'GeoPostal','US');

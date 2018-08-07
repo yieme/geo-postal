@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18927"]={"code":"18927","region":"PA","city":"Hilltown","latitude":40.3235,"longitude":-75.2548}}(window,'GeoPostal','US');

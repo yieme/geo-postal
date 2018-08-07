@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85331"]={"code":"85331","region":"Arizona","city":"Cave Creek","latitude":33.8204,"longitude":-111.9521}}(window,'GeoPostal','US');

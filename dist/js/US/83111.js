@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83111"]={"code":"83111","region":"WY","city":"Auburn","latitude":42.8051,"longitude":-110.9944}}(window,'GeoPostal','US');

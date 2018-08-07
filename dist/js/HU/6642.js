@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6642"]={"code":"6642","region":"Csongrad","city":"Csongrad","latitude":46.71332,"longitude":20.14242}}(window,'GeoPostal','HU');

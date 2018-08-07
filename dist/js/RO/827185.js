@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827185"]={"code":"827185","region":"Constanta","city":"Peceneaga","latitude":45.01667,"longitude":28.13333}}(window,'GeoPostal','RO');

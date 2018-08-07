@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28640"]={"code":"28640","region":"North Carolina","city":"Jefferson","latitude":36.4204,"longitude":-81.47344}}(window,'GeoPostal','US');

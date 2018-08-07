@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59113"]={"code":"59113","region":"Jawa Tengah","city":"Gemiring","latitude":-6.7531,"longitude":111.0155}}(window,'GeoPostal','ID');

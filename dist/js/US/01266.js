@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01266"]={"code":"01266","region":"MA","city":"West Stockbridge","latitude":42.3348,"longitude":-73.3825}}(window,'GeoPostal','US');

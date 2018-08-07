@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15946"]={"code":"15946","region":"PA","city":"Portage","latitude":40.3724,"longitude":-78.6328}}(window,'GeoPostal','US');

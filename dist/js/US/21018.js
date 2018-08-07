@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21018"]={"code":"21018","region":"MD","city":"Benson","latitude":39.5093,"longitude":-76.3851}}(window,'GeoPostal','US');

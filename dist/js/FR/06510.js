@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06510"]={"code":"06510","region":"Provence-Alpes-Cote d'Azur","city":"Le Broc","latitude":43.80843,"longitude":7.16928}}(window,'GeoPostal','FR');

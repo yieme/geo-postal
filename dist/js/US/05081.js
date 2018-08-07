@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05081"]={"code":"05081","region":"Vermont","city":"Wells River","latitude":44.1576,"longitude":-72.0696}}(window,'GeoPostal','US');

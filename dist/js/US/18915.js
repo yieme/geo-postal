@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18915"]={"code":"18915","region":"Pennsylvania","city":"Colmar","latitude":40.260031,"longitude":-75.247636}}(window,'GeoPostal','US');

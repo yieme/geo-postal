@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62124"]={"code":"62124","region":"Hauts-de-France","city":"Bertincourt","latitude":50.0864,"longitude":2.9811}}(window,'GeoPostal','FR');

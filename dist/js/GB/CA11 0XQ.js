@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA11 0XQ"]={"code":"CA11 0XQ","region":"England","city":"Mosedale","latitude":54.68141,"longitude":-2.99869}}(window,'GeoPostal','GB');

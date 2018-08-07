@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76228"]={"code":"76228","region":"Texas","city":"Bellevue","latitude":33.591831,"longitude":-98.16779}}(window,'GeoPostal','US');

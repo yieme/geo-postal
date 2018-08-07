@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61244"]={"code":"61244","region":"Illinois","city":"East Moline","latitude":41.513774,"longitude":-90.420564}}(window,'GeoPostal','US');

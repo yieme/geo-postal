@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GDJ 9035"]={"code":"GDJ 9035","region":"Gudja","city":"Gudja","latitude":35.84917,"longitude":14.50306}}(window,'GeoPostal','MT');

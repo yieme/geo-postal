@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31004"]={"code":"31004","region":"Fes-Boulemane","city":"Tazouta","latitude":33.66991,"longitude":-4.63392}}(window,'GeoPostal','MA');

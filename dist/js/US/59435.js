@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59435"]={"code":"59435","region":"MT","city":"Ethridge","latitude":48.5578,"longitude":-112.1206}}(window,'GeoPostal','US');

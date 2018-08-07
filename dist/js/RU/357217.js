@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357217"]={"code":"357217","region":"Stavropol'skiy kray","city":"Andzhiyevskiy","latitude":44.23889,"longitude":43.08556}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO18 9DN"]={"code":"PO18 9DN","region":"England","city":"Asdean","latitude":50.87756,"longitude":-0.87002}}(window,'GeoPostal','GB');

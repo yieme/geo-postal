@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28312"]={"code":"28312","region":"Kirovohradska oblast","city":"Novyy Starodub","latitude":48.5158,"longitude":33.17329}}(window,'GeoPostal','UA');

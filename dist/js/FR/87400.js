@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87400"]={"code":"87400","region":"Nouvelle-Aquitaine","city":"Saint-Leonard-de-Noblat","latitude":45.83566,"longitude":1.49174}}(window,'GeoPostal','FR');

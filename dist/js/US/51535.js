@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51535"]={"code":"51535","region":"Iowa","city":"Griswold","latitude":41.236059,"longitude":-95.140039}}(window,'GeoPostal','US');

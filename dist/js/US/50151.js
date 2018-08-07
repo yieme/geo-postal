@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50151"]={"code":"50151","region":"IA","city":"Lucas","latitude":41.0585,"longitude":-93.4836}}(window,'GeoPostal','US');

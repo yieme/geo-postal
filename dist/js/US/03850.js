@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03850"]={"code":"03850","region":"NH","city":"Melvin Village","latitude":43.7077,"longitude":-71.3017}}(window,'GeoPostal','US');

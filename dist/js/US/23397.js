@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23397"]={"code":"23397","region":"VA","city":"Isle Of Wight","latitude":36.8989,"longitude":-76.6877}}(window,'GeoPostal','US');

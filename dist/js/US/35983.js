@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35983"]={"code":"35983","region":"AL","city":"Leesburg","latitude":34.1911,"longitude":-85.7705}}(window,'GeoPostal','US');

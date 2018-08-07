@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94516"]={"code":"94516","region":"CA","city":"Canyon","latitude":37.8339,"longitude":-122.165}}(window,'GeoPostal','US');

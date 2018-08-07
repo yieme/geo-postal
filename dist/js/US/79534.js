@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79534"]={"code":"79534","region":"TX","city":"Mc Caulley","latitude":32.7787,"longitude":-100.2168}}(window,'GeoPostal','US');

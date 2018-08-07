@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-394"]={"code":"43-394","region":"Slaskie","city":"Mazancowice","latitude":49.85802,"longitude":18.97708}}(window,'GeoPostal','PL');

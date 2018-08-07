@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59063"]={"code":"59063","region":"MT","city":"Park City","latitude":45.6329,"longitude":-108.9293}}(window,'GeoPostal','US');

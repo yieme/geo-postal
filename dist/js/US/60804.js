@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60804"]={"code":"60804","region":"Illinois","city":"Cicero","latitude":41.84435,"longitude":-87.759852}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46543"]={"code":"46543","region":"IN","city":"Millersburg","latitude":41.5335,"longitude":-85.7072}}(window,'GeoPostal','US');

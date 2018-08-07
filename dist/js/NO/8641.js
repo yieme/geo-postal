@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8641"]={"code":"8641","region":"Nordland","city":"Hemnesberget","latitude":66.23333,"longitude":13.63333}}(window,'GeoPostal','NO');

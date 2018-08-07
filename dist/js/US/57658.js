@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57658"]={"code":"57658","region":"SD","city":"Wakpala","latitude":45.7006,"longitude":-100.5332}}(window,'GeoPostal','US');

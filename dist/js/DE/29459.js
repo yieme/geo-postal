@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29459"]={"code":"29459","region":"Niedersachsen","city":"Mutzen","latitude":52.94052,"longitude":10.93801}}(window,'GeoPostal','DE');

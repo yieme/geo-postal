@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2254"]={"code":"2254","region":"Pest","city":"Forropuszta","latitude":47.45504,"longitude":19.66}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62300"]={"code":"62300","region":"Etela-Pohjanmaa","city":"Alaharma","latitude":63.23333,"longitude":22.85}}(window,'GeoPostal','FI');

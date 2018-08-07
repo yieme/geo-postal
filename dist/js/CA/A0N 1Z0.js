@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0N 1Z0"]={"code":"A0N 1Z0","region":"Newfoundland and Labrador","city":"St. George's","latitude":48.43331,"longitude":-58.48181}}(window,'GeoPostal','CA');

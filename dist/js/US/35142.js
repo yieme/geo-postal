@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35142"]={"code":"35142","region":"AL","city":"Shannon","latitude":33.4069,"longitude":-86.8735}}(window,'GeoPostal','US');

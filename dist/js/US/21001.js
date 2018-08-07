@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21001"]={"code":"21001","region":"Maryland","city":"Aberdeen","latitude":39.50956,"longitude":-76.16412}}(window,'GeoPostal','US');

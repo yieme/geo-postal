@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19114"]={"code":"19114","region":"Pennsylvania","city":"Torresdale","latitude":40.0557,"longitude":-74.9997}}(window,'GeoPostal','US');

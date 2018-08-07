@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 9JT"]={"code":"HS2 9JT","region":"Scotland","city":"Lochs","latitude":58.1,"longitude":-6.48333}}(window,'GeoPostal','GB');

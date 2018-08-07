@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA32 7ET"]={"code":"SA32 7ET","region":"Wales","city":"Capel Gwyn","latitude":51.87944,"longitude":-4.23111}}(window,'GeoPostal','GB');

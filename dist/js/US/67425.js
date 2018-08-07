@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67425"]={"code":"67425","region":"KS","city":"Brookville","latitude":38.7858,"longitude":-97.863}}(window,'GeoPostal','US');

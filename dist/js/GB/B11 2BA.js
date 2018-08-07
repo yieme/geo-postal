@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B11 2BA"]={"code":"B11 2BA","region":"England","city":"Tyseley","latitude":52.45349,"longitude":-1.83877}}(window,'GeoPostal','GB');

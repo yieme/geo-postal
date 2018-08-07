@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB41 8LB"]={"code":"AB41 8LB","region":"Scotland","city":"Pitlurg","latitude":57.38333,"longitude":-1.95}}(window,'GeoPostal','GB');

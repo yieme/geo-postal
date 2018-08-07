@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52411"]={"code":"52411","region":"Dnipropetrovska oblast","city":"Sursko-Mikhaylovka","latitude":48.27202,"longitude":34.72759}}(window,'GeoPostal','UA');

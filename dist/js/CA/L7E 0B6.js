@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7E 0B6"]={"code":"L7E 0B6","region":"Ontario","city":"Cedar Mills","latitude":43.91681,"longitude":-79.79964}}(window,'GeoPostal','CA');

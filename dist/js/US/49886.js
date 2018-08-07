@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49886"]={"code":"49886","region":"MI","city":"Spalding","latitude":45.6958,"longitude":-87.511}}(window,'GeoPostal','US');

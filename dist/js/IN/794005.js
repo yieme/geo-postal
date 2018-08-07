@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["794005"]={"code":"794005","region":"Meghalaya","city":"Tura","latitude":25.51983,"longitude":90.22007}}(window,'GeoPostal','IN');

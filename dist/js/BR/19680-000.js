@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19680-000"]={"code":"19680-000","region":"Sao Paulo","city":"Rancharia","latitude":-22.22917,"longitude":-50.89306}}(window,'GeoPostal','BR');

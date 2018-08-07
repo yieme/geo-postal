@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25130"]={"code":"25130","region":"Prachin Buri","city":"Prachamtakham","latitude":14.06442,"longitude":101.51503}}(window,'GeoPostal','TH');

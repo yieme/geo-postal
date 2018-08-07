@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45335"]={"code":"45335","region":"OH","city":"Jamestown","latitude":39.6428,"longitude":-83.7504}}(window,'GeoPostal','US');

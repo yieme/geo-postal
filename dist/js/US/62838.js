@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62838"]={"code":"62838","region":"Illinois","city":"Farina","latitude":38.83306,"longitude":-88.77583}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML12 6RJ"]={"code":"ML12 6RJ","region":"Scotland","city":"Thankerton","latitude":55.62631,"longitude":-3.63289}}(window,'GeoPostal','GB');

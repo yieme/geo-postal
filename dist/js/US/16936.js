@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16936"]={"code":"16936","region":"Pennsylvania","city":"Millerton","latitude":41.983333,"longitude":-76.93861}}(window,'GeoPostal','US');

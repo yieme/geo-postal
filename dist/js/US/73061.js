@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73061"]={"code":"73061","region":"Oklahoma","city":"Morrison","latitude":36.297392,"longitude":-97.008789}}(window,'GeoPostal','US');

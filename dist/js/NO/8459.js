@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8459"]={"code":"8459","region":"Nordland","city":"Melbu","latitude":68.50444,"longitude":14.82972}}(window,'GeoPostal','NO');

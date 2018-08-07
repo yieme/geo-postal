@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15838"]={"code":"15838","region":"Brandenburg","city":"Wunsdorf","latitude":52.16428,"longitude":13.47222}}(window,'GeoPostal','DE');

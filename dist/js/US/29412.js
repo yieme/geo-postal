@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29412"]={"code":"29412","region":"South Carolina","city":"Charleston","latitude":32.71926,"longitude":-79.95108}}(window,'GeoPostal','US');

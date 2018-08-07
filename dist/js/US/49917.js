@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49917"]={"code":"49917","region":"Michigan","city":"Copper City","latitude":47.284012,"longitude":-88.385916}}(window,'GeoPostal','US');

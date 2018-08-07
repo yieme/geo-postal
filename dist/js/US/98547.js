@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98547"]={"code":"98547","region":"Washington","city":"Grayland","latitude":46.744915,"longitude":-124.08415}}(window,'GeoPostal','US');

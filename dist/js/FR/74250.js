@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74250"]={"code":"74250","region":"Auvergne-Rhone-Alpes","city":"Peillonnex","latitude":46.13215,"longitude":6.3758}}(window,'GeoPostal','FR');

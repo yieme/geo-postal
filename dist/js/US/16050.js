@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16050"]={"code":"16050","region":"PA","city":"Petrolia","latitude":41.0442,"longitude":-79.7711}}(window,'GeoPostal','US');

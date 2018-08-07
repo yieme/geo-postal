@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35651"]={"code":"35651","region":"AL","city":"Mount Hope","latitude":34.4793,"longitude":-87.4769}}(window,'GeoPostal','US');

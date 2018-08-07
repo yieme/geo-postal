@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53757"]={"code":"53757","region":"Nordrhein-Westfalen","city":"Sankt Augustin","latitude":50.77538,"longitude":7.197}}(window,'GeoPostal','DE');

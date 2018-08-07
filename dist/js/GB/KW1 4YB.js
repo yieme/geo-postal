@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW1 4YB"]={"code":"KW1 4YB","region":"Scotland","city":"Gills","latitude":58.63812,"longitude":-3.16994}}(window,'GeoPostal','GB');

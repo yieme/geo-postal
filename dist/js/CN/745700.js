@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["745700"]={"code":"745700","region":"Gansu","city":"Huancheng","latitude":36.57561,"longitude":107.29596}}(window,'GeoPostal','CN');

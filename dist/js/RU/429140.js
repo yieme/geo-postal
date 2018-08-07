@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429140"]={"code":"429140","region":"Chuvashskaya Respublika","city":"Komsomol'skoye","latitude":55.25667,"longitude":47.54608}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85371"]={"code":"85371","region":"Arizona","city":"Poston","latitude":33.99028,"longitude":-114.40111}}(window,'GeoPostal','US');

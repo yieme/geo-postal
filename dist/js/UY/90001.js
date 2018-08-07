@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90001"]={"code":"90001","region":"Canelones","city":"Los Cerrillos","latitude":-34.605,"longitude":-56.35639}}(window,'GeoPostal','UY');

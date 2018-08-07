@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0816"]={"code":"AZ 0816","region":"Balakan","city":"Qabaqcol","latitude":41.72,"longitude":46.26472}}(window,'GeoPostal','AZ');

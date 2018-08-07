@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96742"]={"code":"96742","region":"HI","city":"Kalaupapa","latitude":21.1929,"longitude":-156.9835}}(window,'GeoPostal','US');

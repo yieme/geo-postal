@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53020"]={"code":"53020","region":"Dnipropetrovska oblast","city":"Lozuvatka","latitude":48.0571,"longitude":33.28581}}(window,'GeoPostal','UA');

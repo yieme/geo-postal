@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07720"]={"code":"07720","region":"Illes Balears","city":"Mao","latitude":39.88853,"longitude":4.26583}}(window,'GeoPostal','ES');

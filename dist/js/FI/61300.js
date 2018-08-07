@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61300"]={"code":"61300","region":"Etela-Pohjanmaa","city":"Kurikka","latitude":62.61667,"longitude":22.41667}}(window,'GeoPostal','FI');

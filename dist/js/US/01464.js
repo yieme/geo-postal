@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01464"]={"code":"01464","region":"Massachusetts","city":"Shirley","latitude":42.57786,"longitude":-71.64384}}(window,'GeoPostal','US');

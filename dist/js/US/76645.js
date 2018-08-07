@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76645"]={"code":"76645","region":"Texas","city":"Hillsboro","latitude":32.01474,"longitude":-97.10886}}(window,'GeoPostal','US');

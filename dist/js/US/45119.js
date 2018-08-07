@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45119"]={"code":"45119","region":"OH","city":"Feesburg","latitude":38.8806,"longitude":-84.0087}}(window,'GeoPostal','US');

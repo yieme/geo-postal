@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP12 2PH"]={"code":"IP12 2PH","region":"England","city":"Bromeswell","latitude":52.10714,"longitude":1.35999}}(window,'GeoPostal','GB');

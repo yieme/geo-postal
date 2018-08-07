@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD13 2LA"]={"code":"BD13 2LA","region":"England","city":"Queensbury","latitude":53.76667,"longitude":-1.91667}}(window,'GeoPostal','GB');

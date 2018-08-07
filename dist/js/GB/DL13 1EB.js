@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL13 1EB"]={"code":"DL13 1EB","region":"England","city":"Wear Head","latitude":54.75,"longitude":-2.21667}}(window,'GeoPostal','GB');

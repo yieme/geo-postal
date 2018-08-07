@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57325"]={"code":"57325","region":"South Dakota","city":"Chamberlain","latitude":43.81083,"longitude":-99.33066}}(window,'GeoPostal','US');

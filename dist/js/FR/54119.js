@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54119"]={"code":"54119","region":"Grand-Est","city":"Domgermain","latitude":48.64292,"longitude":5.82582}}(window,'GeoPostal','FR');

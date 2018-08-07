@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60649"]={"code":"60649","region":"Hauts-de-France","city":"Chantilly","latitude":49.19461,"longitude":2.47124}}(window,'GeoPostal','FR');

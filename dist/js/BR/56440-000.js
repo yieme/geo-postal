@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56440-000"]={"code":"56440-000","region":"Pernambuco","city":"Belem de Sao Francisco","latitude":-8.75389,"longitude":-38.96583}}(window,'GeoPostal','BR');

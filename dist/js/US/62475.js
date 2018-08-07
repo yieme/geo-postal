@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62475"]={"code":"62475","region":"Illinois","city":"West Liberty","latitude":38.906673,"longitude":-88.0996}}(window,'GeoPostal','US');

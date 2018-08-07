@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18445"]={"code":"18445","region":"PA","city":"Newfoundland","latitude":41.3041,"longitude":-75.3384}}(window,'GeoPostal','US');

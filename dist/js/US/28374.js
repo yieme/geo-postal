@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28374"]={"code":"28374","region":"North Carolina","city":"Pinehurst","latitude":35.187174,"longitude":-79.470896}}(window,'GeoPostal','US');

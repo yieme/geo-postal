@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64066"]={"code":"64066","region":"MO","city":"Levasy","latitude":39.1356,"longitude":-94.133}}(window,'GeoPostal','US');

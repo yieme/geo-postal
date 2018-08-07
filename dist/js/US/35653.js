@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35653"]={"code":"35653","region":"Alabama","city":"Russellville","latitude":34.507224,"longitude":-87.738045}}(window,'GeoPostal','US');

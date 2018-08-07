@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18843"]={"code":"18843","region":"Pennsylvania","city":"South Montrose","latitude":41.7972,"longitude":-75.8916}}(window,'GeoPostal','US');

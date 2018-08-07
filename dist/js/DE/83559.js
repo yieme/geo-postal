@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83559"]={"code":"83559","region":"Bayern","city":"Elsbeth","latitude":48.13484,"longitude":12.31188}}(window,'GeoPostal','DE');

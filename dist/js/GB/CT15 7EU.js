@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT15 7EU"]={"code":"CT15 7EU","region":"England","city":"Lydden","latitude":51.16304,"longitude":1.23536}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68400-000"]={"code":"68400-000","region":"Para","city":"Cameta","latitude":-2.24444,"longitude":-49.49583}}(window,'GeoPostal','BR');

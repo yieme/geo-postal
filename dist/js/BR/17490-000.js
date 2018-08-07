@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17490-000"]={"code":"17490-000","region":"Sao Paulo","city":"Agudos","latitude":-22.46917,"longitude":-48.9875}}(window,'GeoPostal','BR');

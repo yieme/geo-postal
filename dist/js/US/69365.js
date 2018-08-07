@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69365"]={"code":"69365","region":"NE","city":"Whiteclay","latitude":42.9969,"longitude":-102.5546}}(window,'GeoPostal','US');

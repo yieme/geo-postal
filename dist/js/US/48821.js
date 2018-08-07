@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48821"]={"code":"48821","region":"Michigan","city":"Dimondale","latitude":42.64559,"longitude":-84.64887}}(window,'GeoPostal','US');

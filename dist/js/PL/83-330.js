@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-330"]={"code":"83-330","region":"Pomorskie","city":"Zukowo","latitude":54.3422,"longitude":18.36476}}(window,'GeoPostal','PL');

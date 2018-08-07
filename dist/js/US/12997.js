@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12997"]={"code":"12997","region":"New York","city":"Wilmington","latitude":44.39167,"longitude":-73.80361}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3332"]={"code":"3332","region":"Misiones","city":"Capiovi","latitude":-26.92998,"longitude":-55.06084}}(window,'GeoPostal','AR');

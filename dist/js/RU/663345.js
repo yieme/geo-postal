@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663345"]={"code":"663345","region":"Krasnoyarskiy kray","city":"Kayyerkan","latitude":69.37861,"longitude":87.74389}}(window,'GeoPostal','RU');

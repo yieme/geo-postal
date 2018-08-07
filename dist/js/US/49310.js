@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49310"]={"code":"49310","region":"MI","city":"Blanchard","latitude":43.5228,"longitude":-85.0589}}(window,'GeoPostal','US');

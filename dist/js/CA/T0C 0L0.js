@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 0L0"]={"code":"T0C 0L0","region":"Alberta","city":"Bittern Lake","latitude":53.01684,"longitude":-113.05197}}(window,'GeoPostal','CA');

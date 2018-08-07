@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247526"]={"code":"247526","region":"Valcea","city":"Prundeni","latitude":44.73333,"longitude":24.26667}}(window,'GeoPostal','RO');

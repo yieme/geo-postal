@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40000"]={"code":"40000","region":"Medimurska zupanija","city":"Kursanec","latitude":46.33028,"longitude":16.40167}}(window,'GeoPostal','HR');

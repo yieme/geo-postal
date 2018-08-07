@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38570"]={"code":"38570","region":"Auvergne-Rhone-Alpes","city":"Tencin","latitude":45.30953,"longitude":5.95818}}(window,'GeoPostal','FR');

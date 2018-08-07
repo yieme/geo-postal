@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 0P0"]={"code":"S0L 0P0","region":"Saskatchewan","city":"Delisle","latitude":51.91678,"longitude":-107.13458}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48726"]={"code":"48726","region":"Michigan","city":"Cass City","latitude":43.60085,"longitude":-83.17467}}(window,'GeoPostal','US');

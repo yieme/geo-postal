@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309031"]={"code":"309031","region":"Belgorodskaya oblast'","city":"Mayskiy","latitude":50.51988,"longitude":36.45878}}(window,'GeoPostal','RU');

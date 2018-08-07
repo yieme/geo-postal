@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2717"]={"code":"2717","region":"Ilocos Sur","city":"Sugpon","latitude":16.8434,"longitude":120.5157}}(window,'GeoPostal','PH');

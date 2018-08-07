@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33026"]={"code":"33026","region":"Friuli-Venezia Giulia","city":"Paluzza","latitude":46.52667,"longitude":13.01833}}(window,'GeoPostal','IT');

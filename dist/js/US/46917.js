@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46917"]={"code":"46917","region":"Indiana","city":"Camden","latitude":40.60917,"longitude":-86.53861}}(window,'GeoPostal','US');

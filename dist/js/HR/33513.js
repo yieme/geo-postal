@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33513"]={"code":"33513","region":"Viroviticko-podravska zupanija","city":"Zdenci","latitude":45.58917,"longitude":17.95028}}(window,'GeoPostal','HR');

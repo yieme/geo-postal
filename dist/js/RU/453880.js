@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453880"]={"code":"453880","region":"Bashkortostan, Respublika","city":"Zirgan","latitude":53.2222,"longitude":55.9185}}(window,'GeoPostal','RU');

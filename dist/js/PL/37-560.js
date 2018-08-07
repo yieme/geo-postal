@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-560"]={"code":"37-560","region":"Podkarpackie","city":"Pruchnik","latitude":49.9062,"longitude":22.51554}}(window,'GeoPostal','PL');

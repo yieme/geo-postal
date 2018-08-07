@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43920"]={"code":"43920","region":"Ohio","city":"East Liverpool","latitude":40.67112,"longitude":-80.58306}}(window,'GeoPostal','US');

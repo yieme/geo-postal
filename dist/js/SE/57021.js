@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57021"]={"code":"57021","region":"Jonkopings lan","city":"Malmback","latitude":57.58333,"longitude":14.46667}}(window,'GeoPostal','SE');

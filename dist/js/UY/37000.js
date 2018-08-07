@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37000"]={"code":"37000","region":"Cerro Largo","city":"Melo","latitude":-32.36667,"longitude":-54.18333}}(window,'GeoPostal','UY');

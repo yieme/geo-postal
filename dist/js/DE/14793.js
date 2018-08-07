@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14793"]={"code":"14793","region":"Brandenburg","city":"Graben","latitude":52.23333,"longitude":12.43333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67867"]={"code":"67867","region":"Kansas","city":"Montezuma","latitude":37.594805,"longitude":-100.441346}}(window,'GeoPostal','US');

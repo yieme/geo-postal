@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77474"]={"code":"77474","region":"Texas","city":"Sealy","latitude":29.783478,"longitude":-96.158292}}(window,'GeoPostal','US');

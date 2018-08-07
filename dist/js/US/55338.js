@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55338"]={"code":"55338","region":"MN","city":"Green Isle","latitude":44.6791,"longitude":-94.0083}}(window,'GeoPostal','US');

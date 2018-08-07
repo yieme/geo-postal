@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE13 5LE"]={"code":"PE13 5LE","region":"England","city":"Tydd Saint Giles","latitude":52.72818,"longitude":0.11106}}(window,'GeoPostal','GB');

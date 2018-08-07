@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56748"]={"code":"56748","region":"Minnesota","city":"Plummer","latitude":47.90615,"longitude":-95.902903}}(window,'GeoPostal','US');

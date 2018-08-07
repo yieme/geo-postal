@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56130"]={"code":"56130","region":"Rheinland-Pfalz","city":"Bad Ems","latitude":50.33274,"longitude":7.71755}}(window,'GeoPostal','DE');

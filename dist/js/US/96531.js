@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96531"]={"code":"96531","region":"AP","city":"Fpo","latitude":-43.5333,"longitude":172.6333}}(window,'GeoPostal','US');

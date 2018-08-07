@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07-104"]={"code":"07-104","region":"Mazowieckie","city":"Stoczek","latitude":52.54332,"longitude":21.90013}}(window,'GeoPostal','PL');

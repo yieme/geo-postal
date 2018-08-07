@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66716"]={"code":"66716","region":"KS","city":"Bronson","latitude":37.9214,"longitude":-95.0303}}(window,'GeoPostal','US');

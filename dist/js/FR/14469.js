@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14469"]={"code":"14469","region":"Normandie","city":"Colombelles","latitude":49.2049,"longitude":-0.29571}}(window,'GeoPostal','FR');

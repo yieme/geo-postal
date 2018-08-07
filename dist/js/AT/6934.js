@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6934"]={"code":"6934","region":"Vorarlberg","city":"Sulzberg","latitude":47.51667,"longitude":9.9}}(window,'GeoPostal','AT');

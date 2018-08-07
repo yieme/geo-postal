@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28830"]={"code":"28830","region":"Grand Casablanca","city":"Mohammedia","latitude":33.70659,"longitude":-7.39442}}(window,'GeoPostal','MA');

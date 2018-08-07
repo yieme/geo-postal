@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54620"]={"code":"54620","region":"Grand-Est","city":"Pierrepont","latitude":49.41614,"longitude":5.714}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56667"]={"code":"56667","region":"MN","city":"Puposky","latitude":47.7436,"longitude":-94.9803}}(window,'GeoPostal','US');

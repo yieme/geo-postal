@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-530"]={"code":"27-530","region":"Swietokrzyskie","city":"Ozarow","latitude":50.88798,"longitude":21.66658}}(window,'GeoPostal','PL');

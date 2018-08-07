@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30272"]={"code":"30272","region":"GA","city":"Red Oak","latitude":33.6259,"longitude":-84.5163}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57038"]={"code":"57038","region":"Toscana","city":"Rio Marina","latitude":42.81342,"longitude":10.42622}}(window,'GeoPostal','IT');

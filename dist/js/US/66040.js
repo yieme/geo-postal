@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66040"]={"code":"66040","region":"Kansas","city":"La Cygne","latitude":38.358413,"longitude":-94.741922}}(window,'GeoPostal','US');

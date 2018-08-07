@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34270"]={"code":"34270","region":"Hessen","city":"Oelshausen","latitude":51.31355,"longitude":9.26285}}(window,'GeoPostal','DE');

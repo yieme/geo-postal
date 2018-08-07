@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11707"]={"code":"11707","region":"NY","city":"West Babylon","latitude":40.7182,"longitude":-73.3543}}(window,'GeoPostal','US');

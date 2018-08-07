@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62550"]={"code":"62550","region":"IL","city":"Moweaqua","latitude":39.6248,"longitude":-89.019}}(window,'GeoPostal','US');

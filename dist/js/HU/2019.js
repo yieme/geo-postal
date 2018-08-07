@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2019"]={"code":"2019","region":"Pest","city":"Pomaz","latitude":47.64227,"longitude":19.02784}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74243"]={"code":"74243","region":"Baden-Wurttemberg","city":"Baumerlenbach","latitude":49.2384,"longitude":9.43923}}(window,'GeoPostal','DE');

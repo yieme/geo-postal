@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74880"]={"code":"74880","region":"OK","city":"Weleetka","latitude":35.3416,"longitude":-96.1136}}(window,'GeoPostal','US');

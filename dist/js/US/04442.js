@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04442"]={"code":"04442","region":"ME","city":"Greenville Junction","latitude":45.4796,"longitude":-69.6939}}(window,'GeoPostal','US');

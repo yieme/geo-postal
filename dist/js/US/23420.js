@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23420"]={"code":"23420","region":"Virginia","city":"Painter","latitude":37.57907,"longitude":-75.795088}}(window,'GeoPostal','US');

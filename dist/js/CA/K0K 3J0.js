@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 3J0"]={"code":"K0K 3J0","region":"Ontario","city":"Tweed","latitude":44.47512,"longitude":-77.31616}}(window,'GeoPostal','CA');

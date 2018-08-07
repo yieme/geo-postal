@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36420-000"]={"code":"36420-000","region":"Minas Gerais","city":"Ouro Branco","latitude":-20.52083,"longitude":-43.69194}}(window,'GeoPostal','BR');

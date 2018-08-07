@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66012"]={"code":"66012","region":"Abruzzo","city":"Casalincontrada","latitude":42.29744,"longitude":14.13511}}(window,'GeoPostal','IT');

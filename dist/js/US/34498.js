@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34498"]={"code":"34498","region":"Florida","city":"Yankeetown","latitude":29.033,"longitude":-82.717}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81220"]={"code":"81220","region":"CO","city":"Cimarron","latitude":38.3876,"longitude":-107.4824}}(window,'GeoPostal','US');

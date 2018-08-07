@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3062"]={"code":"3062","region":"Niederosterreich","city":"Kirchstetten","latitude":48.18333,"longitude":15.81667}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54272"]={"code":"54272","region":"Marrakech-Tensift-Al Haouz","city":"Timezgadiouine","latitude":30.88366,"longitude":-9.04548}}(window,'GeoPostal','MA');

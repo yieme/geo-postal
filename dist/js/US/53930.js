@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53930"]={"code":"53930","region":"Wisconsin","city":"Endeavor","latitude":43.71583,"longitude":-89.46889}}(window,'GeoPostal','US');

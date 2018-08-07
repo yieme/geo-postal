@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76373"]={"code":"76373","region":"TX","city":"Oklaunion","latitude":34.1295,"longitude":-99.1429}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61553"]={"code":"61553","region":"IL","city":"Norris","latitude":40.6259,"longitude":-90.0323}}(window,'GeoPostal','US');

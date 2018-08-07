@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO6 1JU"]={"code":"CO6 1JU","region":"England","city":"Great Tey","latitude":51.89925,"longitude":0.74903}}(window,'GeoPostal','GB');

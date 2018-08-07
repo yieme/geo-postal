@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67412"]={"code":"67412","region":"Grand-Est","city":"Illkirch-Graffenstaden","latitude":48.52894,"longitude":7.71523}}(window,'GeoPostal','FR');

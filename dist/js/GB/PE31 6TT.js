@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 6TT"]={"code":"PE31 6TT","region":"England","city":"Harpley","latitude":52.8,"longitude":0.66667}}(window,'GeoPostal','GB');

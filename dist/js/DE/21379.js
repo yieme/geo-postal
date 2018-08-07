@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21379"]={"code":"21379","region":"Niedersachsen","city":"Bockelkathen","latitude":53.30444,"longitude":10.57066}}(window,'GeoPostal','DE');

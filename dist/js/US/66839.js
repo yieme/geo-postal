@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66839"]={"code":"66839","region":"Kansas","city":"Burlington","latitude":38.19447,"longitude":-95.74276}}(window,'GeoPostal','US');

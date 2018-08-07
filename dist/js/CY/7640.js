@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7640"]={"code":"7640","region":"Larnaka","city":"Kornos","latitude":34.92083,"longitude":33.39167}}(window,'GeoPostal','CY');

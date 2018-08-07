@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74991"]={"code":"74991","region":"Khersonska oblast","city":"Dnipryany","latitude":46.74631,"longitude":33.27288}}(window,'GeoPostal','UA');

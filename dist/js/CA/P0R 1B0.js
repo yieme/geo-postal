@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0R 1B0"]={"code":"P0R 1B0","region":"Ontario","city":"Blind River","latitude":46.18336,"longitude":-82.95817}}(window,'GeoPostal','CA');

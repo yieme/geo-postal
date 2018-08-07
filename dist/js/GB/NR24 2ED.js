@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR24 2ED"]={"code":"NR24 2ED","region":"England","city":"Stody","latitude":52.87384,"longitude":1.05244}}(window,'GeoPostal','GB');

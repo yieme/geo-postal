@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50468"]={"code":"50468","region":"IA","city":"Rockford","latitude":43.0573,"longitude":-92.952}}(window,'GeoPostal','US');

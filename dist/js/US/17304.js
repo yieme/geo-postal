@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17304"]={"code":"17304","region":"PA","city":"Aspers","latitude":39.9765,"longitude":-77.2287}}(window,'GeoPostal','US');

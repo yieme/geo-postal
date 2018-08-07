@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["695618"]={"code":"695618","region":"Kerala","city":"Thiruvananthapuram","latitude":8.48333,"longitude":76.91667}}(window,'GeoPostal','IN');

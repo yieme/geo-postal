@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50243"]={"code":"50243","region":"IA","city":"Sheldahl","latitude":41.8571,"longitude":-93.6973}}(window,'GeoPostal','US');

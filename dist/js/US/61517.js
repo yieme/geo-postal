@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61517"]={"code":"61517","region":"IL","city":"Brimfield","latitude":40.8407,"longitude":-89.897}}(window,'GeoPostal','US');

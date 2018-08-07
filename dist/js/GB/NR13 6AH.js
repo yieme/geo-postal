@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR13 6AH"]={"code":"NR13 6AH","region":"England","city":"South Walsham","latitude":52.66441,"longitude":1.4938}}(window,'GeoPostal','GB');

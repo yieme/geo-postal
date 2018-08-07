@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["630501"]={"code":"630501","region":"Novosibirskaya oblast'","city":"Krasnoobsk","latitude":54.9198,"longitude":82.9909}}(window,'GeoPostal','RU');

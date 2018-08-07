@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98362"]={"code":"98362","region":"Washington","city":"Port Angeles","latitude":48.11815,"longitude":-123.43074}}(window,'GeoPostal','US');

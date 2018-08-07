@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2L 4R5"]={"code":"V2L 4R5","region":"British Columbia","city":"Prince George","latitude":53.891474,"longitude":-122.749672}}(window,'GeoPostal','CA');

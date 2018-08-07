@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54739"]={"code":"54739","region":"WI","city":"Elk Mound","latitude":44.867,"longitude":-91.6752}}(window,'GeoPostal','US');

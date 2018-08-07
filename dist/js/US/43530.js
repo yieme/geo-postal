@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43530"]={"code":"43530","region":"OH","city":"Jewell","latitude":41.3258,"longitude":-84.2793}}(window,'GeoPostal','US');

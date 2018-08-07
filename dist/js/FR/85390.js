@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85390"]={"code":"85390","region":"Pays-de-la-Loire","city":"Bazoges-en-Pareds","latitude":46.65702,"longitude":-0.91654}}(window,'GeoPostal','FR');

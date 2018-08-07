@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14659"]={"code":"14659","region":"Normandie","city":"Carpiquet","latitude":49.18522,"longitude":-0.44623}}(window,'GeoPostal','FR');

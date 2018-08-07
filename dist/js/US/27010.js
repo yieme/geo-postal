@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27010"]={"code":"27010","region":"NC","city":"Bethania","latitude":36.183,"longitude":-80.3387}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["941 21"]={"code":"941 21","region":"Bratislavsky kraj","city":"Bratislava","latitude":48.14816,"longitude":17.10674}}(window,'GeoPostal','SK');

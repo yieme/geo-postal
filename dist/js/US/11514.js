@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11514"]={"code":"11514","region":"New York","city":"Carle Place","latitude":40.750501,"longitude":-73.612375}}(window,'GeoPostal','US');

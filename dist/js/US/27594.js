@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27594"]={"code":"27594","region":"NC","city":"Wise","latitude":36.4865,"longitude":-78.1708}}(window,'GeoPostal','US');

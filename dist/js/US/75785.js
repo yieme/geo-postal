@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75785"]={"code":"75785","region":"Texas","city":"Rusk","latitude":31.79601,"longitude":-95.15022}}(window,'GeoPostal','US');

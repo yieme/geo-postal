@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87715"]={"code":"87715","region":"New Mexico","city":"Cleveland","latitude":35.97067,"longitude":-105.54527}}(window,'GeoPostal','US');

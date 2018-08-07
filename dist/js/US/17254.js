@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17254"]={"code":"17254","region":"PA","city":"Scotland","latitude":39.9696,"longitude":-77.5848}}(window,'GeoPostal','US');

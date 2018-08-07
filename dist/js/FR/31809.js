@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31809"]={"code":"31809","region":"Occitanie","city":"Saint-Gaudens","latitude":43.11667,"longitude":0.73333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50862"]={"code":"50862","region":"IA","city":"Sharpsburg","latitude":40.795,"longitude":-94.6416}}(window,'GeoPostal','US');

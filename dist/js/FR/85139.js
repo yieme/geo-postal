@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85139"]={"code":"85139","region":"Pays-de-la-Loire","city":"La Gaubretiere","latitude":46.94144,"longitude":-1.06215}}(window,'GeoPostal','FR');

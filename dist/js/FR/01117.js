@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01117"]={"code":"01117","region":"Auvergne-Rhone-Alpes","city":"Oyonnax","latitude":46.25917,"longitude":5.65727}}(window,'GeoPostal','FR');

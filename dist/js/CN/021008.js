@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["021008"]={"code":"021008","region":"Nei Mongol","city":"Hulunbuir","latitude":49.2,"longitude":119.7}}(window,'GeoPostal','CN');

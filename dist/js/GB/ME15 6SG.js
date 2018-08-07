@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ME15 6SG"]={"code":"ME15 6SG","region":"England","city":"Maidstone","latitude":51.26667,"longitude":0.51667}}(window,'GeoPostal','GB');

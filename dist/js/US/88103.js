@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88103"]={"code":"88103","region":"NM","city":"Cannon Afb","latitude":34.3841,"longitude":-103.3154}}(window,'GeoPostal','US');

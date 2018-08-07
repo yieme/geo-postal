@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32784"]={"code":"32784","region":"FL","city":"Umatilla","latitude":28.9254,"longitude":-81.6801}}(window,'GeoPostal','US');

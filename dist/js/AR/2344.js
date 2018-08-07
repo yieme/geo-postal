@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2344"]={"code":"2344","region":"Santa Fe","city":"Arrufo","latitude":-30.23281,"longitude":-61.72862}}(window,'GeoPostal','AR');

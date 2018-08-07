@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["633411"]={"code":"633411","region":"Novosibirskaya oblast'","city":"Gornyy","latitude":55.1153,"longitude":83.9059}}(window,'GeoPostal','RU');

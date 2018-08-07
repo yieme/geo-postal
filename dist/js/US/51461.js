@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51461"]={"code":"51461","region":"Iowa","city":"Schleswig","latitude":42.163316,"longitude":-95.434518}}(window,'GeoPostal','US');

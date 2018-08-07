@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54646"]={"code":"54646","region":"Wisconsin","city":"Necedah","latitude":44.030823,"longitude":-90.080789}}(window,'GeoPostal','US');

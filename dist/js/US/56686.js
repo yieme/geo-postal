@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56686"]={"code":"56686","region":"Minnesota","city":"Williams","latitude":48.977222,"longitude":-94.959722}}(window,'GeoPostal','US');

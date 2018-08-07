@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5823"]={"code":"5823","region":"Cordoba","city":"Los Condores","latitude":-32.31984,"longitude":-64.27752}}(window,'GeoPostal','AR');

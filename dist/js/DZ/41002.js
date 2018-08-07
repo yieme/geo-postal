@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41002"]={"code":"41002","region":"Souk Ahras","city":"Sedrata","latitude":36.12868,"longitude":7.53376}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43520"]={"code":"43520","region":"Auvergne-Rhone-Alpes","city":"Mazet-Saint-Voy","latitude":45.04788,"longitude":4.24499}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628125"]={"code":"628125","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Andra","latitude":62.51472,"longitude":65.88778}}(window,'GeoPostal','RU');

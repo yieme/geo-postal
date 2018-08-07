@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95941"]={"code":"95941","region":"CA","city":"Forbestown","latitude":39.521,"longitude":-121.2423}}(window,'GeoPostal','US');

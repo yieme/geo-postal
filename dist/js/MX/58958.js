@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58958"]={"code":"58958","region":"Michoacan de Ocampo","city":"Zinapecuaro","latitude":19.86667,"longitude":-100.81667}}(window,'GeoPostal','MX');

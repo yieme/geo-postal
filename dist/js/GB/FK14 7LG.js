@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK14 7LG"]={"code":"FK14 7LG","region":"Scotland","city":"Glendevon","latitude":56.22172,"longitude":-3.62684}}(window,'GeoPostal','GB');

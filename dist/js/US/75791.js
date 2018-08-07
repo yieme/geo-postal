@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75791"]={"code":"75791","region":"TX","city":"Whitehouse","latitude":32.222,"longitude":-95.2266}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17375"]={"code":"17375","region":"PA","city":"Peach Glen","latitude":39.8948,"longitude":-77.2135}}(window,'GeoPostal','US');

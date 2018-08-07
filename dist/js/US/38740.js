@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38740"]={"code":"38740","region":"MS","city":"Duncan","latitude":34.047,"longitude":-90.7652}}(window,'GeoPostal','US');

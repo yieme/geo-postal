@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427439"]={"code":"427439","region":"Udmurtskaya Respublika","city":"Votkinsk","latitude":57.04865,"longitude":53.98717}}(window,'GeoPostal','RU');

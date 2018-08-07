@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E9 6EF"]={"code":"E9 6EF","region":"England","city":"Hackney","latitude":51.55,"longitude":-0.05}}(window,'GeoPostal','GB');

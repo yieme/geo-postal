@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24368"]={"code":"24368","region":"Virginia","city":"Rural Retreat","latitude":36.89373,"longitude":-81.27593}}(window,'GeoPostal','US');

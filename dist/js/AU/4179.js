@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4179"]={"code":"4179","region":"Queensland","city":"Manly","latitude":-27.46667,"longitude":153.18333}}(window,'GeoPostal','AU');

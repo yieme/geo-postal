@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3616"]={"code":"3616","region":"Buskerud","city":"Kongsberg","latitude":59.66858,"longitude":9.65017}}(window,'GeoPostal','NO');

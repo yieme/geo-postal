@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45071"]={"code":"45071","region":"Centre-Val de Loire","city":"Orleans","latitude":47.90289,"longitude":1.90389}}(window,'GeoPostal','FR');

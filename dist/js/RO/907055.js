@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907055"]={"code":"907055","region":"Constanta","city":"Ciobanu","latitude":44.73333,"longitude":27.96667}}(window,'GeoPostal','RO');

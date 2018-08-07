@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66097"]={"code":"66097","region":"Kansas","city":"Winchester","latitude":39.306529,"longitude":-95.276218}}(window,'GeoPostal','US');

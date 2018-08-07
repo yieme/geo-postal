@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98323"]={"code":"98323","region":"WA","city":"Carbonado","latitude":47.0802,"longitude":-122.0513}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368031"]={"code":"368031","region":"Dagestan, Respublika","city":"Aksay","latitude":43.37254,"longitude":46.44497}}(window,'GeoPostal','RU');

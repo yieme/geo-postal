@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80160"]={"code":"80160","region":"Nakhon Si Thammarat","city":"Tha Sala","latitude":8.66733,"longitude":99.93078}}(window,'GeoPostal','TH');

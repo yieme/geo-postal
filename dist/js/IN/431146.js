@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431146"]={"code":"431146","region":"Maharashtra","city":"Kannad","latitude":20.26667,"longitude":75.13333}}(window,'GeoPostal','IN');

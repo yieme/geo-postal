@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24550"]={"code":"24550","region":"VA","city":"Evington","latitude":37.261,"longitude":-79.2317}}(window,'GeoPostal','US');

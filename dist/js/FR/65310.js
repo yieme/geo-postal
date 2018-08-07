@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65310"]={"code":"65310","region":"Occitanie","city":"Odos","latitude":43.19622,"longitude":0.05694}}(window,'GeoPostal','FR');

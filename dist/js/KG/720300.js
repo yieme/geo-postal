@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["720300"]={"code":"720300","region":"Batken","city":"Kyzyl-Kyya","latitude":40.25441,"longitude":72.12601}}(window,'GeoPostal','KG');

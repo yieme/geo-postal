@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA14 5SZ"]={"code":"CA14 5SZ","region":"England","city":"Distington","latitude":54.59733,"longitude":-3.5388}}(window,'GeoPostal','GB');

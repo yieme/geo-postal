@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28775"]={"code":"28775","region":"North Carolina","city":"Scaly Mountain","latitude":35.01167,"longitude":-83.31639}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53043"]={"code":"53043","region":"Toscana","city":"Chiusi","latitude":43.01604,"longitude":11.94745}}(window,'GeoPostal','IT');

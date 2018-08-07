@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56-120"]={"code":"56-120","region":"Dolnoslaskie","city":"Brzeg Dolny","latitude":51.27299,"longitude":16.70815}}(window,'GeoPostal','PL');

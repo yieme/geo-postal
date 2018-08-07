@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60457"]={"code":"60457","region":"Illinois","city":"Hickory Hills","latitude":41.7252,"longitude":-87.82818}}(window,'GeoPostal','US');

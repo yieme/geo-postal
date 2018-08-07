@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3178"]={"code":"3178","region":"Bern","city":"Bosingen","latitude":46.89229,"longitude":7.2277}}(window,'GeoPostal','CH');

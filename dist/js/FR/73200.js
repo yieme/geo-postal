@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73200"]={"code":"73200","region":"Auvergne-Rhone-Alpes","city":"Gilly-sur-Isere","latitude":45.65917,"longitude":6.35096}}(window,'GeoPostal','FR');

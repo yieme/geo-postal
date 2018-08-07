@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39436"]={"code":"39436","region":"MS","city":"Eastabuchie","latitude":31.4555,"longitude":-89.302}}(window,'GeoPostal','US');

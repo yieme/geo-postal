@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98530"]={"code":"98530","region":"WA","city":"Bucoda","latitude":46.7982,"longitude":-122.8718}}(window,'GeoPostal','US');

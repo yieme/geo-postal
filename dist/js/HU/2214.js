@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2214"]={"code":"2214","region":"Pest","city":"Pand","latitude":47.35333,"longitude":19.63571}}(window,'GeoPostal','HU');

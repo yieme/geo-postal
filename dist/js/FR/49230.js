@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49230"]={"code":"49230","region":"Pays-de-la-Loire","city":"Saint-Germain-sur-Moine","latitude":47.11746,"longitude":-1.12223}}(window,'GeoPostal','FR');

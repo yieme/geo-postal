@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY25 6JL"]={"code":"SY25 6JL","region":"Wales","city":"Tregaron","latitude":52.2195,"longitude":-3.93295}}(window,'GeoPostal','GB');

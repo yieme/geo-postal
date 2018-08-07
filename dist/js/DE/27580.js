@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27580"]={"code":"27580","region":"Niedersachsen","city":"Spaden","latitude":53.57452,"longitude":8.63285}}(window,'GeoPostal','DE');

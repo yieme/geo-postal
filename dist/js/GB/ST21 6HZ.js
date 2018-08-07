@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST21 6HZ"]={"code":"ST21 6HZ","region":"England","city":"Chebsey","latitude":52.85519,"longitude":-2.20962}}(window,'GeoPostal','GB');

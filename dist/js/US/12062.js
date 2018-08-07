@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12062"]={"code":"12062","region":"NY","city":"East Nassau","latitude":42.5352,"longitude":-73.4984}}(window,'GeoPostal','US');

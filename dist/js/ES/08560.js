@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08560"]={"code":"08560","region":"Catalunya","city":"Manlleu","latitude":42.00228,"longitude":2.28476}}(window,'GeoPostal','ES');

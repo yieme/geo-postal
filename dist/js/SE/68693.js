@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68693"]={"code":"68693","region":"Varmlands lan","city":"Sunne","latitude":59.83764,"longitude":13.14302}}(window,'GeoPostal','SE');

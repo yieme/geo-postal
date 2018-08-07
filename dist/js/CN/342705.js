@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["342705"]={"code":"342705","region":"Jiangxi","city":"Mulan","latitude":26.49603,"longitude":116.39019}}(window,'GeoPostal','CN');

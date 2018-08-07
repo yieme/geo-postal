@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55360-000"]={"code":"55360-000","region":"Pernambuco","city":"Capoeiras","latitude":-8.73472,"longitude":-36.62667}}(window,'GeoPostal','BR');

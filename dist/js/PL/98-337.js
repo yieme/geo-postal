@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-337"]={"code":"98-337","region":"Lodzkie","city":"Strzelce Wielkie","latitude":51.1394,"longitude":19.14539}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18220"]={"code":"18220","region":"Saraburi","city":"Wang Muang","latitude":14.84536,"longitude":101.13436}}(window,'GeoPostal','TH');

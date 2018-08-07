@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65580-000"]={"code":"65580-000","region":"Maranhao","city":"Tutoia","latitude":-2.76194,"longitude":-42.27444}}(window,'GeoPostal','BR');

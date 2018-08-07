@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38611"]={"code":"38611","region":"MS","city":"Byhalia","latitude":34.8854,"longitude":-89.6763}}(window,'GeoPostal','US');

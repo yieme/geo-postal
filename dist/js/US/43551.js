@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43551"]={"code":"43551","region":"Ohio","city":"Perrysburg","latitude":41.544186,"longitude":-83.597598}}(window,'GeoPostal','US');

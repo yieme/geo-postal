@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-100"]={"code":"98-100","region":"Lodzkie","city":"Lask","latitude":51.59056,"longitude":19.13278}}(window,'GeoPostal','PL');

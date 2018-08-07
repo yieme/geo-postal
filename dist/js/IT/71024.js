@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71024"]={"code":"71024","region":"Puglia","city":"Candela","latitude":41.13792,"longitude":15.51465}}(window,'GeoPostal','IT');

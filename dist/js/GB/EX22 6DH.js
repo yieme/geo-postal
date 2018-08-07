@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 6DH"]={"code":"EX22 6DH","region":"England","city":"Holsworthy","latitude":50.81196,"longitude":-4.35383}}(window,'GeoPostal','GB');

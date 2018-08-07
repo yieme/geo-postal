@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226406"]={"code":"226406","region":"Jiangsu","city":"Bencha","latitude":32.53889,"longitude":120.89667}}(window,'GeoPostal','CN');

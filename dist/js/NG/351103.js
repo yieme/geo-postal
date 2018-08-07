@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["351103"]={"code":"351103","region":"Ondo","city":"Ondo","latitude":7.1,"longitude":4.83333}}(window,'GeoPostal','NG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87006"]={"code":"87006","region":"NM","city":"Bosque","latitude":34.4996,"longitude":-106.8038}}(window,'GeoPostal','US');

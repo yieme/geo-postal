@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB41 8RQ"]={"code":"AB41 8RQ","region":"Scotland","city":"Collieston","latitude":57.34807,"longitude":-1.93618}}(window,'GeoPostal','GB');

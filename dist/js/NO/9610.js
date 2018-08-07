@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9610"]={"code":"9610","region":"Finnmark","city":"Rypefjord","latitude":70.63333,"longitude":23.66667}}(window,'GeoPostal','NO');

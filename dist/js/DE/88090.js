@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88090"]={"code":"88090","region":"Baden-Wurttemberg","city":"Immenstaad am Bodensee","latitude":47.66667,"longitude":9.36667}}(window,'GeoPostal','DE');

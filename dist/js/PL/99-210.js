@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-210"]={"code":"99-210","region":"Lodzkie","city":"Uniejow","latitude":51.97428,"longitude":18.79308}}(window,'GeoPostal','PL');

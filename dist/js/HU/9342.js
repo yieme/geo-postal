@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9342"]={"code":"9342","region":"Gyor-Moson-Sopron","city":"Mihalyi","latitude":47.51384,"longitude":17.09507}}(window,'GeoPostal','HU');

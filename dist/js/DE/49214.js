@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49214"]={"code":"49214","region":"Niedersachsen","city":"Hilter","latitude":52.13573,"longitude":8.14715}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39345"]={"code":"39345","region":"Mississippi","city":"Newton","latitude":32.32126,"longitude":-89.16339}}(window,'GeoPostal','US');

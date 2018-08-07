@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73458"]={"code":"73458","region":"OK","city":"Springer","latitude":34.3038,"longitude":-97.1223}}(window,'GeoPostal','US');

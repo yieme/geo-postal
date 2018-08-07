@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425617"]={"code":"425617","region":"Hunan","city":"Heting","latitude":25.66306,"longitude":112.01667}}(window,'GeoPostal','CN');

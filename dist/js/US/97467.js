@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97467"]={"code":"97467","region":"Oregon","city":"Reedsport","latitude":43.70234,"longitude":-124.09678}}(window,'GeoPostal','US');

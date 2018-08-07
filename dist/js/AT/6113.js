@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6113"]={"code":"6113","region":"Tirol","city":"Wattens","latitude":47.28333,"longitude":11.6}}(window,'GeoPostal','AT');

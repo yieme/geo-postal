@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601427"]={"code":"601427","region":"Vladimirskaya oblast'","city":"Stepantsevo","latitude":56.13143,"longitude":41.7032}}(window,'GeoPostal','RU');

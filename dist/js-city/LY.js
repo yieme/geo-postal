@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["LY"]={'1961':{r:'Tarabulus',c:'Tripoli'},'81844':'1961', 'LV-3477':'1961', '':{r:'',c:''},'LV-5442':{r:'Darnah',c:'Darnah'}};

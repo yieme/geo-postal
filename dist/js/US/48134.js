@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48134"]={"code":"48134","region":"Michigan","city":"Flat Rock","latitude":42.09643,"longitude":-83.29187}}(window,'GeoPostal','US');

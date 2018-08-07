@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303454"]={"code":"303454","region":"Orlovskaya oblast'","city":"Trosna","latitude":52.4446,"longitude":35.7791}}(window,'GeoPostal','RU');

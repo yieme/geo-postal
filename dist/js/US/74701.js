@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74701"]={"code":"74701","region":"Oklahoma","city":"Durant","latitude":34.003554,"longitude":-96.381789}}(window,'GeoPostal','US');

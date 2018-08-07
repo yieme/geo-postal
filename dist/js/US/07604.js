@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07604"]={"code":"07604","region":"New Jersey","city":"Hasbrouck Heights","latitude":40.862515,"longitude":-74.074784}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["534196"]={"code":"534196","region":"Andhra Pradesh","city":"Srikakulam","latitude":18.3,"longitude":83.9}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0Z 1J0"]={"code":"G0Z 1J0","region":"Quebec","city":"Saint-Wenceslas","latitude":46.16676,"longitude":-72.3324}}(window,'GeoPostal','CA');

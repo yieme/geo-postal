@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4401"]={"code":"4401","region":"Zeeland","city":"Yerseke","latitude":51.4925,"longitude":4.05}}(window,'GeoPostal','NL');

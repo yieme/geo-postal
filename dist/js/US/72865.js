@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72865"]={"code":"72865","region":"Arkansas","city":"Subiaco","latitude":35.327382,"longitude":-93.636022}}(window,'GeoPostal','US');

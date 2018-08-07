@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3377"]={"code":"3377","region":"Victoria","city":"Ararat","latitude":-37.28542,"longitude":142.92728}}(window,'GeoPostal','AU');

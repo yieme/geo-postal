@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45102"]={"code":"45102","region":"Souss-Massa-Draa","city":"Amerzgane","latitude":31.0437,"longitude":-7.21037}}(window,'GeoPostal','MA');

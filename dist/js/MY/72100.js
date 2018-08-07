@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72100"]={"code":"72100","region":"Negeri Sembilan","city":"Bahau","latitude":2.8079,"longitude":102.4049}}(window,'GeoPostal','MY');

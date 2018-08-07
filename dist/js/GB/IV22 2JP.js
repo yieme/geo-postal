@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV22 2JP"]={"code":"IV22 2JP","region":"Scotland","city":"Poolewe","latitude":57.76445,"longitude":-5.60406}}(window,'GeoPostal','GB');

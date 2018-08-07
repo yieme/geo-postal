@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11204"]={"code":"11204","region":"La Vega","city":"Constanza","latitude":18.90919,"longitude":-70.74499}}(window,'GeoPostal','DO');

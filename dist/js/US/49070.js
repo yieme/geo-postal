@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49070"]={"code":"49070","region":"MI","city":"Martin","latitude":42.537,"longitude":-85.6417}}(window,'GeoPostal','US');

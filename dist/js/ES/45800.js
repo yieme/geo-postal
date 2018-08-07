@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45800"]={"code":"45800","region":"Castilla-La Mancha","city":"Quintanar de la Orden","latitude":39.59368,"longitude":-3.04165}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14702"]={"code":"14702","region":"NY","city":"Jamestown","latitude":42.097,"longitude":-79.2353}}(window,'GeoPostal','US');

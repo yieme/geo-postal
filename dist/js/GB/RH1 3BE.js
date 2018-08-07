@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH1 3BE"]={"code":"RH1 3BE","region":"England","city":"Merstham","latitude":51.26484,"longitude":-0.15295}}(window,'GeoPostal','GB');

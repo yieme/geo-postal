@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72130"]={"code":"72130","region":"Pays-de-la-Loire","city":"Fresnay-sur-Sarthe","latitude":48.28199,"longitude":0.02288}}(window,'GeoPostal','FR');

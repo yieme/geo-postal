@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28064"]={"code":"28064","region":"Skane lan","city":"Glimakra","latitude":56.3,"longitude":14.13333}}(window,'GeoPostal','SE');

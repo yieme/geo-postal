@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93111"]={"code":"93111","region":"Ile-de-France","city":"Rosny-sous-Bois","latitude":48.87017,"longitude":2.4991}}(window,'GeoPostal','FR');

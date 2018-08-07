@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8550-228"]={"code":"8550-228","region":"Faro","city":"Monchique","latitude":37.31775,"longitude":-8.55529}}(window,'GeoPostal','PT');

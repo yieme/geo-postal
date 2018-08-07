@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21301"]={"code":"21301","region":"Alajuela","city":"Upala","latitude":10.89792,"longitude":-85.01454}}(window,'GeoPostal','CR');

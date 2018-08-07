@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06510"]={"code":"06510","region":"Extremadura","city":"Alburquerque","latitude":39.22076,"longitude":-7.00234}}(window,'GeoPostal','ES');

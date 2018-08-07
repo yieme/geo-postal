@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97488"]={"code":"97488","region":"Oregon","city":"Vida","latitude":44.13312,"longitude":-122.46336}}(window,'GeoPostal','US');

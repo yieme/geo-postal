@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74331"]={"code":"74331","region":"Oklahoma","city":"Afton","latitude":36.69369,"longitude":-94.96302}}(window,'GeoPostal','US');

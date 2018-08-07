@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06400"]={"code":"06400","region":"Extremadura","city":"Don Benito","latitude":38.95627,"longitude":-5.86162}}(window,'GeoPostal','ES');

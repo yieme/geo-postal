@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02576"]={"code":"02576","region":"Massachusetts","city":"West Wareham","latitude":41.772853,"longitude":-70.758774}}(window,'GeoPostal','US');

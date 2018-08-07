@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08041"]={"code":"08041","region":"NJ","city":"Jobstown","latitude":40.0387,"longitude":-74.6873}}(window,'GeoPostal','US');

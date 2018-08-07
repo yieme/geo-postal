@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29573"]={"code":"29573","region":"SC","city":"Minturn","latitude":34.51,"longitude":-79.47}}(window,'GeoPostal','US');

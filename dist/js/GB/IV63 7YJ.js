@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV63 7YJ"]={"code":"IV63 7YJ","region":"Scotland","city":"Wester Inverwick","latitude":57.18333,"longitude":-4.8}}(window,'GeoPostal','GB');

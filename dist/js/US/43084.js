@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43084"]={"code":"43084","region":"OH","city":"Woodstock","latitude":40.1816,"longitude":-83.5461}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61039"]={"code":"61039","region":"IL","city":"German Valley","latitude":42.2176,"longitude":-89.4712}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49770"]={"code":"49770","region":"Niedersachsen","city":"Neuenlande","latitude":52.66317,"longitude":7.57487}}(window,'GeoPostal','DE');

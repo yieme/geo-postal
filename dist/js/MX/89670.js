@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89670"]={"code":"89670","region":"Tamaulipas","city":"Aldama","latitude":22.91667,"longitude":-98.06667}}(window,'GeoPostal','MX');

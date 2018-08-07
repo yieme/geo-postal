@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7190"]={"code":"7190","region":"Tasmania","city":"Orford","latitude":-42.56017,"longitude":147.8718}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 74"]={"code":"696 74","region":"Praha, Hlavni mesto","city":"Prague","latitude":50.08804,"longitude":14.42076}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59333"]={"code":"59333","region":"MT","city":"Hathaway","latitude":46.2761,"longitude":-106.1967}}(window,'GeoPostal','US');

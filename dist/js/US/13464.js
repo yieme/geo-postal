@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13464"]={"code":"13464","region":"NY","city":"Smyrna","latitude":42.6896,"longitude":-75.6121}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83808"]={"code":"83808","region":"Idaho","city":"Calder","latitude":47.255974,"longitude":-116.212269}}(window,'GeoPostal','US');

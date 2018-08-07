@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68947"]={"code":"68947","region":"NE","city":"Hildreth","latitude":40.3217,"longitude":-99.0571}}(window,'GeoPostal','US');

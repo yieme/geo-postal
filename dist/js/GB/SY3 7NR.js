@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY3 7NR"]={"code":"SY3 7NR","region":"England","city":"Shrewsbury","latitude":52.71009,"longitude":-2.75208}}(window,'GeoPostal','GB');

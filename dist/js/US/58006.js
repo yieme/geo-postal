@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58006"]={"code":"58006","region":"ND","city":"Arthur","latitude":47.1048,"longitude":-97.2097}}(window,'GeoPostal','US');

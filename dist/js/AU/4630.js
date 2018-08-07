@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4630"]={"code":"4630","region":"Queensland","city":"Bancroft","latitude":-24.78333,"longitude":151.23333}}(window,'GeoPostal','AU');

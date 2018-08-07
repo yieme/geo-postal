@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67351"]={"code":"67351","region":"KS","city":"Liberty","latitude":37.1576,"longitude":-95.6017}}(window,'GeoPostal','US');

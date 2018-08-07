@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32706"]={"code":"32706","region":"FL","city":"Cassadaga","latitude":28.9664,"longitude":-81.2371}}(window,'GeoPostal','US');

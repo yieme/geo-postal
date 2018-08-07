@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69-101"]={"code":"69-101","region":"Lubuskie","city":"Slubice","latitude":52.35088,"longitude":14.56065}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97856"]={"code":"97856","region":"OR","city":"Long Creek","latitude":44.7554,"longitude":-119.097}}(window,'GeoPostal','US');

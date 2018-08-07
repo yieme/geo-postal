@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20653"]={"code":"20653","region":"Maryland","city":"Lexington Park","latitude":38.26679,"longitude":-76.45384}}(window,'GeoPostal','US');

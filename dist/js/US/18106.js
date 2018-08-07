@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18106"]={"code":"18106","region":"Pennsylvania","city":"Allentown","latitude":40.5816,"longitude":-75.52758}}(window,'GeoPostal','US');

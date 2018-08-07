@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515745"]={"code":"515745","region":"Guangdong","city":"Lianrao","latitude":23.72725,"longitude":116.98228}}(window,'GeoPostal','CN');

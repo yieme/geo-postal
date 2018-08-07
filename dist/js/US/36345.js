@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36345"]={"code":"36345","region":"AL","city":"Headland","latitude":31.3534,"longitude":-85.3323}}(window,'GeoPostal','US');

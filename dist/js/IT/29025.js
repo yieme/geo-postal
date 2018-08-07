@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29025"]={"code":"29025","region":"Emilia-Romagna","city":"Gropparello","latitude":44.83396,"longitude":9.72767}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83037"]={"code":"83037","region":"Campania","city":"Montecalvo Irpino","latitude":41.19562,"longitude":15.03344}}(window,'GeoPostal','IT');

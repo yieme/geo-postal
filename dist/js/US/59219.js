@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59219"]={"code":"59219","region":"Montana","city":"Dagmar","latitude":48.606269,"longitude":-104.248449}}(window,'GeoPostal','US');

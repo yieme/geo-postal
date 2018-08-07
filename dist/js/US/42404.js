@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42404"]={"code":"42404","region":"KY","city":"Clay","latitude":37.4756,"longitude":-87.8368}}(window,'GeoPostal','US');

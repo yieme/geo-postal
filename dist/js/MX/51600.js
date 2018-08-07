@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51600"]={"code":"51600","region":"Mexico","city":"Sultepec de Pedro Ascencio de Alquisiras","latitude":18.86667,"longitude":-99.95}}(window,'GeoPostal','MX');

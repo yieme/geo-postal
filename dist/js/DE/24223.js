@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24223"]={"code":"24223","region":"Schleswig-Holstein","city":"Klausdorf","latitude":54.30899,"longitude":10.21372}}(window,'GeoPostal','DE');

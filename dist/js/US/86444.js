@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86444"]={"code":"86444","region":"Arizona","city":"Meadview","latitude":36.00221,"longitude":-114.06829}}(window,'GeoPostal','US');

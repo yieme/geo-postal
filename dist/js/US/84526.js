@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84526"]={"code":"84526","region":"Utah","city":"Helper","latitude":39.68413,"longitude":-110.85461}}(window,'GeoPostal','US');

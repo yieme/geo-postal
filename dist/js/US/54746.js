@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54746"]={"code":"54746","region":"WI","city":"Humbird","latitude":44.5367,"longitude":-90.8883}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75491"]={"code":"75491","region":"Texas","city":"Whitewright","latitude":33.512015,"longitude":-96.399696}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2201"]={"code":"2201","region":"Cojedes","city":"San Carlos","latitude":9.66124,"longitude":-68.58268}}(window,'GeoPostal','VE');

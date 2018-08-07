@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678188"]={"code":"678188","region":"Saha, Respublika","city":"Udachnyy","latitude":66.41667,"longitude":112.4}}(window,'GeoPostal','RU');

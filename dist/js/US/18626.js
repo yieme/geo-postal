@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18626"]={"code":"18626","region":"Pennsylvania","city":"Laporte","latitude":41.42397,"longitude":-76.49411}}(window,'GeoPostal','US');

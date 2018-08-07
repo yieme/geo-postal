@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57530"]={"code":"57530","region":"Grand-Est","city":"Courcelles-Chaussy","latitude":49.10862,"longitude":6.40391}}(window,'GeoPostal','FR');

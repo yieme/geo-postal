@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09091"]={"code":"09091","region":"Sardegna","city":"Ales","latitude":39.77083,"longitude":8.815}}(window,'GeoPostal','IT');

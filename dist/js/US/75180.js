@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75180"]={"code":"75180","region":"Texas","city":"Balch Springs","latitude":32.72874,"longitude":-96.62277}}(window,'GeoPostal','US');

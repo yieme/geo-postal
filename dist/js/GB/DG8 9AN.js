@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 9AN"]={"code":"DG8 9AN","region":"Scotland","city":"Kirkinner","latitude":54.83253,"longitude":-4.45677}}(window,'GeoPostal','GB');

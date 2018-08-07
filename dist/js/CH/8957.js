@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8957"]={"code":"8957","region":"Aargau","city":"Spreitenbach","latitude":47.42016,"longitude":8.36301}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["389230"]={"code":"389230","region":"Gujarat","city":"Mundra","latitude":22.85,"longitude":69.73333}}(window,'GeoPostal','IN');

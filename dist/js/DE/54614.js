@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54614"]={"code":"54614","region":"Rheinland-Pfalz","city":"Schonecken","latitude":50.15909,"longitude":6.4682}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29016"]={"code":"29016","region":"South Carolina","city":"Blythewood","latitude":34.21432,"longitude":-80.97398}}(window,'GeoPostal','US');

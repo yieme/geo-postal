@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62612"]={"code":"62612","region":"IL","city":"Ashland","latitude":39.9386,"longitude":-90.0792}}(window,'GeoPostal','US');

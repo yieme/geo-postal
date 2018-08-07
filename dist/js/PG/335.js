@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["335"]={"code":"335","region":"Western","city":"Kiunga","latitude":-6.12193,"longitude":141.29061}}(window,'GeoPostal','PG');

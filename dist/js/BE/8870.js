@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8870"]={"code":"8870","region":"West-Vlaanderen","city":"Izegem","latitude":50.91396,"longitude":3.21378}}(window,'GeoPostal','BE');

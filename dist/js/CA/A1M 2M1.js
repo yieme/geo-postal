@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A1M 2M1"]={"code":"A1M 2M1","region":"Newfoundland and Labrador","city":"Portugal Cove-St. Phillip's","latitude":43.70011,"longitude":-79.4163}}(window,'GeoPostal','CA');

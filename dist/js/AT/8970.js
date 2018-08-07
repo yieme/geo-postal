@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8970"]={"code":"8970","region":"Steiermark","city":"Schladming","latitude":47.39289,"longitude":13.68699}}(window,'GeoPostal','AT');

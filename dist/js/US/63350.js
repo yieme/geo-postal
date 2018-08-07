@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63350"]={"code":"63350","region":"MO","city":"High Hill","latitude":38.8902,"longitude":-91.3715}}(window,'GeoPostal','US');

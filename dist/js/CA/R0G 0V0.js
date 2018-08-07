@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0G 0V0"]={"code":"R0G 0V0","region":"Manitoba","city":"Gretna","latitude":49.00779,"longitude":-97.56241}}(window,'GeoPostal','CA');

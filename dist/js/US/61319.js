@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61319"]={"code":"61319","region":"IL","city":"Cornell","latitude":41.031,"longitude":-88.7668}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97080"]={"code":"97080","region":"Oregon","city":"Gresham","latitude":45.483779,"longitude":-122.416754}}(window,'GeoPostal','US');

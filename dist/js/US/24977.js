@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24977"]={"code":"24977","region":"West Virginia","city":"Smoot","latitude":37.87861,"longitude":-80.65889}}(window,'GeoPostal','US');

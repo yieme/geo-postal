@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG4 6PN"]={"code":"DG4 6PN","region":"Scotland","city":"Kirkconnel","latitude":55.38561,"longitude":-3.99836}}(window,'GeoPostal','GB');

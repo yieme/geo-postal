@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67102"]={"code":"67102","region":"Kansas","city":"Maple City","latitude":37.07808,"longitude":-96.78798}}(window,'GeoPostal','US');

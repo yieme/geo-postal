@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62746"]={"code":"62746","region":"IL","city":"Springfield","latitude":39.8,"longitude":-89.64}}(window,'GeoPostal','US');

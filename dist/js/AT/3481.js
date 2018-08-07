@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3481"]={"code":"3481","region":"Niederosterreich","city":"Fels am Wagram","latitude":48.43333,"longitude":15.81667}}(window,'GeoPostal','AT');

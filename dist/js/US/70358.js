@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70358"]={"code":"70358","region":"Louisiana","city":"Grand Isle","latitude":29.23662,"longitude":-89.98729}}(window,'GeoPostal','US');

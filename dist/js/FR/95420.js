@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95420"]={"code":"95420","region":"Ile-de-France","city":"Magny-en-Vexin","latitude":49.15515,"longitude":1.78669}}(window,'GeoPostal','FR');

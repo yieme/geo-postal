@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14100"]={"code":"14100","region":"Pulau Pinang","city":"Juru","latitude":5.31201,"longitude":100.44229}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28075"]={"code":"28075","region":"North Carolina","city":"Harrisburg","latitude":35.32375,"longitude":-80.6559}}(window,'GeoPostal','US');

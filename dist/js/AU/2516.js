@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2516"]={"code":"2516","region":"New South Wales","city":"Bulli","latitude":-34.33333,"longitude":150.91667}}(window,'GeoPostal','AU');

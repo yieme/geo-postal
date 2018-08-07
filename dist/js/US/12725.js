@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12725"]={"code":"12725","region":"NY","city":"Claryville","latitude":41.9657,"longitude":-74.5293}}(window,'GeoPostal','US');

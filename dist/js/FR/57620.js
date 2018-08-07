@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57620"]={"code":"57620","region":"Grand-Est","city":"Goetzenbruck","latitude":48.97778,"longitude":7.3796}}(window,'GeoPostal','FR');

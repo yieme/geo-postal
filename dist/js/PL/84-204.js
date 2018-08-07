@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-204"]={"code":"84-204","region":"Pomorskie","city":"Wejherowo","latitude":54.60568,"longitude":18.23559}}(window,'GeoPostal','PL');

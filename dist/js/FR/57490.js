@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57490"]={"code":"57490","region":"Grand-Est","city":"Carling","latitude":49.16761,"longitude":6.71596}}(window,'GeoPostal','FR');

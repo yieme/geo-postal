@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA14 4TA"]={"code":"CA14 4TA","region":"England","city":"Branthwaite","latitude":54.61006,"longitude":-3.45932}}(window,'GeoPostal','GB');

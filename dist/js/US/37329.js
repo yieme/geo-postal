@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37329"]={"code":"37329","region":"TN","city":"Englewood","latitude":35.4272,"longitude":-84.4833}}(window,'GeoPostal','US');

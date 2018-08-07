@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65080"]={"code":"65080","region":"MO","city":"Tebbetts","latitude":38.6402,"longitude":-91.9673}}(window,'GeoPostal','US');

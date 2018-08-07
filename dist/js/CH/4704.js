@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4704"]={"code":"4704","region":"Bern","city":"Niederbipp","latitude":47.26613,"longitude":7.69461}}(window,'GeoPostal','CH');
